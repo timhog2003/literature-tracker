@@ -1,0 +1,32 @@
+name: fetch-papers
+
+on:
+  schedule:
+    - cron: "30 1 * * *"
+  workflow_dispatch:
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: 拉 41 个 RSS + M3 分类翻译
+        env:
+          MINIMAX_API_KEY: ${{ secrets.MINIMAX_API_KEY }}
+          MAX_WORKERS: "4"
+        run: python3 scripts/fetch_rss.py
+      - name: 提交更新
+        run: |
+          git config user.name "literature-bot"
+          git config user.email "bot@users.noreply.github.com"
+          if git diff --quiet data/papers.json; then
+            echo "无变化"
+          else
+            git add data/papers.json
+            git commit -m "data: 更新 $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            git push
+          fi
