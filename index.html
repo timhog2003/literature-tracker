@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>研读新知 · 每日追踪 · 社会保障与老龄健康</title>
+  <meta name="description" content="跟踪 NBER、英文顶刊、中文顶刊与目标学者在社会保障、老年照护、医疗改革、社会工作、老龄健康领域的新论文。">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Serif+SC:wght@400;600;700;900&family=Playfair+Display:ital,wght@0,600;0,700;0,900;1,600&family=JetBrains+Mono:wght@400;500&family=Source+Serif+4:ital,wght@0,400;0,600;0,700;1,400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="static/css/theme-foundations.css">
+  <link rel="stylesheet" href="static/css/theme-light.css">
+  <link rel="stylesheet" href="static/css/theme-dark.css">
+  <link rel="stylesheet" href="static/css/components.css">
+</head>
+<body data-theme="light">
+
+  <!-- Masthead -->
+  <header class="masthead">
+    <div class="masthead-top">
+      <div class="kicker">
+        <span class="kicker-bar"></span>
+        <span class="kicker-text">DAILY ACADEMIC BRIEFING</span>
+      </div>
+      <h1 class="brand">
+        <span class="brand-zh">研读新知</span>
+        <span class="brand-zh brand-zh-light">· 每日追踪</span>
+      </h1>
+    </div>
+    <div class="dateline">
+      <span class="dateline-date" id="today-date">--</span>
+      <div class="dateline-stats">
+        <span><b id="paper-count">0</b> 期刊论文</span>
+        <span><b id="journal-count">0</b> 跟踪期刊</span>
+        <span>最近更新 <b id="last-update">--</b></span>
+      </div>
+    </div>
+  </header>
+
+  <!-- Tab nav -->
+  <nav class="tabbar" role="tablist" aria-label="栏目">
+    <button class="tab active" data-tab="journals"        role="tab">
+      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/></svg>
+      期刊追踪
+    </button>
+    <button class="tab" data-tab="scholars"        role="tab">
+      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 10v6M2 10l10-5 10 5-10 5z"/><path d="M6 12v5c3 3 9 3 12 0v-5"/></svg>
+      学者追踪
+    </button>
+    <button class="tab" data-tab="social-security" role="tab">
+      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 21h18M5 21V8l7-5 7 5v13M9 21v-7h6v7"/></svg>
+      社会保障
+    </button>
+    <button class="tab" data-tab="health-reform"   role="tab">
+      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M19 14V6a2 2 0 0 0-2-2H7a2 2 0 0 0-2 2v8a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2z"/><path d="M12 6v12M9 9h6"/></svg>
+      医疗改革
+    </button>
+    <button class="tab" data-tab="elder-care"      role="tab">
+      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/></svg>
+      老年照护
+    </button>
+    <button class="tab" data-tab="social-work"     role="tab">
+      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="8" r="4"/><path d="M3 21v-1a6 6 0 0 1 6-6h6a6 6 0 0 1 6 6v1"/></svg>
+      社会工作
+    </button>
+    <div class="tab-actions">
+      <input type="search" id="search" placeholder="搜索标题 / 作者…" aria-label="搜索">
+      <button id="theme-toggle" aria-label="切换主题">🌗</button>
+    </div>
+  </nav>
+
+  <!-- Body: 2-column -->
+  <main class="layout" id="layout">
+    <div id="loading" class="loading-bar">正在加载数据…</div>
+
+    <section id="section-journals"        class="tabpane active" data-tab="journals"></section>
+    <section id="section-scholars"        class="tabpane"        data-tab="scholars" hidden></section>
+    <section id="section-social-security" class="tabpane"        data-tab="social-security" hidden></section>
+    <section id="section-health-reform"   class="tabpane"        data-tab="health-reform" hidden></section>
+    <section id="section-elder-care"      class="tabpane"        data-tab="elder-care" hidden></section>
+    <section id="section-social-work"     class="tabpane"        data-tab="social-work" hidden></section>
+  </main>
+
+  <footer class="footer">
+    <p>数据来源：用户 Zotero RSS 订阅（<span id="footer-feeds">41</span> 个）· 每日 cron 自动更新</p>
+    <p class="footer-sub">
+      本地起服务：<code>python3 -m http.server 8000</code>
+    </p>
+  </footer>
+
+  <!-- 论文详情弹窗（yandu-style） -->
+  <div class="modal" id="paperModal" hidden aria-hidden="true" role="dialog" aria-modal="true" aria-labelledby="modalTitle">
+    <div class="modal-overlay" data-close></div>
+    <article class="modal-dialog">
+      <header class="modal-head">
+        <div class="modal-kicker" id="modalKicker">JOURNAL</div>
+        <button class="modal-close" data-close aria-label="关闭">✕ 关闭</button>
+      </header>
+      <div class="modal-body">
+        <div class="modal-grid">
+          <main class="modal-main">
+            <h2 class="modal-zh" id="modalTitle"></h2>
+            <p class="modal-en" id="modalEn"></p>
+            <section class="modal-section" id="modalSecZh">
+              <h3 class="modal-h3">中文摘要</h3>
+              <div class="modal-prose modal-prose-zh" id="modalAbsZh"></div>
+            </section>
+            <section class="modal-section" id="modalSecEn">
+              <h3 class="modal-h3">英文摘要</h3>
+              <div class="modal-prose" id="modalAbsEn"></div>
+            </section>
+          </main>
+          <aside class="modal-rail">
+            <dl class="modal-meta">
+              <dt>刊名 <span>JOURNAL</span></dt>      <dd id="modalJournal"></dd>
+              <dt>发表 <span>PUBLISHED</span></dt>     <dd id="modalDate"></dd>
+              <dt>领域 <span>DOMAIN</span></dt>        <dd id="modalDomain"></dd>
+              <dt>原文 <span>LINK</span></dt>         <dd><a id="modalLink" target="_blank" rel="noopener">阅读 ↗</a></dd>
+            </dl>
+            <p class="modal-hint">ESC 关闭 · 点击标题跳原文</p>
+          </aside>
+        </div>
+      </div>
+    </article>
+  </div>
+
+  <script src="static/js/app-core.js"></script>
+  <script src="static/js/app-render.js"></script>
+  <script src="static/js/app-init.js"></script>
+</body>
+</html>

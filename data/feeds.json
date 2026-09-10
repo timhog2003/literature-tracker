@@ -1,0 +1,168 @@
+{
+  "feeds": [
+    {
+      "name": "American Economic Review",
+      "url": "https://pubs.aeaweb.org/rss/etoc/aer"
+    },
+    {
+      "name": "China Economic Review",
+      "url": "http://rss.sciencedirect.com/publication/science/1043951X"
+    },
+    {
+      "name": "Econometrica",
+      "url": "https://onlinelibrary.wiley.com/feed/14680262/most-recent"
+    },
+    {
+      "name": "International Economic Review:",
+      "url": "https://onlinelibrary.wiley.com/feed/14682354/most-recent"
+    },
+    {
+      "name": "International Journal of Nursing Studies",
+      "url": "https://rss.sciencedirect.com/publication/science/00207489"
+    },
+    {
+      "name": "Journal of Applied Econometrics",
+      "url": "http://onlinelibrary.wiley.com/rss/journal/10.1002/(ISSN)1099-1255"
+    },
+    {
+      "name": "Journal of Comparative Economics",
+      "url": "http://rss.sciencedirect.com/publication/science/01475967"
+    },
+    {
+      "name": "Journal of Development Economics",
+      "url": "https://rss.sciencedirect.com/publication/science/03043878"
+    },
+    {
+      "name": "Journal of Econometrics",
+      "url": "https://rss.sciencedirect.com/publication/science/03044076"
+    },
+    {
+      "name": "Journal of Financial Economics",
+      "url": "https://rss.sciencedirect.com/publication/science/0304405X"
+    },
+    {
+      "name": "Journal of Health Economics",
+      "url": "https://rss.sciencedirect.com/publication/science/01676296"
+    },
+    {
+      "name": "Journal of International Economics",
+      "url": "https://rss.sciencedirect.com/publication/science/00221996"
+    },
+    {
+      "name": "Journal of Monetary Economics",
+      "url": "https://rss.sciencedirect.com/publication/science/03043932"
+    },
+    {
+      "name": "Journal of Political Economy",
+      "url": "https://www.journals.uchicago.edu/action/showFeed?type=etoc&feed=rss&jc=jpe"
+    },
+    {
+      "name": "Journal of Public Economics",
+      "url": "https://rss.sciencedirect.com/publication/science/00472727"
+    },
+    {
+      "name": "Journal of Urban Economics",
+      "url": "http://rss.sciencedirect.com/publication/science/00941190"
+    },
+    {
+      "name": "Journal of the European Economic Association",
+      "url": "https://academic.oup.com/rss/site_5571/3427.xml"
+    },
+    {
+      "name": "Review of Finance Current Issue",
+      "url": "https://academic.oup.com/rss/site_5510/3371.xml"
+    },
+    {
+      "name": "Social Science & Medicine",
+      "url": "https://rss.sciencedirect.com/publication/science/02779536"
+    },
+    {
+      "name": "The Economic Journal",
+      "url": "https://academic.oup.com/rss/site_6182/4014.xml"
+    },
+    {
+      "name": "The Journal of Finance",
+      "url": "https://onlinelibrary.wiley.com/feed/15406261/most-recent"
+    },
+    {
+      "name": "The Journal of Industrial Economics",
+      "url": "https://onlinelibrary.wiley.com/feed/14676451/most-recent"
+    },
+    {
+      "name": "The Journal of Law and Economics",
+      "url": "https://www.journals.uchicago.edu/action/showFeed?type=etoc&feed=rss&jc=jle"
+    },
+    {
+      "name": "The Quarterly Journal of Economics",
+      "url": "https://academic.oup.com/rss/site_5504/3365.xml"
+    },
+    {
+      "name": "The RAND Journal of Economics",
+      "url": "https://onlinelibrary.wiley.com/feed/17562171/most-recent"
+    },
+    {
+      "name": "The Review of Economic Studies",
+      "url": "https://academic.oup.com/rss/site_5508/3369.xml"
+    },
+    {
+      "name": "The Review of Financial Studies",
+      "url": "https://academic.oup.com/rss/site_5511/3372.xml"
+    },
+    {
+      "name": "世界经济",
+      "url": "https://nxgp.cnki.net/knavi/rss/SJJJ"
+    },
+    {
+      "name": "中国人口科学",
+      "url": "https://nxgp.cnki.net/knavi/rss/ZKRK"
+    },
+    {
+      "name": "中国农村经济",
+      "url": "https://rss.cnki.net/knavi/rss/ZNJJ?pcode=CJFD,CCJD"
+    },
+    {
+      "name": "中国工业经济",
+      "url": "https://rss.cnki.net/knavi/rss/GGYY?pcode=CJFD,CCJD"
+    },
+    {
+      "name": "中国社会科学",
+      "url": "https://nxgp.cnki.net/knavi/rss/ZSHK"
+    },
+    {
+      "name": "农业经济问题",
+      "url": "https://rss.cnki.net/knavi/rss/NJWT?pcode=CJFD,CCJD"
+    },
+    {
+      "name": "卫生经济研究",
+      "url": "https://rss.cnki.net/knavi/rss/WSJJ?pcode=CJFD,CCJD"
+    },
+    {
+      "name": "数量经济技术经济研究",
+      "url": "https://rss.cnki.net/knavi/rss/SLJY?pcode=CJFD,CCJD"
+    },
+    {
+      "name": "管理世界",
+      "url": "https://rss.cnki.net/knavi/rss/GLSJ?pcode=CJFD,CCJD"
+    },
+    {
+      "name": "经济学(季刊)",
+      "url": "https://rss.cnki.net/knavi/rss/JJXU?pcode=CJFD,CCJD"
+    },
+    {
+      "name": "经济学动态",
+      "url": "https://nxgp.cnki.net/knavi/rss/JJXD"
+    },
+    {
+      "name": "经济研究",
+      "url": "https://rss.cnki.net/knavi/rss/JJYJ?pcode=CJFD,CCJD"
+    },
+    {
+      "name": "统计研究",
+      "url": "https://nxgp.cnki.net/knavi/rss/TJYJ"
+    },
+    {
+      "name": "金融研究",
+      "url": "https://nxgp.cnki.net/knavi/rss/JRYJ"
+    }
+  ]
+}

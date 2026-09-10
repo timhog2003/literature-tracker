@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+
+# Stata MCP traces
+.statamcp/
+
+# .certs/ contains a CA bundle for systems with broken Python certs (macOS python.org install).
+# Commit it once; it's ~190KB and helps local dev without `pip install certifi`.
+
+# 本地 API key 配置（不提交）
+.env
+.env.local
+
