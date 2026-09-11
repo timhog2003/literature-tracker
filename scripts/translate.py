@@ -46,8 +46,8 @@ except ImportError:
     SSL_CTX = ssl.create_default_context(cafile=str(bundled)) if bundled.exists() \
               else ssl.create_default_context()
 
-def call_m3(system: str, user: str, max_tokens: int = 800, retries: int = 3) -> str:
-    """调 MiniMax M3，返回 assistant content。失败抛异常。"""
+def call_m3(system: str, user: str, max_tokens: int = 2000, retries: int = 3) -> str:
+    """调 MiniMax M3，返回 assistant content。M3 偶把答案放 reasoning_content，优先取。失败抛异常。"""
     body = json.dumps({
         "model": MODEL,
         "messages": [
@@ -66,7 +66,15 @@ def call_m3(system: str, user: str, max_tokens: int = 800, retries: int = 3) -> 
             })
             with urllib.request.urlopen(req, timeout=60, context=SSL_CTX) as r:
                 resp = json.loads(r.read())
-            return resp["choices"][0]["message"]["content"]
+            msg = resp["choices"][0]["message"]
+            # ponytail: M3 有时把答案放 reasoning_content 而非 content
+            content = (msg.get("content") or "").strip()
+            if content:
+                return content
+            reasoning = (msg.get("reasoning_content") or "").strip()
+            if reasoning:
+                return reasoning
+            return ""  # 两者都空
         except (urllib.error.HTTPError, urllib.error.URLError, KeyError, json.JSONDecodeError) as e:
             last = e
             if attempt < retries:

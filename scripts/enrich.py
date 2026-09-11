@@ -43,10 +43,17 @@ for p in all_papers:
     unique.append(p)
 
 todo = [p for p in unique if not (p.get("abstract", "").strip() and len(p.get("abstract", "")) > 80 and "Author(s):" not in p.get("abstract", ""))]
-print(f"→ 共 {len(unique)} 篇，{len(todo)} 篇需要补 CrossRef 摘要")
+# ponytail: 重译目标 — 英文论文 + 有 abstract 但缺 abstractZh（之前 M3 截断）
+need_translate = [p for p in unique if (
+    p.get("titleZh") and p.get("title") != p.get("titleZh")
+    and p.get("abstract", "").strip() and len(p["abstract"]) > 80
+    and not p.get("abstractZh", "").strip()
+)]
+print(f"→ 共 {len(unique)} 篇，{len(todo)} 篇需要补 CrossRef 摘要，{len(need_translate)} 篇需要重译摘要")
 if max_process:
     todo = todo[:max_process]
-    print(f"→ 本次处理 {len(todo)} 篇")
+    need_translate = need_translate[:max_process]
+    print(f"→ 本次 CrossRef {len(todo)} 篇 / 重译 {len(need_translate)} 篇")
 
 n = enrich_abstracts(todo, only_missing=True)
 print(f"✓ CrossRef 补摘要 {n} 篇")
