@@ -24,6 +24,7 @@ from datetime import date, datetime, timezone
 from email.utils import parsedate_to_datetime
 from html import unescape
 from pathlib import Path
+import socket
 
 # 把 scripts/ 加到 path 以便 import translate
 sys.path.insert(0, str(Path(__file__).resolve().parent))
@@ -161,7 +162,8 @@ NS = {
 
 # --- HTTP ------------------------------------------------------------------
 
-def http_get(url: str, retries: int = 2) -> bytes:
+def http_get(url: str, retries: int = 1, timeout: int = 10) -> bytes:
+    """拉 RSS/Atom，10s 超时 + 1 次重试。超时即返回空（被 caller 当作空 feed）。"""
     req = urllib.request.Request(url, headers={
         "User-Agent": USER_AGENT,
         "Accept": "application/rss+xml, application/atom+xml, application/xml, */*",
@@ -169,12 +171,12 @@ def http_get(url: str, retries: int = 2) -> bytes:
     last_err = None
     for attempt in range(retries + 1):
         try:
-            with urllib.request.urlopen(req, timeout=30, context=SSL_CTX) as r:
+            with urllib.request.urlopen(req, timeout=timeout, context=SSL_CTX) as r:
                 return r.read()
-        except (urllib.error.HTTPError, urllib.error.URLError) as e:
+        except (urllib.error.HTTPError, urllib.error.URLError, TimeoutError, socket.timeout) as e:
             last_err = e
             if attempt < retries:
-                time.sleep(2 ** attempt)
+                time.sleep(0.5)
     raise last_err  # type: ignore[misc]
 
 
@@ -333,11 +335,11 @@ def main() -> int:
     for f in feeds:
         name, url = f["name"], f["url"]
         try:
-            xml_bytes = http_get(url)
+            xml_bytes = http_get(url, timeout=10)
             items = parse_feed(xml_bytes, name)
         except Exception as e:  # noqa: BLE001
-            print(f"  ! {name}: {e}", file=sys.stderr)
-            time.sleep(0.5)
+            print(f"  ! {name}: {type(e).__name__}: {str(e)[:80]}", file=sys.stderr)
+            time.sleep(0.2)
             continue
         added = 0
         for it in items:
