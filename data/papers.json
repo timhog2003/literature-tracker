@@ -1,6 +1,6 @@
 {
   "date": "2026-09-11",
-  "fetched": "2026-09-11T01:38:00+00:00",
+  "fetched": "2026-09-11T07:17:49+00:00",
   "domains": {
     "socialSecurity": [
       {
@@ -14,11 +14,10 @@
         "topics": [],
         "firstSeen": "2026-08-25",
         "domains": [
-          "socialSecurity",
           "agingHealth",
-          "elderCare"
+          "socialSecurity"
         ],
-        "titleZh": "退休生活中的长寿、健康与住房风险管理",
+        "titleZh": "退休后的长寿、健康与住房风险管理",
         "abstractZh": ""
       },
       {
@@ -32,27 +31,10 @@
         "topics": [],
         "firstSeen": "2026-08-24",
         "domains": [
-          "socialSecurity",
-          "agingHealth"
-        ],
-        "titleZh": "老龄化经济中的地方冲击与区域动态",
-        "abstractZh": ""
-      },
-      {
-        "title": "To Grandmother's House We Go: Informal Childcare and Female Labor Mobility",
-        "url": "https://onlinelibrary.wiley.com/doi/10.1111/iere.70067?af=R",
-        "date": "2026-07-29",
-        "abstract": "ABSTRACT\n                  We document how childcare costs and the location of extended family influence the labor supply and mobility of US women. Women return to their home locations immediately before fertility events, suggesting that informal childcare needs may motivate home migration. Women who live near their parents have lower child earnings penalties. We then build a model of labor supply and migration to assess the impacts of childcare subsidies. Childcare subsidies increase earnings and mobility among US women and ignoring migration can understate the welfare benefits of these policies, especially for college‐educated women and those whose parents' locations have poor amenities.",
-        "source": "International Economic Review:",
-        "id": "https://onlinelibrary.wiley.com/doi/10.1111/iere.70067?af=R",
-        "authors": [],
-        "topics": [],
-        "firstSeen": "2026-07-29",
-        "domains": [
-          "socialWork",
+          "agingHealth",
           "socialSecurity"
         ],
-        "titleZh": "去奶奶家：非正式儿童照护与女性劳动力流动",
+        "titleZh": "老龄经济中的局部冲击与区域动态",
         "abstractZh": ""
       },
       {
@@ -68,24 +50,41 @@
         "domains": [
           "socialSecurity"
         ],
-        "titleZh": "社会保障改革、退休与部门决策",
+        "titleZh": "社会保障改革、退休与行业决策",
         "abstractZh": ""
       },
       {
-        "title": "“Immigration, Search and Redistribution: A Quantitative Assessment of Native Welfare:” Comment",
-        "url": "https://academic.oup.com/jeea/article/24/3/1185/8239789?rss=1",
-        "date": "2025-08-22",
-        "abstract": "AbstractIn “Immigration, search and redistribution: A quantitative assessment of native welfare,” a paper by Battisti et al. published in the August 2018 issue of the Journal of the European Economic Association, the authors inquire about how migration to 20 Organization for Economic Cooperation and Development (OECD) countries affects the welfare of the countries’ native workers. In this comment, we raise several concerns regarding the analytical and the empirical parts of the Battisti et al.’s inquiry that bear on this effect. In particular, when Battisti et al. formulate a rule for the divi",
-        "source": "Journal of the European Economic Association",
-        "id": "https://academic.oup.com/jeea/article/24/3/1185/8239789?rss=1",
+        "title": "Social Status, Inequality, and Redistribution",
+        "url": "https://onlinelibrary.wiley.com/doi/10.1111/iere.70088?af=R",
+        "date": "2026-07-08",
+        "abstract": "ABSTRACT\n                  We explore implications of social status concerns for redistribution, income inequality, and growth in a political economy framework. Salience of such concerns leads to a propagation mechanism, whereby initial income inequality and reduced willingness to redistribute income reinforce each other, potentially giving rise to multiple steady states. An extension illustrates the possibility of a high redistribution cum low inequality steady state resulting in a higher steady‐state income level. Some of the model features are shown to be consistent with empirical regularities as reflected in survey data on social status attitudes.",
+        "source": "International Economic Review:",
+        "id": "https://onlinelibrary.wiley.com/doi/10.1111/iere.70088?af=R",
         "authors": [],
         "topics": [],
-        "firstSeen": "2025-08-22",
+        "firstSeen": "2026-09-11",
         "domains": [
           "socialSecurity"
         ],
-        "titleZh": "“移民、搜寻与再分配：对本地居民福利的定量评估”的评论",
-        "abstractZh": "在Battisti等人于2018年8月《欧洲经济协会杂志》(Journal of the European Economic Association)上发表的论文《移民、搜寻与再分配：对本地居民福利的定量评估》中，作者探讨了向20个经济合作与发展组织(OECD)国家的移民如何影响这些国家本地工人的福利。在本评论中，我们就Battisti等人关于该效应的研究在分析层面和实证层面提出了若干关切。具体而言，当Battisti等人针对……"
+        "titleZh": "社会地位、不平等与再分配",
+        "abstractZh": ""
+      },
+      {
+        "title": "Policies for Early Childhood Skills Formation: Accounting for Parental Choices and Noncognitive Skills",
+        "url": "https://academic.oup.com/jeea/article/24/3/1150/8361452?rss=1",
+        "date": "2025-11-29",
+        "abstract": "AbstractWhat are the returns in terms of children’s skills development to child allowance policies? Answering this question requires a theory of the trade-offs faced by households, as well as a realistic technology of skills formation. I build a model of parental choices that embeds the technology of cognitive and non-cognitive skills formation estimated by Cunha, Heckman, and Schennach (2010), featuring risky investment in children, time use trade-offs, idiosyncratic income risk, and borrowing constraints. Accounting for non-cognitive skills implies higher effectiveness of parental investment",
+        "source": "Journal of the European Economic Association",
+        "id": "https://academic.oup.com/jeea/article/24/3/1150/8361452?rss=1",
+        "authors": [],
+        "topics": [],
+        "firstSeen": "2026-09-11",
+        "domains": [
+          "socialSecurity",
+          "socialWork"
+        ],
+        "titleZh": "早期儿童技能形成政策：考虑父母选择与非认知技能",
+        "abstractZh": "关于儿童津贴政策对儿童技能发展的回报是什么？回答这一问题需要建立家庭面临权衡的理论，并采用现实的技能形成技术。本文构建了一个父母选择模型，其中嵌入了Cunha、Heckman与Schennach（2010）所估算的认知与非认知技能形成技术，模型涵盖了子女投资的风险性、时间使用的权衡、异质性收入风险以及借贷约束。考虑非认知技能因素后，父母投资的有效性显著提高。"
       },
       {
         "title": "The impact of artificial intelligence exposure on delayed retirement behavior: Evidence from China",
@@ -98,26 +97,26 @@
         "topics": [],
         "firstSeen": "2026-08-11",
         "domains": [
-          "socialSecurity"
+          "socialSecurity",
+          "agingHealth"
         ],
         "titleZh": "人工智能暴露对延迟退休行为的影响：来自中国的证据",
         "abstractZh": ""
       },
       {
-        "title": "Settling prosperity: Historical immigration and its long-term institutional legacies",
-        "url": "https://www.sciencedirect.com/science/article/pii/S0147596726000302?dgcid=rss_sd_all",
+        "title": "How do housing rents affect migrants' health? Evidence from the China migrants dynamic survey",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1043951X26000416?dgcid=rss_sd_all",
         "date": "",
         "abstract": "",
-        "source": "Journal of Comparative Economics",
-        "id": "https://www.sciencedirect.com/science/article/pii/S0147596726000302?dgcid=rss_sd_all",
+        "source": "China Economic Review",
+        "id": "https://www.sciencedirect.com/science/article/pii/S1043951X26000416?dgcid=rss_sd_all",
         "authors": [],
         "topics": [],
-        "firstSeen": "2026-08-11",
+        "firstSeen": "2026-09-11",
         "domains": [
-          "socialSecurity",
-          "socialWork"
+          "socialSecurity"
         ],
-        "titleZh": "定居的繁荣：历史移民及其长期制度遗产",
+        "titleZh": "住房租金如何影响流动人口的健康？来自中国流动人口动态监测调查的证据",
         "abstractZh": ""
       },
       {
@@ -131,26 +130,27 @@
         "topics": [],
         "firstSeen": "2026-08-11",
         "domains": [
-          "agingHealth",
-          "socialSecurity"
+          "socialSecurity",
+          "healthReform",
+          "agingHealth"
         ],
-        "titleZh": "迁移激励与老年健康：来自中国户籍制度改革的证据",
+        "titleZh": "迁移激励与老年健康：来自中国户籍改革的证据",
         "abstractZh": ""
       },
       {
-        "title": "The youth dividend: Political impacts of demographic transitions",
-        "url": "https://www.sciencedirect.com/science/article/pii/S0304387826001586?dgcid=rss_sd_all",
+        "title": "Monitoring and delivering: Evidence from dropout rates in Brazil",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0304387826001549?dgcid=rss_sd_all",
         "date": "",
         "abstract": "",
         "source": "Journal of Development Economics",
-        "id": "https://www.sciencedirect.com/science/article/pii/S0304387826001586?dgcid=rss_sd_all",
+        "id": "https://www.sciencedirect.com/science/article/pii/S0304387826001549?dgcid=rss_sd_all",
         "authors": [],
         "topics": [],
-        "firstSeen": "2026-08-11",
+        "firstSeen": "2026-09-11",
         "domains": [
           "socialSecurity"
         ],
-        "titleZh": "青年红利：人口转型的政治影响",
+        "titleZh": "监测与交付：来自巴西辍学率的证据",
         "abstractZh": ""
       },
       {
@@ -166,7 +166,7 @@
         "domains": [
           "socialSecurity"
         ],
-        "titleZh": "养老金计划与私募股权？从投资者视角评估私募股权表现",
+        "titleZh": "私人股权与养老金计划？从投资者视角评估私人股权投资业绩",
         "abstractZh": ""
       },
       {
@@ -182,23 +182,7 @@
         "domains": [
           "socialSecurity"
         ],
-        "titleZh": "从家计调查式福利项目到全民基本收入：转移支付项目中内生参与的作用",
-        "abstractZh": ""
-      },
-      {
-        "title": "Public debt in calibrated OLG models: Fiscal arithmetic versus welfare analysis",
-        "url": "https://www.sciencedirect.com/science/article/pii/S0304393226000899?dgcid=rss_sd_all",
-        "date": "",
-        "abstract": "",
-        "source": "Journal of Monetary Economics",
-        "id": "https://www.sciencedirect.com/science/article/pii/S0304393226000899?dgcid=rss_sd_all",
-        "authors": [],
-        "topics": [],
-        "firstSeen": "2026-08-11",
-        "domains": [
-          "socialSecurity"
-        ],
-        "titleZh": "校准OLG模型中的公共债务：财政算术与福利分析",
+        "titleZh": "从家计调查式福利项目到全民基本收入——转移支付项目中内生参与的作用",
         "abstractZh": ""
       },
       {
@@ -212,10 +196,9 @@
         "topics": [],
         "firstSeen": "2026-08-11",
         "domains": [
-          "socialSecurity",
-          "socialWork"
+          "socialSecurity"
         ],
-        "titleZh": "移民执法与混合身份家庭的社会福利参与",
+        "titleZh": "移民执法与混合身份家庭的社会安全网参与",
         "abstractZh": ""
       },
       {
@@ -264,7 +247,7 @@
         "domains": [
           "socialSecurity"
         ],
-        "titleZh": "逃离临时性陷阱？基于年龄激励对永久就业影响的证据",
+        "titleZh": "逃离临时性就业陷阱？基于年龄导向的永久就业激励证据",
         "abstractZh": ""
       },
       {
@@ -280,23 +263,7 @@
         "domains": [
           "socialSecurity"
         ],
-        "titleZh": "安全网支付数字化与受益者结果：来自WIC电子福利转账（EBT）转型的证据",
-        "abstractZh": ""
-      },
-      {
-        "title": "Fairness perceptions of redistribution and predistribution",
-        "url": "https://www.sciencedirect.com/science/article/pii/S004727272600188X?dgcid=rss_sd_all",
-        "date": "",
-        "abstract": "",
-        "source": "Journal of Public Economics",
-        "id": "https://www.sciencedirect.com/science/article/pii/S004727272600188X?dgcid=rss_sd_all",
-        "authors": [],
-        "topics": [],
-        "firstSeen": "2026-08-11",
-        "domains": [
-          "socialSecurity"
-        ],
-        "titleZh": "再分配与预分配的公平感",
+        "titleZh": "安全网支付数字化与受助者结果：来自WIC EBT转型的证据",
         "abstractZh": ""
       },
       {
@@ -312,7 +279,7 @@
         "domains": [
           "socialSecurity"
         ],
-        "titleZh": "基本收入与公平：非活跃主体下的再分配",
+        "titleZh": "基本收入与公平：非活跃参与者情境下的再分配",
         "abstractZh": ""
       },
       {
@@ -326,26 +293,10 @@
         "topics": [],
         "firstSeen": "2026-08-11",
         "domains": [
-          "socialSecurity",
-          "socialWork"
-        ],
-        "titleZh": "超贫困毕业项目能否增强女性抵御气候冲击的韧性？来自埃塞俄比亚农村的证据",
-        "abstractZh": ""
-      },
-      {
-        "title": "Women’s labor subsidy: Evidence from Chile",
-        "url": "https://www.sciencedirect.com/science/article/pii/S0047272726001556?dgcid=rss_sd_all",
-        "date": "",
-        "abstract": "",
-        "source": "Journal of Public Economics",
-        "id": "https://www.sciencedirect.com/science/article/pii/S0047272726001556?dgcid=rss_sd_all",
-        "authors": [],
-        "topics": [],
-        "firstSeen": "2026-08-11",
-        "domains": [
+          "socialWork",
           "socialSecurity"
         ],
-        "titleZh": "女性劳动补贴：来自智利的证据",
+        "titleZh": "极端贫困梯度脱贫项目能否增强女性应对气候冲击的韧性？来自埃塞俄比亚农村的证据",
         "abstractZh": ""
       },
       {
@@ -359,9 +310,10 @@
         "topics": [],
         "firstSeen": "2026-08-11",
         "domains": [
-          "socialSecurity"
+          "socialSecurity",
+          "agingHealth"
         ],
-        "titleZh": "养老金改革与快速老龄化对储蓄和劳动供给的影响：来自中国的证据",
+        "titleZh": "养老金改革与快速老龄化对储蓄和劳动供给的影响：以中国为例",
         "abstractZh": ""
       },
       {
@@ -377,7 +329,24 @@
         "domains": [
           "socialSecurity"
         ],
-        "titleZh": "租金补贴的归宿：关于租金、住房选择和供给的证据",
+        "titleZh": "租金补贴的效应：关于租金、住房选择与供给的证据",
+        "abstractZh": ""
+      },
+      {
+        "title": "Impacts of childhood disability on family: Labor, marriage, fertility, and depression",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0047272726000277?dgcid=rss_sd_all",
+        "date": "",
+        "abstract": "",
+        "source": "Journal of Public Economics",
+        "id": "https://www.sciencedirect.com/science/article/pii/S0047272726000277?dgcid=rss_sd_all",
+        "authors": [],
+        "topics": [],
+        "firstSeen": "2026-08-11",
+        "domains": [
+          "socialWork",
+          "socialSecurity"
+        ],
+        "titleZh": "儿童残疾对家庭的影响：劳动、婚姻、生育与抑郁",
         "abstractZh": ""
       },
       {
@@ -398,20 +367,19 @@
         "abstractZh": ""
       },
       {
-        "title": "Does Rapid Re-Housing reduce homelessness?",
-        "url": "https://www.sciencedirect.com/science/article/pii/S0094119026000604?dgcid=rss_sd_all",
+        "title": "Early career health shocks and long-run labour market outcomes",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0277953626007689?dgcid=rss_sd_all",
         "date": "",
         "abstract": "",
-        "source": "Journal of Urban Economics",
-        "id": "https://www.sciencedirect.com/science/article/pii/S0094119026000604?dgcid=rss_sd_all",
+        "source": "Social Science & Medicine",
+        "id": "https://www.sciencedirect.com/science/article/pii/S0277953626007689?dgcid=rss_sd_all",
         "authors": [],
         "topics": [],
-        "firstSeen": "2026-08-11",
+        "firstSeen": "2026-09-11",
         "domains": [
-          "socialSecurity",
-          "socialWork"
+          "socialSecurity"
         ],
-        "titleZh": "快速再安置能否减少无家可归现象？",
+        "titleZh": "早期职业健康冲击与长期劳动力市场结果",
         "abstractZh": ""
       },
       {
@@ -428,46 +396,11 @@
           "socialSecurity",
           "socialWork"
         ],
-        "titleZh": "住房改善对新西兰低收入家庭大规模队列中儿童住院率的影响",
+        "titleZh": "住房改善对新西兰低收入家庭大型队列中儿童住院率的影响",
         "abstractZh": ""
       }
     ],
     "elderCare": [
-      {
-        "title": "Longevity, Health, and Housing Risk Management in Retirement",
-        "url": "https://onlinelibrary.wiley.com/doi/10.1111/jofi.70077?af=R",
-        "date": "2026-08-25",
-        "abstract": "ABSTRACT\n                  Annuities, long‐term care insurance, and reverse mortgages remain puzzlingly unpopular to manage post‐retirement longevity, health, and housing price risks. We use a flexible life‐cycle model structurally estimated with a unique stated‐preference survey experiment of Canadian households to understand why. Key factors include high risk aversion, concern over long‐run risks, strong discounting of valuation in disability states, imperfect housing substitutability, and bequest motives. The remaining disinterest is accounted for by information frictions and inertia. We also document evidence of public insurance crowding out, spousal co‐insurance, and responsiveness to product bundling.",
-        "source": "The Journal of Finance",
-        "id": "https://onlinelibrary.wiley.com/doi/10.1111/jofi.70077?af=R",
-        "authors": [],
-        "topics": [],
-        "firstSeen": "2026-08-25",
-        "domains": [
-          "socialSecurity",
-          "agingHealth",
-          "elderCare"
-        ],
-        "titleZh": "退休生活中的长寿、健康与住房风险管理",
-        "abstractZh": ""
-      },
-      {
-        "title": "Exploring the scope and efficacy of nurse navigators in the care of individuals with complex care needs associated with chronic conditions: A systematic review",
-        "url": "https://www.sciencedirect.com/science/article/pii/S0020748926003408?dgcid=rss_sd_all",
-        "date": "",
-        "abstract": "",
-        "source": "International Journal of Nursing Studies",
-        "id": "https://www.sciencedirect.com/science/article/pii/S0020748926003408?dgcid=rss_sd_all",
-        "authors": [],
-        "topics": [],
-        "firstSeen": "2026-08-11",
-        "domains": [
-          "socialWork",
-          "elderCare"
-        ],
-        "titleZh": "护士导航员在慢性病复杂照护需求人群中的实践范围与效果：一项系统综述",
-        "abstractZh": ""
-      },
       {
         "title": "The role dilemma of family caregivers for people living with dementia: A qualitative study",
         "url": "https://www.sciencedirect.com/science/article/pii/S0020748926003585?dgcid=rss_sd_all",
@@ -482,24 +415,7 @@
           "elderCare",
           "agingHealth"
         ],
-        "titleZh": "痴呆症患者家庭照护者的角色困境：一项定性研究",
-        "abstractZh": ""
-      },
-      {
-        "title": "Understanding nurses' roles in voluntary assisted dying in Queensland, Australia: A qualitative study",
-        "url": "https://www.sciencedirect.com/science/article/pii/S0020748926003536?dgcid=rss_sd_all",
-        "date": "",
-        "abstract": "",
-        "source": "International Journal of Nursing Studies",
-        "id": "https://www.sciencedirect.com/science/article/pii/S0020748926003536?dgcid=rss_sd_all",
-        "authors": [],
-        "topics": [],
-        "firstSeen": "2026-08-11",
-        "domains": [
-          "healthReform",
-          "elderCare"
-        ],
-        "titleZh": "理解澳大利亚昆士兰州护士在自愿辅助死亡中的角色：一项定性研究",
+        "titleZh": "痴呆患者家庭照护者的角色困境：一项定性研究",
         "abstractZh": ""
       },
       {
@@ -516,7 +432,7 @@
           "elderCare",
           "agingHealth"
         ],
-        "titleZh": "养老院居民跌倒风险感知与应对模式：一项定性研究",
+        "titleZh": "养老院居民跌倒风险感知与应对模式：一项质性研究",
         "abstractZh": ""
       },
       {
@@ -530,10 +446,10 @@
         "topics": [],
         "firstSeen": "2026-08-11",
         "domains": [
-          "elderCare",
-          "healthReform"
+          "healthReform",
+          "elderCare"
         ],
-        "titleZh": "农村地区姑息治疗的可及性：一项混合方法的系统综述",
+        "titleZh": "农村地区姑息治疗的可及性：一项混合方法系统综述",
         "abstractZh": ""
       },
       {
@@ -550,39 +466,24 @@
           "elderCare",
           "agingHealth"
         ],
-        "titleZh": "术后24至48小时内早期活动可改善老年髋部骨折患者的临床结局：一项系统综述与荟萃分析",
+        "titleZh": "24至48小时内早期活动改善髋部骨折老年患者术后临床结局：一项系统综述与荟萃分析",
         "abstractZh": ""
       },
       {
-        "title": "Delivering on person-centred fundamental care: how far have we (really) come? A 10-year retrospective",
-        "url": "https://www.sciencedirect.com/science/article/pii/S0020748926003147?dgcid=rss_sd_all",
+        "title": "Comparing the effects of different exercises on falls in older adults: A network meta-analysis of randomized controlled trials",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0020748926003202?dgcid=rss_sd_all",
         "date": "",
         "abstract": "",
         "source": "International Journal of Nursing Studies",
-        "id": "https://www.sciencedirect.com/science/article/pii/S0020748926003147?dgcid=rss_sd_all",
+        "id": "https://www.sciencedirect.com/science/article/pii/S0020748926003202?dgcid=rss_sd_all",
         "authors": [],
         "topics": [],
         "firstSeen": "2026-08-11",
         "domains": [
+          "agingHealth",
           "elderCare"
         ],
-        "titleZh": "实现以人为本的基础护理：我们（真的）走了多远？——十年回顾",
-        "abstractZh": ""
-      },
-      {
-        "title": "“You're already starting from behind” - Nurses' perspectives on trust, mistrust, and structural constraints in informal caregiver interactions: A qualitative study",
-        "url": "https://www.sciencedirect.com/science/article/pii/S0020748926003305?dgcid=rss_sd_all",
-        "date": "",
-        "abstract": "",
-        "source": "International Journal of Nursing Studies",
-        "id": "https://www.sciencedirect.com/science/article/pii/S0020748926003305?dgcid=rss_sd_all",
-        "authors": [],
-        "topics": [],
-        "firstSeen": "2026-08-11",
-        "domains": [
-          "elderCare"
-        ],
-        "titleZh": "\"你已经处于劣势\"——护士对非正式照护者互动中信任、不信任与结构性约束的视角：一项定性研究",
+        "titleZh": "比较不同运动对老年人跌倒的影响：随机对照试验的网络荟萃分析",
         "abstractZh": ""
       },
       {
@@ -596,10 +497,43 @@
         "topics": [],
         "firstSeen": "2026-08-11",
         "domains": [
-          "elderCare",
-          "healthReform"
+          "elderCare"
         ],
-        "titleZh": "意大利最高法院判决护士因照护缺失获罪：一项定性文件分析",
+        "titleZh": "意大利最高法院裁定护士因疏于照护而获罪的判决：一份定性文件分析",
+        "abstractZh": ""
+      },
+      {
+        "title": "Early warning scores as indicators of nursing hours in general wards: A cross-sectional analysis of inpatient physiological parameters",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0020748926003159?dgcid=rss_sd_all",
+        "date": "",
+        "abstract": "",
+        "source": "International Journal of Nursing Studies",
+        "id": "https://www.sciencedirect.com/science/article/pii/S0020748926003159?dgcid=rss_sd_all",
+        "authors": [],
+        "topics": [],
+        "firstSeen": "2026-08-11",
+        "domains": [
+          "elderCare"
+        ],
+        "titleZh": "早期预警评分作为普通病房护理时数的指标：一项住院患者生理参数的横断面分析",
+        "abstractZh": ""
+      },
+      {
+        "title": "“Between love and bills”- tailored personas of families coping with financial toxicity from caring for people with dementia and comorbidities: A qualitative study",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0020748926003172?dgcid=rss_sd_all",
+        "date": "",
+        "abstract": "",
+        "source": "International Journal of Nursing Studies",
+        "id": "https://www.sciencedirect.com/science/article/pii/S0020748926003172?dgcid=rss_sd_all",
+        "authors": [],
+        "topics": [],
+        "firstSeen": "2026-09-11",
+        "domains": [
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "titleZh": "\"在爱与账单之间\"——照顾痴呆共病患者的家庭应对财务毒性的差异化画像：一项质性研究",
         "abstractZh": ""
       },
       {
@@ -616,23 +550,7 @@
           "elderCare",
           "socialWork"
         ],
-        "titleZh": "协同设计以家庭为中心的干预方案以支持晚期慢性病居家照护：双钻石框架引导的研究过程",
-        "abstractZh": ""
-      },
-      {
-        "title": "Latent profile analysis of compassion fatigue among hemodialysis nurses and subtype-specific differentiated effects of core competencies and work engagement",
-        "url": "https://www.sciencedirect.com/science/article/pii/S0020748926003081?dgcid=rss_sd_all",
-        "date": "",
-        "abstract": "",
-        "source": "International Journal of Nursing Studies",
-        "id": "https://www.sciencedirect.com/science/article/pii/S0020748926003081?dgcid=rss_sd_all",
-        "authors": [],
-        "topics": [],
-        "firstSeen": "2026-08-11",
-        "domains": [
-          "elderCare"
-        ],
-        "titleZh": "血液透析护士同情疲劳的潜在剖面分析及核心能力与工作投入的亚型特异性差异化效应",
+        "titleZh": "共同设计以家庭为中心的干预措施以支持晚期慢性病的居家照护：双钻石框架引导的研究过程",
         "abstractZh": ""
       },
       {
@@ -646,11 +564,11 @@
         "topics": [],
         "firstSeen": "2026-08-11",
         "domains": [
-          "healthReform",
+          "elderCare",
           "agingHealth",
-          "elderCare"
+          "healthReform"
         ],
-        "titleZh": "在人口老龄化与医疗服务利用变化背景下三级综合医院护理人力资源需求预测：基于系统动力学模拟",
+        "titleZh": "人口老龄化与医疗服务利用变化背景下三级综合医院护理人力需求预测：系统动力学模拟",
         "abstractZh": ""
       },
       {
@@ -681,10 +599,10 @@
         "topics": [],
         "firstSeen": "2026-08-11",
         "domains": [
-          "elderCare",
-          "agingHealth"
+          "agingHealth",
+          "elderCare"
         ],
-        "titleZh": "老年人功能性依赖的社会人口不平等：来自35个国家的横断面证据",
+        "titleZh": "老年人功能依赖的社会人口学不平等：来自35个国家的横断面证据",
         "abstractZh": ""
       },
       {
@@ -698,28 +616,44 @@
         "topics": [],
         "firstSeen": "2026-08-11",
         "domains": [
-          "elderCare",
-          "healthReform"
+          "healthReform",
+          "elderCare"
         ],
-        "titleZh": "高成本服务场所能否带来更好的结果？Medicare 熟练护理机构与居家健康服务机构中的急性后护理效率",
+        "titleZh": "高成本服务场所能否带来更好的结果？Medicare专业护理机构与居家健康服务机构的急性后照护效率",
         "abstractZh": ""
       },
       {
-        "title": "Saving money, costing women: the gendered price of hospital-at-home",
-        "url": "https://www.sciencedirect.com/science/article/pii/S0277953626007380?dgcid=rss_sd_all",
+        "title": "Age-friendly community environments and depressive symptom trajectories among middle-aged and older adults in China: Evidence from the China Health and Retirement Longitudinal Study (CHARLS)",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0277953626008750?dgcid=rss_sd_all",
         "date": "",
         "abstract": "",
         "source": "Social Science & Medicine",
-        "id": "https://www.sciencedirect.com/science/article/pii/S0277953626007380?dgcid=rss_sd_all",
+        "id": "https://www.sciencedirect.com/science/article/pii/S0277953626008750?dgcid=rss_sd_all",
         "authors": [],
         "topics": [],
         "firstSeen": "2026-08-11",
         "domains": [
-          "elderCare",
-          "healthReform",
-          "socialWork"
+          "agingHealth",
+          "elderCare"
         ],
-        "titleZh": "节省费用却由女性买单：医院居家照护的性别代价",
+        "titleZh": "中国中老年人的适老社区环境与抑郁症状轨迹：来自中国健康与退休纵向研究（CHARLS）的证据",
+        "abstractZh": ""
+      },
+      {
+        "title": "How common is resilience? A growth mixture modelling analysis of well-being trajectories after disability onset in later life",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0277953626008592?dgcid=rss_sd_all",
+        "date": "",
+        "abstract": "",
+        "source": "Social Science & Medicine",
+        "id": "https://www.sciencedirect.com/science/article/pii/S0277953626008592?dgcid=rss_sd_all",
+        "authors": [],
+        "topics": [],
+        "firstSeen": "2026-08-11",
+        "domains": [
+          "agingHealth",
+          "elderCare"
+        ],
+        "titleZh": "韧性有多普遍？基于增长混合模型对老年期残障发生后幸福感轨迹的分析",
         "abstractZh": ""
       },
       {
@@ -734,9 +668,10 @@
         "firstSeen": "2026-08-11",
         "domains": [
           "elderCare",
-          "socialWork"
+          "socialWork",
+          "healthReform"
         ],
-        "titleZh": "玻璃杯半满？残障照护中的比例分配与福祉",
+        "titleZh": "半杯满？比例配给与残障照护中的福祉",
         "abstractZh": ""
       },
       {
@@ -753,7 +688,7 @@
           "elderCare",
           "agingHealth"
         ],
-        "titleZh": "痴呆症照护者临终前悲伤体验中的难题与悖论：因果回路分析",
+        "titleZh": "痴呆症照护者临终前哀伤体验中的难题与悖论：一项因果回路分析",
         "abstractZh": ""
       },
       {
@@ -770,7 +705,7 @@
           "agingHealth",
           "elderCare"
         ],
-        "titleZh": "痴呆症患者社区步行的时间性维度",
+        "titleZh": "痴呆症患者在社区中步行的时序性研究",
         "abstractZh": ""
       },
       {
@@ -784,10 +719,10 @@
         "topics": [],
         "firstSeen": "2026-08-11",
         "domains": [
-          "elderCare",
-          "socialWork"
+          "socialWork",
+          "elderCare"
         ],
-        "titleZh": "当不确定变为内疚：中国膀胱癌术后居家尿路造口护理的道德化",
+        "titleZh": "当不确定性变为内疚：中国膀胱癌术后家庭尿路造口照护的道德化",
         "abstractZh": ""
       }
     ],
@@ -821,7 +756,7 @@
         "domains": [
           "healthReform"
         ],
-        "titleZh": "保险公司竞争对保费的分布效应：来自雇主资助健康保险市场的证据",
+        "titleZh": "保险公司竞争对保费的分配效应：来自雇主赞助健康保险市场的证据",
         "abstractZh": ""
       },
       {
@@ -841,6 +776,22 @@
         "abstractZh": ""
       },
       {
+        "title": "Mechanism Design for Personalized Policy: A Field Experiment Incentivizing Exercise",
+        "url": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA21926?af=R",
+        "date": "2026-07-29",
+        "abstract": "Personalizing policies can theoretically increase their effectiveness. However, personalization is difficult when individual types are unobservable and the preferences of policymakers and individuals are not aligned, which could cause individuals to misreport their type. Mechanism design offers a strategy to overcome this issue: offer an “incentive‐compatible” menu of policy choices designed to induce participants to select the variant intended for their type. Using a field experiment that personalized incentives for exercise among 6,800 adults with diabetes and hypertension in urban India, we show that personalizing with an incentive‐compatible choice menu substantially improves program performance, increasing the treatment effect of incentives on exercise by 80% without increasing incentive costs relative to a one‐size‐fits‐all benchmark. Offering choice achieves similar performance to personalizing with an extensive set of observable variables, but without the same data requirements.",
+        "source": "Econometrica",
+        "id": "https://onlinelibrary.wiley.com/doi/10.3982/ECTA21926?af=R",
+        "authors": [],
+        "topics": [],
+        "firstSeen": "2026-09-11",
+        "domains": [
+          "healthReform"
+        ],
+        "titleZh": "个性化政策的机制设计：一项激励锻炼的田野实验",
+        "abstractZh": ""
+      },
+      {
         "title": "Deniers and Compliers: Unpacking the Heterogeneous Effectiveness of U.S. Stay‐at‐Home Mandates During the COVID‐19 Pandemic",
         "url": "https://onlinelibrary.wiley.com/doi/10.1002/jae.70080?af=R",
         "date": "2026-07-15",
@@ -851,42 +802,28 @@
         "topics": [],
         "firstSeen": "2026-07-15",
         "domains": [
-          "healthReform"
+          "healthReform",
+          "agingHealth",
+          "socialWork"
         ],
         "titleZh": "否认者与遵从者：解析美国新冠疫情期间居家令效果的异质性",
         "abstractZh": ""
       },
       {
-        "title": "Public Services Under Private Management*",
-        "url": "https://academic.oup.com/qje/article/141/3/2597/8676724?rss=1",
-        "date": "2026-05-12",
-        "abstract": "AbstractTheory predicts that outsourcing public services to the private sector can reduce costs and improve efficiency but can also induce cost-cutting and compromise quality. We assess the Brazilian Organizações Sociais de Saude model (OSS), which outsources management of public hospital services to the private sector while the state remains the residual claimant. We show that this enhances hospital production and operational efficiency without adverse effects on hospital quality and equity. Increased inpatient production addresses previously unmet demand, expanding local access to hospital c",
+        "title": "Why Doesn’t the United States Have National Health Insurance? The Political Role of the American Medical Association",
+        "url": "https://academic.oup.com/qje/article/141/3/2147/8669893?rss=1",
+        "date": "2026-05-05",
+        "abstract": "AbstractThis article examines how the American Medical Association (AMA) helped shape the development of the U.S. health insurance system in the critical period after World War II. Working with the political public relations firm Campaigns, Inc., the AMA launched a nationwide campaign to weaken support for national health insurance by framing it as “socialized medicine,” while simultaneously enrolling people in private health insurance plans to shift demand away from a public alternative. Drawing on newly assembled archival data, we find that greater exposure to the campaign explains about 20%",
         "source": "The Quarterly Journal of Economics",
-        "id": "https://academic.oup.com/qje/article/141/3/2597/8676724?rss=1",
+        "id": "https://academic.oup.com/qje/article/141/3/2147/8669893?rss=1",
         "authors": [],
         "topics": [],
-        "firstSeen": "2026-05-12",
+        "firstSeen": "2026-09-11",
         "domains": [
           "healthReform"
         ],
-        "titleZh": "私营管理下的公共服务",
-        "abstractZh": "理论预测，将公共服务外包给私营部门可以降低成本并提高效率，但也可能诱发成本削减并损害服务质量的案例质量。本文评估了巴西的\"卫生社会组织\"（Organizações Sociais de Saude, OSS）模式，该模式将公立医院服务的管理外包给私营部门，同时由国家承担剩余索取人角色。研究表明，这一模式提升了医院产出和运营效率，且对医院质量和公平性未产生不利影响。住院产出的增长满足了此前未得到满足的需求，扩大了当地的医院服务可及性。"
-      },
-      {
-        "title": "Paying off the competition: contracting, market power, and innovation incentives",
-        "url": "https://academic.oup.com/rof/article/30/4/1261/8171919?rss=1",
-        "date": "2025-06-23",
-        "abstract": "AbstractThis article explores the relationship between a firm’s legal contracting environment and its innovation incentives. Using granular data from the pharmaceutical industry, we examine a contracting mechanism through which incumbents maintain market power: “pay-for-delay” agreements to delay the market entry of competitors. Exploiting a shock where such contracts become legally tenuous, we find that affected incumbents subsequently increase their innovation activity across a variety of project-level measures. Exploring the nature of this innovation, we also find that it is more “impactful",
-        "source": "Review of Finance Current Issue",
-        "id": "https://academic.oup.com/rof/article/30/4/1261/8171919?rss=1",
-        "authors": [],
-        "topics": [],
-        "firstSeen": "2025-06-23",
-        "domains": [
-          "healthReform"
-        ],
-        "titleZh": "收买竞争对手：合同、市场势力与创新激励",
-        "abstractZh": "摘要 本文探讨了企业所处的法律合同环境与其创新激励之间的关系。利用制药行业的精细数据，我们考察了一种在位企业维持市场势力的合同机制：旨在推迟竞争者进入市场的\"付费延迟\"协议。利用此类合同在法律上变得不确定的一次外生冲击，我们发现受影响的在位企业随后在多种项目层面的衡量指标上增加了创新活动。通过对创新性质的分析，我们还发现这些创新更具\"影响力\""
+        "titleZh": "为什么美国没有国家健康保险？美国医学会的政治角色",
+        "abstractZh": "摘要：本文考察了在二战后关键时期，美国医学会（AMA）如何塑造美国医疗保险制度的发展。美国医学会与政治公关公司 Campaigns, Inc. 合作，发起了一场全国性运动，通过将国家健康保险定性为\"社会化医疗\"来削弱公众对其的支持，同时将民众纳入私人健康保险计划，以将需求从公共替代方案中转移。基于新近整理的档案数据，我们发现，对该运动暴露程度较高的地区，对国家健康保险的支持下降约20%。"
       },
       {
         "title": "Defying Distance? The Provision of Medical Services in the Digital Age",
@@ -901,8 +838,8 @@
         "domains": [
           "healthReform"
         ],
-        "titleZh": "挑战距离？数字时代的医疗服务提供",
-        "abstractZh": "《美国经济评论》116卷第9期：3464-3509。摘要：数字平台降低了地理摩擦，使服务提供者与用户之间能够实现更优匹配。本文利用瑞典在线医疗中全国范围内的时间条件随机分诊机制，量化了重新配置带来的收益。将高风险患者与在降低急诊就诊方面经验丰富的医生进行匹配，可使急诊就诊减少4.4%（标准误1.3）；重新配置还可使违反指南的抗生素处方减少3.1%（标准误1.4）。研究发现匹配中的权衡有限；医生之间的水平差异化以及"
+        "titleZh": "超越距离？数字时代的医疗服务提供",
+        "abstractZh": "摘要：数字平台降低了地理摩擦，使服务提供者与用户之间能够更好地匹配。我利用瑞典在线医疗中全国范围内基于时间的患者与医生随机分配，量化了再配置收益。将高风险患者与在减少急诊就诊方面经验有效的医生进行匹配，可使此类就诊降低4.4%（标准误1.3）；再配置还可使违反指南的抗生素使用减少3.1%（1.4）。我发现匹配中的权衡有限；医生之间的横向差异化与……（摘要截断）"
       },
       {
         "title": "Rationing by Race",
@@ -917,8 +854,8 @@
         "domains": [
           "healthReform"
         ],
-        "titleZh": "按种族配给",
-        "abstractZh": "美国经济评论 116 (9): 3552-3585\n摘要：我们记录了在医疗这一高风险领域，资源日益稀缺如何导致基于种族进行的配给。利用一个大型医疗系统107,000例住院的时间戳详细数据，我们发现当医院达到满负荷时，黑人患者的院内死亡率上升，而白人患者则不然。这些发现无法用患者选择的差异来解释。我们将等待时间确定为一种配给机制，记录到在几乎所有情况下，病情更重的黑人患者要比病情较轻的白人患者等待更久才能获得治疗。"
+        "titleZh": "按种族配给医疗资源",
+        "abstractZh": "本文记录了在高风险情境——医疗保健——中，资源日益稀缺如何导致基于种族的配给现象。利用某大型医疗系统107,000例住院记录的详细时间戳数据，我们发现当医院床位趋于饱和时，黑人患者的院内死亡率上升，而白人患者则未出现此现象。上述结果无法由患者选择的差异来解释。我们以候诊时间作为配给机制进行识别，发现几乎在所有情况下，病情更重的黑人患者比病情较轻的白人患者等待更长时间才能获得治疗。"
       },
       {
         "title": "Systemic and political determinants of the global nursing and midwifery shortages: A discussion based on human resources for health data",
@@ -933,7 +870,40 @@
         "domains": [
           "healthReform"
         ],
-        "titleZh": "全球护理与助产人员短缺的系统性与政治决定因素：基于卫生人力资源数据的讨论",
+        "titleZh": "全球护理与助产士短缺的系统性与政治决定因素：基于卫生人力数据的讨论",
+        "abstractZh": ""
+      },
+      {
+        "title": "Effectiveness of digital and telemedicine interventions for gestational diabetes mellitus: An umbrella review of systematic reviews and meta-analyses",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0020748926003329?dgcid=rss_sd_all",
+        "date": "",
+        "abstract": "",
+        "source": "International Journal of Nursing Studies",
+        "id": "https://www.sciencedirect.com/science/article/pii/S0020748926003329?dgcid=rss_sd_all",
+        "authors": [],
+        "topics": [],
+        "firstSeen": "2026-09-11",
+        "domains": [
+          "healthReform"
+        ],
+        "titleZh": "数字医疗与远程医疗干预对妊娠期糖尿病的有效性：系统评价与荟萃分析的伞状评价",
+        "abstractZh": ""
+      },
+      {
+        "title": "Exploring the scope and efficacy of nurse navigators in the care of individuals with complex care needs associated with chronic conditions: A systematic review",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0020748926003408?dgcid=rss_sd_all",
+        "date": "",
+        "abstract": "",
+        "source": "International Journal of Nursing Studies",
+        "id": "https://www.sciencedirect.com/science/article/pii/S0020748926003408?dgcid=rss_sd_all",
+        "authors": [],
+        "topics": [],
+        "firstSeen": "2026-08-11",
+        "domains": [
+          "healthReform",
+          "socialWork"
+        ],
+        "titleZh": "探索护士导航员在慢性病复杂照护需求人群照护中的服务范围与效果：一项系统综述",
         "abstractZh": ""
       },
       {
@@ -947,28 +917,25 @@
         "topics": [],
         "firstSeen": "2026-08-11",
         "domains": [
-          "healthReform",
-          "elderCare"
+          "healthReform"
         ],
         "titleZh": "理解澳大利亚昆士兰州护士在自愿辅助死亡中的角色：一项定性研究",
         "abstractZh": ""
       },
       {
-        "title": "The role of social and community engagement and its associations with healthcare utilization and depressive symptoms among older adults: A longitudinal panel data analysis",
-        "url": "https://www.sciencedirect.com/science/article/pii/S0020748926003330?dgcid=rss_sd_all",
+        "title": "Automaticity and habit in recognition and responses to clinical deterioration among ward nursing staff: An international cross-sectional study",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0020748926003482?dgcid=rss_sd_all",
         "date": "",
         "abstract": "",
         "source": "International Journal of Nursing Studies",
-        "id": "https://www.sciencedirect.com/science/article/pii/S0020748926003330?dgcid=rss_sd_all",
+        "id": "https://www.sciencedirect.com/science/article/pii/S0020748926003482?dgcid=rss_sd_all",
         "authors": [],
         "topics": [],
-        "firstSeen": "2026-08-11",
+        "firstSeen": "2026-09-11",
         "domains": [
-          "agingHealth",
-          "socialWork",
           "healthReform"
         ],
-        "titleZh": "社会与社区参与的作用及其与老年人医疗服务利用和抑郁症状的关联：一项纵向面板数据分析",
+        "titleZh": "病房护理人员识别与应对临床病情恶化的自动化与习惯：一项国际横断面研究",
         "abstractZh": ""
       },
       {
@@ -982,10 +949,10 @@
         "topics": [],
         "firstSeen": "2026-08-11",
         "domains": [
-          "elderCare",
-          "healthReform"
+          "healthReform",
+          "elderCare"
         ],
-        "titleZh": "农村地区姑息治疗的可及性：一项混合方法的系统综述",
+        "titleZh": "农村地区姑息治疗的可及性：一项混合方法系统综述",
         "abstractZh": ""
       },
       {
@@ -1001,40 +968,23 @@
         "domains": [
           "healthReform"
         ],
-        "titleZh": "非流行国家卫生专业人员对女性生殖器切割的知识、态度与培训需求：一项文献综述",
+        "titleZh": "非流行国家卫生专业人员对女性生殖器切割的知识、态度及培训需求：一项文献综述",
         "abstractZh": ""
       },
       {
-        "title": "Rulings convicting nurses for care omissions in the Italian supreme court: A qualitative document analysis",
-        "url": "https://www.sciencedirect.com/science/article/pii/S0020748926003238?dgcid=rss_sd_all",
+        "title": "Assessment and CommuniCation ExcelLEnce foR sAfe paTient outcomEs (ACCELERATE): A stepped-wedge cluster randomised trial evaluating the effectiveness of a nurse-led assessment and handover communication intervention on patient adverse events",
+        "url": "https://www.sciencedirect.com/science/article/pii/S002074892600324X?dgcid=rss_sd_all",
         "date": "",
         "abstract": "",
         "source": "International Journal of Nursing Studies",
-        "id": "https://www.sciencedirect.com/science/article/pii/S0020748926003238?dgcid=rss_sd_all",
+        "id": "https://www.sciencedirect.com/science/article/pii/S002074892600324X?dgcid=rss_sd_all",
         "authors": [],
         "topics": [],
-        "firstSeen": "2026-08-11",
-        "domains": [
-          "elderCare",
-          "healthReform"
-        ],
-        "titleZh": "意大利最高法院判决护士因照护缺失获罪：一项定性文件分析",
-        "abstractZh": ""
-      },
-      {
-        "title": "Early warning scores as indicators of nursing hours in general wards: A cross-sectional analysis of inpatient physiological parameters",
-        "url": "https://www.sciencedirect.com/science/article/pii/S0020748926003159?dgcid=rss_sd_all",
-        "date": "",
-        "abstract": "",
-        "source": "International Journal of Nursing Studies",
-        "id": "https://www.sciencedirect.com/science/article/pii/S0020748926003159?dgcid=rss_sd_all",
-        "authors": [],
-        "topics": [],
-        "firstSeen": "2026-08-11",
+        "firstSeen": "2026-09-11",
         "domains": [
           "healthReform"
         ],
-        "titleZh": "早期预警评分作为普通病房护理时数的指标：一项住院患者生理参数的横断面分析",
+        "titleZh": "加速安全患者结局的评估与沟通卓越研究（ACCELERATE）：一项阶梯式楔形整群随机试验，评估护士主导的评估与交接沟通干预对患者不良事件的有效性",
         "abstractZh": ""
       },
       {
@@ -1050,7 +1000,7 @@
         "domains": [
           "healthReform"
         ],
-        "titleZh": "世卫组织卫生人员国际招聘全球行为守则对印度的影响：一项贡献度分析",
+        "titleZh": "世界卫生组织全球实践守则对印度国际卫生人员招聘的影响：一项贡献分析",
         "abstractZh": ""
       },
       {
@@ -1064,27 +1014,11 @@
         "topics": [],
         "firstSeen": "2026-08-11",
         "domains": [
-          "healthReform",
+          "elderCare",
           "agingHealth",
-          "elderCare"
-        ],
-        "titleZh": "在人口老龄化与医疗服务利用变化背景下三级综合医院护理人力资源需求预测：基于系统动力学模拟",
-        "abstractZh": ""
-      },
-      {
-        "title": "Strengthening the PhD nursing workforce: Strategies for sustained progress",
-        "url": "https://www.sciencedirect.com/science/article/pii/S0020748926003214?dgcid=rss_sd_all",
-        "date": "",
-        "abstract": "",
-        "source": "International Journal of Nursing Studies",
-        "id": "https://www.sciencedirect.com/science/article/pii/S0020748926003214?dgcid=rss_sd_all",
-        "authors": [],
-        "topics": [],
-        "firstSeen": "2026-08-11",
-        "domains": [
           "healthReform"
         ],
-        "titleZh": "加强博士护理人才队伍：实现持续进步的策略",
+        "titleZh": "人口老龄化与医疗服务利用变化背景下三级综合医院护理人力需求预测：系统动力学模拟",
         "abstractZh": ""
       },
       {
@@ -1100,7 +1034,7 @@
         "domains": [
           "healthReform"
         ],
-        "titleZh": "重新思考埃博拉治疗医护人员职业健康与安全",
+        "titleZh": "重新思考埃博拉治疗医护人员的职业健康与安全",
         "abstractZh": ""
       },
       {
@@ -1116,23 +1050,25 @@
         "domains": [
           "healthReform"
         ],
-        "titleZh": "有条件的持续效应？历史疾病暴露与政府对新冠肺炎疫情的应对",
+        "titleZh": "条件性持续？历史疾病暴露与政府对新冠疫情的应对",
         "abstractZh": ""
       },
       {
-        "title": "Self-medication under uncertainty: Insights on drug quality and consumer behavior in Burkina Faso",
-        "url": "https://www.sciencedirect.com/science/article/pii/S0304387826001732?dgcid=rss_sd_all",
+        "title": "Migration incentives and elderly health: Evidence from the Hukou reforms in China",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0304387826001860?dgcid=rss_sd_all",
         "date": "",
         "abstract": "",
         "source": "Journal of Development Economics",
-        "id": "https://www.sciencedirect.com/science/article/pii/S0304387826001732?dgcid=rss_sd_all",
+        "id": "https://www.sciencedirect.com/science/article/pii/S0304387826001860?dgcid=rss_sd_all",
         "authors": [],
         "topics": [],
         "firstSeen": "2026-08-11",
         "domains": [
-          "healthReform"
+          "socialSecurity",
+          "healthReform",
+          "agingHealth"
         ],
-        "titleZh": "不确定性下的自我用药：布基纳法索药品质量与消费者行为洞察",
+        "titleZh": "迁移激励与老年健康：来自中国户籍改革的证据",
         "abstractZh": ""
       },
       {
@@ -1162,10 +1098,10 @@
         "topics": [],
         "firstSeen": "2026-08-11",
         "domains": [
-          "elderCare",
-          "healthReform"
+          "healthReform",
+          "elderCare"
         ],
-        "titleZh": "高成本服务场所能否带来更好的结果？Medicare 熟练护理机构与居家健康服务机构中的急性后护理效率",
+        "titleZh": "高成本服务场所能否带来更好的结果？Medicare专业护理机构与居家健康服务机构的急性后照护效率",
         "abstractZh": ""
       },
       {
@@ -1195,9 +1131,10 @@
         "topics": [],
         "firstSeen": "2026-08-11",
         "domains": [
-          "healthReform"
+          "healthReform",
+          "agingHealth"
         ],
-        "titleZh": "意大利国民医疗服务体系中地方卫生局的整合与死亡率",
+        "titleZh": "意大利国民保健服务体系中地方卫生当局的整合与死亡率",
         "abstractZh": ""
       },
       {
@@ -1213,7 +1150,7 @@
         "domains": [
           "healthReform"
         ],
-        "titleZh": "医疗保险扩容对无保险人群药品价格与需求的影响",
+        "titleZh": "医疗保险扩张对未参保人群药品价格和需求的影响",
         "abstractZh": ""
       },
       {
@@ -1229,7 +1166,7 @@
         "domains": [
           "healthReform"
         ],
-        "titleZh": "疾病与健康保险：家庭福利计划选择中的性别因素",
+        "titleZh": "无论疾病与健康保险：家庭福利计划选择中的性别因素",
         "abstractZh": ""
       },
       {
@@ -1243,10 +1180,9 @@
         "topics": [],
         "firstSeen": "2026-08-11",
         "domains": [
-          "healthReform",
-          "socialWork"
+          "healthReform"
         ],
-        "titleZh": "毒品朋友：社会网络在阿片类药物危机中的作用",
+        "titleZh": "与毒品为友：社会网络在阿片类药物泛滥危机中的作用",
         "abstractZh": ""
       },
       {
@@ -1260,9 +1196,10 @@
         "topics": [],
         "firstSeen": "2026-08-11",
         "domains": [
+          "socialWork",
           "healthReform"
         ],
-        "titleZh": "编排照护与约束：康复导向精神科住院病房中急性痛苦的应对",
+        "titleZh": "编排照护与约束：恢复取向精神科住院病房中急性痛苦的应对",
         "abstractZh": ""
       },
       {
@@ -1278,7 +1215,23 @@
         "domains": [
           "healthReform"
         ],
-        "titleZh": "当组织稳定掩盖脆弱：医疗保健中的持续性工作与补偿性劳动",
+        "titleZh": "当组织稳定掩盖脆弱性：医疗保健中的持续性工作与补偿性劳动",
+        "abstractZh": ""
+      },
+      {
+        "title": "Not what it seems: Distributed agencies and clinical narratives in electronic health records",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0277953626008701?dgcid=rss_sd_all",
+        "date": "",
+        "abstract": "",
+        "source": "Social Science & Medicine",
+        "id": "https://www.sciencedirect.com/science/article/pii/S0277953626008701?dgcid=rss_sd_all",
+        "authors": [],
+        "topics": [],
+        "firstSeen": "2026-09-11",
+        "domains": [
+          "healthReform"
+        ],
+        "titleZh": "并非表面所见：电子健康记录中的分布式主体性与临床叙事",
         "abstractZh": ""
       },
       {
@@ -1294,7 +1247,7 @@
         "domains": [
           "healthReform"
         ],
-        "titleZh": "中国卫生系统改革背景下初级保健就诊对预防慢性病和避免住院的影响：一项全国性面板研究",
+        "titleZh": "中国卫生体制改革背景下初级保健就诊对预防慢性病和避免住院治疗的影响：一项全国性面板研究",
         "abstractZh": ""
       },
       {
@@ -1310,7 +1263,7 @@
         "domains": [
           "healthReform"
         ],
-        "titleZh": "限时强制接种政策下的接种前移与诱导效应：来自低强制性政策的证据",
+        "titleZh": "时间限制性强制要求下的提前接种与诱导接种：来自一项低强制性政策的证据",
         "abstractZh": ""
       },
       {
@@ -1326,55 +1279,23 @@
         "domains": [
           "healthReform"
         ],
-        "titleZh": "FDA批准药物副作用中的政治与组织因素影响",
+        "titleZh": "FDA批准药物副作用中的政治与组织影响",
         "abstractZh": ""
       },
       {
-        "title": "Relational autonomy in the clinical encounter: Female genital cosmetic surgery in Belgium and the Netherlands",
-        "url": "https://www.sciencedirect.com/science/article/pii/S0277953626008695?dgcid=rss_sd_all",
+        "title": "Beyond regulatory recognition: Capacity building outcomes in traditional medicine South-South cooperation",
+        "url": "https://www.sciencedirect.com/science/article/pii/S027795362600849X?dgcid=rss_sd_all",
         "date": "",
         "abstract": "",
         "source": "Social Science & Medicine",
-        "id": "https://www.sciencedirect.com/science/article/pii/S0277953626008695?dgcid=rss_sd_all",
+        "id": "https://www.sciencedirect.com/science/article/pii/S027795362600849X?dgcid=rss_sd_all",
         "authors": [],
         "topics": [],
-        "firstSeen": "2026-08-11",
+        "firstSeen": "2026-09-11",
         "domains": [
           "healthReform"
         ],
-        "titleZh": "临床情境中的关系性自主权：比利时与荷兰的女性生殖器整形手术",
-        "abstractZh": ""
-      },
-      {
-        "title": "Are female-dominated cancers underfunded?",
-        "url": "https://www.sciencedirect.com/science/article/pii/S0277953626007860?dgcid=rss_sd_all",
-        "date": "",
-        "abstract": "",
-        "source": "Social Science & Medicine",
-        "id": "https://www.sciencedirect.com/science/article/pii/S0277953626007860?dgcid=rss_sd_all",
-        "authors": [],
-        "topics": [],
-        "firstSeen": "2026-08-11",
-        "domains": [
-          "healthReform"
-        ],
-        "titleZh": "以女性为主要患病人群的癌症是否资金不足？",
-        "abstractZh": ""
-      },
-      {
-        "title": "Does stress produce racialized patterns in clinical decisions? - A vignette study among physicians in Germany",
-        "url": "https://www.sciencedirect.com/science/article/pii/S0277953626008221?dgcid=rss_sd_all",
-        "date": "",
-        "abstract": "",
-        "source": "Social Science & Medicine",
-        "id": "https://www.sciencedirect.com/science/article/pii/S0277953626008221?dgcid=rss_sd_all",
-        "authors": [],
-        "topics": [],
-        "firstSeen": "2026-08-11",
-        "domains": [
-          "healthReform"
-        ],
-        "titleZh": "压力是否会在临床决策中产生种族化模式？——一项针对德国医生的情景研究",
+        "titleZh": "超越监管认可：传统医学南南合作中的能力建设成果",
         "abstractZh": ""
       },
       {
@@ -1388,9 +1309,10 @@
         "topics": [],
         "firstSeen": "2026-08-11",
         "domains": [
-          "healthReform"
+          "healthReform",
+          "socialWork"
         ],
-        "titleZh": "中国精神疾病污名：探索性别、族裔和疾病类型在国家精神卫生保健改革启动阶段的交叉影响",
+        "titleZh": "中国精神疾病的污名：探讨国家精神卫生医疗改革初期性别、族群与疾病类型的交叉影响",
         "abstractZh": ""
       },
       {
@@ -1422,7 +1344,7 @@
         "domains": [
           "healthReform"
         ],
-        "titleZh": "\"我想要那位白人女士所拥有的……\"：解构妇科癌症中的种族差异",
+        "titleZh": "\"我要白人女性所获得的一切……\"：解构妇科肿瘤中的种族差异",
         "abstractZh": ""
       },
       {
@@ -1436,60 +1358,9 @@
         "topics": [],
         "firstSeen": "2026-08-11",
         "domains": [
-          "healthReform",
-          "socialWork"
-        ],
-        "titleZh": "相距甚远：医疗沟通与决策中的集体性不平等",
-        "abstractZh": ""
-      },
-      {
-        "title": "Artificial intelligence in population breast cancer screening: A two-year cost-effectiveness analysis",
-        "url": "https://www.sciencedirect.com/science/article/pii/S0277953626007811?dgcid=rss_sd_all",
-        "date": "",
-        "abstract": "",
-        "source": "Social Science & Medicine",
-        "id": "https://www.sciencedirect.com/science/article/pii/S0277953626007811?dgcid=rss_sd_all",
-        "authors": [],
-        "topics": [],
-        "firstSeen": "2026-08-11",
-        "domains": [
           "healthReform"
         ],
-        "titleZh": "人工智能在人群乳腺癌筛查中的应用：两年成本效益分析",
-        "abstractZh": ""
-      },
-      {
-        "title": "Incomplete implementation of substance use treatment referrals in U.S. hospitals: What can be learned through a lens of decoupling?",
-        "url": "https://www.sciencedirect.com/science/article/pii/S0277953626008166?dgcid=rss_sd_all",
-        "date": "",
-        "abstract": "",
-        "source": "Social Science & Medicine",
-        "id": "https://www.sciencedirect.com/science/article/pii/S0277953626008166?dgcid=rss_sd_all",
-        "authors": [],
-        "topics": [],
-        "firstSeen": "2026-08-11",
-        "domains": [
-          "healthReform",
-          "socialWork"
-        ],
-        "titleZh": "美国医院物质使用治疗转介的不完全执行：从脱耦视角能获得什么启示？",
-        "abstractZh": ""
-      },
-      {
-        "title": "Treading a fine line in equitable breastfeeding support: balancing breastfeeding promotion while avoiding pressure to breastfeed – a realist evaluation",
-        "url": "https://www.sciencedirect.com/science/article/pii/S0277953626007914?dgcid=rss_sd_all",
-        "date": "",
-        "abstract": "",
-        "source": "Social Science & Medicine",
-        "id": "https://www.sciencedirect.com/science/article/pii/S0277953626007914?dgcid=rss_sd_all",
-        "authors": [],
-        "topics": [],
-        "firstSeen": "2026-08-11",
-        "domains": [
-          "socialWork",
-          "healthReform"
-        ],
-        "titleZh": "在公平的母乳喂养支持中走钢丝：在促进母乳喂养与避免母乳喂养压力之间寻求平衡——一项现实主义评估",
+        "titleZh": "相距甚远：医疗沟通与决策中的集体不平等",
         "abstractZh": ""
       },
       {
@@ -1503,10 +1374,10 @@
         "topics": [],
         "firstSeen": "2026-08-11",
         "domains": [
-          "socialWork",
-          "healthReform"
+          "healthReform",
+          "socialWork"
         ],
-        "titleZh": "强制性支持而非强制报告：重新构想针对药物使用女性的孕产保健服务",
+        "titleZh": "强制支持而非强制报告：重新构想吸毒女性的孕产保健",
         "abstractZh": ""
       },
       {
@@ -1522,40 +1393,7 @@
         "domains": [
           "healthReform"
         ],
-        "titleZh": "医疗中的认知不公：医生性别与专科如何塑造女性甲状腺照护中的患者声音",
-        "abstractZh": ""
-      },
-      {
-        "title": "“I want to worry about it:” How the drive to optimize health turns people away from their doctors",
-        "url": "https://www.sciencedirect.com/science/article/pii/S0277953626008178?dgcid=rss_sd_all",
-        "date": "",
-        "abstract": "",
-        "source": "Social Science & Medicine",
-        "id": "https://www.sciencedirect.com/science/article/pii/S0277953626008178?dgcid=rss_sd_all",
-        "authors": [],
-        "topics": [],
-        "firstSeen": "2026-08-11",
-        "domains": [
-          "healthReform"
-        ],
-        "titleZh": "\"我想为此担忧\"：健康优化驱动力如何使人疏远医生",
-        "abstractZh": ""
-      },
-      {
-        "title": "Wrong kind of queer: 2SLGBTQ+ black, indigenous and people of colour family expansion and strategic navigations of fertility clinics",
-        "url": "https://www.sciencedirect.com/science/article/pii/S0277953626008142?dgcid=rss_sd_all",
-        "date": "",
-        "abstract": "",
-        "source": "Social Science & Medicine",
-        "id": "https://www.sciencedirect.com/science/article/pii/S0277953626008142?dgcid=rss_sd_all",
-        "authors": [],
-        "topics": [],
-        "firstSeen": "2026-08-11",
-        "domains": [
-          "socialWork",
-          "healthReform"
-        ],
-        "titleZh": "被排斥的酷儿：2SLGBTQ+黑人、原住民及有色人种家庭扩展与对生育诊所的策略性协商",
+        "titleZh": "医疗中的认知不公：医生性别与专业如何塑造女性甲状腺疾病诊疗中的患者声音",
         "abstractZh": ""
       },
       {
@@ -1585,10 +1423,9 @@
         "topics": [],
         "firstSeen": "2026-08-11",
         "domains": [
-          "healthReform",
-          "socialWork"
+          "healthReform"
         ],
-        "titleZh": "交叉脆弱性与分化路径：比利时移民群体暴露前预防（PrEP）获取差异的交叉性分析",
+        "titleZh": "交叉脆弱性与差异化路径：比利时移民群体PrEP可及性差异的交叉性分析",
         "abstractZh": ""
       },
       {
@@ -1604,7 +1441,7 @@
         "domains": [
           "healthReform"
         ],
-        "titleZh": "从接触到构成：新加坡强制营养等级标签政策下的市场与家庭调整",
+        "titleZh": "从接触到成分：新加坡强制营养等级标签政策下的市场与家庭调整",
         "abstractZh": ""
       },
       {
@@ -1618,11 +1455,27 @@
         "topics": [],
         "firstSeen": "2026-08-11",
         "domains": [
-          "elderCare",
-          "healthReform",
-          "socialWork"
+          "healthReform"
         ],
-        "titleZh": "节省费用却由女性买单：医院居家照护的性别代价",
+        "titleZh": "省钱，代价由女性承担：家庭医院服务的性别化代价",
+        "abstractZh": ""
+      },
+      {
+        "title": "The glass half full? Proportional rationing and well-being in disability care",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0277953626005915?dgcid=rss_sd_all",
+        "date": "",
+        "abstract": "",
+        "source": "Social Science & Medicine",
+        "id": "https://www.sciencedirect.com/science/article/pii/S0277953626005915?dgcid=rss_sd_all",
+        "authors": [],
+        "topics": [],
+        "firstSeen": "2026-08-11",
+        "domains": [
+          "elderCare",
+          "socialWork",
+          "healthReform"
+        ],
+        "titleZh": "半杯满？比例配给与残障照护中的福祉",
         "abstractZh": ""
       },
       {
@@ -1639,7 +1492,7 @@
           "healthReform",
           "socialWork"
         ],
-        "titleZh": "美国移民拘留期间医疗照护中断与心理健康结局的持久关联",
+        "titleZh": "美国移民拘留期间医疗中断与心理健康结局的持续关联",
         "abstractZh": ""
       },
       {
@@ -1655,40 +1508,24 @@
         "domains": [
           "healthReform"
         ],
-        "titleZh": "荷兰医院与健康保险公司之间的多年期合同：探讨合同功能与框架",
+        "titleZh": "荷兰医院与健康保险公司之间的多年期合同：探索合同功能与框架",
         "abstractZh": ""
       },
       {
-        "title": "Targeting therapies: Analysing the social and normative dimensions of ‘targeted’ approaches to biomedicine and public health",
-        "url": "https://www.sciencedirect.com/science/article/pii/S027795362600780X?dgcid=rss_sd_all",
+        "title": "HIV medication adherence in the migration and settlement journey: Experiences and perspectives of migrant women living with HIV",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0277953626007896?dgcid=rss_sd_all",
         "date": "",
         "abstract": "",
         "source": "Social Science & Medicine",
-        "id": "https://www.sciencedirect.com/science/article/pii/S027795362600780X?dgcid=rss_sd_all",
+        "id": "https://www.sciencedirect.com/science/article/pii/S0277953626007896?dgcid=rss_sd_all",
         "authors": [],
         "topics": [],
-        "firstSeen": "2026-08-11",
-        "domains": [
-          "healthReform"
-        ],
-        "titleZh": "靶向治疗：分析生物医学与公共卫生中'靶向'方法的社会与规范维度",
-        "abstractZh": ""
-      },
-      {
-        "title": "Associations between student social position, training, and plans to care for underserved populations over the course of medical school",
-        "url": "https://www.sciencedirect.com/science/article/pii/S0277953626007173?dgcid=rss_sd_all",
-        "date": "",
-        "abstract": "",
-        "source": "Social Science & Medicine",
-        "id": "https://www.sciencedirect.com/science/article/pii/S0277953626007173?dgcid=rss_sd_all",
-        "authors": [],
-        "topics": [],
-        "firstSeen": "2026-08-11",
+        "firstSeen": "2026-09-11",
         "domains": [
           "healthReform",
           "socialWork"
         ],
-        "titleZh": "医学生的社会地位、培训与在医学院就读期间服务弱势群体意愿之间的关联",
+        "titleZh": "迁移与定居过程中的HIV药物依从性：感染HIV的移民女性的经历与观点",
         "abstractZh": ""
       },
       {
@@ -1720,24 +1557,7 @@
         "domains": [
           "healthReform"
         ],
-        "titleZh": "家长式作风的解析：基于奥地利辅助死亡法的医师行为实证研究",
-        "abstractZh": ""
-      },
-      {
-        "title": "Heat, Home-Based Assault and Domestic and Family Violence Injuries: Evidence from Hospital Emergency Department Presentations",
-        "url": "https://www.sciencedirect.com/science/article/pii/S0277953626009056?dgcid=rss_sd_all",
-        "date": "",
-        "abstract": "",
-        "source": "Social Science & Medicine",
-        "id": "https://www.sciencedirect.com/science/article/pii/S0277953626009056?dgcid=rss_sd_all",
-        "authors": [],
-        "topics": [],
-        "firstSeen": "2026-09-11",
-        "domains": [
-          "socialWork",
-          "healthReform"
-        ],
-        "titleZh": "高温、居家暴力与家庭暴力伤害：来自医院急诊就诊数据的证据",
+        "titleZh": "家长式作风解析：奥地利协助死亡法下医生行为的实证洞察",
         "abstractZh": ""
       },
       {
@@ -1753,7 +1573,7 @@
         "domains": [
           "healthReform"
         ],
-        "titleZh": "记录关怀：通过民族志案例档案与图表研究印度北部的安全孕产干预措施",
+        "titleZh": "记录关怀：运用民族志案例档案与图表考察印度北部的一项安全孕产干预",
         "abstractZh": ""
       },
       {
@@ -1767,10 +1587,10 @@
         "topics": [],
         "firstSeen": "2026-08-11",
         "domains": [
-          "agingHealth",
-          "healthReform"
+          "healthReform",
+          "agingHealth"
         ],
-        "titleZh": "超越效率的安全优先排序：年龄、健康状况与内群体偏好的作用",
+        "titleZh": "超越效率的安全优先排序：年龄、健康状况与群体内偏好的作用",
         "abstractZh": ""
       },
       {
@@ -1786,7 +1606,7 @@
         "domains": [
           "healthReform"
         ],
-        "titleZh": "受挑战的良心：中国医疗纠纷中医院一线行政管理者的道德困境",
+        "titleZh": "受挑战的良知：中国医疗纠纷中医院一线管理者的道德困境",
         "abstractZh": ""
       }
     ],
@@ -1802,11 +1622,10 @@
         "topics": [],
         "firstSeen": "2026-08-25",
         "domains": [
-          "socialSecurity",
           "agingHealth",
-          "elderCare"
+          "socialSecurity"
         ],
-        "titleZh": "退休生活中的长寿、健康与住房风险管理",
+        "titleZh": "退休后的长寿、健康与住房风险管理",
         "abstractZh": ""
       },
       {
@@ -1820,10 +1639,45 @@
         "topics": [],
         "firstSeen": "2026-08-24",
         "domains": [
+          "agingHealth",
+          "socialSecurity"
+        ],
+        "titleZh": "老龄经济中的局部冲击与区域动态",
+        "abstractZh": ""
+      },
+      {
+        "title": "Deniers and Compliers: Unpacking the Heterogeneous Effectiveness of U.S. Stay‐at‐Home Mandates During the COVID‐19 Pandemic",
+        "url": "https://onlinelibrary.wiley.com/doi/10.1002/jae.70080?af=R",
+        "date": "2026-07-15",
+        "abstract": "ABSTRACT\n                  While existing work shows COVID‐19 stay‐at‐home (SAH) policies decreased mobility on average, we lack evidence regarding heterogeneity in policy effectiveness across US counties. To uncover potential heterogeneity, we implement a novel two‐stage approach. First, we employ recent advances in synthetic control estimation and inference to obtain and bound both time‐average and county‐specific treatment effects. Next, we use a local linear forest to explain observed heterogeneity using county‐level predictors. This procedure reveals substantial variation in policy effectiveness and identifies predictors of policy effectiveness which can be used to target future SAH policies.",
+        "source": "Journal of Applied Econometrics",
+        "id": "https://onlinelibrary.wiley.com/doi/10.1002/jae.70080?af=R",
+        "authors": [],
+        "topics": [],
+        "firstSeen": "2026-07-15",
+        "domains": [
+          "healthReform",
+          "agingHealth",
+          "socialWork"
+        ],
+        "titleZh": "否认者与遵从者：解析美国新冠疫情期间居家令效果的异质性",
+        "abstractZh": ""
+      },
+      {
+        "title": "The impact of artificial intelligence exposure on delayed retirement behavior: Evidence from China",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1043951X26001082?dgcid=rss_sd_all",
+        "date": "",
+        "abstract": "",
+        "source": "China Economic Review",
+        "id": "https://www.sciencedirect.com/science/article/pii/S1043951X26001082?dgcid=rss_sd_all",
+        "authors": [],
+        "topics": [],
+        "firstSeen": "2026-08-11",
+        "domains": [
           "socialSecurity",
           "agingHealth"
         ],
-        "titleZh": "老龄化经济中的地方冲击与区域动态",
+        "titleZh": "人工智能暴露对延迟退休行为的影响：来自中国的证据",
         "abstractZh": ""
       },
       {
@@ -1840,7 +1694,7 @@
           "elderCare",
           "agingHealth"
         ],
-        "titleZh": "痴呆症患者家庭照护者的角色困境：一项定性研究",
+        "titleZh": "痴呆患者家庭照护者的角色困境：一项定性研究",
         "abstractZh": ""
       },
       {
@@ -1855,8 +1709,7 @@
         "firstSeen": "2026-08-11",
         "domains": [
           "agingHealth",
-          "socialWork",
-          "healthReform"
+          "socialWork"
         ],
         "titleZh": "社会与社区参与的作用及其与老年人医疗服务利用和抑郁症状的关联：一项纵向面板数据分析",
         "abstractZh": ""
@@ -1875,7 +1728,7 @@
           "elderCare",
           "agingHealth"
         ],
-        "titleZh": "养老院居民跌倒风险感知与应对模式：一项定性研究",
+        "titleZh": "养老院居民跌倒风险感知与应对模式：一项质性研究",
         "abstractZh": ""
       },
       {
@@ -1892,7 +1745,7 @@
           "elderCare",
           "agingHealth"
         ],
-        "titleZh": "术后24至48小时内早期活动可改善老年髋部骨折患者的临床结局：一项系统综述与荟萃分析",
+        "titleZh": "24至48小时内早期活动改善髋部骨折老年患者术后临床结局：一项系统综述与荟萃分析",
         "abstractZh": ""
       },
       {
@@ -1906,9 +1759,28 @@
         "topics": [],
         "firstSeen": "2026-08-11",
         "domains": [
-          "agingHealth"
+          "agingHealth",
+          "elderCare"
         ],
-        "titleZh": "比较不同运动对老年人跌倒的影响：一项随机对照试验的网状Meta分析",
+        "titleZh": "比较不同运动对老年人跌倒的影响：随机对照试验的网络荟萃分析",
+        "abstractZh": ""
+      },
+      {
+        "title": "“Between love and bills”- tailored personas of families coping with financial toxicity from caring for people with dementia and comorbidities: A qualitative study",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0020748926003172?dgcid=rss_sd_all",
+        "date": "",
+        "abstract": "",
+        "source": "International Journal of Nursing Studies",
+        "id": "https://www.sciencedirect.com/science/article/pii/S0020748926003172?dgcid=rss_sd_all",
+        "authors": [],
+        "topics": [],
+        "firstSeen": "2026-09-11",
+        "domains": [
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "titleZh": "\"在爱与账单之间\"——照顾痴呆共病患者的家庭应对财务毒性的差异化画像：一项质性研究",
         "abstractZh": ""
       },
       {
@@ -1924,7 +1796,7 @@
         "domains": [
           "agingHealth"
         ],
-        "titleZh": "加速度计测量的每日步数与未来健康风险的关联：基于超过60,000名英国成人的表型全关联研究",
+        "titleZh": "基于加速度计的每日步数与未来健康风险的关联：一项针对超过60,000名英国成人的表型组关联研究",
         "abstractZh": ""
       },
       {
@@ -1938,11 +1810,11 @@
         "topics": [],
         "firstSeen": "2026-08-11",
         "domains": [
-          "healthReform",
+          "elderCare",
           "agingHealth",
-          "elderCare"
+          "healthReform"
         ],
-        "titleZh": "在人口老龄化与医疗服务利用变化背景下三级综合医院护理人力资源需求预测：基于系统动力学模拟",
+        "titleZh": "人口老龄化与医疗服务利用变化背景下三级综合医院护理人力需求预测：系统动力学模拟",
         "abstractZh": ""
       },
       {
@@ -1973,26 +1845,10 @@
         "topics": [],
         "firstSeen": "2026-08-11",
         "domains": [
-          "elderCare",
-          "agingHealth"
+          "agingHealth",
+          "elderCare"
         ],
-        "titleZh": "老年人功能性依赖的社会人口不平等：来自35个国家的横断面证据",
-        "abstractZh": ""
-      },
-      {
-        "title": "The long shadow of typhoons: Prenatal exposure and adult mental health",
-        "url": "https://www.sciencedirect.com/science/article/pii/S0304387826001872?dgcid=rss_sd_all",
-        "date": "",
-        "abstract": "",
-        "source": "Journal of Development Economics",
-        "id": "https://www.sciencedirect.com/science/article/pii/S0304387826001872?dgcid=rss_sd_all",
-        "authors": [],
-        "topics": [],
-        "firstSeen": "2026-08-11",
-        "domains": [
-          "agingHealth"
-        ],
-        "titleZh": "台风的长远影响：产前暴露与成年期心理健康",
+        "titleZh": "老年人功能依赖的社会人口学不平等：来自35个国家的横断面证据",
         "abstractZh": ""
       },
       {
@@ -2006,10 +1862,44 @@
         "topics": [],
         "firstSeen": "2026-08-11",
         "domains": [
-          "agingHealth",
-          "socialSecurity"
+          "socialSecurity",
+          "healthReform",
+          "agingHealth"
         ],
-        "titleZh": "迁移激励与老年健康：来自中国户籍制度改革的证据",
+        "titleZh": "迁移激励与老年健康：来自中国户籍改革的证据",
+        "abstractZh": ""
+      },
+      {
+        "title": "Adult children's human capital accumulation and parents' risky behaviors: Evidence from the higher education expansion in China",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0304387826001574?dgcid=rss_sd_all",
+        "date": "",
+        "abstract": "",
+        "source": "Journal of Development Economics",
+        "id": "https://www.sciencedirect.com/science/article/pii/S0304387826001574?dgcid=rss_sd_all",
+        "authors": [],
+        "topics": [],
+        "firstSeen": "2026-09-11",
+        "domains": [
+          "agingHealth"
+        ],
+        "titleZh": "成年子女的人力资本积累与父母的冒险行为：来自中国高等教育扩招的证据",
+        "abstractZh": ""
+      },
+      {
+        "title": "Consolidation of Local Health Authorities and mortality in the Italian NHS",
+        "url": "https://www.sciencedirect.com/science/article/pii/S016762962600072X?dgcid=rss_sd_all",
+        "date": "",
+        "abstract": "",
+        "source": "Journal of Health Economics",
+        "id": "https://www.sciencedirect.com/science/article/pii/S016762962600072X?dgcid=rss_sd_all",
+        "authors": [],
+        "topics": [],
+        "firstSeen": "2026-08-11",
+        "domains": [
+          "healthReform",
+          "agingHealth"
+        ],
+        "titleZh": "意大利国民保健服务体系中地方卫生当局的整合与死亡率",
         "abstractZh": ""
       },
       {
@@ -2030,6 +1920,23 @@
         "abstractZh": ""
       },
       {
+        "title": "The impact of pension reforms and rapid aging on savings and labor supply: The case of China",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0047272726001593?dgcid=rss_sd_all",
+        "date": "",
+        "abstract": "",
+        "source": "Journal of Public Economics",
+        "id": "https://www.sciencedirect.com/science/article/pii/S0047272726001593?dgcid=rss_sd_all",
+        "authors": [],
+        "topics": [],
+        "firstSeen": "2026-08-11",
+        "domains": [
+          "socialSecurity",
+          "agingHealth"
+        ],
+        "titleZh": "养老金改革与快速老龄化对储蓄和劳动供给的影响：以中国为例",
+        "abstractZh": ""
+      },
+      {
         "title": "Age-friendly community environments and depressive symptom trajectories among middle-aged and older adults in China: Evidence from the China Health and Retirement Longitudinal Study (CHARLS)",
         "url": "https://www.sciencedirect.com/science/article/pii/S0277953626008750?dgcid=rss_sd_all",
         "date": "",
@@ -2040,9 +1947,10 @@
         "topics": [],
         "firstSeen": "2026-08-11",
         "domains": [
-          "agingHealth"
+          "agingHealth",
+          "elderCare"
         ],
-        "titleZh": "中国中老年人友好社区环境与抑郁症状轨迹：来自中国健康与养老追踪调查（CHARLS）的证据",
+        "titleZh": "中国中老年人的适老社区环境与抑郁症状轨迹：来自中国健康与退休纵向研究（CHARLS）的证据",
         "abstractZh": ""
       },
       {
@@ -2059,7 +1967,7 @@
           "agingHealth",
           "socialWork"
         ],
-        "titleZh": "地点与大脑健康：澳大利亚原住民和托雷斯海峡岛民社区主导的叙事研究",
+        "titleZh": "地方与脑健康：澳大利亚原住民及托雷斯海峡岛民社区主导的围谈研究",
         "abstractZh": ""
       },
       {
@@ -2073,9 +1981,10 @@
         "topics": [],
         "firstSeen": "2026-08-11",
         "domains": [
-          "agingHealth"
+          "agingHealth",
+          "elderCare"
         ],
-        "titleZh": "韧性有多普遍？基于增长混合建模的老年残疾发生后的幸福感轨迹分析",
+        "titleZh": "韧性有多普遍？基于增长混合模型对老年期残障发生后幸福感轨迹的分析",
         "abstractZh": ""
       },
       {
@@ -2091,7 +2000,7 @@
         "domains": [
           "agingHealth"
         ],
-        "titleZh": "年龄调节日常生活中瞬时情绪与认知表现之间的个体内关联",
+        "titleZh": "年龄调节日常情境中瞬时情绪与认知表现之间的个体内关联",
         "abstractZh": ""
       },
       {
@@ -2107,7 +2016,7 @@
         "domains": [
           "agingHealth"
         ],
-        "titleZh": "强制性小学教科书对低社会经济地位老年人识字能力与认知能力的因果效应",
+        "titleZh": "强制小学教育教科书对低社会经济地位老年人识字能力与认知能力的因果效应",
         "abstractZh": ""
       },
       {
@@ -2123,7 +2032,7 @@
         "domains": [
           "agingHealth"
         ],
-        "titleZh": "社区便利设施、卫生服务与建成环境基础设施及表观遗传衰老",
+        "titleZh": "社区设施、卫生服务与建成环境基础设施对表观遗传衰老的影响",
         "abstractZh": ""
       },
       {
@@ -2139,7 +2048,7 @@
         "domains": [
           "agingHealth"
         ],
-        "titleZh": "德国统一以来生活变化的回顾性评价与健康：通过心理社会资源的性别差异化间接关联",
+        "titleZh": "德国统一以来的回顾性生活变化与健康：基于心理社会资源的性别差异间接关联",
         "abstractZh": ""
       },
       {
@@ -2155,7 +2064,7 @@
         "domains": [
           "agingHealth"
         ],
-        "titleZh": "早年食物不安全与中老年抑郁症状轨迹的关联：教育程度的中介作用",
+        "titleZh": "童年期食物不安全与中老年抑郁症状轨迹的关联：受教育程度的中介作用",
         "abstractZh": ""
       },
       {
@@ -2171,7 +2080,7 @@
         "domains": [
           "agingHealth"
         ],
-        "titleZh": "利用火马出生队列估算双重继承压力相关的死亡率",
+        "titleZh": "利用火马队列估计双重继承压力相关的死亡率",
         "abstractZh": ""
       },
       {
@@ -2187,7 +2096,7 @@
         "domains": [
           "agingHealth"
         ],
-        "titleZh": "用于估算芬兰生产力调整预期寿命的有偿与无偿工作生产力规范值",
+        "titleZh": "芬兰用于估算生产力调整预期寿命的有偿与无偿工作生产力的规范值",
         "abstractZh": ""
       },
       {
@@ -2204,7 +2113,7 @@
           "elderCare",
           "agingHealth"
         ],
-        "titleZh": "痴呆症照护者临终前悲伤体验中的难题与悖论：因果回路分析",
+        "titleZh": "痴呆症照护者临终前哀伤体验中的难题与悖论：一项因果回路分析",
         "abstractZh": ""
       },
       {
@@ -2221,7 +2130,7 @@
           "agingHealth",
           "elderCare"
         ],
-        "titleZh": "痴呆症患者社区步行的时间性维度",
+        "titleZh": "痴呆症患者在社区中步行的时序性研究",
         "abstractZh": ""
       },
       {
@@ -2235,10 +2144,10 @@
         "topics": [],
         "firstSeen": "2026-08-11",
         "domains": [
-          "agingHealth",
-          "healthReform"
+          "healthReform",
+          "agingHealth"
         ],
-        "titleZh": "超越效率的安全优先排序：年龄、健康状况与内群体偏好的作用",
+        "titleZh": "超越效率的安全优先排序：年龄、健康状况与群体内偏好的作用",
         "abstractZh": ""
       }
     ],
@@ -2256,7 +2165,7 @@
         "domains": [
           "socialWork"
         ],
-        "titleZh": "坏的非政府组织？捐赠市场竞争与工作者不当行为",
+        "titleZh": "不良非政府组织？捐赠市场竞争与工作者不当行为",
         "abstractZh": ""
       },
       {
@@ -2270,11 +2179,61 @@
         "topics": [],
         "firstSeen": "2026-07-29",
         "domains": [
-          "socialWork",
-          "socialSecurity"
+          "socialWork"
         ],
-        "titleZh": "去奶奶家：非正式儿童照护与女性劳动力流动",
+        "titleZh": "去外婆家吧：非正式儿童照护与女性劳动力流动",
         "abstractZh": ""
+      },
+      {
+        "title": "Deniers and Compliers: Unpacking the Heterogeneous Effectiveness of U.S. Stay‐at‐Home Mandates During the COVID‐19 Pandemic",
+        "url": "https://onlinelibrary.wiley.com/doi/10.1002/jae.70080?af=R",
+        "date": "2026-07-15",
+        "abstract": "ABSTRACT\n                  While existing work shows COVID‐19 stay‐at‐home (SAH) policies decreased mobility on average, we lack evidence regarding heterogeneity in policy effectiveness across US counties. To uncover potential heterogeneity, we implement a novel two‐stage approach. First, we employ recent advances in synthetic control estimation and inference to obtain and bound both time‐average and county‐specific treatment effects. Next, we use a local linear forest to explain observed heterogeneity using county‐level predictors. This procedure reveals substantial variation in policy effectiveness and identifies predictors of policy effectiveness which can be used to target future SAH policies.",
+        "source": "Journal of Applied Econometrics",
+        "id": "https://onlinelibrary.wiley.com/doi/10.1002/jae.70080?af=R",
+        "authors": [],
+        "topics": [],
+        "firstSeen": "2026-07-15",
+        "domains": [
+          "healthReform",
+          "agingHealth",
+          "socialWork"
+        ],
+        "titleZh": "否认者与遵从者：解析美国新冠疫情期间居家令效果的异质性",
+        "abstractZh": ""
+      },
+      {
+        "title": "Investing with Purpose: Evidence from Private Foundations",
+        "url": "https://onlinelibrary.wiley.com/doi/10.1111/jofi.70055?af=R",
+        "date": "2026-07-15",
+        "abstract": "ABSTRACT\n                  We study the asset allocation and investment performance of U.S. private foundations that support the charitable sector. Large foundations generated positive risk‐adjusted returns before 2008, driven by early access to private equity and venture capital funds, but have underperformed since. The median foundation underperforms by more than 100 bps. Foundations with concentrated stock holdings achieve higher returns but assume more risk. Due to the constraints imposed by the 5% minimum spending rule and accommodating monetary policy, foundations increase risk‐taking and reach for yield. Over time, a conservative asset allocation decreases real wealth, reducing charitable giving.",
+        "source": "The Journal of Finance",
+        "id": "https://onlinelibrary.wiley.com/doi/10.1111/jofi.70055?af=R",
+        "authors": [],
+        "topics": [],
+        "firstSeen": "2026-09-11",
+        "domains": [
+          "socialWork"
+        ],
+        "titleZh": "有目的的投资：来自私人基金会的证据",
+        "abstractZh": ""
+      },
+      {
+        "title": "Policies for Early Childhood Skills Formation: Accounting for Parental Choices and Noncognitive Skills",
+        "url": "https://academic.oup.com/jeea/article/24/3/1150/8361452?rss=1",
+        "date": "2025-11-29",
+        "abstract": "AbstractWhat are the returns in terms of children’s skills development to child allowance policies? Answering this question requires a theory of the trade-offs faced by households, as well as a realistic technology of skills formation. I build a model of parental choices that embeds the technology of cognitive and non-cognitive skills formation estimated by Cunha, Heckman, and Schennach (2010), featuring risky investment in children, time use trade-offs, idiosyncratic income risk, and borrowing constraints. Accounting for non-cognitive skills implies higher effectiveness of parental investment",
+        "source": "Journal of the European Economic Association",
+        "id": "https://academic.oup.com/jeea/article/24/3/1150/8361452?rss=1",
+        "authors": [],
+        "topics": [],
+        "firstSeen": "2026-09-11",
+        "domains": [
+          "socialSecurity",
+          "socialWork"
+        ],
+        "titleZh": "早期儿童技能形成政策：考虑父母选择与非认知技能",
+        "abstractZh": "关于儿童津贴政策对儿童技能发展的回报是什么？回答这一问题需要建立家庭面临权衡的理论，并采用现实的技能形成技术。本文构建了一个父母选择模型，其中嵌入了Cunha、Heckman与Schennach（2010）所估算的认知与非认知技能形成技术，模型涵盖了子女投资的风险性、时间使用的权衡、异质性收入风险以及借贷约束。考虑非认知技能因素后，父母投资的有效性显著提高。"
       },
       {
         "title": "Exploring the scope and efficacy of nurse navigators in the care of individuals with complex care needs associated with chronic conditions: A systematic review",
@@ -2287,10 +2246,10 @@
         "topics": [],
         "firstSeen": "2026-08-11",
         "domains": [
-          "socialWork",
-          "elderCare"
+          "healthReform",
+          "socialWork"
         ],
-        "titleZh": "护士导航员在慢性病复杂照护需求人群中的实践范围与效果：一项系统综述",
+        "titleZh": "探索护士导航员在慢性病复杂照护需求人群照护中的服务范围与效果：一项系统综述",
         "abstractZh": ""
       },
       {
@@ -2305,10 +2264,27 @@
         "firstSeen": "2026-08-11",
         "domains": [
           "agingHealth",
-          "socialWork",
-          "healthReform"
+          "socialWork"
         ],
         "titleZh": "社会与社区参与的作用及其与老年人医疗服务利用和抑郁症状的关联：一项纵向面板数据分析",
+        "abstractZh": ""
+      },
+      {
+        "title": "“Between love and bills”- tailored personas of families coping with financial toxicity from caring for people with dementia and comorbidities: A qualitative study",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0020748926003172?dgcid=rss_sd_all",
+        "date": "",
+        "abstract": "",
+        "source": "International Journal of Nursing Studies",
+        "id": "https://www.sciencedirect.com/science/article/pii/S0020748926003172?dgcid=rss_sd_all",
+        "authors": [],
+        "topics": [],
+        "firstSeen": "2026-09-11",
+        "domains": [
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "titleZh": "\"在爱与账单之间\"——照顾痴呆共病患者的家庭应对财务毒性的差异化画像：一项质性研究",
         "abstractZh": ""
       },
       {
@@ -2325,7 +2301,7 @@
           "elderCare",
           "socialWork"
         ],
-        "titleZh": "协同设计以家庭为中心的干预方案以支持晚期慢性病居家照护：双钻石框架引导的研究过程",
+        "titleZh": "共同设计以家庭为中心的干预措施以支持晚期慢性病的居家照护：双钻石框架引导的研究过程",
         "abstractZh": ""
       },
       {
@@ -2341,7 +2317,7 @@
         "domains": [
           "socialWork"
         ],
-        "titleZh": "护士作为流离失所人口的一线响应者",
+        "titleZh": "护士作为流离失所人口的一线应对者",
         "abstractZh": ""
       },
       {
@@ -2361,37 +2337,35 @@
         "abstractZh": ""
       },
       {
-        "title": "Settling prosperity: Historical immigration and its long-term institutional legacies",
-        "url": "https://www.sciencedirect.com/science/article/pii/S0147596726000302?dgcid=rss_sd_all",
+        "title": "Mental health spillovers and human capital development: Evidence from middle schools in China",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0147596726000387?dgcid=rss_sd_all",
         "date": "",
         "abstract": "",
         "source": "Journal of Comparative Economics",
-        "id": "https://www.sciencedirect.com/science/article/pii/S0147596726000302?dgcid=rss_sd_all",
+        "id": "https://www.sciencedirect.com/science/article/pii/S0147596726000387?dgcid=rss_sd_all",
         "authors": [],
         "topics": [],
-        "firstSeen": "2026-08-11",
+        "firstSeen": "2026-09-11",
         "domains": [
-          "socialSecurity",
           "socialWork"
         ],
-        "titleZh": "定居的繁荣：历史移民及其长期制度遗产",
+        "titleZh": "心理健康溢出效应与人力资本发展：来自中国中学的证据",
         "abstractZh": ""
       },
       {
-        "title": "Immigration enforcement and safety net participation in mixed-status households",
-        "url": "https://www.sciencedirect.com/science/article/pii/S0047272726002033?dgcid=rss_sd_all",
+        "title": "Supporting learning in and out of school: Experimental evidence from India",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0304387826001896?dgcid=rss_sd_all",
         "date": "",
         "abstract": "",
-        "source": "Journal of Public Economics",
-        "id": "https://www.sciencedirect.com/science/article/pii/S0047272726002033?dgcid=rss_sd_all",
+        "source": "Journal of Development Economics",
+        "id": "https://www.sciencedirect.com/science/article/pii/S0304387826001896?dgcid=rss_sd_all",
         "authors": [],
         "topics": [],
-        "firstSeen": "2026-08-11",
+        "firstSeen": "2026-09-11",
         "domains": [
-          "socialSecurity",
           "socialWork"
         ],
-        "titleZh": "移民执法与混合身份家庭的社会福利参与",
+        "titleZh": "支持校内与校外学习：来自印度的实验证据",
         "abstractZh": ""
       },
       {
@@ -2411,23 +2385,6 @@
         "abstractZh": ""
       },
       {
-        "title": "Friends with drugs: The role of social networks in the opioid epidemic",
-        "url": "https://www.sciencedirect.com/science/article/pii/S0047272726001751?dgcid=rss_sd_all",
-        "date": "",
-        "abstract": "",
-        "source": "Journal of Public Economics",
-        "id": "https://www.sciencedirect.com/science/article/pii/S0047272726001751?dgcid=rss_sd_all",
-        "authors": [],
-        "topics": [],
-        "firstSeen": "2026-08-11",
-        "domains": [
-          "healthReform",
-          "socialWork"
-        ],
-        "titleZh": "毒品朋友：社会网络在阿片类药物危机中的作用",
-        "abstractZh": ""
-      },
-      {
         "title": "Do ultra-poor graduation programs build women’s resilience to weather shocks? Evidence from rural Ethiopia",
         "url": "https://www.sciencedirect.com/science/article/pii/S0047272726001696?dgcid=rss_sd_all",
         "date": "",
@@ -2438,10 +2395,26 @@
         "topics": [],
         "firstSeen": "2026-08-11",
         "domains": [
-          "socialSecurity",
+          "socialWork",
+          "socialSecurity"
+        ],
+        "titleZh": "极端贫困梯度脱贫项目能否增强女性应对气候冲击的韧性？来自埃塞俄比亚农村的证据",
+        "abstractZh": ""
+      },
+      {
+        "title": "Parental paternalism and patience",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0047272726001477?dgcid=rss_sd_all",
+        "date": "",
+        "abstract": "",
+        "source": "Journal of Public Economics",
+        "id": "https://www.sciencedirect.com/science/article/pii/S0047272726001477?dgcid=rss_sd_all",
+        "authors": [],
+        "topics": [],
+        "firstSeen": "2026-09-11",
+        "domains": [
           "socialWork"
         ],
-        "titleZh": "超贫困毕业项目能否增强女性抵御气候冲击的韧性？来自埃塞俄比亚农村的证据",
+        "titleZh": "父母家长式作风与耐心",
         "abstractZh": ""
       },
       {
@@ -2455,7 +2428,8 @@
         "topics": [],
         "firstSeen": "2026-08-11",
         "domains": [
-          "socialWork"
+          "socialWork",
+          "socialSecurity"
         ],
         "titleZh": "儿童残疾对家庭的影响：劳动、婚姻、生育与抑郁",
         "abstractZh": ""
@@ -2488,7 +2462,6 @@
         "topics": [],
         "firstSeen": "2026-08-11",
         "domains": [
-          "socialSecurity",
           "socialWork"
         ],
         "titleZh": "快速再安置能否减少无家可归现象？",
@@ -2507,7 +2480,24 @@
         "domains": [
           "socialWork"
         ],
-        "titleZh": "从危机到拘捕：多伦多种族化儿童、青少年及家庭中警察介入心理紧急事件的影响",
+        "titleZh": "从危机到手铐：多伦多警察介入种族化儿童、青少年及家庭心理健康紧急事件的影响",
+        "abstractZh": ""
+      },
+      {
+        "title": "Choreographing care and restraint: Managing acute distress in recovery-oriented psychiatric inpatient wards",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0277953626008683?dgcid=rss_sd_all",
+        "date": "",
+        "abstract": "",
+        "source": "Social Science & Medicine",
+        "id": "https://www.sciencedirect.com/science/article/pii/S0277953626008683?dgcid=rss_sd_all",
+        "authors": [],
+        "topics": [],
+        "firstSeen": "2026-08-11",
+        "domains": [
+          "socialWork",
+          "healthReform"
+        ],
+        "titleZh": "编排照护与约束：恢复取向精神科住院病房中急性痛苦的应对",
         "abstractZh": ""
       },
       {
@@ -2524,7 +2514,7 @@
           "agingHealth",
           "socialWork"
         ],
-        "titleZh": "地点与大脑健康：澳大利亚原住民和托雷斯海峡岛民社区主导的叙事研究",
+        "titleZh": "地方与脑健康：澳大利亚原住民及托雷斯海峡岛民社区主导的围谈研究",
         "abstractZh": ""
       },
       {
@@ -2540,7 +2530,7 @@
         "domains": [
           "socialWork"
         ],
-        "titleZh": "被吞噬的沉默、策略性沉默与安全披露：理解经历性别暴力的国内流离失所妇女不披露行为的多层次框架",
+        "titleZh": "被吞咽的沉默、策略性沉默与安全披露：理解经历性别暴力的境内流离失所妇女不披露行为的多层次框架",
         "abstractZh": ""
       },
       {
@@ -2556,32 +2546,16 @@
         "domains": [
           "socialWork"
         ],
-        "titleZh": "\"它改变了我，我是谁\"：加拿大安大略省子女在司法精神健康系统中的父母如何经历其身份转变",
+        "titleZh": "\"它改变了我，我这个人\"：加拿大安大略省法医心理健康系统中子女父母的身份转变体验",
         "abstractZh": ""
       },
       {
-        "title": "Lived sanitation experiences in informal and formal settlements in Nairobi, Kenya: A comparative study through the lens of the Human Right to Sanitation",
-        "url": "https://www.sciencedirect.com/science/article/pii/S0277953626008567?dgcid=rss_sd_all",
+        "title": "Stigma of mental illness in China: Exploring the intersectional effects of gender, ethnicity and disorder at the start of national mental health care reform",
+        "url": "https://www.sciencedirect.com/science/article/pii/S027795362600866X?dgcid=rss_sd_all",
         "date": "",
         "abstract": "",
         "source": "Social Science & Medicine",
-        "id": "https://www.sciencedirect.com/science/article/pii/S0277953626008567?dgcid=rss_sd_all",
-        "authors": [],
-        "topics": [],
-        "firstSeen": "2026-08-11",
-        "domains": [
-          "socialWork"
-        ],
-        "titleZh": "肯尼亚内罗毕非正规与正规定居点的环卫生活体验：基于人类环卫权视角的比较研究",
-        "abstractZh": ""
-      },
-      {
-        "title": "Miles apart: Collective inequities in medical communication and decision-making",
-        "url": "https://www.sciencedirect.com/science/article/pii/S0277953626008154?dgcid=rss_sd_all",
-        "date": "",
-        "abstract": "",
-        "source": "Social Science & Medicine",
-        "id": "https://www.sciencedirect.com/science/article/pii/S0277953626008154?dgcid=rss_sd_all",
+        "id": "https://www.sciencedirect.com/science/article/pii/S027795362600866X?dgcid=rss_sd_all",
         "authors": [],
         "topics": [],
         "firstSeen": "2026-08-11",
@@ -2589,7 +2563,39 @@
           "healthReform",
           "socialWork"
         ],
-        "titleZh": "相距甚远：医疗沟通与决策中的集体性不平等",
+        "titleZh": "中国精神疾病的污名：探讨国家精神卫生医疗改革初期性别、族群与疾病类型的交叉影响",
+        "abstractZh": ""
+      },
+      {
+        "title": "Disentangling the associations between women's decision-making power dynamics and maternal and child health outcomes in 35 sub-Saharan African countries",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0277953626007264?dgcid=rss_sd_all",
+        "date": "",
+        "abstract": "",
+        "source": "Social Science & Medicine",
+        "id": "https://www.sciencedirect.com/science/article/pii/S0277953626007264?dgcid=rss_sd_all",
+        "authors": [],
+        "topics": [],
+        "firstSeen": "2026-09-11",
+        "domains": [
+          "socialWork"
+        ],
+        "titleZh": "解析撒哈拉以南非洲35个国家女性决策权动态与妇幼健康结果的关联",
+        "abstractZh": ""
+      },
+      {
+        "title": "DIY global health: Informality, privilege and ideologies that drive short-term medical missions",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0277953626008476?dgcid=rss_sd_all",
+        "date": "",
+        "abstract": "",
+        "source": "Social Science & Medicine",
+        "id": "https://www.sciencedirect.com/science/article/pii/S0277953626008476?dgcid=rss_sd_all",
+        "authors": [],
+        "topics": [],
+        "firstSeen": "2026-09-11",
+        "domains": [
+          "socialWork"
+        ],
+        "titleZh": "DIY全球健康：驱动短期医疗任务的非正式性、特权与意识形态",
         "abstractZh": ""
       },
       {
@@ -2603,27 +2609,9 @@
         "topics": [],
         "firstSeen": "2026-08-11",
         "domains": [
-          "healthReform",
           "socialWork"
         ],
-        "titleZh": "美国医院物质使用治疗转介的不完全执行：从脱耦视角能获得什么启示？",
-        "abstractZh": ""
-      },
-      {
-        "title": "Treading a fine line in equitable breastfeeding support: balancing breastfeeding promotion while avoiding pressure to breastfeed – a realist evaluation",
-        "url": "https://www.sciencedirect.com/science/article/pii/S0277953626007914?dgcid=rss_sd_all",
-        "date": "",
-        "abstract": "",
-        "source": "Social Science & Medicine",
-        "id": "https://www.sciencedirect.com/science/article/pii/S0277953626007914?dgcid=rss_sd_all",
-        "authors": [],
-        "topics": [],
-        "firstSeen": "2026-08-11",
-        "domains": [
-          "socialWork",
-          "healthReform"
-        ],
-        "titleZh": "在公平的母乳喂养支持中走钢丝：在促进母乳喂养与避免母乳喂养压力之间寻求平衡——一项现实主义评估",
+        "titleZh": "美国医院物质使用治疗转介的不完全执行：从脱耦视角能学到什么？",
         "abstractZh": ""
       },
       {
@@ -2637,10 +2625,10 @@
         "topics": [],
         "firstSeen": "2026-08-11",
         "domains": [
-          "socialWork",
-          "healthReform"
+          "healthReform",
+          "socialWork"
         ],
-        "titleZh": "强制性支持而非强制报告：重新构想针对药物使用女性的孕产保健服务",
+        "titleZh": "强制支持而非强制报告：重新构想吸毒女性的孕产保健",
         "abstractZh": ""
       },
       {
@@ -2654,10 +2642,9 @@
         "topics": [],
         "firstSeen": "2026-08-11",
         "domains": [
-          "socialWork",
-          "healthReform"
+          "socialWork"
         ],
-        "titleZh": "被排斥的酷儿：2SLGBTQ+黑人、原住民及有色人种家庭扩展与对生育诊所的策略性协商",
+        "titleZh": "错误类型的酷儿：2SLGBTQ+黑人、原住民及有色人种家庭扩展与生育诊所的战略导航",
         "abstractZh": ""
       },
       {
@@ -2673,42 +2660,7 @@
         "domains": [
           "socialWork"
         ],
-        "titleZh": "生活于工作之中：感染艾滋病毒的青少年同伴导航员的内在与身份挑战",
-        "abstractZh": ""
-      },
-      {
-        "title": "Intersecting vulnerabilities, diverging pathways: an intersectional analysis of PrEP access disparities among migrant populations in Belgium",
-        "url": "https://www.sciencedirect.com/science/article/pii/S0277953626007197?dgcid=rss_sd_all",
-        "date": "",
-        "abstract": "",
-        "source": "Social Science & Medicine",
-        "id": "https://www.sciencedirect.com/science/article/pii/S0277953626007197?dgcid=rss_sd_all",
-        "authors": [],
-        "topics": [],
-        "firstSeen": "2026-08-11",
-        "domains": [
-          "healthReform",
-          "socialWork"
-        ],
-        "titleZh": "交叉脆弱性与分化路径：比利时移民群体暴露前预防（PrEP）获取差异的交叉性分析",
-        "abstractZh": ""
-      },
-      {
-        "title": "Saving money, costing women: the gendered price of hospital-at-home",
-        "url": "https://www.sciencedirect.com/science/article/pii/S0277953626007380?dgcid=rss_sd_all",
-        "date": "",
-        "abstract": "",
-        "source": "Social Science & Medicine",
-        "id": "https://www.sciencedirect.com/science/article/pii/S0277953626007380?dgcid=rss_sd_all",
-        "authors": [],
-        "topics": [],
-        "firstSeen": "2026-08-11",
-        "domains": [
-          "elderCare",
-          "healthReform",
-          "socialWork"
-        ],
-        "titleZh": "节省费用却由女性买单：医院居家照护的性别代价",
+        "titleZh": "活在工作之中：感染艾滋病毒的青少年同伴导航员的内在与身份挑战",
         "abstractZh": ""
       },
       {
@@ -2724,7 +2676,7 @@
         "domains": [
           "socialWork"
         ],
-        "titleZh": "寻求庇护者暴力暴露的(非)独特之处何在？来自一项新型网络调查的新见解",
+        "titleZh": "寻求庇护者的暴力暴露有何（不）独特之处？来自一项新型网络调查的新见解",
         "abstractZh": ""
       },
       {
@@ -2739,9 +2691,10 @@
         "firstSeen": "2026-08-11",
         "domains": [
           "elderCare",
-          "socialWork"
+          "socialWork",
+          "healthReform"
         ],
-        "titleZh": "玻璃杯半满？残障照护中的比例分配与福祉",
+        "titleZh": "半杯满？比例配给与残障照护中的福祉",
         "abstractZh": ""
       },
       {
@@ -2757,7 +2710,7 @@
         "domains": [
           "socialWork"
         ],
-        "titleZh": "应对协同流行：莱索托农村的照护、双重身份与儿童户主家庭",
+        "titleZh": "穿越协同流行：莱索托农村的照护、双重身份与儿童当家户",
         "abstractZh": ""
       },
       {
@@ -2773,7 +2726,7 @@
         "domains": [
           "socialWork"
         ],
-        "titleZh": "表面之下的沉默：审视亚裔移民女性所遭受的交叉性性暴力",
+        "titleZh": "表面之下的沉默：审视亚裔移民女性中的交叉性性暴力",
         "abstractZh": ""
       },
       {
@@ -2790,24 +2743,24 @@
           "healthReform",
           "socialWork"
         ],
-        "titleZh": "美国移民拘留期间医疗照护中断与心理健康结局的持久关联",
+        "titleZh": "美国移民拘留期间医疗中断与心理健康结局的持续关联",
         "abstractZh": ""
       },
       {
-        "title": "Associations between student social position, training, and plans to care for underserved populations over the course of medical school",
-        "url": "https://www.sciencedirect.com/science/article/pii/S0277953626007173?dgcid=rss_sd_all",
+        "title": "HIV medication adherence in the migration and settlement journey: Experiences and perspectives of migrant women living with HIV",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0277953626007896?dgcid=rss_sd_all",
         "date": "",
         "abstract": "",
         "source": "Social Science & Medicine",
-        "id": "https://www.sciencedirect.com/science/article/pii/S0277953626007173?dgcid=rss_sd_all",
+        "id": "https://www.sciencedirect.com/science/article/pii/S0277953626007896?dgcid=rss_sd_all",
         "authors": [],
         "topics": [],
-        "firstSeen": "2026-08-11",
+        "firstSeen": "2026-09-11",
         "domains": [
           "healthReform",
           "socialWork"
         ],
-        "titleZh": "医学生的社会地位、培训与在医学院就读期间服务弱势群体意愿之间的关联",
+        "titleZh": "迁移与定居过程中的HIV药物依从性：感染HIV的移民女性的经历与观点",
         "abstractZh": ""
       },
       {
@@ -2821,26 +2774,26 @@
         "topics": [],
         "firstSeen": "2026-08-11",
         "domains": [
-          "elderCare",
-          "socialWork"
+          "socialWork",
+          "elderCare"
         ],
-        "titleZh": "当不确定变为内疚：中国膀胱癌术后居家尿路造口护理的道德化",
+        "titleZh": "当不确定性变为内疚：中国膀胱癌术后家庭尿路造口照护的道德化",
         "abstractZh": ""
       },
       {
-        "title": "Interpreters as epistemic brokers in cross-cultural primary care consultations in Ireland: A discourse analysis",
-        "url": "https://www.sciencedirect.com/science/article/pii/S0277953626007409?dgcid=rss_sd_all",
+        "title": "HIV disclosure in Ugandan schools: A qualitative study of how educators navigate the institutional ecology of information, HIV stigma, and care",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0277953626007410?dgcid=rss_sd_all",
         "date": "",
         "abstract": "",
         "source": "Social Science & Medicine",
-        "id": "https://www.sciencedirect.com/science/article/pii/S0277953626007409?dgcid=rss_sd_all",
+        "id": "https://www.sciencedirect.com/science/article/pii/S0277953626007410?dgcid=rss_sd_all",
         "authors": [],
         "topics": [],
-        "firstSeen": "2026-08-11",
+        "firstSeen": "2026-09-11",
         "domains": [
           "socialWork"
         ],
-        "titleZh": "跨文化初级医疗咨询中口译员作为认识论中介：爱尔兰的话语分析",
+        "titleZh": "乌干达学校中的HIV信息披露：一项关于教育工作者如何应对信息、HIV污名与照护制度生态的质性研究",
         "abstractZh": ""
       },
       {
@@ -2857,7 +2810,7 @@
           "socialSecurity",
           "socialWork"
         ],
-        "titleZh": "住房改善对新西兰低收入家庭大规模队列中儿童住院率的影响",
+        "titleZh": "住房改善对新西兰低收入家庭大型队列中儿童住院率的影响",
         "abstractZh": ""
       },
       {
@@ -2873,7 +2826,23 @@
         "domains": [
           "socialWork"
         ],
-        "titleZh": "从残障儿童与社区利益相关者视角理解塞拉利昂校园性别暴力",
+        "titleZh": "理解塞拉利昂残疾儿童及社区利益相关者视角下的校园性别暴力",
+        "abstractZh": ""
+      },
+      {
+        "title": "Structural stigma and intersectional inequality in schizophrenia: A systematic review and qualitative meta-synthesis",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0277953626007926?dgcid=rss_sd_all",
+        "date": "",
+        "abstract": "",
+        "source": "Social Science & Medicine",
+        "id": "https://www.sciencedirect.com/science/article/pii/S0277953626007926?dgcid=rss_sd_all",
+        "authors": [],
+        "topics": [],
+        "firstSeen": "2026-09-11",
+        "domains": [
+          "socialWork"
+        ],
+        "titleZh": "精神分裂症中的结构性污名与交叉性不平等：一项系统综述与定性元综合",
         "abstractZh": ""
       },
       {
@@ -2889,23 +2858,7 @@
         "domains": [
           "socialWork"
         ],
-        "titleZh": "身体与感官残疾及流离失所：一项系统综述",
-        "abstractZh": ""
-      },
-      {
-        "title": "Socioeconomic adversity and child health following the COVID-19 pandemic: A convergent integrated mixed-methods review of household and neighbourhood inequalities",
-        "url": "https://www.sciencedirect.com/science/article/pii/S0277953626007574?dgcid=rss_sd_all",
-        "date": "",
-        "abstract": "",
-        "source": "Social Science & Medicine",
-        "id": "https://www.sciencedirect.com/science/article/pii/S0277953626007574?dgcid=rss_sd_all",
-        "authors": [],
-        "topics": [],
-        "firstSeen": "2026-08-11",
-        "domains": [
-          "socialWork"
-        ],
-        "titleZh": "社会经济逆境与新冠疫情后儿童健康：家庭与社区不平等的融合综合混合方法综述",
+        "titleZh": "身体残疾与感官残疾及流离失所：一项系统综述",
         "abstractZh": ""
       },
       {
@@ -2919,10 +2872,9 @@
         "topics": [],
         "firstSeen": "2026-09-11",
         "domains": [
-          "socialWork",
-          "healthReform"
+          "socialWork"
         ],
-        "titleZh": "高温、居家暴力与家庭暴力伤害：来自医院急诊就诊数据的证据",
+        "titleZh": "高温、家庭攻击与家庭暴力伤害：来自医院急诊科就诊数据的证据",
         "abstractZh": ""
       },
       {
@@ -2938,43 +2890,45 @@
         "domains": [
           "socialWork"
         ],
-        "titleZh": "\"乞丐无权挑选\"：探讨无家可归者获得慈善餐饮服务时的服务使用者视角",
-        "abstractZh": ""
-      },
-      {
-        "title": "“This didn’t exist back then”: A Focus Group Study on Adolescents’ Account of Mental Illness Perceptions in the Context of Family, Peers, and Social Media",
-        "url": "https://www.sciencedirect.com/science/article/pii/S0277953626008233?dgcid=rss_sd_all",
-        "date": "",
-        "abstract": "",
-        "source": "Social Science & Medicine",
-        "id": "https://www.sciencedirect.com/science/article/pii/S0277953626008233?dgcid=rss_sd_all",
-        "authors": [],
-        "topics": [],
-        "firstSeen": "2026-08-11",
-        "domains": [
-          "socialWork"
-        ],
-        "titleZh": "\"那时候还没有这个\"：青少年在家庭、同伴与社交媒体背景下对精神疾病认知的焦点小组研究",
+        "titleZh": "\"叫花子不能挑三拣四\"：探讨无家可归者获取慈善餐食服务的使用者视角",
         "abstractZh": ""
       }
     ]
   },
   "totals": {
-    "socialSecurity": 26,
-    "elderCare": 21,
-    "healthReform": 61,
-    "agingHealth": 27,
-    "socialWork": 43
+    "socialSecurity": 24,
+    "elderCare": 19,
+    "healthReform": 54,
+    "agingHealth": 32,
+    "socialWork": 45
   },
   "feeds_ok": 25,
-  "new_today": 18,
+  "new_today": 606,
   "new_by_journal": {
-    "International Economic Review:": 1,
-    "Journal of Comparative Economics": 5,
-    "Journal of Development Economics": 1,
-    "Journal of Econometrics": 2,
-    "Journal of Financial Economics": 2,
-    "Journal of Public Economics": 2,
-    "Social Science & Medicine": 5
+    "American Economic Review": 10,
+    "China Economic Review": 21,
+    "Econometrica": 15,
+    "International Economic Review:": 54,
+    "International Journal of Nursing Studies": 25,
+    "Journal of Applied Econometrics": 38,
+    "Journal of Comparative Economics": 50,
+    "Journal of Development Economics": 40,
+    "Journal of Econometrics": 48,
+    "Journal of Financial Economics": 18,
+    "Journal of Health Economics": 4,
+    "Journal of International Economics": 27,
+    "Journal of Monetary Economics": 14,
+    "Journal of Public Economics": 34,
+    "Journal of Urban Economics": 29,
+    "Journal of the European Economic Association": 10,
+    "Review of Finance Current Issue": 7,
+    "Social Science & Medicine": 41,
+    "The Economic Journal": 12,
+    "The Journal of Finance": 37,
+    "The Journal of Industrial Economics": 18,
+    "The Quarterly Journal of Economics": 14,
+    "The RAND Journal of Economics": 19,
+    "The Review of Economic Studies": 18,
+    "The Review of Financial Studies": 7
   }
 }
