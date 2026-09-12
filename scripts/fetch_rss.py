@@ -378,15 +378,31 @@ def main() -> int:
     if enriched:
         print(f"  · CrossRef 补摘要 {enriched} 篇")
 
-    # 按论文级 domains 归桶（每篇论文自带 domains 字段，由 M3 分类）
+    # ponytail: 先把旧 papers.json 的论文加载进 seen（保证不丢失）
+    if DATA_OUT.exists():
+        try:
+            old = json.loads(DATA_OUT.read_text())
+            for arr in (old.get("domains") or {}).values():
+                for p in arr:
+                    if p.get("url") and p["url"] not in seen:
+                        seen[p["url"]] = p
+            print(f"  · 合并旧文件 {sum(1 for arr in (old.get('domains') or {}).values() for _ in arr)} 条")
+        except Exception as e:
+            print(f"  ! 合并旧文件失败: {e}", file=sys.stderr)
+
+    # 按论文级 domains 归桶
     classified: dict[str, list[dict]] = {
         "socialSecurity": [], "elderCare": [], "healthReform": [],
         "agingHealth": [], "socialWork": [],
     }
     for paper in seen.values():
         for d in (paper.get("domains") or []):
-            if d in classified:
+            if d in classified and paper not in classified[d]:
                 classified[d].append(paper)
+        # ponytail: 未分类论文默认入 socialSecurity（至少在某个 tab 可见）
+        if not paper.get("domains"):
+            if paper not in classified["socialSecurity"]:
+                classified["socialSecurity"].append(paper)
 
     # 时间倒序
     for cat in classified:
