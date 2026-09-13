@@ -328,9 +328,8 @@ def main() -> int:
     today = date.today().isoformat()
     new_count = 0
 
-    # ponytail: 启用 M3 时，新论文抓完立即做"分类+翻译"
-    from translate import process_paper as m3_process
-    m3_enabled = bool(os.environ.get("MINIMAX_API_KEY"))
+    # ponytail: M3 翻译移出此脚本（曾经卡住 cron）。新论文先入 seen，后续用
+    # scripts/translate.py 或 scripts/retranslate.py 离线批量补翻译。
 
     for f in feeds:
         name, url = f["name"], f["url"]
@@ -356,18 +355,6 @@ def main() -> int:
             else:
                 it["firstSeen"] = today
                 new_count += 1
-            # 新论文调 M3 分类+翻译（已有则跳过：之前批处理时已加）
-            if m3_enabled and not it.get("domains"):
-                try:
-                    res = m3_process(it)
-                    it["domains"]    = res["domains"]
-                    it["titleZh"]    = res["titleZh"]
-                    it["abstractZh"] = res["abstractZh"]
-                except Exception as e:  # noqa: BLE001
-                    print(f"  ! M3 处理失败 {it['url'][:60]}: {e}", file=sys.stderr)
-                    it.setdefault("domains", [])
-                    it.setdefault("titleZh", it["title"])
-                    it.setdefault("abstractZh", "")
             seen[it["url"]] = it
             added += 1
         print(f"  · {name}: +{added}")
