@@ -1,0 +1,42 @@
+{
+  "_comment": "ISSN 列表 + 领域映射。CrossRef 主，RSS 辅。",
+  "domains": {
+    "socialSecurity": ["社会保障", "养老金", "社保"],
+    "elderCare":      ["老年照护", "长期照护", "养老"],
+    "healthReform":   ["医疗改革", "卫生政策", "医保"],
+    "agingHealth":    ["老龄健康", "痴呆", "健康老龄化"],
+    "socialWork":     ["社会工作", "儿童福利", "社区服务"]
+  },
+  "crossref_issns": [
+    { "issn": "0047-2727", "journal": "Journal of Public Economics",          "domains": ["socialSecurity", "healthReform"] },
+    { "issn": "0277-9536", "journal": "Social Science & Medicine",           "domains": ["healthReform", "elderCare", "agingHealth", "socialWork"] },
+    { "issn": "0167-6296", "journal": "Journal of Health Economics",          "domains": ["healthReform", "socialSecurity", "elderCare", "agingHealth"] },
+    { "issn": "0022-4367", "journal": "Journal of Risk and Insurance",       "domains": ["socialSecurity"] },
+    { "issn": "1525-8610", "journal": "JAMDA",                               "domains": ["elderCare", "agingHealth"] },
+    { "issn": "0002-0729", "journal": "Age and Ageing",                       "domains": ["elderCare", "agingHealth"] },
+    { "issn": "0016-9013", "journal": "The Gerontologist",                    "domains": ["elderCare", "agingHealth"] },
+    { "issn": "1079-5006", "journal": "Journals of Gerontology Series A",     "domains": ["agingHealth", "elderCare"] },
+    { "issn": "0002-8614", "journal": "JAGS",                                 "domains": ["elderCare", "agingHealth"] },
+    { "issn": "1471-2318", "journal": "BMC Geriatrics",                      "domains": ["elderCare", "agingHealth"] },
+    { "issn": "0098-7484", "journal": "JAMA",                                 "domains": ["healthReform"] },
+    { "issn": "0028-4793", "journal": "NEJM",                                 "domains": ["healthReform"] },
+    { "issn": "0140-6736", "journal": "The Lancet",                           "domains": ["healthReform", "agingHealth"] },
+    { "issn": "0959-8138", "journal": "BMJ",                                  "domains": ["healthReform"] },
+    { "issn": "0278-2715", "journal": "Health Affairs",                       "domains": ["healthReform"] },
+    { "issn": "0887-378X", "journal": "Milbank Quarterly",                   "domains": ["healthReform", "socialSecurity"] },
+    { "issn": "1098-3015", "journal": "Value in Health",                      "domains": ["healthReform"] },
+    { "issn": "1170-7690", "journal": "PharmacoEconomics",                    "domains": ["healthReform"] },
+    { "issn": "0070-3370", "journal": "Demography",                           "domains": ["agingHealth", "socialSecurity"] },
+    { "issn": "1044-3983", "journal": "Epidemiology",                         "domains": ["agingHealth", "healthReform"] },
+    { "issn": "0002-9262", "journal": "American Journal of Epidemiology",     "domains": ["agingHealth", "healthReform"] },
+    { "issn": "1552-5260", "journal": "Alzheimer's & Dementia",              "domains": ["agingHealth"] },
+    { "issn": "1387-2877", "journal": "J Alzheimer's Disease",                "domains": ["agingHealth"] },
+    { "issn": "1468-0173", "journal": "Journal of Social Work",               "domains": ["socialWork"] },
+    { "issn": "0037-8046", "journal": "Social Work",                          "domains": ["socialWork"] },
+    { "issn": "0190-7409", "journal": "Children and Youth Services Review",    "domains": ["socialWork"] },
+    { "issn": "0885-7482", "journal": "J Family Violence",                   "domains": ["socialWork"] },
+    { "issn": "1049-7315", "journal": "Research on Social Work Practice",     "domains": ["socialWork"] },
+    { "issn": "0045-3102", "journal": "British Journal of Social Work",        "domains": ["socialWork"] },
+    { "issn": "0360-7283", "journal": "Health & Social Work",                "domains": ["socialWork", "healthReform"] }
+  ]
+}
