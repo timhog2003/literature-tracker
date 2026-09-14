@@ -1,6 +1,6 @@
 {
   "date": "2026-09-14",
-  "fetched": "2026-09-14T03:36:52+00:00",
+  "fetched": "2026-09-14T06:37:32+00:00",
   "domains": {
     "socialSecurity": [
       {
@@ -23247,6 +23247,103 @@
     ],
     "elderCare": [
       {
+        "id": "doi:10.1186/s12877-026-08290-0",
+        "doi": "10.1186/s12877-026-08290-0",
+        "url": "https://doi.org/10.1186/s12877-026-08290-0",
+        "title": "Effects of a multicomponent exercise programme including high-intensity interval training in institutionalised older adults with probable sarcopenia: a multicentre randomised controlled trial",
+        "authors": [
+          "J. Zapata-Linares",
+          "M. A. Cardero-Durán",
+          "C. Fernández-Morales",
+          "G. Gervasini",
+          "L. Espejo-Antúnez"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-14",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-14",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-07815-x",
+        "doi": "10.1186/s12877-026-07815-x",
+        "url": "https://doi.org/10.1186/s12877-026-07815-x",
+        "title": "Development and validation of a nomogram for predicting mild cognitive impairment in older patients with chronic heart failure",
+        "authors": [
+          "Lu Jingyu",
+          "Wang Shanshan",
+          "Fan Siyue",
+          "Ding Wen",
+          "Wang Ru",
+          "Liu Minhui"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-14",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-14",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08283-z",
+        "doi": "10.1186/s12877-026-08283-z",
+        "url": "https://doi.org/10.1186/s12877-026-08283-z",
+        "title": "Self-neglect among hospitalized older adults based on the health ecological model: an explanatory sequential mixed-methods study",
+        "authors": [
+          "Xiaohui Yang",
+          "Jing Guo",
+          "Sheng Luo",
+          "Yanjin Li",
+          "Xiaoming Shang",
+          "Qihui Sun",
+          "Zuoyong Shi",
+          "Yuxiu Liu"
+        ],
+        "abstract": "Abstract                                        Background                     Research on self-neglect has focused on community-dwelling populations, with hospitalized older adults understudied. Existing studies rely on quantitative surveys, rarely using qualitative methods.                                                           Aim                     This study aimed to examine the prevalence and multilevel correlates of self-neglect among hospitalized older adults, and to explain these patterns through participants’ accounts, using the health ecological model (HEM).                                                           Methods                     We used an explanatory sequential mixed-methods design. Phase 1 was a cross-sectional survey of 219 hospitalized older adults recruited from a tertiary hospital in China, using the Scale of Elder Self-Neglect–Rural (SESNr), Patient Health Questionnaire-9 (PHQ-9), Activities of Daily Living scale (ADL), Tilburg Frailty Indicator (TFI), and Social Support Rating Scale (SSRS). Phase 2 involved semi-structured interviews with 16 participants with an SESNr score ≥ 1, purposively sampled by maximum variation and analyzed using conventional (inductive) content analysis. Findings were integrated in a joint display.                                                           Results                                            Applying SESNr criteria, 16.0% of participants were classified as having self-neglect, 73.1% possible self-neglect, and 10.9% no evidence of self-neglect. Depressive symptoms (IRR = 1.10, 95% CI 1.06–1.14), social support (IRR = 0.92, 95% CI 0.90–0.95), male sex (IRR = 1.30, 95% CI 1.05–1.60), ADL function (IRR = 1.01, 95% CI 1.00–1.02), number of admission diagnoses (IRR = 1.04, 95% CI 1.00–1.09), and age (IRR = 0.98, 95% CI 0.96–1.00) were independently associated with self-neglect severity. Education, monthly income, and insurance type were also independently associated (Wald χ² = 8.46, df = 3,                       P                       = .037; χ² = 7.04, df = 2,                       P                       = .030; χ² = 7.18, df = 2,                       P                       = .028, respectively). The qualitative findings identified four themes: limited health literacy, declining physical and cognitive capacity, low sense of self-worth, and limited family and social support. Depressive symptoms converged with the themes of declining capacity and low self-worth, while limited health literacy and cost-related postponement of care emerged only qualitatively, expanding the model beyond the survey.                                                                                Conclusions                     HEM-guided, nurse-led multilevel strategies — combining depression and functional screening, health-literacy support, and assessment of family and financial barriers—warrant development and evaluation in future intervention studies.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-14",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-14",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70702",
+        "doi": "10.1111/jgs.70702",
+        "url": "https://doi.org/10.1111/jgs.70702",
+        "title": "Resilience and Relief of Suffering for Older Adults at End‐of‐Life",
+        "authors": [
+          "Jason K. Bowman",
+          "Joan M. Teno"
+        ],
+        "abstract": "",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-09-13",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-14",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1093/geront/gnag209",
         "doi": "10.1093/geront/gnag209",
         "url": "https://doi.org/10.1093/geront/gnag209",
@@ -24841,6 +24938,50 @@
     ],
     "healthReform": [
       {
+        "id": "doi:10.1111/1468-0009.70128",
+        "doi": "10.1111/1468-0009.70128",
+        "url": "https://doi.org/10.1111/1468-0009.70128",
+        "title": "Addressing Social and Cultural Needs with Lean Management in a National Sample of US Physician Practices",
+        "authors": [
+          "DOROTHY Y. HUNG",
+          "LILLIAN C. LEVY",
+          "KAREN E. SCHIFFERDECKER",
+          "DASHA E. ZERBONI",
+          "STEPHEN M. SHORTELL"
+        ],
+        "abstract": "Policy Points                                                                                                                                         This national study of US physician practices finds that lean management, an approach to operational excellence and continuous quality improvement, can support integration of social and cultural services in primary care.                                                                                         The Centers for Medicare &amp; Medicaid Services and commercial payers can expand programs including value‐based, two‐sided risk and global budget payment models that incentivize social screening and follow‐up, language assistance, and workforce training to improve quality for vulnerable populations while reducing inequities in health care.                                                                                         The Centers for Medicare &amp; Medicaid Services may also consider requirements that physician practices implement operational or performance excellence systems, such as lean management for quality and process improvement, as a condition for participating in value‐based programs.                                                                                                                                                                                        Context                     Health‐related social needs—including stable housing, food security, and interpersonal safety—and patient race, ethnicity, and language (REAL) are key contributors to health equality. Although primary care practices are well positioned to connect patients with resources and provide ongoing support, integrating interventions into clinical workflows remains challenging. This study examines how lean management, a quality improvement approach that emphasizes standardized work processes and respect for people, can support practices in addressing the needs of diverse populations.                                                           Methods                     We leveraged data gathered from a nationally representative sample of 1,245 US physician practices. Key independent variables included lean implementation and practice use of specific techniques such as value stream mapping, daily management systems with standard work, and rapid‐cycle process improvement. We conducted multivariate regressions to assess relationships between the extent of lean implementation and availability of social and cultural support in primary care.                                                           Findings                                            Practices that implemented lean displayed 2.72 times the odds of having social screening, referral, and follow‐up systems in place (95% CI, 1.20‐6.19), and 2.85 times the odds of training providers on how to care for underserved populations (95% CI, 1.53‐5.28). These practices also offered more language assistance (odds ratio [OR], 2.16; 95% CI, 1.22‐3.82), routine collection of patient REAL data (OR, 3.75; 95% CI, 1.98‐7.09), and more confidently addressed issues of race and/or discrimination among patients and staff (β: 0.12,                       P                        = .040). Value stream mapping, care team huddles, daily management, rapid‐cycle improvement, and use of analytic tools were associated with higher odds of all sociocultural support measures, except for clinician representativeness of patients in terms race/ethnicity.                                                                                Conclusions                     Lean management can support efforts to address patient needs by facilitating social risk intervention and culturally responsive care. Attending to social and cultural needs in US physician practices may improve patient experiences and health outcomes, while reducing avoidable health care costs for individuals and populations.",
+        "source": "The Milbank Quarterly",
+        "issn": "0887-378X",
+        "date": "2026-09-12",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "socialSecurity"
+        ],
+        "firstSeen": "2026-09-14",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/1468-0009.70130",
+        "doi": "10.1111/1468-0009.70130",
+        "url": "https://doi.org/10.1111/1468-0009.70130",
+        "title": "The Czech Conundrum: Institutional Trust Erosion and COVID‐19 Pandemic Mortality",
+        "authors": [
+          "Charles P. Webel"
+        ],
+        "abstract": "Policy Points                                                                                                                                         Institutional trust appears to constitute an essential component of pandemic preparedness. Czech excess mortality—49% higher than Austria's and approximately twice the European mean—illustrates that governance failures can undermine functional preparedness assets.                                                                                         The observed 8–10‐week lag between trust decline and mortality divergence is consistent with a potential early‐warning window. Regular monitoring of public trust may identify governance deterioration before preventable mortality escalates, thereby operationalizing trust as a measurable governance outcome.                                                                                         Competent health leadership continuity is a protective factor, not a guarantee. Five Czech health ministers in 15 months coincided with the deterioration in public cooperation, demonstrating how political instability weakens pandemic‐response capacities even where technical preparedness exists.                                                                                                                                                                                        Context                     The Czech Republic's COVID‐19 excess mortality represents a preparedness paradox. Despite entering the pandemic with substantial technical capacity—including the highest intensive care unit density in the Organisation for Economic Co‐operation and Development, an early national mask mandate, and an initially effective contact‐tracing system—that country experienced age‐standardized excess mortality of 15.24 per 10,000, approximately twice the European mean and 49% higher than neighboring Austria.                                                           Methods                     This mixed‐methods comparative case analysis examined relevant data from March 2020 through December 2023. Austria was chosen as a comparative governance benchmark to the Czech Republic because it closely matched that country's initial governmental trust level (entering the pandemic within approximately two percentage points), and Slovakia is a historically and geographically proximate comparator. Age‐standardized excess mortality was examined alongside government trust measures, mobility indicators, vaccination data, and policy stringency indices. Exploratory lag correlations assessed the temporal relationship between changes in trust and subsequent mortality.                                                           Findings                     Czech governmental trust declined from approximately 71% to 19% during the pandemic period, among the largest declines in Europe. Austrian trust remained comparatively stable, whereas Slovakia also experienced a substantial decline in trust alongside high excess mortality. Czech mortality divergence from Austria emerged approximately 8–10 weeks after trust deterioration. Four mechanisms are proposed through which trust erosion may have influenced mortality: reduced compliance with public health measures, vaccine hesitancy, collapse of contact tracing, and governance‐associated misperceptions of the scientific consensus.                                                           Conclusions                     This analysis suggests that governance stability and institutional trust appear to function as important public health pandemic preparedness measures.",
+        "source": "The Milbank Quarterly",
+        "issn": "0887-378X",
+        "date": "2026-09-12",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "socialSecurity"
+        ],
+        "firstSeen": "2026-09-14",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1056/nejmicm2605936",
         "doi": "10.1056/nejmicm2605936",
         "url": "https://doi.org/10.1056/nejmicm2605936",
@@ -24990,50 +25131,6 @@
         "fetched_from": "crossref"
       },
       {
-        "id": "doi:10.1111/1468-0009.70128",
-        "doi": "10.1111/1468-0009.70128",
-        "url": "https://doi.org/10.1111/1468-0009.70128",
-        "title": "Addressing Social and Cultural Needs with Lean Management in a National Sample of US Physician Practices",
-        "authors": [
-          "DOROTHY Y. HUNG",
-          "LILLIAN C. LEVY",
-          "KAREN E. SCHIFFERDECKER",
-          "DASHA E. ZERBONI",
-          "STEPHEN M. SHORTELL"
-        ],
-        "abstract": "Policy Points                                                                                                                                         This national study of US physician practices finds that lean management, an approach to operational excellence and continuous quality improvement, can support integration of social and cultural services in primary care.                                                                                         The Centers for Medicare &amp; Medicaid Services and commercial payers can expand programs including value‐based, two‐sided risk and global budget payment models that incentivize social screening and follow‐up, language assistance, and workforce training to improve quality for vulnerable populations while reducing inequities in health care.                                                                                         The Centers for Medicare &amp; Medicaid Services may also consider requirements that physician practices implement operational or performance excellence systems, such as lean management for quality and process improvement, as a condition for participating in value‐based programs.                                                                                                                                                                                        Context                     Health‐related social needs—including stable housing, food security, and interpersonal safety—and patient race, ethnicity, and language (REAL) are key contributors to health equality. Although primary care practices are well positioned to connect patients with resources and provide ongoing support, integrating interventions into clinical workflows remains challenging. This study examines how lean management, a quality improvement approach that emphasizes standardized work processes and respect for people, can support practices in addressing the needs of diverse populations.                                                           Methods                     We leveraged data gathered from a nationally representative sample of 1,245 US physician practices. Key independent variables included lean implementation and practice use of specific techniques such as value stream mapping, daily management systems with standard work, and rapid‐cycle process improvement. We conducted multivariate regressions to assess relationships between the extent of lean implementation and availability of social and cultural support in primary care.                                                           Findings                                            Practices that implemented lean displayed 2.72 times the odds of having social screening, referral, and follow‐up systems in place (95% CI, 1.20‐6.19), and 2.85 times the odds of training providers on how to care for underserved populations (95% CI, 1.53‐5.28). These practices also offered more language assistance (odds ratio [OR], 2.16; 95% CI, 1.22‐3.82), routine collection of patient REAL data (OR, 3.75; 95% CI, 1.98‐7.09), and more confidently addressed issues of race and/or discrimination among patients and staff (β: 0.12,                       P                        = .040). Value stream mapping, care team huddles, daily management, rapid‐cycle improvement, and use of analytic tools were associated with higher odds of all sociocultural support measures, except for clinician representativeness of patients in terms race/ethnicity.                                                                                Conclusions                     Lean management can support efforts to address patient needs by facilitating social risk intervention and culturally responsive care. Attending to social and cultural needs in US physician practices may improve patient experiences and health outcomes, while reducing avoidable health care costs for individuals and populations.",
-        "source": "The Milbank Quarterly",
-        "issn": "0887-378X",
-        "date": "2026-09-12",
-        "subjects": [],
-        "domains": [
-          "healthReform",
-          "socialSecurity"
-        ],
-        "firstSeen": "2026-09-14",
-        "fetched_from": "crossref"
-      },
-      {
-        "id": "doi:10.1111/1468-0009.70130",
-        "doi": "10.1111/1468-0009.70130",
-        "url": "https://doi.org/10.1111/1468-0009.70130",
-        "title": "The Czech Conundrum: Institutional Trust Erosion and COVID‐19 Pandemic Mortality",
-        "authors": [
-          "Charles P. Webel"
-        ],
-        "abstract": "Policy Points                                                                                                                                         Institutional trust appears to constitute an essential component of pandemic preparedness. Czech excess mortality—49% higher than Austria's and approximately twice the European mean—illustrates that governance failures can undermine functional preparedness assets.                                                                                         The observed 8–10‐week lag between trust decline and mortality divergence is consistent with a potential early‐warning window. Regular monitoring of public trust may identify governance deterioration before preventable mortality escalates, thereby operationalizing trust as a measurable governance outcome.                                                                                         Competent health leadership continuity is a protective factor, not a guarantee. Five Czech health ministers in 15 months coincided with the deterioration in public cooperation, demonstrating how political instability weakens pandemic‐response capacities even where technical preparedness exists.                                                                                                                                                                                        Context                     The Czech Republic's COVID‐19 excess mortality represents a preparedness paradox. Despite entering the pandemic with substantial technical capacity—including the highest intensive care unit density in the Organisation for Economic Co‐operation and Development, an early national mask mandate, and an initially effective contact‐tracing system—that country experienced age‐standardized excess mortality of 15.24 per 10,000, approximately twice the European mean and 49% higher than neighboring Austria.                                                           Methods                     This mixed‐methods comparative case analysis examined relevant data from March 2020 through December 2023. Austria was chosen as a comparative governance benchmark to the Czech Republic because it closely matched that country's initial governmental trust level (entering the pandemic within approximately two percentage points), and Slovakia is a historically and geographically proximate comparator. Age‐standardized excess mortality was examined alongside government trust measures, mobility indicators, vaccination data, and policy stringency indices. Exploratory lag correlations assessed the temporal relationship between changes in trust and subsequent mortality.                                                           Findings                     Czech governmental trust declined from approximately 71% to 19% during the pandemic period, among the largest declines in Europe. Austrian trust remained comparatively stable, whereas Slovakia also experienced a substantial decline in trust alongside high excess mortality. Czech mortality divergence from Austria emerged approximately 8–10 weeks after trust deterioration. Four mechanisms are proposed through which trust erosion may have influenced mortality: reduced compliance with public health measures, vaccine hesitancy, collapse of contact tracing, and governance‐associated misperceptions of the scientific consensus.                                                           Conclusions                     This analysis suggests that governance stability and institutional trust appear to function as important public health pandemic preparedness measures.",
-        "source": "The Milbank Quarterly",
-        "issn": "0887-378X",
-        "date": "2026-09-12",
-        "subjects": [],
-        "domains": [
-          "healthReform",
-          "socialSecurity"
-        ],
-        "firstSeen": "2026-09-14",
-        "fetched_from": "crossref"
-      },
-      {
         "id": "doi:10.1093/hsw/hlag034",
         "doi": "10.1093/hsw/hlag034",
         "url": "https://doi.org/10.1093/hsw/hlag034",
@@ -25093,6 +25190,50 @@
         "domains": [
           "socialWork",
           "healthReform"
+        ],
+        "firstSeen": "2026-09-14",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/1468-0009.70126",
+        "doi": "10.1111/1468-0009.70126",
+        "url": "https://doi.org/10.1111/1468-0009.70126",
+        "title": "The Inverted Circuit: Attribution, Answerability, and Accountability in Canadian Health Governance",
+        "authors": [
+          "ALAN H. MENKIS"
+        ],
+        "abstract": "Policy Points                                                                                                                                         Canada and the United States have not failed for want of accountability mechanisms in health governance. They have failed because accountability is repeatedly invoked where attribution and answerability are not already standing, so the result is the punishment of visible individuals rather than structural correction.                                                                                         The corrective is to restore the order of dependency: first name which institution is responsible for an outcome, then require it to report against a benchmarked standard set in advance, and only then attach consequences. Applied in this order, the framework transfers to any federated system in which central funding flows without binding accountability for results.                                                                                         Structural correctives require independent oversight bodies whose mandate, funding, and membership are insulated from the institutions they regulate; proactive mandatory reporting against pre‐set standards; and explicit attribution of population‐level outcomes to named institutional responsibilities.                                                                                                                                                                                        Context                     Canada and the United States have pursued health‐system accountability for decades through inquiries, commissions, and public reporting, yet the same governance failures recur. This Perspective argues that accountability has repeatedly been reached for before the conditions that make it coherent were in place.                                                           Methods                     The paper develops a conceptual framework, the fiduciary circuit. The analysis draws on inquest and commission records, the safety‐science and governance literature, and illustrative program‐ and system‐level cases from cardiac care and intergovernmental health financing in Canada and the United States.                                                           Findings                     Attribution, answerability, and accountability stand in a relation of logical dependency rather than temporal sequence: accountability is incoherent unless responsibility has first been assigned and answerability secured. Where the circuit is closed, as in Manitoba's CODE STEMI program for acute heart‐attack care, outcomes improve; where it is entered at accountability after a failure, as in federal‐provincial transfers, it produces the scapegoating of visible individuals while structural conditions persist. The recurring signature is that improvement which is not structurally protected is not retained.                                                           Conclusions                     The corrective is not another comprehensive reform but Popperian piecemeal engineering paired with independent statutory bodies whose mandate, funding, and membership are insulated from the institutions they regulate. Naming who is responsible, requiring them to answer against standards set in advance, and only then holding them to account is the order the fiduciary tradition has always demanded.",
+        "source": "The Milbank Quarterly",
+        "issn": "0887-378X",
+        "date": "2026-09-11",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "socialSecurity"
+        ],
+        "firstSeen": "2026-09-14",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/1468-0009.70127",
+        "doi": "10.1111/1468-0009.70127",
+        "url": "https://doi.org/10.1111/1468-0009.70127",
+        "title": "The State of Primary Care in the United States",
+        "authors": [
+          "ROBERT L. PHILLIPS",
+          "DEBORAH J. COHEN",
+          "ETHAN J. PHILLIPS",
+          "LAUREN S. HUGHES",
+          "ANDREW W. BAZEMORE"
+        ],
+        "abstract": "Policy Points                                                                                                                                         Primary care, when done well, is the country's most cost‐effective solution to runaway costs and widening health outcome gaps.                                                                                         Primary care is increasingly starved for resources, with associated reductions in relational continuity and comprehensiveness that collectively increase the risk of losing patient trust.                                                                                                                          The 2021 National Academies of Sciences, Engineering, and Medicine report,                                 Implementing High‐Quality Primary Care: Rebuilding the Foundation of Health Care                                 , supported a cascade of federal initiatives to strengthen, coordinate, and create accountability for primary care strategies, and although several derailed, they remain options for improving health and health care. The 2021 National Academies of Sciences, Engineering, and Medicine report,                                 Implementing High‐Quality Primary Care: Rebuilding the Foundation of Health Care                                 , spurred a cascade of federal payment, access, and accountability initiatives, but inconsistent federal leadership has derailed several of them.                                                                                                                        Congressional and HHS health goals would benefit from reviving stalled primary care infrastructure projects, establish outcome accountability for graduate medical education investment, and build on state models in Maryland, Rhode Island, Vermont, and California.                                                                                                                                                                                        Context                     Primary care is the foundation of a high‐functioning health system, yet it has been weakened for decades, and the consequences for patients, population health, and costs are increasingly apparent. The 2021 National Academies of Sciences, Engineering, and Medicine (NASEM) report offered 16 recommendations across five objectives for rebuilding primary care through payment, access, workforce training, health information technology, and accountability.                                                           Methods                     This Perspective reviews federal and state policy developments since the NASEM report against its five‐objective framework, examining payment demonstration models, minimum primary care spend legislation, graduate medical education financing, and federal data infrastructure initiatives to assess where reform has taken hold, stalled, or been abandoned amid shifting administration priorities.                                                           Findings                     Partial payment successes, including the Advanced Primary Care Management code, the AHEAD model, and minimum‐spend policies in nearly a dozen states, demonstrate that reform is feasible. Yet inconsistent federal leadership has undermined progress: the Making Care Primary model was abruptly terminated, and several near‐complete Agency for Healthcare Research and Quality initiatives—a primary care dashboard, Healthcare Extension Cooperatives, and a clinician/practice database—were lost amid the agency's proposed dissolution. Meanwhile, cuts to Affordable Care Act subsidies and Medicaid threaten to disrupt care for millions and widen mortality gaps. States are increasingly serving as policy laboratories, with Maryland, Rhode Island, Vermont, and California offering replicable models for payment and accountability reform.                                                           Conclusions                     The technical solutions needed to strengthen primary care largely already exist. What is missing is durable, coordinated federal and state investment paired with accountability. Securing primary care's future requires treating it as essential public infrastructure.",
+        "source": "The Milbank Quarterly",
+        "issn": "0887-378X",
+        "date": "2026-09-11",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "socialSecurity"
         ],
         "firstSeen": "2026-09-14",
         "fetched_from": "crossref"
@@ -25243,50 +25384,6 @@
         "subjects": [],
         "domains": [
           "healthReform"
-        ],
-        "firstSeen": "2026-09-14",
-        "fetched_from": "crossref"
-      },
-      {
-        "id": "doi:10.1111/1468-0009.70126",
-        "doi": "10.1111/1468-0009.70126",
-        "url": "https://doi.org/10.1111/1468-0009.70126",
-        "title": "The Inverted Circuit: Attribution, Answerability, and Accountability in Canadian Health Governance",
-        "authors": [
-          "ALAN H. MENKIS"
-        ],
-        "abstract": "Policy Points                                                                                                                                         Canada and the United States have not failed for want of accountability mechanisms in health governance. They have failed because accountability is repeatedly invoked where attribution and answerability are not already standing, so the result is the punishment of visible individuals rather than structural correction.                                                                                         The corrective is to restore the order of dependency: first name which institution is responsible for an outcome, then require it to report against a benchmarked standard set in advance, and only then attach consequences. Applied in this order, the framework transfers to any federated system in which central funding flows without binding accountability for results.                                                                                         Structural correctives require independent oversight bodies whose mandate, funding, and membership are insulated from the institutions they regulate; proactive mandatory reporting against pre‐set standards; and explicit attribution of population‐level outcomes to named institutional responsibilities.                                                                                                                                                                                        Context                     Canada and the United States have pursued health‐system accountability for decades through inquiries, commissions, and public reporting, yet the same governance failures recur. This Perspective argues that accountability has repeatedly been reached for before the conditions that make it coherent were in place.                                                           Methods                     The paper develops a conceptual framework, the fiduciary circuit. The analysis draws on inquest and commission records, the safety‐science and governance literature, and illustrative program‐ and system‐level cases from cardiac care and intergovernmental health financing in Canada and the United States.                                                           Findings                     Attribution, answerability, and accountability stand in a relation of logical dependency rather than temporal sequence: accountability is incoherent unless responsibility has first been assigned and answerability secured. Where the circuit is closed, as in Manitoba's CODE STEMI program for acute heart‐attack care, outcomes improve; where it is entered at accountability after a failure, as in federal‐provincial transfers, it produces the scapegoating of visible individuals while structural conditions persist. The recurring signature is that improvement which is not structurally protected is not retained.                                                           Conclusions                     The corrective is not another comprehensive reform but Popperian piecemeal engineering paired with independent statutory bodies whose mandate, funding, and membership are insulated from the institutions they regulate. Naming who is responsible, requiring them to answer against standards set in advance, and only then holding them to account is the order the fiduciary tradition has always demanded.",
-        "source": "The Milbank Quarterly",
-        "issn": "0887-378X",
-        "date": "2026-09-11",
-        "subjects": [],
-        "domains": [
-          "healthReform",
-          "socialSecurity"
-        ],
-        "firstSeen": "2026-09-14",
-        "fetched_from": "crossref"
-      },
-      {
-        "id": "doi:10.1111/1468-0009.70127",
-        "doi": "10.1111/1468-0009.70127",
-        "url": "https://doi.org/10.1111/1468-0009.70127",
-        "title": "The State of Primary Care in the United States",
-        "authors": [
-          "ROBERT L. PHILLIPS",
-          "DEBORAH J. COHEN",
-          "ETHAN J. PHILLIPS",
-          "LAUREN S. HUGHES",
-          "ANDREW W. BAZEMORE"
-        ],
-        "abstract": "Policy Points                                                                                                                                         Primary care, when done well, is the country's most cost‐effective solution to runaway costs and widening health outcome gaps.                                                                                         Primary care is increasingly starved for resources, with associated reductions in relational continuity and comprehensiveness that collectively increase the risk of losing patient trust.                                                                                                                          The 2021 National Academies of Sciences, Engineering, and Medicine report,                                 Implementing High‐Quality Primary Care: Rebuilding the Foundation of Health Care                                 , supported a cascade of federal initiatives to strengthen, coordinate, and create accountability for primary care strategies, and although several derailed, they remain options for improving health and health care. The 2021 National Academies of Sciences, Engineering, and Medicine report,                                 Implementing High‐Quality Primary Care: Rebuilding the Foundation of Health Care                                 , spurred a cascade of federal payment, access, and accountability initiatives, but inconsistent federal leadership has derailed several of them.                                                                                                                        Congressional and HHS health goals would benefit from reviving stalled primary care infrastructure projects, establish outcome accountability for graduate medical education investment, and build on state models in Maryland, Rhode Island, Vermont, and California.                                                                                                                                                                                        Context                     Primary care is the foundation of a high‐functioning health system, yet it has been weakened for decades, and the consequences for patients, population health, and costs are increasingly apparent. The 2021 National Academies of Sciences, Engineering, and Medicine (NASEM) report offered 16 recommendations across five objectives for rebuilding primary care through payment, access, workforce training, health information technology, and accountability.                                                           Methods                     This Perspective reviews federal and state policy developments since the NASEM report against its five‐objective framework, examining payment demonstration models, minimum primary care spend legislation, graduate medical education financing, and federal data infrastructure initiatives to assess where reform has taken hold, stalled, or been abandoned amid shifting administration priorities.                                                           Findings                     Partial payment successes, including the Advanced Primary Care Management code, the AHEAD model, and minimum‐spend policies in nearly a dozen states, demonstrate that reform is feasible. Yet inconsistent federal leadership has undermined progress: the Making Care Primary model was abruptly terminated, and several near‐complete Agency for Healthcare Research and Quality initiatives—a primary care dashboard, Healthcare Extension Cooperatives, and a clinician/practice database—were lost amid the agency's proposed dissolution. Meanwhile, cuts to Affordable Care Act subsidies and Medicaid threaten to disrupt care for millions and widen mortality gaps. States are increasingly serving as policy laboratories, with Maryland, Rhode Island, Vermont, and California offering replicable models for payment and accountability reform.                                                           Conclusions                     The technical solutions needed to strengthen primary care largely already exist. What is missing is durable, coordinated federal and state investment paired with accountability. Securing primary care's future requires treating it as essential public infrastructure.",
-        "source": "The Milbank Quarterly",
-        "issn": "0887-378X",
-        "date": "2026-09-11",
-        "subjects": [],
-        "domains": [
-          "healthReform",
-          "socialSecurity"
         ],
         "firstSeen": "2026-09-14",
         "fetched_from": "crossref"
@@ -26386,6 +26483,27 @@
         "fetched_from": "crossref"
       },
       {
+        "id": "doi:10.1111/1468-0009.70123",
+        "doi": "10.1111/1468-0009.70123",
+        "url": "https://doi.org/10.1111/1468-0009.70123",
+        "title": "Building a Resilient Substance Use Disorder Treatment Safety Net in An Era of Austerity: Challenges for US State Governments",
+        "authors": [
+          "BRENDAN SALONER",
+          "YNGVILD OLSEN"
+        ],
+        "abstract": "Policy Points                                                                                                                                         State governments play a central role in reducing the health harms of substance use. This role has grown over the past two decades because of the evolving opioid crisis, expanded Medicaid eligibility, and new federal grants.                                                                                         Recent declines in drug overdose and improvements in services have been spurred by supportive federal policies and Medicaid funding, but progress could be undercut by ongoing federal policy changes.                                                                                         States seeking to maintain their progress in reducing overdose mortality and addressing substance use disorders will need to sustain investments in strategies that have expanded the continuum of specialty services and promoted integration with primary care, with vigilance to not backslide toward siloed, short‐term services.                                                                                                                                                                                        Context                     State governments play a central role in the delivery of substance use care in the United States, which has a profound impact on public health. Their role has grown substantially over time, as they have assumed more functions and confronted an unprecedented drug overdose crisis. While states have a wide array of regulatory and financing tools, they are confronting both longstanding challenges coordinating services and new headwinds from federal policy.                                                           Methods                     We examine historical and recent case studies in state substance use policy and synthesize key lessons.                                                           Findings                     States have undergone a massive transformation since the Affordable Care Act in their financing, but treatment services mostly remain segregated from general health care and partnerships across agencies remains a challenge. We highlight promising examples where states have pioneered new approaches to oversight, quality of care, or standards.                                                           Conclusions                     Anticipated budgetary pressures, including the impact of the “One Big Beautiful Bill” on Medicaid funding, will put further pressure on states to innovate, but also place major gains—such as the recent decline in overdose deaths—at risk.",
+        "source": "The Milbank Quarterly",
+        "issn": "0887-378X",
+        "date": "2026-09-09",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "socialSecurity"
+        ],
+        "firstSeen": "2026-09-14",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1001/jama.2026.15612",
         "doi": "10.1001/jama.2026.15612",
         "url": "https://doi.org/10.1001/jama.2026.15612",
@@ -26813,27 +26931,6 @@
         "subjects": [],
         "domains": [
           "healthReform"
-        ],
-        "firstSeen": "2026-09-14",
-        "fetched_from": "crossref"
-      },
-      {
-        "id": "doi:10.1111/1468-0009.70123",
-        "doi": "10.1111/1468-0009.70123",
-        "url": "https://doi.org/10.1111/1468-0009.70123",
-        "title": "Building a Resilient Substance Use Disorder Treatment Safety Net in An Era of Austerity: Challenges for US State Governments",
-        "authors": [
-          "BRENDAN SALONER",
-          "YNGVILD OLSEN"
-        ],
-        "abstract": "Policy Points                                                                                                                                         State governments play a central role in reducing the health harms of substance use. This role has grown over the past two decades because of the evolving opioid crisis, expanded Medicaid eligibility, and new federal grants.                                                                                         Recent declines in drug overdose and improvements in services have been spurred by supportive federal policies and Medicaid funding, but progress could be undercut by ongoing federal policy changes.                                                                                         States seeking to maintain their progress in reducing overdose mortality and addressing substance use disorders will need to sustain investments in strategies that have expanded the continuum of specialty services and promoted integration with primary care, with vigilance to not backslide toward siloed, short‐term services.                                                                                                                                                                                        Context                     State governments play a central role in the delivery of substance use care in the United States, which has a profound impact on public health. Their role has grown substantially over time, as they have assumed more functions and confronted an unprecedented drug overdose crisis. While states have a wide array of regulatory and financing tools, they are confronting both longstanding challenges coordinating services and new headwinds from federal policy.                                                           Methods                     We examine historical and recent case studies in state substance use policy and synthesize key lessons.                                                           Findings                     States have undergone a massive transformation since the Affordable Care Act in their financing, but treatment services mostly remain segregated from general health care and partnerships across agencies remains a challenge. We highlight promising examples where states have pioneered new approaches to oversight, quality of care, or standards.                                                           Conclusions                     Anticipated budgetary pressures, including the impact of the “One Big Beautiful Bill” on Medicaid funding, will put further pressure on states to innovate, but also place major gains—such as the recent decline in overdose deaths—at risk.",
-        "source": "The Milbank Quarterly",
-        "issn": "0887-378X",
-        "date": "2026-09-09",
-        "subjects": [],
-        "domains": [
-          "healthReform",
-          "socialSecurity"
         ],
         "firstSeen": "2026-09-14",
         "fetched_from": "crossref"
@@ -29511,6 +29608,103 @@
     ],
     "agingHealth": [
       {
+        "id": "doi:10.1186/s12877-026-08290-0",
+        "doi": "10.1186/s12877-026-08290-0",
+        "url": "https://doi.org/10.1186/s12877-026-08290-0",
+        "title": "Effects of a multicomponent exercise programme including high-intensity interval training in institutionalised older adults with probable sarcopenia: a multicentre randomised controlled trial",
+        "authors": [
+          "J. Zapata-Linares",
+          "M. A. Cardero-Durán",
+          "C. Fernández-Morales",
+          "G. Gervasini",
+          "L. Espejo-Antúnez"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-14",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-14",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-07815-x",
+        "doi": "10.1186/s12877-026-07815-x",
+        "url": "https://doi.org/10.1186/s12877-026-07815-x",
+        "title": "Development and validation of a nomogram for predicting mild cognitive impairment in older patients with chronic heart failure",
+        "authors": [
+          "Lu Jingyu",
+          "Wang Shanshan",
+          "Fan Siyue",
+          "Ding Wen",
+          "Wang Ru",
+          "Liu Minhui"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-14",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-14",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08283-z",
+        "doi": "10.1186/s12877-026-08283-z",
+        "url": "https://doi.org/10.1186/s12877-026-08283-z",
+        "title": "Self-neglect among hospitalized older adults based on the health ecological model: an explanatory sequential mixed-methods study",
+        "authors": [
+          "Xiaohui Yang",
+          "Jing Guo",
+          "Sheng Luo",
+          "Yanjin Li",
+          "Xiaoming Shang",
+          "Qihui Sun",
+          "Zuoyong Shi",
+          "Yuxiu Liu"
+        ],
+        "abstract": "Abstract                                        Background                     Research on self-neglect has focused on community-dwelling populations, with hospitalized older adults understudied. Existing studies rely on quantitative surveys, rarely using qualitative methods.                                                           Aim                     This study aimed to examine the prevalence and multilevel correlates of self-neglect among hospitalized older adults, and to explain these patterns through participants’ accounts, using the health ecological model (HEM).                                                           Methods                     We used an explanatory sequential mixed-methods design. Phase 1 was a cross-sectional survey of 219 hospitalized older adults recruited from a tertiary hospital in China, using the Scale of Elder Self-Neglect–Rural (SESNr), Patient Health Questionnaire-9 (PHQ-9), Activities of Daily Living scale (ADL), Tilburg Frailty Indicator (TFI), and Social Support Rating Scale (SSRS). Phase 2 involved semi-structured interviews with 16 participants with an SESNr score ≥ 1, purposively sampled by maximum variation and analyzed using conventional (inductive) content analysis. Findings were integrated in a joint display.                                                           Results                                            Applying SESNr criteria, 16.0% of participants were classified as having self-neglect, 73.1% possible self-neglect, and 10.9% no evidence of self-neglect. Depressive symptoms (IRR = 1.10, 95% CI 1.06–1.14), social support (IRR = 0.92, 95% CI 0.90–0.95), male sex (IRR = 1.30, 95% CI 1.05–1.60), ADL function (IRR = 1.01, 95% CI 1.00–1.02), number of admission diagnoses (IRR = 1.04, 95% CI 1.00–1.09), and age (IRR = 0.98, 95% CI 0.96–1.00) were independently associated with self-neglect severity. Education, monthly income, and insurance type were also independently associated (Wald χ² = 8.46, df = 3,                       P                       = .037; χ² = 7.04, df = 2,                       P                       = .030; χ² = 7.18, df = 2,                       P                       = .028, respectively). The qualitative findings identified four themes: limited health literacy, declining physical and cognitive capacity, low sense of self-worth, and limited family and social support. Depressive symptoms converged with the themes of declining capacity and low self-worth, while limited health literacy and cost-related postponement of care emerged only qualitatively, expanding the model beyond the survey.                                                                                Conclusions                     HEM-guided, nurse-led multilevel strategies — combining depression and functional screening, health-literacy support, and assessment of family and financial barriers—warrant development and evaluation in future intervention studies.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-14",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-14",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70702",
+        "doi": "10.1111/jgs.70702",
+        "url": "https://doi.org/10.1111/jgs.70702",
+        "title": "Resilience and Relief of Suffering for Older Adults at End‐of‐Life",
+        "authors": [
+          "Jason K. Bowman",
+          "Joan M. Teno"
+        ],
+        "abstract": "",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-09-13",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-14",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1093/geront/gnag209",
         "doi": "10.1093/geront/gnag209",
         "url": "https://doi.org/10.1093/geront/gnag209",
@@ -32102,46 +32296,6 @@
         "fetched_from": "crossref"
       },
       {
-        "id": "doi:10.1007/s10896-026-01182-2",
-        "doi": "10.1007/s10896-026-01182-2",
-        "url": "https://doi.org/10.1007/s10896-026-01182-2",
-        "title": "Using Quantitative Methods To Do Intersectional Research on Intimate Partner Violence in LGBTQIA+ Communities",
-        "authors": [
-          "Sinéad Kelleher",
-          "Áine Travers"
-        ],
-        "abstract": "",
-        "source": "Journal of Family Violence",
-        "issn": "0885-7482",
-        "date": "2026-09-12",
-        "subjects": [],
-        "domains": [
-          "socialWork"
-        ],
-        "firstSeen": "2026-09-14",
-        "fetched_from": "crossref"
-      },
-      {
-        "id": "doi:10.1093/bjsw/bcag182",
-        "doi": "10.1093/bjsw/bcag182",
-        "url": "https://doi.org/10.1093/bjsw/bcag182",
-        "title": "Everybody’s business? Public understanding of adult safeguarding in Northern Ireland",
-        "authors": [
-          "Lorna Montgomery",
-          "Paula Devine"
-        ],
-        "abstract": "Abstract                   Social work, as the frontline profession in adult safeguarding, relies on the vigilance and active participation of the public to identify and report safeguarding concerns. To date, little has been known about the public understanding of, and attitudes to, adult safeguarding. We report on the first comprehensive assessment of these issues in Northern Ireland. The 2024 Northern Ireland Life and Times survey asked a representative sample of 1,199 respondents aged eighteen years or over about their recognition of abuse, their perceived levels of harm and responses to abuse. The findings reveal that the public perceives substantial harm occurring to adults, particularly in private homes, although significant variations exist across demographic groups. Despite a reported willingness to act, many respondents indicated they would not know what to do, suggesting a significant knowledge gap. Concern about potential victimization of those who report abuse was identified, with only moderate confidence in trusting the investigative role of Social Services and the police. Recommendations for enhancement of adult safeguarding practice include the need to increase confidence in Social Services by strengthening interagency protocols and improving communication with the public about outcomes of investigations; publicize clear reporting mechanisms; and develop demographic-specific awareness-raising initiatives.",
-        "source": "The British Journal of Social Work",
-        "issn": "0045-3102",
-        "date": "2026-09-12",
-        "subjects": [],
-        "domains": [
-          "socialWork"
-        ],
-        "firstSeen": "2026-09-14",
-        "fetched_from": "crossref"
-      },
-      {
         "id": "doi:10.1093/hsw/hlag034",
         "doi": "10.1093/hsw/hlag034",
         "url": "https://doi.org/10.1093/hsw/hlag034",
@@ -32206,18 +32360,38 @@
         "fetched_from": "crossref"
       },
       {
-        "id": "doi:10.1093/bjsw/bcag192",
-        "doi": "10.1093/bjsw/bcag192",
-        "url": "https://doi.org/10.1093/bjsw/bcag192",
-        "title": "A person-centered approach to early adversity, multidimensional health trajectories, and resilience",
+        "id": "doi:10.1007/s10896-026-01182-2",
+        "doi": "10.1007/s10896-026-01182-2",
+        "url": "https://doi.org/10.1007/s10896-026-01182-2",
+        "title": "Using Quantitative Methods To Do Intersectional Research on Intimate Partner Violence in LGBTQIA+ Communities",
         "authors": [
-          "Mengsha Luo",
-          "Lydia Li"
+          "Sinéad Kelleher",
+          "Áine Travers"
         ],
-        "abstract": "Abstract                   A life-course perspective in social work requires a nuanced conceptualization of how childhood adversity is linked to later-life health, yet this relationship is obscured by cumulative risk counts and fragmented health assessments, which in turn prevents a deeper understanding of specific risks and resilience pathways. Leveraging data from the China Health and Retirement Longitudinal Study, this study examines how different types of adverse childhood experiences (ACEs) relate to health trajectories and the moderating role of family–work arrangements. Using person-centered analyses, we identified three ACE classes—threat-related, deprivation-related, and a low-ACE group—alongside five health trajectories ranging from persistent poor health to minimal impairment. While both threat- and deprivation-related classes predicted adverse trajectories, the threat-related class conferred a unique, elevated risk for gradual health decline and lower cognitive resilience. Family–work arrangements moderated these outcomes, but a single supportive role sometimes offered more protection than managing both, suggesting a potential role strain effect. Critically, findings revealed an adversity-specific buffering pattern: partnership was most protective against threat-related adversity, while employment best buffered against deprivation. In conclusion, the link between childhood adversity and later-life health is enduring, specific, and malleable. This evidence should reshape how social work fosters targeted resilience across the life course.",
+        "abstract": "",
+        "source": "Journal of Family Violence",
+        "issn": "0885-7482",
+        "date": "2026-09-12",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-09-14",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/bjsw/bcag182",
+        "doi": "10.1093/bjsw/bcag182",
+        "url": "https://doi.org/10.1093/bjsw/bcag182",
+        "title": "Everybody’s business? Public understanding of adult safeguarding in Northern Ireland",
+        "authors": [
+          "Lorna Montgomery",
+          "Paula Devine"
+        ],
+        "abstract": "Abstract                   Social work, as the frontline profession in adult safeguarding, relies on the vigilance and active participation of the public to identify and report safeguarding concerns. To date, little has been known about the public understanding of, and attitudes to, adult safeguarding. We report on the first comprehensive assessment of these issues in Northern Ireland. The 2024 Northern Ireland Life and Times survey asked a representative sample of 1,199 respondents aged eighteen years or over about their recognition of abuse, their perceived levels of harm and responses to abuse. The findings reveal that the public perceives substantial harm occurring to adults, particularly in private homes, although significant variations exist across demographic groups. Despite a reported willingness to act, many respondents indicated they would not know what to do, suggesting a significant knowledge gap. Concern about potential victimization of those who report abuse was identified, with only moderate confidence in trusting the investigative role of Social Services and the police. Recommendations for enhancement of adult safeguarding practice include the need to increase confidence in Social Services by strengthening interagency protocols and improving communication with the public about outcomes of investigations; publicize clear reporting mechanisms; and develop demographic-specific awareness-raising initiatives.",
         "source": "The British Journal of Social Work",
         "issn": "0045-3102",
-        "date": "2026-09-11",
+        "date": "2026-09-12",
         "subjects": [],
         "domains": [
           "socialWork"
@@ -32264,6 +32438,26 @@
         "domains": [
           "socialWork",
           "healthReform"
+        ],
+        "firstSeen": "2026-09-14",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/bjsw/bcag192",
+        "doi": "10.1093/bjsw/bcag192",
+        "url": "https://doi.org/10.1093/bjsw/bcag192",
+        "title": "A person-centered approach to early adversity, multidimensional health trajectories, and resilience",
+        "authors": [
+          "Mengsha Luo",
+          "Lydia Li"
+        ],
+        "abstract": "Abstract                   A life-course perspective in social work requires a nuanced conceptualization of how childhood adversity is linked to later-life health, yet this relationship is obscured by cumulative risk counts and fragmented health assessments, which in turn prevents a deeper understanding of specific risks and resilience pathways. Leveraging data from the China Health and Retirement Longitudinal Study, this study examines how different types of adverse childhood experiences (ACEs) relate to health trajectories and the moderating role of family–work arrangements. Using person-centered analyses, we identified three ACE classes—threat-related, deprivation-related, and a low-ACE group—alongside five health trajectories ranging from persistent poor health to minimal impairment. While both threat- and deprivation-related classes predicted adverse trajectories, the threat-related class conferred a unique, elevated risk for gradual health decline and lower cognitive resilience. Family–work arrangements moderated these outcomes, but a single supportive role sometimes offered more protection than managing both, suggesting a potential role strain effect. Critically, findings revealed an adversity-specific buffering pattern: partnership was most protective against threat-related adversity, while employment best buffered against deprivation. In conclusion, the link between childhood adversity and later-life health is enduring, specific, and malleable. This evidence should reshape how social work fosters targeted resilience across the life course.",
+        "source": "The British Journal of Social Work",
+        "issn": "0045-3102",
+        "date": "2026-09-11",
+        "subjects": [],
+        "domains": [
+          "socialWork"
         ],
         "firstSeen": "2026-09-14",
         "fetched_from": "crossref"
@@ -33240,9 +33434,9 @@
   },
   "totals": {
     "socialSecurity": 1524,
-    "elderCare": 70,
+    "elderCare": 74,
     "healthReform": 194,
-    "agingHealth": 112,
+    "agingHealth": 116,
     "socialWork": 65
   },
   "feeds_ok": 41
