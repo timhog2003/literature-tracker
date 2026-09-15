@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-14",
-  "fetched": "2026-09-14T06:43:10+00:00",
+  "date": "2026-09-15",
+  "fetched": "2026-09-15T06:20:43+00:00",
   "domains": {
     "socialSecurity": [
       {
@@ -23247,6 +23247,157 @@
     ],
     "elderCare": [
       {
+        "id": "doi:10.1186/s12877-026-08294-w",
+        "doi": "10.1186/s12877-026-08294-w",
+        "url": "https://doi.org/10.1186/s12877-026-08294-w",
+        "title": "Oral frailty and long-term changes in nutritional status and dietary behaviors in community-dwelling older adults: chronic exposure and transitions in the 12-year Kashiwa cohort study",
+        "authors": [
+          "Tomoki Tanaka",
+          "Hirohiko Hirano",
+          "Maki Shirobe",
+          "Keiko Motokawa",
+          "Katsuya Iijima"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-15",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-15",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08289-7",
+        "doi": "10.1186/s12877-026-08289-7",
+        "url": "https://doi.org/10.1186/s12877-026-08289-7",
+        "title": "Association between perceived ageism and cognitive impairment among older adults: a cross-sectional study",
+        "authors": [
+          "Dahye Hong",
+          "Minkyung Park",
+          "Yu Shin Park",
+          "Seok-Jae Heo",
+          "Bada Kang"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-15",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-15",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08305-w",
+        "doi": "10.1186/s12877-026-08305-w",
+        "url": "https://doi.org/10.1186/s12877-026-08305-w",
+        "title": "Structural and sociocultural determinants of older adult abuse in Nigeria: a qualitative phenomenological study",
+        "authors": [
+          "Blessing Ngowari Ramsey-Soroghaye",
+          "Chinyere Onalu",
+          "Chika Rita Ikeorji"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-15",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-15",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08265-1",
+        "doi": "10.1186/s12877-026-08265-1",
+        "url": "https://doi.org/10.1186/s12877-026-08265-1",
+        "title": "Digital divide, social participation and depressive symptoms among older adults in rural Shandong Province, China: differences by educational level",
+        "authors": [
+          "Fangfang Hu",
+          "Lingzhong Xu",
+          "Wenzhe Qin"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-15",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-15",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08224-w",
+        "doi": "10.1186/s12877-026-08224-w",
+        "url": "https://doi.org/10.1186/s12877-026-08224-w",
+        "title": "Correction: Different trunk muscle responses to unexpected balance perturbations between older recurrent fallers and older non-fallers: a combined wearable ultrasound imaging and electromyography (EMG) study",
+        "authors": [
+          "Hao-Bin Liang",
+          "Ringo Tang-Long Zhu",
+          "Yu-Yan Luo",
+          "Zhen Song",
+          "Wei-Tao He",
+          "Isabella Chee-Yin Yam",
+          "Ka-Shing Lee",
+          "Wei Ren",
+          "Ke-Jing Li",
+          "Feng-Yi Wang",
+          "Shuai Li",
+          "Huiying Cynthia Hou",
+          "Quan Wei",
+          "Yong-Ping Zheng",
+          "Xiu-Qin Ye",
+          "Christina Zong-Hao Ma"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-15",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-15",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08303-y",
+        "doi": "10.1186/s12877-026-08303-y",
+        "url": "https://doi.org/10.1186/s12877-026-08303-y",
+        "title": "Lower-limb motor function transitions and subsequent cognitive function among older Chinese adults: a longitudinal study using CHARLS 2011–2020",
+        "authors": [
+          "Shujiang Zhang",
+          "Bingxin Hu",
+          "Wen Liang",
+          "Yuan Yang",
+          "Zhiyu Lv"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-15",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-15",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1186/s12877-026-08290-0",
         "doi": "10.1186/s12877-026-08290-0",
         "url": "https://doi.org/10.1186/s12877-026-08290-0",
@@ -23320,6 +23471,189 @@
           "agingHealth"
         ],
         "firstSeen": "2026-09-14",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70704",
+        "doi": "10.1111/jgs.70704",
+        "url": "https://doi.org/10.1111/jgs.70704",
+        "title": "Hospital Artificial Intelligence Tools and Inpatient Utilization and Costs in Older Adults with Alzheimer's Disease and Related Dementias",
+        "authors": [
+          "Seyeon Jang",
+          "Jie Chen"
+        ],
+        "abstract": "ABSTRACT                                        Background                     Hospitals are increasingly adopting artificial intelligence and machine learning (AI/ML) tools to support clinical decision making and care management. However, evidence on how hospital AI/ML adoption relates to inpatient utilization and spending among clinically complex populations remains limited. Older adults with Alzheimer's disease and related dementias (ADRD) experience higher rates of readmissions and potentially avoidable hospitalizations.                                                           Methods                     Cross‐sectional study was conducted using 2023 inpatient claims linked to the Medicare Beneficiary Summary File and the American Hospital Association Annual Survey Information Technology Supplement to examine associations between hospital adoption of patient‐related AI/ML tools and inpatient utilization and spending among Medicare fee‐for‐service (FFS) beneficiaries with ADRD. The study included 340,509 FFS beneficiaries aged 65 years or older with ADRD who experienced at least one inpatient hospitalization in 2023. Hospital adoption of patient‐related AI/ML tools was measured using four indicators reflecting AI/ML use to predict inpatient health risks, identify high‐risk outpatients, monitor patient health, and recommend treatments. Outcomes included frequent hospitalization, 30‐day readmission, preventable acute and chronic hospitalizations, total Medicare payments, and beneficiary out‐of‐pocket (OOP) spending. Multivariable regression models adjusted for beneficiary and hospital characteristics.                                                           Results                     Greater hospital adoption of patient‐related AI/ML tools was associated with lower odds of frequent hospitalizations, 30‐day readmissions, and preventable acute hospitalizations. Inpatient risk prediction and high‐risk outpatient identification tools were consistently associated with lower inpatient utilization. Inpatient risk prediction was associated with lower total Medicare spending, while high‐risk outpatient identification was associated with higher Medicare spending. Treatment recommendation tools were associated with higher beneficiary OOP spending.                                                           Conclusions                     Among Medicare FFS beneficiaries with ADRD, hospital adoption of patient‐related AI/ML tools, particularly those focused on risk prediction and high‐risk patient identification, was associated with lower inpatient utilization without increasing overall spending. Heterogeneity across AI/ML tool types suggests the importance of evaluating AI/ML tools based on their specific clinical functions.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-09-14",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-15",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70733",
+        "doi": "10.1111/jgs.70733",
+        "url": "https://doi.org/10.1111/jgs.70733",
+        "title": "Agile Analytics to Continue James Rudolph's Legacy",
+        "authors": [
+          "Maura S. Rudolph",
+          "Malaz A. Boustani"
+        ],
+        "abstract": "ABSTRACT                   This article reflects on the life, illness, and legacy of geriatrician and scientist Dr. James “Jim” Rudolph by using his medical and personal journey to examine the limitations of population‐based medicine. Population evidence establishes necessary baselines, but frequently fails to capture the complexity of the individualized reality of patients and their family members as they navigate a serious illness. Agile Science and Agile Analytic frameworks can help bridge this gap by leveraging population data as a starting point while utilizing small scale adaptive experiments to tailor and adjust care to the specific goals, values, and needs of an individual patient. Modern healthcare must evolve beyond rigid protocols to build adaptive networks capable of humanizing clinical care and reducing the systemic burdens placed on patients and caregivers, and Agile Science and Analytics are a path to this evolution.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-09-14",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-15",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08234-8",
+        "doi": "10.1186/s12877-026-08234-8",
+        "url": "https://doi.org/10.1186/s12877-026-08234-8",
+        "title": "Association of cumulative metal exposure with multidimensional cognitive and systemic inflammatory profiles in older adults",
+        "authors": [
+          "Ying Qing",
+          "Yuyao Deng",
+          "Xin Xu",
+          "Zhiming Xu",
+          "Jing Li",
+          "Zhenyu Xie",
+          "Jianguo Yu",
+          "Long Zhao",
+          "Wenbo Ding",
+          "Shuyu Yang",
+          "Nan Yang",
+          "Nicolas Chen",
+          "Jianheng Zheng",
+          "Ruihua Dong"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-14",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-15",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08201-3",
+        "doi": "10.1186/s12877-026-08201-3",
+        "url": "https://doi.org/10.1186/s12877-026-08201-3",
+        "title": "Perioperative esketamine-containing strategies and postoperative neurocognitive outcomes in older surgical patients: a systematic review and meta-analysis of randomized controlled trials with certainty assessment",
+        "authors": [
+          "Ruirui Qi",
+          "Yuchen Wu",
+          "Lin Zhang",
+          "Wenxiu Niu",
+          "Tian Hao",
+          "Haohao Xie",
+          "Xiaomeng Han",
+          "Hengyang Wang",
+          "Donghui Jia",
+          "Zhanhai Wan",
+          "Zhigang Zhang"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-14",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-15",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08292-y",
+        "doi": "10.1186/s12877-026-08292-y",
+        "url": "https://doi.org/10.1186/s12877-026-08292-y",
+        "title": "Dynamic transitions between arthritis and elevated depressive symptoms in older Chinese adults: a 9-year longitudinal analysis of CHARLS",
+        "authors": [
+          "Zizhao Zhu",
+          "Shuo Hou",
+          "Jing Wen",
+          "Liying Cheng",
+          "Liming Wang"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-14",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-15",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08211-1",
+        "doi": "10.1186/s12877-026-08211-1",
+        "url": "https://doi.org/10.1186/s12877-026-08211-1",
+        "title": "Psychological interventions for family caregivers of individuals with neurocognitive disorders: evidence from the ORA project",
+        "authors": [
+          "Margherita Vincenzi",
+          "Lucia Borgia",
+          "Betti Bottura",
+          "Giacomo Dal Gesso",
+          "Sara Gorza",
+          "Lucia Angela Nava",
+          "Pamela Iannizzi",
+          "Elisa Di Rosa"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-14",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-15",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08277-x",
+        "doi": "10.1186/s12877-026-08277-x",
+        "url": "https://doi.org/10.1186/s12877-026-08277-x",
+        "title": "Sex disparities in cardiovascular risk among older adults: insights from the Tehran cohort study (TeCS)",
+        "authors": [
+          "Roozbeh Narimani-Javid",
+          "Arash Jalali",
+          "Akbar Shafiee",
+          "Farshid Alaeddini",
+          "Saeed Sadeghian",
+          "Mohamamdali Boroumand",
+          "Abbasali Karimi",
+          "Farzad Masoudkabir"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-14",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-15",
         "fetched_from": "crossref"
       },
       {
@@ -24937,6 +25271,213 @@
       }
     ],
     "healthReform": [
+      {
+        "id": "doi:10.1001/jama.2026.16532",
+        "doi": "10.1001/jama.2026.16532",
+        "url": "https://doi.org/10.1001/jama.2026.16532",
+        "title": "Azithromycin for Cesarean Delivery—From Trial to Practice",
+        "authors": [
+          "Alan T. N. Tita",
+          "Jeff M. Szychowski",
+          "Kim Boggess"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-14",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-15",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.14476",
+        "doi": "10.1001/jama.2026.14476",
+        "url": "https://doi.org/10.1001/jama.2026.14476",
+        "title": "Weight Loss in Older Adults With Persistent Atrial Fibrillation",
+        "authors": [
+          "Liang Yan",
+          "Wensheng Zhang"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-14",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-15",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.19068",
+        "doi": "10.1001/jama.2026.19068",
+        "url": "https://doi.org/10.1001/jama.2026.19068",
+        "title": "Error in Results",
+        "authors": [],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-14",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-15",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.15970",
+        "doi": "10.1001/jama.2026.15970",
+        "url": "https://doi.org/10.1001/jama.2026.15970",
+        "title": "A Future Without Excess Health Care Spending Growth?",
+        "authors": [
+          "Nikhil R. Sahni",
+          "Merjan L. Ozisik",
+          "David Cutler",
+          "Ezekiel J. Emanuel"
+        ],
+        "abstract": "This Perspective discusses various drivers of reductions in health care spending growth, including increasing use of artificial intelligence, expansion of value-based specialty care, and reductions in risk adjustment overpayment.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-14",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-15",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.14482",
+        "doi": "10.1001/jama.2026.14482",
+        "url": "https://doi.org/10.1001/jama.2026.14482",
+        "title": "Weight Loss in Older Adults With Persistent Atrial Fibrillation—Reply",
+        "authors": [
+          "Matteo Sclafani",
+          "Barbara Casadei",
+          "Rohan Wijesurendra"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-14",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-15",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.14479",
+        "doi": "10.1001/jama.2026.14479",
+        "url": "https://doi.org/10.1001/jama.2026.14479",
+        "title": "Weight Loss in Older Adults With Persistent Atrial Fibrillation",
+        "authors": [
+          "Qifeng Ou",
+          "Ding Pan"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-14",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-15",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.15519",
+        "doi": "10.1001/jama.2026.15519",
+        "url": "https://doi.org/10.1001/jama.2026.15519",
+        "title": "Idiopathic Normal Pressure Hydrocephalus",
+        "authors": [
+          "S. Farzad Maroufi",
+          "Sevil Yasar",
+          "Abhay Moghekar",
+          "Mark G. Luciano"
+        ],
+        "abstract": "Importance                     Idiopathic normal pressure hydrocephalus (iNPH) is a progressive neurological disorder characterized by cerebral ventricular enlargement that is typically associated with gait impairment and often urinary dysfunction and cognitive decline in older adults. iNPH prevalence is approximately 1% to 4% among individuals 65 years and older and 6% to 8% among those 80 years and older.                                                           Observations                     iNPH is a multifactorial disorder involving interactions among cerebrospinal fluid (CSF) circulation, vascular dysfunction, and white matter injury. Unlike secondary NPH, iNPH occurs without a known antecedent event such as subarachnoid hemorrhage. Gait disturbance, including a broad-based, slow, shuffling gait and impaired turning, occurs in 85% to 95% of patients with iNPH and is often the earliest symptom. Urinary dysfunction occurs in approximately 75% to 90% of patients with iNPH and commonly includes urgency, nocturia, urge incontinence, or leakage. Cognitive impairment is reported in 60% to 80% of patients with iNPH, predominantly involving impaired attention, processing speed, working memory, verbal fluency, and cognitive flexibility. iNPH is diagnosed primarily based on characteristic clinical findings and neuroimaging (typically brain magnetic resonance imaging) demonstrating cerebral ventricular and subarachnoid space enlargement. Although necessary for diagnosis, these neuroimaging findings are not reliably associated with response to treatment. Early diagnosis of NPH is important because shorter symptom duration and less advanced disease are associated with more favorable outcomes. Patients being evaluated for iNPH should undergo large-volume lumbar puncture with removal of 30 to 50 mL of CSF to confirm the diagnosis and predict shunt responsiveness, measured as improvement in objective gait measures starting within hours after drainage. Extended lumbar drainage with removal of 200 to 300 mL of CSF over several days in an inpatient setting provides higher prognostic accuracy, and may be performed in patients with high clinical suspicion and a negative or equivocal clinical response to lumbar puncture. Treatment for iNPH is CSF diversion with shunt placement, most commonly performed with ventriculoperitoneal shunts, although ventriculoatrial and lumboperitoneal shunts may have similar efficacy. After shunting, approximately 75% to 80% of patients have gait velocity improvement; cognitive and urinary improvements occur in approximately 50% to 70%. Complications of shunts include overdrainage and underdrainage (10%-30%), presenting as postural headaches and subdural collections, and recurrence or worsening of iNPH symptoms, shunt malfunction (10%-20%), and shunt infections (&amp;amp;lt;1%-2%).                                                           Conclusions and Relevance                     iNPH affects approximately 1% to 4% of adults 65 years and older and is associated with gait impairment, cognitive decline, and urinary dysfunction. Symptoms improve in approximately 70% to 90% of patients with iNPH who undergo shunt surgery.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-14",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-15",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.15010",
+        "doi": "10.1001/jama.2026.15010",
+        "url": "https://doi.org/10.1001/jama.2026.15010",
+        "title": "Adoption of Adjunctive Azithromycin for Unscheduled Cesarean Delivery and Postpartum Infections",
+        "authors": [
+          "Taylor S. Freret",
+          "Ethan Litman",
+          "Timothy Wen",
+          "Jeanne-Marie Guise",
+          "Sarah E. Little",
+          "Mark A. Clapp"
+        ],
+        "abstract": "Importance                     Cesarean delivery is the most common surgery in the US and the most significant risk factor for postpartum infection. Although trial evidence demonstrated that adjunctive azithromycin use at the time of birth reduces postpartum infection in pregnant persons who undergo an unscheduled cesarean delivery, use of azithromycin outside that trial has not been reported.                                                           Objective                     To determine the adoption of trial evidence in clinical practice and describe postpartum infection trends among US pregnant persons undergoing unscheduled cesarean delivery.                                                           Design, Setting, and Participants                     Data from Epic Cosmos were used to conduct a difference-in-differences analysis including pregnant individuals who received prenatal care, labored, and gave birth to a liveborn singleton infant at 24 to 43 weeks’ gestation from 2013 to 2024. Cesarean birth was considered the treatment group and vaginal birth was considered the control group. The analysis was conducted from July 2025 to June 2026.                                                           Exposure                     Relative to the publication of trial evidence in 2016, births that occurred from January 1, 2013, to September 28, 2016, were compared with births that occurred from January 1, 2017, to December 31, 2024.                                                           Main Outcomes and Measures                     The primary outcomes were perioperative administration of azithromycin and postpartum infection within 6 weeks of delivery. Patient-level linear regression was used to obtain the difference-in-differences estimate.                                                           Results                     Of the 1 663 441 infant deliveries included in the analysis, there were 202 234 cesarean births and 1 461 207 vaginal births (mean age of pregnant individuals, 29.3 [SD, 5.7] years; median body mass index at time of delivery, 31.8 [IQR, 28.2-36.5]). From January 1, 2013, to September 28, 2016, azithromycin was administered during 2.2% of cesarean births (721/32 970) vs 0.01% of vaginal births (15/261 624) compared with 39.6% (67 094/169 264) vs 0.04% (421/1 199 583), respectively, from January 1, 2017, to December 31, 2024 (adjusted difference-in-differences estimate, 37.6 percentage points [95% CI, 33.1 to 42.2]). From January 1, 2013, to September 28, 2016, postpartum infection occurred after 9.2% of cesarean births (3048/32 970) vs 2.0% of vaginal births (5311/261 624) compared with 8.0% (13 555/169 264) vs 2.7% (32 581/1 199 583), respectively, from January 1, 2017, to December 31, 2024 (adjusted difference-in-differences estimate, −2.0 percentage points [95% CI, −2.6 to −1.4]).                                                           Conclusions and Relevance                     After publication of the trial evidence in 2016, azithromycin use for pregnant persons undergoing unscheduled cesarean delivery increased and postpartum infection rates decreased in the US.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-14",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-15",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.15967",
+        "doi": "10.1001/jama.2026.15967",
+        "url": "https://doi.org/10.1001/jama.2026.15967",
+        "title": "The Next Decade of Health Spending—Affordability and Value",
+        "authors": [
+          "Irene Papanicolas",
+          "Anna D. Sinaiko"
+        ],
+        "abstract": "This Perspective discusses health care spending in the US and how factors such as consolidation, intensity of health care delivery, and artificial intelligence can affect who bears the costs and whether health gains are achieved.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-14",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-15",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag221",
+        "doi": "10.1093/aje/kwag221",
+        "url": "https://doi.org/10.1093/aje/kwag221",
+        "title": "Consistency and Positivity are Valuable for Causal Education and Communication",
+        "authors": [
+          "Lee Kennedy-Shaffer"
+        ],
+        "abstract": "",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-09-14",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-15",
+        "fetched_from": "crossref"
+      },
       {
         "id": "doi:10.1111/1468-0009.70128",
         "doi": "10.1111/1468-0009.70128",
@@ -29608,6 +30149,157 @@
     ],
     "agingHealth": [
       {
+        "id": "doi:10.1186/s12877-026-08294-w",
+        "doi": "10.1186/s12877-026-08294-w",
+        "url": "https://doi.org/10.1186/s12877-026-08294-w",
+        "title": "Oral frailty and long-term changes in nutritional status and dietary behaviors in community-dwelling older adults: chronic exposure and transitions in the 12-year Kashiwa cohort study",
+        "authors": [
+          "Tomoki Tanaka",
+          "Hirohiko Hirano",
+          "Maki Shirobe",
+          "Keiko Motokawa",
+          "Katsuya Iijima"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-15",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-15",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08289-7",
+        "doi": "10.1186/s12877-026-08289-7",
+        "url": "https://doi.org/10.1186/s12877-026-08289-7",
+        "title": "Association between perceived ageism and cognitive impairment among older adults: a cross-sectional study",
+        "authors": [
+          "Dahye Hong",
+          "Minkyung Park",
+          "Yu Shin Park",
+          "Seok-Jae Heo",
+          "Bada Kang"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-15",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-15",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08305-w",
+        "doi": "10.1186/s12877-026-08305-w",
+        "url": "https://doi.org/10.1186/s12877-026-08305-w",
+        "title": "Structural and sociocultural determinants of older adult abuse in Nigeria: a qualitative phenomenological study",
+        "authors": [
+          "Blessing Ngowari Ramsey-Soroghaye",
+          "Chinyere Onalu",
+          "Chika Rita Ikeorji"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-15",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-15",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08265-1",
+        "doi": "10.1186/s12877-026-08265-1",
+        "url": "https://doi.org/10.1186/s12877-026-08265-1",
+        "title": "Digital divide, social participation and depressive symptoms among older adults in rural Shandong Province, China: differences by educational level",
+        "authors": [
+          "Fangfang Hu",
+          "Lingzhong Xu",
+          "Wenzhe Qin"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-15",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-15",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08224-w",
+        "doi": "10.1186/s12877-026-08224-w",
+        "url": "https://doi.org/10.1186/s12877-026-08224-w",
+        "title": "Correction: Different trunk muscle responses to unexpected balance perturbations between older recurrent fallers and older non-fallers: a combined wearable ultrasound imaging and electromyography (EMG) study",
+        "authors": [
+          "Hao-Bin Liang",
+          "Ringo Tang-Long Zhu",
+          "Yu-Yan Luo",
+          "Zhen Song",
+          "Wei-Tao He",
+          "Isabella Chee-Yin Yam",
+          "Ka-Shing Lee",
+          "Wei Ren",
+          "Ke-Jing Li",
+          "Feng-Yi Wang",
+          "Shuai Li",
+          "Huiying Cynthia Hou",
+          "Quan Wei",
+          "Yong-Ping Zheng",
+          "Xiu-Qin Ye",
+          "Christina Zong-Hao Ma"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-15",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-15",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08303-y",
+        "doi": "10.1186/s12877-026-08303-y",
+        "url": "https://doi.org/10.1186/s12877-026-08303-y",
+        "title": "Lower-limb motor function transitions and subsequent cognitive function among older Chinese adults: a longitudinal study using CHARLS 2011–2020",
+        "authors": [
+          "Shujiang Zhang",
+          "Bingxin Hu",
+          "Wen Liang",
+          "Yuan Yang",
+          "Zhiyu Lv"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-15",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-15",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1186/s12877-026-08290-0",
         "doi": "10.1186/s12877-026-08290-0",
         "url": "https://doi.org/10.1186/s12877-026-08290-0",
@@ -29681,6 +30373,266 @@
           "agingHealth"
         ],
         "firstSeen": "2026-09-14",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70704",
+        "doi": "10.1111/jgs.70704",
+        "url": "https://doi.org/10.1111/jgs.70704",
+        "title": "Hospital Artificial Intelligence Tools and Inpatient Utilization and Costs in Older Adults with Alzheimer's Disease and Related Dementias",
+        "authors": [
+          "Seyeon Jang",
+          "Jie Chen"
+        ],
+        "abstract": "ABSTRACT                                        Background                     Hospitals are increasingly adopting artificial intelligence and machine learning (AI/ML) tools to support clinical decision making and care management. However, evidence on how hospital AI/ML adoption relates to inpatient utilization and spending among clinically complex populations remains limited. Older adults with Alzheimer's disease and related dementias (ADRD) experience higher rates of readmissions and potentially avoidable hospitalizations.                                                           Methods                     Cross‐sectional study was conducted using 2023 inpatient claims linked to the Medicare Beneficiary Summary File and the American Hospital Association Annual Survey Information Technology Supplement to examine associations between hospital adoption of patient‐related AI/ML tools and inpatient utilization and spending among Medicare fee‐for‐service (FFS) beneficiaries with ADRD. The study included 340,509 FFS beneficiaries aged 65 years or older with ADRD who experienced at least one inpatient hospitalization in 2023. Hospital adoption of patient‐related AI/ML tools was measured using four indicators reflecting AI/ML use to predict inpatient health risks, identify high‐risk outpatients, monitor patient health, and recommend treatments. Outcomes included frequent hospitalization, 30‐day readmission, preventable acute and chronic hospitalizations, total Medicare payments, and beneficiary out‐of‐pocket (OOP) spending. Multivariable regression models adjusted for beneficiary and hospital characteristics.                                                           Results                     Greater hospital adoption of patient‐related AI/ML tools was associated with lower odds of frequent hospitalizations, 30‐day readmissions, and preventable acute hospitalizations. Inpatient risk prediction and high‐risk outpatient identification tools were consistently associated with lower inpatient utilization. Inpatient risk prediction was associated with lower total Medicare spending, while high‐risk outpatient identification was associated with higher Medicare spending. Treatment recommendation tools were associated with higher beneficiary OOP spending.                                                           Conclusions                     Among Medicare FFS beneficiaries with ADRD, hospital adoption of patient‐related AI/ML tools, particularly those focused on risk prediction and high‐risk patient identification, was associated with lower inpatient utilization without increasing overall spending. Heterogeneity across AI/ML tool types suggests the importance of evaluating AI/ML tools based on their specific clinical functions.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-09-14",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-15",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70733",
+        "doi": "10.1111/jgs.70733",
+        "url": "https://doi.org/10.1111/jgs.70733",
+        "title": "Agile Analytics to Continue James Rudolph's Legacy",
+        "authors": [
+          "Maura S. Rudolph",
+          "Malaz A. Boustani"
+        ],
+        "abstract": "ABSTRACT                   This article reflects on the life, illness, and legacy of geriatrician and scientist Dr. James “Jim” Rudolph by using his medical and personal journey to examine the limitations of population‐based medicine. Population evidence establishes necessary baselines, but frequently fails to capture the complexity of the individualized reality of patients and their family members as they navigate a serious illness. Agile Science and Agile Analytic frameworks can help bridge this gap by leveraging population data as a starting point while utilizing small scale adaptive experiments to tailor and adjust care to the specific goals, values, and needs of an individual patient. Modern healthcare must evolve beyond rigid protocols to build adaptive networks capable of humanizing clinical care and reducing the systemic burdens placed on patients and caregivers, and Agile Science and Analytics are a path to this evolution.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-09-14",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-15",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08234-8",
+        "doi": "10.1186/s12877-026-08234-8",
+        "url": "https://doi.org/10.1186/s12877-026-08234-8",
+        "title": "Association of cumulative metal exposure with multidimensional cognitive and systemic inflammatory profiles in older adults",
+        "authors": [
+          "Ying Qing",
+          "Yuyao Deng",
+          "Xin Xu",
+          "Zhiming Xu",
+          "Jing Li",
+          "Zhenyu Xie",
+          "Jianguo Yu",
+          "Long Zhao",
+          "Wenbo Ding",
+          "Shuyu Yang",
+          "Nan Yang",
+          "Nicolas Chen",
+          "Jianheng Zheng",
+          "Ruihua Dong"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-14",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-15",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08201-3",
+        "doi": "10.1186/s12877-026-08201-3",
+        "url": "https://doi.org/10.1186/s12877-026-08201-3",
+        "title": "Perioperative esketamine-containing strategies and postoperative neurocognitive outcomes in older surgical patients: a systematic review and meta-analysis of randomized controlled trials with certainty assessment",
+        "authors": [
+          "Ruirui Qi",
+          "Yuchen Wu",
+          "Lin Zhang",
+          "Wenxiu Niu",
+          "Tian Hao",
+          "Haohao Xie",
+          "Xiaomeng Han",
+          "Hengyang Wang",
+          "Donghui Jia",
+          "Zhanhai Wan",
+          "Zhigang Zhang"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-14",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-15",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08292-y",
+        "doi": "10.1186/s12877-026-08292-y",
+        "url": "https://doi.org/10.1186/s12877-026-08292-y",
+        "title": "Dynamic transitions between arthritis and elevated depressive symptoms in older Chinese adults: a 9-year longitudinal analysis of CHARLS",
+        "authors": [
+          "Zizhao Zhu",
+          "Shuo Hou",
+          "Jing Wen",
+          "Liying Cheng",
+          "Liming Wang"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-14",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-15",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08211-1",
+        "doi": "10.1186/s12877-026-08211-1",
+        "url": "https://doi.org/10.1186/s12877-026-08211-1",
+        "title": "Psychological interventions for family caregivers of individuals with neurocognitive disorders: evidence from the ORA project",
+        "authors": [
+          "Margherita Vincenzi",
+          "Lucia Borgia",
+          "Betti Bottura",
+          "Giacomo Dal Gesso",
+          "Sara Gorza",
+          "Lucia Angela Nava",
+          "Pamela Iannizzi",
+          "Elisa Di Rosa"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-14",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-15",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08277-x",
+        "doi": "10.1186/s12877-026-08277-x",
+        "url": "https://doi.org/10.1186/s12877-026-08277-x",
+        "title": "Sex disparities in cardiovascular risk among older adults: insights from the Tehran cohort study (TeCS)",
+        "authors": [
+          "Roozbeh Narimani-Javid",
+          "Arash Jalali",
+          "Akbar Shafiee",
+          "Farshid Alaeddini",
+          "Saeed Sadeghian",
+          "Mohamamdali Boroumand",
+          "Abbasali Karimi",
+          "Farzad Masoudkabir"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-14",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-15",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag221",
+        "doi": "10.1093/aje/kwag221",
+        "url": "https://doi.org/10.1093/aje/kwag221",
+        "title": "Consistency and Positivity are Valuable for Causal Education and Communication",
+        "authors": [
+          "Lee Kennedy-Shaffer"
+        ],
+        "abstract": "",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-09-14",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-15",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261484965",
+        "doi": "10.1177/13872877261484965",
+        "url": "https://doi.org/10.1177/13872877261484965",
+        "title": "APOE:RAAS epistasis as a population specific risk factor for cognitive impairment and cardiovascular health",
+        "authors": [
+          "Amanda E. Tucker",
+          "Robert C. Barber",
+          "Zhengyang Zhou",
+          "Harlan P. Jones",
+          "Nicole R. Phillips"
+        ],
+        "abstract": "Background                                            The strongest genetic risk factor for development of Alzheimer's disease (AD) and/or AD-related dementias is the ε4 allele in the apolipoprotein E (                       APOE                       ) gene, though the frequency and impact of this variant on cognitive decline can vary across populations. Vascular and metabolic disorders (e.g., hypertension and diabetes) are co-morbidities for AD and are particularly impactful in underrepresented, non-White populations and may play a role in differential AD outcomes. Here we investigate the impact of gene-gene interactions between the vascular regulating renin-angiotensin-aldosterone system (RAAS) and                       APOE                       and how they relate to cognitive impairment.                                                                                Objective                     Determine if vascular and AD genetic risk factors interact to contribute to differential cognitive impairment outcomes across populations.                                                           Methods                                            Stratifying by                       APOE                       ε4 status, RAAS:APOE epistasis association testing was completed on self-reported African American (AAs), Mexican Americans (MAs), and non-Hispanic Whites (NHWs) enrolled in the Health &amp; Aging Brain Study-Health Disparities dataset, using PLINK.                                                                                Results                                            Population-specific epistasis profiles connecting cardiovascular and cognitive impairment were found in                       APOE                       ε4- AAs, and                       APOE                       ε4+ MAs.                                                                                Conclusions                     Population-specific epistasis profiles support epistasis as a potential mechanism for differential AD outcomes in AAs, MAs, and NHWs, considering ε4 positivity. This is the first study linking AD and vascular co-morbidities to cognitive impairment risk in the HABS-HD dataset via epistasis.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-09-14",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-15",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261482134",
+        "doi": "10.1177/13872877261482134",
+        "url": "https://doi.org/10.1177/13872877261482134",
+        "title": "Cerebral perfusion correlates of domain-specific cognitive function in Alzheimer's disease and dementia with Lewy bodies",
+        "authors": [
+          "Yume Koizumi",
+          "Yoshikazu Nakano",
+          "Mitsuyoshi Tamura",
+          "Kousuke Yamagishi",
+          "Yutaro Suzuki",
+          "Michiko Izumi",
+          "Yoshikazu Chishiki",
+          "Kenta Osawa",
+          "Shogo Furukawa",
+          "Ai Ishikawa",
+          "Yoshihisa Kitayama",
+          "Takuro Horikoshi",
+          "Takashi Uno",
+          "Masahiro Mori",
+          "Satoshi Kuwabara",
+          "Shigeki Hirano"
+        ],
+        "abstract": "Background                     Differentiating Alzheimer's disease (AD) from dementia with Lewy bodies (DLB) remains challenging because of overlapping symptoms and frequent co-pathology. Although cerebral perfusion abnormalities are well described in both disorders, how domain-specific cognitive decline relates to regional perfusion patterns remains incompletely understood.                                                           Objective                     To investigate disease-specific associations between regional cerebral perfusion and domain-specific cognitive performance in patients with AD and DLB.                                                           Methods                                            Amyloid-positive patients with AD and probable patients with DLB, each with at least one abnormal neuroimaging biomarker, underwent                       123                       I-iodoamphetamine single-photon emission computed tomography and Addenbrooke's Cognitive Examination III (ACE-III). Regional cerebral perfusion was compared among 57 patients with AD, 72 with DLB, and 44 healthy controls. Voxel-wise regression analyses examined associations between perfusion and ACE-III total and domain scores.                                                                                Results                     Compared with controls, patients with AD showed reduced cerebral perfusion in the posterior cingulate, precuneus, and temporo-parietal cortices, whereas patients with DLB showed posterior cortical hypoperfusion with relatively preserved posterior cingulate perfusion. Direct comparisons revealed limited differences, including posterior cingulate and hippocampal hypoperfusion in patients with AD, and occipital hypoperfusion in patients with DLB. Cognitive decline in patients with AD correlated with left-lateralized temporo-parietal hypoperfusion across multiple domains, with cerebellar and sensorimotor hyperperfusion. Patients with DLB showed limited perfusion–cognition coupling, except for robust associations between bilateral posterior regions and visuospatial performance.                                                           Conclusions                     Distinct patterns of cerebral perfusion-cognition relationships characterize AD and DLB, reflecting differential regional vulnerabilities underlying cognitive decline. These findings may contribute to improved understanding of the pathophysiology underlying cognitive decline and support disease monitoring.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-09-14",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-15",
         "fetched_from": "crossref"
       },
       {
@@ -33434,9 +34386,9 @@
   },
   "totals": {
     "socialSecurity": 1524,
-    "elderCare": 74,
-    "healthReform": 194,
-    "agingHealth": 116,
+    "elderCare": 87,
+    "healthReform": 204,
+    "agingHealth": 132,
     "socialWork": 65
   },
   "feeds_ok": 41
