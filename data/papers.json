@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-16",
-  "fetched": "2026-09-16T06:18:54+00:00",
+  "date": "2026-09-17",
+  "fetched": "2026-09-17T06:20:10+00:00",
   "domains": {
     "socialSecurity": [
       {
@@ -23247,6 +23247,55 @@
     ],
     "elderCare": [
       {
+        "id": "doi:10.1186/s12877-026-08314-9",
+        "doi": "10.1186/s12877-026-08314-9",
+        "url": "https://doi.org/10.1186/s12877-026-08314-9",
+        "title": "Translation, cultural adaptation, and psychometric evaluation of the Odia version of QOL-AD: evidence from participants with dementia and caregivers",
+        "authors": [
+          "Suchismita Pahantasingh",
+          "Sasmita Das",
+          "Surjeet Sahoo",
+          "Rashmimala Pradhan",
+          "Jhunilata Pradhan"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-17",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08264-2",
+        "doi": "10.1186/s12877-026-08264-2",
+        "url": "https://doi.org/10.1186/s12877-026-08264-2",
+        "title": "A study on the impact of productive social participation on depression among older adults in China",
+        "authors": [
+          "Yijie Wang",
+          "Yutian Wei",
+          "Weiheng Sun",
+          "Jinyi Lang",
+          "Yikunxiao Meng",
+          "Bin Hu"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-17",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-17",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1186/s12877-026-08297-7",
         "doi": "10.1186/s12877-026-08297-7",
         "url": "https://doi.org/10.1186/s12877-026-08297-7",
@@ -23338,6 +23387,275 @@
           "agingHealth"
         ],
         "firstSeen": "2026-09-16",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/gerona/glag225",
+        "doi": "10.1093/gerona/glag225",
+        "url": "https://doi.org/10.1093/gerona/glag225",
+        "title": "Adiposity and Cognitive Performance in Older Men and Women from the Study of Muscle, Mobility and Aging (SOMMA)",
+        "authors": [
+          "John J Dubé",
+          "Haley N Barnes",
+          "Zana M Ross",
+          "Neharika Murthy",
+          "Nikola Gligorijevic",
+          "Mahesh K Basantani",
+          "Divya Gupta",
+          "Cheehoon Ahn",
+          "Andrea M Brennan",
+          "Maria F Pino",
+          "Frederico G S Toledo",
+          "Maja Stefanovic-Racic",
+          "Paul M Coen",
+          "Peggy M Cawthon",
+          "Steven R Cummings",
+          "Stephen B Kritchevsky",
+          "Anne B Newman",
+          "Lauren M Sparks",
+          "Erin E Kershaw"
+        ],
+        "abstract": "Abstract                                        Background                     Aging is accompanied by changes in body composition and cognition. Although adiposity has been linked to metabolic dysfunction and dementia risk, associations with specific cognitive domains in later life remain unclear.                                                           Methods                     This cross-sectional study examined associations between adiposity and cognitive performance in 769 community-dwelling, healthy older adults (70–94 years) from the Study of Muscle, Mobility and Aging (SOMMA). Adiposity was assessed using anthropometric measures (body mass index, waist circumference) and MRI-derived regional fat volumes, including visceral and abdominal subcutaneous adipose tissue. Cognitive performance was evaluated using a screening measure (Montreal Cognitive Assessment), processing speed (Digit Symbol Coding Test), executive function (Trail Making Test B), and memory (California Verbal Learning Test–II Short Form). Multivariable linear regression models were sequentially adjusted for demographic, cardiometabolic, psychosocial, and behavioral factors.                                                           Results                     Greater age was associated with lower adiposity and poorer cognitive performance (p &amp;lt; 0.05). Most adiposity measures were inversely associated with processing speed after adjustment for age, sex, race, and testing site (p &amp;lt; 0.05). These associations generally persisted after adjustment for cardiometabolic conditions and were attenuated after inclusion of education, depressive symptoms, and behavioral covariates. No significant associations were observed between adiposity and executive function. Memory outcomes showed modest, exploratory associations with abdominal subcutaneous adipose tissue measures only in fully adjusted models (p = 0.03–0.07).                                                           Conclusions                     In healthy older adults, adiposity is most consistently related to processing speed, whereas associations with memory and executive function are weaker or absent. Processing speed may be especially sensitive to adiposity-related differences. Longitudinal studies are needed to clarify temporal relationships.",
+        "source": "The Journals of Gerontology, Series A: Biological Sciences and Medical Sciences",
+        "issn": "1079-5006",
+        "date": "2026-09-16",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "elderCare"
+        ],
+        "firstSeen": "2026-09-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/gerona/glag233",
+        "doi": "10.1093/gerona/glag233",
+        "url": "https://doi.org/10.1093/gerona/glag233",
+        "title": "Longitudinal Trajectories of Hospitalizations in U.S. Older Adults with Heart Failure",
+        "authors": [
+          "Hanzhang Xu",
+          "Radha Dhingra",
+          "Bradley G Hammill",
+          "Zhen Li",
+          "Scott M Lynch",
+          "Jessica S West",
+          "Michael D Green",
+          "Eric D Peterson",
+          "Lesley H Curtis",
+          "Matthew E Dupre"
+        ],
+        "abstract": "Abstract                                        Background                     Little is known about long-term risks of hospitalizations among heart failure (HF) older adults at a national level. We identified long-term patterns of hospitalizations following the diagnosis of HF and assessed whether high-risk patients can be identified prior to discharge.                                                           Methods                     This is a retrospective cohort study from 2010 to 2020. Fee-for-service Medicare beneficiaries with newly-diagnosed HF during an inpatient stay and followed for up to 5 years. Group-based trajectory models (GBTM) identified 4 trajectories of all-cause hospitalizations during follow-up. LASSO regression was used to identify patients’ baseline characteristics to predict their hospitalization trajectories. Model discrimination was assessed using C-statistics and calibration was evaluated using expected-to-observed ratios.                                                           Results                     Of the 84,597 Medicare beneficiaries with newly-diagnosed HF (mean age: 77.4 [± 7.1] years and 58.3% male), we identified 4 distinct trajectories of hospitalizations: Group 1 (n = 19,340; 22.9%) had consistently “low risks” of hospitalization, Group 2 (n = 53,922; 57.9%) had elevated risks shortly after discharge (“high-to-low risk”), Group 3 (n = 5,035; 9.8%) had elevated risks at later stages of illness (“low-to-high risk”), and Group 4 (n = 6,300; 9.4%) had consistently “high risks” of hospitalization. Models were well-calibrated predicting hospitalization trajectories (compared to low-risk patients [Group 1]), and C-statistics were 0.65 (Group 2), 0.68 (Group 3), and 0.79 (Group 4). Discrimination was consistently better among patients ≤70 years and calibration remained excellent across all subgroups with expected-to-observed ratios near 1.0.                                                           Conclusions                     High-risk HF patients could be identified at the time-of-diagnosis using routinely available clinical characteristics, enabling targeted interventions during critical periods to improve long-term outcomes.",
+        "source": "The Journals of Gerontology, Series A: Biological Sciences and Medical Sciences",
+        "issn": "1079-5006",
+        "date": "2026-09-16",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "elderCare"
+        ],
+        "firstSeen": "2026-09-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70688",
+        "doi": "10.1111/jgs.70688",
+        "url": "https://doi.org/10.1111/jgs.70688",
+        "title": "Correction to “Alternative Treatments to Selected Medications in the 2023 American Geriatrics Society Beers Criteria®”",
+        "authors": [],
+        "abstract": "",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-09-16",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70727",
+        "doi": "10.1111/jgs.70727",
+        "url": "https://doi.org/10.1111/jgs.70727",
+        "title": "Family Caregivers in Hospital at Home—What We Know, Where to Go",
+        "authors": [
+          "Bruce Leff",
+          "Linda V. DeCherrie",
+          "Gabrielle Schiller",
+          "Annabel Steiner",
+          "David M. Levine"
+        ],
+        "abstract": "",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-09-16",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70598",
+        "doi": "10.1111/jgs.70598",
+        "url": "https://doi.org/10.1111/jgs.70598",
+        "title": "Irish Healthcare Staff Perspectives on the Implementation of the Age‐Friendly Health Systems\n                    <scp>4Ms</scp>\n                    Framework. A Qualitative Analysis",
+        "authors": [
+          "Tessa O'Gorman",
+          "Heather Hegarty",
+          "Rebecca Marshall",
+          "Hannah O'Brien",
+          "Niamh Bambury"
+        ],
+        "abstract": "ABSTRACT                                        Background                     The Age‐Friendly Health Systems (AFHS) 4Ms Framework (what Matters most, Medication, Mentation, and Mobility) is an internationally recognized, evidence‐based approach to deliver consistent, person‐centered care to older adults in all healthcare settings. This qualitative study evaluated the implementation of the 4Ms Framework, from the perspective of multidisciplinary team members, at three early‐adopter healthcare services in Ireland.                                                           Participants and Setting                     Ten one‐to‐one semi‐structured interviews were conducted with doctors, nurses, and health and social care professionals working in three distinct healthcare settings in Ireland.                                                           Methods                     A qualitative interpretive phenomenological design was adopted, following the Standards for Reporting Qualitative Research guidelines. Participants were purposively sampled to capture diverse perspectives across services, disciplines, and roles. The topic guide was informed by the Normalization Process Theory. Interviews were audio‐recorded, transcribed verbatim, anonymized, and analyzed manually using iterative thematic content analysis.                                                           Results                     The overarching theme identified, a supporting and enabling structure, was supported by three major themes: (1) Ability of the 4Ms Framework to facilitate an AFHS approach, (2) Securing sustainability of an AFHS, and (3) Impact of the 4Ms Framework as a driver of the implementation process. Based on these findings facilitators to implementation included early stakeholder engagement, strong leadership, and a scalable approach that fostered multidisciplinary collaboration and person‐centered care with minimal extra resources. Barriers to implementation included reliance on Americanized materials, risks of tokenistic adoption, variable integration across settings, and limited outcome evaluation.                                                           Conclusion                     The AFHS 4Ms Framework supports transformative, person‐centered care across diverse settings. This first Irish AFHS evaluation provides recommendations for wider implementation of the 4Ms Framework while contributing novel insights to the international implementation evidence base. This study emphasizes the need to adapt the 4Ms Framework to local systems, integrate robust evaluation, and build on the identified facilitators while addressing barriers to achieve sustainable, scalable adoption within healthcare settings.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-09-16",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70724",
+        "doi": "10.1111/jgs.70724",
+        "url": "https://doi.org/10.1111/jgs.70724",
+        "title": "Refusing Erasure: Moral Courage in\n                    <scp>LGBTQ</scp>\n                    + Health Research",
+        "authors": [
+          "Sara G. Jackson"
+        ],
+        "abstract": "",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-09-16",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70735",
+        "doi": "10.1111/jgs.70735",
+        "url": "https://doi.org/10.1111/jgs.70735",
+        "title": "Thirty‐Day Mortality After Hospital Transfer for Pneumonia in Nursing Home Residents With Advanced Dementia",
+        "authors": [
+          "Kieran L. Quinn",
+          "Robert Talarico",
+          "Aisha Ahmad",
+          "Daniel Kobewka"
+        ],
+        "abstract": "",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-09-16",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70725",
+        "doi": "10.1111/jgs.70725",
+        "url": "https://doi.org/10.1111/jgs.70725",
+        "title": "“What Frailty Means in Dialysis: Lighting the Maze to Transplantation”",
+        "authors": [
+          "Anoop Sheshadri"
+        ],
+        "abstract": "",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-09-16",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08312-x",
+        "doi": "10.1186/s12877-026-08312-x",
+        "url": "https://doi.org/10.1186/s12877-026-08312-x",
+        "title": "Associations of physical activity, dietary quality, and their changes with all-cause mortality in older Chinese adults: a prospective study",
+        "authors": [
+          "Rule Du",
+          "Yang Xu",
+          "Ya Wen",
+          "Ruixia Niu",
+          "Guiming Zhu",
+          "Qian Gao",
+          "Tong Wang"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-16",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08301-0",
+        "doi": "10.1186/s12877-026-08301-0",
+        "url": "https://doi.org/10.1186/s12877-026-08301-0",
+        "title": "The physical activity paradox in later life: does leisure-time exercise modify the association between agricultural labor and self-rated health?",
+        "authors": [
+          "Tongtong Shi",
+          "Huichao Shao",
+          "Minjoo An"
+        ],
+        "abstract": "Abstract                                        Background                     Healthy ageing requires more than total physical activity volume; the context, voluntariness, recovery opportunity, and social meaning of activity may shape how activity relates to health in later life. Guided by the physical activity paradox, this study examined whether leisure-time exercise moderates the longitudinal association between agricultural labor and self-rated health among older Chinese adults.                                                           Methods                     Data were drawn from five waves of the China Family Panel Studies (2010, 2012, 2014, 2016, and 2018). The analytical sample included 18,050 person-wave observations from 9,449 adults aged 60 years and older. Self-rated health was modeled as a five-point outcome in individual fixed-effects linear models. Standard errors were clustered at the individual level. Agricultural labor, leisure-time exercise, and their interaction were the principal explanatory variables.                                                           Results                                            In the fully adjusted interaction model, agricultural labor was associated with lower self-rated health among respondents who did not exercise (β = −0.753, 95% CI − 0.856 to − 0.651,                       p                        &lt; 0.001). Leisure-time exercise showed a small but statistically non-significant association with self-rated health among respondents not engaged in agricultural labor (β = 0.047, 95% CI − 0.006 to 0.099,                       p                        = 0.082). The agricultural labor × leisure-time exercise interaction was positive (β = 0.898, 95% CI 0.793 to 1.002,                       p                        &lt; 0.001), consistent with a less negative agricultural labor-SRH pattern among respondents who exercised. Age-stratified interaction estimates were numerically larger among adults aged ≥ 70 years than among those aged 60–69 years; however, formal between-group differences were not tested.                                                                                Conclusions                     Agricultural labor and leisure-time exercise were not interchangeable activity domains in this longitudinal sample. Agricultural labor was related to lower self-rated health, the general main association of exercise was not statistically significant in the fully adjusted interaction model, and the interaction suggested that the exercise-health association was contingent on agricultural labor status. Rural healthy-ageing strategies should distinguish physically demanding work from voluntary, recovery-sensitive exercise while avoiding causal claims from observational associations.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-16",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08253-5",
+        "doi": "10.1186/s12877-026-08253-5",
+        "url": "https://doi.org/10.1186/s12877-026-08253-5",
+        "title": "Quality and safety of large language model–generated medication review outputs in geriatric pharmacotherapy: a two-stage comparative vignette-based benchmark evaluation",
+        "authors": [
+          "Kubra Cingar Alpay",
+          "Duygu Ozata",
+          "Tugce Emiroglu Gedik",
+          "Suna Avci",
+          "Alper Doventas",
+          "Ulev Deniz Erdincler"
+        ],
+        "abstract": "Abstract                                        Background                     Polypharmacy and multimorbidity make medication review in older adults a high-stakes clinical task. Large language models (LLMs) may support medication review, but whether item-level concordance with explicit prescribing criteria reflects expert-rated reasoning quality and safety prioritisation is uncertain. We compared the quality and safety of outputs generated by three LLMs using a two-stage evaluation framework.                                                           Methods                     In this two-stage comparative vignette-based benchmark evaluation, GPT-5.2, Claude Sonnet 4.5, and Gemini 3 Pro responded to 20 standardised geriatric pharmacotherapy vignettes representing fictional older adults aged 72–88 years across four clinical domains. Each vignette contained three potentially inappropriate medications and one clinically relevant START-type omission anchored to the AGS Beers Criteria and STOPP/START version 3. Models received an identical master prompt under default end-user settings; memory features were disabled where available and separate sessions were used for each vignette. Two geriatricians, blinded to model identity, independently rated anonymised outputs using a 100-point rubric comprising medication review output quality (0–80) and critical safety-risk prioritisation (0–20). Stage 1 assessed answer-key concordance; exploratory Stage 2 characterised clinically contextualised error patterns. Comparisons used Friedman and Wilcoxon signed-rank tests, Cochran’s Q, and exact McNemar tests with Bonferroni correction.                                                           Results                                            Stage 1 concordance was uniformly high, with limited between-model discrimination. Expert-rated total scores differed across models (                       p                        &lt; 0.001; Kendall’s W = 0.700): Gemini 3 Pro scored highest (97.93 ± 2.33; 95% CI 96.83–99.02), followed by Claude Sonnet 4.5 (93.90 ± 3.37) and GPT-5.2 (89.85 ± 5.23); all pairwise comparisons were significant, with large standardised effect sizes (                       r                        = 0.55–0.61). Safety scores showed the same ranking (                       p                        &lt; 0.001; Kendall’s W = 0.861;                       r                        = 0.52–0.62). Reliability of averaged total ratings was high (ICC(A,2) = 0.935; 95% CI 0.897–0.957). In the exploratory Stage 2 error analysis, Gemini was less frequently flagged than GPT-5.2 for superficial reasoning, weak emphasis on life-threatening risk, and any flagged error, and less frequently than Claude Sonnet 4.5 for weak emphasis on life-threatening risk and any flagged error.                                                                                Conclusions                     Within this vignette-based benchmark, high item-level concordance did not ensure high expert-rated output quality or safety prioritisation. Models also differed in safety prioritisation and in the pattern of flagged errors. These findings support supervised use of LLMs and evaluation approaches that assess reasoning and prioritisation as well as target detection. They should not be interpreted as evidence that one model is clinically superior in real-world practice.                                                           Trial registration                     Clinical trial not applicable.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-16",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-17",
         "fetched_from": "crossref"
       },
       {
@@ -23819,6 +24137,68 @@
           "agingHealth"
         ],
         "firstSeen": "2026-09-16",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/gerona/glag232",
+        "doi": "10.1093/gerona/glag232",
+        "url": "https://doi.org/10.1093/gerona/glag232",
+        "title": "The modifying effect of work-care role conflict on the effectiveness of carer support: Results from the Australian\n                    <i>Draw Care</i>\n                    randomised clinical trial",
+        "authors": [
+          "Duncan Mortimer",
+          "Thu Ha Dang",
+          "Antonia Thodis",
+          "Joanne Enticott",
+          "Yuan Tian",
+          "Simona Markusevska",
+          "Josefine Antoniades",
+          "Tuan Anh Nguyen",
+          "Andrew Simon Gilbert",
+          "Mary Gurgone",
+          "Nalika Ulapane",
+          "Claudia Cooper",
+          "Nilmini Wickramasinghe",
+          "Lily Dongxia Xiao",
+          "Briony Dow",
+          "Mathew Varghese",
+          "Santosh Loganathan",
+          "Bianca Brijnath"
+        ],
+        "abstract": "Abstract                                        Background                     People who care for a family member with dementia alongside paid work often experience role conflict. This study explores whether work-care role conflict (WCRC) modifies the effectiveness of Draw Care, an online and culturally-adapted carer support intervention.                                                           Methods                     Secondary exploratory analysis of a single-blind, parallel-group trial (August 2023–November 2024) that compared Draw Care against waitlist control in adult carers from diverse linguistic backgrounds. To formally test whether WCRC moderated the effect of the Draw-Care intervention, we ran a full-sample linear mixed model that included a three-way interaction between time-point, treatment group and an indicator of WCRC. WCRC was operationalised as self-report of missed work or reduced productivity due to competing care and employment demands. Outcomes included carer burden, mood, quality of life, and productivity/ activity impairment at 6 and 12 weeks.                                                           Results                     Forty-two of 93 carers reported WCRC. Reductions in caregiver burden due to treatment at 6 weeks (-10.00; 95% CI -19.70 to -0.31, p = 0.043) and 12 weeks (-9.56; 95% CI -18.83 to -0.29, p = 0.043) were significantly larger in participants with WCRC than without. This moderating effect of WCRC was driven by a robust, absolute reduction in caregiver burden in intervention group participants with WCRC over the initial 6 weeks (-7.19, 95%CI: -12.72 to -1.67, p = 0.011), with much of this improvement preserved at 12 weeks (-6.85, 95%CI: -12.17 to -1.53, p = 0.012).                                                           Conclusions                     WCRC appears to modify the effectiveness of Draw Care, suggesting that the intervention may be particularly helpful for carers navigating role conflict.",
+        "source": "The Journals of Gerontology, Series A: Biological Sciences and Medical Sciences",
+        "issn": "1079-5006",
+        "date": "2026-09-15",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "elderCare"
+        ],
+        "firstSeen": "2026-09-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/gerona/glag231",
+        "doi": "10.1093/gerona/glag231",
+        "url": "https://doi.org/10.1093/gerona/glag231",
+        "title": "Aging-Related Diseases in the U.S. Population: A Data-Driven Approach Using All of Us Electronic Health Record Data",
+        "authors": [
+          "Buwei He",
+          "Matthew Lohman",
+          "Stephanie Aghamoosa",
+          "Tiejun Zhang",
+          "Bankole Olatosi",
+          "Jiajia Zhang"
+        ],
+        "abstract": "Abstract                                        Background                     Aging is the strongest risk factor for most chronic diseases, yet aging-related diseases (ARDs) lack consistent, data-driven definitions. Prior work has proposed frameworks to classify ARDs based on age-specific onset patterns, but applications have largely relied on demographically homogeneous populations.                                                           Methods                     We extended a data-driven framework integrating unsupervised clustering and actuarial modeling to electronic health record data from 633,547 participants in the U.S. All of Us Research Program. Age-specific onset rates for 274 high-burden diseases between ages 21 and 74 were analyzed. Standardized onset curves were grouped using hierarchical agglomerative clustering. Aging-related patterns were assessed with Gompertz and Gompertz-Makeham (GM) models to quantify age-dependent increases in disease onset.                                                           Results                     Eleven clusters of disease onset trajectories were identified, with four main clusters encompassing 96.0% of diseases. Two clusters exhibited pronounced late-life increases in onset rate, while one showed earlier but moderate age-related increases, and another displayed largely age-independent patterns. Cardiovascular diseases and cancers were enriched in clusters with strong aging-related onset trajectories. Overall, 165 diseases demonstrated strong evidence of being aging-related, characterized by positive Gompertz age coefficients and good GM model fit. Median onset ages varied across clusters and disease categories and showed statistically significant discrepancies compared with U.K. populations.                                                           Conclusions                     In a large, racially diverse U.S. cohort, we identified distinct ARD clusters with shared age-related onset patterns. These findings extend prior work to a more diverse population and support integrated clustering and actuarial approaches to systematically define ARDs and inform aging research and public health strategies.",
+        "source": "The Journals of Gerontology, Series A: Biological Sciences and Medical Sciences",
+        "issn": "1079-5006",
+        "date": "2026-09-15",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "elderCare"
+        ],
+        "firstSeen": "2026-09-17",
         "fetched_from": "crossref"
       },
       {
@@ -25791,6 +26171,738 @@
       }
     ],
     "healthReform": [
+      {
+        "id": "doi:10.1056/nejmoa2600526",
+        "doi": "10.1056/nejmoa2600526",
+        "url": "https://doi.org/10.1056/nejmoa2600526",
+        "title": "Sodium Bicarbonate for Critically Ill Adults with Metabolic Acidosis and Shock",
+        "authors": [],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-09-17",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmc2605026",
+        "doi": "10.1056/nejmc2605026",
+        "url": "https://doi.org/10.1056/nejmc2605026",
+        "title": "Colorectal Cancer Risk among Patients with Serrated Polyps",
+        "authors": [
+          "Evelien Dekker",
+          "Rodrigo Jover",
+          "Joep Ijspeert",
+          "Michael Bretthauer"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-09-17",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmc2605960",
+        "doi": "10.1056/nejmc2605960",
+        "url": "https://doi.org/10.1056/nejmc2605960",
+        "title": "Human Adenovirus B3–Induced Immune Thrombocytopenia and Thrombosis",
+        "authors": [
+          "Christian Irsara",
+          "Habib Benainouna",
+          "Jing Jing Wang",
+          "Andrea Griesmacher",
+          "Christoph Winkler",
+          "Lorin Loacker",
+          "Markus Anliker",
+          "Xiaoyan Wang",
+          "Alex Moser",
+          "Thomas Müller",
+          "Werner Streif",
+          "Andreas Greinacher",
+          "Thomas Thiele",
+          "Wibke Bayer",
+          "Linda Schönborn"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-09-17",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmc2608825",
+        "doi": "10.1056/nejmc2608825",
+        "url": "https://doi.org/10.1056/nejmc2608825",
+        "title": "Kidney Transplantation in Highly Sensitized Persons after CAR T-Cell Therapy",
+        "authors": [],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-09-17",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmc2609235",
+        "doi": "10.1056/nejmc2609235",
+        "url": "https://doi.org/10.1056/nejmc2609235",
+        "title": "Left Atrial Appendage Closure or Anticoagulation for Atrial Fibrillation",
+        "authors": [],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-09-17",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmc2609248",
+        "doi": "10.1056/nejmc2609248",
+        "url": "https://doi.org/10.1056/nejmc2609248",
+        "title": "Antidotes for Anticoagulation Reversal",
+        "authors": [],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-09-17",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmc2609489",
+        "doi": "10.1056/nejmc2609489",
+        "url": "https://doi.org/10.1056/nejmc2609489",
+        "title": "Endovascular Therapy for Post-Thrombotic Syndrome — A Randomized Trial",
+        "authors": [],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-09-17",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmclde2600695",
+        "doi": "10.1056/nejmclde2600695",
+        "url": "https://doi.org/10.1056/nejmclde2600695",
+        "title": "Initial Screening for Colorectal Cancer",
+        "authors": [
+          "Alejandro Campos",
+          "Aasma Shaukat",
+          "Douglas J. Robertson"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-09-17",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmcpc2603180",
+        "doi": "10.1056/nejmcpc2603180",
+        "url": "https://doi.org/10.1056/nejmcpc2603180",
+        "title": "Case 26-2026: A 62-Year-Old Woman with Memory Loss, Anhedonia, and Temporal Wasting",
+        "authors": [
+          "Sejal B. Shah",
+          "Robert H. Unger",
+          "Emily M. Sorg"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-09-17",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejme2608876",
+        "doi": "10.1056/nejme2608876",
+        "url": "https://doi.org/10.1056/nejme2608876",
+        "title": "When More Is Not Better — Colonoscopy Surveillance after High-Risk Adenomas",
+        "authors": [
+          "Aasma Shaukat",
+          "Theodore R. Levin"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-09-17",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejme2610158",
+        "doi": "10.1056/nejme2610158",
+        "url": "https://doi.org/10.1056/nejme2610158",
+        "title": "Maternal Allergen Consumption and Infant Food Allergy — Reassurance, Not Prescription",
+        "authors": [
+          "Maria C. Jenmalm"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-09-17",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejme2610218",
+        "doi": "10.1056/nejme2610218",
+        "url": "https://doi.org/10.1056/nejme2610218",
+        "title": "Sodium Bicarbonate in Critical Illness — A New Chapter for the Book",
+        "authors": [
+          "Marlies Ostermann",
+          "Deborah J. Cook"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-09-17",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejme2610500",
+        "doi": "10.1056/nejme2610500",
+        "url": "https://doi.org/10.1056/nejme2610500",
+        "title": "Blinatumomab — A New Standard of Care in Acute Lymphoblastic Leukemia",
+        "authors": [
+          "Regina M. Myers",
+          "Stephen P. Hunger"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-09-17",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmicm2516626",
+        "doi": "10.1056/nejmicm2516626",
+        "url": "https://doi.org/10.1056/nejmicm2516626",
+        "title": "Late-Onset Pompe Disease",
+        "authors": [
+          "Sofia S. Rodrigues",
+          "Ines Marques Ferreira"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-09-17",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmoa2603816",
+        "doi": "10.1056/nejmoa2603816",
+        "url": "https://doi.org/10.1056/nejmoa2603816",
+        "title": "Colonoscopy Intervals and Colorectal Cancer Incidence after Adenoma Removal",
+        "authors": [
+          "Rodrigo Jover",
+          "Michael Bretthauer",
+          "Joaquin Cubiella",
+          "Sarah J.E. Barry",
+          "Anna Macios",
+          "Lauren Barnett",
+          "Rune Erichsen",
+          "Michal F. Kaminski",
+          "Hans-Olov Adami",
+          "Øyvind Holme",
+          "Joep Ijspeert",
+          "Monika Ferlitsch",
+          "Mario Dinis-Ribeiro",
+          "Maria Pellise",
+          "Alejandro Martínez-Roca",
+          "Sandra Baile-Maxía",
+          "Luisa de-Castro",
+          "Luis Bujanda",
+          "Pilar Díez-Redondo",
+          "Jens Aksel Nordberg Nilsen",
+          "Hong Dung Nguyen",
+          "Linn Bernklev",
+          "Jørgen Tilma",
+          "Uffe Schou Løve",
+          "Claudia Jaensch",
+          "Nastazja D. Pilonis",
+          "Mirosław Szura",
+          "Andrzej Bialek",
+          "Annemarie van Berkel",
+          "Manon C.W. Spaander",
+          "Frank ter Borg",
+          "Monique E. van Leerdam",
+          "Miguel A. Hernán",
+          "Jaroslaw Regula",
+          "Magnus Løberg",
+          "Evelien Dekker",
+          "Mette Kalager"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-09-17",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmoa2604166",
+        "doi": "10.1056/nejmoa2604166",
+        "url": "https://doi.org/10.1056/nejmoa2604166",
+        "title": "Blinatumomab for Replacing Chemotherapy in Pediatric Acute Lymphoblastic Leukemia",
+        "authors": [
+          "Martin Schrappe",
+          "Franco Locatelli",
+          "Maria Grazia Valsecchi",
+          "Gerhard Zugmaier",
+          "Michaela Vossen-Gajcy",
+          "Jan Starý",
+          "Andishe Attarbaschi",
+          "Anja Möricke",
+          "Jean-Pierre Bourquin",
+          "Draga Barbaric",
+          "Sarah Elitzur",
+          "Daniela Silvestri",
+          "Alexandra Kolenova",
+          "Luciano Dalla-Pozza",
+          "Nicole Bodmer",
+          "Martin Stanulla",
+          "Julia Alten",
+          "Faraz Zaman",
+          "Anke Bergmann",
+          "Giovanni Cazzaniga",
+          "Monika Brüggemann",
+          "Barbara Buldini",
+          "Rolf Köhler",
+          "Grazia Fazio",
+          "Claudia Rössig",
+          "Lucie Sramkova",
+          "Rosanna Parasole",
+          "Patrick Hundsdörfer",
+          "Maria Caterina Putti",
+          "Arndt Borkhardt",
+          "Franca Fagioli",
+          "Laura Rachele Bettini",
+          "Fiona Poyer",
+          "Arend von Stackelberg",
+          "Luciana Vinti",
+          "Valentino Conter",
+          "Martin Zimmermann",
+          "Carmelo Rizzari",
+          "Gunnar Cario",
+          "Andrea Biondi"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-09-17",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmoa2605659",
+        "doi": "10.1056/nejmoa2605659",
+        "url": "https://doi.org/10.1056/nejmoa2605659",
+        "title": "Trial of a Maternal Diet Rich in Eggs and Peanuts to Reduce Infant Allergy",
+        "authors": [
+          "Debra J. Palmer",
+          "Dianne E. Campbell",
+          "Ralph Nanan",
+          "Peter S. Hsu",
+          "Anita M. Jorgensen",
+          "Michael O’Sullivan",
+          "Merryn J. Netting",
+          "Vicki McWilliam",
+          "Susan L. Prescott",
+          "Michael S. Gold",
+          "Kirsten P. Perrett",
+          "Maria Makrides",
+          "Thomas R. Sullivan"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-09-17",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmra2516631",
+        "doi": "10.1056/nejmra2516631",
+        "url": "https://doi.org/10.1056/nejmra2516631",
+        "title": "Esophageal Cancer",
+        "authors": [
+          "Shao-Hua Xie",
+          "Elizabeth Smyth",
+          "Jesper Lagergren"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-09-17",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.14521",
+        "doi": "10.1001/jama.2026.14521",
+        "url": "https://doi.org/10.1001/jama.2026.14521",
+        "title": "Screening for Early-Stage Type 1 Diabetes in Children",
+        "authors": [
+          "Shweta Mital",
+          "Michael J. Haller",
+          "Desmond A. Schatz"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-16",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.14839",
+        "doi": "10.1001/jama.2026.14839",
+        "url": "https://doi.org/10.1001/jama.2026.14839",
+        "title": "Asymptomatic Carotid Revascularization May Be Justified, But Not to Improve Cognition",
+        "authors": [
+          "Eric E. Smith",
+          "Aravind Ganesh"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-16",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.12988",
+        "doi": "10.1001/jama.2026.12988",
+        "url": "https://doi.org/10.1001/jama.2026.12988",
+        "title": "The Poetry of Remission (and Recurrence)",
+        "authors": [
+          "Rafael Campo"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-16",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.12871",
+        "doi": "10.1001/jama.2026.12871",
+        "url": "https://doi.org/10.1001/jama.2026.12871",
+        "title": "Remission",
+        "authors": [
+          "Nathaniel J. Brown"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-16",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.14703",
+        "doi": "10.1001/jama.2026.14703",
+        "url": "https://doi.org/10.1001/jama.2026.14703",
+        "title": "Revascularization of Asymptomatic Carotid Artery Stenosis",
+        "authors": [
+          "Ronald M. Lazar",
+          "James F. Meschia",
+          "Lloyd J. Edwards",
+          "Brajesh K. Lal",
+          "George Howard",
+          "Emma Storm",
+          "Donald Heck",
+          "Carlos Mena-Hurtado",
+          "Virginia J. Howard",
+          "Jenifer Voeks",
+          "Virginia G. Wadley",
+          "Randolph S. Marshall",
+          "Thomas G. Brott"
+        ],
+        "abstract": "Importance                     Studies show that asymptomatic carotid artery stenosis is associated with diminished cognition. Whether carotid revascularization leads to cognitive improvement is unclear.                                                           Objective                     To determine whether carotid revascularization improves cognition.                                                           Design, Setting, and Participants                     Prespecified cognitive secondary outcomes of the CREST-2 randomized clinical trials of patients 35 years or older with 70% or greater asymptomatic carotid stenosis. Enrollment was December 2014 through July 2024, and follow-up ended July 2025. Five cognitive tests were administered before treatment and annually up to 4 years. Cognitive performances from 146 clinical sites were centrally assessed by telephone, blinded to treatment.                                                           Interventions                     Two trials compared carotid stenting plus intensive medical management (CAS + IMM) with IMM alone and carotid endarterectomy plus IMM (CEA + IMM) with IMM alone.                                                           Main Outcomes and Measures                                            Five cognitive tests, assessing learning, memory, executive function, attention, and processing speed, administered to all patients, were assessed for unadjusted and adjusted mean                       z                       scores using a linear mixed model. The minimal clinically important difference was 0.50 SD between treatment groups. The prespecified primary analysis was the fully adjusted composite                       z                       score at 4 years. Secondary analyses assessed the individual tests and at the test intervals.                                                                                Results                                            Among 2366 US study patients, 2165 (91.5%) participated in cognitive assessments, 1078 in the CAS trial (529 CAS + IMM; 549 IMM alone) and 1087 in the CEA trial (543 CEA + IMM; 544 IMM alone); mean age was  70.1 years (SD, 7.7) and 37.8% were female. Following baseline, 4954 test batteries were administered for a mean of 2.24 (SD, 1.09) follow-up years. There were no treatment-related differences in the fully adjusted estimated composite                       z                       scores at 4 years for either the CAS trial (CAS + IMM, 0.22 [95% CI, 0.13 to 0.30] vs IMM alone, 0.18 [95% CI, 0.09 to 0.27]; between-group difference, 0.03 [95% CI, −0.09 to 0.15]) or the CEA trial (CEA + IMM, 0.25 [95% CI, 0.17 to 0.33] vs IMM, 0.23 [95% CI, 0.15 to 0.32]; between-group difference, 0.02 [95% CI, −0.09 to 0.14]). There were no significant differences between revascularization plus medical management vs IMM alone for any individual cognitive test.                                                                                Conclusions and Relevance                     In patients with severe asymptomatic carotid artery stenosis, revascularization with either CAS or CEA plus IMM, compared with IMM alone, did not significantly improve cognitive function at up to 4 years of follow-up.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-16",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.13508",
+        "doi": "10.1001/jama.2026.13508",
+        "url": "https://doi.org/10.1001/jama.2026.13508",
+        "title": "Revascularization in Asymptomatic Carotid Artery Stenosis With Hemodynamic Impairment and Cognitive Outcomes",
+        "authors": [],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-16",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.13077",
+        "doi": "10.1001/jama.2026.13077",
+        "url": "https://doi.org/10.1001/jama.2026.13077",
+        "title": "Diagnosis and Treatment of Patients With Primary Aldosteronism",
+        "authors": [
+          "Mohammed A. Rafey",
+          "Andrew M. Davis",
+          "Amir H. Hamrahian"
+        ],
+        "abstract": "This JAMA Insights discusses various aspects of primary aldosteronism, such as its epidemiology, diagnosis and screening, and treatment, including effective medication management.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-16",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.13384",
+        "doi": "10.1001/jama.2026.13384",
+        "url": "https://doi.org/10.1001/jama.2026.13384",
+        "title": "Revascularization in Asymptomatic Carotid Artery Stenosis With Hemodynamic Impairment and Cognitive Outcomes",
+        "authors": [
+          "Randolph S. Marshall",
+          "Ronald M. Lazar",
+          "James F. Meschia",
+          "John Huston",
+          "Lloyd J. Edwards",
+          "Thomas G. Brott",
+          "Brajesh K. Lal",
+          "George Howard",
+          "Carlos Mena-Hurtado",
+          "Donald Heck",
+          "Navdeep Sangha",
+          "Giuseppe Lanzino",
+          "Vikram S. Kashyap",
+          "Herbert D. Aronow",
+          "Mel Sharafuddin",
+          "Jenifer Voeks",
+          "Yu Zhang",
+          "Kevin Slane",
+          "David S. Liebeskind"
+        ],
+        "abstract": "Importance                     Cerebral hemodynamic impairment in patients with asymptomatic internal carotid artery (ICA) stenosis is associated with reduced cognition. It is uncertain whether revascularization might be an effective treatment for cognitive impairment in these patients.                                                           Objective                     To test whether any cognitive benefit from revascularization of high-grade, asymptomatic ICA stenosis varies based on the degree of baseline cerebral hemodynamic impairment.                                                           Design, Setting, and Participants                     This substudy was conducted within a multicenter phase 3 randomized clinical trial. Adults (aged 35-86 years) without dementia with eighth-grade education or higher and unilateral asymptomatic ICA stenosis greater than or equal to 70% were enrolled from January 2018 to July 2024 at 61 sites in North America (last follow-up in July 2025). Of 607 participants screened from 2485 in CREST-2, 392 were enrolled. Magnetic resonance or computed tomographic perfusion imaging tested for baseline hemodynamic impairment defined by delayed time-to-peak (TTP) arrival of intravenous contrast in the hemisphere ipsilateral minus contralateral to the stenotic artery.                                                           Intervention                     Carotid revascularization (endarterectomy or stenting) plus intensive medical management (IMM) vs IMM alone.                                                           Main Outcomes and Measures                                            The primary outcome was the difference in composite cognitive                       z                       score over 1 year based on 5 cognitive tests. The primary analysis tested for an interaction between treatment group (revascularization vs IMM alone) and degree of baseline hemodynamic impairment among those with reduced baseline cognition (cognitive                       z                       score ≤−1.0 SD).                                                                                Results                                            Of 392 participants enrolled (mean age, 71 years; 125 [32%] females), 61 were excluded for missing baseline imaging and 40 for missing cognitive examinations or other covariates, leaving 291 with complete data. Fifty-one had reduced cognition at baseline (25 in the revascularization group and 26 in the IMM alone group). TTP ranged from no interhemispheric TTP delay to a more-than-2-second delay. Mean (SD) cognitive                       z                       scores were −1.36 (0.51) at baseline and −1.17 (0.47) at 1 year in the revascularization group and −1.34 (0.83) at baseline and −1.01 (0.97) at 1 year in the IMM alone group. The primary analysis showed no difference in cognition by treatment group over 1 year, adjusting for treatment group × hemodynamic status interaction and other covariates (adjusted difference in cognitive                       z                       score, −0.15 SD [95% CI, −0.54 to 0.24]). The interaction was not significant (β estimate = 0.018 [95% CI, −0.025 to 0.061];                       P                        = .40).                                                                                Conclusions and Relevance                     In this substudy of a randomized clinical trial, there was no differential effect of revascularization vs IMM alone on cognition over 1 year by cerebral hemodynamic status among those with baseline reduced cognition, suggesting that revascularization does not improve cognitive dysfunction by restoring flow to the brain in chronic asymptomatic carotid stenosis.                                                           Trial Registration                                            ClinicalTrials.gov Identifier:                       NCT03121209",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-16",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.14524",
+        "doi": "10.1001/jama.2026.14524",
+        "url": "https://doi.org/10.1001/jama.2026.14524",
+        "title": "Screening for Early-Stage Type 1 Diabetes in Children—Reply",
+        "authors": [
+          "Ezio Bonifacio",
+          "Christiane Winkler",
+          "Anette G. Ziegler"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-16",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.20213",
+        "doi": "10.1001/jama.2026.20213",
+        "url": "https://doi.org/10.1001/jama.2026.20213",
+        "title": "The Maternal Mental Health Crisis—A Dangerous Blind Spot in US Medicine",
+        "authors": [
+          "Marcela Almeida"
+        ],
+        "abstract": "This Viewpoint discusses the maternal mental health crisis in the US, outlining gaps in care and assessing the preparedness of the system to handle severe acute perinatal psychiatric crises.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-16",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmoa2506756",
+        "doi": "10.1056/nejmoa2506756",
+        "url": "https://doi.org/10.1056/nejmoa2506756",
+        "title": "Short or Long Antibiotic Regimens in Orthopedics",
+        "authors": [
+          "Martin McNally",
+          "Maria Dudareva",
+          "Michelle Kümin",
+          "Werner Vach",
+          "Claire L. Scarborough",
+          "Matthew J. Cichero",
+          "Ricardo Sousa",
+          "Jamie Ferguson",
+          "David A. Stubbs",
+          "Bridget L. Atkins",
+          "Alex J. Ramsden",
+          "Bernadette C. Young",
+          "Andre D. Carvalho",
+          "Adrian R. Kendal",
+          "Abtin Alvand",
+          "Antony J.R. Palmer",
+          "Con L. Loizou",
+          "Ben Kendrick",
+          "Adrian H. Taylor",
+          "Amirul Islam",
+          "Michael J. Riste",
+          "Anand Pillai",
+          "Sunil K. Sharma",
+          "Jonathan Folb",
+          "Neal Jacobs",
+          "Simon C. Ellis",
+          "Aaron B.Y. Ng",
+          "Daniel Perez-Prieto",
+          "Irene K. Sigmund",
+          "Reinhard Windhager",
+          "Alexis D. Iliadis",
+          "Andrew J.F. Bing",
+          "Henry Wynn Jones",
+          "John Williams",
+          "Ben J. Ollivere",
+          "Volker Alt",
+          "Simon Warren",
+          "Neil E. Jenkins",
+          "Andreas Leithner",
+          "Harriet C. Hughes",
+          "Steve A. Jones",
+          "O. Martin Williams",
+          "Matthew Scarborough"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-09-16",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-17",
+        "fetched_from": "crossref"
+      },
       {
         "id": "doi:10.1001/jama.2026.10573",
         "doi": "10.1001/jama.2026.10573",
@@ -28457,6 +29569,56 @@
           "healthReform"
         ],
         "firstSeen": "2026-09-16",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1097/ede.0000000000002050",
+        "doi": "10.1097/ede.0000000000002050",
+        "url": "https://doi.org/10.1097/ede.0000000000002050",
+        "title": "Impact of the first nirsevimab immunization campaign on infant RSV-related emergency department visits and hospitalizations in Québec, Canada",
+        "authors": [
+          "Amandine Bemmo",
+          "Élise Fortin",
+          "Patrick Fortin",
+          "Radhouene Doggui",
+          "Charles-Antoine Guay",
+          "Rachid Amini",
+          "Sara Carazo",
+          "Jesse Papenburg",
+          "Rodica Gilca"
+        ],
+        "abstract": "Objectives.                     During the 2024-2025 respiratory syncytial virus (RSV) season, a universal nirsevimab infant immunization program was implemented in the province of Québec. We evaluated its population-level impact on RSV-related emergency department (ED) visits and hospitalizations in 0-5-month-old infants, using both active surveillance and administrative health data.                                                           Methods.                     Study population included all Québec children &lt;18 years old. We calculated incidence rates of RSV-confirmed hospitalizations, RSV-associated hospitalizations and ED visits linked to a positive RSV test, and acute bronchiolitis ED visits for nirsevimab-eligible (0-5 months old) and non-eligible (6-11 months and 1-17 years old) age groups during the 2024-2025 season. We also compared these 2024-2025 figures to previous seasons using varying lookback periods. Using difference-in-differences and constant proportion of admissions counterfactual approaches, pre-/post-intervention variations in 0-5-month-olds were adjusted for any time trends occurring in non-targeted age groups.                                                           Results.                     Decreases of 59% (95% CI: 49–70) and 66% (95% CI: 58–71) were observed in RSV-confirmed and RSV-associated hospitalizations, respectively. Acute bronchiolitis ED visits decreased by 35% (95% CI: 28–41), and RSV-associated ED visits by 60% (95% CI: 56–65). In the 2024-25 season, ED visits and hospitalizations were less frequent than expected (i.e. without nirsevimab) in 0-5-month-old infants, suggesting that between 323 and 746 hospitalizations may have been prevented.                                                           Conclusion.                     The 2024-2025 nirsevimab campaign was associated with a two-thirds reduction in RSV-related hospitalizations and RSV-associated ED visits in Québec among 0-5-month-old infants. ED visits for acute bronchiolitis were also reduced by a third.",
+        "source": "Epidemiology",
+        "issn": "1044-3983",
+        "date": "2026-09-15",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1097/ede.0000000000002049",
+        "doi": "10.1097/ede.0000000000002049",
+        "url": "https://doi.org/10.1097/ede.0000000000002049",
+        "title": "Indirect Estimation of the Number of Prevalent Cases – Relaxing the Steady State Assumption",
+        "authors": [
+          "W. Dana Flanders",
+          "Michael Goodman",
+          "Cathy Lally"
+        ],
+        "abstract": "Background:                     Prevalence is an important measure of disease frequency, helping characterize disease burden and health care needs. If direct estimates are unavailable (e.g. from surveys), the number of prevalent cases can be estimated indirectly as the number of incident cases per unit time times the average duration of disease. This formula, however, is based on a steady-state assumption which is often unrealistic, potentially precluding use of this indirect approach.                                                           Methods:                     We derive and illustrate use of an alternative formula relating numbers of prevalent cases, numbers of incident cases over time, the average disease duration and the mean square duration.                                                           Results:                     Examples illustrate use of our formula and that results are somewhat robust to the number of time periods used to estimate the linear trend in case incidence.                                                           Conclusion:                     Our formula does not require a steady-state assumption and applies provided temporal changes in incident cases are approximately linear.",
+        "source": "Epidemiology",
+        "issn": "1044-3983",
+        "date": "2026-09-15",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-17",
         "fetched_from": "crossref"
       },
       {
@@ -33337,6 +34499,55 @@
     ],
     "agingHealth": [
       {
+        "id": "doi:10.1186/s12877-026-08314-9",
+        "doi": "10.1186/s12877-026-08314-9",
+        "url": "https://doi.org/10.1186/s12877-026-08314-9",
+        "title": "Translation, cultural adaptation, and psychometric evaluation of the Odia version of QOL-AD: evidence from participants with dementia and caregivers",
+        "authors": [
+          "Suchismita Pahantasingh",
+          "Sasmita Das",
+          "Surjeet Sahoo",
+          "Rashmimala Pradhan",
+          "Jhunilata Pradhan"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-17",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08264-2",
+        "doi": "10.1186/s12877-026-08264-2",
+        "url": "https://doi.org/10.1186/s12877-026-08264-2",
+        "title": "A study on the impact of productive social participation on depression among older adults in China",
+        "authors": [
+          "Yijie Wang",
+          "Yutian Wei",
+          "Weiheng Sun",
+          "Jinyi Lang",
+          "Yikunxiao Meng",
+          "Bin Hu"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-17",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-17",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1186/s12877-026-08297-7",
         "doi": "10.1186/s12877-026-08297-7",
         "url": "https://doi.org/10.1186/s12877-026-08297-7",
@@ -33428,6 +34639,363 @@
           "agingHealth"
         ],
         "firstSeen": "2026-09-16",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/gerona/glag225",
+        "doi": "10.1093/gerona/glag225",
+        "url": "https://doi.org/10.1093/gerona/glag225",
+        "title": "Adiposity and Cognitive Performance in Older Men and Women from the Study of Muscle, Mobility and Aging (SOMMA)",
+        "authors": [
+          "John J Dubé",
+          "Haley N Barnes",
+          "Zana M Ross",
+          "Neharika Murthy",
+          "Nikola Gligorijevic",
+          "Mahesh K Basantani",
+          "Divya Gupta",
+          "Cheehoon Ahn",
+          "Andrea M Brennan",
+          "Maria F Pino",
+          "Frederico G S Toledo",
+          "Maja Stefanovic-Racic",
+          "Paul M Coen",
+          "Peggy M Cawthon",
+          "Steven R Cummings",
+          "Stephen B Kritchevsky",
+          "Anne B Newman",
+          "Lauren M Sparks",
+          "Erin E Kershaw"
+        ],
+        "abstract": "Abstract                                        Background                     Aging is accompanied by changes in body composition and cognition. Although adiposity has been linked to metabolic dysfunction and dementia risk, associations with specific cognitive domains in later life remain unclear.                                                           Methods                     This cross-sectional study examined associations between adiposity and cognitive performance in 769 community-dwelling, healthy older adults (70–94 years) from the Study of Muscle, Mobility and Aging (SOMMA). Adiposity was assessed using anthropometric measures (body mass index, waist circumference) and MRI-derived regional fat volumes, including visceral and abdominal subcutaneous adipose tissue. Cognitive performance was evaluated using a screening measure (Montreal Cognitive Assessment), processing speed (Digit Symbol Coding Test), executive function (Trail Making Test B), and memory (California Verbal Learning Test–II Short Form). Multivariable linear regression models were sequentially adjusted for demographic, cardiometabolic, psychosocial, and behavioral factors.                                                           Results                     Greater age was associated with lower adiposity and poorer cognitive performance (p &amp;lt; 0.05). Most adiposity measures were inversely associated with processing speed after adjustment for age, sex, race, and testing site (p &amp;lt; 0.05). These associations generally persisted after adjustment for cardiometabolic conditions and were attenuated after inclusion of education, depressive symptoms, and behavioral covariates. No significant associations were observed between adiposity and executive function. Memory outcomes showed modest, exploratory associations with abdominal subcutaneous adipose tissue measures only in fully adjusted models (p = 0.03–0.07).                                                           Conclusions                     In healthy older adults, adiposity is most consistently related to processing speed, whereas associations with memory and executive function are weaker or absent. Processing speed may be especially sensitive to adiposity-related differences. Longitudinal studies are needed to clarify temporal relationships.",
+        "source": "The Journals of Gerontology, Series A: Biological Sciences and Medical Sciences",
+        "issn": "1079-5006",
+        "date": "2026-09-16",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "elderCare"
+        ],
+        "firstSeen": "2026-09-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/gerona/glag233",
+        "doi": "10.1093/gerona/glag233",
+        "url": "https://doi.org/10.1093/gerona/glag233",
+        "title": "Longitudinal Trajectories of Hospitalizations in U.S. Older Adults with Heart Failure",
+        "authors": [
+          "Hanzhang Xu",
+          "Radha Dhingra",
+          "Bradley G Hammill",
+          "Zhen Li",
+          "Scott M Lynch",
+          "Jessica S West",
+          "Michael D Green",
+          "Eric D Peterson",
+          "Lesley H Curtis",
+          "Matthew E Dupre"
+        ],
+        "abstract": "Abstract                                        Background                     Little is known about long-term risks of hospitalizations among heart failure (HF) older adults at a national level. We identified long-term patterns of hospitalizations following the diagnosis of HF and assessed whether high-risk patients can be identified prior to discharge.                                                           Methods                     This is a retrospective cohort study from 2010 to 2020. Fee-for-service Medicare beneficiaries with newly-diagnosed HF during an inpatient stay and followed for up to 5 years. Group-based trajectory models (GBTM) identified 4 trajectories of all-cause hospitalizations during follow-up. LASSO regression was used to identify patients’ baseline characteristics to predict their hospitalization trajectories. Model discrimination was assessed using C-statistics and calibration was evaluated using expected-to-observed ratios.                                                           Results                     Of the 84,597 Medicare beneficiaries with newly-diagnosed HF (mean age: 77.4 [± 7.1] years and 58.3% male), we identified 4 distinct trajectories of hospitalizations: Group 1 (n = 19,340; 22.9%) had consistently “low risks” of hospitalization, Group 2 (n = 53,922; 57.9%) had elevated risks shortly after discharge (“high-to-low risk”), Group 3 (n = 5,035; 9.8%) had elevated risks at later stages of illness (“low-to-high risk”), and Group 4 (n = 6,300; 9.4%) had consistently “high risks” of hospitalization. Models were well-calibrated predicting hospitalization trajectories (compared to low-risk patients [Group 1]), and C-statistics were 0.65 (Group 2), 0.68 (Group 3), and 0.79 (Group 4). Discrimination was consistently better among patients ≤70 years and calibration remained excellent across all subgroups with expected-to-observed ratios near 1.0.                                                           Conclusions                     High-risk HF patients could be identified at the time-of-diagnosis using routinely available clinical characteristics, enabling targeted interventions during critical periods to improve long-term outcomes.",
+        "source": "The Journals of Gerontology, Series A: Biological Sciences and Medical Sciences",
+        "issn": "1079-5006",
+        "date": "2026-09-16",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "elderCare"
+        ],
+        "firstSeen": "2026-09-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70688",
+        "doi": "10.1111/jgs.70688",
+        "url": "https://doi.org/10.1111/jgs.70688",
+        "title": "Correction to “Alternative Treatments to Selected Medications in the 2023 American Geriatrics Society Beers Criteria®”",
+        "authors": [],
+        "abstract": "",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-09-16",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70727",
+        "doi": "10.1111/jgs.70727",
+        "url": "https://doi.org/10.1111/jgs.70727",
+        "title": "Family Caregivers in Hospital at Home—What We Know, Where to Go",
+        "authors": [
+          "Bruce Leff",
+          "Linda V. DeCherrie",
+          "Gabrielle Schiller",
+          "Annabel Steiner",
+          "David M. Levine"
+        ],
+        "abstract": "",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-09-16",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70598",
+        "doi": "10.1111/jgs.70598",
+        "url": "https://doi.org/10.1111/jgs.70598",
+        "title": "Irish Healthcare Staff Perspectives on the Implementation of the Age‐Friendly Health Systems\n                    <scp>4Ms</scp>\n                    Framework. A Qualitative Analysis",
+        "authors": [
+          "Tessa O'Gorman",
+          "Heather Hegarty",
+          "Rebecca Marshall",
+          "Hannah O'Brien",
+          "Niamh Bambury"
+        ],
+        "abstract": "ABSTRACT                                        Background                     The Age‐Friendly Health Systems (AFHS) 4Ms Framework (what Matters most, Medication, Mentation, and Mobility) is an internationally recognized, evidence‐based approach to deliver consistent, person‐centered care to older adults in all healthcare settings. This qualitative study evaluated the implementation of the 4Ms Framework, from the perspective of multidisciplinary team members, at three early‐adopter healthcare services in Ireland.                                                           Participants and Setting                     Ten one‐to‐one semi‐structured interviews were conducted with doctors, nurses, and health and social care professionals working in three distinct healthcare settings in Ireland.                                                           Methods                     A qualitative interpretive phenomenological design was adopted, following the Standards for Reporting Qualitative Research guidelines. Participants were purposively sampled to capture diverse perspectives across services, disciplines, and roles. The topic guide was informed by the Normalization Process Theory. Interviews were audio‐recorded, transcribed verbatim, anonymized, and analyzed manually using iterative thematic content analysis.                                                           Results                     The overarching theme identified, a supporting and enabling structure, was supported by three major themes: (1) Ability of the 4Ms Framework to facilitate an AFHS approach, (2) Securing sustainability of an AFHS, and (3) Impact of the 4Ms Framework as a driver of the implementation process. Based on these findings facilitators to implementation included early stakeholder engagement, strong leadership, and a scalable approach that fostered multidisciplinary collaboration and person‐centered care with minimal extra resources. Barriers to implementation included reliance on Americanized materials, risks of tokenistic adoption, variable integration across settings, and limited outcome evaluation.                                                           Conclusion                     The AFHS 4Ms Framework supports transformative, person‐centered care across diverse settings. This first Irish AFHS evaluation provides recommendations for wider implementation of the 4Ms Framework while contributing novel insights to the international implementation evidence base. This study emphasizes the need to adapt the 4Ms Framework to local systems, integrate robust evaluation, and build on the identified facilitators while addressing barriers to achieve sustainable, scalable adoption within healthcare settings.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-09-16",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70724",
+        "doi": "10.1111/jgs.70724",
+        "url": "https://doi.org/10.1111/jgs.70724",
+        "title": "Refusing Erasure: Moral Courage in\n                    <scp>LGBTQ</scp>\n                    + Health Research",
+        "authors": [
+          "Sara G. Jackson"
+        ],
+        "abstract": "",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-09-16",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70735",
+        "doi": "10.1111/jgs.70735",
+        "url": "https://doi.org/10.1111/jgs.70735",
+        "title": "Thirty‐Day Mortality After Hospital Transfer for Pneumonia in Nursing Home Residents With Advanced Dementia",
+        "authors": [
+          "Kieran L. Quinn",
+          "Robert Talarico",
+          "Aisha Ahmad",
+          "Daniel Kobewka"
+        ],
+        "abstract": "",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-09-16",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70725",
+        "doi": "10.1111/jgs.70725",
+        "url": "https://doi.org/10.1111/jgs.70725",
+        "title": "“What Frailty Means in Dialysis: Lighting the Maze to Transplantation”",
+        "authors": [
+          "Anoop Sheshadri"
+        ],
+        "abstract": "",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-09-16",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08312-x",
+        "doi": "10.1186/s12877-026-08312-x",
+        "url": "https://doi.org/10.1186/s12877-026-08312-x",
+        "title": "Associations of physical activity, dietary quality, and their changes with all-cause mortality in older Chinese adults: a prospective study",
+        "authors": [
+          "Rule Du",
+          "Yang Xu",
+          "Ya Wen",
+          "Ruixia Niu",
+          "Guiming Zhu",
+          "Qian Gao",
+          "Tong Wang"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-16",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08301-0",
+        "doi": "10.1186/s12877-026-08301-0",
+        "url": "https://doi.org/10.1186/s12877-026-08301-0",
+        "title": "The physical activity paradox in later life: does leisure-time exercise modify the association between agricultural labor and self-rated health?",
+        "authors": [
+          "Tongtong Shi",
+          "Huichao Shao",
+          "Minjoo An"
+        ],
+        "abstract": "Abstract                                        Background                     Healthy ageing requires more than total physical activity volume; the context, voluntariness, recovery opportunity, and social meaning of activity may shape how activity relates to health in later life. Guided by the physical activity paradox, this study examined whether leisure-time exercise moderates the longitudinal association between agricultural labor and self-rated health among older Chinese adults.                                                           Methods                     Data were drawn from five waves of the China Family Panel Studies (2010, 2012, 2014, 2016, and 2018). The analytical sample included 18,050 person-wave observations from 9,449 adults aged 60 years and older. Self-rated health was modeled as a five-point outcome in individual fixed-effects linear models. Standard errors were clustered at the individual level. Agricultural labor, leisure-time exercise, and their interaction were the principal explanatory variables.                                                           Results                                            In the fully adjusted interaction model, agricultural labor was associated with lower self-rated health among respondents who did not exercise (β = −0.753, 95% CI − 0.856 to − 0.651,                       p                        &lt; 0.001). Leisure-time exercise showed a small but statistically non-significant association with self-rated health among respondents not engaged in agricultural labor (β = 0.047, 95% CI − 0.006 to 0.099,                       p                        = 0.082). The agricultural labor × leisure-time exercise interaction was positive (β = 0.898, 95% CI 0.793 to 1.002,                       p                        &lt; 0.001), consistent with a less negative agricultural labor-SRH pattern among respondents who exercised. Age-stratified interaction estimates were numerically larger among adults aged ≥ 70 years than among those aged 60–69 years; however, formal between-group differences were not tested.                                                                                Conclusions                     Agricultural labor and leisure-time exercise were not interchangeable activity domains in this longitudinal sample. Agricultural labor was related to lower self-rated health, the general main association of exercise was not statistically significant in the fully adjusted interaction model, and the interaction suggested that the exercise-health association was contingent on agricultural labor status. Rural healthy-ageing strategies should distinguish physically demanding work from voluntary, recovery-sensitive exercise while avoiding causal claims from observational associations.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-16",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08253-5",
+        "doi": "10.1186/s12877-026-08253-5",
+        "url": "https://doi.org/10.1186/s12877-026-08253-5",
+        "title": "Quality and safety of large language model–generated medication review outputs in geriatric pharmacotherapy: a two-stage comparative vignette-based benchmark evaluation",
+        "authors": [
+          "Kubra Cingar Alpay",
+          "Duygu Ozata",
+          "Tugce Emiroglu Gedik",
+          "Suna Avci",
+          "Alper Doventas",
+          "Ulev Deniz Erdincler"
+        ],
+        "abstract": "Abstract                                        Background                     Polypharmacy and multimorbidity make medication review in older adults a high-stakes clinical task. Large language models (LLMs) may support medication review, but whether item-level concordance with explicit prescribing criteria reflects expert-rated reasoning quality and safety prioritisation is uncertain. We compared the quality and safety of outputs generated by three LLMs using a two-stage evaluation framework.                                                           Methods                     In this two-stage comparative vignette-based benchmark evaluation, GPT-5.2, Claude Sonnet 4.5, and Gemini 3 Pro responded to 20 standardised geriatric pharmacotherapy vignettes representing fictional older adults aged 72–88 years across four clinical domains. Each vignette contained three potentially inappropriate medications and one clinically relevant START-type omission anchored to the AGS Beers Criteria and STOPP/START version 3. Models received an identical master prompt under default end-user settings; memory features were disabled where available and separate sessions were used for each vignette. Two geriatricians, blinded to model identity, independently rated anonymised outputs using a 100-point rubric comprising medication review output quality (0–80) and critical safety-risk prioritisation (0–20). Stage 1 assessed answer-key concordance; exploratory Stage 2 characterised clinically contextualised error patterns. Comparisons used Friedman and Wilcoxon signed-rank tests, Cochran’s Q, and exact McNemar tests with Bonferroni correction.                                                           Results                                            Stage 1 concordance was uniformly high, with limited between-model discrimination. Expert-rated total scores differed across models (                       p                        &lt; 0.001; Kendall’s W = 0.700): Gemini 3 Pro scored highest (97.93 ± 2.33; 95% CI 96.83–99.02), followed by Claude Sonnet 4.5 (93.90 ± 3.37) and GPT-5.2 (89.85 ± 5.23); all pairwise comparisons were significant, with large standardised effect sizes (                       r                        = 0.55–0.61). Safety scores showed the same ranking (                       p                        &lt; 0.001; Kendall’s W = 0.861;                       r                        = 0.52–0.62). Reliability of averaged total ratings was high (ICC(A,2) = 0.935; 95% CI 0.897–0.957). In the exploratory Stage 2 error analysis, Gemini was less frequently flagged than GPT-5.2 for superficial reasoning, weak emphasis on life-threatening risk, and any flagged error, and less frequently than Claude Sonnet 4.5 for weak emphasis on life-threatening risk and any flagged error.                                                                                Conclusions                     Within this vignette-based benchmark, high item-level concordance did not ensure high expert-rated output quality or safety prioritisation. Models also differed in safety prioritisation and in the pattern of flagged errors. These findings support supervised use of LLMs and evaluation approaches that assess reasoning and prioritisation as well as target detection. They should not be interpreted as evidence that one model is clinically superior in real-world practice.                                                           Trial registration                     Clinical trial not applicable.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-16",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261487394",
+        "doi": "10.1177/13872877261487394",
+        "url": "https://doi.org/10.1177/13872877261487394",
+        "title": "L-serine-enriched diet restores impaired adult neurogenesis in the hippocampus of 3xTg-AD mice",
+        "authors": [
+          "Emmanuel Than-Trong",
+          "Lucille Torres",
+          "Mylène Gaudin-Guérif",
+          "Caroline Jan",
+          "Aurélie Ghettas",
+          "Aurélie Amadio",
+          "Stéphane H.R. Oliet",
+          "Aude Panatier",
+          "Gilles Bonvento"
+        ],
+        "abstract": "Background                     Altered adult neurogenesis occurs in Alzheimer's disease (AD) in humans and rodent models, though the mechanisms remain unclear. L-serine, a non-essential amino acid critical for cell proliferation and survival, is produced by neuroepithelial cells and radial glia in the developing brain, and by astrocytes and neural precursors in the adult brain. Its production is altered in AD, particularly in the hippocampus.                                                           Objective                     To determine whether reduced L-serine availability contributes to impaired adult neurogenesis in AD.                                                           Methods                     We examined the expression of phosphoglycerate dehydrogenase (PHGDH), an enzyme in L-serine biosynthesis, in neural stem cells (NSCs) of mouse and human dentate gyrus (DG). Adult neurogenesis was assessed by quantifying proliferating neural precursors and immature neurons in 7- and 12-month-old 3xTg-AD mice and age-matched controls. Mice received an L-serine-enriched diet for 4 or 8 months, after which plasma serine levels, neurogenesis markers, and amyloid pathology were evaluated.                                                           Results                     PHGDH was expressed by NSCs in the mouse DG and by cells in the subgranular zone (SGZ) of the human DG showing radial morphology typical of rodent NSCs. Twelve-month-old 3xTg-AD mice showed a significant reduction in proliferating (PCNA-positive) precursors and immature (DCX-positive) neurons in the DG relative to controls. L-serine supplementation significantly raised plasma L- and D-serine levels and partially rescued neurogenesis deficits in 3xTg-AD mice, without affecting amyloid pathology.                                                           Conclusions                     We suggest that impairment of L-serine metabolism and the resulting reduction in D-serine availability contributes to impaired adult neurogenesis, potentially via reduced survival of newborn neurons in the DG of 3xTg-AD mice.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-09-16",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261487171",
+        "doi": "10.1177/13872877261487171",
+        "url": "https://doi.org/10.1177/13872877261487171",
+        "title": "Validation of plasma core biomarkers of Alzheimer's disease: A multicenter study in usual practice conditions",
+        "authors": [
+          "Antonio Sánchez-Soblechero",
+          "Alberto Villarejo",
+          "María Teresa Carreras",
+          "Ángel Berbel",
+          "Carolina Puertas",
+          "Yolanda Fernández-Bullido",
+          "Alba Vieira",
+          "Isaías Gundín",
+          "Víctor Blanco-Palmero",
+          "Marta González-Sánchez",
+          "Sara Llamas",
+          "Teresa Lapeña",
+          "Pilar de Luis",
+          "Blanca Lucio",
+          "María Dolores Ibáñez",
+          "Patricia Heredia",
+          "Francisco Grandas",
+          "Javier Olazarán"
+        ],
+        "abstract": "Background                     The new anti-amyloid therapies have brought the challenge of early and feasible identification of Alzheimer's disease (AD). Plasma biomarkers are promising tools, but real-world evidence remains limited.                                                           Objective                     We aimed to evaluate the diagnostic performance of plasma core AD biomarkers, while accounting for potential confounding factors.                                                           Methods                                            Cross-sectional study of 285 patients (mean age 69.9 [range 50–85] years, 50.9% female) from five centers of the ReDeMa cohort. The diagnostic performance of plasma Aβ                       42                       /Aβ                       40                       , p-tau181, p-tau217, and p-tau217/Aβ                       42                       was tested against cerebrospinal fluid (CSF) amyloid (A) and tau (T) pathology using a centralized, chemiluminescence-based platform (Lumipulse                       ©                       ). The potential influence of comorbidities, medications, neuropsychological variables, and apolipoprotein E gene (                       APOE                       ) ε4 allele was analyzed, and center-related variability was examined.                                                                                Results                                            CSF amyloid (A+) was present in 216/285 (75.8%), while amyloid and tau pathology (A + T+) occurred in 191/283 (67.5%) patients. p-Tau217 displayed the best performance for detecting both A + (AUC 0.956) and A + T + (AUC 0.903). The optimal cutoff for A + was 0.234 pg/mL (95% CI 0.168–0.237), with an overall agreement of 95.8%. p-Tau217 performance showed some variability across centers (AUCs 0.916 to 1.000), but confidence intervals overlapped.                       APOE                       ε4 status (                       r                        = 0.272), female sex (                       r                        = 0.231), and cognitive performance (                       r                        = −0.399) were associated with p-tau217, but multivariate models did not improve the diagnostic performance of p-tau217 alone. Significant associations were not found between p-tau217 and comorbidities or medications.                                                                                Conclusions                     Plasma p-tau217 is established as a first-choice biomarker for the early detection of AD pathology in specialized clinical settings, displaying excellent diagnostic accuracy and minimal site-related variability.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-09-16",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261487350",
+        "doi": "10.1177/13872877261487350",
+        "url": "https://doi.org/10.1177/13872877261487350",
+        "title": "Insomnia treatment preferences of older adults and people living with dementia: A qualitative study",
+        "authors": [
+          "Aisling M. McEvoy",
+          "Emily Reeve",
+          "Jemimah Ride",
+          "Aili V. Langford",
+          "Kyung Min Kirsten Lee",
+          "Sheryn Loh",
+          "Justin Turner"
+        ],
+        "abstract": "Background                     Insomnia is common in people living with dementia and older adults. While clinical guidelines recommend non-pharmacological treatment as first-line therapy, insomnia is often managed with benzodiazepine receptor agonists (BZRAs), which carry a significant risk of medication-related harm.                                                           Objective                     To explore what influences decisions to engage with pharmacological and non-pharmacological insomnia treatments among older adults, people living with dementia and their carers.                                                           Methods                     Semi-structured interviews were conducted with three participant groups (people living with dementia, their carers, and older adults). The interviews were conducted and transcribed in Zoom. Participants identified and prioritized factors that influence their treatment decisions. Thematic analysis was conducted in NVivo to generate themes that described how participants’ beliefs and experiences influenced their preferences.                                                           Results                     From 19 interviews with 20 participants (Median age range = 65–74 years, 37% female), 14 factors were identified. Risk of side effects (n = 10) and effectiveness (n = 7) were most commonly prioritized and frequently reported across all participant groups. Medication side effects on cognition and daytime sedation were frequent concerns. Underpinning these factors were five main themes determined from thematic analysis, including: beliefs about sleep and insomnia, treatment expectations and experiences, external influences, treatment characteristics, and barriers to treatment.                                                           Conclusions                     Decisions about insomnia treatments are influenced not only by expected and/or experienced treatment effectiveness, but also by perceived risks and health beliefs. Integrating these perspectives into clinical decision-making may help reduce medication-related harm and promote safer, acceptable alternatives.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-09-16",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-17",
         "fetched_from": "crossref"
       },
       {
@@ -34129,6 +35697,118 @@
         "fetched_from": "crossref"
       },
       {
+        "id": "doi:10.1093/gerona/glag232",
+        "doi": "10.1093/gerona/glag232",
+        "url": "https://doi.org/10.1093/gerona/glag232",
+        "title": "The modifying effect of work-care role conflict on the effectiveness of carer support: Results from the Australian\n                    <i>Draw Care</i>\n                    randomised clinical trial",
+        "authors": [
+          "Duncan Mortimer",
+          "Thu Ha Dang",
+          "Antonia Thodis",
+          "Joanne Enticott",
+          "Yuan Tian",
+          "Simona Markusevska",
+          "Josefine Antoniades",
+          "Tuan Anh Nguyen",
+          "Andrew Simon Gilbert",
+          "Mary Gurgone",
+          "Nalika Ulapane",
+          "Claudia Cooper",
+          "Nilmini Wickramasinghe",
+          "Lily Dongxia Xiao",
+          "Briony Dow",
+          "Mathew Varghese",
+          "Santosh Loganathan",
+          "Bianca Brijnath"
+        ],
+        "abstract": "Abstract                                        Background                     People who care for a family member with dementia alongside paid work often experience role conflict. This study explores whether work-care role conflict (WCRC) modifies the effectiveness of Draw Care, an online and culturally-adapted carer support intervention.                                                           Methods                     Secondary exploratory analysis of a single-blind, parallel-group trial (August 2023–November 2024) that compared Draw Care against waitlist control in adult carers from diverse linguistic backgrounds. To formally test whether WCRC moderated the effect of the Draw-Care intervention, we ran a full-sample linear mixed model that included a three-way interaction between time-point, treatment group and an indicator of WCRC. WCRC was operationalised as self-report of missed work or reduced productivity due to competing care and employment demands. Outcomes included carer burden, mood, quality of life, and productivity/ activity impairment at 6 and 12 weeks.                                                           Results                     Forty-two of 93 carers reported WCRC. Reductions in caregiver burden due to treatment at 6 weeks (-10.00; 95% CI -19.70 to -0.31, p = 0.043) and 12 weeks (-9.56; 95% CI -18.83 to -0.29, p = 0.043) were significantly larger in participants with WCRC than without. This moderating effect of WCRC was driven by a robust, absolute reduction in caregiver burden in intervention group participants with WCRC over the initial 6 weeks (-7.19, 95%CI: -12.72 to -1.67, p = 0.011), with much of this improvement preserved at 12 weeks (-6.85, 95%CI: -12.17 to -1.53, p = 0.012).                                                           Conclusions                     WCRC appears to modify the effectiveness of Draw Care, suggesting that the intervention may be particularly helpful for carers navigating role conflict.",
+        "source": "The Journals of Gerontology, Series A: Biological Sciences and Medical Sciences",
+        "issn": "1079-5006",
+        "date": "2026-09-15",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "elderCare"
+        ],
+        "firstSeen": "2026-09-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/gerona/glag231",
+        "doi": "10.1093/gerona/glag231",
+        "url": "https://doi.org/10.1093/gerona/glag231",
+        "title": "Aging-Related Diseases in the U.S. Population: A Data-Driven Approach Using All of Us Electronic Health Record Data",
+        "authors": [
+          "Buwei He",
+          "Matthew Lohman",
+          "Stephanie Aghamoosa",
+          "Tiejun Zhang",
+          "Bankole Olatosi",
+          "Jiajia Zhang"
+        ],
+        "abstract": "Abstract                                        Background                     Aging is the strongest risk factor for most chronic diseases, yet aging-related diseases (ARDs) lack consistent, data-driven definitions. Prior work has proposed frameworks to classify ARDs based on age-specific onset patterns, but applications have largely relied on demographically homogeneous populations.                                                           Methods                     We extended a data-driven framework integrating unsupervised clustering and actuarial modeling to electronic health record data from 633,547 participants in the U.S. All of Us Research Program. Age-specific onset rates for 274 high-burden diseases between ages 21 and 74 were analyzed. Standardized onset curves were grouped using hierarchical agglomerative clustering. Aging-related patterns were assessed with Gompertz and Gompertz-Makeham (GM) models to quantify age-dependent increases in disease onset.                                                           Results                     Eleven clusters of disease onset trajectories were identified, with four main clusters encompassing 96.0% of diseases. Two clusters exhibited pronounced late-life increases in onset rate, while one showed earlier but moderate age-related increases, and another displayed largely age-independent patterns. Cardiovascular diseases and cancers were enriched in clusters with strong aging-related onset trajectories. Overall, 165 diseases demonstrated strong evidence of being aging-related, characterized by positive Gompertz age coefficients and good GM model fit. Median onset ages varied across clusters and disease categories and showed statistically significant discrepancies compared with U.K. populations.                                                           Conclusions                     In a large, racially diverse U.S. cohort, we identified distinct ARD clusters with shared age-related onset patterns. These findings extend prior work to a more diverse population and support integrated clustering and actuarial approaches to systematically define ARDs and inform aging research and public health strategies.",
+        "source": "The Journals of Gerontology, Series A: Biological Sciences and Medical Sciences",
+        "issn": "1079-5006",
+        "date": "2026-09-15",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "elderCare"
+        ],
+        "firstSeen": "2026-09-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1097/ede.0000000000002050",
+        "doi": "10.1097/ede.0000000000002050",
+        "url": "https://doi.org/10.1097/ede.0000000000002050",
+        "title": "Impact of the first nirsevimab immunization campaign on infant RSV-related emergency department visits and hospitalizations in Québec, Canada",
+        "authors": [
+          "Amandine Bemmo",
+          "Élise Fortin",
+          "Patrick Fortin",
+          "Radhouene Doggui",
+          "Charles-Antoine Guay",
+          "Rachid Amini",
+          "Sara Carazo",
+          "Jesse Papenburg",
+          "Rodica Gilca"
+        ],
+        "abstract": "Objectives.                     During the 2024-2025 respiratory syncytial virus (RSV) season, a universal nirsevimab infant immunization program was implemented in the province of Québec. We evaluated its population-level impact on RSV-related emergency department (ED) visits and hospitalizations in 0-5-month-old infants, using both active surveillance and administrative health data.                                                           Methods.                     Study population included all Québec children &lt;18 years old. We calculated incidence rates of RSV-confirmed hospitalizations, RSV-associated hospitalizations and ED visits linked to a positive RSV test, and acute bronchiolitis ED visits for nirsevimab-eligible (0-5 months old) and non-eligible (6-11 months and 1-17 years old) age groups during the 2024-2025 season. We also compared these 2024-2025 figures to previous seasons using varying lookback periods. Using difference-in-differences and constant proportion of admissions counterfactual approaches, pre-/post-intervention variations in 0-5-month-olds were adjusted for any time trends occurring in non-targeted age groups.                                                           Results.                     Decreases of 59% (95% CI: 49–70) and 66% (95% CI: 58–71) were observed in RSV-confirmed and RSV-associated hospitalizations, respectively. Acute bronchiolitis ED visits decreased by 35% (95% CI: 28–41), and RSV-associated ED visits by 60% (95% CI: 56–65). In the 2024-25 season, ED visits and hospitalizations were less frequent than expected (i.e. without nirsevimab) in 0-5-month-old infants, suggesting that between 323 and 746 hospitalizations may have been prevented.                                                           Conclusion.                     The 2024-2025 nirsevimab campaign was associated with a two-thirds reduction in RSV-related hospitalizations and RSV-associated ED visits in Québec among 0-5-month-old infants. ED visits for acute bronchiolitis were also reduced by a third.",
+        "source": "Epidemiology",
+        "issn": "1044-3983",
+        "date": "2026-09-15",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1097/ede.0000000000002049",
+        "doi": "10.1097/ede.0000000000002049",
+        "url": "https://doi.org/10.1097/ede.0000000000002049",
+        "title": "Indirect Estimation of the Number of Prevalent Cases – Relaxing the Steady State Assumption",
+        "authors": [
+          "W. Dana Flanders",
+          "Michael Goodman",
+          "Cathy Lally"
+        ],
+        "abstract": "Background:                     Prevalence is an important measure of disease frequency, helping characterize disease burden and health care needs. If direct estimates are unavailable (e.g. from surveys), the number of prevalent cases can be estimated indirectly as the number of incident cases per unit time times the average duration of disease. This formula, however, is based on a steady-state assumption which is often unrealistic, potentially precluding use of this indirect approach.                                                           Methods:                     We derive and illustrate use of an alternative formula relating numbers of prevalent cases, numbers of incident cases over time, the average disease duration and the mean square duration.                                                           Results:                     Examples illustrate use of our formula and that results are somewhat robust to the number of time periods used to estimate the linear trend in case incidence.                                                           Conclusion:                     Our formula does not require a steady-state assumption and applies provided temporal changes in incident cases are approximately linear.",
+        "source": "Epidemiology",
+        "issn": "1044-3983",
+        "date": "2026-09-15",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-17",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1186/s12877-026-08290-0",
         "doi": "10.1186/s12877-026-08290-0",
         "url": "https://doi.org/10.1186/s12877-026-08290-0",
@@ -34677,82 +36357,6 @@
         "fetched_from": "crossref"
       },
       {
-        "id": "doi:10.1177/13872877261467934",
-        "doi": "10.1177/13872877261467934",
-        "url": "https://doi.org/10.1177/13872877261467934",
-        "title": "Assessing glymphatic role in the association between choroid plexus enlargement and white matter lesions load: The uncertain path through diffusion tensor imaging along the perivascular space (DTI-ALPS)",
-        "authors": [
-          "Luca Sacchi",
-          "Valentina Veronesi",
-          "Giorgio Bocca",
-          "Lia Schmid",
-          "Federico D'Agata",
-          "Corrado Campisi",
-          "Balázs Örzsik",
-          "Marina Arcaro",
-          "Chiara Fenoglio",
-          "Tiziana Carandini",
-          "Manuela Pintus",
-          "Anna Margherita Pietroboni",
-          "Laura Ghezzi",
-          "Julia Schubert",
-          "Giorgio Conte",
-          "Marta Rigoni",
-          "Raffaella Lanzarotti",
-          "Claudia Dolci",
-          "Fabio Triulzi",
-          "Federico Turkheimer",
-          "Daniela Galimberti",
-          "Mara Cercignani",
-          "Marco Bozzali",
-          "Andrea Arighi"
-        ],
-        "abstract": "Background                                            The choroid plexus (CP) is involved in cerebrospinal fluid production, immune surveillance, and brain fluid homeostasis. CP enlargement has been linked to neuroinflammation, glymphatic dysfunction, and white matter lesion (WML) burden, but the mechanisms underlying these associations remain uncertain                       .                                                                                Objective                     To investigate the relationships among CP volume, glymphatic function estimated using diffusion tensor imaging along the perivascular space (DTI-ALPS), WML burden, and global cognitive performance in individuals with suspected neurodegenerative conditions, and to assess whether DTI-ALPS mediates the association between CP enlargement and white matter damage.                                                           Methods                     We retrospectively analyzed 104 participants, including 63 individuals with neurodegenerative conditions and 41 without neurodegeneration, who underwent multimodal MRI with 3D-T1-weighted, 3D-FLAIR, and diffusion-weighted sequences. CP volume was segmented using ASCHOPLEX and normalized to total intracranial volume. DTI-ALPS indices were derived from diffusion imaging, WML burden was quantified by automated segmentation, and global cognition was assessed using the Mini-Mental State Examination. Associations were tested using linear and quantile regression models. Mediation analysis evaluated indirect effects through DTI-ALPS.                                                           Results                     Greater CP volume was associated with lower DTI-ALPS values and higher WML burden. DTI-ALPS partially mediated the relationship between CP volume and WML burden, although the magnitude of mediation was modest. No significant mediation effect was observed for global cognitive performance. DTI-ALPS also showed strong associations with white matter integrity metrics, suggesting possible sensitivity to non-glymphatic microstructural changes.                                                           Conclusions                     CP enlargement is associated with reduced DTI-ALPS and greater WML burden, but the contribution of glymphatic impairment remains uncertain. Alternative mechanisms, including neuroinflammation, blood–brain barrier dysfunction, and white matter microstructural damage, may contribute to these findings.",
-        "source": "Journal of Alzheimer’s Disease",
-        "issn": "1387-2877",
-        "date": "2026-09-12",
-        "subjects": [],
-        "domains": [
-          "agingHealth"
-        ],
-        "firstSeen": "2026-09-14",
-        "fetched_from": "crossref"
-      },
-      {
-        "id": "doi:10.1177/13872877261485496",
-        "doi": "10.1177/13872877261485496",
-        "url": "https://doi.org/10.1177/13872877261485496",
-        "title": "Clinical efficacy of non-pharmacological interventions on cognitive improvement in patients with mild to moderate Alzheimer's disease: A systematic review and Bayesian network meta-analysis",
-        "authors": [
-          "Tong Cui",
-          "Xiaodong Han",
-          "Qi Yao",
-          "Chang Xu",
-          "Aidi Shan",
-          "Xin Wang",
-          "Shaoqi Li",
-          "Heya Luan",
-          "Boye Wen",
-          "Runqi Chen",
-          "Jinxuan Guo",
-          "Qingjie Lian",
-          "Chuqiao Li",
-          "Yao Sun",
-          "Sirong Lv",
-          "Cuibai Wei"
-        ],
-        "abstract": "Background                     Non-pharmacological interventions are increasingly used as complementary strategies for Alzheimer's disease (AD), yet their comparative effects on cognitive outcomes remain insufficiently defined.                                                           Objective                     To compare and rank the cognitive effects of different non-pharmacological interventions in patients with mild-to-moderate AD.                                                           Methods                     Randomized controlled trials of non-pharmacological interventions for mild-to-moderate AD were searched in MEDLINE, PubMed, Embase, Web of Science, and the Cochrane Library from inception to May 2026. Eligible studies reported cognitive outcomes, including the Mini-Mental State Examination (MMSE), Montreal Cognitive Assessment (MoCA), or Alzheimer's Disease Assessment Scale–Cognitive Subscale (ADAS-Cog). Risk of bias was assessed using the Cochrane tool, and certainty of evidence was evaluated with GRADEpro. Bayesian network meta-analysis was conducted in R using gemtc. The surface under the cumulative ranking curve was used to estimate intervention rankings.                                                           Results                     Fifty randomized controlled trials involving 2856 participants and 11 categories of interventions were included. Among participants with available baseline age data, the weighted mean age was approximately 75 years; among those with available sex information, 1410 participants were female (54.0%). Dual-task training ranked first for MMSE (SUCRA = 88.84%) and MoCA (SUCRA = 90.67%). Transcranial direct current stimulation (tDCS) also showed favorable rankings for MMSE (SUCRA = 85.69%) and MoCA (SUCRA = 75.63%). For ADAS-Cog, repetitive transcranial magnetic stimulation (rTMS) ranked highest (SUCRA = 85.22%) and was the only intervention showing significant improvement compared with usual care.                                                           Conclusions                     Dual-task training and tDCS showed relatively consistent advantages on global cognitive screening outcomes in mild-to-moderate AD. rTMS showed the clearest benefit for ADAS-Cog, but this finding requires cautious interpretation.",
-        "source": "Journal of Alzheimer’s Disease",
-        "issn": "1387-2877",
-        "date": "2026-09-12",
-        "subjects": [],
-        "domains": [
-          "agingHealth"
-        ],
-        "firstSeen": "2026-09-14",
-        "fetched_from": "crossref"
-      },
-      {
         "id": "doi:10.1093/geront/gnag222",
         "doi": "10.1093/geront/gnag222",
         "url": "https://doi.org/10.1093/geront/gnag222",
@@ -34846,6 +36450,82 @@
           "agingHealth"
         ],
         "firstSeen": "2026-09-16",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261467934",
+        "doi": "10.1177/13872877261467934",
+        "url": "https://doi.org/10.1177/13872877261467934",
+        "title": "Assessing glymphatic role in the association between choroid plexus enlargement and white matter lesions load: The uncertain path through diffusion tensor imaging along the perivascular space (DTI-ALPS)",
+        "authors": [
+          "Luca Sacchi",
+          "Valentina Veronesi",
+          "Giorgio Bocca",
+          "Lia Schmid",
+          "Federico D'Agata",
+          "Corrado Campisi",
+          "Balázs Örzsik",
+          "Marina Arcaro",
+          "Chiara Fenoglio",
+          "Tiziana Carandini",
+          "Manuela Pintus",
+          "Anna Margherita Pietroboni",
+          "Laura Ghezzi",
+          "Julia Schubert",
+          "Giorgio Conte",
+          "Marta Rigoni",
+          "Raffaella Lanzarotti",
+          "Claudia Dolci",
+          "Fabio Triulzi",
+          "Federico Turkheimer",
+          "Daniela Galimberti",
+          "Mara Cercignani",
+          "Marco Bozzali",
+          "Andrea Arighi"
+        ],
+        "abstract": "Background                                            The choroid plexus (CP) is involved in cerebrospinal fluid production, immune surveillance, and brain fluid homeostasis. CP enlargement has been linked to neuroinflammation, glymphatic dysfunction, and white matter lesion (WML) burden, but the mechanisms underlying these associations remain uncertain                       .                                                                                Objective                     To investigate the relationships among CP volume, glymphatic function estimated using diffusion tensor imaging along the perivascular space (DTI-ALPS), WML burden, and global cognitive performance in individuals with suspected neurodegenerative conditions, and to assess whether DTI-ALPS mediates the association between CP enlargement and white matter damage.                                                           Methods                     We retrospectively analyzed 104 participants, including 63 individuals with neurodegenerative conditions and 41 without neurodegeneration, who underwent multimodal MRI with 3D-T1-weighted, 3D-FLAIR, and diffusion-weighted sequences. CP volume was segmented using ASCHOPLEX and normalized to total intracranial volume. DTI-ALPS indices were derived from diffusion imaging, WML burden was quantified by automated segmentation, and global cognition was assessed using the Mini-Mental State Examination. Associations were tested using linear and quantile regression models. Mediation analysis evaluated indirect effects through DTI-ALPS.                                                           Results                     Greater CP volume was associated with lower DTI-ALPS values and higher WML burden. DTI-ALPS partially mediated the relationship between CP volume and WML burden, although the magnitude of mediation was modest. No significant mediation effect was observed for global cognitive performance. DTI-ALPS also showed strong associations with white matter integrity metrics, suggesting possible sensitivity to non-glymphatic microstructural changes.                                                           Conclusions                     CP enlargement is associated with reduced DTI-ALPS and greater WML burden, but the contribution of glymphatic impairment remains uncertain. Alternative mechanisms, including neuroinflammation, blood–brain barrier dysfunction, and white matter microstructural damage, may contribute to these findings.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-09-12",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-14",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261485496",
+        "doi": "10.1177/13872877261485496",
+        "url": "https://doi.org/10.1177/13872877261485496",
+        "title": "Clinical efficacy of non-pharmacological interventions on cognitive improvement in patients with mild to moderate Alzheimer's disease: A systematic review and Bayesian network meta-analysis",
+        "authors": [
+          "Tong Cui",
+          "Xiaodong Han",
+          "Qi Yao",
+          "Chang Xu",
+          "Aidi Shan",
+          "Xin Wang",
+          "Shaoqi Li",
+          "Heya Luan",
+          "Boye Wen",
+          "Runqi Chen",
+          "Jinxuan Guo",
+          "Qingjie Lian",
+          "Chuqiao Li",
+          "Yao Sun",
+          "Sirong Lv",
+          "Cuibai Wei"
+        ],
+        "abstract": "Background                     Non-pharmacological interventions are increasingly used as complementary strategies for Alzheimer's disease (AD), yet their comparative effects on cognitive outcomes remain insufficiently defined.                                                           Objective                     To compare and rank the cognitive effects of different non-pharmacological interventions in patients with mild-to-moderate AD.                                                           Methods                     Randomized controlled trials of non-pharmacological interventions for mild-to-moderate AD were searched in MEDLINE, PubMed, Embase, Web of Science, and the Cochrane Library from inception to May 2026. Eligible studies reported cognitive outcomes, including the Mini-Mental State Examination (MMSE), Montreal Cognitive Assessment (MoCA), or Alzheimer's Disease Assessment Scale–Cognitive Subscale (ADAS-Cog). Risk of bias was assessed using the Cochrane tool, and certainty of evidence was evaluated with GRADEpro. Bayesian network meta-analysis was conducted in R using gemtc. The surface under the cumulative ranking curve was used to estimate intervention rankings.                                                           Results                     Fifty randomized controlled trials involving 2856 participants and 11 categories of interventions were included. Among participants with available baseline age data, the weighted mean age was approximately 75 years; among those with available sex information, 1410 participants were female (54.0%). Dual-task training ranked first for MMSE (SUCRA = 88.84%) and MoCA (SUCRA = 90.67%). Transcranial direct current stimulation (tDCS) also showed favorable rankings for MMSE (SUCRA = 85.69%) and MoCA (SUCRA = 75.63%). For ADAS-Cog, repetitive transcranial magnetic stimulation (rTMS) ranked highest (SUCRA = 85.22%) and was the only intervention showing significant improvement compared with usual care.                                                           Conclusions                     Dual-task training and tDCS showed relatively consistent advantages on global cognitive screening outcomes in mild-to-moderate AD. rTMS showed the clearest benefit for ADAS-Cog, but this finding requires cautious interpretation.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-09-12",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-14",
         "fetched_from": "crossref"
       },
       {
@@ -37173,6 +38853,92 @@
         "fetched_from": "crossref"
       },
       {
+        "id": "doi:10.1177/10497315261487123",
+        "doi": "10.1177/10497315261487123",
+        "url": "https://doi.org/10.1177/10497315261487123",
+        "title": "Music-Based Program for Emotion Regulation in Hong Kong: A Randomized Controlled Trial",
+        "authors": [
+          "Yuan Cao",
+          "Yuanxin Shi",
+          "Gerald S.Y. Kwan",
+          "Daniel T.L. Shek",
+          "David H.K. Shum",
+          "Radhika Tanksale",
+          "Genevieve Dingle"
+        ],
+        "abstract": "Purpose                                            Despite the prevalence of emotion regulation difficulties among young people, there are limited evidence-based brief programs that are effective and acceptable to this population in the community setting. This randomized controlled trial examined the effectiveness and acceptability of a music-based group program,                       Tuned In                       among youth in Hong Kong.                                                                                Method                                            People between 16–19 years and reporting general psychological distress were recruited from the community setting in 2023–2025. A total of 119 participants completed the study (age:                       M                        = 18.24;                       SD                        = 0.94). The program included psychoeducation, music activities, and group discussions.                                                                                Results                                            The experimental group showed improved emotion regulation (                       P                        ≤ .047), and lowered depression symptoms (                       P                        = .01), general stress (                       P                        = .04), and anhedonia (                       P                        = .02) from pre- to post-intervention, compared to the waitlist group.                                                                                Discussion                     This pilot RCT supported the use of a brief music-listening group program for improving emotion regulation of youth.",
+        "source": "Research on Social Work Practice",
+        "issn": "1049-7315",
+        "date": "2026-09-16",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-09-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/bjsw/bcag200",
+        "doi": "10.1093/bjsw/bcag200",
+        "url": "https://doi.org/10.1093/bjsw/bcag200",
+        "title": "Practical wisdom in social work: Aristotelian\n                    <i>phronesis</i>\n                    as a response to moral uncertainty",
+        "authors": [
+          "Alexander C Harbst"
+        ],
+        "abstract": "Abstract                   Scholars have argued that practical wisdom—understood in the Aristotelian sense of phronesis—is a crucial virtue for social workers because it is essential for addressing moral challenges in practice. This article explores situations of moral uncertainty and considers how phronesis can guide social workers in navigating these challenges, reducing arbitrariness in decision-making and alleviating moral distress. Drawing primarily on theoretical analysis while also engaging with selected empirical findings, the article identifies five types of moral uncertainty and relates them to a contemporary account of phronesis comprising four central functions. The constitutive function enables social workers to discern and articulate morally salient features of a situation, thereby providing orientation and reducing uncertainty. The blueprint function offers an evaluative framework for addressing moral conflicts under conditions of moral uncertainty, while also motivating efforts to resolve those conflicts. The emotional-regulative function helps social workers evaluate and regulate their feelings of uncertainty. The integrative function facilitates the weighing of competing virtues and the formation of a coherent, reasoned judgement. This article argues that cultivating phronesis should be a central objective of ethics education in social work since it may help practitioners navigate moral uncertainty in complex professional contexts.",
+        "source": "The British Journal of Social Work",
+        "issn": "0045-3102",
+        "date": "2026-09-16",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-09-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/bjsw/bcag201",
+        "doi": "10.1093/bjsw/bcag201",
+        "url": "https://doi.org/10.1093/bjsw/bcag201",
+        "title": "Navigating support and constraint: Noncustodial fatherhood in a disadvantaged Israeli neighborhood",
+        "authors": [
+          "Lital Yona"
+        ],
+        "abstract": "Abstract                   Noncustodial fatherhood, referring to fathering from a separate household, is a widespread and complex phenomenon. However, the experiences of noncustodial fathers in disadvantaged neighborhoods have received limited scholarly attention. This qualitative study employs an ecological model of father involvement to examine how the physical, social, and cultural characteristics of a disadvantaged neighborhood shape paternal engagement. Drawing on in-depth interviews with twenty noncustodial fathers residing in a disadvantaged urban neighborhood in Israel, the analysis identifies three central themes: (1) experiences of physical neglect and spatial exclusion, (2) experiences of belonging and recognition within the community, and (3) the dual role of neighborhood culture in facilitating connections and imposing restrictions. The findings indicate that deteriorating neighborhood conditions hinder fathers’ ability to maintain meaningful relationships with their children, while strong community ties and cultural recognition reinforce paternal identity and resilience. Yet neighborhood norms centered on survival and limited aspirations may perpetuate intergenerational disadvantage. This study extends Cabrera’s model by elucidating how local contexts influence both the opportunities and limitations of father involvement. It emphasizes addressing structural inequalities and utilizing community assets to foster meaningful fatherhood in disadvantaged settings, especially where fathers occupy peripheral roles within family life.",
+        "source": "The British Journal of Social Work",
+        "issn": "0045-3102",
+        "date": "2026-09-16",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-09-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/bjsw/bcag204",
+        "doi": "10.1093/bjsw/bcag204",
+        "url": "https://doi.org/10.1093/bjsw/bcag204",
+        "title": "The knowing, being, and doing of environmental social work",
+        "authors": [
+          "Amy Krings",
+          "Yoonjung Chung",
+          "Smitha Rao",
+          "Lisa Reyes Mason",
+          "Heather Boetto"
+        ],
+        "abstract": "Abstract                   As climate change and its associated impacts grow in frequency and severity, particularly among marginalized communities, social work professional organizations have called upon practitioners to engage with environmental issues. Informed by the transformative ecosocial work model, this mixed methods study explored: (1) How do social workers engage with environmental issues across practice methods (personal, interpersonal, community, organizational, and policy)?, and (2) How are social workers’ ontological (being) and epistemological (knowing) commitments associated with environmental social work practices (doing)? Online surveys of social workers in three U.S. states (n = 264) revealed that, among those engaged with environmental issues, 72 percent used interpersonal practice methods, often limited to referrals, followed by organizational practice methods (15 percent), policy practice methods (12 percent), and community-based methods (10 percent). Regression analysis found that ontological and epistemological commitments had limited associations with practice methods. Perceiving that environmental issues influence clients’ mental and physical health was associated with organizational and community methods, respectively. Among covariates, practice levels (micro, mezzo, and macro) were variably associated with specific methods, and rural settings correlated with policy practice. Our analysis suggests that social workers’ engagement with environmental issues is typically not associated with pro-environmental values and beliefs but rather constrained by organizational challenges including insufficient resources.",
+        "source": "The British Journal of Social Work",
+        "issn": "0045-3102",
+        "date": "2026-09-16",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-09-17",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1093/hsw/hlag034",
         "doi": "10.1093/hsw/hlag034",
         "url": "https://doi.org/10.1093/hsw/hlag034",
@@ -38311,10 +40077,10 @@
   },
   "totals": {
     "socialSecurity": 1524,
-    "elderCare": 108,
-    "healthReform": 245,
-    "agingHealth": 162,
-    "socialWork": 65
+    "elderCare": 123,
+    "healthReform": 276,
+    "agingHealth": 182,
+    "socialWork": 69
   },
   "feeds_ok": 41
 }
