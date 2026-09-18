@@ -1,8 +1,49 @@
 {
-  "date": "2026-09-17",
-  "fetched": "2026-09-17T06:20:10+00:00",
+  "date": "2026-09-18",
+  "fetched": "2026-09-18T06:11:44+00:00",
   "domains": {
     "socialSecurity": [
+      {
+        "id": "doi:10.1111/1468-0009.70134",
+        "doi": "10.1111/1468-0009.70134",
+        "url": "https://doi.org/10.1111/1468-0009.70134",
+        "title": "In the September 2026 Issue of the\n                    <i>Quarterly</i>",
+        "authors": [
+          "ALAN B. COHEN"
+        ],
+        "abstract": "",
+        "source": "The Milbank Quarterly",
+        "issn": "0887-378X",
+        "date": "2026-09-17",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "socialSecurity"
+        ],
+        "firstSeen": "2026-09-18",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/1468-0009.70131",
+        "doi": "10.1111/1468-0009.70131",
+        "url": "https://doi.org/10.1111/1468-0009.70131",
+        "title": "Certified Nurse‐Midwife Practice Authority as a Structural Determinant of Maternal Health",
+        "authors": [
+          "CURISA M. TUCKER",
+          "JENNIFER BAUMSTARK"
+        ],
+        "abstract": "Policy Points                                                                                                                                         State scope‐of‐practice restrictions on certified nurse‐midwives are associated with lower workforce density and higher maternal vulnerability. In fact, 25 states currently impose collaborative or restricted practice environments that coincide with the nation's worst maternal health indicators.                                                                                         Mediation analysis revealed that 27% of the regulatory effect operates through workforce supply, whereas 73% reflects a direct policy effect, indicating that both regulatory reform and workforce investment are needed.                                                                                         Federal incentives through the Centers for Medicare and Medicaid Services's Rural Health Transformation Program now award scoring points based on state practice authority classifications, directly linking the state regulatory environment to federal funding and providing states with both an evidence‐based rationale and a financial incentive for reform.                                                                                                                                                                                        Context                     Certified nurse‐midwives (CNMs) provide evidence‐based maternity care associated with improved birth outcomes, yet half of US states do not grant them independent practice authority. State scope‐of‐practice regulations may function as structural determinants of maternal health by constraining both the midwifery workforce and the conditions under which care is delivered. Prior studies have documented associations between midwifery regulation and workforce availability but have not formally tested the mechanisms linking regulation to population‐level maternal health outcomes.                                                           Methods                     We conducted a cross‐sectional ecological analysis of all 50 US states, classifying each by CNM practice authority (independent, collaborative, or restricted) using American College of Nurse‐Midwives state practice environment data (March 2026). CNM workforce density was calculated from American Midwifery Certification Board data (2022‐2023). The primary outcome was the maternal vulnerability index (MVI), a composite of 43 indicators excluding provider density. The secondary outcome was March of Dimes preterm birth report card grades. We used one‐way analysis of variance, multiple linear regression, and Baron and Kenny mediation analysis with Sobel tests and bias‐corrected bootstrap confidence intervals to test whether workforce density mediated the relationship between practice authority and maternal vulnerability.                                                           Findings                                            States allowing independent practice had significantly higher CNM densities than collaborative states (6.5 vs. 2.9 per 1,000 births,                       P                        &lt; .001), as well as lower MVI scores (2.1 vs. 4.1,                       P                        &lt; .001). The effect sizes were large (Cohen's                       d                        = 1.34 for CNM density,                       d                        = −1.62 for MVI). CNM density was found to mediate 26.7% of the practice authority–MVI association (Sobel                       z                        = −2.10,                       P                        = .036; 95% bias‐corrected and accelerated [BCa] bootstrap CI [−0.88, −0.08]). The remaining 73.3% represented a direct policy effect that is not explained by workforce numbers. These results were robust to alternative classifications using nurse practitioner regulatory data.                                                                                Conclusions                     State CNM scope‐of‐practice regulations are a modifiable policy lever associated with both clinician workforce distribution and population‐level maternal vulnerability. Both regulatory reform and complementary workforce investments are needed to address maternal health inequities.",
+        "source": "The Milbank Quarterly",
+        "issn": "0887-378X",
+        "date": "2026-09-17",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "socialSecurity"
+        ],
+        "firstSeen": "2026-09-18",
+        "fetched_from": "crossref"
+      },
       {
         "id": "doi:10.1111/1468-0009.70128",
         "doi": "10.1111/1468-0009.70128",
@@ -23247,6 +23288,124 @@
     ],
     "elderCare": [
       {
+        "id": "doi:10.1186/s12877-026-08291-z",
+        "doi": "10.1186/s12877-026-08291-z",
+        "url": "https://doi.org/10.1186/s12877-026-08291-z",
+        "title": "Multimorbidity patterns and domain-specific intrinsic capacity impairments among rural older adults: a multiple correspondence analysis and k-means clustering study",
+        "authors": [
+          "Kaixuan Sui",
+          "Jingsen Liu",
+          "Luhao Liu",
+          "Jia Song",
+          "Lijuan Yang",
+          "Minmin Leng"
+        ],
+        "abstract": "Abstract                                        Background                     Multimorbidity is prevalent among older adults, but its specific patterns and differential associations with impairments across intrinsic capacity (IC) domains remain under-explored. This study aimed to identify stable multimorbidity patterns in rural older adults using multiple correspondence analysis (MCA) combined with k-means clustering and to examine their independent associations with domain-specific IC impairments.                                                           Methods                     This cross-sectional study included 3,641 community-dwelling older adults with multimorbidity (≥ 2 of 15 chronic conditions) from rural China. MCA was used to reduce dimensionality, followed by k-means clustering to identify multimorbidity patterns. Multivariable logistic regression, adjusted for age, sex, education, income, and smoking status, was used to estimate the associations between the identified patterns and impairments in each of the six IC domains (cognition, physical function, vitality, psychology, hearing, and vision), with the high metabolic burden pattern used as the reference.                                                           Results                     Five stable multimorbidity patterns were identified: high metabolic burden (36.4%), musculoskeletal degenerative (28.4%), gastrointestinal-tumor risk pattern (13.8%), cardiovascular-heart failure pattern (13.0%) and respiratory pattern (8.4%). Compared with the high metabolic burden pattern, the gastrointestinal-tumor risk pattern was associated with higher odds of vitality impairment (OR = 1.70, 95% CI: 1.30–2.21); the cardiovascular-heart failure pattern was associated with higher odds of physical function impairment (OR = 1.40, 95% CI: 1.11–1.77); and the gastrointestinal-tumor risk pattern, cardiovascular-heart failure pattern, and respiratory pattern were all associated with higher odds of psychological impairment (ORs from 1.61 to 2.27). The respiratory and gastrointestinal-tumor risk patterns were also associated with higher odds of hearing and visual impairments. Notably, the high metabolic burden pattern demonstrated the strongest risk for cognitive impairment.                                                           Conclusion                     Distinct multimorbidity patterns are differentially associated with specific IC domain impairments. These findings support pattern-oriented risk stratification and targeted functional management in older adults, offering a practical framework for precision geriatric care in resource-limited rural settings.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-18",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-18",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08316-7",
+        "doi": "10.1186/s12877-026-08316-7",
+        "url": "https://doi.org/10.1186/s12877-026-08316-7",
+        "title": "Prognostic value of mNUTRIC and nutritional indices, including early change, for ICU mortality in older adults with AECOPD",
+        "authors": [
+          "Mahmut Yilmaz",
+          "Rahime Aydin Kayali",
+          "Mehmet Celal Ozturk",
+          "Burak Emre Gilik",
+          "Huseyin Ozkarakas"
+        ],
+        "abstract": "Abstract                                        Background                     Malnutrition is common in older adults with acute exacerbation of chronic obstructive pulmonary disease (AECOPD) requiring intensive care unit (ICU) admission and is associated with adverse outcomes. We aimed to evaluate the prognostic value of the Prognostic Nutritional Index (PNI) and its early change (ΔPNI) for predicting ICU mortality and to compare their performance with the modified Nutrition Risk in the Critically Ill (mNUTRIC) score.                                                           Methods                     This single-center retrospective study included 319 older adults (aged ≥ 65 years) with AECOPD admitted to the ICU. PNI was calculated at admission and on day 3, and ΔPNI was defined as the difference between these values. The mNUTRIC score was calculated at admission. The primary outcome was ICU mortality. Discriminative performance was assessed using receiver operating characteristic (ROC) analysis. Independent predictors were identified using multivariable logistic regression, and survival was evaluated using Kaplan–Meier and Cox proportional hazards analyses.                                                           Results                                            ICU mortality was 19.8%. The mNUTRIC score demonstrated strong discriminative ability for predicting ICU mortality (AUC 0.852), significantly higher than that of PNI (AUC 0.664;                       p                        &lt; 0.0001). In multivariable analysis, the mNUTRIC score remained an independent predictor of ICU mortality (OR 2.50;                       p                        &lt; 0.001). Although hypertension was associated with lower mortality in univariate analysis, this association was not confirmed after adjustment for disease severity. In univariate analysis, ΔPNI did not demonstrate significant prognostic value (                       p                        = 0.083), and this was consistent across multivariable logistic regression and Cox proportional hazards analyses. Kaplan–Meier analysis demonstrated significantly poorer survival among patients with high risk (mNUTRIC ≥ 6) (log-rank                       p                        &lt; 0.001). In Cox proportional hazards analysis, only mNUTRIC remained independently associated with mortality, whereas neither baseline PNI nor ΔPNI demonstrated an independent association with survival.                                                                                Conclusion                     In older adults with AECOPD requiring ICU admission, baseline multidimensional risk assessment using the mNUTRIC score was strongly associated with ICU mortality. Among patients who survived and remained in the ICU until day 3, early changes in PNI did not provide meaningful additional prognostic information beyond the baseline assessment. The lack of prognostic significance of ΔPNI was consistent across ROC, multivariable logistic regression, and Cox survival analyses. The apparent inverse association between hypertension and mortality was largely explained by disease severity. Further prospective studies incorporating direct measures of frailty are needed to validate these findings.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-18",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-18",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08279-9",
+        "doi": "10.1186/s12877-026-08279-9",
+        "url": "https://doi.org/10.1186/s12877-026-08279-9",
+        "title": "Approach to sarcopenia in older adults: a systematic review of dietary and exercise interventions in the primary care setting",
+        "authors": [
+          "María Merino",
+          "Gonzalo Luis Alonso",
+          "Nuria Goñi"
+        ],
+        "abstract": "Abstract                                        Background/objectives                     Population aging presents challenges for society and healthcare, notably in preventing sarcopenia, a condition that impairs older adults’ quality of life and functionality. This article reviews the current literature on dietary and exercise interventions to evaluate their effectiveness in managing sarcopenia and explore their integration in primary care.                                                           Methods                     A systematic review was conducted under PRISMA guidelines by searching PubMed, ClinicalTrials.gov, Embase, and the Cochrane Library via MeSH terms and the PICOS criteria. The analysis focused on randomized studies involving adults over 65 years of age that assessed nutritional and exercise interventions delivered in primary care settings.                                                           Results                     Six studies, encompassing 444 participants in experimental groups and 226 in control groups, met the inclusion criteria. Combined interventions, physical exercise paired with nutritional supplementation, demonstrated notable improvements in muscle strength, physical function, and body composition. However, the results varied depending on the study design and adherence rates.                                                           Conclusions                     Multidimensional approaches within primary care show promising potential for slowing sarcopenia progression and enhancing quality of life among older adults. Despite encouraging findings, limited research in this area signals the need for further studies emphasizing personalized, sustainable strategies to optimize clinical implementation.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-18",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-18",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08239-3",
+        "doi": "10.1186/s12877-026-08239-3",
+        "url": "https://doi.org/10.1186/s12877-026-08239-3",
+        "title": "Alcohol consumption in later life: sociodemographic, health, and social participation determinants among older adults in Türkiye",
+        "authors": [
+          "Kübranur Çebi̇ Karaaslan",
+          "Meryem Aysi̇n",
+          "Figen Özşahi̇n",
+          "Seyedhadi Eslamian Shiraz"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-18",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-18",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08260-6",
+        "doi": "10.1186/s12877-026-08260-6",
+        "url": "https://doi.org/10.1186/s12877-026-08260-6",
+        "title": "Risk factors for frailty in older adults with cancer: a systematic review",
+        "authors": [
+          "Feng Shubing",
+          "Wang Pengpeng",
+          "Huang Hongxia",
+          "Lin Zhenhong",
+          "Liu Yuanhang"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-18",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-18",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1186/s12877-026-08314-9",
         "doi": "10.1186/s12877-026-08314-9",
         "url": "https://doi.org/10.1186/s12877-026-08314-9",
@@ -23293,6 +23452,440 @@
           "agingHealth"
         ],
         "firstSeen": "2026-09-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/gerona/glag236",
+        "doi": "10.1093/gerona/glag236",
+        "url": "https://doi.org/10.1093/gerona/glag236",
+        "title": "Social Isolation, Loneliness, and Cognitive Decline Among Black Americans: The Moderating Role of Neighborhood Context",
+        "authors": [
+          "Ann W Nguyen",
+          "Chuwen Zhong",
+          "Kedong Ding",
+          "Cleothia Frazier",
+          "Weidi Qin",
+          "Harry Owen Taylor"
+        ],
+        "abstract": "Abstract                                        Background                     Our study examined how social disconnection, neighborhood contexts, and cognitive function trajectories are jointly and interactively associated among middle-aged and older Black adults.                                                           Methods                     Data came from non-Hispanic Black participants aged 51 and older (n = 1,791) from the Health and Retirement Study. Cognitive health was measured by a global cognitive function summary score. Social disconnectedness was measured by three types of social isolation (from extended family, adult children, and friends) and loneliness (UCLA 3-item Loneliness Scale). Neighborhood contextual factors included neighborhood social cohesion and physical disadvantage. Covariables included age, sex, education, marital status, and living arrangements. We used group-based trajectory modeling to test the study objectives.                                                           Results                     We identified four global cognitive function trajectories: low and declining (14% of sample), moderate and declining (29%), moderate and stable (40%), and high and stable (17%). Multivariable models indicated that neighborhood physical disadvantage (RRR=.61, 95%CI[0.40, 0.92]) and social cohesion (RRR=.42, 95%CI[0.23, .77]) moderated the association between social isolation from extended family and global cognitive function trajectory membership.                                                           Conclusions                     Our study is among the first to examine cognitive function trajectories with linkages to social disconnectedness and neighborhood contexts among middle-aged and older Black adults. Overall, the results suggest that neighborhood contexts condition how social isolation relates to cognitive trajectories. These findings underscore the importance of considering both social disconnectedness and neighborhood context in explaining heterogeneity in cognitive aging among middle-aged and older Black adults.",
+        "source": "The Journals of Gerontology, Series A: Biological Sciences and Medical Sciences",
+        "issn": "1079-5006",
+        "date": "2026-09-17",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "elderCare"
+        ],
+        "firstSeen": "2026-09-18",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/gerona/glag235",
+        "doi": "10.1093/gerona/glag235",
+        "url": "https://doi.org/10.1093/gerona/glag235",
+        "title": "Wife-Husband Differences in the Associations Between Sleep Durations and Global Cognition Among Middle-Aged and Older Married Couples in China: A Longitudinal Dyadic Analysis",
+        "authors": [
+          "Jie Zhong",
+          "Ying Dai",
+          "Xiang Qi",
+          "Wei Liang"
+        ],
+        "abstract": "Abstract                                        Background                     Sleep duration has well-established U-shaped associations with cognitive health, but research has largely ignored spousal interdependence. This study examined actor and partner effects of sleep duration on global cognition in middle-aged and older Chinese couples, testing whether associations differed by sex.                                                           Methods                     Data were drawn from CHARLS waves 1-4 (2011-2018). The analytical sample comprised 4,260 couples (8,520 individuals) aged ≥45 years living a married, two-person, mixed-sex household. Global cognition was assessed with a composite battery adapted from the Telephone Interview for Cognitive Status and Chinese Mini-Mental State Examination; nocturnal sleep and napping durations were self-reported. Actor-Partner Interdependence Models with quadratic terms examined actor effects (own sleep predicting own cognition) and partner effects (own sleep predicting spouse’s cognition), with false discovery rate (FDR)-adjusted q-values and sex-equality tests.                                                           Results                     Significant inverted U-shaped actor effects were found for wives (β=-0.010, 95% CI: -0.014, -0.005, p &amp;lt; 0.001) and husbands (β=-0.011, 95% CI: -0.016, -0.006, p &amp;lt; 0.001); both survived FDR correction (q = 0.002, q &amp;lt; 0.001). Husbands’ sleep was nominally associated with wives’ cognition similarly (β=-0.005, p = 0.025), while wives’ sleep was not associated with husbands’ cognition (p = 0.618). The husband-to-wife association did not survive FDR correction (q = 0.239), and sex-equality tests were non-significant (χ²(9)=9.35, p = 0.406). Napping showed limited, largely non-significant associations with cognition.                                                           Conclusions                     Own nocturnal sleep duration shows a robust, symmetric inverted U-shaped association with cognitive function in both spouses. The possible husband-to-wife partner effect did not survive correction for multiple testing and warrants adequately powered investigation before informing couple-based clinical recommendations.",
+        "source": "The Journals of Gerontology, Series A: Biological Sciences and Medical Sciences",
+        "issn": "1079-5006",
+        "date": "2026-09-17",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "elderCare"
+        ],
+        "firstSeen": "2026-09-18",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/gerona/glag234",
+        "doi": "10.1093/gerona/glag234",
+        "url": "https://doi.org/10.1093/gerona/glag234",
+        "title": "DNA methylation variability provides a complementary epigenetic signature of aging heterogeneity: Findings from the Canadian Longitudinal Study on Aging and the Baltimore Longitudinal Study of Aging",
+        "authors": [
+          "Olga Vishnyakova",
+          "Joosung Min",
+          "Ann Z Moore",
+          "Toshiko Tanaka",
+          "Luigi Ferrucci",
+          "Xiaowei Song",
+          "Kenneth Rockwood",
+          "Angela Brooks-Wilson",
+          "Lloyd T Elliott"
+        ],
+        "abstract": "Abstract                                        BACKGROUND                     Human aging does not follow a single trajectory. Epigenetic changes offer insight into the heterogeneity in aging by reflecting the combined influence of genetic, environmental, and lifestyle factors on the timing and progression of age-related changes beyond what chronological age alone can explain. Recent studies in cancer and aging underscore the importance of methylation variability as a marker of biological dysregulation.                                                           METHODS                     We investigated the role of DNA methylation in aging heterogeneity by performing epigenome-wide differential methylation and variance association analyses in blood samples from 1,445 Canadians aged 45 to 85 from the Canadian Longitudinal Study on Aging.                                                           RESULTS                     We identified 448 differentially methylated regions and 488 differentially variable regions associated with health decline as measured by the health deficit accumulation Frailty Index, cognitive function, and physical function. These two classes of regions showed minimal overlap, with distinct gene coverage, suggesting that variability contributes a complementary signal to aging heterogeneity. Genes overlapped by differentially methylated regions were enriched for immune and inflammation-related pathways, whereas differentially variable regions highlighted additional localized, CpG‑island–enriched signals shared across health domains, consistent with regionally structured rather than diffuse dysregulation. By integrating significant CpGs from both analyses, we constructed an epigenetic biomarker. The biomarker was associated with all-cause mortality and showed higher discrimination than biomarkers constructed from differential methylation or variability alone, with a similar pattern reproduced in the Baltimore Longitudinal Study of Aging.                                                           CONCLUSIONS                     These findings suggest that DNA methylation variability may provide a complementary dimension of epigenetic aging and support further evaluation in larger cohorts with more mortality events.",
+        "source": "The Journals of Gerontology, Series A: Biological Sciences and Medical Sciences",
+        "issn": "1079-5006",
+        "date": "2026-09-17",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "elderCare"
+        ],
+        "firstSeen": "2026-09-18",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70698",
+        "doi": "10.1111/jgs.70698",
+        "url": "https://doi.org/10.1111/jgs.70698",
+        "title": "“It's Hard to Connect the Dots Sometimes, but at Least We Have Dots”: A Qualitative Study of Dementia Care in a Large Integrated Health Care System",
+        "authors": [
+          "Hannah Ratliff",
+          "Danielle Helminski",
+          "Charity M. Hoffman",
+          "Molly Turnwald",
+          "Nicholas Henry",
+          "Donovan T. Maust",
+          "Sarah L. Krein"
+        ],
+        "abstract": "ABSTRACT                                        Background                     Providing high‐quality care to the growing number of people with dementia in the United States is increasingly challenging. Integrated health care systems may improve care delivery; however, little is known about how dementia care is delivered in this setting. This qualitative study sought to better understand how dementia care is delivered across a large integrated system.                                                           Participants and Setting                     Clinicians involved in dementia care within the Veterans Affairs (VA) health care system.                                                           Methods                     Between August 2024 and July 2025, we conducted semi‐structured interviews with clinicians at VA facilities to compare dementia care practices across a large integrated health care system and identify strengths, challenges, and improvement strategies. We purposefully selected VA facilities to capture variation in facility size, rurality, racial diversity, and geography. Using rapid qualitative analysis methods, we summarized findings in facility‐level matrices and compared dementia care practices, challenges, and improvement strategies across key domains.                                                           Results                     We analyzed interview data from 28 clinicians across diverse clinical roles (e.g., social workers, psychologists, geriatricians, neurologists) from 6 VA facilities. Participants endorsed numerous strengths of the integrated care system, including interdisciplinary clinic‐ and home‐based primary care teams, a national caregiver support program, facility‐level dementia committees, and unified electronic health records and communication channels. Despite these strengths, participants also identified several challenges and potential strategies to improve care within four key domains: (1) dementia screening and diagnosis; (2) staff training and education; (3) care pathways; and (4) access to services.                                                           Conclusions                     Despite some notable advantages, clinicians at participating VA facilities faced several common challenges in dementia care delivery, suggesting that integration alone may not automatically translate into improved care. However, integrated health systems may be well positioned to advance facility‐ and system‐level improvements through intentional use of shared infrastructure to facilitate cross‐site learning, disseminate effective strategies across sites, and tailor interventions to local needs.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-09-17",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-18",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70713",
+        "doi": "10.1111/jgs.70713",
+        "url": "https://doi.org/10.1111/jgs.70713",
+        "title": "Eyeballing for Frailty Assessment in Elderly Patients Referred for Coronary Angiography",
+        "authors": [
+          "Ranin Hilu",
+          "Ziad Arow",
+          "Rami Barashi",
+          "Ilya Losin",
+          "Ela Giladi",
+          "Yoav Arnson",
+          "Hana Vaknin Assa",
+          "Abed Assali",
+          "David Pereg"
+        ],
+        "abstract": "ABSTRACT                                        Background                     Frailty is increasingly recognized as a key determinant of outcomes in elderly patients undergoing invasive cardiac procedures. While structured instruments such as the Fried test are recommended, frailty is often assessed intuitively by physicians using eyeballing. We aimed to evaluate the diagnostic accuracy of physician eyeballing for frailty detection in elderly patients referred for coronary angiography.                                                           Methods                     A prospective observational study including patients aged ≥ 70 years undergoing coronary angiography. Frailty was independently assessed by two cardiologists in a blinded fashion: (1) a formal Fried test, and (2) physician eyeballing, scored on a Fried‐like scale. The primary outcome was the diagnostic accuracy of the eyeballing compared with the Fried test, quantified by sensitivity, specificity, positive and negative predictive values and receiver operating characteristic (ROC) analysis. Secondary outcomes included 6‐month mortality, cardiovascular rehospitalization, recurrent myocardial infarction, and unplanned revascularization.                                                           Results                     The 200 patients had a mean age of 77.3 ± 5.3 years. Frailty prevalence by Fried criteria was 16.5%. The eyeballing demonstrated high sensitivity (93.9%) and negative predictive value (NPV) (98.5%), with specificity of 80.8%, PPV of 49.2%, and an area under the curve (AUC) of 0.87. Subgroup analyses showed consistent accuracy, although specificity was lower in women and hospitalized patients. Frailty as defined by the Fried test was associated with higher 6‐month mortality and rehospitalization.                                                           Conclusions                     Eyeballing is a rapid and reliable tool to exclude frailty in elderly patients undergoing coronary angiography. However, when frailty is suspected, confirmation with a structured tool is indicated.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-09-17",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-18",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70705",
+        "doi": "10.1111/jgs.70705",
+        "url": "https://doi.org/10.1111/jgs.70705",
+        "title": "Days Alive at Home After Emergency Department\n                    <scp>STEMI</scp>\n                    Visits Among Medicare Beneficiaries With Dementia",
+        "authors": [
+          "Michael G. Nanna",
+          "Andrew B. Cohen",
+          "Ashleigh C. Erickson",
+          "Bangyao Sun",
+          "Raiza Rossi",
+          "Zafer Akman",
+          "Ashok Krishnaswami",
+          "Abdulla A. Damluji",
+          "Christopher G. Leggett",
+          "Douglas O. Staiger",
+          "Leila Agha"
+        ],
+        "abstract": "ABSTRACT                                        Background                     As the population of older adults with Alzheimer's disease and related dementias (ADRD) increases, a growing number are presenting with acute cardiovascular events, including ST‐elevation myocardial infarction (STEMI). Patient‐centered outcomes following treatment for STEMI in this population are not well understood.                                                           Methods                     This retrospective cohort study used Medicare fee‐for‐service claims from a 100% national sample to identify beneficiaries aged 65 years or older who presented to the emergency department (ED) with STEMI between 2017 and 2022 and underwent cardiac catheterization. Patients were stratified by ADRD status and nursing home admission source. The primary outcome was adjusted days alive at home in the year following the index ED visit. Secondary outcomes included 1‐year survival, percent of alive days spent at home, and long‐term nursing home care use (≥ 100 days). Multivariable linear regression models controlled for age, sex, and comorbidities.                                                           Results                     Of 117,318 patients, 7348 (6.3%) had ADRD and 2617 (2.2%) were admitted from a nursing home. Among community‐dwelling patients, those with ADRD had moderately lower adjusted days at home than those without ADRD (225.1 vs. 299.4; adjusted difference −37.8 days; 95% CI, −41.1 to −34.5), but more than half spent over 300 days at home. Among patients admitted from a nursing home, ADRD was associated with markedly worse outcomes (adjusted difference −71.9 days; 95% CI, −84.0 to −59.8), and 1‐year survival was 42.4%.                                                           Conclusion                     Many community‐dwelling older adults with ADRD experienced meaningful survival and time at home following cardiac catheterization for STEMI. Dementia status alone should not deter appropriate STEMI care. Treatment decisions should be individualized based on cognitive status, admission source, and patient goals.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-09-17",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-18",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70722",
+        "doi": "10.1111/jgs.70722",
+        "url": "https://doi.org/10.1111/jgs.70722",
+        "title": "Mapping the\n                    <scp>5Ms</scp>\n                    : Identifying Gaps in a Geriatric Medicine Curriculum at a U.S. Medical School",
+        "authors": [
+          "Katherine McGough",
+          "Anna Jones",
+          "Steven C. Zweig",
+          "David R. Mehr"
+        ],
+        "abstract": "ABSTRACT                                        Background                     A strong foundation in the care of older adults is crucial for caring for the growing aging population. While residency training curricula in geriatric medicine are well‐studied, data on undergraduate medical education curricula are limited. This study compares the Minimum Geriatrics Competencies for Graduating Medical Students (which follows the 5Ms framework) to the geriatrics curriculum taught at the University of Missouri‐Columbia School of Medicine.                                                           Methods                     Using the school's curriculum map, we identified curricular elements through a keyword search utilizing 5 M (Mobility, Mind, Medications, Multicomplexity, Matters Most) concepts. We used structured interviews or email surveys of directors to confirm which elements are covered, perceptions of how well the content is covered, and the perceived need for more age‐related content. Identified curricular elements were categorized into the 27 5Ms subcategories.                                                           Results                     The four‐year curriculum at least partially addressed all 27 subcategories. Many of the topics are covered sparingly, including deprescribing, aging physiology, and frailty. Clerkship directors' perceptions of how well the 5Ms are taught are more favorable than those of pre‐clerkship directors, although clerkship directors were more likely to report a greater need for age‐related content.                                                           Conclusions                     The majority of the 5Ms are covered in the curriculum, though notable gaps remain in several subcategories. Recommendations include strengthening preclinical exposure to concepts students will encounter in clinicals, such as pharmacology and delirium. This is the first known published study to explicitly identify how the 5Ms are covered in a U.S. undergraduate medical school curriculum.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-09-17",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-18",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70714",
+        "doi": "10.1111/jgs.70714",
+        "url": "https://doi.org/10.1111/jgs.70714",
+        "title": "Association Between Kihon Checklist Oral‐Function Score and All‐Cause Mortality in Community‐Dwelling Older Adults",
+        "authors": [
+          "Kensuke Uraguchi",
+          "Rumi Matsuo",
+          "Soshi Takao",
+          "Takashi Yorifuji"
+        ],
+        "abstract": "ABSTRACT                                        Background                     We examined whether the Kihon Checklist (KCL) oral‐function score (0–3), based on three self‐reported symptoms (chewing difficulty, dysphagia, and xerostomia), was associated with all‐cause mortality in community‐dwelling older adults.                                                           Methods                     This cohort study included 52,789 adults aged ≥ 65 years who underwent municipal health checkups in Okayama City, Japan (fiscal year 2006–2007) with mortality follow‐ups during December 2016. The KCL oral‐function score (range 0–3) was the sum of the positive responses to the three oral‐function items. Cox proportional hazards models were used to estimate adjusted hazard ratios (aHR). Secondary analysis examined the association of each symptom using separate and mutually adjusted models.                                                           Results                                            Higher KCL oral‐function scores were positively associated with increased all‐cause mortality. In the fully adjusted model (                       n                        = 49,665), the aHRs (95% confidence interval [CI]) for scores 1, 2, and 3 were 1.09 (1.04–1.13), 1.26 (1.20–1.32), and 1.49 (1.38–1.60), respectively. Chewing difficulty (aHR 1.19 [95% CI 1.14–1.23]) and dysphagia (aHR 1.18 [95% CI 1.14–1.23]) were each independently associated with mortality, whereas xerostomia was not (aHR 1.02 [95% CI 0.98–1.06]).                                                                                Conclusions                     Higher KCL oral‐function scores showed a positive association with all‐cause mortality. Chewing difficulty and dysphagia were independently associated with mortality, whereas xerostomia was not. Symptom‐based oral‐function screening may help identify older adults at an elevated mortality risk.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-09-17",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-18",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70731",
+        "doi": "10.1111/jgs.70731",
+        "url": "https://doi.org/10.1111/jgs.70731",
+        "title": "Prehospital Sedation and Physical Restraint of Older Adults Presenting With Behavioral Health Emergencies: A Nationwide Cross‐Sectional Study",
+        "authors": [
+          "Gregory A. Peters",
+          "Diana M. Bongiorno",
+          "Anjali J. Misra",
+          "Wylie Chang",
+          "Tyler Allerhand",
+          "Maura Kennedy",
+          "Maia Dorsett",
+          "Tony Rosen",
+          "Scott A. Goldberg",
+          "Rebecca E. Cash"
+        ],
+        "abstract": "ABSTRACT                                        Background                     Management of behavioral health emergencies (BHE) such as acute agitation by emergency medical services (EMS) is associated with significant patient safety risks, particularly among older adults. However, the unique considerations for BHE among older adults may not be adequately addressed in prehospital BHE protocols and training. We aimed to provide the first nationwide description of EMS use of physical restraint and sedation for older adults with BHE in the United States.                                                           Methods                     We conducted a cross‐sectional evaluation of a nationwide convenience sample of 9‐1‐1 EMS encounters during 2023. We included EMS encounters for BHE that were managed by advanced life support (ALS) units. Outcomes of interest included physical restraint or administration of chemical sedation. Descriptive statistics were computed and stratified by patient age group. Differences in proportions with 95% confidence intervals were used to compare older (age ≥ 65 years) versus younger adults (age 18–64 years).                                                           Results                                            A total of 1,468,697 EMS encounters for BHE were included, of which 238,754 (16.3%) involved an older adult. Among 65,088 BHE encounters in which chemical sedation and/or physical restraint was used (older adults:                       n                        = 5915, 9.1%), older adults were more likely than younger adults to be sedated (69.2% vs. 61.3%) and less likely to be restrained (39.7% vs. 52.7%). Among those requiring sedation and/or restraint, benzodiazepines were more often used in older adults compared to younger adults (52.8% vs. 45.3%), antipsychotic agents were used at similar rates (15.4% vs. 14.9%), and ketamine was used slightly less often in older adults (5.5% vs. 6.6%).                                                                                Conclusions                     Thousands of older adults presenting with BHE are restrained and/or sedated by EMS each year in the United States. Further work to improve evidence‐based recommendations, protocols, and training specific to older adults is needed to help support EMS in these high‐risk encounters.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-09-17",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-18",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70690",
+        "doi": "10.1111/jgs.70690",
+        "url": "https://doi.org/10.1111/jgs.70690",
+        "title": "The Mean and Variability of Morning Hour Activity Over 2–3 Days Predict 5‐Year Mortality and Frailty Risk in a National Sample of Older Adults",
+        "authors": [
+          "Megan Huisingh‐Scheetz",
+          "Sylvia Brown",
+          "Michelangelo Pagan",
+          "Cassidy Cabrera",
+          "Daniel Rubin",
+          "Nabiel Mir",
+          "Maria Lucia Madariaga",
+          "L. Philip Schumm",
+          "Kristen Wroblewski",
+          "Donald Hedeker"
+        ],
+        "abstract": "ABSTRACT                                        Background                     Activity pattern features measured by continuous accelerometry are strongly associated with frailty, making accelerometry a promising, scalable screening tool for frailty. However, adherence to typical 5–7 day wear protocols decreases with age, reducing feasibility. Whether accelerometry measures collected over shorter wear periods predict frailty decline is unknown. In cross‐section, we have shown that frailty is most strongly differentiated by morning activity patterns.                                                           Objective                     The objective of this study was to determine whether two morning activity measures, mean hourly activity and within activity variance, measured over 72 h predicted 5‐year mortality and frailty progression among survivors.                                                           Methods                                            We conducted a secondary data analysis of the 2010–2011 accelerometry substudy and 2015–2016 data of the National Social Life, Health and Aging Project which included                       n                        = 584 community‐dwelling older adults;                       n                        = 104 died at 5 years. Wrist accelerometers were worn for 72 h in 2010–2011, and an adapted frailty phenotype was measured in both years. We employed a mixed effects location scale model to calculate mean morning (7:00–11:59 am) hourly activity (counts per minute z‐score) and within‐subject morning hourly activity variance (z‐score) for each participant, adjusted for day of week and month of wear. Second, 5‐year mortality (logistic) and adapted frailty phenotype scores (range 0–4, ordinal) were regressed on baseline frailty and both accelerometry z‐scores in a 2‐stage model, adjusting for covariates.                                                                                Results                                            After adjusting for baseline frailty, demographics, comorbidities, BMI, and cognition, higher mean morning hourly activity predicted lower 5‐year mortality risk (OR = 0.64 for 1 SD increase,                       p                        = 0.04). Conversely, higher morning activity WS variance predicted better frailty scores among survivors (OR = 0.67 for 1 SD increase,                       p                        = 0.01).                                                                                Conclusions                     Higher activity levels and higher day‐to‐day morning activity variance measured over just two to three mornings differentiate those at higher risk of death and frailty decline, increasing the feasibility of using accelerometry as a digital frailty screening tool.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-09-17",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-18",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70696",
+        "doi": "10.1111/jgs.70696",
+        "url": "https://doi.org/10.1111/jgs.70696",
+        "title": "Controlled Drug Use and Falls in Older People With Neurogenic Claudication: Secondary Analysis of the\n                    <scp>BOOST RCT</scp>",
+        "authors": [
+          "Helen Richmond‐Davies",
+          "Paul Newell",
+          "John Richmond",
+          "Javed Iqbal",
+          "Esther Williamson",
+          "Cynthia Srikesavan",
+          "Graham Boniface",
+          "Sarah E. Lamb"
+        ],
+        "abstract": "ABSTRACT                                        Background                     Controlled pain medications increase the risk of falls. Despite this, they are commonly prescribed for painful neurogenic claudication. Previously, we reported that the Better Outcomes for Older People with Spinal Trouble (BOOST) program improved walking and reduced overall falls at 12 months. The aim of this study was to determine whether, in comparison to best practice advice, a physical and psychological group intervention (PPGI) changed pain medication use and to determine the mechanisms of fall reduction.                                                           Methods                     Secondary and mediation analysis of the BOOST randomized controlled trial. There were 435 people enrolled at baseline. Follow‐up was at 6 and 12 months after randomization. At baseline and follow‐up, we classified participants into three groups: (1) not using any pain medication; (2) using only non‐controlled medication; and (3) using at least one controlled pain medication, with or without other pain medications. Physical performance tests, patient‐reported outcomes, medication use, and falls were collected at all time points.                                                           Results                                            At baseline, 63% (                       n                        = 274/435) of participants reported taking at least one pain medication, with 34% (                       n                        = 149/435) taking at least one controlled medication. At 6 months, the PPGI was more effective than best practice in reducing the use of controlled medications [OR 0.62, 95% CI (0.40, 0.96)] although these differences narrowed by 12 months. There was a modest treatment benefit in pain. Several factors mediated falls prevention at 12 months, notably a reduction in controlled pain medication in the first 6 months of follow‐up.                                                                                Conclusions                     PPGI reduced controlled pain drug use at 6‐months, and this contributed to reduced falls by 12‐months. Intervention refinements may improve the effect on controlled medication reduction.                                                           Trial Registration                     ISRCTN 12698674",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-09-17",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-18",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08295-9",
+        "doi": "10.1186/s12877-026-08295-9",
+        "url": "https://doi.org/10.1186/s12877-026-08295-9",
+        "title": "Developing a sarcopenia identification model with eight machine learning algorithms",
+        "authors": [
+          "Wei Feng",
+          "Min Wang",
+          "Ziyang Fang",
+          "Liqi Lu",
+          "Chen Wu",
+          "Tao Zhang",
+          "Mengna Wu",
+          "Le Xu",
+          "Xue Gu",
+          "Zhen Jiang",
+          "Junfen Ling",
+          "Kui Liu"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-17",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-18",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08317-6",
+        "doi": "10.1186/s12877-026-08317-6",
+        "url": "https://doi.org/10.1186/s12877-026-08317-6",
+        "title": "Hypertension knowledge, medication adherence, and BP control in community-dwelling hypertensive older adults: a cross-sectional study",
+        "authors": [
+          "Chenlin Lu",
+          "Hong Xu",
+          "Yin Yuan",
+          "Chuanmeng Zhang",
+          "Qingqing Zhang",
+          "Guoyu Wang",
+          "Jing Zheng",
+          "Peng Gao",
+          "Si Sun",
+          "Suyun Jiang",
+          "Xiangwei Ding",
+          "Qingtao Ni"
+        ],
+        "abstract": "Abstract                                        Background                     Hypertension affects 31.6% of Chinese adults, yet medication nonadherence (30-50%) remains a critical barrier to control. The purpose of this study is to explore the relationship between hypertension knowledge, medication adherence, and lifestyle factors, and their associations with blood pressure control in older hypertensive patients living in the community.                                                           Methods                     Cross-sectional study of 437 hypertensive patients (≥ 65 years) in Taizhou, China (Oct-Dec 2023). Medication adherence was assessed via composite score (0–8, &gt; 6 = good) from four validated questions. Hypertension knowledge was evaluated through structured questionnaires. Data were analyzed using SPSS 26.                                                           Results                     Only 35.3% demonstrated good adherence. Intentional non-adherence behaviors (skipping doses, stopping when asymptomatic) and difficulty remembering medications were significantly associated with poor blood pressure control (p &lt; 0.05). Blood pressure control correlated with salt/fat intake regulation and sleep quality (p &lt; 0.001). Polypharmacy, driven by comorbidities, created adherence challenges.                                                           Conclusions                     Poor medication adherence, driven primarily by intentional behaviors (e.g., dose skipping, stopping when asymptomatic) and regimen complexity, is strongly associated with poor blood pressure control. Effective interventions must address these specific behavioral and systemic barriers to improve hypertension management in older adults.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-17",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-18",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08256-2",
+        "doi": "10.1186/s12877-026-08256-2",
+        "url": "https://doi.org/10.1186/s12877-026-08256-2",
+        "title": "Associations of frailty and COVID-19 severity with long-term health outcomes of COVID-19 among older people",
+        "authors": [
+          "Bas F. M. van Raaij",
+          "Veerle M. G. T. H. van der Klei",
+          "Jesse M. van den Berg",
+          "Raymond Noordam",
+          "Harmke A. Polinder-Bos",
+          "Julia Minnema",
+          "Lisanne Tap",
+          "Jacobien J. Hoogerwerf",
+          "Petra J. M. Elders",
+          "Marieke T. Blom",
+          "Dennis O. Mook-Kanamori",
+          "Jan Festen",
+          "Jeannette B. Peters",
+          "Simon P. Mooijaart",
+          "Jacobijn Gussekloo",
+          "Karel G. M. Moons",
+          "Maarten van Smeden",
+          "Geeske Peeters",
+          "René J. F. Melis",
+          "Carolien M. J. van der Linden",
+          "Steffy W. M. Jansen",
+          "Hanna C. Willems",
+          "Jessica M. van der Bol",
+          "Esther M. M. van de Glind",
+          "Floor J. A. van Deudekom",
+          "Jacinta A. Lucke",
+          "Rikje Ruiter",
+          "Huub A. A. M. Maas",
+          "Linda M. Kampschreur",
+          "Evertine Abbink",
+          "Ton Dofferhoff",
+          "Angele Kerckhoffs",
+          "Josephine van der Maat",
+          "Mihai Netea",
+          "Kitty Slieker",
+          "Karin Veerman",
+          "Robert-Jan Hassing"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-17",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-18",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-07973-y",
+        "doi": "10.1186/s12877-026-07973-y",
+        "url": "https://doi.org/10.1186/s12877-026-07973-y",
+        "title": "Unseen barriers to home healthcare: a qualitative study of providers’ perspectives from Saudi Arabia",
+        "authors": [
+          "Khulud K. Alharbi",
+          "Walid A. Alkeridy",
+          "Nawal A Sindi",
+          "Rana A. Alhelali",
+          "Samah H. Hajjar",
+          "Tassnym H. Sinky"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-17",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-18",
         "fetched_from": "crossref"
       },
       {
@@ -26615,6 +27208,272 @@
           "healthReform"
         ],
         "firstSeen": "2026-09-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.14530",
+        "doi": "10.1001/jama.2026.14530",
+        "url": "https://doi.org/10.1001/jama.2026.14530",
+        "title": "Management Consultant Use by Nonprofit Hospitals—Reply",
+        "authors": [
+          "Joseph Dov Bruch",
+          "Ashvin D. Gandhi"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-17",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-18",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.15245",
+        "doi": "10.1001/jama.2026.15245",
+        "url": "https://doi.org/10.1001/jama.2026.15245",
+        "title": "Floating",
+        "authors": [
+          "Elena Beideck"
+        ],
+        "abstract": "In this narrative medicine essay, an infectious diseases physician’s childhood memories of falling, fleeing, and floating serve as metaphors of grieving her mother’s death.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-17",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-18",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.14217",
+        "doi": "10.1001/jama.2026.14217",
+        "url": "https://doi.org/10.1001/jama.2026.14217",
+        "title": "Intrauterine Mepivacaine Instillation vs Placebo for Pain During IUD Placement",
+        "authors": [
+          "Karin Elgemark",
+          "Niklas Envall",
+          "Helena Kopp Kallner"
+        ],
+        "abstract": "Importance                     Concern about pain during intrauterine device (IUD) placement is common and reduces selection of an IUD. Reducing procedure-related pain may support informed contraceptive decision-making and patient autonomy and has also been associated with improved patient satisfaction and procedural experience.                                                           Objective                     To determine whether intrauterine instillation of mepivacaine reduces pain during IUD placement in nulliparous individuals.                                                           Design, Setting, and Participants                     Multicenter, double-blind, randomized, placebo-controlled trial conducted at 11 outpatient gynecology, maternal health, and youth clinics in Sweden from May 2021 through June 2024. Nulliparous individuals aged 18 to 31 years opting for IUDs with smaller-diameter placement tubes (levonorgestrel 19.5 mg, 13.5 mg, or copper IUD) were eligible. Key exclusion criteria included ongoing pregnancy, IUD replacement, pelvic infection, and allergy to local anesthetics. A total of 370 participants were randomized.                                                           Interventions                     Participants were randomly assigned (1:1) (185 per group) to intrauterine instillation of 10 mL of mepivacaine (20 mg/mL) or sodium chloride (9 mg/mL) via a hydrosonography catheter 2 minutes before IUD placement. Participants, clinicians, and outcome assessors were blinded to treatment allocation.                                                           Main Outcomes and Measures                     The primary outcome was clinician-adjusted difference in pain scores during IUD placement, measured on a 100-mm visual analog scale. The primary analysis included all randomized participants with available primary outcome data. Prespecified secondary analyses included tolerability and overall experience.                                                           Results                                            A total of 370 participants were randomized. Mean age was 21.7 (SD, 3.0) years in the mepivacaine group and 21.7 (SD, 2.9) years in the placebo group. Mean pain score during IUD placement was 43.8 mm (SD, 24.7) in the mepivacaine group and 58.6 mm (SD, 21.5) in the placebo group (mean difference, 14.8 mm [95% CI, 10.0-19.6];                       P                        &amp;amp;lt; .001). Adjustment for individual clinician yielded similar results (mean difference, 14.2 mm [95% CI, 9.7-18.6];                       P                        &amp;amp;lt; .001). Tolerable pain was reported by 172 of 175 participants (98.3%) in the mepivacaine group and 159 of 174 (91.4%) in the placebo group (relative risk, 1.08 [95% CI, 1.02-1.13]; NNT, 15 [95% CI, 9-43]).                                                                                Conclusions and Relevance                     Intrauterine instillation of 10 mL of mepivacaine (20 mg/mL) significantly reduced pain and improved tolerability during IUD placement compared with instillation of placebo saline.                                                           Trial Registration                                            EudraCT Identifier:                       2020-002271-36",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-17",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-18",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.15294",
+        "doi": "10.1001/jama.2026.15294",
+        "url": "https://doi.org/10.1001/jama.2026.15294",
+        "title": "Characteristics of Patients Choosing Intravenous Moderate Sedation for IUD Placement",
+        "authors": [
+          "Armide Storey",
+          "Jessie J. Liu",
+          "Tanvi Mehta",
+          "Youri Hwang",
+          "Jennifer Fortin",
+          "Elizabeth Janiak",
+          "Kari Braaten",
+          "Alisa B. Goldberg"
+        ],
+        "abstract": "This study examined the prevalence of intravenous moderate sedation (IVS) for intrauterine device (IUD) placement when universally offered, as well as the demographic, reproductive, and social factors associated with its use.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-17",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-18",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.14241",
+        "doi": "10.1001/jama.2026.14241",
+        "url": "https://doi.org/10.1001/jama.2026.14241",
+        "title": "Intrauterine Mepivacaine Instillation vs Placebo for Pain During IUD Placement",
+        "authors": [],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-17",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-18",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2025.16074",
+        "doi": "10.1001/jama.2025.16074",
+        "url": "https://doi.org/10.1001/jama.2025.16074",
+        "title": "The Dangers of Perverted Appetite",
+        "authors": [],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-17",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-18",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.14527",
+        "doi": "10.1001/jama.2026.14527",
+        "url": "https://doi.org/10.1001/jama.2026.14527",
+        "title": "Management Consultant Use by Nonprofit Hospitals",
+        "authors": [
+          "Robert A. Phillips"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-17",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-18",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/1468-0009.70134",
+        "doi": "10.1111/1468-0009.70134",
+        "url": "https://doi.org/10.1111/1468-0009.70134",
+        "title": "In the September 2026 Issue of the\n                    <i>Quarterly</i>",
+        "authors": [
+          "ALAN B. COHEN"
+        ],
+        "abstract": "",
+        "source": "The Milbank Quarterly",
+        "issn": "0887-378X",
+        "date": "2026-09-17",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "socialSecurity"
+        ],
+        "firstSeen": "2026-09-18",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/1468-0009.70131",
+        "doi": "10.1111/1468-0009.70131",
+        "url": "https://doi.org/10.1111/1468-0009.70131",
+        "title": "Certified Nurse‐Midwife Practice Authority as a Structural Determinant of Maternal Health",
+        "authors": [
+          "CURISA M. TUCKER",
+          "JENNIFER BAUMSTARK"
+        ],
+        "abstract": "Policy Points                                                                                                                                         State scope‐of‐practice restrictions on certified nurse‐midwives are associated with lower workforce density and higher maternal vulnerability. In fact, 25 states currently impose collaborative or restricted practice environments that coincide with the nation's worst maternal health indicators.                                                                                         Mediation analysis revealed that 27% of the regulatory effect operates through workforce supply, whereas 73% reflects a direct policy effect, indicating that both regulatory reform and workforce investment are needed.                                                                                         Federal incentives through the Centers for Medicare and Medicaid Services's Rural Health Transformation Program now award scoring points based on state practice authority classifications, directly linking the state regulatory environment to federal funding and providing states with both an evidence‐based rationale and a financial incentive for reform.                                                                                                                                                                                        Context                     Certified nurse‐midwives (CNMs) provide evidence‐based maternity care associated with improved birth outcomes, yet half of US states do not grant them independent practice authority. State scope‐of‐practice regulations may function as structural determinants of maternal health by constraining both the midwifery workforce and the conditions under which care is delivered. Prior studies have documented associations between midwifery regulation and workforce availability but have not formally tested the mechanisms linking regulation to population‐level maternal health outcomes.                                                           Methods                     We conducted a cross‐sectional ecological analysis of all 50 US states, classifying each by CNM practice authority (independent, collaborative, or restricted) using American College of Nurse‐Midwives state practice environment data (March 2026). CNM workforce density was calculated from American Midwifery Certification Board data (2022‐2023). The primary outcome was the maternal vulnerability index (MVI), a composite of 43 indicators excluding provider density. The secondary outcome was March of Dimes preterm birth report card grades. We used one‐way analysis of variance, multiple linear regression, and Baron and Kenny mediation analysis with Sobel tests and bias‐corrected bootstrap confidence intervals to test whether workforce density mediated the relationship between practice authority and maternal vulnerability.                                                           Findings                                            States allowing independent practice had significantly higher CNM densities than collaborative states (6.5 vs. 2.9 per 1,000 births,                       P                        &lt; .001), as well as lower MVI scores (2.1 vs. 4.1,                       P                        &lt; .001). The effect sizes were large (Cohen's                       d                        = 1.34 for CNM density,                       d                        = −1.62 for MVI). CNM density was found to mediate 26.7% of the practice authority–MVI association (Sobel                       z                        = −2.10,                       P                        = .036; 95% bias‐corrected and accelerated [BCa] bootstrap CI [−0.88, −0.08]). The remaining 73.3% represented a direct policy effect that is not explained by workforce numbers. These results were robust to alternative classifications using nurse practitioner regulatory data.                                                                                Conclusions                     State CNM scope‐of‐practice regulations are a modifiable policy lever associated with both clinician workforce distribution and population‐level maternal vulnerability. Both regulatory reform and complementary workforce investments are needed to address maternal health inequities.",
+        "source": "The Milbank Quarterly",
+        "issn": "0887-378X",
+        "date": "2026-09-17",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "socialSecurity"
+        ],
+        "firstSeen": "2026-09-18",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1007/s40273-026-01653-w",
+        "doi": "10.1007/s40273-026-01653-w",
+        "url": "https://doi.org/10.1007/s40273-026-01653-w",
+        "title": "Beyond Narrative and Tabular Synthesis: Introducing an Approach–Rationale–Note (ARN) Framework for Thematic Evidence Synthesis in Economic Evaluation Reviews",
+        "authors": [
+          "Mehdi Yousefi",
+          "Amy Grove",
+          "Jo Parsons",
+          "Somayeh Fazaeli",
+          "Peter Auguste"
+        ],
+        "abstract": "",
+        "source": "PharmacoEconomics",
+        "issn": "1170-7690",
+        "date": "2026-09-17",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-18",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/hsw/hlag041",
+        "doi": "10.1093/hsw/hlag041",
+        "url": "https://doi.org/10.1093/hsw/hlag041",
+        "title": "Bridging the Diagnostic Gap: Rethinking Autism Spectrum Disorder versus Borderline Personality Disorder in Women",
+        "authors": [
+          "Katie Newberry",
+          "Shahnaz Savani"
+        ],
+        "abstract": "",
+        "source": "Health &amp; Social Work",
+        "issn": "0360-7283",
+        "date": "2026-09-17",
+        "subjects": [],
+        "domains": [
+          "socialWork",
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-18",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/hsw/hlag045",
+        "doi": "10.1093/hsw/hlag045",
+        "url": "https://doi.org/10.1093/hsw/hlag045",
+        "title": "A Reflection on 25 Years of Transforming Global Health through the International Classification of Functioning, Disability and Health",
+        "authors": [
+          "Patricia Welch Saleeby"
+        ],
+        "abstract": "",
+        "source": "Health &amp; Social Work",
+        "issn": "0360-7283",
+        "date": "2026-09-17",
+        "subjects": [],
+        "domains": [
+          "socialWork",
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-18",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/hsw/hlag042",
+        "doi": "10.1093/hsw/hlag042",
+        "url": "https://doi.org/10.1093/hsw/hlag042",
+        "title": "The Bridge to Life: Social Workers as Financial Navigators in the Kidney Transplantation Ecosystem in Resource-Constrained Settings",
+        "authors": [
+          "Chimezie G Okwuonu",
+          "Oluchi J Chimezie",
+          "Rasheed A Balogun"
+        ],
+        "abstract": "",
+        "source": "Health &amp; Social Work",
+        "issn": "0360-7283",
+        "date": "2026-09-17",
+        "subjects": [],
+        "domains": [
+          "socialWork",
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-18",
         "fetched_from": "crossref"
       },
       {
@@ -34499,6 +35358,124 @@
     ],
     "agingHealth": [
       {
+        "id": "doi:10.1186/s12877-026-08291-z",
+        "doi": "10.1186/s12877-026-08291-z",
+        "url": "https://doi.org/10.1186/s12877-026-08291-z",
+        "title": "Multimorbidity patterns and domain-specific intrinsic capacity impairments among rural older adults: a multiple correspondence analysis and k-means clustering study",
+        "authors": [
+          "Kaixuan Sui",
+          "Jingsen Liu",
+          "Luhao Liu",
+          "Jia Song",
+          "Lijuan Yang",
+          "Minmin Leng"
+        ],
+        "abstract": "Abstract                                        Background                     Multimorbidity is prevalent among older adults, but its specific patterns and differential associations with impairments across intrinsic capacity (IC) domains remain under-explored. This study aimed to identify stable multimorbidity patterns in rural older adults using multiple correspondence analysis (MCA) combined with k-means clustering and to examine their independent associations with domain-specific IC impairments.                                                           Methods                     This cross-sectional study included 3,641 community-dwelling older adults with multimorbidity (≥ 2 of 15 chronic conditions) from rural China. MCA was used to reduce dimensionality, followed by k-means clustering to identify multimorbidity patterns. Multivariable logistic regression, adjusted for age, sex, education, income, and smoking status, was used to estimate the associations between the identified patterns and impairments in each of the six IC domains (cognition, physical function, vitality, psychology, hearing, and vision), with the high metabolic burden pattern used as the reference.                                                           Results                     Five stable multimorbidity patterns were identified: high metabolic burden (36.4%), musculoskeletal degenerative (28.4%), gastrointestinal-tumor risk pattern (13.8%), cardiovascular-heart failure pattern (13.0%) and respiratory pattern (8.4%). Compared with the high metabolic burden pattern, the gastrointestinal-tumor risk pattern was associated with higher odds of vitality impairment (OR = 1.70, 95% CI: 1.30–2.21); the cardiovascular-heart failure pattern was associated with higher odds of physical function impairment (OR = 1.40, 95% CI: 1.11–1.77); and the gastrointestinal-tumor risk pattern, cardiovascular-heart failure pattern, and respiratory pattern were all associated with higher odds of psychological impairment (ORs from 1.61 to 2.27). The respiratory and gastrointestinal-tumor risk patterns were also associated with higher odds of hearing and visual impairments. Notably, the high metabolic burden pattern demonstrated the strongest risk for cognitive impairment.                                                           Conclusion                     Distinct multimorbidity patterns are differentially associated with specific IC domain impairments. These findings support pattern-oriented risk stratification and targeted functional management in older adults, offering a practical framework for precision geriatric care in resource-limited rural settings.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-18",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-18",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08316-7",
+        "doi": "10.1186/s12877-026-08316-7",
+        "url": "https://doi.org/10.1186/s12877-026-08316-7",
+        "title": "Prognostic value of mNUTRIC and nutritional indices, including early change, for ICU mortality in older adults with AECOPD",
+        "authors": [
+          "Mahmut Yilmaz",
+          "Rahime Aydin Kayali",
+          "Mehmet Celal Ozturk",
+          "Burak Emre Gilik",
+          "Huseyin Ozkarakas"
+        ],
+        "abstract": "Abstract                                        Background                     Malnutrition is common in older adults with acute exacerbation of chronic obstructive pulmonary disease (AECOPD) requiring intensive care unit (ICU) admission and is associated with adverse outcomes. We aimed to evaluate the prognostic value of the Prognostic Nutritional Index (PNI) and its early change (ΔPNI) for predicting ICU mortality and to compare their performance with the modified Nutrition Risk in the Critically Ill (mNUTRIC) score.                                                           Methods                     This single-center retrospective study included 319 older adults (aged ≥ 65 years) with AECOPD admitted to the ICU. PNI was calculated at admission and on day 3, and ΔPNI was defined as the difference between these values. The mNUTRIC score was calculated at admission. The primary outcome was ICU mortality. Discriminative performance was assessed using receiver operating characteristic (ROC) analysis. Independent predictors were identified using multivariable logistic regression, and survival was evaluated using Kaplan–Meier and Cox proportional hazards analyses.                                                           Results                                            ICU mortality was 19.8%. The mNUTRIC score demonstrated strong discriminative ability for predicting ICU mortality (AUC 0.852), significantly higher than that of PNI (AUC 0.664;                       p                        &lt; 0.0001). In multivariable analysis, the mNUTRIC score remained an independent predictor of ICU mortality (OR 2.50;                       p                        &lt; 0.001). Although hypertension was associated with lower mortality in univariate analysis, this association was not confirmed after adjustment for disease severity. In univariate analysis, ΔPNI did not demonstrate significant prognostic value (                       p                        = 0.083), and this was consistent across multivariable logistic regression and Cox proportional hazards analyses. Kaplan–Meier analysis demonstrated significantly poorer survival among patients with high risk (mNUTRIC ≥ 6) (log-rank                       p                        &lt; 0.001). In Cox proportional hazards analysis, only mNUTRIC remained independently associated with mortality, whereas neither baseline PNI nor ΔPNI demonstrated an independent association with survival.                                                                                Conclusion                     In older adults with AECOPD requiring ICU admission, baseline multidimensional risk assessment using the mNUTRIC score was strongly associated with ICU mortality. Among patients who survived and remained in the ICU until day 3, early changes in PNI did not provide meaningful additional prognostic information beyond the baseline assessment. The lack of prognostic significance of ΔPNI was consistent across ROC, multivariable logistic regression, and Cox survival analyses. The apparent inverse association between hypertension and mortality was largely explained by disease severity. Further prospective studies incorporating direct measures of frailty are needed to validate these findings.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-18",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-18",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08279-9",
+        "doi": "10.1186/s12877-026-08279-9",
+        "url": "https://doi.org/10.1186/s12877-026-08279-9",
+        "title": "Approach to sarcopenia in older adults: a systematic review of dietary and exercise interventions in the primary care setting",
+        "authors": [
+          "María Merino",
+          "Gonzalo Luis Alonso",
+          "Nuria Goñi"
+        ],
+        "abstract": "Abstract                                        Background/objectives                     Population aging presents challenges for society and healthcare, notably in preventing sarcopenia, a condition that impairs older adults’ quality of life and functionality. This article reviews the current literature on dietary and exercise interventions to evaluate their effectiveness in managing sarcopenia and explore their integration in primary care.                                                           Methods                     A systematic review was conducted under PRISMA guidelines by searching PubMed, ClinicalTrials.gov, Embase, and the Cochrane Library via MeSH terms and the PICOS criteria. The analysis focused on randomized studies involving adults over 65 years of age that assessed nutritional and exercise interventions delivered in primary care settings.                                                           Results                     Six studies, encompassing 444 participants in experimental groups and 226 in control groups, met the inclusion criteria. Combined interventions, physical exercise paired with nutritional supplementation, demonstrated notable improvements in muscle strength, physical function, and body composition. However, the results varied depending on the study design and adherence rates.                                                           Conclusions                     Multidimensional approaches within primary care show promising potential for slowing sarcopenia progression and enhancing quality of life among older adults. Despite encouraging findings, limited research in this area signals the need for further studies emphasizing personalized, sustainable strategies to optimize clinical implementation.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-18",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-18",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08239-3",
+        "doi": "10.1186/s12877-026-08239-3",
+        "url": "https://doi.org/10.1186/s12877-026-08239-3",
+        "title": "Alcohol consumption in later life: sociodemographic, health, and social participation determinants among older adults in Türkiye",
+        "authors": [
+          "Kübranur Çebi̇ Karaaslan",
+          "Meryem Aysi̇n",
+          "Figen Özşahi̇n",
+          "Seyedhadi Eslamian Shiraz"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-18",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-18",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08260-6",
+        "doi": "10.1186/s12877-026-08260-6",
+        "url": "https://doi.org/10.1186/s12877-026-08260-6",
+        "title": "Risk factors for frailty in older adults with cancer: a systematic review",
+        "authors": [
+          "Feng Shubing",
+          "Wang Pengpeng",
+          "Huang Hongxia",
+          "Lin Zhenhong",
+          "Liu Yuanhang"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-18",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-18",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1186/s12877-026-08314-9",
         "doi": "10.1186/s12877-026-08314-9",
         "url": "https://doi.org/10.1186/s12877-026-08314-9",
@@ -34545,6 +35522,552 @@
           "agingHealth"
         ],
         "firstSeen": "2026-09-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/gerona/glag236",
+        "doi": "10.1093/gerona/glag236",
+        "url": "https://doi.org/10.1093/gerona/glag236",
+        "title": "Social Isolation, Loneliness, and Cognitive Decline Among Black Americans: The Moderating Role of Neighborhood Context",
+        "authors": [
+          "Ann W Nguyen",
+          "Chuwen Zhong",
+          "Kedong Ding",
+          "Cleothia Frazier",
+          "Weidi Qin",
+          "Harry Owen Taylor"
+        ],
+        "abstract": "Abstract                                        Background                     Our study examined how social disconnection, neighborhood contexts, and cognitive function trajectories are jointly and interactively associated among middle-aged and older Black adults.                                                           Methods                     Data came from non-Hispanic Black participants aged 51 and older (n = 1,791) from the Health and Retirement Study. Cognitive health was measured by a global cognitive function summary score. Social disconnectedness was measured by three types of social isolation (from extended family, adult children, and friends) and loneliness (UCLA 3-item Loneliness Scale). Neighborhood contextual factors included neighborhood social cohesion and physical disadvantage. Covariables included age, sex, education, marital status, and living arrangements. We used group-based trajectory modeling to test the study objectives.                                                           Results                     We identified four global cognitive function trajectories: low and declining (14% of sample), moderate and declining (29%), moderate and stable (40%), and high and stable (17%). Multivariable models indicated that neighborhood physical disadvantage (RRR=.61, 95%CI[0.40, 0.92]) and social cohesion (RRR=.42, 95%CI[0.23, .77]) moderated the association between social isolation from extended family and global cognitive function trajectory membership.                                                           Conclusions                     Our study is among the first to examine cognitive function trajectories with linkages to social disconnectedness and neighborhood contexts among middle-aged and older Black adults. Overall, the results suggest that neighborhood contexts condition how social isolation relates to cognitive trajectories. These findings underscore the importance of considering both social disconnectedness and neighborhood context in explaining heterogeneity in cognitive aging among middle-aged and older Black adults.",
+        "source": "The Journals of Gerontology, Series A: Biological Sciences and Medical Sciences",
+        "issn": "1079-5006",
+        "date": "2026-09-17",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "elderCare"
+        ],
+        "firstSeen": "2026-09-18",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/gerona/glag235",
+        "doi": "10.1093/gerona/glag235",
+        "url": "https://doi.org/10.1093/gerona/glag235",
+        "title": "Wife-Husband Differences in the Associations Between Sleep Durations and Global Cognition Among Middle-Aged and Older Married Couples in China: A Longitudinal Dyadic Analysis",
+        "authors": [
+          "Jie Zhong",
+          "Ying Dai",
+          "Xiang Qi",
+          "Wei Liang"
+        ],
+        "abstract": "Abstract                                        Background                     Sleep duration has well-established U-shaped associations with cognitive health, but research has largely ignored spousal interdependence. This study examined actor and partner effects of sleep duration on global cognition in middle-aged and older Chinese couples, testing whether associations differed by sex.                                                           Methods                     Data were drawn from CHARLS waves 1-4 (2011-2018). The analytical sample comprised 4,260 couples (8,520 individuals) aged ≥45 years living a married, two-person, mixed-sex household. Global cognition was assessed with a composite battery adapted from the Telephone Interview for Cognitive Status and Chinese Mini-Mental State Examination; nocturnal sleep and napping durations were self-reported. Actor-Partner Interdependence Models with quadratic terms examined actor effects (own sleep predicting own cognition) and partner effects (own sleep predicting spouse’s cognition), with false discovery rate (FDR)-adjusted q-values and sex-equality tests.                                                           Results                     Significant inverted U-shaped actor effects were found for wives (β=-0.010, 95% CI: -0.014, -0.005, p &amp;lt; 0.001) and husbands (β=-0.011, 95% CI: -0.016, -0.006, p &amp;lt; 0.001); both survived FDR correction (q = 0.002, q &amp;lt; 0.001). Husbands’ sleep was nominally associated with wives’ cognition similarly (β=-0.005, p = 0.025), while wives’ sleep was not associated with husbands’ cognition (p = 0.618). The husband-to-wife association did not survive FDR correction (q = 0.239), and sex-equality tests were non-significant (χ²(9)=9.35, p = 0.406). Napping showed limited, largely non-significant associations with cognition.                                                           Conclusions                     Own nocturnal sleep duration shows a robust, symmetric inverted U-shaped association with cognitive function in both spouses. The possible husband-to-wife partner effect did not survive correction for multiple testing and warrants adequately powered investigation before informing couple-based clinical recommendations.",
+        "source": "The Journals of Gerontology, Series A: Biological Sciences and Medical Sciences",
+        "issn": "1079-5006",
+        "date": "2026-09-17",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "elderCare"
+        ],
+        "firstSeen": "2026-09-18",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/gerona/glag234",
+        "doi": "10.1093/gerona/glag234",
+        "url": "https://doi.org/10.1093/gerona/glag234",
+        "title": "DNA methylation variability provides a complementary epigenetic signature of aging heterogeneity: Findings from the Canadian Longitudinal Study on Aging and the Baltimore Longitudinal Study of Aging",
+        "authors": [
+          "Olga Vishnyakova",
+          "Joosung Min",
+          "Ann Z Moore",
+          "Toshiko Tanaka",
+          "Luigi Ferrucci",
+          "Xiaowei Song",
+          "Kenneth Rockwood",
+          "Angela Brooks-Wilson",
+          "Lloyd T Elliott"
+        ],
+        "abstract": "Abstract                                        BACKGROUND                     Human aging does not follow a single trajectory. Epigenetic changes offer insight into the heterogeneity in aging by reflecting the combined influence of genetic, environmental, and lifestyle factors on the timing and progression of age-related changes beyond what chronological age alone can explain. Recent studies in cancer and aging underscore the importance of methylation variability as a marker of biological dysregulation.                                                           METHODS                     We investigated the role of DNA methylation in aging heterogeneity by performing epigenome-wide differential methylation and variance association analyses in blood samples from 1,445 Canadians aged 45 to 85 from the Canadian Longitudinal Study on Aging.                                                           RESULTS                     We identified 448 differentially methylated regions and 488 differentially variable regions associated with health decline as measured by the health deficit accumulation Frailty Index, cognitive function, and physical function. These two classes of regions showed minimal overlap, with distinct gene coverage, suggesting that variability contributes a complementary signal to aging heterogeneity. Genes overlapped by differentially methylated regions were enriched for immune and inflammation-related pathways, whereas differentially variable regions highlighted additional localized, CpG‑island–enriched signals shared across health domains, consistent with regionally structured rather than diffuse dysregulation. By integrating significant CpGs from both analyses, we constructed an epigenetic biomarker. The biomarker was associated with all-cause mortality and showed higher discrimination than biomarkers constructed from differential methylation or variability alone, with a similar pattern reproduced in the Baltimore Longitudinal Study of Aging.                                                           CONCLUSIONS                     These findings suggest that DNA methylation variability may provide a complementary dimension of epigenetic aging and support further evaluation in larger cohorts with more mortality events.",
+        "source": "The Journals of Gerontology, Series A: Biological Sciences and Medical Sciences",
+        "issn": "1079-5006",
+        "date": "2026-09-17",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "elderCare"
+        ],
+        "firstSeen": "2026-09-18",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70698",
+        "doi": "10.1111/jgs.70698",
+        "url": "https://doi.org/10.1111/jgs.70698",
+        "title": "“It's Hard to Connect the Dots Sometimes, but at Least We Have Dots”: A Qualitative Study of Dementia Care in a Large Integrated Health Care System",
+        "authors": [
+          "Hannah Ratliff",
+          "Danielle Helminski",
+          "Charity M. Hoffman",
+          "Molly Turnwald",
+          "Nicholas Henry",
+          "Donovan T. Maust",
+          "Sarah L. Krein"
+        ],
+        "abstract": "ABSTRACT                                        Background                     Providing high‐quality care to the growing number of people with dementia in the United States is increasingly challenging. Integrated health care systems may improve care delivery; however, little is known about how dementia care is delivered in this setting. This qualitative study sought to better understand how dementia care is delivered across a large integrated system.                                                           Participants and Setting                     Clinicians involved in dementia care within the Veterans Affairs (VA) health care system.                                                           Methods                     Between August 2024 and July 2025, we conducted semi‐structured interviews with clinicians at VA facilities to compare dementia care practices across a large integrated health care system and identify strengths, challenges, and improvement strategies. We purposefully selected VA facilities to capture variation in facility size, rurality, racial diversity, and geography. Using rapid qualitative analysis methods, we summarized findings in facility‐level matrices and compared dementia care practices, challenges, and improvement strategies across key domains.                                                           Results                     We analyzed interview data from 28 clinicians across diverse clinical roles (e.g., social workers, psychologists, geriatricians, neurologists) from 6 VA facilities. Participants endorsed numerous strengths of the integrated care system, including interdisciplinary clinic‐ and home‐based primary care teams, a national caregiver support program, facility‐level dementia committees, and unified electronic health records and communication channels. Despite these strengths, participants also identified several challenges and potential strategies to improve care within four key domains: (1) dementia screening and diagnosis; (2) staff training and education; (3) care pathways; and (4) access to services.                                                           Conclusions                     Despite some notable advantages, clinicians at participating VA facilities faced several common challenges in dementia care delivery, suggesting that integration alone may not automatically translate into improved care. However, integrated health systems may be well positioned to advance facility‐ and system‐level improvements through intentional use of shared infrastructure to facilitate cross‐site learning, disseminate effective strategies across sites, and tailor interventions to local needs.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-09-17",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-18",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70713",
+        "doi": "10.1111/jgs.70713",
+        "url": "https://doi.org/10.1111/jgs.70713",
+        "title": "Eyeballing for Frailty Assessment in Elderly Patients Referred for Coronary Angiography",
+        "authors": [
+          "Ranin Hilu",
+          "Ziad Arow",
+          "Rami Barashi",
+          "Ilya Losin",
+          "Ela Giladi",
+          "Yoav Arnson",
+          "Hana Vaknin Assa",
+          "Abed Assali",
+          "David Pereg"
+        ],
+        "abstract": "ABSTRACT                                        Background                     Frailty is increasingly recognized as a key determinant of outcomes in elderly patients undergoing invasive cardiac procedures. While structured instruments such as the Fried test are recommended, frailty is often assessed intuitively by physicians using eyeballing. We aimed to evaluate the diagnostic accuracy of physician eyeballing for frailty detection in elderly patients referred for coronary angiography.                                                           Methods                     A prospective observational study including patients aged ≥ 70 years undergoing coronary angiography. Frailty was independently assessed by two cardiologists in a blinded fashion: (1) a formal Fried test, and (2) physician eyeballing, scored on a Fried‐like scale. The primary outcome was the diagnostic accuracy of the eyeballing compared with the Fried test, quantified by sensitivity, specificity, positive and negative predictive values and receiver operating characteristic (ROC) analysis. Secondary outcomes included 6‐month mortality, cardiovascular rehospitalization, recurrent myocardial infarction, and unplanned revascularization.                                                           Results                     The 200 patients had a mean age of 77.3 ± 5.3 years. Frailty prevalence by Fried criteria was 16.5%. The eyeballing demonstrated high sensitivity (93.9%) and negative predictive value (NPV) (98.5%), with specificity of 80.8%, PPV of 49.2%, and an area under the curve (AUC) of 0.87. Subgroup analyses showed consistent accuracy, although specificity was lower in women and hospitalized patients. Frailty as defined by the Fried test was associated with higher 6‐month mortality and rehospitalization.                                                           Conclusions                     Eyeballing is a rapid and reliable tool to exclude frailty in elderly patients undergoing coronary angiography. However, when frailty is suspected, confirmation with a structured tool is indicated.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-09-17",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-18",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70705",
+        "doi": "10.1111/jgs.70705",
+        "url": "https://doi.org/10.1111/jgs.70705",
+        "title": "Days Alive at Home After Emergency Department\n                    <scp>STEMI</scp>\n                    Visits Among Medicare Beneficiaries With Dementia",
+        "authors": [
+          "Michael G. Nanna",
+          "Andrew B. Cohen",
+          "Ashleigh C. Erickson",
+          "Bangyao Sun",
+          "Raiza Rossi",
+          "Zafer Akman",
+          "Ashok Krishnaswami",
+          "Abdulla A. Damluji",
+          "Christopher G. Leggett",
+          "Douglas O. Staiger",
+          "Leila Agha"
+        ],
+        "abstract": "ABSTRACT                                        Background                     As the population of older adults with Alzheimer's disease and related dementias (ADRD) increases, a growing number are presenting with acute cardiovascular events, including ST‐elevation myocardial infarction (STEMI). Patient‐centered outcomes following treatment for STEMI in this population are not well understood.                                                           Methods                     This retrospective cohort study used Medicare fee‐for‐service claims from a 100% national sample to identify beneficiaries aged 65 years or older who presented to the emergency department (ED) with STEMI between 2017 and 2022 and underwent cardiac catheterization. Patients were stratified by ADRD status and nursing home admission source. The primary outcome was adjusted days alive at home in the year following the index ED visit. Secondary outcomes included 1‐year survival, percent of alive days spent at home, and long‐term nursing home care use (≥ 100 days). Multivariable linear regression models controlled for age, sex, and comorbidities.                                                           Results                     Of 117,318 patients, 7348 (6.3%) had ADRD and 2617 (2.2%) were admitted from a nursing home. Among community‐dwelling patients, those with ADRD had moderately lower adjusted days at home than those without ADRD (225.1 vs. 299.4; adjusted difference −37.8 days; 95% CI, −41.1 to −34.5), but more than half spent over 300 days at home. Among patients admitted from a nursing home, ADRD was associated with markedly worse outcomes (adjusted difference −71.9 days; 95% CI, −84.0 to −59.8), and 1‐year survival was 42.4%.                                                           Conclusion                     Many community‐dwelling older adults with ADRD experienced meaningful survival and time at home following cardiac catheterization for STEMI. Dementia status alone should not deter appropriate STEMI care. Treatment decisions should be individualized based on cognitive status, admission source, and patient goals.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-09-17",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-18",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70722",
+        "doi": "10.1111/jgs.70722",
+        "url": "https://doi.org/10.1111/jgs.70722",
+        "title": "Mapping the\n                    <scp>5Ms</scp>\n                    : Identifying Gaps in a Geriatric Medicine Curriculum at a U.S. Medical School",
+        "authors": [
+          "Katherine McGough",
+          "Anna Jones",
+          "Steven C. Zweig",
+          "David R. Mehr"
+        ],
+        "abstract": "ABSTRACT                                        Background                     A strong foundation in the care of older adults is crucial for caring for the growing aging population. While residency training curricula in geriatric medicine are well‐studied, data on undergraduate medical education curricula are limited. This study compares the Minimum Geriatrics Competencies for Graduating Medical Students (which follows the 5Ms framework) to the geriatrics curriculum taught at the University of Missouri‐Columbia School of Medicine.                                                           Methods                     Using the school's curriculum map, we identified curricular elements through a keyword search utilizing 5 M (Mobility, Mind, Medications, Multicomplexity, Matters Most) concepts. We used structured interviews or email surveys of directors to confirm which elements are covered, perceptions of how well the content is covered, and the perceived need for more age‐related content. Identified curricular elements were categorized into the 27 5Ms subcategories.                                                           Results                     The four‐year curriculum at least partially addressed all 27 subcategories. Many of the topics are covered sparingly, including deprescribing, aging physiology, and frailty. Clerkship directors' perceptions of how well the 5Ms are taught are more favorable than those of pre‐clerkship directors, although clerkship directors were more likely to report a greater need for age‐related content.                                                           Conclusions                     The majority of the 5Ms are covered in the curriculum, though notable gaps remain in several subcategories. Recommendations include strengthening preclinical exposure to concepts students will encounter in clinicals, such as pharmacology and delirium. This is the first known published study to explicitly identify how the 5Ms are covered in a U.S. undergraduate medical school curriculum.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-09-17",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-18",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70714",
+        "doi": "10.1111/jgs.70714",
+        "url": "https://doi.org/10.1111/jgs.70714",
+        "title": "Association Between Kihon Checklist Oral‐Function Score and All‐Cause Mortality in Community‐Dwelling Older Adults",
+        "authors": [
+          "Kensuke Uraguchi",
+          "Rumi Matsuo",
+          "Soshi Takao",
+          "Takashi Yorifuji"
+        ],
+        "abstract": "ABSTRACT                                        Background                     We examined whether the Kihon Checklist (KCL) oral‐function score (0–3), based on three self‐reported symptoms (chewing difficulty, dysphagia, and xerostomia), was associated with all‐cause mortality in community‐dwelling older adults.                                                           Methods                     This cohort study included 52,789 adults aged ≥ 65 years who underwent municipal health checkups in Okayama City, Japan (fiscal year 2006–2007) with mortality follow‐ups during December 2016. The KCL oral‐function score (range 0–3) was the sum of the positive responses to the three oral‐function items. Cox proportional hazards models were used to estimate adjusted hazard ratios (aHR). Secondary analysis examined the association of each symptom using separate and mutually adjusted models.                                                           Results                                            Higher KCL oral‐function scores were positively associated with increased all‐cause mortality. In the fully adjusted model (                       n                        = 49,665), the aHRs (95% confidence interval [CI]) for scores 1, 2, and 3 were 1.09 (1.04–1.13), 1.26 (1.20–1.32), and 1.49 (1.38–1.60), respectively. Chewing difficulty (aHR 1.19 [95% CI 1.14–1.23]) and dysphagia (aHR 1.18 [95% CI 1.14–1.23]) were each independently associated with mortality, whereas xerostomia was not (aHR 1.02 [95% CI 0.98–1.06]).                                                                                Conclusions                     Higher KCL oral‐function scores showed a positive association with all‐cause mortality. Chewing difficulty and dysphagia were independently associated with mortality, whereas xerostomia was not. Symptom‐based oral‐function screening may help identify older adults at an elevated mortality risk.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-09-17",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-18",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70731",
+        "doi": "10.1111/jgs.70731",
+        "url": "https://doi.org/10.1111/jgs.70731",
+        "title": "Prehospital Sedation and Physical Restraint of Older Adults Presenting With Behavioral Health Emergencies: A Nationwide Cross‐Sectional Study",
+        "authors": [
+          "Gregory A. Peters",
+          "Diana M. Bongiorno",
+          "Anjali J. Misra",
+          "Wylie Chang",
+          "Tyler Allerhand",
+          "Maura Kennedy",
+          "Maia Dorsett",
+          "Tony Rosen",
+          "Scott A. Goldberg",
+          "Rebecca E. Cash"
+        ],
+        "abstract": "ABSTRACT                                        Background                     Management of behavioral health emergencies (BHE) such as acute agitation by emergency medical services (EMS) is associated with significant patient safety risks, particularly among older adults. However, the unique considerations for BHE among older adults may not be adequately addressed in prehospital BHE protocols and training. We aimed to provide the first nationwide description of EMS use of physical restraint and sedation for older adults with BHE in the United States.                                                           Methods                     We conducted a cross‐sectional evaluation of a nationwide convenience sample of 9‐1‐1 EMS encounters during 2023. We included EMS encounters for BHE that were managed by advanced life support (ALS) units. Outcomes of interest included physical restraint or administration of chemical sedation. Descriptive statistics were computed and stratified by patient age group. Differences in proportions with 95% confidence intervals were used to compare older (age ≥ 65 years) versus younger adults (age 18–64 years).                                                           Results                                            A total of 1,468,697 EMS encounters for BHE were included, of which 238,754 (16.3%) involved an older adult. Among 65,088 BHE encounters in which chemical sedation and/or physical restraint was used (older adults:                       n                        = 5915, 9.1%), older adults were more likely than younger adults to be sedated (69.2% vs. 61.3%) and less likely to be restrained (39.7% vs. 52.7%). Among those requiring sedation and/or restraint, benzodiazepines were more often used in older adults compared to younger adults (52.8% vs. 45.3%), antipsychotic agents were used at similar rates (15.4% vs. 14.9%), and ketamine was used slightly less often in older adults (5.5% vs. 6.6%).                                                                                Conclusions                     Thousands of older adults presenting with BHE are restrained and/or sedated by EMS each year in the United States. Further work to improve evidence‐based recommendations, protocols, and training specific to older adults is needed to help support EMS in these high‐risk encounters.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-09-17",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-18",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70690",
+        "doi": "10.1111/jgs.70690",
+        "url": "https://doi.org/10.1111/jgs.70690",
+        "title": "The Mean and Variability of Morning Hour Activity Over 2–3 Days Predict 5‐Year Mortality and Frailty Risk in a National Sample of Older Adults",
+        "authors": [
+          "Megan Huisingh‐Scheetz",
+          "Sylvia Brown",
+          "Michelangelo Pagan",
+          "Cassidy Cabrera",
+          "Daniel Rubin",
+          "Nabiel Mir",
+          "Maria Lucia Madariaga",
+          "L. Philip Schumm",
+          "Kristen Wroblewski",
+          "Donald Hedeker"
+        ],
+        "abstract": "ABSTRACT                                        Background                     Activity pattern features measured by continuous accelerometry are strongly associated with frailty, making accelerometry a promising, scalable screening tool for frailty. However, adherence to typical 5–7 day wear protocols decreases with age, reducing feasibility. Whether accelerometry measures collected over shorter wear periods predict frailty decline is unknown. In cross‐section, we have shown that frailty is most strongly differentiated by morning activity patterns.                                                           Objective                     The objective of this study was to determine whether two morning activity measures, mean hourly activity and within activity variance, measured over 72 h predicted 5‐year mortality and frailty progression among survivors.                                                           Methods                                            We conducted a secondary data analysis of the 2010–2011 accelerometry substudy and 2015–2016 data of the National Social Life, Health and Aging Project which included                       n                        = 584 community‐dwelling older adults;                       n                        = 104 died at 5 years. Wrist accelerometers were worn for 72 h in 2010–2011, and an adapted frailty phenotype was measured in both years. We employed a mixed effects location scale model to calculate mean morning (7:00–11:59 am) hourly activity (counts per minute z‐score) and within‐subject morning hourly activity variance (z‐score) for each participant, adjusted for day of week and month of wear. Second, 5‐year mortality (logistic) and adapted frailty phenotype scores (range 0–4, ordinal) were regressed on baseline frailty and both accelerometry z‐scores in a 2‐stage model, adjusting for covariates.                                                                                Results                                            After adjusting for baseline frailty, demographics, comorbidities, BMI, and cognition, higher mean morning hourly activity predicted lower 5‐year mortality risk (OR = 0.64 for 1 SD increase,                       p                        = 0.04). Conversely, higher morning activity WS variance predicted better frailty scores among survivors (OR = 0.67 for 1 SD increase,                       p                        = 0.01).                                                                                Conclusions                     Higher activity levels and higher day‐to‐day morning activity variance measured over just two to three mornings differentiate those at higher risk of death and frailty decline, increasing the feasibility of using accelerometry as a digital frailty screening tool.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-09-17",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-18",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70696",
+        "doi": "10.1111/jgs.70696",
+        "url": "https://doi.org/10.1111/jgs.70696",
+        "title": "Controlled Drug Use and Falls in Older People With Neurogenic Claudication: Secondary Analysis of the\n                    <scp>BOOST RCT</scp>",
+        "authors": [
+          "Helen Richmond‐Davies",
+          "Paul Newell",
+          "John Richmond",
+          "Javed Iqbal",
+          "Esther Williamson",
+          "Cynthia Srikesavan",
+          "Graham Boniface",
+          "Sarah E. Lamb"
+        ],
+        "abstract": "ABSTRACT                                        Background                     Controlled pain medications increase the risk of falls. Despite this, they are commonly prescribed for painful neurogenic claudication. Previously, we reported that the Better Outcomes for Older People with Spinal Trouble (BOOST) program improved walking and reduced overall falls at 12 months. The aim of this study was to determine whether, in comparison to best practice advice, a physical and psychological group intervention (PPGI) changed pain medication use and to determine the mechanisms of fall reduction.                                                           Methods                     Secondary and mediation analysis of the BOOST randomized controlled trial. There were 435 people enrolled at baseline. Follow‐up was at 6 and 12 months after randomization. At baseline and follow‐up, we classified participants into three groups: (1) not using any pain medication; (2) using only non‐controlled medication; and (3) using at least one controlled pain medication, with or without other pain medications. Physical performance tests, patient‐reported outcomes, medication use, and falls were collected at all time points.                                                           Results                                            At baseline, 63% (                       n                        = 274/435) of participants reported taking at least one pain medication, with 34% (                       n                        = 149/435) taking at least one controlled medication. At 6 months, the PPGI was more effective than best practice in reducing the use of controlled medications [OR 0.62, 95% CI (0.40, 0.96)] although these differences narrowed by 12 months. There was a modest treatment benefit in pain. Several factors mediated falls prevention at 12 months, notably a reduction in controlled pain medication in the first 6 months of follow‐up.                                                                                Conclusions                     PPGI reduced controlled pain drug use at 6‐months, and this contributed to reduced falls by 12‐months. Intervention refinements may improve the effect on controlled medication reduction.                                                           Trial Registration                     ISRCTN 12698674",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-09-17",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-18",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08295-9",
+        "doi": "10.1186/s12877-026-08295-9",
+        "url": "https://doi.org/10.1186/s12877-026-08295-9",
+        "title": "Developing a sarcopenia identification model with eight machine learning algorithms",
+        "authors": [
+          "Wei Feng",
+          "Min Wang",
+          "Ziyang Fang",
+          "Liqi Lu",
+          "Chen Wu",
+          "Tao Zhang",
+          "Mengna Wu",
+          "Le Xu",
+          "Xue Gu",
+          "Zhen Jiang",
+          "Junfen Ling",
+          "Kui Liu"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-17",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-18",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08317-6",
+        "doi": "10.1186/s12877-026-08317-6",
+        "url": "https://doi.org/10.1186/s12877-026-08317-6",
+        "title": "Hypertension knowledge, medication adherence, and BP control in community-dwelling hypertensive older adults: a cross-sectional study",
+        "authors": [
+          "Chenlin Lu",
+          "Hong Xu",
+          "Yin Yuan",
+          "Chuanmeng Zhang",
+          "Qingqing Zhang",
+          "Guoyu Wang",
+          "Jing Zheng",
+          "Peng Gao",
+          "Si Sun",
+          "Suyun Jiang",
+          "Xiangwei Ding",
+          "Qingtao Ni"
+        ],
+        "abstract": "Abstract                                        Background                     Hypertension affects 31.6% of Chinese adults, yet medication nonadherence (30-50%) remains a critical barrier to control. The purpose of this study is to explore the relationship between hypertension knowledge, medication adherence, and lifestyle factors, and their associations with blood pressure control in older hypertensive patients living in the community.                                                           Methods                     Cross-sectional study of 437 hypertensive patients (≥ 65 years) in Taizhou, China (Oct-Dec 2023). Medication adherence was assessed via composite score (0–8, &gt; 6 = good) from four validated questions. Hypertension knowledge was evaluated through structured questionnaires. Data were analyzed using SPSS 26.                                                           Results                     Only 35.3% demonstrated good adherence. Intentional non-adherence behaviors (skipping doses, stopping when asymptomatic) and difficulty remembering medications were significantly associated with poor blood pressure control (p &lt; 0.05). Blood pressure control correlated with salt/fat intake regulation and sleep quality (p &lt; 0.001). Polypharmacy, driven by comorbidities, created adherence challenges.                                                           Conclusions                     Poor medication adherence, driven primarily by intentional behaviors (e.g., dose skipping, stopping when asymptomatic) and regimen complexity, is strongly associated with poor blood pressure control. Effective interventions must address these specific behavioral and systemic barriers to improve hypertension management in older adults.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-17",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-18",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08256-2",
+        "doi": "10.1186/s12877-026-08256-2",
+        "url": "https://doi.org/10.1186/s12877-026-08256-2",
+        "title": "Associations of frailty and COVID-19 severity with long-term health outcomes of COVID-19 among older people",
+        "authors": [
+          "Bas F. M. van Raaij",
+          "Veerle M. G. T. H. van der Klei",
+          "Jesse M. van den Berg",
+          "Raymond Noordam",
+          "Harmke A. Polinder-Bos",
+          "Julia Minnema",
+          "Lisanne Tap",
+          "Jacobien J. Hoogerwerf",
+          "Petra J. M. Elders",
+          "Marieke T. Blom",
+          "Dennis O. Mook-Kanamori",
+          "Jan Festen",
+          "Jeannette B. Peters",
+          "Simon P. Mooijaart",
+          "Jacobijn Gussekloo",
+          "Karel G. M. Moons",
+          "Maarten van Smeden",
+          "Geeske Peeters",
+          "René J. F. Melis",
+          "Carolien M. J. van der Linden",
+          "Steffy W. M. Jansen",
+          "Hanna C. Willems",
+          "Jessica M. van der Bol",
+          "Esther M. M. van de Glind",
+          "Floor J. A. van Deudekom",
+          "Jacinta A. Lucke",
+          "Rikje Ruiter",
+          "Huub A. A. M. Maas",
+          "Linda M. Kampschreur",
+          "Evertine Abbink",
+          "Ton Dofferhoff",
+          "Angele Kerckhoffs",
+          "Josephine van der Maat",
+          "Mihai Netea",
+          "Kitty Slieker",
+          "Karin Veerman",
+          "Robert-Jan Hassing"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-17",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-18",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-07973-y",
+        "doi": "10.1186/s12877-026-07973-y",
+        "url": "https://doi.org/10.1186/s12877-026-07973-y",
+        "title": "Unseen barriers to home healthcare: a qualitative study of providers’ perspectives from Saudi Arabia",
+        "authors": [
+          "Khulud K. Alharbi",
+          "Walid A. Alkeridy",
+          "Nawal A Sindi",
+          "Rana A. Alhelali",
+          "Samah H. Hajjar",
+          "Tassnym H. Sinky"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-17",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-18",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261487620",
+        "doi": "10.1177/13872877261487620",
+        "url": "https://doi.org/10.1177/13872877261487620",
+        "title": "Exosomal miR-223-3p, associated with NLRP3-related neuroinflammation, as a potential biomarker for mild cognitive impairment in patients with type 2 diabetes mellitus",
+        "authors": [
+          "Hui Zhang",
+          "Benjuan Liang",
+          "Yu Chang",
+          "Zhen Zhang",
+          "Zheng Wang",
+          "Wenwen Zhu",
+          "Bing Song",
+          "Haoqiang Zhang"
+        ],
+        "abstract": "Background                     Neuroinflammation has been implicated in diabetic cognitive dysfunction, with the NLRP3 playing an important role.                                                           Objective                     This study aimed to elucidate the regulatory role of miR-223-3p in NLRP3 associated neuroinflammation and its potential as a biomarker for mild cognitive impairment (MCI) in type 2 diabetes mellitus (T2DM).                                                           Methods                     Diabetic mouse models were generated by 24 weeks of high-fat diet feeding, with cognitive impairment verified by behavioral assessments. Hippocampal tissues were analyzed by microRNA sequencing and validated for miR-223-3p expression. NLRP3-mediated neuroinflammation was examined in vivo, while in vitro assays using BV2 cells assessed mechanistic pathways. BV2 cells with miR-223-3p knockdown and overexpression to evaluate its effects on NLRP3. Clinically, plasma exosomal miR-223-3p was quantified in T2DM patients with and without MCI and correlated with neuropsychological test scores.                                                           Results                     Diabetic mice exhibited cognitive decline, reduced hippocampal miR-223-3p, microglial activation, and elevated NLRP3 and pro-inflammatory cytokines. miR-223-3p knockdown and overexpression induced and attenuated neuroinflammation, respectively. Luciferase reporter gene assays confirmed the direct regulatory of miR-223-3p on NLRP3. Clinically, exosomal miR-223-3p levels were significantly lower in T2DM patients with MCI (n = 98) compared with cognitive normal patients (n = 147), correlating with global cognition, and immediate memory performance. ROC analysis demonstrated that, when using the threshold of 0.7565, miR-223-3p achieved a diagnostic specificity of 71.4% and a sensitivity of 68.7% for identifying MCI.                                                           Conclusions                     miR-223-3p exerts neuroprotective effects by suppressing NLRP3-mediated neuroinflammation. Its downregulation contributes to cognitive impairment in diabetes, and circulating exosomal miR-223-3p represents a potential biomarker for identifying MCI in T2DM.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-09-17",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-18",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261488806",
+        "doi": "10.1177/13872877261488806",
+        "url": "https://doi.org/10.1177/13872877261488806",
+        "title": "Periodontal disease and Alzheimer's disease: A systematic review",
+        "authors": [
+          "María del Carmen Alcaide-Prados",
+          "Gerardo Gómez-Moreno",
+          "Ignacio Osoitz Leizaola-Cardesa",
+          "Gerardo Moreu",
+          "Antonio Roa-López",
+          "Antonio Aguilar-Salvatierra"
+        ],
+        "abstract": "Background                     Periodontitis is a host-mediated inflammatory disease of microbial origin that results in the loss of periodontal attachment. Its effects are not limited to the oral cavity, as association with systemic diseases, including Alzheimer's disease (AD), has been widely reported.                                                           Objective                     To evaluate the evidence regarding the potential relationship between periodontitis and AD through a systematic review.                                                           Methods                     A bibliographic search was conducted in PubMed, Scopus, and WOS. Studies published within the last five years evaluating the biological association between both diseases were selected. The methodological quality and risk of bias of the included studies were assessed using the NOS and ROBINS-I tool, according to the study design.                                                           Results                                            Eleven studies were included. Eight studies analyzed biological samples obtained from brain tissue, blood/serum, saliva, gingival crevicular fluid, and cerebrospinal fluid. Patients with AD exhibited higher levels of periodontopathogenic bacteria, such as                       Porphyromonas gingivalis                       ,                       Fusobacterium nucleatum                       , and                       Prevotella intermedia                       , and an association between bacterial load and systemic inflammatory markers. Although most studies reported an association between periodontitis and AD, the findings were not consistent across studies, as some failed to identify statistically significant differences. Periodontal treatment was associated with a reduction in the AD Score, a neuroimaging surrogate marker of preclinical AD, whereas no effect was observed on brain age gap.                                                                                Conclusions                     Evidence suggests a possible association between periodontitis and AD through inflammatory and neurodegenerative mechanisms. Methodological limitations and study heterogeneity preclude establishing causality, underscoring the need for longitudinal studies and alternative methodological approaches.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-09-17",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-18",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261488814",
+        "doi": "10.1177/13872877261488814",
+        "url": "https://doi.org/10.1177/13872877261488814",
+        "title": "Mobile application-based interventions for subjective memory decline and mild cognitive impairment: A systematic review",
+        "authors": [
+          "Cynthia Zou",
+          "Ana-Sophia Chung",
+          "Milly Tadigiri",
+          "Abha Namjoshi",
+          "Tej Shah",
+          "Ambar Kulshreshtha"
+        ],
+        "abstract": "Background                     Subjective cognitive decline (SCD) and mild cognitive impairment (MCI) are early clinical markers along the continuum from normal aging to dementia. Both conditions are associated with an elevated risk of progression to Alzheimer's disease and related dementias. With SCD affecting up to 25% and MCI up to 25.2% of older adults, there is growing interest in non-pharmacological, multidomain interventions to address modifiable risk factors, reduce progression, and enhance quality of life. Mobile application-based interventions offer a promising avenue for older populations due to their convenience, reduced need for travel, and personalized engagement.                                                           Objective                     This systematic review aimed to evaluate the effectiveness of mobile application-based interventions on cognitive performance in individuals with SCD and/or MCI.                                                           Methods                     A systematic review of randomized controlled trials was conducted to identify mobile application-based interventions targeting SCD and MCI from 2010 to 2025. We conducted a comprehensive search in PubMed, Web of Science, and Scopus databases following PRISMA guidelines.                                                           Results                     A total of 3140 abstracts were screened, of which 19 (0.6%) met the inclusion criteria. Seven studies focused on SCD, while the majority targeted patients with MCI. All but one study reported improvements in at least one cognitive outcome following the intervention.                                                           Conclusions                     Mobile application-based interventions show promising benefits for individuals with SCD and MCI, with most studies reporting improvements in cognitive outcomes, particularly in memory. However, further research with larger samples and more extended follow-up periods is needed to confirm these findings and optimize intervention strategies.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-09-17",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-18",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261488873",
+        "doi": "10.1177/13872877261488873",
+        "url": "https://doi.org/10.1177/13872877261488873",
+        "title": "New mouse models for Down syndrome Alzheimer's disease",
+        "authors": [
+          "Frances K. Wiseman"
+        ],
+        "abstract": "In this issue Ishihara and colleagues report the development and characterization of new mouse models for Down syndrome Alzheimer's disease, the most commonly occurring genetic cause of dementia worldwide. These new models add to the growing portfolio of in vivo models of Down syndrome. In particular, the new Ts1Kei-APPswe/PS1                     dE9                     model may be highly useful for the study and identification of novel treatment targets for late onset myoclonic epilepsy of Down syndrome. This seizure disorder is a common comorbidity of Down syndrome Alzheimer's disease affecting around half of all people with the condition and is associated with particularly adverse clinical outcomes.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-09-17",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-18",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261489299",
+        "doi": "10.1177/13872877261489299",
+        "url": "https://doi.org/10.1177/13872877261489299",
+        "title": "Traumatic brain injury and Alzheimer's disease: The null hypothesis wins",
+        "authors": [
+          "Rudy J. Castellani"
+        ],
+        "abstract": "The theory that traumatic brain injury initiates Alzheimer's disease owes much of its existence to classical studies on boxers. It now appears that both the complexity of postmortem neuropathology and the clinical syndrome were not fully appreciated. Large scale studies linking epidemiology and biology continue to show that chronic effects of traumatic brain injury and Alzheimer's disease pathophysiology are biologically distinct. Researchers are encouraged to look beyond conventional protein precipitates for explanations of clinical deterioration following traumatic brain injury.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-09-17",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-18",
         "fetched_from": "crossref"
       },
       {
@@ -35480,6 +37003,118 @@
         "fetched_from": "crossref"
       },
       {
+        "id": "doi:10.1093/gerona/glag232",
+        "doi": "10.1093/gerona/glag232",
+        "url": "https://doi.org/10.1093/gerona/glag232",
+        "title": "The modifying effect of work-care role conflict on the effectiveness of carer support: Results from the Australian\n                    <i>Draw Care</i>\n                    randomised clinical trial",
+        "authors": [
+          "Duncan Mortimer",
+          "Thu Ha Dang",
+          "Antonia Thodis",
+          "Joanne Enticott",
+          "Yuan Tian",
+          "Simona Markusevska",
+          "Josefine Antoniades",
+          "Tuan Anh Nguyen",
+          "Andrew Simon Gilbert",
+          "Mary Gurgone",
+          "Nalika Ulapane",
+          "Claudia Cooper",
+          "Nilmini Wickramasinghe",
+          "Lily Dongxia Xiao",
+          "Briony Dow",
+          "Mathew Varghese",
+          "Santosh Loganathan",
+          "Bianca Brijnath"
+        ],
+        "abstract": "Abstract                                        Background                     People who care for a family member with dementia alongside paid work often experience role conflict. This study explores whether work-care role conflict (WCRC) modifies the effectiveness of Draw Care, an online and culturally-adapted carer support intervention.                                                           Methods                     Secondary exploratory analysis of a single-blind, parallel-group trial (August 2023–November 2024) that compared Draw Care against waitlist control in adult carers from diverse linguistic backgrounds. To formally test whether WCRC moderated the effect of the Draw-Care intervention, we ran a full-sample linear mixed model that included a three-way interaction between time-point, treatment group and an indicator of WCRC. WCRC was operationalised as self-report of missed work or reduced productivity due to competing care and employment demands. Outcomes included carer burden, mood, quality of life, and productivity/ activity impairment at 6 and 12 weeks.                                                           Results                     Forty-two of 93 carers reported WCRC. Reductions in caregiver burden due to treatment at 6 weeks (-10.00; 95% CI -19.70 to -0.31, p = 0.043) and 12 weeks (-9.56; 95% CI -18.83 to -0.29, p = 0.043) were significantly larger in participants with WCRC than without. This moderating effect of WCRC was driven by a robust, absolute reduction in caregiver burden in intervention group participants with WCRC over the initial 6 weeks (-7.19, 95%CI: -12.72 to -1.67, p = 0.011), with much of this improvement preserved at 12 weeks (-6.85, 95%CI: -12.17 to -1.53, p = 0.012).                                                           Conclusions                     WCRC appears to modify the effectiveness of Draw Care, suggesting that the intervention may be particularly helpful for carers navigating role conflict.",
+        "source": "The Journals of Gerontology, Series A: Biological Sciences and Medical Sciences",
+        "issn": "1079-5006",
+        "date": "2026-09-15",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "elderCare"
+        ],
+        "firstSeen": "2026-09-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/gerona/glag231",
+        "doi": "10.1093/gerona/glag231",
+        "url": "https://doi.org/10.1093/gerona/glag231",
+        "title": "Aging-Related Diseases in the U.S. Population: A Data-Driven Approach Using All of Us Electronic Health Record Data",
+        "authors": [
+          "Buwei He",
+          "Matthew Lohman",
+          "Stephanie Aghamoosa",
+          "Tiejun Zhang",
+          "Bankole Olatosi",
+          "Jiajia Zhang"
+        ],
+        "abstract": "Abstract                                        Background                     Aging is the strongest risk factor for most chronic diseases, yet aging-related diseases (ARDs) lack consistent, data-driven definitions. Prior work has proposed frameworks to classify ARDs based on age-specific onset patterns, but applications have largely relied on demographically homogeneous populations.                                                           Methods                     We extended a data-driven framework integrating unsupervised clustering and actuarial modeling to electronic health record data from 633,547 participants in the U.S. All of Us Research Program. Age-specific onset rates for 274 high-burden diseases between ages 21 and 74 were analyzed. Standardized onset curves were grouped using hierarchical agglomerative clustering. Aging-related patterns were assessed with Gompertz and Gompertz-Makeham (GM) models to quantify age-dependent increases in disease onset.                                                           Results                     Eleven clusters of disease onset trajectories were identified, with four main clusters encompassing 96.0% of diseases. Two clusters exhibited pronounced late-life increases in onset rate, while one showed earlier but moderate age-related increases, and another displayed largely age-independent patterns. Cardiovascular diseases and cancers were enriched in clusters with strong aging-related onset trajectories. Overall, 165 diseases demonstrated strong evidence of being aging-related, characterized by positive Gompertz age coefficients and good GM model fit. Median onset ages varied across clusters and disease categories and showed statistically significant discrepancies compared with U.K. populations.                                                           Conclusions                     In a large, racially diverse U.S. cohort, we identified distinct ARD clusters with shared age-related onset patterns. These findings extend prior work to a more diverse population and support integrated clustering and actuarial approaches to systematically define ARDs and inform aging research and public health strategies.",
+        "source": "The Journals of Gerontology, Series A: Biological Sciences and Medical Sciences",
+        "issn": "1079-5006",
+        "date": "2026-09-15",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "elderCare"
+        ],
+        "firstSeen": "2026-09-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1097/ede.0000000000002050",
+        "doi": "10.1097/ede.0000000000002050",
+        "url": "https://doi.org/10.1097/ede.0000000000002050",
+        "title": "Impact of the first nirsevimab immunization campaign on infant RSV-related emergency department visits and hospitalizations in Québec, Canada",
+        "authors": [
+          "Amandine Bemmo",
+          "Élise Fortin",
+          "Patrick Fortin",
+          "Radhouene Doggui",
+          "Charles-Antoine Guay",
+          "Rachid Amini",
+          "Sara Carazo",
+          "Jesse Papenburg",
+          "Rodica Gilca"
+        ],
+        "abstract": "Objectives.                     During the 2024-2025 respiratory syncytial virus (RSV) season, a universal nirsevimab infant immunization program was implemented in the province of Québec. We evaluated its population-level impact on RSV-related emergency department (ED) visits and hospitalizations in 0-5-month-old infants, using both active surveillance and administrative health data.                                                           Methods.                     Study population included all Québec children &lt;18 years old. We calculated incidence rates of RSV-confirmed hospitalizations, RSV-associated hospitalizations and ED visits linked to a positive RSV test, and acute bronchiolitis ED visits for nirsevimab-eligible (0-5 months old) and non-eligible (6-11 months and 1-17 years old) age groups during the 2024-2025 season. We also compared these 2024-2025 figures to previous seasons using varying lookback periods. Using difference-in-differences and constant proportion of admissions counterfactual approaches, pre-/post-intervention variations in 0-5-month-olds were adjusted for any time trends occurring in non-targeted age groups.                                                           Results.                     Decreases of 59% (95% CI: 49–70) and 66% (95% CI: 58–71) were observed in RSV-confirmed and RSV-associated hospitalizations, respectively. Acute bronchiolitis ED visits decreased by 35% (95% CI: 28–41), and RSV-associated ED visits by 60% (95% CI: 56–65). In the 2024-25 season, ED visits and hospitalizations were less frequent than expected (i.e. without nirsevimab) in 0-5-month-old infants, suggesting that between 323 and 746 hospitalizations may have been prevented.                                                           Conclusion.                     The 2024-2025 nirsevimab campaign was associated with a two-thirds reduction in RSV-related hospitalizations and RSV-associated ED visits in Québec among 0-5-month-old infants. ED visits for acute bronchiolitis were also reduced by a third.",
+        "source": "Epidemiology",
+        "issn": "1044-3983",
+        "date": "2026-09-15",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1097/ede.0000000000002049",
+        "doi": "10.1097/ede.0000000000002049",
+        "url": "https://doi.org/10.1097/ede.0000000000002049",
+        "title": "Indirect Estimation of the Number of Prevalent Cases – Relaxing the Steady State Assumption",
+        "authors": [
+          "W. Dana Flanders",
+          "Michael Goodman",
+          "Cathy Lally"
+        ],
+        "abstract": "Background:                     Prevalence is an important measure of disease frequency, helping characterize disease burden and health care needs. If direct estimates are unavailable (e.g. from surveys), the number of prevalent cases can be estimated indirectly as the number of incident cases per unit time times the average duration of disease. This formula, however, is based on a steady-state assumption which is often unrealistic, potentially precluding use of this indirect approach.                                                           Methods:                     We derive and illustrate use of an alternative formula relating numbers of prevalent cases, numbers of incident cases over time, the average disease duration and the mean square duration.                                                           Results:                     Examples illustrate use of our formula and that results are somewhat robust to the number of time periods used to estimate the linear trend in case incidence.                                                           Conclusion:                     Our formula does not require a steady-state assumption and applies provided temporal changes in incident cases are approximately linear.",
+        "source": "Epidemiology",
+        "issn": "1044-3983",
+        "date": "2026-09-15",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-17",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1177/13872877261487380",
         "doi": "10.1177/13872877261487380",
         "url": "https://doi.org/10.1177/13872877261487380",
@@ -35697,115 +37332,33 @@
         "fetched_from": "crossref"
       },
       {
-        "id": "doi:10.1093/gerona/glag232",
-        "doi": "10.1093/gerona/glag232",
-        "url": "https://doi.org/10.1093/gerona/glag232",
-        "title": "The modifying effect of work-care role conflict on the effectiveness of carer support: Results from the Australian\n                    <i>Draw Care</i>\n                    randomised clinical trial",
+        "id": "doi:10.1177/13872877261487127",
+        "doi": "10.1177/13872877261487127",
+        "url": "https://doi.org/10.1177/13872877261487127",
+        "title": "Associations of plasma lipid burden with cognitive performance and decline across dementia with Lewy bodies, Alzheimer's disease, and Parkinson's disease dementia",
         "authors": [
-          "Duncan Mortimer",
-          "Thu Ha Dang",
-          "Antonia Thodis",
-          "Joanne Enticott",
-          "Yuan Tian",
-          "Simona Markusevska",
-          "Josefine Antoniades",
-          "Tuan Anh Nguyen",
-          "Andrew Simon Gilbert",
-          "Mary Gurgone",
-          "Nalika Ulapane",
-          "Claudia Cooper",
-          "Nilmini Wickramasinghe",
-          "Lily Dongxia Xiao",
-          "Briony Dow",
-          "Mathew Varghese",
-          "Santosh Loganathan",
-          "Bianca Brijnath"
+          "Zhou Su",
+          "Mengran Liu",
+          "Li Su",
+          "Jun Kuai",
+          "Bin Xu",
+          "Congcong Wang",
+          "Min Su",
+          "Yuechang Zheng",
+          "Junyu Peng",
+          "Xinran Bao",
+          "Meimei Zuo",
+          "Xia Guo"
         ],
-        "abstract": "Abstract                                        Background                     People who care for a family member with dementia alongside paid work often experience role conflict. This study explores whether work-care role conflict (WCRC) modifies the effectiveness of Draw Care, an online and culturally-adapted carer support intervention.                                                           Methods                     Secondary exploratory analysis of a single-blind, parallel-group trial (August 2023–November 2024) that compared Draw Care against waitlist control in adult carers from diverse linguistic backgrounds. To formally test whether WCRC moderated the effect of the Draw-Care intervention, we ran a full-sample linear mixed model that included a three-way interaction between time-point, treatment group and an indicator of WCRC. WCRC was operationalised as self-report of missed work or reduced productivity due to competing care and employment demands. Outcomes included carer burden, mood, quality of life, and productivity/ activity impairment at 6 and 12 weeks.                                                           Results                     Forty-two of 93 carers reported WCRC. Reductions in caregiver burden due to treatment at 6 weeks (-10.00; 95% CI -19.70 to -0.31, p = 0.043) and 12 weeks (-9.56; 95% CI -18.83 to -0.29, p = 0.043) were significantly larger in participants with WCRC than without. This moderating effect of WCRC was driven by a robust, absolute reduction in caregiver burden in intervention group participants with WCRC over the initial 6 weeks (-7.19, 95%CI: -12.72 to -1.67, p = 0.011), with much of this improvement preserved at 12 weeks (-6.85, 95%CI: -12.17 to -1.53, p = 0.012).                                                           Conclusions                     WCRC appears to modify the effectiveness of Draw Care, suggesting that the intervention may be particularly helpful for carers navigating role conflict.",
-        "source": "The Journals of Gerontology, Series A: Biological Sciences and Medical Sciences",
-        "issn": "1079-5006",
+        "abstract": "Background                     Peripheral lipid dysregulation has been implicated in neurodegeneration, but most studies have focused on single lipid measures within one dementia subtype.                                                           Objective                     To determine whether a composite plasma lipid burden score (PLBS), derived from routine fasting lipid indices, differs across dementia with Lewy bodies (DLB), Alzheimer's disease (AD), and Parkinson's disease dementia (PDD) and whether it relates to baseline cognition and subsequent cognitive decline.                                                           Methods                     We conducted a longitudinal observational study including 227 patients with probable DLB (n = 65), AD (n = 79), or PDD (n = 83). PLBS was defined as the unweighted mean of z-standardized non-HDL cholesterol, remnant cholesterol, apolipoprotein B, apolipoprotein B/apolipoprotein A1, LDL-C/HDL-C, triglyceride/HDL-C, and triglyceride-glucose index. Multivariable linear regression and linear mixed-effects models were used to examine associations with baseline cognition and annualized cognitive decline.                                                           Results                     PLBS differed significantly across diagnoses and showed the clearest separation among lipid-related measures, with higher values in DLB and PDD than in AD. Higher PLBS was associated with poorer baseline global cognition and faster longitudinal decline. These associations appeared to be numerically more pronounced in DLB, with intermediate estimates in PDD and weaker estimates in AD in this exploratory analysis. Higher PLBS was linked to poorer attention and visuospatial/executive performance and greater rapid cognitive decline.                                                           Conclusions                     An adverse plasma lipid burden profile is associated with worse cognition and faster decline across degenerative dementias, with the strongest effects in DLB. Routinely lipid-derived indices may complement existing approaches to longitudinal risk assessment. These findings require independent external validation and formal evaluation of predictive performance before clinical application.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
         "date": "2026-09-15",
         "subjects": [],
         "domains": [
-          "agingHealth",
-          "elderCare"
+          "agingHealth"
         ],
-        "firstSeen": "2026-09-17",
-        "fetched_from": "crossref"
-      },
-      {
-        "id": "doi:10.1093/gerona/glag231",
-        "doi": "10.1093/gerona/glag231",
-        "url": "https://doi.org/10.1093/gerona/glag231",
-        "title": "Aging-Related Diseases in the U.S. Population: A Data-Driven Approach Using All of Us Electronic Health Record Data",
-        "authors": [
-          "Buwei He",
-          "Matthew Lohman",
-          "Stephanie Aghamoosa",
-          "Tiejun Zhang",
-          "Bankole Olatosi",
-          "Jiajia Zhang"
-        ],
-        "abstract": "Abstract                                        Background                     Aging is the strongest risk factor for most chronic diseases, yet aging-related diseases (ARDs) lack consistent, data-driven definitions. Prior work has proposed frameworks to classify ARDs based on age-specific onset patterns, but applications have largely relied on demographically homogeneous populations.                                                           Methods                     We extended a data-driven framework integrating unsupervised clustering and actuarial modeling to electronic health record data from 633,547 participants in the U.S. All of Us Research Program. Age-specific onset rates for 274 high-burden diseases between ages 21 and 74 were analyzed. Standardized onset curves were grouped using hierarchical agglomerative clustering. Aging-related patterns were assessed with Gompertz and Gompertz-Makeham (GM) models to quantify age-dependent increases in disease onset.                                                           Results                     Eleven clusters of disease onset trajectories were identified, with four main clusters encompassing 96.0% of diseases. Two clusters exhibited pronounced late-life increases in onset rate, while one showed earlier but moderate age-related increases, and another displayed largely age-independent patterns. Cardiovascular diseases and cancers were enriched in clusters with strong aging-related onset trajectories. Overall, 165 diseases demonstrated strong evidence of being aging-related, characterized by positive Gompertz age coefficients and good GM model fit. Median onset ages varied across clusters and disease categories and showed statistically significant discrepancies compared with U.K. populations.                                                           Conclusions                     In a large, racially diverse U.S. cohort, we identified distinct ARD clusters with shared age-related onset patterns. These findings extend prior work to a more diverse population and support integrated clustering and actuarial approaches to systematically define ARDs and inform aging research and public health strategies.",
-        "source": "The Journals of Gerontology, Series A: Biological Sciences and Medical Sciences",
-        "issn": "1079-5006",
-        "date": "2026-09-15",
-        "subjects": [],
-        "domains": [
-          "agingHealth",
-          "elderCare"
-        ],
-        "firstSeen": "2026-09-17",
-        "fetched_from": "crossref"
-      },
-      {
-        "id": "doi:10.1097/ede.0000000000002050",
-        "doi": "10.1097/ede.0000000000002050",
-        "url": "https://doi.org/10.1097/ede.0000000000002050",
-        "title": "Impact of the first nirsevimab immunization campaign on infant RSV-related emergency department visits and hospitalizations in Québec, Canada",
-        "authors": [
-          "Amandine Bemmo",
-          "Élise Fortin",
-          "Patrick Fortin",
-          "Radhouene Doggui",
-          "Charles-Antoine Guay",
-          "Rachid Amini",
-          "Sara Carazo",
-          "Jesse Papenburg",
-          "Rodica Gilca"
-        ],
-        "abstract": "Objectives.                     During the 2024-2025 respiratory syncytial virus (RSV) season, a universal nirsevimab infant immunization program was implemented in the province of Québec. We evaluated its population-level impact on RSV-related emergency department (ED) visits and hospitalizations in 0-5-month-old infants, using both active surveillance and administrative health data.                                                           Methods.                     Study population included all Québec children &lt;18 years old. We calculated incidence rates of RSV-confirmed hospitalizations, RSV-associated hospitalizations and ED visits linked to a positive RSV test, and acute bronchiolitis ED visits for nirsevimab-eligible (0-5 months old) and non-eligible (6-11 months and 1-17 years old) age groups during the 2024-2025 season. We also compared these 2024-2025 figures to previous seasons using varying lookback periods. Using difference-in-differences and constant proportion of admissions counterfactual approaches, pre-/post-intervention variations in 0-5-month-olds were adjusted for any time trends occurring in non-targeted age groups.                                                           Results.                     Decreases of 59% (95% CI: 49–70) and 66% (95% CI: 58–71) were observed in RSV-confirmed and RSV-associated hospitalizations, respectively. Acute bronchiolitis ED visits decreased by 35% (95% CI: 28–41), and RSV-associated ED visits by 60% (95% CI: 56–65). In the 2024-25 season, ED visits and hospitalizations were less frequent than expected (i.e. without nirsevimab) in 0-5-month-old infants, suggesting that between 323 and 746 hospitalizations may have been prevented.                                                           Conclusion.                     The 2024-2025 nirsevimab campaign was associated with a two-thirds reduction in RSV-related hospitalizations and RSV-associated ED visits in Québec among 0-5-month-old infants. ED visits for acute bronchiolitis were also reduced by a third.",
-        "source": "Epidemiology",
-        "issn": "1044-3983",
-        "date": "2026-09-15",
-        "subjects": [],
-        "domains": [
-          "agingHealth",
-          "healthReform"
-        ],
-        "firstSeen": "2026-09-17",
-        "fetched_from": "crossref"
-      },
-      {
-        "id": "doi:10.1097/ede.0000000000002049",
-        "doi": "10.1097/ede.0000000000002049",
-        "url": "https://doi.org/10.1097/ede.0000000000002049",
-        "title": "Indirect Estimation of the Number of Prevalent Cases – Relaxing the Steady State Assumption",
-        "authors": [
-          "W. Dana Flanders",
-          "Michael Goodman",
-          "Cathy Lally"
-        ],
-        "abstract": "Background:                     Prevalence is an important measure of disease frequency, helping characterize disease burden and health care needs. If direct estimates are unavailable (e.g. from surveys), the number of prevalent cases can be estimated indirectly as the number of incident cases per unit time times the average duration of disease. This formula, however, is based on a steady-state assumption which is often unrealistic, potentially precluding use of this indirect approach.                                                           Methods:                     We derive and illustrate use of an alternative formula relating numbers of prevalent cases, numbers of incident cases over time, the average disease duration and the mean square duration.                                                           Results:                     Examples illustrate use of our formula and that results are somewhat robust to the number of time periods used to estimate the linear trend in case incidence.                                                           Conclusion:                     Our formula does not require a steady-state assumption and applies provided temporal changes in incident cases are approximately linear.",
-        "source": "Epidemiology",
-        "issn": "1044-3983",
-        "date": "2026-09-15",
-        "subjects": [],
-        "domains": [
-          "agingHealth",
-          "healthReform"
-        ],
-        "firstSeen": "2026-09-17",
+        "firstSeen": "2026-09-18",
         "fetched_from": "crossref"
       },
       {
@@ -38853,6 +40406,109 @@
         "fetched_from": "crossref"
       },
       {
+        "id": "doi:10.1093/bjsw/bcag193",
+        "doi": "10.1093/bjsw/bcag193",
+        "url": "https://doi.org/10.1093/bjsw/bcag193",
+        "title": "Food insecurity and mental health over time: Separate tests of loneliness as a mediator and as a moderator",
+        "authors": [
+          "Lei Chai"
+        ],
+        "abstract": "Abstract                   Food insecurity is widely recognized as an important social determinant of mental health, yet the processes linking food insecurity to mental well-being remain insufficiently understood. This study conducted two separate longitudinal analyses to examine (1) whether loneliness mediates the association between food insecurity and mental health, consistent with the stress proliferation perspective, and (2) whether loneliness moderates this association, consistent with the stress amplification perspective. Data came from two waves of the UK Household Longitudinal Study (N = 40,288 person-years), including the most recently released wave as of December 2025. Fixed-effects regression models were used to estimate within-individual changes over time. Results indicated that food insecurity was associated with poorer mental health over time. In the mediation analysis, loneliness accounted for part of this association. In the moderation analysis, the adverse association between food insecurity and mental health was stronger among individuals reporting higher levels of loneliness. From a social work perspective, these findings underscore the value of interventions that combine material support with strategies that strengthen social connectedness and emotional support. Integrating food assistance with relationship-building and community-based supports may help reduce the mental health burden of food insecurity and promote more equitable well-being.",
+        "source": "The British Journal of Social Work",
+        "issn": "0045-3102",
+        "date": "2026-09-17",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-09-18",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/bjsw/bcag205",
+        "doi": "10.1093/bjsw/bcag205",
+        "url": "https://doi.org/10.1093/bjsw/bcag205",
+        "title": "Anicinapek men’s perceptions on traditional and non-Indigenous medicine",
+        "authors": [
+          "Virginie Ciléus",
+          "Oscar Labra",
+          "Augustin Ependa"
+        ],
+        "abstract": "Abstract                   This exploratory qualitative study examines the healthcare experiences of sixteen Anicinapek men from the communities of Lac Simon and Kitcisakik in north-western Quebec, Canada, focusing on their perspectives regarding Indigenous and non-Indigenous medicine. Participants expressed strong support for Indigenous medicine, valuing its role in long-term healing, its deep spiritual connection, and its grounding in ancestral knowledge and cultural identity. While some voiced concerns about biomedical care, most acknowledged its importance, particularly for the treatment of chronic conditions. The findings highlight the need for social workers and healthcare professionals to adopt culturally responsive approaches that integrate traditional healing practices within contemporary care models. Recognizing the Indigenous wellness wheel, which encompasses physical, mental, emotional, and spiritual dimensions, as a guiding framework is essential. Such practice also requires an understanding of the ongoing impacts of colonization and intergenerational trauma, as well as the central role Indigenous medicine plays in community resilience and self-determination.",
+        "source": "The British Journal of Social Work",
+        "issn": "0045-3102",
+        "date": "2026-09-17",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-09-18",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/hsw/hlag041",
+        "doi": "10.1093/hsw/hlag041",
+        "url": "https://doi.org/10.1093/hsw/hlag041",
+        "title": "Bridging the Diagnostic Gap: Rethinking Autism Spectrum Disorder versus Borderline Personality Disorder in Women",
+        "authors": [
+          "Katie Newberry",
+          "Shahnaz Savani"
+        ],
+        "abstract": "",
+        "source": "Health &amp; Social Work",
+        "issn": "0360-7283",
+        "date": "2026-09-17",
+        "subjects": [],
+        "domains": [
+          "socialWork",
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-18",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/hsw/hlag045",
+        "doi": "10.1093/hsw/hlag045",
+        "url": "https://doi.org/10.1093/hsw/hlag045",
+        "title": "A Reflection on 25 Years of Transforming Global Health through the International Classification of Functioning, Disability and Health",
+        "authors": [
+          "Patricia Welch Saleeby"
+        ],
+        "abstract": "",
+        "source": "Health &amp; Social Work",
+        "issn": "0360-7283",
+        "date": "2026-09-17",
+        "subjects": [],
+        "domains": [
+          "socialWork",
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-18",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/hsw/hlag042",
+        "doi": "10.1093/hsw/hlag042",
+        "url": "https://doi.org/10.1093/hsw/hlag042",
+        "title": "The Bridge to Life: Social Workers as Financial Navigators in the Kidney Transplantation Ecosystem in Resource-Constrained Settings",
+        "authors": [
+          "Chimezie G Okwuonu",
+          "Oluchi J Chimezie",
+          "Rasheed A Balogun"
+        ],
+        "abstract": "",
+        "source": "Health &amp; Social Work",
+        "issn": "0360-7283",
+        "date": "2026-09-17",
+        "subjects": [],
+        "domains": [
+          "socialWork",
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-18",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1177/10497315261487123",
         "doi": "10.1177/10497315261487123",
         "url": "https://doi.org/10.1177/10497315261487123",
@@ -40076,11 +41732,11 @@
     ]
   },
   "totals": {
-    "socialSecurity": 1524,
-    "elderCare": 123,
-    "healthReform": 276,
-    "agingHealth": 182,
-    "socialWork": 69
+    "socialSecurity": 1526,
+    "elderCare": 143,
+    "healthReform": 289,
+    "agingHealth": 208,
+    "socialWork": 74
   },
   "feeds_ok": 41
 }
