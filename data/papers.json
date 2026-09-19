@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-18",
-  "fetched": "2026-09-18T06:11:44+00:00",
+  "date": "2026-09-19",
+  "fetched": "2026-09-19T06:09:47+00:00",
   "domains": {
     "socialSecurity": [
       {
@@ -23288,6 +23288,58 @@
     ],
     "elderCare": [
       {
+        "id": "doi:10.1186/s12877-026-08302-z",
+        "doi": "10.1186/s12877-026-08302-z",
+        "url": "https://doi.org/10.1186/s12877-026-08302-z",
+        "title": "Associations between benzene exposure and allergic rhinitis risk and survival in older adults: the mediating role of biological aging and the moderating influence of genetic susceptibility",
+        "authors": [
+          "Jingyuan Zhang",
+          "Bo Gou",
+          "Jia Li",
+          "Jing Zhang",
+          "Chi Chen",
+          "Yuxi Wei",
+          "Hong Cao"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-19",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-19",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08309-6",
+        "doi": "10.1186/s12877-026-08309-6",
+        "url": "https://doi.org/10.1186/s12877-026-08309-6",
+        "title": "Prevalence of diabetes, self-management behaviors, and their association with activities of daily living among older adults in rural southwest China",
+        "authors": [
+          "Zi-zi Yu",
+          "Guo-hui Li",
+          "Jing-jing Huang",
+          "Qing-rou Bao",
+          "Rui-min Shi",
+          "Allison Rabkin Golden",
+          "Le Cai"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-19",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-19",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1186/s12877-026-08291-z",
         "doi": "10.1186/s12877-026-08291-z",
         "url": "https://doi.org/10.1186/s12877-026-08291-z",
@@ -23403,6 +23455,264 @@
           "agingHealth"
         ],
         "firstSeen": "2026-09-18",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/gerona/glag229",
+        "doi": "10.1093/gerona/glag229",
+        "url": "https://doi.org/10.1093/gerona/glag229",
+        "title": "Performance of Claims-based Frailty Indices in Medicare Advantage and Fee-for-Service Populations",
+        "authors": [
+          "Lan Luo",
+          "Kevin Pritchard",
+          "Chan Mi Park",
+          "Xiecheng Chen",
+          "Eunji G Kim",
+          "Ellen P McCarthy",
+          "Dae Hyun Kim",
+          "Sandra M Shi"
+        ],
+        "abstract": "Abstract                                        Background                     Despite growing enrollment in Medicare Advantage (MA) plans, the performance of claims-based frailty algorithms, which were developed for Medicare fee-for-service (FFS), remains unclear in MA.                                                           Methods                     We calculated the Kim claims-based frailty index (CFI), Veterans Affairs-Frailty Index (VA-FI), and Hospital Frailty Risk Score (HFRS) using the National Health and Aging Trends Study linked to Medicare fee-for-service (FFS) and MA data. We evaluated their performance against the comprehensive geriatric assessment-based frailty index (CGA-FI) and the frailty phenotype (FP) in Round 11 and Round 9.                                                           Results                     Among 1,527 FFS and 1,457 MA beneficiaries in Round 11, frailty prevalence was 34.2% and 35.5%, respectively, by CGA-FI ≥0.25, and 13.3% and 16.2%, respectively, by FP. Across FFS and MA populations, the CFI, which prioritizes specificity and positive predictive value, classified 10-12% of the overall population and 30-36% of those with prior hospitalization as frail, whereas the VA-FI and HFRS, which emphasize sensitivity, classified 53-71% of the overall population and 56-87% of those with prior hospitalization as frail. Although claims-based frailty measures performed similarly across FFS and MA populations, their discriminatory ability was higher for CGA-FI ≥0.25 (C-statistics: CFI, 0.79-0.82; VA-FI, 0.77-0.82; HFRS, 0.63-0.77) than for FP (CFI, 0.71-0.77; VA-FI, 0.67-0.75; HFRS, 0.60-0.74). Performance was consistent by race and survey rounds, with modestly better discrimination in women than men.                                                           Conclusions                     Claims-based frailty measures are scalable tools for contemporary FFS and MA populations. However applying published thresholds led to differences in frailty prevalence and model performances. Thresholds should therefore be tailored to the intended.",
+        "source": "The Journals of Gerontology, Series A: Biological Sciences and Medical Sciences",
+        "issn": "1079-5006",
+        "date": "2026-09-18",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "elderCare"
+        ],
+        "firstSeen": "2026-09-19",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/gerona/glag230",
+        "doi": "10.1093/gerona/glag230",
+        "url": "https://doi.org/10.1093/gerona/glag230",
+        "title": "Performance of Chronic Conditions Data Warehouse Algorithms in Medicare Advantage and Fee-For-Service Populations",
+        "authors": [
+          "Chan Mi Park",
+          "Xiecheng Chen",
+          "Sandra Shi",
+          "Lan Luo",
+          "Eunji G Kim",
+          "Emilie D Duchesneau",
+          "Lily Zhong",
+          "Dae Hyun Kim",
+          "Ellen P McCarthy"
+        ],
+        "abstract": "Abstract                                        Background                     The Centers for Medicare &amp; Medicaid Services (CMS) Chronic Conditions Data Warehouse (CCW) algorithms are widely used to identify chronic conditions in Medicare fee-for-service (FFS) claims. However, their validity in Medicare Advantage (MA) encounters remains uncertain.                                                           Methods                     We conducted a cross-sectional study using the National Health and Aging Trends Study linked to Medicare data. We analyzed NHATS Rounds 9 and 11, aged≥65 years, with continuous 24-month enrollment in MA or FFS. CCW algorithms were applied to identify six conditions: arthritis, chronic lung disease, diabetes, heart disease, hypertension, and osteoporosis. Self-reported, physician-diagnosed conditions from NHATS interviews served as the reference standard. Survey-weighted sensitivity, specificity, positive predictive value (PPV), negative predictive value (NPV), and balanced accuracy were compared between MA and FFS.                                                           Results                     We included 1,708 MA and 2,239 FFS beneficiaries in Round 9 and 1,472 MA and 1,566 FFS beneficiaries in Round 11. Across both rounds, balanced accuracy was similar between MA and FFS for all six conditions. Diabetes and hypertension demonstrated high sensitivity (0.88–0.94), while arthritis and osteoporosis showed lower sensitivity but high specificity. Although statistically significant MA–FFS differences were observed for select metrics (diabetes PPV in Round 9; chronic lung disease specificity in Round 11), absolute differences were minor and not clinically meaningful.                                                           Conclusions                     CCW algorithms perform comparably in MA and FFS Medicare data. These findings support the validity of using CCW algorithms in MA encounter data for epidemiologic research for risk adjustment, facilitating more generalizable studies of the growing MA population.",
+        "source": "The Journals of Gerontology, Series A: Biological Sciences and Medical Sciences",
+        "issn": "1079-5006",
+        "date": "2026-09-18",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "elderCare"
+        ],
+        "firstSeen": "2026-09-19",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/gerona/glag237",
+        "doi": "10.1093/gerona/glag237",
+        "url": "https://doi.org/10.1093/gerona/glag237",
+        "title": "Performance of Claims-based Alzheimer’s Disease and Related Dementias Algorithms in Medicare Advantage and Fee-for-Service Populations",
+        "authors": [
+          "You Wu",
+          "Chan Mi Park",
+          "Xiecheng Chen",
+          "Lan Luo",
+          "Eunji G Kim",
+          "Sandra M Shi",
+          "Dae Hyun Kim",
+          "Ellen P McCarthy"
+        ],
+        "abstract": "Abstract                                        Background                     Evidence comparing the performance of claims-based dementia algorithms across Medicare Advantage (MA) and fee-for-service (FFS) populations remains limited. We evaluated the validity of two claims-based algorithms across MA and FFS populations.                                                           Methods                     We used nationally representative, linked National Health and Aging Trends Study (NHATS)-Medicare data to identify community-dwelling participants with continuous enrollment in MA or FFS during Round 7 (2017; n = 5,018), Round 9 (2019; n = 4,018), and Round 11 (2021-2022; n = 3,086). Using NHATS probable dementia as reference standard, we validated the Bynum-Standard and Chronic Condition Warehouse (CCW) dementia algorithms across three time points.                                                           Results                     Overall, both algorithms demonstrated comparable performance in MA and FFS populations, with high specificity (&amp;gt;97.9%) and negative predictive value [NPV] (&amp;gt;92.9%). The Bynum algorithm showed similar sensitivity between MA and FFS in Rounds 7 (30.2% vs. 29.1%) and 11 (25.6% vs. 23.9%), but lower sensitivity in MA for Round 9 (25.0% vs. 36.4%). Positive predictive value [PPV] was similar between MA (62.7%-70.6%) and FFS (62.1%-70.4%) across all rounds. The CCW algorithm demonstrated greater MA-FFS differences, with lower sensitivity in MA for Rounds 9 (30.8% vs. 46.9%) and 11 (35.0% vs. 49.3%) and similar sensitivity for Round 7 (40.4% vs. 42.2%). PPV varied across rounds in both MA and FFS [(Round 7: 76.3% vs. 71.2%) to (Round 11: 68.5% vs. 76.4%)]. Both algorithms identified participants with more severe dementia.                                                           Conclusion                     Claims-based dementia algorithms demonstrate broadly consistent performance in MA and FFS populations, with high specificity and moderate PPV but comparable or lower sensitivity in MA, informing case ascertainment across Medicare plan type.",
+        "source": "The Journals of Gerontology, Series A: Biological Sciences and Medical Sciences",
+        "issn": "1079-5006",
+        "date": "2026-09-18",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "elderCare"
+        ],
+        "firstSeen": "2026-09-19",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70718",
+        "doi": "10.1111/jgs.70718",
+        "url": "https://doi.org/10.1111/jgs.70718",
+        "title": "Acute Care Group‐Based Physical Therapy on an Inpatient Geriatrics Unit: Preliminary Data",
+        "authors": [
+          "James P. Crick",
+          "Laura Hull",
+          "Samuel Maag",
+          "Gabriel N. Alain"
+        ],
+        "abstract": "ABSTRACT                                        Background                     Hospitalized older adults are at high risk for hospital‐associated disability, but one‐to‐one physical therapy (PT) models often cannot meet demand for skilled mobility progression. Group‐based PT is effective in outpatient and rehabilitation settings, but its feasibility in acute inpatient care is unknown.                                                           Methods                     We conducted a single‐site, prospective quality improvement implementation of acute care group‐based PT (AC‐GBPT) on a 39‐bed medical‐surgical geriatrics unit at an academic medical center. Sessions were offered weekly during routine clinical operations without additional staffing. Eligible patients were 60 years and older, had an active PT plan of care, were medically stable, and could transfer to a chair with human assistance. Feasibility outcomes included number of sessions delivered, participants per session, recruitment, reasons for non‐participation, and adverse events. We also summarized participant characteristics and therapist productivity on days with versus without a group session.                                                           Results                     From March 19, 2025, through February 18, 2026, 37 sessions were delivered, with a mean of 4.22 participants per session (range 3–6). Across the period, 156 unique patient participations were recorded, and 69% of patients approached participated. At the time of participation, mean age was 77.9 years and mean time since admission was 8.6 days. No safety events occurred during or immediately after group sessions. Mean therapist productivity was notably higher on group days than on non‐group days (1.59 vs. 1.31 patients/h; approximately 21% higher).                                                           Conclusions                     A once‐weekly AC‐GBPT model for selected hospitalized older adults was feasible to deliver using existing resources and showed promising reach, safety, and operational performance, suggesting it may extend PT to more patients. Further work should assess patient acceptability, fully characterize staff time requirements, and assess patient‐centered outcomes.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-09-18",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-19",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70720",
+        "doi": "10.1111/jgs.70720",
+        "url": "https://doi.org/10.1111/jgs.70720",
+        "title": "Extreme Temperatures, Elevated\n                    <scp>PM2.5</scp>\n                    , and Acute Care Events Among Dual‐Eligible Nursing Facility Residents",
+        "authors": [
+          "Hyunjee Kim",
+          "Clint Sergi",
+          "Angela Senders",
+          "Katherine Courchaine",
+          "Luke Montrose",
+          "Ethan S. Walker"
+        ],
+        "abstract": "ABSTRACT                                        Background                     Extreme temperatures and elevated fine particulate matter (PM2.5; particles 2.5 μm or less) pose serious health risks for older adults. Nursing facility residents may be especially susceptible because they have complex health needs and limited ability to self‐protect, and because nursing facility construction and HVAC capacity can be insufficient to buffer indoor environments from outdoor extremes. Yet, nursing facility regulations address only indoor temperature with no comparable standards for indoor air quality, including PM2.5. We assessed whether outdoor extreme heat, extreme cold, and elevated PM2.5 were associated with emergency department (ED) visits and hospitalizations among nursing facility residents.                                                           Methods                                            Using 2017–2020 Medicare and Medicaid claims linked to daily weather data, we conducted longitudinal analyses with nursing facility fixed effects to estimate associations between extreme heat, extreme cold, and elevated PM2.5 (PM2.5 &gt; 9 μg/m                       3                       ) and all‐cause ED visits and hospitalizations among dual‐eligible nursing facility residents aged 65 years and older.                                                                                Results                     The sample included 24,784,081 nursing facility‐days from 24,760 facilities across 47 states and Washington, DC. Extreme temperature and elevated PM2.5 were associated with increased acute care utilization. On extreme heat days, ED visits and hospitalizations increased by 0.022 (95% CI, 0.003–0.041) and 0.025 (95% CI, 0.011–0.039) per 1000 resident‐days, respectively. On elevated PM2.5 days, corresponding increases were 0.020 (95% CI, 0.013–0.027) and 0.017 (95% CI, 0.012–0.022) per 1000 resident‐days. Extreme cold was also associated with an increase in hospitalizations of 0.014 per 1000 resident‐days (95% CI, 0.001–0.027).                                                           Conclusions                     Among nursing facility residents, acute care events increased on extreme temperature days despite the existing indoor temperature regulations. Acute care events also increased on elevated PM2.5 days. These findings suggest that environmental exposures contributed to acute care utilization among nursing facility residents.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-09-18",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-19",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70719",
+        "doi": "10.1111/jgs.70719",
+        "url": "https://doi.org/10.1111/jgs.70719",
+        "title": "Knowledge of Community Services Among Clinicians Who Care for Patients With Dementia",
+        "authors": [
+          "Alexander Chaitoff",
+          "Elizabeth M. White",
+          "Rachel C. Davis",
+          "Donovan T. Maust"
+        ],
+        "abstract": "",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-09-18",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-19",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70732",
+        "doi": "10.1111/jgs.70732",
+        "url": "https://doi.org/10.1111/jgs.70732",
+        "title": "Association Between Large Language Model‐Derived Mobility Functional Status Assessment and Clinical Outcomes",
+        "authors": [
+          "Sandeep Pagali",
+          "Xingyi Liu",
+          "Heling Jia",
+          "Karen Fischer",
+          "Muskan Garg",
+          "Eunji Jeon",
+          "Cynthia S. Crowson",
+          "Jennifer St. Sauver",
+          "Sunghwan Sohn"
+        ],
+        "abstract": "ABSTRACT                                        Background                     Mobility functional status is inconsistently recorded in electronic health records. Recent advances in Large Language Models (LLMs) enable automated extraction of functional information from unstructured clinical notes. Leveraging a validated functional LLM with high performance in mobility extraction, we aimed to study the association between LLM‐derived mobility functional status and clinical outcomes, including emergency department (ED) visits, hospitalizations, and mortality.                                                           Methods                     Individuals aged 60 years and older enrolled in the Mayo Clinic Study of Aging, with documented clinical notes in 2022 were included. Individuals without any identifiable functional information were excluded. The LLM‐derived mobility functional status categorized mobility as impaired or unimpaired, across the five mobility domains as classified by International Classification of Functioning, Disability, and Health. Clinical outcomes in 2023 were extracted from the Rochester Epidemiology Project database. Logistic regression models assessed associations between mobility impairment and outcomes, adjusted for age, sex, Elixhauser comorbidity index, and education.                                                           Results                                            Three thousand three hundred thirty‐seven individuals were screened, of whom three hundred forty‐three had no functional information. Two thousand nine hundred ninety‐four individuals were analyzed. 79.4% had at least one mobility impairment. Higher mobility impairment is associated with older age and greater Elixhauser comorbidity. Individuals with 3 or more impairments had an increased adjusted odds of ED visits (Adjusted Odds Ratio (aOR): 2.18 (1.64, 2.90)) and hospitalizations (aOR: 2.35 (1.51, 3.65)) compared to unimpaired individuals (                       p                        &lt; 0.001), while mortality did not demonstrate a significant association with mobility impairment.                                                                                Conclusion                     LLM‐derived mobility functional status assessment was associated with ED visits and hospitalization, but not with all‐cause mortality after adjustment. Prospective validation and evaluation of incremental discrimination, calibration, and clinical utility are needed before clinical implementation.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-09-18",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-19",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70723",
+        "doi": "10.1111/jgs.70723",
+        "url": "https://doi.org/10.1111/jgs.70723",
+        "title": "Inpatient Implementation of Age‐Friendly Health Systems: Qualitative Insights From Three Veterans Affairs Medical Centers",
+        "authors": [
+          "Brooke V. Jespersen",
+          "Mary K. Good",
+          "Brittany L. Anderson",
+          "Samantha Solimeo",
+          "James L. Rudolph",
+          "Scotte Hartronft",
+          "Michelle A. Mengeling",
+          "Heather Davila"
+        ],
+        "abstract": "ABSTRACT                                        Background                     Implementation of Age‐Friendly Health Systems (AFHS)—an initiative promoting healthcare safety and quality for older adults—is particularly important in inpatient settings, where older adults are at increased risk of hospital‐associated complications and disability. The Veterans Health Administration (VHA) is the largest integrated AFHS in the country, but AFHS inpatient implementation within VHA is heterogeneous. To support broader implementation, we selected high‐performing VHA Medical Centers (VAMCs) to examine factors contributing to their AFHS implementation success and the remaining challenges.                                                           Methods                     We selected three VAMCs with a high proportion of patients who had undergone complete AFHS 4Ms assessments (What Matters, Medications, Mentation, and Mobility) in at least one inpatient unit, as documented in the electronic health record (i.e., “high performers”). We conducted 11 semi‐structured interviews with leaders and frontline staff involved in AFHS implementation, guided by the integrated‐Promoting Action on Research Implementation in Health Services (i‐PARIHS) framework to elicit information on implementation strategies, facilitators, and barriers. Interviews were analyzed using template analysis, blending deductive codes aligned with i‐PARHIS and inductive codes.                                                           Results                     Across I‐PARIHS domains, we identified facilitators and barriers to implementation. Facilitators included: flexibility to customize implementation to local needs; teams exhibiting interdisciplinary respect, role clarity, and passion for geriatric care; alignment of AFHS with existing patient‐centered care values; leadership support alongside adequate resources; and champions who led education efforts and rallied support by demonstrating impact. Barriers included: challenges meaningfully eliciting and integrating “What Matters” into inpatient care; difficulty identifying short‐term patient impact; discipline‐specific staffing issues; and lack of AFHS inpatient teams to consult about implementation.                                                           Conclusion                     Successful AFHS inpatient implementation is affected by several interrelated domains. Learning from facilitators and barriers at high‐performing VHA sites may help VHA and non‐VHA health systems strengthen and tailor AFHS efforts to ensure hospitalized older adults receive age‐friendly care.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-09-18",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-19",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08243-7",
+        "doi": "10.1186/s12877-026-08243-7",
+        "url": "https://doi.org/10.1186/s12877-026-08243-7",
+        "title": "A pilot randomized trial of a solution-focused, telehealth-supported transitional care program in older adults with heart failure",
+        "authors": [
+          "Shuangshuang Wei",
+          "Ning Jiang",
+          "Shijiao Zhang",
+          "Xun Mao",
+          "Qin Wang",
+          "Kehan Chen",
+          "Xiaolian Jiang"
+        ],
+        "abstract": "Abstract                                        Background                     Heart failure (HF) is a leading cause of hospitalization among older adults and is associated with poor post-discharge outcomes. Multicomponent transitional care programs incorporating telehealth may improve self-management and care transitions; however, their feasibility and preliminary effects require further evaluation in older adults with HF. This study developed and evaluated a solution-focused, telehealth-supported program (SF-TSTCP) integrating structured transitional care, wearable devices, an online platform, and solution-focused approach during telephone follow-up.                                                           Methods                     A two-phase design was used. Phase I involved qualitative interviews with older adults with HF to inform intervention development. Phase II was a pilot randomized controlled trial conducted in a tertiary hospital in Southwest China. Fifty-six hospitalized HF patients aged ≥ 60 years were randomized 1:1 to transitional care (TC) or usual care (UC). The SF-TSTCP was delivered from admission through 30 days after discharge. Data were collected at baseline (T0, admission), discharge (T1), 30 days after discharge (T2), and 90 days after discharge (T3). Primary outcomes were feasibility and acceptability (including satisfaction with each program component and willingness to continue); secondary outcomes included discharge preparation, transitional care quality, quality of life, and health service utilization.                                                           Results                                            Fifty-two participants (92.9%) completed 90-day follow-up. The SF-TSTCP demonstrated high feasibility, with completion rates of 100% for inpatient components, 92.6% for telephone follow-ups, 85.2% for wearable device use, and 70.4% for weekly platform engagement. Participants reported high satisfaction and willingness to continue the program. Compared with UC, the TC group showed improved discharge preparation, transitional care quality, and quality of life at 30 and 90 days after discharge (                       p                        &lt; 0.05 for all comparisons). No significant differences were observed in Unscheduled readmissions, outpatient department visits, or emergency room visits.                                                                                Conclusions                     The multicomponent SF-TSTCP was feasible, acceptable for older adults with HF. Preliminary findings suggest potential benefits in discharge preparation, transitional care quality, and quality of life. These findings require confirmation in adequately powered trials.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-18",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-19",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08311-y",
+        "doi": "10.1186/s12877-026-08311-y",
+        "url": "https://doi.org/10.1186/s12877-026-08311-y",
+        "title": "Frailty status, but not physical activity volume, is associated with chronic disease, self-reported memory difficulty, and depressive mood in older Korean adults: a cross-sectional analysis of the 2019 Korea National Health and Nutrition Examination Survey",
+        "authors": [
+          "Won-Je Kim",
+          "Won-Sang Jung",
+          "Bak-Geun Jeon",
+          "Duk-Young Jung",
+          "Hun-Young Park"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-18",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-19",
         "fetched_from": "crossref"
       },
       {
@@ -26765,6 +27075,346 @@
     ],
     "healthReform": [
       {
+        "id": "doi:10.1093/hsw/hlag044",
+        "doi": "10.1093/hsw/hlag044",
+        "url": "https://doi.org/10.1093/hsw/hlag044",
+        "title": "Mental Workload and Burnout among Social Work Professionals in Spain: The Protective Role of Psychological Capital and Perceived Social Support",
+        "authors": [],
+        "abstract": "",
+        "source": "Health &amp; Social Work",
+        "issn": "0360-7283",
+        "date": "2026-09-19",
+        "subjects": [],
+        "domains": [
+          "socialWork",
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-19",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.14719",
+        "doi": "10.1001/jama.2026.14719",
+        "url": "https://doi.org/10.1001/jama.2026.14719",
+        "title": "FDA Approves New Treatment for Advanced Pancreatic Cancer",
+        "authors": [
+          "Samantha Anderer"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-18",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-19",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.14722",
+        "doi": "10.1001/jama.2026.14722",
+        "url": "https://doi.org/10.1001/jama.2026.14722",
+        "title": "Earlier Menopause Linked to Faster Cognitive Decline",
+        "authors": [
+          "Samantha Anderer"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-18",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-19",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.14723",
+        "doi": "10.1001/jama.2026.14723",
+        "url": "https://doi.org/10.1001/jama.2026.14723",
+        "title": "How Do Cardiovascular Risks Vary Across Nicotine Products?",
+        "authors": [
+          "Samantha Anderer"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-18",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-19",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.14720",
+        "doi": "10.1001/jama.2026.14720",
+        "url": "https://doi.org/10.1001/jama.2026.14720",
+        "title": "Mpox Virus Transitions Toward Endemicity",
+        "authors": [
+          "Samantha Anderer"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-18",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-19",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.14721",
+        "doi": "10.1001/jama.2026.14721",
+        "url": "https://doi.org/10.1001/jama.2026.14721",
+        "title": "FDA Approves 2 New Alzheimer Disease Blood Tests",
+        "authors": [
+          "Samantha Anderer"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-18",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-19",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.14724",
+        "doi": "10.1001/jama.2026.14724",
+        "url": "https://doi.org/10.1001/jama.2026.14724",
+        "title": "Updated Stroke Guideline Emphasizes Early, Holistic Intervention",
+        "authors": [
+          "Samantha Anderer"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-18",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-19",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.16679",
+        "doi": "10.1001/jama.2026.16679",
+        "url": "https://doi.org/10.1001/jama.2026.16679",
+        "title": "As More Adults Seek ADHD Care, Primary Care Clinicians Are Tasked With Getting the Diagnosis Right",
+        "authors": [
+          "Kate Schweitzer"
+        ],
+        "abstract": "This Medical News article discusses the rise in adults seeking attention-deficit/hyperactivity disorder (ADHD) evaluations and the need for more consistent approaches to diagnosis and treatment as primary care clinicians take on a larger role.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-18",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-19",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.16716",
+        "doi": "10.1001/jama.2026.16716",
+        "url": "https://doi.org/10.1001/jama.2026.16716",
+        "title": "Caffeine and Cardiovascular Health: What the Science Says",
+        "authors": [
+          "Rita Rubin"
+        ],
+        "abstract": "This Medical News article discusses a recent scientific statement from the American Heart Association about caffeine and cardiovascular disease.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-18",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-19",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2025.16065",
+        "doi": "10.1001/jama.2025.16065",
+        "url": "https://doi.org/10.1001/jama.2025.16065",
+        "title": "JAMA Editors' Summary Podcast",
+        "authors": [],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-18",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-19",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag226",
+        "doi": "10.1093/aje/kwag226",
+        "url": "https://doi.org/10.1093/aje/kwag226",
+        "title": "A cautionary note on the use of sibling proxy outcomes as a selection bias diagnostic",
+        "authors": [
+          "Sunyeop Lee",
+          "Michael A Liu",
+          "Wan-Ting Hsu",
+          "Chien-Chang Lee"
+        ],
+        "abstract": "",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-09-18",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-19",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag231",
+        "doi": "10.1093/aje/kwag231",
+        "url": "https://doi.org/10.1093/aje/kwag231",
+        "title": "Housing-related payment hardship and associations with health and well-being: a 15-year longitudinal study in a National Sample of U.S. adults",
+        "authors": [
+          "Renae Wilkinson",
+          "Richard Cowden",
+          "Howard Koh",
+          "Jack Tsai"
+        ],
+        "abstract": "Abstract                   Many U.S. households face growing difficulty affording housing and related costs, with some missing payments for housing or utilities due to limited resources. Sparse research has examined how housing-related payment hardship relates to well-being over the life course. We used three waves of the National Longitudinal Study of Adolescent to Adult Health (Add Health; n = 7673) to estimate associations of two housing-related payment hardship exposures (inability to pay rent/mortgage and utilities) in early adulthood (Wave IV; 2008-2009) with 36 health and well-being outcomes 15 years later (Wave VI; 2022-2025). We used an outcome-wide analytic approach, adjusting for sociodemographic characteristics and prior values of outcomes and exposures (Wave III; 2001-2002). Results after Bonferroni correction indicated both exposures were associated with worse outcomes in physical health (eg, self-rated health), health behavior (eg, smoking), psychological distress (eg, anxiety), psychological well-being (eg, life evaluation), social distress (eg, discrimination), and socioeconomic factors (eg, financial distress). Associations with social well-being and prosocial outcomes were weaker. Our findings strengthen evidence that housing-related payment hardship is both an economic and public health concern. Policies and interventions that reduce housing payment difficulties in early adulthood before severe instability or homelessness emerges may promote longer-term health, well-being, and socioeconomic stability.",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-09-18",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-19",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag234",
+        "doi": "10.1093/aje/kwag234",
+        "url": "https://doi.org/10.1093/aje/kwag234",
+        "title": "Contribution of Adolescent Movement Behaviours to Socioeconomic Inequalities in Adult Cardiovascular Disease Risk: A Causal Decomposition in a Population-Based Cohort",
+        "authors": [
+          "Nicholas Grubic",
+          "Katerina Maximova",
+          "Arnaud Chiolero",
+          "Arjumand Siddiqi",
+          "Sarah Carsley",
+          "Brice Batomen",
+          "Cristian Carmeli"
+        ],
+        "abstract": "Abstract                   Addressing unhealthy movement behaviours in adolescence could reduce socioeconomic inequalities in adult cardiovascular disease (CVD) risk. Among 6608 adolescents enrolled in the Add Health cohort (1994-1995) and followed into adulthood (2016-2018), movement behaviours (physical activity, screen time, sleep) were classified as healthy or unhealthy based on adherence to the 24-Hour Movement Guidelines. Parental education and family financial hardship captured socioeconomic position (SEP). The outcome was 30-year CVD risk in adulthood. G-formula-based causal decomposition quantified changes in socioeconomic inequalities under two interventional scenarios: (1) eliminating unhealthy movement behaviours across the population, (2) equalizing the low-SEP group’s movement behaviour distributions to match the high-SEP group. Adolescents whose parents did not graduate from college/university had a higher adult CVD risk than those whose parents did (RD: 6.9%, RR: 1.73). Eliminating all unhealthy movement behaviours reduced the RD to 4.9% (-2.0% absolute change), while the RR remained similar (1.76). Eliminating unhealthy levels of physical activity produced the largest absolute reduction (-1.7%), with negligible reductions for screen time (-0.2%) and sleep (-0.2%). The equalization scenario had minimal impact, and results were similar for family financial hardship. Whole-population interventions targeting unhealthy adolescent movement behaviours, particularly physical activity, may reduce absolute socioeconomic inequalities in adult CVD risk.",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-09-18",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-19",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/hsw/hlag040",
+        "doi": "10.1093/hsw/hlag040",
+        "url": "https://doi.org/10.1093/hsw/hlag040",
+        "title": "Food Insecurity in Transplant Care: Social Work Strategies, Gaps, and Opportunities for Equity",
+        "authors": [
+          "Aysha Jawed"
+        ],
+        "abstract": "",
+        "source": "Health &amp; Social Work",
+        "issn": "0360-7283",
+        "date": "2026-09-18",
+        "subjects": [],
+        "domains": [
+          "socialWork",
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-19",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/hsw/hlag046",
+        "doi": "10.1093/hsw/hlag046",
+        "url": "https://doi.org/10.1093/hsw/hlag046",
+        "title": "Food Equity Beyond Food Security: Lessons for Community Health and Social Policy in the Philippines",
+        "authors": [
+          "Ronilo P Antonio"
+        ],
+        "abstract": "",
+        "source": "Health &amp; Social Work",
+        "issn": "0360-7283",
+        "date": "2026-09-18",
+        "subjects": [],
+        "domains": [
+          "socialWork",
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-19",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/1468-0009.70134",
+        "doi": "10.1111/1468-0009.70134",
+        "url": "https://doi.org/10.1111/1468-0009.70134",
+        "title": "In the September 2026 Issue of the\n                    <i>Quarterly</i>",
+        "authors": [
+          "ALAN B. COHEN"
+        ],
+        "abstract": "",
+        "source": "The Milbank Quarterly",
+        "issn": "0887-378X",
+        "date": "2026-09-17",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "socialSecurity"
+        ],
+        "firstSeen": "2026-09-18",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/1468-0009.70131",
+        "doi": "10.1111/1468-0009.70131",
+        "url": "https://doi.org/10.1111/1468-0009.70131",
+        "title": "Certified Nurse‐Midwife Practice Authority as a Structural Determinant of Maternal Health",
+        "authors": [
+          "CURISA M. TUCKER",
+          "JENNIFER BAUMSTARK"
+        ],
+        "abstract": "Policy Points                                                                                                                                         State scope‐of‐practice restrictions on certified nurse‐midwives are associated with lower workforce density and higher maternal vulnerability. In fact, 25 states currently impose collaborative or restricted practice environments that coincide with the nation's worst maternal health indicators.                                                                                         Mediation analysis revealed that 27% of the regulatory effect operates through workforce supply, whereas 73% reflects a direct policy effect, indicating that both regulatory reform and workforce investment are needed.                                                                                         Federal incentives through the Centers for Medicare and Medicaid Services's Rural Health Transformation Program now award scoring points based on state practice authority classifications, directly linking the state regulatory environment to federal funding and providing states with both an evidence‐based rationale and a financial incentive for reform.                                                                                                                                                                                        Context                     Certified nurse‐midwives (CNMs) provide evidence‐based maternity care associated with improved birth outcomes, yet half of US states do not grant them independent practice authority. State scope‐of‐practice regulations may function as structural determinants of maternal health by constraining both the midwifery workforce and the conditions under which care is delivered. Prior studies have documented associations between midwifery regulation and workforce availability but have not formally tested the mechanisms linking regulation to population‐level maternal health outcomes.                                                           Methods                     We conducted a cross‐sectional ecological analysis of all 50 US states, classifying each by CNM practice authority (independent, collaborative, or restricted) using American College of Nurse‐Midwives state practice environment data (March 2026). CNM workforce density was calculated from American Midwifery Certification Board data (2022‐2023). The primary outcome was the maternal vulnerability index (MVI), a composite of 43 indicators excluding provider density. The secondary outcome was March of Dimes preterm birth report card grades. We used one‐way analysis of variance, multiple linear regression, and Baron and Kenny mediation analysis with Sobel tests and bias‐corrected bootstrap confidence intervals to test whether workforce density mediated the relationship between practice authority and maternal vulnerability.                                                           Findings                                            States allowing independent practice had significantly higher CNM densities than collaborative states (6.5 vs. 2.9 per 1,000 births,                       P                        &lt; .001), as well as lower MVI scores (2.1 vs. 4.1,                       P                        &lt; .001). The effect sizes were large (Cohen's                       d                        = 1.34 for CNM density,                       d                        = −1.62 for MVI). CNM density was found to mediate 26.7% of the practice authority–MVI association (Sobel                       z                        = −2.10,                       P                        = .036; 95% bias‐corrected and accelerated [BCa] bootstrap CI [−0.88, −0.08]). The remaining 73.3% represented a direct policy effect that is not explained by workforce numbers. These results were robust to alternative classifications using nurse practitioner regulatory data.                                                                                Conclusions                     State CNM scope‐of‐practice regulations are a modifiable policy lever associated with both clinician workforce distribution and population‐level maternal vulnerability. Both regulatory reform and complementary workforce investments are needed to address maternal health inequities.",
+        "source": "The Milbank Quarterly",
+        "issn": "0887-378X",
+        "date": "2026-09-17",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "socialSecurity"
+        ],
+        "firstSeen": "2026-09-18",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1056/nejmoa2600526",
         "doi": "10.1056/nejmoa2600526",
         "url": "https://doi.org/10.1056/nejmoa2600526",
@@ -27345,47 +27995,6 @@
         "subjects": [],
         "domains": [
           "healthReform"
-        ],
-        "firstSeen": "2026-09-18",
-        "fetched_from": "crossref"
-      },
-      {
-        "id": "doi:10.1111/1468-0009.70134",
-        "doi": "10.1111/1468-0009.70134",
-        "url": "https://doi.org/10.1111/1468-0009.70134",
-        "title": "In the September 2026 Issue of the\n                    <i>Quarterly</i>",
-        "authors": [
-          "ALAN B. COHEN"
-        ],
-        "abstract": "",
-        "source": "The Milbank Quarterly",
-        "issn": "0887-378X",
-        "date": "2026-09-17",
-        "subjects": [],
-        "domains": [
-          "healthReform",
-          "socialSecurity"
-        ],
-        "firstSeen": "2026-09-18",
-        "fetched_from": "crossref"
-      },
-      {
-        "id": "doi:10.1111/1468-0009.70131",
-        "doi": "10.1111/1468-0009.70131",
-        "url": "https://doi.org/10.1111/1468-0009.70131",
-        "title": "Certified Nurse‐Midwife Practice Authority as a Structural Determinant of Maternal Health",
-        "authors": [
-          "CURISA M. TUCKER",
-          "JENNIFER BAUMSTARK"
-        ],
-        "abstract": "Policy Points                                                                                                                                         State scope‐of‐practice restrictions on certified nurse‐midwives are associated with lower workforce density and higher maternal vulnerability. In fact, 25 states currently impose collaborative or restricted practice environments that coincide with the nation's worst maternal health indicators.                                                                                         Mediation analysis revealed that 27% of the regulatory effect operates through workforce supply, whereas 73% reflects a direct policy effect, indicating that both regulatory reform and workforce investment are needed.                                                                                         Federal incentives through the Centers for Medicare and Medicaid Services's Rural Health Transformation Program now award scoring points based on state practice authority classifications, directly linking the state regulatory environment to federal funding and providing states with both an evidence‐based rationale and a financial incentive for reform.                                                                                                                                                                                        Context                     Certified nurse‐midwives (CNMs) provide evidence‐based maternity care associated with improved birth outcomes, yet half of US states do not grant them independent practice authority. State scope‐of‐practice regulations may function as structural determinants of maternal health by constraining both the midwifery workforce and the conditions under which care is delivered. Prior studies have documented associations between midwifery regulation and workforce availability but have not formally tested the mechanisms linking regulation to population‐level maternal health outcomes.                                                           Methods                     We conducted a cross‐sectional ecological analysis of all 50 US states, classifying each by CNM practice authority (independent, collaborative, or restricted) using American College of Nurse‐Midwives state practice environment data (March 2026). CNM workforce density was calculated from American Midwifery Certification Board data (2022‐2023). The primary outcome was the maternal vulnerability index (MVI), a composite of 43 indicators excluding provider density. The secondary outcome was March of Dimes preterm birth report card grades. We used one‐way analysis of variance, multiple linear regression, and Baron and Kenny mediation analysis with Sobel tests and bias‐corrected bootstrap confidence intervals to test whether workforce density mediated the relationship between practice authority and maternal vulnerability.                                                           Findings                                            States allowing independent practice had significantly higher CNM densities than collaborative states (6.5 vs. 2.9 per 1,000 births,                       P                        &lt; .001), as well as lower MVI scores (2.1 vs. 4.1,                       P                        &lt; .001). The effect sizes were large (Cohen's                       d                        = 1.34 for CNM density,                       d                        = −1.62 for MVI). CNM density was found to mediate 26.7% of the practice authority–MVI association (Sobel                       z                        = −2.10,                       P                        = .036; 95% bias‐corrected and accelerated [BCa] bootstrap CI [−0.88, −0.08]). The remaining 73.3% represented a direct policy effect that is not explained by workforce numbers. These results were robust to alternative classifications using nurse practitioner regulatory data.                                                                                Conclusions                     State CNM scope‐of‐practice regulations are a modifiable policy lever associated with both clinician workforce distribution and population‐level maternal vulnerability. Both regulatory reform and complementary workforce investments are needed to address maternal health inequities.",
-        "source": "The Milbank Quarterly",
-        "issn": "0887-378X",
-        "date": "2026-09-17",
-        "subjects": [],
-        "domains": [
-          "healthReform",
-          "socialSecurity"
         ],
         "firstSeen": "2026-09-18",
         "fetched_from": "crossref"
@@ -35358,6 +35967,58 @@
     ],
     "agingHealth": [
       {
+        "id": "doi:10.1186/s12877-026-08302-z",
+        "doi": "10.1186/s12877-026-08302-z",
+        "url": "https://doi.org/10.1186/s12877-026-08302-z",
+        "title": "Associations between benzene exposure and allergic rhinitis risk and survival in older adults: the mediating role of biological aging and the moderating influence of genetic susceptibility",
+        "authors": [
+          "Jingyuan Zhang",
+          "Bo Gou",
+          "Jia Li",
+          "Jing Zhang",
+          "Chi Chen",
+          "Yuxi Wei",
+          "Hong Cao"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-19",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-19",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08309-6",
+        "doi": "10.1186/s12877-026-08309-6",
+        "url": "https://doi.org/10.1186/s12877-026-08309-6",
+        "title": "Prevalence of diabetes, self-management behaviors, and their association with activities of daily living among older adults in rural southwest China",
+        "authors": [
+          "Zi-zi Yu",
+          "Guo-hui Li",
+          "Jing-jing Huang",
+          "Qing-rou Bao",
+          "Rui-min Shi",
+          "Allison Rabkin Golden",
+          "Le Cai"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-19",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-19",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1186/s12877-026-08291-z",
         "doi": "10.1186/s12877-026-08291-z",
         "url": "https://doi.org/10.1186/s12877-026-08291-z",
@@ -35473,6 +36134,420 @@
           "agingHealth"
         ],
         "firstSeen": "2026-09-18",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/gerona/glag229",
+        "doi": "10.1093/gerona/glag229",
+        "url": "https://doi.org/10.1093/gerona/glag229",
+        "title": "Performance of Claims-based Frailty Indices in Medicare Advantage and Fee-for-Service Populations",
+        "authors": [
+          "Lan Luo",
+          "Kevin Pritchard",
+          "Chan Mi Park",
+          "Xiecheng Chen",
+          "Eunji G Kim",
+          "Ellen P McCarthy",
+          "Dae Hyun Kim",
+          "Sandra M Shi"
+        ],
+        "abstract": "Abstract                                        Background                     Despite growing enrollment in Medicare Advantage (MA) plans, the performance of claims-based frailty algorithms, which were developed for Medicare fee-for-service (FFS), remains unclear in MA.                                                           Methods                     We calculated the Kim claims-based frailty index (CFI), Veterans Affairs-Frailty Index (VA-FI), and Hospital Frailty Risk Score (HFRS) using the National Health and Aging Trends Study linked to Medicare fee-for-service (FFS) and MA data. We evaluated their performance against the comprehensive geriatric assessment-based frailty index (CGA-FI) and the frailty phenotype (FP) in Round 11 and Round 9.                                                           Results                     Among 1,527 FFS and 1,457 MA beneficiaries in Round 11, frailty prevalence was 34.2% and 35.5%, respectively, by CGA-FI ≥0.25, and 13.3% and 16.2%, respectively, by FP. Across FFS and MA populations, the CFI, which prioritizes specificity and positive predictive value, classified 10-12% of the overall population and 30-36% of those with prior hospitalization as frail, whereas the VA-FI and HFRS, which emphasize sensitivity, classified 53-71% of the overall population and 56-87% of those with prior hospitalization as frail. Although claims-based frailty measures performed similarly across FFS and MA populations, their discriminatory ability was higher for CGA-FI ≥0.25 (C-statistics: CFI, 0.79-0.82; VA-FI, 0.77-0.82; HFRS, 0.63-0.77) than for FP (CFI, 0.71-0.77; VA-FI, 0.67-0.75; HFRS, 0.60-0.74). Performance was consistent by race and survey rounds, with modestly better discrimination in women than men.                                                           Conclusions                     Claims-based frailty measures are scalable tools for contemporary FFS and MA populations. However applying published thresholds led to differences in frailty prevalence and model performances. Thresholds should therefore be tailored to the intended.",
+        "source": "The Journals of Gerontology, Series A: Biological Sciences and Medical Sciences",
+        "issn": "1079-5006",
+        "date": "2026-09-18",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "elderCare"
+        ],
+        "firstSeen": "2026-09-19",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/gerona/glag230",
+        "doi": "10.1093/gerona/glag230",
+        "url": "https://doi.org/10.1093/gerona/glag230",
+        "title": "Performance of Chronic Conditions Data Warehouse Algorithms in Medicare Advantage and Fee-For-Service Populations",
+        "authors": [
+          "Chan Mi Park",
+          "Xiecheng Chen",
+          "Sandra Shi",
+          "Lan Luo",
+          "Eunji G Kim",
+          "Emilie D Duchesneau",
+          "Lily Zhong",
+          "Dae Hyun Kim",
+          "Ellen P McCarthy"
+        ],
+        "abstract": "Abstract                                        Background                     The Centers for Medicare &amp; Medicaid Services (CMS) Chronic Conditions Data Warehouse (CCW) algorithms are widely used to identify chronic conditions in Medicare fee-for-service (FFS) claims. However, their validity in Medicare Advantage (MA) encounters remains uncertain.                                                           Methods                     We conducted a cross-sectional study using the National Health and Aging Trends Study linked to Medicare data. We analyzed NHATS Rounds 9 and 11, aged≥65 years, with continuous 24-month enrollment in MA or FFS. CCW algorithms were applied to identify six conditions: arthritis, chronic lung disease, diabetes, heart disease, hypertension, and osteoporosis. Self-reported, physician-diagnosed conditions from NHATS interviews served as the reference standard. Survey-weighted sensitivity, specificity, positive predictive value (PPV), negative predictive value (NPV), and balanced accuracy were compared between MA and FFS.                                                           Results                     We included 1,708 MA and 2,239 FFS beneficiaries in Round 9 and 1,472 MA and 1,566 FFS beneficiaries in Round 11. Across both rounds, balanced accuracy was similar between MA and FFS for all six conditions. Diabetes and hypertension demonstrated high sensitivity (0.88–0.94), while arthritis and osteoporosis showed lower sensitivity but high specificity. Although statistically significant MA–FFS differences were observed for select metrics (diabetes PPV in Round 9; chronic lung disease specificity in Round 11), absolute differences were minor and not clinically meaningful.                                                           Conclusions                     CCW algorithms perform comparably in MA and FFS Medicare data. These findings support the validity of using CCW algorithms in MA encounter data for epidemiologic research for risk adjustment, facilitating more generalizable studies of the growing MA population.",
+        "source": "The Journals of Gerontology, Series A: Biological Sciences and Medical Sciences",
+        "issn": "1079-5006",
+        "date": "2026-09-18",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "elderCare"
+        ],
+        "firstSeen": "2026-09-19",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/gerona/glag237",
+        "doi": "10.1093/gerona/glag237",
+        "url": "https://doi.org/10.1093/gerona/glag237",
+        "title": "Performance of Claims-based Alzheimer’s Disease and Related Dementias Algorithms in Medicare Advantage and Fee-for-Service Populations",
+        "authors": [
+          "You Wu",
+          "Chan Mi Park",
+          "Xiecheng Chen",
+          "Lan Luo",
+          "Eunji G Kim",
+          "Sandra M Shi",
+          "Dae Hyun Kim",
+          "Ellen P McCarthy"
+        ],
+        "abstract": "Abstract                                        Background                     Evidence comparing the performance of claims-based dementia algorithms across Medicare Advantage (MA) and fee-for-service (FFS) populations remains limited. We evaluated the validity of two claims-based algorithms across MA and FFS populations.                                                           Methods                     We used nationally representative, linked National Health and Aging Trends Study (NHATS)-Medicare data to identify community-dwelling participants with continuous enrollment in MA or FFS during Round 7 (2017; n = 5,018), Round 9 (2019; n = 4,018), and Round 11 (2021-2022; n = 3,086). Using NHATS probable dementia as reference standard, we validated the Bynum-Standard and Chronic Condition Warehouse (CCW) dementia algorithms across three time points.                                                           Results                     Overall, both algorithms demonstrated comparable performance in MA and FFS populations, with high specificity (&amp;gt;97.9%) and negative predictive value [NPV] (&amp;gt;92.9%). The Bynum algorithm showed similar sensitivity between MA and FFS in Rounds 7 (30.2% vs. 29.1%) and 11 (25.6% vs. 23.9%), but lower sensitivity in MA for Round 9 (25.0% vs. 36.4%). Positive predictive value [PPV] was similar between MA (62.7%-70.6%) and FFS (62.1%-70.4%) across all rounds. The CCW algorithm demonstrated greater MA-FFS differences, with lower sensitivity in MA for Rounds 9 (30.8% vs. 46.9%) and 11 (35.0% vs. 49.3%) and similar sensitivity for Round 7 (40.4% vs. 42.2%). PPV varied across rounds in both MA and FFS [(Round 7: 76.3% vs. 71.2%) to (Round 11: 68.5% vs. 76.4%)]. Both algorithms identified participants with more severe dementia.                                                           Conclusion                     Claims-based dementia algorithms demonstrate broadly consistent performance in MA and FFS populations, with high specificity and moderate PPV but comparable or lower sensitivity in MA, informing case ascertainment across Medicare plan type.",
+        "source": "The Journals of Gerontology, Series A: Biological Sciences and Medical Sciences",
+        "issn": "1079-5006",
+        "date": "2026-09-18",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "elderCare"
+        ],
+        "firstSeen": "2026-09-19",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70718",
+        "doi": "10.1111/jgs.70718",
+        "url": "https://doi.org/10.1111/jgs.70718",
+        "title": "Acute Care Group‐Based Physical Therapy on an Inpatient Geriatrics Unit: Preliminary Data",
+        "authors": [
+          "James P. Crick",
+          "Laura Hull",
+          "Samuel Maag",
+          "Gabriel N. Alain"
+        ],
+        "abstract": "ABSTRACT                                        Background                     Hospitalized older adults are at high risk for hospital‐associated disability, but one‐to‐one physical therapy (PT) models often cannot meet demand for skilled mobility progression. Group‐based PT is effective in outpatient and rehabilitation settings, but its feasibility in acute inpatient care is unknown.                                                           Methods                     We conducted a single‐site, prospective quality improvement implementation of acute care group‐based PT (AC‐GBPT) on a 39‐bed medical‐surgical geriatrics unit at an academic medical center. Sessions were offered weekly during routine clinical operations without additional staffing. Eligible patients were 60 years and older, had an active PT plan of care, were medically stable, and could transfer to a chair with human assistance. Feasibility outcomes included number of sessions delivered, participants per session, recruitment, reasons for non‐participation, and adverse events. We also summarized participant characteristics and therapist productivity on days with versus without a group session.                                                           Results                     From March 19, 2025, through February 18, 2026, 37 sessions were delivered, with a mean of 4.22 participants per session (range 3–6). Across the period, 156 unique patient participations were recorded, and 69% of patients approached participated. At the time of participation, mean age was 77.9 years and mean time since admission was 8.6 days. No safety events occurred during or immediately after group sessions. Mean therapist productivity was notably higher on group days than on non‐group days (1.59 vs. 1.31 patients/h; approximately 21% higher).                                                           Conclusions                     A once‐weekly AC‐GBPT model for selected hospitalized older adults was feasible to deliver using existing resources and showed promising reach, safety, and operational performance, suggesting it may extend PT to more patients. Further work should assess patient acceptability, fully characterize staff time requirements, and assess patient‐centered outcomes.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-09-18",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-19",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70720",
+        "doi": "10.1111/jgs.70720",
+        "url": "https://doi.org/10.1111/jgs.70720",
+        "title": "Extreme Temperatures, Elevated\n                    <scp>PM2.5</scp>\n                    , and Acute Care Events Among Dual‐Eligible Nursing Facility Residents",
+        "authors": [
+          "Hyunjee Kim",
+          "Clint Sergi",
+          "Angela Senders",
+          "Katherine Courchaine",
+          "Luke Montrose",
+          "Ethan S. Walker"
+        ],
+        "abstract": "ABSTRACT                                        Background                     Extreme temperatures and elevated fine particulate matter (PM2.5; particles 2.5 μm or less) pose serious health risks for older adults. Nursing facility residents may be especially susceptible because they have complex health needs and limited ability to self‐protect, and because nursing facility construction and HVAC capacity can be insufficient to buffer indoor environments from outdoor extremes. Yet, nursing facility regulations address only indoor temperature with no comparable standards for indoor air quality, including PM2.5. We assessed whether outdoor extreme heat, extreme cold, and elevated PM2.5 were associated with emergency department (ED) visits and hospitalizations among nursing facility residents.                                                           Methods                                            Using 2017–2020 Medicare and Medicaid claims linked to daily weather data, we conducted longitudinal analyses with nursing facility fixed effects to estimate associations between extreme heat, extreme cold, and elevated PM2.5 (PM2.5 &gt; 9 μg/m                       3                       ) and all‐cause ED visits and hospitalizations among dual‐eligible nursing facility residents aged 65 years and older.                                                                                Results                     The sample included 24,784,081 nursing facility‐days from 24,760 facilities across 47 states and Washington, DC. Extreme temperature and elevated PM2.5 were associated with increased acute care utilization. On extreme heat days, ED visits and hospitalizations increased by 0.022 (95% CI, 0.003–0.041) and 0.025 (95% CI, 0.011–0.039) per 1000 resident‐days, respectively. On elevated PM2.5 days, corresponding increases were 0.020 (95% CI, 0.013–0.027) and 0.017 (95% CI, 0.012–0.022) per 1000 resident‐days. Extreme cold was also associated with an increase in hospitalizations of 0.014 per 1000 resident‐days (95% CI, 0.001–0.027).                                                           Conclusions                     Among nursing facility residents, acute care events increased on extreme temperature days despite the existing indoor temperature regulations. Acute care events also increased on elevated PM2.5 days. These findings suggest that environmental exposures contributed to acute care utilization among nursing facility residents.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-09-18",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-19",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70719",
+        "doi": "10.1111/jgs.70719",
+        "url": "https://doi.org/10.1111/jgs.70719",
+        "title": "Knowledge of Community Services Among Clinicians Who Care for Patients With Dementia",
+        "authors": [
+          "Alexander Chaitoff",
+          "Elizabeth M. White",
+          "Rachel C. Davis",
+          "Donovan T. Maust"
+        ],
+        "abstract": "",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-09-18",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-19",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70732",
+        "doi": "10.1111/jgs.70732",
+        "url": "https://doi.org/10.1111/jgs.70732",
+        "title": "Association Between Large Language Model‐Derived Mobility Functional Status Assessment and Clinical Outcomes",
+        "authors": [
+          "Sandeep Pagali",
+          "Xingyi Liu",
+          "Heling Jia",
+          "Karen Fischer",
+          "Muskan Garg",
+          "Eunji Jeon",
+          "Cynthia S. Crowson",
+          "Jennifer St. Sauver",
+          "Sunghwan Sohn"
+        ],
+        "abstract": "ABSTRACT                                        Background                     Mobility functional status is inconsistently recorded in electronic health records. Recent advances in Large Language Models (LLMs) enable automated extraction of functional information from unstructured clinical notes. Leveraging a validated functional LLM with high performance in mobility extraction, we aimed to study the association between LLM‐derived mobility functional status and clinical outcomes, including emergency department (ED) visits, hospitalizations, and mortality.                                                           Methods                     Individuals aged 60 years and older enrolled in the Mayo Clinic Study of Aging, with documented clinical notes in 2022 were included. Individuals without any identifiable functional information were excluded. The LLM‐derived mobility functional status categorized mobility as impaired or unimpaired, across the five mobility domains as classified by International Classification of Functioning, Disability, and Health. Clinical outcomes in 2023 were extracted from the Rochester Epidemiology Project database. Logistic regression models assessed associations between mobility impairment and outcomes, adjusted for age, sex, Elixhauser comorbidity index, and education.                                                           Results                                            Three thousand three hundred thirty‐seven individuals were screened, of whom three hundred forty‐three had no functional information. Two thousand nine hundred ninety‐four individuals were analyzed. 79.4% had at least one mobility impairment. Higher mobility impairment is associated with older age and greater Elixhauser comorbidity. Individuals with 3 or more impairments had an increased adjusted odds of ED visits (Adjusted Odds Ratio (aOR): 2.18 (1.64, 2.90)) and hospitalizations (aOR: 2.35 (1.51, 3.65)) compared to unimpaired individuals (                       p                        &lt; 0.001), while mortality did not demonstrate a significant association with mobility impairment.                                                                                Conclusion                     LLM‐derived mobility functional status assessment was associated with ED visits and hospitalization, but not with all‐cause mortality after adjustment. Prospective validation and evaluation of incremental discrimination, calibration, and clinical utility are needed before clinical implementation.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-09-18",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-19",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70723",
+        "doi": "10.1111/jgs.70723",
+        "url": "https://doi.org/10.1111/jgs.70723",
+        "title": "Inpatient Implementation of Age‐Friendly Health Systems: Qualitative Insights From Three Veterans Affairs Medical Centers",
+        "authors": [
+          "Brooke V. Jespersen",
+          "Mary K. Good",
+          "Brittany L. Anderson",
+          "Samantha Solimeo",
+          "James L. Rudolph",
+          "Scotte Hartronft",
+          "Michelle A. Mengeling",
+          "Heather Davila"
+        ],
+        "abstract": "ABSTRACT                                        Background                     Implementation of Age‐Friendly Health Systems (AFHS)—an initiative promoting healthcare safety and quality for older adults—is particularly important in inpatient settings, where older adults are at increased risk of hospital‐associated complications and disability. The Veterans Health Administration (VHA) is the largest integrated AFHS in the country, but AFHS inpatient implementation within VHA is heterogeneous. To support broader implementation, we selected high‐performing VHA Medical Centers (VAMCs) to examine factors contributing to their AFHS implementation success and the remaining challenges.                                                           Methods                     We selected three VAMCs with a high proportion of patients who had undergone complete AFHS 4Ms assessments (What Matters, Medications, Mentation, and Mobility) in at least one inpatient unit, as documented in the electronic health record (i.e., “high performers”). We conducted 11 semi‐structured interviews with leaders and frontline staff involved in AFHS implementation, guided by the integrated‐Promoting Action on Research Implementation in Health Services (i‐PARIHS) framework to elicit information on implementation strategies, facilitators, and barriers. Interviews were analyzed using template analysis, blending deductive codes aligned with i‐PARHIS and inductive codes.                                                           Results                     Across I‐PARIHS domains, we identified facilitators and barriers to implementation. Facilitators included: flexibility to customize implementation to local needs; teams exhibiting interdisciplinary respect, role clarity, and passion for geriatric care; alignment of AFHS with existing patient‐centered care values; leadership support alongside adequate resources; and champions who led education efforts and rallied support by demonstrating impact. Barriers included: challenges meaningfully eliciting and integrating “What Matters” into inpatient care; difficulty identifying short‐term patient impact; discipline‐specific staffing issues; and lack of AFHS inpatient teams to consult about implementation.                                                           Conclusion                     Successful AFHS inpatient implementation is affected by several interrelated domains. Learning from facilitators and barriers at high‐performing VHA sites may help VHA and non‐VHA health systems strengthen and tailor AFHS efforts to ensure hospitalized older adults receive age‐friendly care.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-09-18",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-19",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08243-7",
+        "doi": "10.1186/s12877-026-08243-7",
+        "url": "https://doi.org/10.1186/s12877-026-08243-7",
+        "title": "A pilot randomized trial of a solution-focused, telehealth-supported transitional care program in older adults with heart failure",
+        "authors": [
+          "Shuangshuang Wei",
+          "Ning Jiang",
+          "Shijiao Zhang",
+          "Xun Mao",
+          "Qin Wang",
+          "Kehan Chen",
+          "Xiaolian Jiang"
+        ],
+        "abstract": "Abstract                                        Background                     Heart failure (HF) is a leading cause of hospitalization among older adults and is associated with poor post-discharge outcomes. Multicomponent transitional care programs incorporating telehealth may improve self-management and care transitions; however, their feasibility and preliminary effects require further evaluation in older adults with HF. This study developed and evaluated a solution-focused, telehealth-supported program (SF-TSTCP) integrating structured transitional care, wearable devices, an online platform, and solution-focused approach during telephone follow-up.                                                           Methods                     A two-phase design was used. Phase I involved qualitative interviews with older adults with HF to inform intervention development. Phase II was a pilot randomized controlled trial conducted in a tertiary hospital in Southwest China. Fifty-six hospitalized HF patients aged ≥ 60 years were randomized 1:1 to transitional care (TC) or usual care (UC). The SF-TSTCP was delivered from admission through 30 days after discharge. Data were collected at baseline (T0, admission), discharge (T1), 30 days after discharge (T2), and 90 days after discharge (T3). Primary outcomes were feasibility and acceptability (including satisfaction with each program component and willingness to continue); secondary outcomes included discharge preparation, transitional care quality, quality of life, and health service utilization.                                                           Results                                            Fifty-two participants (92.9%) completed 90-day follow-up. The SF-TSTCP demonstrated high feasibility, with completion rates of 100% for inpatient components, 92.6% for telephone follow-ups, 85.2% for wearable device use, and 70.4% for weekly platform engagement. Participants reported high satisfaction and willingness to continue the program. Compared with UC, the TC group showed improved discharge preparation, transitional care quality, and quality of life at 30 and 90 days after discharge (                       p                        &lt; 0.05 for all comparisons). No significant differences were observed in Unscheduled readmissions, outpatient department visits, or emergency room visits.                                                                                Conclusions                     The multicomponent SF-TSTCP was feasible, acceptable for older adults with HF. Preliminary findings suggest potential benefits in discharge preparation, transitional care quality, and quality of life. These findings require confirmation in adequately powered trials.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-18",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-19",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08311-y",
+        "doi": "10.1186/s12877-026-08311-y",
+        "url": "https://doi.org/10.1186/s12877-026-08311-y",
+        "title": "Frailty status, but not physical activity volume, is associated with chronic disease, self-reported memory difficulty, and depressive mood in older Korean adults: a cross-sectional analysis of the 2019 Korea National Health and Nutrition Examination Survey",
+        "authors": [
+          "Won-Je Kim",
+          "Won-Sang Jung",
+          "Bak-Geun Jeon",
+          "Duk-Young Jung",
+          "Hun-Young Park"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-18",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-19",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag226",
+        "doi": "10.1093/aje/kwag226",
+        "url": "https://doi.org/10.1093/aje/kwag226",
+        "title": "A cautionary note on the use of sibling proxy outcomes as a selection bias diagnostic",
+        "authors": [
+          "Sunyeop Lee",
+          "Michael A Liu",
+          "Wan-Ting Hsu",
+          "Chien-Chang Lee"
+        ],
+        "abstract": "",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-09-18",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-19",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag231",
+        "doi": "10.1093/aje/kwag231",
+        "url": "https://doi.org/10.1093/aje/kwag231",
+        "title": "Housing-related payment hardship and associations with health and well-being: a 15-year longitudinal study in a National Sample of U.S. adults",
+        "authors": [
+          "Renae Wilkinson",
+          "Richard Cowden",
+          "Howard Koh",
+          "Jack Tsai"
+        ],
+        "abstract": "Abstract                   Many U.S. households face growing difficulty affording housing and related costs, with some missing payments for housing or utilities due to limited resources. Sparse research has examined how housing-related payment hardship relates to well-being over the life course. We used three waves of the National Longitudinal Study of Adolescent to Adult Health (Add Health; n = 7673) to estimate associations of two housing-related payment hardship exposures (inability to pay rent/mortgage and utilities) in early adulthood (Wave IV; 2008-2009) with 36 health and well-being outcomes 15 years later (Wave VI; 2022-2025). We used an outcome-wide analytic approach, adjusting for sociodemographic characteristics and prior values of outcomes and exposures (Wave III; 2001-2002). Results after Bonferroni correction indicated both exposures were associated with worse outcomes in physical health (eg, self-rated health), health behavior (eg, smoking), psychological distress (eg, anxiety), psychological well-being (eg, life evaluation), social distress (eg, discrimination), and socioeconomic factors (eg, financial distress). Associations with social well-being and prosocial outcomes were weaker. Our findings strengthen evidence that housing-related payment hardship is both an economic and public health concern. Policies and interventions that reduce housing payment difficulties in early adulthood before severe instability or homelessness emerges may promote longer-term health, well-being, and socioeconomic stability.",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-09-18",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-19",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag234",
+        "doi": "10.1093/aje/kwag234",
+        "url": "https://doi.org/10.1093/aje/kwag234",
+        "title": "Contribution of Adolescent Movement Behaviours to Socioeconomic Inequalities in Adult Cardiovascular Disease Risk: A Causal Decomposition in a Population-Based Cohort",
+        "authors": [
+          "Nicholas Grubic",
+          "Katerina Maximova",
+          "Arnaud Chiolero",
+          "Arjumand Siddiqi",
+          "Sarah Carsley",
+          "Brice Batomen",
+          "Cristian Carmeli"
+        ],
+        "abstract": "Abstract                   Addressing unhealthy movement behaviours in adolescence could reduce socioeconomic inequalities in adult cardiovascular disease (CVD) risk. Among 6608 adolescents enrolled in the Add Health cohort (1994-1995) and followed into adulthood (2016-2018), movement behaviours (physical activity, screen time, sleep) were classified as healthy or unhealthy based on adherence to the 24-Hour Movement Guidelines. Parental education and family financial hardship captured socioeconomic position (SEP). The outcome was 30-year CVD risk in adulthood. G-formula-based causal decomposition quantified changes in socioeconomic inequalities under two interventional scenarios: (1) eliminating unhealthy movement behaviours across the population, (2) equalizing the low-SEP group’s movement behaviour distributions to match the high-SEP group. Adolescents whose parents did not graduate from college/university had a higher adult CVD risk than those whose parents did (RD: 6.9%, RR: 1.73). Eliminating all unhealthy movement behaviours reduced the RD to 4.9% (-2.0% absolute change), while the RR remained similar (1.76). Eliminating unhealthy levels of physical activity produced the largest absolute reduction (-1.7%), with negligible reductions for screen time (-0.2%) and sleep (-0.2%). The equalization scenario had minimal impact, and results were similar for family financial hardship. Whole-population interventions targeting unhealthy adolescent movement behaviours, particularly physical activity, may reduce absolute socioeconomic inequalities in adult CVD risk.",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-09-18",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-19",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261488872",
+        "doi": "10.1177/13872877261488872",
+        "url": "https://doi.org/10.1177/13872877261488872",
+        "title": "The dynamic connectome in Alzheimer's disease: From static snapshots to a symphony in time—A hypothesis",
+        "authors": [
+          "Liang Xu",
+          "Na Wei",
+          "Yong Ran"
+        ],
+        "abstract": "The static functional connectivity (sFC) model has established Alzheimer's disease (AD) as a large-scale brain network disorder, yet it rests on a questionable assumption of temporal stationarity. This assumption obscures the brain's intrinsic dynamics, which are essential for flexible cognition. Here, we advance the hypothesis that the core deficit in AD is not merely a weakening of average connections, but a fundamental loss of the brain's capacity for temporal coordination, adaptive reconfiguration, and metastable dynamics—a state we term dynamic network dysrhythmia. Synthesizing evidence from dynamic functional connectivity (dFC) studies across the AD continuum, from subjective cognitive decline to mild cognitive impairment and AD dementia, we argue that the AD brain exhibits a progressive collapse in temporal flexibility: reduced state transition frequency, diminished connectivity variability, and entrapment in inefficient network configurations. These dynamic abnormalities correlate with molecular pathology, structural disconnection, and domain-specific cognitive deficits, positioning dFC metrics as sensitive, systems-level digital biomarkers. We further outline methodological challenges and translational opportunities for dFC in early detection, prognostic stratification, and treatment monitoring. This hypothesis reframes AD from a static disconnection syndrome to a dynamic dysrhythmia, with profound implications for both mechanistic understanding and clinical practice.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-09-18",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-19",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261487572",
+        "doi": "10.1177/13872877261487572",
+        "url": "https://doi.org/10.1177/13872877261487572",
+        "title": "Utility of biomarkers in prediction of future cognition in Alzheimer's disease continuum changes over time",
+        "authors": [
+          "Elham Ramezannezhad",
+          "Mohammad Dehghani"
+        ],
+        "abstract": "Background                     While multiple biomarkers of Alzheimer's disease (AD) and mild cognitive impairment (MCI) predict cognitive decline over time, their predictive value at each of the disease stages remains unclear.                                                           Objective                     To examine how the predictive power of biomarkers changes over time.                                                           Methods                                            We dynamically ranked a comprehensive set of multimodal biomarkers-including                       APOE                       genotype, medical history, structural MRI, FDG-PET, amyloid PET, CSF markers, metabolic measures, and neuropsychiatric tests-from baseline to 30 months in ADNI participants. Feature importance for each timepoint was estimated using random forests and features were clustered based on their patten of importance over time. As a post-hoc, the top features over time were input into a long short-term memory (LSTM) model for future ADAS-13 prediction.                                                                                Results                                            In 981 participants (751 MCI, 230 AD), clustering of top feature importances over time revealed three trajectories in MCI (stable, early-only, and declining) and four in AD (early-only, stable, early-declining, and late-increasing). The top important features over time were cognitive scores, CSF Aβ                       42                       , tau, imaging biomarkers (FDG-PET hypometabolic convergence index, temporal/parietal cortical thickness), metabolic measures (serum albumin, glucose), and apolipoproteins and omega-3. Optimized LSTM models achieved peak R                       2                        = 0.86 (RMSE = 3.90) in MCI and R                       2                        = 0.78 (RMSE = 5.86) in AD using as few as 10 features.                                                                                Conclusions                                            Early-stage prognosis relies on CSF Aβ                       42                       , p-tau181, and tau; short-term decline is best predicted by FDG-PET; structural MRI shifts from hippocampal/entorhinal to parietal/network regions over time; metabolic markers remain consistently informative; and ADAS/MMSE gain value with advancing global decline.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-09-18",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-19",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261487621",
+        "doi": "10.1177/13872877261487621",
+        "url": "https://doi.org/10.1177/13872877261487621",
+        "title": "Multi-omics integration of transcriptomics and metabolomics with machine learning uncovers novel risk factors for Alzheimer's disease",
+        "authors": [
+          "Jerome J. Choi",
+          "Corinne D. Engelman",
+          "Tianyuan Lu"
+        ],
+        "abstract": "Background                     Alzheimer's disease (AD) is a neurodegenerative disorder characterized by cognitive decline, memory impairment, and functional deterioration. Its complex pathogenesis involves amyloid plaques, tau tangles, neuroinflammation, synaptic dysfunction, and interacting genetic, environmental, and lifestyle factors. Transcriptomic and metabolomic studies have revealed molecular disruptions relevant to AD, supporting integrative approaches for biomarker discovery.                                                           Objective                     To integrate genetically imputed whole-blood transcriptomics and measured plasma metabolomics to predict cognitive performance, assessed using the PACC3 score, and identify influential genes and metabolites associated with cognition.                                                           Methods                     A machine learning model integrated transcriptomic and metabolomic data from 1046 participants in the Wisconsin Registry for Alzheimer's Prevention (WRAP). Performance was evaluated in a WRAP holdout test set and independently validated in 85 participants from the Wisconsin Alzheimer's Disease Research Center (ADRC). Feature importance was used to identify molecular contributors to prediction.                                                           Results                                            The model achieved a normalized root mean squared error of 0.707 and an R                       2                       of 0.338 in the WRAP holdout dataset (p = 5.93 × 10                       −30                       ), and corresponding values of 0.915 and 0.061 in ADRC (p = 4.71 × 10                       −2                       ). Higher imputed expression of RIPK1, IL6ST, and BIN1 was associated with poorer cognitive performance, whereas UGP2, NDUFB5, and TMOD2 were associated with better performance. Predictive metabolites included benzoate, 3-phenylpropionate, imidazolelactate, hexanoylcarnitine, and propionate-related metabolites.                                                                                Conclusions                     Multi-omics integration identified candidate biomarkers reflecting inflammatory signaling, mitochondrial dysfunction, and lipid metabolism. Together, these findings demonstrate complementary biological information captured across both omics layers. These convergent signals support improved molecular characterization of AD and biomarker prioritization for future mechanistic and translational studies.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-09-18",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-19",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261488017",
+        "doi": "10.1177/13872877261488017",
+        "url": "https://doi.org/10.1177/13872877261488017",
+        "title": "Association between caregiving status and cognitive function as well as activities of daily living among community-dwelling older adults with Alzheimer's disease: A cross-sectional study",
+        "authors": [
+          "Ruzhao Li",
+          "Binbin Zhang",
+          "Ying Qiao",
+          "Linlin Zhu"
+        ],
+        "abstract": "Background                     Alzheimer's disease is associated with progressive cognitive decline and impaired activities of daily living. Professional institutional care and family home care are common long-term care models, but their associations with patient outcomes and potential mediating pathways remain unclear.                                                           Objective                     To examine the associations of care model with cognitive function and activities of daily living in patients with mild-to-moderate Alzheimer's disease and to assess the mediating roles of neuropsychiatric symptoms and social support.                                                           Methods                     This cross-sectional study included 309 patients: 194 receiving professional institutional care and 115 receiving family home care. Cognition, daily functioning, neuropsychiatric symptoms, and social support were assessed using standardized scales. Multiple linear regression, propensity score matching, bootstrap mediation analysis, and subgroup analyses were performed.                                                           Results                     After full adjustment, professional institutional care was associated with higher Montreal Cognitive Assessment scores (β=1.87, 95% confidence interval [CI] 0.87–2.87; p &lt; 0.001) and lower Activities of Daily Living scores (β=−3.04, 95% CI −5.16 to −0.92; p = 0.005). Propensity score matching yielded consistent results. Neuropsychiatric symptoms mediated 22.37% of the association with daily functioning, whereas social support did not show a significant mediating effect. Associations were consistent across subgroups.                                                           Conclusions                     Professional institutional care was associated with better cognition and greater independence in daily living, partly through fewer neuropsychiatric symptoms. Because of the cross-sectional design, these findings do not establish causality.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-09-18",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-19",
         "fetched_from": "crossref"
       },
       {
@@ -40406,43 +41481,83 @@
         "fetched_from": "crossref"
       },
       {
-        "id": "doi:10.1093/bjsw/bcag193",
-        "doi": "10.1093/bjsw/bcag193",
-        "url": "https://doi.org/10.1093/bjsw/bcag193",
-        "title": "Food insecurity and mental health over time: Separate tests of loneliness as a mediator and as a moderator",
-        "authors": [
-          "Lei Chai"
-        ],
-        "abstract": "Abstract                   Food insecurity is widely recognized as an important social determinant of mental health, yet the processes linking food insecurity to mental well-being remain insufficiently understood. This study conducted two separate longitudinal analyses to examine (1) whether loneliness mediates the association between food insecurity and mental health, consistent with the stress proliferation perspective, and (2) whether loneliness moderates this association, consistent with the stress amplification perspective. Data came from two waves of the UK Household Longitudinal Study (N = 40,288 person-years), including the most recently released wave as of December 2025. Fixed-effects regression models were used to estimate within-individual changes over time. Results indicated that food insecurity was associated with poorer mental health over time. In the mediation analysis, loneliness accounted for part of this association. In the moderation analysis, the adverse association between food insecurity and mental health was stronger among individuals reporting higher levels of loneliness. From a social work perspective, these findings underscore the value of interventions that combine material support with strategies that strengthen social connectedness and emotional support. Integrating food assistance with relationship-building and community-based supports may help reduce the mental health burden of food insecurity and promote more equitable well-being.",
-        "source": "The British Journal of Social Work",
-        "issn": "0045-3102",
-        "date": "2026-09-17",
+        "id": "doi:10.1093/hsw/hlag044",
+        "doi": "10.1093/hsw/hlag044",
+        "url": "https://doi.org/10.1093/hsw/hlag044",
+        "title": "Mental Workload and Burnout among Social Work Professionals in Spain: The Protective Role of Psychological Capital and Perceived Social Support",
+        "authors": [],
+        "abstract": "",
+        "source": "Health &amp; Social Work",
+        "issn": "0360-7283",
+        "date": "2026-09-19",
         "subjects": [],
         "domains": [
-          "socialWork"
+          "socialWork",
+          "healthReform"
         ],
-        "firstSeen": "2026-09-18",
+        "firstSeen": "2026-09-19",
         "fetched_from": "crossref"
       },
       {
-        "id": "doi:10.1093/bjsw/bcag205",
-        "doi": "10.1093/bjsw/bcag205",
-        "url": "https://doi.org/10.1093/bjsw/bcag205",
-        "title": "Anicinapek men’s perceptions on traditional and non-Indigenous medicine",
+        "id": "doi:10.1093/bjsw/bcag203",
+        "doi": "10.1093/bjsw/bcag203",
+        "url": "https://doi.org/10.1093/bjsw/bcag203",
+        "title": "Trust-building in social work: The role of “renqing” in Chinese practice",
         "authors": [
-          "Virginie Ciléus",
-          "Oscar Labra",
-          "Augustin Ependa"
+          "Lei Wang",
+          "Yongbing Yan",
+          "Caiyun Qi",
+          "Yuan Wang"
         ],
-        "abstract": "Abstract                   This exploratory qualitative study examines the healthcare experiences of sixteen Anicinapek men from the communities of Lac Simon and Kitcisakik in north-western Quebec, Canada, focusing on their perspectives regarding Indigenous and non-Indigenous medicine. Participants expressed strong support for Indigenous medicine, valuing its role in long-term healing, its deep spiritual connection, and its grounding in ancestral knowledge and cultural identity. While some voiced concerns about biomedical care, most acknowledged its importance, particularly for the treatment of chronic conditions. The findings highlight the need for social workers and healthcare professionals to adopt culturally responsive approaches that integrate traditional healing practices within contemporary care models. Recognizing the Indigenous wellness wheel, which encompasses physical, mental, emotional, and spiritual dimensions, as a guiding framework is essential. Such practice also requires an understanding of the ongoing impacts of colonization and intergenerational trauma, as well as the central role Indigenous medicine plays in community resilience and self-determination.",
+        "abstract": "Abstract                   Establishing trust-based relationships is a prerequisite for the provision of social work services. Unlike the contractual form of trust prevalent in Western societies, renqing plays a crucial role in the process of building trust within the differential mode of association that characterizes Chinese society. Drawing on in-depth interviews with twenty-six social workers, this study examines how renqing, often regarded as an interfering factor in Western social work, functions as an important resource in China to facilitate trust-building between social workers and clients. The findings identify three core strategies. First, material renqing employs small gifts to reduce clients’ wariness toward strangers and to establish initial trust-based relationships. Second, emotional renqing, through sustained attention and presence at critical moments, deepens trusting relationship from a superficial level to a more substantive one. Third, the renqing norms—such as reciprocity, the preservation of face, and the remembrance of relational obligations—serve to sustain the ongoing operation of trust-based relationships. On this basis, the study examines the theoretical contributions of renqing to trust-building in social work, and rethinks differences in professional boundaries between Chinese and Western social work.",
         "source": "The British Journal of Social Work",
         "issn": "0045-3102",
-        "date": "2026-09-17",
+        "date": "2026-09-18",
         "subjects": [],
         "domains": [
           "socialWork"
         ],
-        "firstSeen": "2026-09-18",
+        "firstSeen": "2026-09-19",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/hsw/hlag040",
+        "doi": "10.1093/hsw/hlag040",
+        "url": "https://doi.org/10.1093/hsw/hlag040",
+        "title": "Food Insecurity in Transplant Care: Social Work Strategies, Gaps, and Opportunities for Equity",
+        "authors": [
+          "Aysha Jawed"
+        ],
+        "abstract": "",
+        "source": "Health &amp; Social Work",
+        "issn": "0360-7283",
+        "date": "2026-09-18",
+        "subjects": [],
+        "domains": [
+          "socialWork",
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-19",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/hsw/hlag046",
+        "doi": "10.1093/hsw/hlag046",
+        "url": "https://doi.org/10.1093/hsw/hlag046",
+        "title": "Food Equity Beyond Food Security: Lessons for Community Health and Social Policy in the Philippines",
+        "authors": [
+          "Ronilo P Antonio"
+        ],
+        "abstract": "",
+        "source": "Health &amp; Social Work",
+        "issn": "0360-7283",
+        "date": "2026-09-18",
+        "subjects": [],
+        "domains": [
+          "socialWork",
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-19",
         "fetched_from": "crossref"
       },
       {
@@ -40504,6 +41619,46 @@
         "domains": [
           "socialWork",
           "healthReform"
+        ],
+        "firstSeen": "2026-09-18",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/bjsw/bcag193",
+        "doi": "10.1093/bjsw/bcag193",
+        "url": "https://doi.org/10.1093/bjsw/bcag193",
+        "title": "Food insecurity and mental health over time: Separate tests of loneliness as a mediator and as a moderator",
+        "authors": [
+          "Lei Chai"
+        ],
+        "abstract": "Abstract                   Food insecurity is widely recognized as an important social determinant of mental health, yet the processes linking food insecurity to mental well-being remain insufficiently understood. This study conducted two separate longitudinal analyses to examine (1) whether loneliness mediates the association between food insecurity and mental health, consistent with the stress proliferation perspective, and (2) whether loneliness moderates this association, consistent with the stress amplification perspective. Data came from two waves of the UK Household Longitudinal Study (N = 40,288 person-years), including the most recently released wave as of December 2025. Fixed-effects regression models were used to estimate within-individual changes over time. Results indicated that food insecurity was associated with poorer mental health over time. In the mediation analysis, loneliness accounted for part of this association. In the moderation analysis, the adverse association between food insecurity and mental health was stronger among individuals reporting higher levels of loneliness. From a social work perspective, these findings underscore the value of interventions that combine material support with strategies that strengthen social connectedness and emotional support. Integrating food assistance with relationship-building and community-based supports may help reduce the mental health burden of food insecurity and promote more equitable well-being.",
+        "source": "The British Journal of Social Work",
+        "issn": "0045-3102",
+        "date": "2026-09-17",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-09-18",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/bjsw/bcag205",
+        "doi": "10.1093/bjsw/bcag205",
+        "url": "https://doi.org/10.1093/bjsw/bcag205",
+        "title": "Anicinapek men’s perceptions on traditional and non-Indigenous medicine",
+        "authors": [
+          "Virginie Ciléus",
+          "Oscar Labra",
+          "Augustin Ependa"
+        ],
+        "abstract": "Abstract                   This exploratory qualitative study examines the healthcare experiences of sixteen Anicinapek men from the communities of Lac Simon and Kitcisakik in north-western Quebec, Canada, focusing on their perspectives regarding Indigenous and non-Indigenous medicine. Participants expressed strong support for Indigenous medicine, valuing its role in long-term healing, its deep spiritual connection, and its grounding in ancestral knowledge and cultural identity. While some voiced concerns about biomedical care, most acknowledged its importance, particularly for the treatment of chronic conditions. The findings highlight the need for social workers and healthcare professionals to adopt culturally responsive approaches that integrate traditional healing practices within contemporary care models. Recognizing the Indigenous wellness wheel, which encompasses physical, mental, emotional, and spiritual dimensions, as a guiding framework is essential. Such practice also requires an understanding of the ongoing impacts of colonization and intergenerational trauma, as well as the central role Indigenous medicine plays in community resilience and self-determination.",
+        "source": "The British Journal of Social Work",
+        "issn": "0045-3102",
+        "date": "2026-09-17",
+        "subjects": [],
+        "domains": [
+          "socialWork"
         ],
         "firstSeen": "2026-09-18",
         "fetched_from": "crossref"
@@ -41733,10 +42888,10 @@
   },
   "totals": {
     "socialSecurity": 1526,
-    "elderCare": 143,
-    "healthReform": 289,
-    "agingHealth": 208,
-    "socialWork": 74
+    "elderCare": 155,
+    "healthReform": 304,
+    "agingHealth": 227,
+    "socialWork": 78
   },
   "feeds_ok": 41
 }
