@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-19",
-  "fetched": "2026-09-19T06:09:47+00:00",
+  "date": "2026-09-20",
+  "fetched": "2026-09-20T06:34:38+00:00",
   "domains": {
     "socialSecurity": [
       {
@@ -23340,6 +23340,162 @@
         "fetched_from": "crossref"
       },
       {
+        "id": "doi:10.1186/s12877-026-08293-x",
+        "doi": "10.1186/s12877-026-08293-x",
+        "url": "https://doi.org/10.1186/s12877-026-08293-x",
+        "title": "A paradoxical protection: cultural contradictions and older adult abuse",
+        "authors": [
+          "Sunday Olutayo Fakunle"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-19",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-20",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08286-w",
+        "doi": "10.1186/s12877-026-08286-w",
+        "url": "https://doi.org/10.1186/s12877-026-08286-w",
+        "title": "The impact of COVID-19 lockdown measures on cognition and physical function of older adults in long term care facilities: a systematic review",
+        "authors": [
+          "Hui Ying Koh",
+          "Poorva Saxena",
+          "Catriona Curtin",
+          "Suzanne Timmons"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-19",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-20",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08245-5",
+        "doi": "10.1186/s12877-026-08245-5",
+        "url": "https://doi.org/10.1186/s12877-026-08245-5",
+        "title": "The associations between multimorbidity, healthy lifestyles and health status among older adults: a network analysis",
+        "authors": [
+          "Xiao Zheng",
+          "Lingli Yang",
+          "Lidan Ou",
+          "Ge Zhang",
+          "Kaiyi Liu",
+          "Lijun Ma",
+          "Chichen Zhang"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-19",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-20",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08307-8",
+        "doi": "10.1186/s12877-026-08307-8",
+        "url": "https://doi.org/10.1186/s12877-026-08307-8",
+        "title": "Impact of telemedicine on minimizing polypharmacy in older adult patients receiving primary care: a systematic review",
+        "authors": [
+          "Sultan H. Alamri",
+          "Rahaf S. Almaimooni",
+          "Tahani N. Almofeed Altamimi",
+          "Alya I. Alselami",
+          "Raghad A. Alshehri",
+          "Taraf H. Kamkoum",
+          "Ayman M. Aljohani",
+          "Fatema K. Alabyadh",
+          "Adnan A. Alweqayyan",
+          "Jumanah Y. Alsharif",
+          "Hams O. Aljadani",
+          "Raghad O. Hasan",
+          "Bariah A. Alhisan",
+          "Ayesha Siddiqua",
+          "Sultan A. Alqasim"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-19",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-20",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08336-3",
+        "doi": "10.1186/s12877-026-08336-3",
+        "url": "https://doi.org/10.1186/s12877-026-08336-3",
+        "title": "Alcohol use and its association with dementia among older persons in northern and southwestern Uganda: a case-control study",
+        "authors": [
+          "Deo Benyumiza",
+          "Nathan Kakongi",
+          "Evas Nimusiima",
+          "Timothy Mwanje Kintu",
+          "Edith K Wakida",
+          "Celestino Obua",
+          "Samuel Maling"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-19",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-20",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08332-7",
+        "doi": "10.1186/s12877-026-08332-7",
+        "url": "https://doi.org/10.1186/s12877-026-08332-7",
+        "title": "Potentially inappropriate medication use and selected drug-related problems among older adults in Aseer Region, Saudi Arabia: a retrospective multicenter study",
+        "authors": [
+          "Tahani M. Almeleebia",
+          "Fahdah Al-Mutairi",
+          "Abdulhamid Althagafi",
+          "Lama Y. Alshowail",
+          "Bashayer F. Alshehri",
+          "Sara A. Assiri",
+          "Saad B. Aljohani",
+          "Eman Shorog"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-19",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-20",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1186/s12877-026-08291-z",
         "doi": "10.1186/s12877-026-08291-z",
         "url": "https://doi.org/10.1186/s12877-026-08291-z",
@@ -27090,6 +27246,125 @@
           "healthReform"
         ],
         "firstSeen": "2026-09-19",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmicm2609443",
+        "doi": "10.1056/nejmicm2609443",
+        "url": "https://doi.org/10.1056/nejmicm2609443",
+        "title": "Cerebral Schistosomiasis",
+        "authors": [
+          "Mary-France G. Lebii",
+          "Bonifacio C. Pedregosa"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-09-19",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-20",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmp2601340",
+        "doi": "10.1056/nejmp2601340",
+        "url": "https://doi.org/10.1056/nejmp2601340",
+        "title": "Gaps and Borders",
+        "authors": [
+          "Brandon Oddo"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-09-19",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-20",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmp2605442",
+        "doi": "10.1056/nejmp2605442",
+        "url": "https://doi.org/10.1056/nejmp2605442",
+        "title": "The End of the War on Biomedical Science?",
+        "authors": [
+          "David Blumenthal",
+          "James A. Morone"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-09-19",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-20",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmp2609007",
+        "doi": "10.1056/nejmp2609007",
+        "url": "https://doi.org/10.1056/nejmp2609007",
+        "title": "A Cure Out of Most Patients’ Reach — Sickle Cell Disease in the Gene-Therapy Era",
+        "authors": [
+          "Naif I. AlJohani",
+          "Sultan Almutairi"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-09-19",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-20",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmp2609124",
+        "doi": "10.1056/nejmp2609124",
+        "url": "https://doi.org/10.1056/nejmp2609124",
+        "title": "Declining Child Health in the United States — Addressing the Developmental Ecosystem",
+        "authors": [
+          "Christopher B. Forrest",
+          "Neal Halfon"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-09-19",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-20",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/hsw/hlag043",
+        "doi": "10.1093/hsw/hlag043",
+        "url": "https://doi.org/10.1093/hsw/hlag043",
+        "title": "Make America Healthy Again: Evaluating Policy Beyond the Partisan Label",
+        "authors": [
+          "Ethan J Evans"
+        ],
+        "abstract": "",
+        "source": "Health &amp; Social Work",
+        "issn": "0360-7283",
+        "date": "2026-09-19",
+        "subjects": [],
+        "domains": [
+          "socialWork",
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-20",
         "fetched_from": "crossref"
       },
       {
@@ -36019,6 +36294,162 @@
         "fetched_from": "crossref"
       },
       {
+        "id": "doi:10.1186/s12877-026-08293-x",
+        "doi": "10.1186/s12877-026-08293-x",
+        "url": "https://doi.org/10.1186/s12877-026-08293-x",
+        "title": "A paradoxical protection: cultural contradictions and older adult abuse",
+        "authors": [
+          "Sunday Olutayo Fakunle"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-19",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-20",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08286-w",
+        "doi": "10.1186/s12877-026-08286-w",
+        "url": "https://doi.org/10.1186/s12877-026-08286-w",
+        "title": "The impact of COVID-19 lockdown measures on cognition and physical function of older adults in long term care facilities: a systematic review",
+        "authors": [
+          "Hui Ying Koh",
+          "Poorva Saxena",
+          "Catriona Curtin",
+          "Suzanne Timmons"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-19",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-20",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08245-5",
+        "doi": "10.1186/s12877-026-08245-5",
+        "url": "https://doi.org/10.1186/s12877-026-08245-5",
+        "title": "The associations between multimorbidity, healthy lifestyles and health status among older adults: a network analysis",
+        "authors": [
+          "Xiao Zheng",
+          "Lingli Yang",
+          "Lidan Ou",
+          "Ge Zhang",
+          "Kaiyi Liu",
+          "Lijun Ma",
+          "Chichen Zhang"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-19",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-20",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08307-8",
+        "doi": "10.1186/s12877-026-08307-8",
+        "url": "https://doi.org/10.1186/s12877-026-08307-8",
+        "title": "Impact of telemedicine on minimizing polypharmacy in older adult patients receiving primary care: a systematic review",
+        "authors": [
+          "Sultan H. Alamri",
+          "Rahaf S. Almaimooni",
+          "Tahani N. Almofeed Altamimi",
+          "Alya I. Alselami",
+          "Raghad A. Alshehri",
+          "Taraf H. Kamkoum",
+          "Ayman M. Aljohani",
+          "Fatema K. Alabyadh",
+          "Adnan A. Alweqayyan",
+          "Jumanah Y. Alsharif",
+          "Hams O. Aljadani",
+          "Raghad O. Hasan",
+          "Bariah A. Alhisan",
+          "Ayesha Siddiqua",
+          "Sultan A. Alqasim"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-19",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-20",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08336-3",
+        "doi": "10.1186/s12877-026-08336-3",
+        "url": "https://doi.org/10.1186/s12877-026-08336-3",
+        "title": "Alcohol use and its association with dementia among older persons in northern and southwestern Uganda: a case-control study",
+        "authors": [
+          "Deo Benyumiza",
+          "Nathan Kakongi",
+          "Evas Nimusiima",
+          "Timothy Mwanje Kintu",
+          "Edith K Wakida",
+          "Celestino Obua",
+          "Samuel Maling"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-19",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-20",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08332-7",
+        "doi": "10.1186/s12877-026-08332-7",
+        "url": "https://doi.org/10.1186/s12877-026-08332-7",
+        "title": "Potentially inappropriate medication use and selected drug-related problems among older adults in Aseer Region, Saudi Arabia: a retrospective multicenter study",
+        "authors": [
+          "Tahani M. Almeleebia",
+          "Fahdah Al-Mutairi",
+          "Abdulhamid Althagafi",
+          "Lama Y. Alshowail",
+          "Bashayer F. Alshehri",
+          "Sara A. Assiri",
+          "Saad B. Aljohani",
+          "Eman Shorog"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-19",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-20",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1186/s12877-026-08291-z",
         "doi": "10.1186/s12877-026-08291-z",
         "url": "https://doi.org/10.1186/s12877-026-08291-z",
@@ -41499,25 +41930,23 @@
         "fetched_from": "crossref"
       },
       {
-        "id": "doi:10.1093/bjsw/bcag203",
-        "doi": "10.1093/bjsw/bcag203",
-        "url": "https://doi.org/10.1093/bjsw/bcag203",
-        "title": "Trust-building in social work: The role of “renqing” in Chinese practice",
+        "id": "doi:10.1093/hsw/hlag043",
+        "doi": "10.1093/hsw/hlag043",
+        "url": "https://doi.org/10.1093/hsw/hlag043",
+        "title": "Make America Healthy Again: Evaluating Policy Beyond the Partisan Label",
         "authors": [
-          "Lei Wang",
-          "Yongbing Yan",
-          "Caiyun Qi",
-          "Yuan Wang"
+          "Ethan J Evans"
         ],
-        "abstract": "Abstract                   Establishing trust-based relationships is a prerequisite for the provision of social work services. Unlike the contractual form of trust prevalent in Western societies, renqing plays a crucial role in the process of building trust within the differential mode of association that characterizes Chinese society. Drawing on in-depth interviews with twenty-six social workers, this study examines how renqing, often regarded as an interfering factor in Western social work, functions as an important resource in China to facilitate trust-building between social workers and clients. The findings identify three core strategies. First, material renqing employs small gifts to reduce clients’ wariness toward strangers and to establish initial trust-based relationships. Second, emotional renqing, through sustained attention and presence at critical moments, deepens trusting relationship from a superficial level to a more substantive one. Third, the renqing norms—such as reciprocity, the preservation of face, and the remembrance of relational obligations—serve to sustain the ongoing operation of trust-based relationships. On this basis, the study examines the theoretical contributions of renqing to trust-building in social work, and rethinks differences in professional boundaries between Chinese and Western social work.",
-        "source": "The British Journal of Social Work",
-        "issn": "0045-3102",
-        "date": "2026-09-18",
+        "abstract": "",
+        "source": "Health &amp; Social Work",
+        "issn": "0360-7283",
+        "date": "2026-09-19",
         "subjects": [],
         "domains": [
-          "socialWork"
+          "socialWork",
+          "healthReform"
         ],
-        "firstSeen": "2026-09-19",
+        "firstSeen": "2026-09-20",
         "fetched_from": "crossref"
       },
       {
@@ -41556,6 +41985,28 @@
         "domains": [
           "socialWork",
           "healthReform"
+        ],
+        "firstSeen": "2026-09-19",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/bjsw/bcag203",
+        "doi": "10.1093/bjsw/bcag203",
+        "url": "https://doi.org/10.1093/bjsw/bcag203",
+        "title": "Trust-building in social work: The role of “renqing” in Chinese practice",
+        "authors": [
+          "Lei Wang",
+          "Yongbing Yan",
+          "Caiyun Qi",
+          "Yuan Wang"
+        ],
+        "abstract": "Abstract                   Establishing trust-based relationships is a prerequisite for the provision of social work services. Unlike the contractual form of trust prevalent in Western societies, renqing plays a crucial role in the process of building trust within the differential mode of association that characterizes Chinese society. Drawing on in-depth interviews with twenty-six social workers, this study examines how renqing, often regarded as an interfering factor in Western social work, functions as an important resource in China to facilitate trust-building between social workers and clients. The findings identify three core strategies. First, material renqing employs small gifts to reduce clients’ wariness toward strangers and to establish initial trust-based relationships. Second, emotional renqing, through sustained attention and presence at critical moments, deepens trusting relationship from a superficial level to a more substantive one. Third, the renqing norms—such as reciprocity, the preservation of face, and the remembrance of relational obligations—serve to sustain the ongoing operation of trust-based relationships. On this basis, the study examines the theoretical contributions of renqing to trust-building in social work, and rethinks differences in professional boundaries between Chinese and Western social work.",
+        "source": "The British Journal of Social Work",
+        "issn": "0045-3102",
+        "date": "2026-09-18",
+        "subjects": [],
+        "domains": [
+          "socialWork"
         ],
         "firstSeen": "2026-09-19",
         "fetched_from": "crossref"
@@ -42888,10 +43339,10 @@
   },
   "totals": {
     "socialSecurity": 1526,
-    "elderCare": 155,
-    "healthReform": 304,
-    "agingHealth": 227,
-    "socialWork": 78
+    "elderCare": 161,
+    "healthReform": 310,
+    "agingHealth": 233,
+    "socialWork": 79
   },
   "feeds_ok": 41
 }
