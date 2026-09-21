@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-20",
-  "fetched": "2026-09-20T06:34:38+00:00",
+  "date": "2026-09-21",
+  "fetched": "2026-09-21T06:40:45+00:00",
   "domains": {
     "socialSecurity": [
       {
@@ -23288,6 +23288,82 @@
     ],
     "elderCare": [
       {
+        "id": "doi:10.1186/s12877-026-08275-z",
+        "doi": "10.1186/s12877-026-08275-z",
+        "url": "https://doi.org/10.1186/s12877-026-08275-z",
+        "title": "Tooth retention, dental service utilization, and fluoride awareness among community-dwelling older adults in Bhubaneswar, India: a cross-sectional study",
+        "authors": [
+          "Satya Ranjan Misra",
+          "Neeta Mohanty",
+          "Satya Sundar Gajendra Mohapatra",
+          "Rupsa Das",
+          "Abhisek Kabat"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-21",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-21",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08262-4",
+        "doi": "10.1186/s12877-026-08262-4",
+        "url": "https://doi.org/10.1186/s12877-026-08262-4",
+        "title": "The prevalence of major adverse cardiovascular events after hip fracture surgery in older adults: a systematic review",
+        "authors": [
+          "Lei Yuan",
+          "Lijun Chen",
+          "Jurong Liu",
+          "Xiaorong Qin",
+          "Qiuxia Zhang",
+          "Jinwen Zou",
+          "Jiping Xie",
+          "Yuanwei Dong",
+          "Xuping Bian"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-21",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-21",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08208-w",
+        "doi": "10.1186/s12877-026-08208-w",
+        "url": "https://doi.org/10.1186/s12877-026-08208-w",
+        "title": "An immersive multicomponent virtual reality intervention for cognitive and emotional health in community-dwelling older adults with mild cognitive impairment: a randomized controlled trial",
+        "authors": [
+          "Songju Lee",
+          "Jeehee Han",
+          "Youn-Jung Son",
+          "Joohyun Chung",
+          "Heesook Son"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-21",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-21",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1186/s12877-026-08302-z",
         "doi": "10.1186/s12877-026-08302-z",
         "url": "https://doi.org/10.1186/s12877-026-08302-z",
@@ -36242,6 +36318,82 @@
     ],
     "agingHealth": [
       {
+        "id": "doi:10.1186/s12877-026-08275-z",
+        "doi": "10.1186/s12877-026-08275-z",
+        "url": "https://doi.org/10.1186/s12877-026-08275-z",
+        "title": "Tooth retention, dental service utilization, and fluoride awareness among community-dwelling older adults in Bhubaneswar, India: a cross-sectional study",
+        "authors": [
+          "Satya Ranjan Misra",
+          "Neeta Mohanty",
+          "Satya Sundar Gajendra Mohapatra",
+          "Rupsa Das",
+          "Abhisek Kabat"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-21",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-21",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08262-4",
+        "doi": "10.1186/s12877-026-08262-4",
+        "url": "https://doi.org/10.1186/s12877-026-08262-4",
+        "title": "The prevalence of major adverse cardiovascular events after hip fracture surgery in older adults: a systematic review",
+        "authors": [
+          "Lei Yuan",
+          "Lijun Chen",
+          "Jurong Liu",
+          "Xiaorong Qin",
+          "Qiuxia Zhang",
+          "Jinwen Zou",
+          "Jiping Xie",
+          "Yuanwei Dong",
+          "Xuping Bian"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-21",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-21",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08208-w",
+        "doi": "10.1186/s12877-026-08208-w",
+        "url": "https://doi.org/10.1186/s12877-026-08208-w",
+        "title": "An immersive multicomponent virtual reality intervention for cognitive and emotional health in community-dwelling older adults with mild cognitive impairment: a randomized controlled trial",
+        "authors": [
+          "Songju Lee",
+          "Jeehee Han",
+          "Youn-Jung Son",
+          "Joohyun Chung",
+          "Heesook Son"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-21",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-21",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1186/s12877-026-08302-z",
         "doi": "10.1186/s12877-026-08302-z",
         "url": "https://doi.org/10.1186/s12877-026-08302-z",
@@ -41912,6 +42064,27 @@
         "fetched_from": "crossref"
       },
       {
+        "id": "doi:10.1007/s10896-026-01162-6",
+        "doi": "10.1007/s10896-026-01162-6",
+        "url": "https://doi.org/10.1007/s10896-026-01162-6",
+        "title": "Examining the Relation Between Intimate Partner Violence and Housing Instability by Gender",
+        "authors": [
+          "Ashley Withrow",
+          "Laura Voith",
+          "Elizabeth Pfoh"
+        ],
+        "abstract": "Abstract                                        Purpose                     Survivors of intimate partner violence (IPV) frequently face housing challenges both during and after experiencing abuse. Although previous studies have identified a link between IPV and housing instability, limitations in measurement and sampling have left significant gaps in the existing literature. While controlling for key covariates, this study examined the relation between physical, sexual, and emotional abuse, as well as fear of intimate partners, and three forms of housing instability: difficulty paying rent or mortgage, frequent moves, and homelessness. Additionally, the study explores whether gender moderates these relationships, addressing the research gap of men survivors in previous studies.                                                           Methods                     A series of logistic regression models were used to examine 163,284 adult patients’ electronic health records.                                                           Results                     Emotional abuse significantly increased the odds of all three indicators of housing instability, and all four types of IPV elevated the risk of homelessness. Gender was found to moderate the relationship between IPV and difficulty with rent and mortgage payments.                                                           Conclusions                     Individual and environmental factors emerged as significant predictors of housing instability, highlighting the importance of practitioners using an ecological perspective when screening for and addressing IPV. Practitioners should give increased attention to an individual disclosing emotional abuse, given the significance of emotional abuse in all three models, even without other forms of reported IPV. Future research should include longitudinal studies that focus on the temporal ordering of the complex association between IPV and housing instability.",
+        "source": "Journal of Family Violence",
+        "issn": "0885-7482",
+        "date": "2026-09-21",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-09-21",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1093/hsw/hlag044",
         "doi": "10.1093/hsw/hlag044",
         "url": "https://doi.org/10.1093/hsw/hlag044",
@@ -43339,10 +43512,10 @@
   },
   "totals": {
     "socialSecurity": 1526,
-    "elderCare": 161,
+    "elderCare": 164,
     "healthReform": 310,
-    "agingHealth": 233,
-    "socialWork": 79
+    "agingHealth": 236,
+    "socialWork": 80
   },
   "feeds_ok": 41
 }
