@@ -1,8 +1,30 @@
 {
-  "date": "2026-09-21",
-  "fetched": "2026-09-21T06:40:45+00:00",
+  "date": "2026-09-22",
+  "fetched": "2026-09-22T06:28:51+00:00",
   "domains": {
     "socialSecurity": [
+      {
+        "id": "doi:10.1111/jori.70083",
+        "doi": "10.1111/jori.70083",
+        "url": "https://doi.org/10.1111/jori.70083",
+        "title": "Equilibrium insurance pricing for large losses",
+        "authors": [
+          "Bingzheng Chen",
+          "Jan Dhaene",
+          "Chun Liu",
+          "Shunzhi Pang"
+        ],
+        "abstract": "Abstract                   Catastrophe‐exposed P&amp;C insurance markets increasingly confront low‐frequency but high‐severity losses. When such risks interact with costly external financing, insurance pricing depends not only on expected losses but also on insurers' balance‐sheet conditions and capacity constraints. In this paper, we develop a dynamic competitive equilibrium framework of insurance capacity and pricing under jump‐diffusion risk and model uncertainty. We show that catastrophe jumps introduce a liability‐side gamble‐for‐resurrection mechanism through the interaction of limited liability and recapitalization options, which can generate non‐monotonic and non‐smooth pricing patterns under certain conditions. Robustness concerns raise equilibrium prices and capital buffers while attenuating excessive risk‐taking incentives. Using a market‐disciplined calibration, we show that jump risk generates substantial pricing effects beyond expected losses alone and shapes the duration of endogenous underwriting cycles.",
+        "source": "Journal of Risk and Insurance",
+        "issn": "0022-4367",
+        "date": "2026-09-21",
+        "subjects": [],
+        "domains": [
+          "socialSecurity"
+        ],
+        "firstSeen": "2026-09-22",
+        "fetched_from": "crossref"
+      },
       {
         "id": "doi:10.1111/1468-0009.70134",
         "doi": "10.1111/1468-0009.70134",
@@ -23288,6 +23310,186 @@
     ],
     "elderCare": [
       {
+        "id": "doi:10.1186/s12877-026-08315-8",
+        "doi": "10.1186/s12877-026-08315-8",
+        "url": "https://doi.org/10.1186/s12877-026-08315-8",
+        "title": "Older patients and intensive care: factors that influence patients decisions on life sustaining measures",
+        "authors": [
+          "Adrian Rosada",
+          "Drin Ferizaj",
+          "Nils Lahmann",
+          "Frank Samuel Schaefer",
+          "Ursula Müller-Werdan"
+        ],
+        "abstract": "Abstract                                        Background                     Physicians treating older patients are frequently unaware of their patients’ personal attitudes towards life-sustaining measures like ventilation, resuscitation, feeding tubes, or ICU admission. In routine clinical practice, there is often little time for reflection prior to deciding in favor or against life sustaining measures in critical medical conditions.                     Although decisions for or against these measures should ideally be made jointly by the patient and the treating physician, factors like age, disease burden, social inclusion, and affective state may play an important role in the patient’s motivation.                                                           Methods                     Data from 161 inpatients (mean age 82.0 years) on a geriatric ward were collected and analyzed. Patients were interviewed about their attitudes towards life-sustaining measures like ventilation, resuscitation, tube feeding, ICU admission, and dialysis. Four composite indices were formed by combining sign-aligned component variables: medical burden (age and Charlson Comorbidity Index), functional and cognitive impairment (Barthel Index, iADL, and MoCA), affective distress (Geriatric Depression Scale and Hamilton Depression Scale suicidality item), and social support (living situation, having children, and having friends). These indices with other covariates were then analyzed using a Bayesian Rasch item response model with latent regression.                                                           Results                     Overall, 14.3% refused all invasive life sustaining measures, whereas 33.8% wished to receive all of the measures listed above. Artificial nutrition was the most refused measure (refused by 53.4%), whereas ICU admission was the most commonly accepted measure (74.4%). Social support had no meaningful association with the decision to accept or refuse life-sustaining measures. Relevant predictors were primarily lower levels of affective distress, and secondarily better functional and cognitive performance and lower medical burden.                                                           Conclusions                     Even among older patients, only a minority completely reject life-sustaining measures, even though their life expectancy is often significantly reduced. Patient’s attitude towards life-sustaining measures appears to be related more strongly to affective state, functional performance, and medical burden than living situation or social inclusion. As the patient’s emotional and functional state can certainly be influenced by medical treatment, practitioners should bear this in mind and, where appropriate, reassess their patients’ attitude towards LSM once the aforementioned conditions have improved.                                                           Clinical trial number                     Registered with the clinical trial registry Deutsches Register Klinischer Studien.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-22",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08300-1",
+        "doi": "10.1186/s12877-026-08300-1",
+        "url": "https://doi.org/10.1186/s12877-026-08300-1",
+        "title": "Serum GFAP and UCH-L1 in selected older emergency department patients: positivity beyond documented head injury",
+        "authors": [
+          "Jakub Nożewski",
+          "Maria Błaszkiewicz",
+          "Lidia Gackowska"
+        ],
+        "abstract": "Abstract                                        Background                     Older adults frequently present to emergency departments (EDs) after falls or suspected head injury, often with multimorbidity, cognitive impairment, and uncertain injury timing. Glial fibrillary acidic protein (GFAP) and ubiquitin C-terminal hydrolase L1 (UCH-L1) may support imaging decisions after mild traumatic brain injury, but age- and disease-related elevations may reduce specificity in older patients.                                                           Methods                                            We conducted a single-center exploratory observational pilot study with prospective serum collection and retrospective clinical and imaging data abstraction in Poland from October 2023 to April 2024. Consecutive eligible patients aged ≥ 65 years presenting during the primary investigator’s clinical shifts were enrolled. Participants were classified as head injury sampled ≤ 24 h (                       n                        = 47), head injury sampled &gt; 24 h (                       n                        = 7), or selected non-trauma presentations without documented head injury (                       n                        = 41). GFAP and UCH-L1 were measured on the Abbott ARCHITECT platform. We assessed positivity at manufacturer decision limits (GFAP ≥ 35 pg/mL; UCH-L1 ≥ 400 pg/mL). All patients in the ≤ 24-h subgroup underwent head CT; the composite endpoint included acute traumatic intracranial hemorrhage or cerebral contusion and/or acute fractures of the skull, facial skeleton, or upper cervical spine.                                                                                Results                     GFAP positivity occurred in 91.5% (43/47), 100.0% (7/7; descriptive only), and 78.0% (32/41) of the three groups, respectively. UCH-L1 positivity occurred in 55.3% (26/47), 42.9% (3/7), and 26.8% (11/41). Nine of 47 patients (19.1%) in the ≤ 24-h subgroup had at least one CT-positive acute traumatic finding. GFAP showed a preliminary discriminatory signal (AUC 0.868; 95% CI 0.728–1.000), whereas UCH-L1 showed no apparent discrimination (AUC 0.488; 95% CI 0.222–0.755). A combined model yielded an AUC of 0.874 (95% CI 0.747–1.000), only minimally higher than GFAP alone. At the manufacturer GFAP decision limit, sensitivity was 100.0% (9/9; 95% CI 66.4–100.0) and specificity was 10.5% (4/38; 95% CI 2.9–24.8).                                                           Conclusions                     Among selected older ED patients, positivity at manufacturer decision limits was frequent beyond documented head injury. GFAP showed a preliminary signal for the composite acute traumatic CT endpoint, but estimates were imprecise and specificity was very low; UCH-L1 added little diagnostic information. These findings support cautious, age- and context-aware interpretation and require external validation. They do not establish new clinical thresholds or effects on geriatric care pathways.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-22",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08340-7",
+        "doi": "10.1186/s12877-026-08340-7",
+        "url": "https://doi.org/10.1186/s12877-026-08340-7",
+        "title": "Cardiometabolic multimorbidity phenotypes and their associations with functional and cognitive outcomes in older Chilean adults: findings from the Chilean national health survey",
+        "authors": [
+          "Josivaldo De Souza-Lima",
+          "Maribel Parra-Saldías",
+          "Daniel Duclos-Bastías",
+          "Andrés Godoy-Cumillaf",
+          "Eugenio Merellano-Navarro",
+          "Sandra Mahecha-Matsudo",
+          "Pedro Valdivia-Moral"
+        ],
+        "abstract": "Abstract                                        Background                     Multimorbidity is highly prevalent among older adults and is associated with functional decline, disability, cognitive impairment, and increased healthcare burden. However, traditional disease-count approaches may fail to capture the heterogeneity of multimorbidity patterns. This study aimed to identify cardiometabolic multimorbidity phenotypes and examine their associations with functional and cognitive outcomes among older Chilean adults.                                                           Methods                     A cross-sectional analysis was conducted using data from 2,031 community-dwelling adults aged ≥ 60 years from the Chilean National Health Survey 2016–2017. Six objectively measured cardiometabolic conditions were included: diabetes, hypertension, metabolic syndrome, elevated total cholesterol, elevated triglycerides, and obesity. K-means cluster analysis was applied to identify multimorbidity phenotypes, and the number of clusters was selected combining elbow, silhouette, and clinical interpretability criteria. Functional outcomes included self-rated health assessed using the EQ-5D visual analogue scale (EQ-VAS), mobility limitations, difficulty performing usual activities, and pain/discomfort. Cognitive performance was assessed using the abbreviated Mini-Mental State Examination. Adjusted linear regression models controlling for age and sex were performed.                                                           Results                                            Overall, 53.5% of participants presented multimorbidity (≥ 2 conditions). Four multimorbidity phenotypes were identified: Low-burden (30.9%), Obesity-predominant (25.1%), Hypertension-dominant (22.1%), and Metabolic + obesity (21.9%). Significant between-group differences were observed for self-rated health (ANOVA                       p                        = 0.022), cognitive performance (                       p                        = 0.0003), mobility limitations (                       p                        = 0.005), difficulty performing usual activities (                       p                        = 0.0008), and pain/discomfort (                       p                        = 0.003). The phenotype structure was robust to the exclusion of metabolic syndrome in a sensitivity analysis (Adjusted Rand Index = 0.719). In adjusted analyses with the Low-burden phenotype as reference, the Hypertension-dominant phenotype was independently associated with greater pain/discomfort (β = 0.14, 95% CI 0.06 to 0.21; FDR-adjusted                       p                        = 0.011) and the Metabolic + obesity phenotype with higher Mini-Mental scores (β = 0.56, 95% CI 0.17 to 0.95; FDR-adjusted                       p                        = 0.039); an association between the Hypertension-dominant phenotype and lower self-rated health (β = -4.25, 95% CI -8.00 to -0.50) did not withstand correction for multiple comparisons.                                                                                Conclusions                     Distinct cardiometabolic multimorbidity phenotypes were differentially associated with functional and cognitive outcomes among older Chilean adults. These findings support the importance of phenotype-based approaches to improve risk stratification and promote more personalized strategies in geriatric care and healthy aging.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-22",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08308-7",
+        "doi": "10.1186/s12877-026-08308-7",
+        "url": "https://doi.org/10.1186/s12877-026-08308-7",
+        "title": "Development and validation of a machine learning model for predicting refracture risk in older adults with osteoporotic vertebral compression fractures",
+        "authors": [
+          "Yufeng Zhou",
+          "Songyue Deng",
+          "Jianping He",
+          "Lipei Bao",
+          "Xu Zhao",
+          "Ansu Wang"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-22",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08334-5",
+        "doi": "10.1186/s12877-026-08334-5",
+        "url": "https://doi.org/10.1186/s12877-026-08334-5",
+        "title": "Patient-family concordance in end-of-life decision-making preferences among terminally ill older adults: a cross-sectional study",
+        "authors": [
+          "Tingting Jiang",
+          "Dan Wei",
+          "Qian Chen",
+          "Qi Zhang"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-22",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08280-2",
+        "doi": "10.1186/s12877-026-08280-2",
+        "url": "https://doi.org/10.1186/s12877-026-08280-2",
+        "title": "Mapping the evidence on interventions to reduce potentially inappropriate prescriptions in older adults: a scoping overview of 127 systematic reviews",
+        "authors": [
+          "Ángel García Álvarez",
+          "Narges Malih",
+          "David Morales Hernández",
+          "Roberto Santa Cruz",
+          "Ignacio Ricci-Cabello",
+          "Pau Riera Serra",
+          "Daniela C. Gonçalves-Bradley",
+          "Laura Gallardo-Alfaro",
+          "Maria Jesús Serrano Ripoll",
+          "Catalina Calafat Villalonga",
+          "Barbara A. Ferrer Jaillard",
+          "Manuel Pinteño Blanco",
+          "David Medina Bombardó",
+          "Maria Angela Doronzo",
+          "Sebastián Jaume Gayà",
+          "Maria A. Fiol-deRoque"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-22",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08319-4",
+        "doi": "10.1186/s12877-026-08319-4",
+        "url": "https://doi.org/10.1186/s12877-026-08319-4",
+        "title": "Measurement properties of instruments to measure lower limb functional ability and balance after technology-assisted physical activity interventions in community-dwelling older adults: an umbrella review of systematic reviews and meta-analyses",
+        "authors": [
+          "Gamze Yalcinkaya Colak",
+          "Veerle Knoop",
+          "Gunay Yıldızer",
+          "Juan Tortosa-Martinez",
+          "Veysel Alcan",
+          "Anabela G. Silva"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-22",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-22",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1186/s12877-026-08275-z",
         "doi": "10.1186/s12877-026-08275-z",
         "url": "https://doi.org/10.1186/s12877-026-08275-z",
@@ -23361,6 +23563,293 @@
           "agingHealth"
         ],
         "firstSeen": "2026-09-21",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/geront/gnag225",
+        "doi": "10.1093/geront/gnag225",
+        "url": "https://doi.org/10.1093/geront/gnag225",
+        "title": "Relationship Quality Trajectories and Financial Abuse Among Older Adults",
+        "authors": [
+          "Wei-Lin Xue",
+          "Kylie Meyer"
+        ],
+        "abstract": "Abstract                                        Background and Objectives                     Financial abuse is a prevalent yet underreported form of elder abuse with serious health and economic consequences. Prior research has linked poor relationship quality to financial abuse risk, but most studies rely on cross-sectional designs and focus on a single relationship type. This study examined whether 10-year changes in relationship quality with spouses, family, and friends are associated with subsequent financial abuse.                                                           Research Design and Methods                     Guided by social exchange theory, this study used data from three waves of the National Social Life, Health, and Aging Project. Relationship quality was categorized as stable, improving, or worsening over a 10-year period. Logistic regression models were estimated for each relationship type, adjusting for sociodemographic characteristics.                                                           Results                     Older adults with worsening family or friendship relationships over the 10-year period had more than twice the odds of experiencing subsequent financial abuse compared with those with stable relationships. Improving relationship trajectories were not significantly associated with financial abuse risk. Changes in spousal relationship quality were also not significantly associated with financial abuse.                                                           Discussion and Implications                     These findings suggest that worsening family and friendship relationships over time may be an early indicator of financial abuse risk. Monitoring changes in older adults’ social relationships and supporting relationship stability may be important strategies for preventing financial abuse in later life.",
+        "source": "The Gerontologist",
+        "issn": "0016-9013",
+        "date": "2026-09-21",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/gerona/glag238",
+        "doi": "10.1093/gerona/glag238",
+        "url": "https://doi.org/10.1093/gerona/glag238",
+        "title": "Acceptance of AI-Based Assistive Technologies for Autonomy Support Among Older Adults: A Scoping Review",
+        "authors": [
+          "Sekou Oumarou Thera",
+          "Ali Ben Charif",
+          "Jeanne Bertona",
+          "Patrick Villani",
+          "Sébastien Lechevallier",
+          "Marc-Karim Bendiane",
+          "Anne-Laure Couderc"
+        ],
+        "abstract": "Abstract                                        Background                     Population aging is leading to increased demand for health and long-term care. AI-based assistive technologies have been developed to support autonomy and care for older adults, yet real‑world adoption remains limited. We review evidence on acceptance and determinants of acceptance of AI‑based assistive technologies among older adults.                                                           Methods                     We conducted a scoping review using the JBI methodology and followed PRISMA‑ScR guidelines for reporting. Four databases (PubMed, Embase, Web of Science, Cochrane) were searched for studies published from January 2010 to June 2025, initially in any language. We included studies examining acceptance and determinants of acceptance of AI-based assistive technologies among adults aged 65 years and older. We synthesized data using inductive thematic analysis.                                                           Results                     Twenty‑nine studies met the inclusion criteria, with over one-third conducted in Europe (n = 10). Overall attitudes toward AI‑based assistive technologies were generally favorable when technologies were perceived as useful, easy to use, and tailored to needs. However, actual use was low. Acceptance was associated with socio‑demographic (e.g., age, residence), medical (e.g., frailty, self‑rated health), psychosocial (e.g., stigma), and structural (e.g., cost, accessibility) determinants, as well as with institutional and relational factors (e.g., preservation of human contact).                                                           Conclusions                     While older adults have generally positive views of AI‑based assistive technologies, adoption is slow because of intersecting psychosocial, economic, technical, and organizational barriers. User‑centered design, care-led innovation approaches, and implementation strategies that complement—rather than replace—human support may facilitate uptake and sustained use. Development of standardized assessment tools is needed to enable cross-study comparability and guide future research.",
+        "source": "The Journals of Gerontology, Series A: Biological Sciences and Medical Sciences",
+        "issn": "1079-5006",
+        "date": "2026-09-21",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "elderCare"
+        ],
+        "firstSeen": "2026-09-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70716",
+        "doi": "10.1111/jgs.70716",
+        "url": "https://doi.org/10.1111/jgs.70716",
+        "title": "Gait Speed and Survival in Those With Exceptional Longevity: The\n                    <scp>LifeAfter90</scp>\n                    Study",
+        "authors": [
+          "Rifat Alam",
+          "Hilary L. Colbeth",
+          "Alexander Ivan B. Posis",
+          "Kristen M. George",
+          "Katherine Colcord",
+          "Claire C. Meunier",
+          "Paola Gilsanz",
+          "Maria M. Corrada",
+          "Rachel A. Whitmer"
+        ],
+        "abstract": "ABSTRACT                                        Background                     Although gait speed is a well‐established predictor of mortality, it is understudied among ethnoracially diverse oldest‐old cohorts. We examined the association between gait speed and all‐cause mortality in an ethnoracially diverse 90+ population.                                                           Methods                     We examined the association between gait speed and survival over an average follow up of 3.6 ± 2.0 years. Follow‐up time was defined as years from baseline to death, loss to follow‐up, refusal, or study end, June 19, 2025, whichever occurred first. Baseline gait speed (m/s) was measured using the 4‐meter walk test. Cox proportional hazards model evaluated associations between gait speed and mortality, adjusting for age, sex/gender, race/ethnicity, and education. Interactions by sex/gender, age, race/ethnicity, and device were tested.                                                           Results                                            Among 502 participants (                       M                       age                       92.9 ± 2.4 years; 62.6% women; 20.9% Asian, 22.3% Black, 12.4% Latinx, 8.6% Multiracial/Other, 35.9% White), mean gait speed was 0.55 ± 0.21 m/s and 259 deaths occurred. Each 1 SD (0.21 m/s) increase in gait speed was associated with a 20% lower risk of mortality (HR = 0.80; 95% CI = 0.69–0.91) after adjustments for demographics. In this cohort, this increase corresponds to completing the 4‐meter walk test about 2 s faster. The association was modified by age (                       p                       ‐interaction = 0.01). There were no significant differences by sex/gender, race/ethnicity or device (                       p                       ‐interaction &gt; 0.1). In age‐stratified analyses, faster gait speed predicted lower risk of mortality among participants aged 90–94 years (HR = 0.70; 95% CI = 0.60–0.82), whereas the results were attenuated for the 95+ group (HR = 1.02; 95% CI = 0.77–1.30).                                                                                Conclusion                     Faster gait speed was associated with a lower risk of mortality in adults aged 90 and older. These results were consistent across gender, race/ethnicity, and assistive device use, but differed by age group. Routine gait speed assessment may serve as a simple clinical tool to identify oldest‐old adults at higher risk of mortality.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-09-21",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08304-x",
+        "doi": "10.1186/s12877-026-08304-x",
+        "url": "https://doi.org/10.1186/s12877-026-08304-x",
+        "title": "Malnutrition and possible sarcopenia in geriatric inpatients with H-Type hypertension: a multicenter cross-sectional study",
+        "authors": [
+          "Song Zhang",
+          "Qin Tan",
+          "Tianxun Wang",
+          "Nanping Xiao",
+          "Xiaojun Huang",
+          "Yue Pan",
+          "Jing Wei",
+          "Hanjun He",
+          "Gang Ma"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-21",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08324-7",
+        "doi": "10.1186/s12877-026-08324-7",
+        "url": "https://doi.org/10.1186/s12877-026-08324-7",
+        "title": "Development of an evidence-based guideline for deprescribing potentially inappropriate medications in older adults",
+        "authors": [
+          "Fangyuan Tian",
+          "Zhaoyan Chen",
+          "Mengnan Zhao",
+          "Ying Zhang",
+          "Hongyu Cai",
+          "Rui Tang",
+          "Xuehua Wan",
+          "Fei Zhou",
+          "Zinan Zhao",
+          "Shuang Zhou",
+          "Xueyi Zhang",
+          "Shili Liao",
+          "Dan Zhou",
+          "Yuxian Chen",
+          "Lingyan Zhou",
+          "Qiyi Feng",
+          "Xi Chen",
+          "Fengbo Wu",
+          "Li Mo",
+          "Jinhan He",
+          "Yu Zhang",
+          "Jie Zhao",
+          "Ling Jiang",
+          "Xiaocong Zuo",
+          "Jian Zhang",
+          "Liyan Miao",
+          "Dong Liu",
+          "Lihong Liu",
+          "Zhiren Zhang",
+          "Xingguo Zhang",
+          "Bo Zhang",
+          "Xiao Chen",
+          "Xinan Wu",
+          "Rongsheng Zhao",
+          "Ruigang Hou",
+          "Yongfang Yuan",
+          "Yujin Guo",
+          "Weihua Lai",
+          "Anhua Wei",
+          "Aizong Shen",
+          "Bin Wang",
+          "Benzhi Cai",
+          "Bin Wu",
+          "Bikui Zhang",
+          "Daihong Guo",
+          "Feng Qiu",
+          "Fengsu Hou",
+          "Hang Wang",
+          "Haibin Dai",
+          "Hong Li",
+          "Hui Wu",
+          "Jianfen Gu",
+          "Jianhua Yang",
+          "Jie Zhang",
+          "Jingwen Wang",
+          "Lan Zhang",
+          "Ling Liu",
+          "Lingji Hao",
+          "Lu Yang",
+          "Lei Tian",
+          "Mei Wang",
+          "Ming Hu",
+          "Pengfei Jin",
+          "Qian Chen",
+          "Shao Liu",
+          "Shilong Zhong",
+          "Xiaodong Guan",
+          "Xiaolan Bian",
+          "Yanqing Song",
+          "Ying Zhou",
+          "Yinghui Jin",
+          "Yuyan Wang"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-21",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08323-8",
+        "doi": "10.1186/s12877-026-08323-8",
+        "url": "https://doi.org/10.1186/s12877-026-08323-8",
+        "title": "Frailty and adverse outcomes in periprosthetic femur fractures: a comparative analysis of risk stratification tools",
+        "authors": [
+          "Maximilian Peter Forssten",
+          "Ahmad Westas Ismail",
+          "Ioannis Ioannidis",
+          "Hatem Marie",
+          "Hassan Mashbari",
+          "Babak Sarani",
+          "Shahin Mohseni"
+        ],
+        "abstract": "Abstract                                        Background                     Periprosthetic femur fractures are associated with substantial morbidity and mortality. The aim of the current study was to evaluate the association between frailty and adverse outcomes in geriatric patients with isolated periprosthetic femur fractures, as well as to compare the predictive performance of multiple risk stratification tools in this population.                                                           Methods                     Data were retrieved from the 2016–2021 ACS Trauma Quality Improvement Program dataset. All geriatric patients who suffered an isolated periprosthetic femur fracture due to a ground-level fall were eligible for inclusion. Frailty was measured using the Orthopedic Frailty Score (OFS). To determine the association between frailty and adverse outcomes, Poisson regression models with robust standard errors were employed. The ability of the OFS to predict mortality was compared to several other risk scores using the area under the receiver-operating characteristic curve (AUC).                                                           Results                     1,220 patients with an isolated periprosthetic femur fracture were included in the analysis. After adjusting for potential confounders, frail patients exhibited a 204% higher risk of in-hospital mortality [RR (95% CI): 3.04 (1.05–8.81)], a 160% higher risk of complications [RR (95% CI): 2.60 (1.24–5.46)], and a 95% higher risk of ICU admission [RR (95% CI): 1.95 (1.11–3.43)], compared to non-frail patients. When predicting in-hospital mortality the OFS (AUC 0.70), 11-factor modified Frailty Index (AUC 0.71), and Revised Cardiac Risk Index (AUC 0.70) all showed modest discriminatory ability.                                                           Conclusion                     Frail patients with periprosthetic femur fractures suffer from a disproportionately increased risk of in-hospital mortality, complications, and ICU admission. Additional investigations are warranted to determine what measures are required to mitigate adverse events in this vulnerable patient population.                                                           Clinical trial number                     Not applicable",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-21",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70729",
+        "doi": "10.1111/jgs.70729",
+        "url": "https://doi.org/10.1111/jgs.70729",
+        "title": "Editor's Note on Refusing Erasure: Moral Courage in\n                    <scp>LGBTQ</scp>\n                    + Health Research",
+        "authors": [
+          "Alexander K. Smith"
+        ],
+        "abstract": "",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-09-20",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70715",
+        "doi": "10.1111/jgs.70715",
+        "url": "https://doi.org/10.1111/jgs.70715",
+        "title": "Association of B‐Type Natriuretic Peptide With Intrinsic Capacity Trajectories Among Chinese Older Adults",
+        "authors": [
+          "Na Zhang",
+          "Xichenhui Qiu",
+          "Xiaofeng Wang",
+          "Ling Wei",
+          "Xinyuan Li",
+          "Shuanglin Xie",
+          "Chunlai Zeng",
+          "Xiaoyan Jiang"
+        ],
+        "abstract": "ABSTRACT                                        Background                     Intrinsic capacity (IC) is central to healthy aging, yet accessible and cost‐effective biomarkers for identifying individuals at risk of IC decline remain limited. We investigated whether elevated B‐type natriuretic peptide (BNP), including persistent BNP abnormalities, is associated with baseline IC and longitudinal IC decline.                                                           Methods                     We conducted a population‐based prospective cohort study using data from the Rugao Longevity and Aging Study, which included three waves of assessments over 4 years. IC was quantified as a composite score across five domains—mobility, vitality, cognition, psychological, and sensory—and assessed at baseline and follow‐up visits. Longitudinal associations between BNP levels (quartiles, binary elevation, and cumulative abnormalities) and changes in IC were analyzed using generalized estimating equations.                                                           Results                                            Among 1494 participants (mean [SD] age 77.9 [4.5] years, 46.4% male), higher BNP levels were significantly associated with lower IC scores at baseline (adjusted                       β                        = −0.46, 95% CI: −0.70, −0.22). In a longitudinal analysis, compared with the lowest quartile, the highest BNP quartile was associated with greater IC decline (adjusted                       β                        = −0.43; 95% CI: −0.70, −0.19). Elevated BNP was similarly associated with IC decline (adjusted                       β                        = −0.37; 95% CI: −0.57, −0.18). Findings remained significant among participants without CVD. Persistent BNP elevation at baseline and 2‐year follow‐up was associated with subsequent IC decline (adjusted                       β                        = −0.36; 95% CI: −0.65, −0.06).                                                                                Conclusions                     Elevated and persistent BNP abnormalities are consistently associated with IC decline, supporting BNP as a practical biomarker for early identification of older adults at risk of functional deterioration.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-09-20",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70730",
+        "doi": "10.1111/jgs.70730",
+        "url": "https://doi.org/10.1111/jgs.70730",
+        "title": "Editor's Note on Association of B‐Type Natriuretic Peptide With Intrinsic Capacity Trajectories Among Chinese Older Adults",
+        "authors": [
+          "Michael W. Rich"
+        ],
+        "abstract": "",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-09-20",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-22",
         "fetched_from": "crossref"
       },
       {
@@ -27306,6 +27795,301 @@
       }
     ],
     "healthReform": [
+      {
+        "id": "doi:10.1093/aje/kwag236",
+        "doi": "10.1093/aje/kwag236",
+        "url": "https://doi.org/10.1093/aje/kwag236",
+        "title": "Real-world cardiovascular effects of liraglutide: transportability analysis of the LEADER trial",
+        "authors": [
+          "Kevin Josey",
+          "Wenhui Liu",
+          "Theodore Warsavage",
+          "Morten Medici",
+          "Kajsa Kvist",
+          "Catherine G Derington",
+          "Jane E B Reusch",
+          "Debashis Ghosh",
+          "Sridharan Raghavan"
+        ],
+        "abstract": "Abstract                   Appropriate use of recently approved type 2 diabetes treatments depends on external validity of landmark clinical trials (RCTs) in real-world populations that may differ from trial participants. This study transported effect estimates from the Liraglutide Effect and Action in Diabetes: Evaluation of Cardiovascular Outcome Results (LEADER) trial, a placebo-controlled RCT of liraglutide on cardiovascular outcomes, onto real-world cohorts within the Veterans Affairs (VA) healthcare system. Risk differences (RD) in survival outcomes, approximated using pseudo-observations of individual survival probabilities, were estimated with augmented inverse probability weighting after balancing baseline characteristics between RCT and target samples using approximate balancing weights. Transported effects of liraglutide compared to placebo on major adverse cardiovascular events (MACE) and all-cause mortality in veterans (“VA-weighted LEADER”) were larger than, though statistically consistent with, the treatment effects observed in LEADER: MACE RD at 3 years of 4.6% [95% CI 2.2, 7.0] in VA-weighted LEADER versus 1.6% [0.3, 2.9] in LEADER; all-cause mortality RD at 3 years of 2.9% [0.8, 5.1] in VA-weighted LEADER versus 0.9% [-0.09, 1.9] in LEADER. These estimates of the effects of liraglutide in veterans with diabetes provide real-world evidence that can guide diabetes treatment decisions and formulary policies for a high-risk population underrepresented in RCTs.",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-09-22",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.14624",
+        "doi": "10.1001/jama.2026.14624",
+        "url": "https://doi.org/10.1001/jama.2026.14624",
+        "title": "Hearing Aids for Mild to Moderate Hearing Loss in Adults",
+        "authors": [
+          "Hantai Kim"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-21",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.14627",
+        "doi": "10.1001/jama.2026.14627",
+        "url": "https://doi.org/10.1001/jama.2026.14627",
+        "title": "Hearing Aids for Mild to Moderate Hearing Loss in Adults—Reply",
+        "authors": [
+          "Karina C. De Sousa",
+          "De Wet Swanepoel"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-21",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.16623",
+        "doi": "10.1001/jama.2026.16623",
+        "url": "https://doi.org/10.1001/jama.2026.16623",
+        "title": "Protecting Patients From Politicization of Federal Science",
+        "authors": [
+          "Sten H. Vermund"
+        ],
+        "abstract": "This Perspective discusses new proposed federal rules regarding research funding; the ways these rules could affect patients, communities, and taxpayers; and how federally supported research has benefitted public health.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-21",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.14391",
+        "doi": "10.1001/jama.2026.14391",
+        "url": "https://doi.org/10.1001/jama.2026.14391",
+        "title": "Medicare Advantage Enrollment and Access to Kidney Transplant After the 21st Century Cures Act",
+        "authors": [
+          "Ankur D. Shah",
+          "Beth A. Dana",
+          "Joan F. Brazier",
+          "Denise A. Tyler",
+          "Daeho Kim",
+          "Kevin H. Nguyen",
+          "David J. Meyers",
+          "Kelsey Drewry",
+          "Yoojin Lee",
+          "Adam S. Wilk",
+          "Rajnish Mehrotra",
+          "Emily A. Gadbois",
+          "Maricruz Rivera-Hernandez",
+          "Rachel E. Patzer",
+          "Amal N. Trivedi"
+        ],
+        "abstract": "Importance                     Among patients with kidney failure, kidney transplant is associated with better survival and quality of life compared with maintenance dialysis. The 21st Century Cures Act expanded Medicare Advantage eligibility to individuals with end-stage kidney disease (ESKD), with limited evidence about access to transplant in Medicare Advantage plans.                                                           Objective                     To compare kidney transplant and wait-listing rates between Medicare Advantage and traditional Medicare beneficiaries with ESKD in the first 3 years after the 21st Century Cures Act.                                                           Design, Setting, and Participants                     Retrospective cohort study of Medicare beneficiaries aged 18 to 74 years with ESKD who had not received kidney transplant in the prior 3 years from January 1, 2021, through December 31, 2023.                                                           Exposure                     Enrollment in Medicare Advantage vs traditional Medicare.                                                           Main Outcomes and Measures                     The primary outcome was kidney transplant. The secondary outcome was incident (new) wait-listing. Models adjusted for demographic characteristics, dual Medicare-Medicaid eligibility, duration of ESKD, socioeconomic status, and hospital referral region.                                                           Results                     The study population included 630 848 Medicare beneficiaries with ESKD (mean age, 57.9 [SD, 11.0] years; 40.9% female; 35.2% Black; and 19.4% Hispanic). Over 14.8 million person-months, Medicare Advantage beneficiaries had lower transplant rates than those in traditional Medicare (2.51 vs 4.60 per 1000 person-months; adjusted rate ratio [aRR], 0.71; 95% CI, 0.69-0.72). Absolute differences were widest among the youngest beneficiaries (aged 18-44 years) and were stable across calendar years (aRRs: 0.71 [95% CI, 0.68-0.73] in 2021; 0.70 [95% CI, 0.68-0.73] in 2022; and 0.70 [95% CI, 0.68-0.72] in 2023). Incident wait-listing was also lower in Medicare Advantage (3.05 vs 4.64 per 1000 person-months; aRR, 0.77; 95% CI, 0.75-0.78). Among beneficiaries wait-listed at baseline or placed on a wait list during observation, Medicare Advantage enrollees had lower transplant rates (16.59 vs 20.85 per 1000 person-months; aRR, 0.91; 95% CI, 0.90-0.92).                                                           Conclusions and Relevance                     In the first 3 years following the 21st Century Cures Act, Medicare Advantage beneficiaries with ESKD had substantially lower transplant and wait-listing rates than traditional Medicare beneficiaries. Policy oversight may be needed to monitor access for this critical, high-value treatment for kidney failure among the rapidly growing Medicare Advantage population.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-21",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.15540",
+        "doi": "10.1001/jama.2026.15540",
+        "url": "https://doi.org/10.1001/jama.2026.15540",
+        "title": "Vaccines for Cancer",
+        "authors": [
+          "Mary L. Disis",
+          "Brie M. N. Chun",
+          "Kiranjit K. Dhillon",
+          "John B. Liao",
+          "Natasha Hunter",
+          "Denise L. Cecil"
+        ],
+        "abstract": "Importance                     Advances in tumor immunology and vaccine technology are reshaping cancer vaccine development after decades of limited clinical success. More than 2000 immunogenic tumor proteins or antigens have been identified, the types of immune responses required for tumor eradication have been defined, and safe and effective vaccine delivery technologies have been developed. This progress has renewed clinical investigation of cancer vaccines for multiple types of cancer.                                                           Observations                                            Vaccines, such as those against human papillomavirus and hepatitis B, are composed of (1) an antigen target, (2) an adjuvant to activate the immune system, and (3) a vaccine delivery vehicle. Antigens can be derived from tumor mutations termed                       neoantigens                       , or cancer-associated nonmutated proteins, which are normal human proteins that are abnormally expressed in cancer. The tumor can also act as an antigen source, such as when immunization occurs with whole tumor cells or by directly injecting an immunogenic substance into the tumor to elicit an adaptive immune response. T and B lymphocytes, cells of the adaptive immune system, are stimulated by cancer vaccines and can provide a highly specific and durable immune response directed against cancer. Vaccines that elicit adaptive immunity are approved for cancer treatment. Sipuleucel-T, a vaccine against the antigen prostatic acid phosphatase, reduced all-cause mortality compared with placebo in men with metastatic castrate-resistant prostate cancer (32% vs 23%; hazard ratio, 0.78 [95% CI, 0.61-0.98];                       P                        = .03). Compared with granulocyte-macrophage colony-stimulating factor, a systemic immune stimulant, talimogene laherparepvec increased rates of a 6-month or longer complete or partial response, defined as the disappearance of all treated disease and at least a 50% decrease in the sum of the products of perpendicular diameters of the measurable lesion with no new lesions, respectively, when injected into advanced melanoma lesions (16.3% [95% CI, 12.1%-20.5%] vs 2.1% [95% CI, 0%-4.5%]; odds ratio, 8.9;                       P                        &amp;amp;lt; .001). Most cancer vaccines have mild adverse effects, such as fatigue, fever, and injection site reactions. Combining cancer vaccines with chemotherapy or immunotherapy can increase the magnitude of the immune response and potentially result in greater reduction in cancer size. Combining the personalized mutation-based messenger RNA (mRNA) vaccine (mRNA-4157) with the immune checkpoint inhibitor pembrolizumab for resected high-risk stage IIIB to IV cutaneous melanoma improved relapse-free survival compared with pembrolizumab alone (76.6% vs 60%; hazard ratio, 0.56 [95% CI, 0.31-1.02];                       P                        = .05). Cancer vaccines are undergoing evaluation in clinical trials to prevent cancer recurrence and for primary cancer prevention.                                                                                Conclusions and Relevance                     Cancer vaccines can treat several types of malignant neoplasms, including melanoma, prostate cancer, and bladder cancer. Adverse effects associated with cancer vaccines are generally mild and of short duration, promoting eventual integration of vaccination into treatment regimens with chemotherapy and immunotherapy. Cancer vaccines are increasingly undergoing evaluation for primary prevention.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-21",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1097/ede.0000000000002046",
+        "doi": "10.1097/ede.0000000000002046",
+        "url": "https://doi.org/10.1097/ede.0000000000002046",
+        "title": "Association Between Proximity to Animal Agriculture During Pregnancy and Spontaneous Preterm Birth Among Nulliparous Women in a California Cohort",
+        "authors": [
+          "Saskia Comess",
+          "Joshua L. Warren",
+          "Gary M. Shaw",
+          "Daniel E. Ho"
+        ],
+        "abstract": "Background:                     Environmental exposures during pregnancy may influence risk of spontaneous preterm birth, a serious adverse outcome. Concentrated Animal Feeding Operations (CAFOs) near maternal residences may emit pollutants associated with preterm birth.                                                           Methods:                     We analyzed n = 811,953 births to nulliparous women in California (2007–2011), including 7487 spontaneous very preterm (20–31 weeks) and 37,026 spontaneous moderate preterm (32–36 weeks) births. Locations of n = 2121 CAFOs were obtained from a near-census of facilities. Using time-to-event and Bayesian methods, we estimated hazard and odds of preterm birth as a function of distance, density, and wind-based CAFO exposure, adjusting for maternal, temporal, socioeconomic, and environmental covariates. Bayesian models allow inference on both the distance range of association and the association strength.                                                           Results:                     Greater exposure to CAFOs is associated with small increases in hazard of all preterm birth (adjusted hazard ratios, per-unit exposure change − inverse distance: 1.003 [95% confidence interval [CI] = 1.000, 1.005]; downwind-weighted: 1.020 [95% CI = 1.005, 1.035]) with stronger associations for very preterm birth (adjusted hazard ratios − inverse distance: 1.007 [95% CI = 1.002, 1.012]; downwind-weighted: 1.043 [95% CI = 1.008, 1.080]). Among exposed births, less downwind exposure is associated with lower preterm birth hazard compared with being predominantly downwind. Bayesian models suggest births with at least one CAFO within 25.23 km (95% highest density interval [HDI]: 18.21, 32.74 km) have 1.16 times the odds of being very preterm (95% HDI: 1.10, 1.22), with similar distance ranges but smaller odds for moderate preterm birth (adjusted odds ratio: 1.08 [95% HDI: 1.05, 1.10]).                                                           Conclusions:                     Living near a CAFO may increase risk of spontaneous preterm birth in California, with stronger and more consistent associations for very preterm births, particularly when combined with greater downwind exposure.",
+        "source": "Epidemiology",
+        "issn": "1044-3983",
+        "date": "2026-09-21",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1097/ede.0000000000002044",
+        "doi": "10.1097/ede.0000000000002044",
+        "url": "https://doi.org/10.1097/ede.0000000000002044",
+        "title": "Transportability of Prognostic Markers",
+        "authors": [
+          "Mohsen Sadatsafavi",
+          "Gavin Pereira",
+          "Wenjia Chen"
+        ],
+        "abstract": "Transportability, the ability to maintain performance across populations, is a desirable property of markers of clinical outcomes. However, empirical findings indicate that markers often exhibit varying performances across populations. For prognostic markers that are advertised as predictive risk equations for an outcome of interest, oftentimes a form of updating is required when the equation is transported to populations with different outcome prevalences. Here, we revisit transportability of prognostic markers through the lens of the foundational framework of sufficient-component causes. We argue that transporting a marker “as is” implicitly assumes predictive values are transportable, whereas conventional prevalence-adjustment shifts the locus of transportability to accuracy metrics (sensitivity and specificity). Using a minimalist sufficient-cause framework that decomposes risk prediction into broad causal constituents, we show that both approaches rely on strong assumptions about the stability of cause distributions. Such a framework instead invites making transparent assumptions about how different causes vary across populations, leading to different transportability methods. For example, in the absence of any external information other than outcome prevalence, an impartial perspective can assume all causes are responsible for change in prevalence. This assumption leads to a new form of marker transportability method. Numerical experiments demonstrate that different transportability assumptions lead to varying degrees of information loss, depending on the distribution of causes across populations. A sufficient-component-cause perspective challenges common assumptions and practices for marker transportability, and results in novel transportability methods based on explicit assumptions on how different causes vary across populations.",
+        "source": "Epidemiology",
+        "issn": "1044-3983",
+        "date": "2026-09-21",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag237",
+        "doi": "10.1093/aje/kwag237",
+        "url": "https://doi.org/10.1093/aje/kwag237",
+        "title": "Rationale and Design of the Atherosclerosis Risk in Communities Generation 2 (ARIC Gen2) Study",
+        "authors": [
+          "Dan Wang",
+          "Natalie R Daya",
+          "Mary R Rooney",
+          "Arielle Valint",
+          "Melissa Minotti",
+          "Michael Fang",
+          "Shengyuan Luo",
+          "Lynne E Wagenknecht",
+          "B Gwen Windham",
+          "Pamela L Lutsey",
+          "David Couper",
+          "Josef Coresh",
+          "Justin B Echouffo-Tcheugui",
+          "Lin Yee Chen",
+          "Elizabeth Selvin"
+        ],
+        "abstract": "Abstract                   Type 2 diabetes is a risk factor for cardiac arrhythmias, but it is unknown how specific aberrations in glucose (e.g., episodes of high or low glucose) might contribute to the occurrence of heart rhythm abnormalities. The overarching goal of this study is to address research questions regarding how glucose patterns might contribute to the occurrence of arrhythmias, primarily atrial fibrillation, in adults with diabetes. To fulfill this goal, the Atherosclerosis Risk in Communities (ARIC) Gen2 study recruited 507 community-dwelling adults aged 50–80 years with type 2 diabetes to wear continuous glucose monitoring (CGM) and electrocardiogram (ECG) “patch” monitoring sensors simultaneously for up to 14 days. Gen2 study had high CGM and ECG completeness: the median wear time for sensors was 14 days and approximately 80% of participants wore both sensors for ≥10 days. By combining Gen2 and data from the original ongoing ARIC cohort (aged 80+), we have the capacity to conduct a comprehensive evaluation of the impact of CGM-defined glucose patterns on arrhythmias across a wide age spectrum from middle-aged to very old adults (aged 50-100) with type 2 diabetes. The findings from this study may help inform clinical strategies for the prevention and management of arrhythmias among adults with type 2 diabetes.",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-09-21",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag235",
+        "doi": "10.1093/aje/kwag235",
+        "url": "https://doi.org/10.1093/aje/kwag235",
+        "title": "Does despair drive increases in white mortality, or did the narrative get ahead of the data?",
+        "authors": [
+          "Luis Esteban Segura",
+          "Rodrigo Zepeda-Tello",
+          "Seth J Prins",
+          "Silvia S Martins"
+        ],
+        "abstract": "Abstract                   The aim of this study is to test the central claim of the “deaths of despair” theory: that rising despair among midlife white Americans has driven increases in all-cause mortality, particularly in those with low education. We analyzed time series of annual all-cause mortality rates per 100,000 (N=92,700 individuals) and despair (N=88,872 individuals) among US midlife (aged 45-54) adults from the CDC and NIH between 1999-2015. The association between changes in despair and changes in mortality rates were estimated via Bayesian autoregressive models with AR(1) errors. Race/ethnicity and education-specific estimates were obtained via marginal standardization. All-cause mortality increased by 7.49 per 100,000 only among midlife white adults, with a larger increase among those with low education (51.4 per 100,000). Despair prevalence did not increase exclusively among midlife white adults, increasing by 0.13% (-0.03%; 0.29%) and 0.12% (-0.27%; 0.51%) among white and Black midlife adults. The observed increases in despair among whites in midlife were not associated with increases in mortality rates (-0.12 per 100,000; 95%UI=-0.54; 0.29). These findings directly challenge the central claim of this theory and highlight the need to move beyond the white despair narrative to explain US mortality trends.",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-09-21",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag232",
+        "doi": "10.1093/aje/kwag232",
+        "url": "https://doi.org/10.1093/aje/kwag232",
+        "title": "Hypothetical interventions on alcohol consumption and risk of mortality in healthy women: emulated target trials from the Norwegian women and health study",
+        "authors": [
+          "Fjorida Llaha",
+          "Yu-Han Chiu",
+          "Idlir Licaj",
+          "Tom Wilsgaard",
+          "Kristin Benjaminsen Borch"
+        ],
+        "abstract": "Abstract                   We applied target trial emulation and the parametric g-formula to evaluate the effects of sustained alcohol consumption on 23-year mortality. Healthy women aged ≥ 35 years from the Norwegian Women and Health Study who completed questionnaires in 1998–2003 were eligible for the emulated trials (A and B). Trial B included only women reporting moderate alcohol consumption before baseline. In total, 57 964 and 14 393 women met the eligibility criteria for Trials A and B, respectively. The observed 23-year all-cause mortality risk was 6.97%. In Trial A, 23-year mortality risk differences (RDs) versus no intervention were 0.29% (95% CI, 0.02%, 0.58%) for no alcohol consumption, 0.12% (95% CI, 0.07%, 0.20%) for low consumption (&amp;gt;0 to 2 drinks/week), and − 0.44% (95% CI, −0.66%, −0.25%) for moderate consumption (&amp;gt;2 to 7 drinks/week). The lower mortality associated with moderate drinking was observed only among women aged ≥ 50 years. In Trial B, the 23-year mortality RD of reducing to low/no consumption (≤2 drinks/week) versus maintaining moderate consumption was 1.07% (95% CI, 0.10%, 1.66%). The results suggest a slight decrease in mortality from moderate alcohol consumption, particularly among women aged ≥ 50 years. In addition, the results suggest slightly increased mortality when reducing alcohol consumption from moderate levels.",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-09-21",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag233",
+        "doi": "10.1093/aje/kwag233",
+        "url": "https://doi.org/10.1093/aje/kwag233",
+        "title": "Deaths of Despair among Former Military Service Members, Massachusetts (2014-2021) and Minnesota (2014-2022)",
+        "authors": [
+          "Katelyn M Holliday",
+          "Elliot D Hill",
+          "Heather R Batchelder",
+          "Ashley E Price",
+          "Candice Y Johnson",
+          "Anthony J Viera",
+          "Truls Østbye"
+        ],
+        "abstract": "Abstract                   People who served in the U.S. armed forces—former service members (FSMs)—may be at increased risk of deaths of despair: alcohol-related, drug-related, and suicide deaths. We linked 2014-2021 Massachusetts and 2014-2022 Minnesota death certificates for decedents aged 18-64 years with military personnel files to describe deaths of despair in FSM and non-military populations. We calculated age- and sex-standardized proportionate mortality ratios (PMR) for all FSMs and three-year rolling average age-standardized mortality rates for FSMs with active duty experience. We mapped the geographic distribution of these deaths and describe patterns by service history. Of 176,719 decedents, 9.5% were FSMs. FSMs were more likely to die from a death of despair than non-military populations (PMR (95% Confidence Interval), MA: 111.9 (107.0, 117.0), MN: 106.7 (101.4, 112.2)), specifically suicide deaths (MA, MN) and drug-related deaths (MA). Mortality rates displayed similar trends. FSM deaths of despair occurred a median of 20-30 years after military separation and were most common among those with Coast Guard, Marine, or Army service and Bad Conduct/Dishonorable or Uncharacterized separations. FSMs have higher burden of deaths of despair than non-military populations with patterns that vary by service history, warranting further investigation into contributing military, individual, and community factors.",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-09-21",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-22",
+        "fetched_from": "crossref"
+      },
       {
         "id": "doi:10.1093/hsw/hlag044",
         "doi": "10.1093/hsw/hlag044",
@@ -36318,6 +37102,214 @@
     ],
     "agingHealth": [
       {
+        "id": "doi:10.1186/s12877-026-08315-8",
+        "doi": "10.1186/s12877-026-08315-8",
+        "url": "https://doi.org/10.1186/s12877-026-08315-8",
+        "title": "Older patients and intensive care: factors that influence patients decisions on life sustaining measures",
+        "authors": [
+          "Adrian Rosada",
+          "Drin Ferizaj",
+          "Nils Lahmann",
+          "Frank Samuel Schaefer",
+          "Ursula Müller-Werdan"
+        ],
+        "abstract": "Abstract                                        Background                     Physicians treating older patients are frequently unaware of their patients’ personal attitudes towards life-sustaining measures like ventilation, resuscitation, feeding tubes, or ICU admission. In routine clinical practice, there is often little time for reflection prior to deciding in favor or against life sustaining measures in critical medical conditions.                     Although decisions for or against these measures should ideally be made jointly by the patient and the treating physician, factors like age, disease burden, social inclusion, and affective state may play an important role in the patient’s motivation.                                                           Methods                     Data from 161 inpatients (mean age 82.0 years) on a geriatric ward were collected and analyzed. Patients were interviewed about their attitudes towards life-sustaining measures like ventilation, resuscitation, tube feeding, ICU admission, and dialysis. Four composite indices were formed by combining sign-aligned component variables: medical burden (age and Charlson Comorbidity Index), functional and cognitive impairment (Barthel Index, iADL, and MoCA), affective distress (Geriatric Depression Scale and Hamilton Depression Scale suicidality item), and social support (living situation, having children, and having friends). These indices with other covariates were then analyzed using a Bayesian Rasch item response model with latent regression.                                                           Results                     Overall, 14.3% refused all invasive life sustaining measures, whereas 33.8% wished to receive all of the measures listed above. Artificial nutrition was the most refused measure (refused by 53.4%), whereas ICU admission was the most commonly accepted measure (74.4%). Social support had no meaningful association with the decision to accept or refuse life-sustaining measures. Relevant predictors were primarily lower levels of affective distress, and secondarily better functional and cognitive performance and lower medical burden.                                                           Conclusions                     Even among older patients, only a minority completely reject life-sustaining measures, even though their life expectancy is often significantly reduced. Patient’s attitude towards life-sustaining measures appears to be related more strongly to affective state, functional performance, and medical burden than living situation or social inclusion. As the patient’s emotional and functional state can certainly be influenced by medical treatment, practitioners should bear this in mind and, where appropriate, reassess their patients’ attitude towards LSM once the aforementioned conditions have improved.                                                           Clinical trial number                     Registered with the clinical trial registry Deutsches Register Klinischer Studien.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-22",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08300-1",
+        "doi": "10.1186/s12877-026-08300-1",
+        "url": "https://doi.org/10.1186/s12877-026-08300-1",
+        "title": "Serum GFAP and UCH-L1 in selected older emergency department patients: positivity beyond documented head injury",
+        "authors": [
+          "Jakub Nożewski",
+          "Maria Błaszkiewicz",
+          "Lidia Gackowska"
+        ],
+        "abstract": "Abstract                                        Background                     Older adults frequently present to emergency departments (EDs) after falls or suspected head injury, often with multimorbidity, cognitive impairment, and uncertain injury timing. Glial fibrillary acidic protein (GFAP) and ubiquitin C-terminal hydrolase L1 (UCH-L1) may support imaging decisions after mild traumatic brain injury, but age- and disease-related elevations may reduce specificity in older patients.                                                           Methods                                            We conducted a single-center exploratory observational pilot study with prospective serum collection and retrospective clinical and imaging data abstraction in Poland from October 2023 to April 2024. Consecutive eligible patients aged ≥ 65 years presenting during the primary investigator’s clinical shifts were enrolled. Participants were classified as head injury sampled ≤ 24 h (                       n                        = 47), head injury sampled &gt; 24 h (                       n                        = 7), or selected non-trauma presentations without documented head injury (                       n                        = 41). GFAP and UCH-L1 were measured on the Abbott ARCHITECT platform. We assessed positivity at manufacturer decision limits (GFAP ≥ 35 pg/mL; UCH-L1 ≥ 400 pg/mL). All patients in the ≤ 24-h subgroup underwent head CT; the composite endpoint included acute traumatic intracranial hemorrhage or cerebral contusion and/or acute fractures of the skull, facial skeleton, or upper cervical spine.                                                                                Results                     GFAP positivity occurred in 91.5% (43/47), 100.0% (7/7; descriptive only), and 78.0% (32/41) of the three groups, respectively. UCH-L1 positivity occurred in 55.3% (26/47), 42.9% (3/7), and 26.8% (11/41). Nine of 47 patients (19.1%) in the ≤ 24-h subgroup had at least one CT-positive acute traumatic finding. GFAP showed a preliminary discriminatory signal (AUC 0.868; 95% CI 0.728–1.000), whereas UCH-L1 showed no apparent discrimination (AUC 0.488; 95% CI 0.222–0.755). A combined model yielded an AUC of 0.874 (95% CI 0.747–1.000), only minimally higher than GFAP alone. At the manufacturer GFAP decision limit, sensitivity was 100.0% (9/9; 95% CI 66.4–100.0) and specificity was 10.5% (4/38; 95% CI 2.9–24.8).                                                           Conclusions                     Among selected older ED patients, positivity at manufacturer decision limits was frequent beyond documented head injury. GFAP showed a preliminary signal for the composite acute traumatic CT endpoint, but estimates were imprecise and specificity was very low; UCH-L1 added little diagnostic information. These findings support cautious, age- and context-aware interpretation and require external validation. They do not establish new clinical thresholds or effects on geriatric care pathways.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-22",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08340-7",
+        "doi": "10.1186/s12877-026-08340-7",
+        "url": "https://doi.org/10.1186/s12877-026-08340-7",
+        "title": "Cardiometabolic multimorbidity phenotypes and their associations with functional and cognitive outcomes in older Chilean adults: findings from the Chilean national health survey",
+        "authors": [
+          "Josivaldo De Souza-Lima",
+          "Maribel Parra-Saldías",
+          "Daniel Duclos-Bastías",
+          "Andrés Godoy-Cumillaf",
+          "Eugenio Merellano-Navarro",
+          "Sandra Mahecha-Matsudo",
+          "Pedro Valdivia-Moral"
+        ],
+        "abstract": "Abstract                                        Background                     Multimorbidity is highly prevalent among older adults and is associated with functional decline, disability, cognitive impairment, and increased healthcare burden. However, traditional disease-count approaches may fail to capture the heterogeneity of multimorbidity patterns. This study aimed to identify cardiometabolic multimorbidity phenotypes and examine their associations with functional and cognitive outcomes among older Chilean adults.                                                           Methods                     A cross-sectional analysis was conducted using data from 2,031 community-dwelling adults aged ≥ 60 years from the Chilean National Health Survey 2016–2017. Six objectively measured cardiometabolic conditions were included: diabetes, hypertension, metabolic syndrome, elevated total cholesterol, elevated triglycerides, and obesity. K-means cluster analysis was applied to identify multimorbidity phenotypes, and the number of clusters was selected combining elbow, silhouette, and clinical interpretability criteria. Functional outcomes included self-rated health assessed using the EQ-5D visual analogue scale (EQ-VAS), mobility limitations, difficulty performing usual activities, and pain/discomfort. Cognitive performance was assessed using the abbreviated Mini-Mental State Examination. Adjusted linear regression models controlling for age and sex were performed.                                                           Results                                            Overall, 53.5% of participants presented multimorbidity (≥ 2 conditions). Four multimorbidity phenotypes were identified: Low-burden (30.9%), Obesity-predominant (25.1%), Hypertension-dominant (22.1%), and Metabolic + obesity (21.9%). Significant between-group differences were observed for self-rated health (ANOVA                       p                        = 0.022), cognitive performance (                       p                        = 0.0003), mobility limitations (                       p                        = 0.005), difficulty performing usual activities (                       p                        = 0.0008), and pain/discomfort (                       p                        = 0.003). The phenotype structure was robust to the exclusion of metabolic syndrome in a sensitivity analysis (Adjusted Rand Index = 0.719). In adjusted analyses with the Low-burden phenotype as reference, the Hypertension-dominant phenotype was independently associated with greater pain/discomfort (β = 0.14, 95% CI 0.06 to 0.21; FDR-adjusted                       p                        = 0.011) and the Metabolic + obesity phenotype with higher Mini-Mental scores (β = 0.56, 95% CI 0.17 to 0.95; FDR-adjusted                       p                        = 0.039); an association between the Hypertension-dominant phenotype and lower self-rated health (β = -4.25, 95% CI -8.00 to -0.50) did not withstand correction for multiple comparisons.                                                                                Conclusions                     Distinct cardiometabolic multimorbidity phenotypes were differentially associated with functional and cognitive outcomes among older Chilean adults. These findings support the importance of phenotype-based approaches to improve risk stratification and promote more personalized strategies in geriatric care and healthy aging.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-22",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08308-7",
+        "doi": "10.1186/s12877-026-08308-7",
+        "url": "https://doi.org/10.1186/s12877-026-08308-7",
+        "title": "Development and validation of a machine learning model for predicting refracture risk in older adults with osteoporotic vertebral compression fractures",
+        "authors": [
+          "Yufeng Zhou",
+          "Songyue Deng",
+          "Jianping He",
+          "Lipei Bao",
+          "Xu Zhao",
+          "Ansu Wang"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-22",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08334-5",
+        "doi": "10.1186/s12877-026-08334-5",
+        "url": "https://doi.org/10.1186/s12877-026-08334-5",
+        "title": "Patient-family concordance in end-of-life decision-making preferences among terminally ill older adults: a cross-sectional study",
+        "authors": [
+          "Tingting Jiang",
+          "Dan Wei",
+          "Qian Chen",
+          "Qi Zhang"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-22",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08280-2",
+        "doi": "10.1186/s12877-026-08280-2",
+        "url": "https://doi.org/10.1186/s12877-026-08280-2",
+        "title": "Mapping the evidence on interventions to reduce potentially inappropriate prescriptions in older adults: a scoping overview of 127 systematic reviews",
+        "authors": [
+          "Ángel García Álvarez",
+          "Narges Malih",
+          "David Morales Hernández",
+          "Roberto Santa Cruz",
+          "Ignacio Ricci-Cabello",
+          "Pau Riera Serra",
+          "Daniela C. Gonçalves-Bradley",
+          "Laura Gallardo-Alfaro",
+          "Maria Jesús Serrano Ripoll",
+          "Catalina Calafat Villalonga",
+          "Barbara A. Ferrer Jaillard",
+          "Manuel Pinteño Blanco",
+          "David Medina Bombardó",
+          "Maria Angela Doronzo",
+          "Sebastián Jaume Gayà",
+          "Maria A. Fiol-deRoque"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-22",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08319-4",
+        "doi": "10.1186/s12877-026-08319-4",
+        "url": "https://doi.org/10.1186/s12877-026-08319-4",
+        "title": "Measurement properties of instruments to measure lower limb functional ability and balance after technology-assisted physical activity interventions in community-dwelling older adults: an umbrella review of systematic reviews and meta-analyses",
+        "authors": [
+          "Gamze Yalcinkaya Colak",
+          "Veerle Knoop",
+          "Gunay Yıldızer",
+          "Juan Tortosa-Martinez",
+          "Veysel Alcan",
+          "Anabela G. Silva"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-22",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag236",
+        "doi": "10.1093/aje/kwag236",
+        "url": "https://doi.org/10.1093/aje/kwag236",
+        "title": "Real-world cardiovascular effects of liraglutide: transportability analysis of the LEADER trial",
+        "authors": [
+          "Kevin Josey",
+          "Wenhui Liu",
+          "Theodore Warsavage",
+          "Morten Medici",
+          "Kajsa Kvist",
+          "Catherine G Derington",
+          "Jane E B Reusch",
+          "Debashis Ghosh",
+          "Sridharan Raghavan"
+        ],
+        "abstract": "Abstract                   Appropriate use of recently approved type 2 diabetes treatments depends on external validity of landmark clinical trials (RCTs) in real-world populations that may differ from trial participants. This study transported effect estimates from the Liraglutide Effect and Action in Diabetes: Evaluation of Cardiovascular Outcome Results (LEADER) trial, a placebo-controlled RCT of liraglutide on cardiovascular outcomes, onto real-world cohorts within the Veterans Affairs (VA) healthcare system. Risk differences (RD) in survival outcomes, approximated using pseudo-observations of individual survival probabilities, were estimated with augmented inverse probability weighting after balancing baseline characteristics between RCT and target samples using approximate balancing weights. Transported effects of liraglutide compared to placebo on major adverse cardiovascular events (MACE) and all-cause mortality in veterans (“VA-weighted LEADER”) were larger than, though statistically consistent with, the treatment effects observed in LEADER: MACE RD at 3 years of 4.6% [95% CI 2.2, 7.0] in VA-weighted LEADER versus 1.6% [0.3, 2.9] in LEADER; all-cause mortality RD at 3 years of 2.9% [0.8, 5.1] in VA-weighted LEADER versus 0.9% [-0.09, 1.9] in LEADER. These estimates of the effects of liraglutide in veterans with diabetes provide real-world evidence that can guide diabetes treatment decisions and formulary policies for a high-risk population underrepresented in RCTs.",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-09-22",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-22",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1186/s12877-026-08275-z",
         "doi": "10.1186/s12877-026-08275-z",
         "url": "https://doi.org/10.1186/s12877-026-08275-z",
@@ -36391,6 +37383,476 @@
           "agingHealth"
         ],
         "firstSeen": "2026-09-21",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/geront/gnag225",
+        "doi": "10.1093/geront/gnag225",
+        "url": "https://doi.org/10.1093/geront/gnag225",
+        "title": "Relationship Quality Trajectories and Financial Abuse Among Older Adults",
+        "authors": [
+          "Wei-Lin Xue",
+          "Kylie Meyer"
+        ],
+        "abstract": "Abstract                                        Background and Objectives                     Financial abuse is a prevalent yet underreported form of elder abuse with serious health and economic consequences. Prior research has linked poor relationship quality to financial abuse risk, but most studies rely on cross-sectional designs and focus on a single relationship type. This study examined whether 10-year changes in relationship quality with spouses, family, and friends are associated with subsequent financial abuse.                                                           Research Design and Methods                     Guided by social exchange theory, this study used data from three waves of the National Social Life, Health, and Aging Project. Relationship quality was categorized as stable, improving, or worsening over a 10-year period. Logistic regression models were estimated for each relationship type, adjusting for sociodemographic characteristics.                                                           Results                     Older adults with worsening family or friendship relationships over the 10-year period had more than twice the odds of experiencing subsequent financial abuse compared with those with stable relationships. Improving relationship trajectories were not significantly associated with financial abuse risk. Changes in spousal relationship quality were also not significantly associated with financial abuse.                                                           Discussion and Implications                     These findings suggest that worsening family and friendship relationships over time may be an early indicator of financial abuse risk. Monitoring changes in older adults’ social relationships and supporting relationship stability may be important strategies for preventing financial abuse in later life.",
+        "source": "The Gerontologist",
+        "issn": "0016-9013",
+        "date": "2026-09-21",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/gerona/glag238",
+        "doi": "10.1093/gerona/glag238",
+        "url": "https://doi.org/10.1093/gerona/glag238",
+        "title": "Acceptance of AI-Based Assistive Technologies for Autonomy Support Among Older Adults: A Scoping Review",
+        "authors": [
+          "Sekou Oumarou Thera",
+          "Ali Ben Charif",
+          "Jeanne Bertona",
+          "Patrick Villani",
+          "Sébastien Lechevallier",
+          "Marc-Karim Bendiane",
+          "Anne-Laure Couderc"
+        ],
+        "abstract": "Abstract                                        Background                     Population aging is leading to increased demand for health and long-term care. AI-based assistive technologies have been developed to support autonomy and care for older adults, yet real‑world adoption remains limited. We review evidence on acceptance and determinants of acceptance of AI‑based assistive technologies among older adults.                                                           Methods                     We conducted a scoping review using the JBI methodology and followed PRISMA‑ScR guidelines for reporting. Four databases (PubMed, Embase, Web of Science, Cochrane) were searched for studies published from January 2010 to June 2025, initially in any language. We included studies examining acceptance and determinants of acceptance of AI-based assistive technologies among adults aged 65 years and older. We synthesized data using inductive thematic analysis.                                                           Results                     Twenty‑nine studies met the inclusion criteria, with over one-third conducted in Europe (n = 10). Overall attitudes toward AI‑based assistive technologies were generally favorable when technologies were perceived as useful, easy to use, and tailored to needs. However, actual use was low. Acceptance was associated with socio‑demographic (e.g., age, residence), medical (e.g., frailty, self‑rated health), psychosocial (e.g., stigma), and structural (e.g., cost, accessibility) determinants, as well as with institutional and relational factors (e.g., preservation of human contact).                                                           Conclusions                     While older adults have generally positive views of AI‑based assistive technologies, adoption is slow because of intersecting psychosocial, economic, technical, and organizational barriers. User‑centered design, care-led innovation approaches, and implementation strategies that complement—rather than replace—human support may facilitate uptake and sustained use. Development of standardized assessment tools is needed to enable cross-study comparability and guide future research.",
+        "source": "The Journals of Gerontology, Series A: Biological Sciences and Medical Sciences",
+        "issn": "1079-5006",
+        "date": "2026-09-21",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "elderCare"
+        ],
+        "firstSeen": "2026-09-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70716",
+        "doi": "10.1111/jgs.70716",
+        "url": "https://doi.org/10.1111/jgs.70716",
+        "title": "Gait Speed and Survival in Those With Exceptional Longevity: The\n                    <scp>LifeAfter90</scp>\n                    Study",
+        "authors": [
+          "Rifat Alam",
+          "Hilary L. Colbeth",
+          "Alexander Ivan B. Posis",
+          "Kristen M. George",
+          "Katherine Colcord",
+          "Claire C. Meunier",
+          "Paola Gilsanz",
+          "Maria M. Corrada",
+          "Rachel A. Whitmer"
+        ],
+        "abstract": "ABSTRACT                                        Background                     Although gait speed is a well‐established predictor of mortality, it is understudied among ethnoracially diverse oldest‐old cohorts. We examined the association between gait speed and all‐cause mortality in an ethnoracially diverse 90+ population.                                                           Methods                     We examined the association between gait speed and survival over an average follow up of 3.6 ± 2.0 years. Follow‐up time was defined as years from baseline to death, loss to follow‐up, refusal, or study end, June 19, 2025, whichever occurred first. Baseline gait speed (m/s) was measured using the 4‐meter walk test. Cox proportional hazards model evaluated associations between gait speed and mortality, adjusting for age, sex/gender, race/ethnicity, and education. Interactions by sex/gender, age, race/ethnicity, and device were tested.                                                           Results                                            Among 502 participants (                       M                       age                       92.9 ± 2.4 years; 62.6% women; 20.9% Asian, 22.3% Black, 12.4% Latinx, 8.6% Multiracial/Other, 35.9% White), mean gait speed was 0.55 ± 0.21 m/s and 259 deaths occurred. Each 1 SD (0.21 m/s) increase in gait speed was associated with a 20% lower risk of mortality (HR = 0.80; 95% CI = 0.69–0.91) after adjustments for demographics. In this cohort, this increase corresponds to completing the 4‐meter walk test about 2 s faster. The association was modified by age (                       p                       ‐interaction = 0.01). There were no significant differences by sex/gender, race/ethnicity or device (                       p                       ‐interaction &gt; 0.1). In age‐stratified analyses, faster gait speed predicted lower risk of mortality among participants aged 90–94 years (HR = 0.70; 95% CI = 0.60–0.82), whereas the results were attenuated for the 95+ group (HR = 1.02; 95% CI = 0.77–1.30).                                                                                Conclusion                     Faster gait speed was associated with a lower risk of mortality in adults aged 90 and older. These results were consistent across gender, race/ethnicity, and assistive device use, but differed by age group. Routine gait speed assessment may serve as a simple clinical tool to identify oldest‐old adults at higher risk of mortality.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-09-21",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08304-x",
+        "doi": "10.1186/s12877-026-08304-x",
+        "url": "https://doi.org/10.1186/s12877-026-08304-x",
+        "title": "Malnutrition and possible sarcopenia in geriatric inpatients with H-Type hypertension: a multicenter cross-sectional study",
+        "authors": [
+          "Song Zhang",
+          "Qin Tan",
+          "Tianxun Wang",
+          "Nanping Xiao",
+          "Xiaojun Huang",
+          "Yue Pan",
+          "Jing Wei",
+          "Hanjun He",
+          "Gang Ma"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-21",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08324-7",
+        "doi": "10.1186/s12877-026-08324-7",
+        "url": "https://doi.org/10.1186/s12877-026-08324-7",
+        "title": "Development of an evidence-based guideline for deprescribing potentially inappropriate medications in older adults",
+        "authors": [
+          "Fangyuan Tian",
+          "Zhaoyan Chen",
+          "Mengnan Zhao",
+          "Ying Zhang",
+          "Hongyu Cai",
+          "Rui Tang",
+          "Xuehua Wan",
+          "Fei Zhou",
+          "Zinan Zhao",
+          "Shuang Zhou",
+          "Xueyi Zhang",
+          "Shili Liao",
+          "Dan Zhou",
+          "Yuxian Chen",
+          "Lingyan Zhou",
+          "Qiyi Feng",
+          "Xi Chen",
+          "Fengbo Wu",
+          "Li Mo",
+          "Jinhan He",
+          "Yu Zhang",
+          "Jie Zhao",
+          "Ling Jiang",
+          "Xiaocong Zuo",
+          "Jian Zhang",
+          "Liyan Miao",
+          "Dong Liu",
+          "Lihong Liu",
+          "Zhiren Zhang",
+          "Xingguo Zhang",
+          "Bo Zhang",
+          "Xiao Chen",
+          "Xinan Wu",
+          "Rongsheng Zhao",
+          "Ruigang Hou",
+          "Yongfang Yuan",
+          "Yujin Guo",
+          "Weihua Lai",
+          "Anhua Wei",
+          "Aizong Shen",
+          "Bin Wang",
+          "Benzhi Cai",
+          "Bin Wu",
+          "Bikui Zhang",
+          "Daihong Guo",
+          "Feng Qiu",
+          "Fengsu Hou",
+          "Hang Wang",
+          "Haibin Dai",
+          "Hong Li",
+          "Hui Wu",
+          "Jianfen Gu",
+          "Jianhua Yang",
+          "Jie Zhang",
+          "Jingwen Wang",
+          "Lan Zhang",
+          "Ling Liu",
+          "Lingji Hao",
+          "Lu Yang",
+          "Lei Tian",
+          "Mei Wang",
+          "Ming Hu",
+          "Pengfei Jin",
+          "Qian Chen",
+          "Shao Liu",
+          "Shilong Zhong",
+          "Xiaodong Guan",
+          "Xiaolan Bian",
+          "Yanqing Song",
+          "Ying Zhou",
+          "Yinghui Jin",
+          "Yuyan Wang"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-21",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08323-8",
+        "doi": "10.1186/s12877-026-08323-8",
+        "url": "https://doi.org/10.1186/s12877-026-08323-8",
+        "title": "Frailty and adverse outcomes in periprosthetic femur fractures: a comparative analysis of risk stratification tools",
+        "authors": [
+          "Maximilian Peter Forssten",
+          "Ahmad Westas Ismail",
+          "Ioannis Ioannidis",
+          "Hatem Marie",
+          "Hassan Mashbari",
+          "Babak Sarani",
+          "Shahin Mohseni"
+        ],
+        "abstract": "Abstract                                        Background                     Periprosthetic femur fractures are associated with substantial morbidity and mortality. The aim of the current study was to evaluate the association between frailty and adverse outcomes in geriatric patients with isolated periprosthetic femur fractures, as well as to compare the predictive performance of multiple risk stratification tools in this population.                                                           Methods                     Data were retrieved from the 2016–2021 ACS Trauma Quality Improvement Program dataset. All geriatric patients who suffered an isolated periprosthetic femur fracture due to a ground-level fall were eligible for inclusion. Frailty was measured using the Orthopedic Frailty Score (OFS). To determine the association between frailty and adverse outcomes, Poisson regression models with robust standard errors were employed. The ability of the OFS to predict mortality was compared to several other risk scores using the area under the receiver-operating characteristic curve (AUC).                                                           Results                     1,220 patients with an isolated periprosthetic femur fracture were included in the analysis. After adjusting for potential confounders, frail patients exhibited a 204% higher risk of in-hospital mortality [RR (95% CI): 3.04 (1.05–8.81)], a 160% higher risk of complications [RR (95% CI): 2.60 (1.24–5.46)], and a 95% higher risk of ICU admission [RR (95% CI): 1.95 (1.11–3.43)], compared to non-frail patients. When predicting in-hospital mortality the OFS (AUC 0.70), 11-factor modified Frailty Index (AUC 0.71), and Revised Cardiac Risk Index (AUC 0.70) all showed modest discriminatory ability.                                                           Conclusion                     Frail patients with periprosthetic femur fractures suffer from a disproportionately increased risk of in-hospital mortality, complications, and ICU admission. Additional investigations are warranted to determine what measures are required to mitigate adverse events in this vulnerable patient population.                                                           Clinical trial number                     Not applicable",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-21",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1097/ede.0000000000002046",
+        "doi": "10.1097/ede.0000000000002046",
+        "url": "https://doi.org/10.1097/ede.0000000000002046",
+        "title": "Association Between Proximity to Animal Agriculture During Pregnancy and Spontaneous Preterm Birth Among Nulliparous Women in a California Cohort",
+        "authors": [
+          "Saskia Comess",
+          "Joshua L. Warren",
+          "Gary M. Shaw",
+          "Daniel E. Ho"
+        ],
+        "abstract": "Background:                     Environmental exposures during pregnancy may influence risk of spontaneous preterm birth, a serious adverse outcome. Concentrated Animal Feeding Operations (CAFOs) near maternal residences may emit pollutants associated with preterm birth.                                                           Methods:                     We analyzed n = 811,953 births to nulliparous women in California (2007–2011), including 7487 spontaneous very preterm (20–31 weeks) and 37,026 spontaneous moderate preterm (32–36 weeks) births. Locations of n = 2121 CAFOs were obtained from a near-census of facilities. Using time-to-event and Bayesian methods, we estimated hazard and odds of preterm birth as a function of distance, density, and wind-based CAFO exposure, adjusting for maternal, temporal, socioeconomic, and environmental covariates. Bayesian models allow inference on both the distance range of association and the association strength.                                                           Results:                     Greater exposure to CAFOs is associated with small increases in hazard of all preterm birth (adjusted hazard ratios, per-unit exposure change − inverse distance: 1.003 [95% confidence interval [CI] = 1.000, 1.005]; downwind-weighted: 1.020 [95% CI = 1.005, 1.035]) with stronger associations for very preterm birth (adjusted hazard ratios − inverse distance: 1.007 [95% CI = 1.002, 1.012]; downwind-weighted: 1.043 [95% CI = 1.008, 1.080]). Among exposed births, less downwind exposure is associated with lower preterm birth hazard compared with being predominantly downwind. Bayesian models suggest births with at least one CAFO within 25.23 km (95% highest density interval [HDI]: 18.21, 32.74 km) have 1.16 times the odds of being very preterm (95% HDI: 1.10, 1.22), with similar distance ranges but smaller odds for moderate preterm birth (adjusted odds ratio: 1.08 [95% HDI: 1.05, 1.10]).                                                           Conclusions:                     Living near a CAFO may increase risk of spontaneous preterm birth in California, with stronger and more consistent associations for very preterm births, particularly when combined with greater downwind exposure.",
+        "source": "Epidemiology",
+        "issn": "1044-3983",
+        "date": "2026-09-21",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1097/ede.0000000000002044",
+        "doi": "10.1097/ede.0000000000002044",
+        "url": "https://doi.org/10.1097/ede.0000000000002044",
+        "title": "Transportability of Prognostic Markers",
+        "authors": [
+          "Mohsen Sadatsafavi",
+          "Gavin Pereira",
+          "Wenjia Chen"
+        ],
+        "abstract": "Transportability, the ability to maintain performance across populations, is a desirable property of markers of clinical outcomes. However, empirical findings indicate that markers often exhibit varying performances across populations. For prognostic markers that are advertised as predictive risk equations for an outcome of interest, oftentimes a form of updating is required when the equation is transported to populations with different outcome prevalences. Here, we revisit transportability of prognostic markers through the lens of the foundational framework of sufficient-component causes. We argue that transporting a marker “as is” implicitly assumes predictive values are transportable, whereas conventional prevalence-adjustment shifts the locus of transportability to accuracy metrics (sensitivity and specificity). Using a minimalist sufficient-cause framework that decomposes risk prediction into broad causal constituents, we show that both approaches rely on strong assumptions about the stability of cause distributions. Such a framework instead invites making transparent assumptions about how different causes vary across populations, leading to different transportability methods. For example, in the absence of any external information other than outcome prevalence, an impartial perspective can assume all causes are responsible for change in prevalence. This assumption leads to a new form of marker transportability method. Numerical experiments demonstrate that different transportability assumptions lead to varying degrees of information loss, depending on the distribution of causes across populations. A sufficient-component-cause perspective challenges common assumptions and practices for marker transportability, and results in novel transportability methods based on explicit assumptions on how different causes vary across populations.",
+        "source": "Epidemiology",
+        "issn": "1044-3983",
+        "date": "2026-09-21",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag237",
+        "doi": "10.1093/aje/kwag237",
+        "url": "https://doi.org/10.1093/aje/kwag237",
+        "title": "Rationale and Design of the Atherosclerosis Risk in Communities Generation 2 (ARIC Gen2) Study",
+        "authors": [
+          "Dan Wang",
+          "Natalie R Daya",
+          "Mary R Rooney",
+          "Arielle Valint",
+          "Melissa Minotti",
+          "Michael Fang",
+          "Shengyuan Luo",
+          "Lynne E Wagenknecht",
+          "B Gwen Windham",
+          "Pamela L Lutsey",
+          "David Couper",
+          "Josef Coresh",
+          "Justin B Echouffo-Tcheugui",
+          "Lin Yee Chen",
+          "Elizabeth Selvin"
+        ],
+        "abstract": "Abstract                   Type 2 diabetes is a risk factor for cardiac arrhythmias, but it is unknown how specific aberrations in glucose (e.g., episodes of high or low glucose) might contribute to the occurrence of heart rhythm abnormalities. The overarching goal of this study is to address research questions regarding how glucose patterns might contribute to the occurrence of arrhythmias, primarily atrial fibrillation, in adults with diabetes. To fulfill this goal, the Atherosclerosis Risk in Communities (ARIC) Gen2 study recruited 507 community-dwelling adults aged 50–80 years with type 2 diabetes to wear continuous glucose monitoring (CGM) and electrocardiogram (ECG) “patch” monitoring sensors simultaneously for up to 14 days. Gen2 study had high CGM and ECG completeness: the median wear time for sensors was 14 days and approximately 80% of participants wore both sensors for ≥10 days. By combining Gen2 and data from the original ongoing ARIC cohort (aged 80+), we have the capacity to conduct a comprehensive evaluation of the impact of CGM-defined glucose patterns on arrhythmias across a wide age spectrum from middle-aged to very old adults (aged 50-100) with type 2 diabetes. The findings from this study may help inform clinical strategies for the prevention and management of arrhythmias among adults with type 2 diabetes.",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-09-21",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag235",
+        "doi": "10.1093/aje/kwag235",
+        "url": "https://doi.org/10.1093/aje/kwag235",
+        "title": "Does despair drive increases in white mortality, or did the narrative get ahead of the data?",
+        "authors": [
+          "Luis Esteban Segura",
+          "Rodrigo Zepeda-Tello",
+          "Seth J Prins",
+          "Silvia S Martins"
+        ],
+        "abstract": "Abstract                   The aim of this study is to test the central claim of the “deaths of despair” theory: that rising despair among midlife white Americans has driven increases in all-cause mortality, particularly in those with low education. We analyzed time series of annual all-cause mortality rates per 100,000 (N=92,700 individuals) and despair (N=88,872 individuals) among US midlife (aged 45-54) adults from the CDC and NIH between 1999-2015. The association between changes in despair and changes in mortality rates were estimated via Bayesian autoregressive models with AR(1) errors. Race/ethnicity and education-specific estimates were obtained via marginal standardization. All-cause mortality increased by 7.49 per 100,000 only among midlife white adults, with a larger increase among those with low education (51.4 per 100,000). Despair prevalence did not increase exclusively among midlife white adults, increasing by 0.13% (-0.03%; 0.29%) and 0.12% (-0.27%; 0.51%) among white and Black midlife adults. The observed increases in despair among whites in midlife were not associated with increases in mortality rates (-0.12 per 100,000; 95%UI=-0.54; 0.29). These findings directly challenge the central claim of this theory and highlight the need to move beyond the white despair narrative to explain US mortality trends.",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-09-21",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag232",
+        "doi": "10.1093/aje/kwag232",
+        "url": "https://doi.org/10.1093/aje/kwag232",
+        "title": "Hypothetical interventions on alcohol consumption and risk of mortality in healthy women: emulated target trials from the Norwegian women and health study",
+        "authors": [
+          "Fjorida Llaha",
+          "Yu-Han Chiu",
+          "Idlir Licaj",
+          "Tom Wilsgaard",
+          "Kristin Benjaminsen Borch"
+        ],
+        "abstract": "Abstract                   We applied target trial emulation and the parametric g-formula to evaluate the effects of sustained alcohol consumption on 23-year mortality. Healthy women aged ≥ 35 years from the Norwegian Women and Health Study who completed questionnaires in 1998–2003 were eligible for the emulated trials (A and B). Trial B included only women reporting moderate alcohol consumption before baseline. In total, 57 964 and 14 393 women met the eligibility criteria for Trials A and B, respectively. The observed 23-year all-cause mortality risk was 6.97%. In Trial A, 23-year mortality risk differences (RDs) versus no intervention were 0.29% (95% CI, 0.02%, 0.58%) for no alcohol consumption, 0.12% (95% CI, 0.07%, 0.20%) for low consumption (&amp;gt;0 to 2 drinks/week), and − 0.44% (95% CI, −0.66%, −0.25%) for moderate consumption (&amp;gt;2 to 7 drinks/week). The lower mortality associated with moderate drinking was observed only among women aged ≥ 50 years. In Trial B, the 23-year mortality RD of reducing to low/no consumption (≤2 drinks/week) versus maintaining moderate consumption was 1.07% (95% CI, 0.10%, 1.66%). The results suggest a slight decrease in mortality from moderate alcohol consumption, particularly among women aged ≥ 50 years. In addition, the results suggest slightly increased mortality when reducing alcohol consumption from moderate levels.",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-09-21",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag233",
+        "doi": "10.1093/aje/kwag233",
+        "url": "https://doi.org/10.1093/aje/kwag233",
+        "title": "Deaths of Despair among Former Military Service Members, Massachusetts (2014-2021) and Minnesota (2014-2022)",
+        "authors": [
+          "Katelyn M Holliday",
+          "Elliot D Hill",
+          "Heather R Batchelder",
+          "Ashley E Price",
+          "Candice Y Johnson",
+          "Anthony J Viera",
+          "Truls Østbye"
+        ],
+        "abstract": "Abstract                   People who served in the U.S. armed forces—former service members (FSMs)—may be at increased risk of deaths of despair: alcohol-related, drug-related, and suicide deaths. We linked 2014-2021 Massachusetts and 2014-2022 Minnesota death certificates for decedents aged 18-64 years with military personnel files to describe deaths of despair in FSM and non-military populations. We calculated age- and sex-standardized proportionate mortality ratios (PMR) for all FSMs and three-year rolling average age-standardized mortality rates for FSMs with active duty experience. We mapped the geographic distribution of these deaths and describe patterns by service history. Of 176,719 decedents, 9.5% were FSMs. FSMs were more likely to die from a death of despair than non-military populations (PMR (95% Confidence Interval), MA: 111.9 (107.0, 117.0), MN: 106.7 (101.4, 112.2)), specifically suicide deaths (MA, MN) and drug-related deaths (MA). Mortality rates displayed similar trends. FSM deaths of despair occurred a median of 20-30 years after military separation and were most common among those with Coast Guard, Marine, or Army service and Bad Conduct/Dishonorable or Uncharacterized separations. FSMs have higher burden of deaths of despair than non-military populations with patterns that vary by service history, warranting further investigation into contributing military, individual, and community factors.",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-09-21",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261487345",
+        "doi": "10.1177/13872877261487345",
+        "url": "https://doi.org/10.1177/13872877261487345",
+        "title": "Non-motor symptoms questionnaire-based profiles in early-stage dementias: A prospective cohort study",
+        "authors": [
+          "Mika Kinnunen",
+          "Emma Vitikka",
+          "Johanna Krüger",
+          "Dorit Hoffmann",
+          "Annakaisa Haapasalo",
+          "Alberto Lleó",
+          "Olivia Belbin",
+          "Noora-Maria Suhonen",
+          "Barbara Borroni",
+          "Anne M. Portaankorva",
+          "Laura Säisänen",
+          "Kasper Katisko",
+          "Eino Solje"
+        ],
+        "abstract": "Background                     Current knowledge regarding the nature and prevalence of non-motor symptoms across different types of dementia is limited. While Alzheimer's disease (AD), behavioral variant frontotemporal dementia (bvFTD), and dementia with Lewy bodies (DLB) are primarily characterized by cognitive and motor symptoms, several other features such as non-motor symptoms are also known to occur in all these conditions.                                                           Objective                     To assess non-motor symptoms in early-stage dementia and characterize symptom profiles across different neurodegenerative dementia diseases.                                                           Methods                     A total of 64 AD, 38 bvFTD, and 17 DLB early-stage patients, along 63 cognitively healthy controls (HC), were prospectively recruited from Kuopio and Oulu University Hospitals. Non-motor symptoms were evaluated using the Non-Motor Symptoms Questionnaire (NMSQ), focusing on gastrointestinal, neuropsychiatric, cognitive, sleep-related and sensory-motor domains within three timeframes prior to the baseline visit.                                                           Results                                            DLB patients exhibited the highest prevalence of non-motor symptoms across all domains. bvFTD and AD patients did not show disease group specific symptoms, but apathy and paranoidal thoughts appeared earlier in bvFTD than AD or DLB. Diplopia was reported by 14% of DLB patients (Fisher exact test,                       p                        = 0.035) one year before diagnosis. Neuropsychiatric and cognitive symptoms were more frequent in all dementia groups compared to HC (Fisher exact test,                       p                        &lt; 0.01).                                                                                Conclusions                     Non-motor symptom profiles differ among these dementia subtypes even at early stages, suggesting their potential utility as early disease-specific indicators.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-09-21",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70729",
+        "doi": "10.1111/jgs.70729",
+        "url": "https://doi.org/10.1111/jgs.70729",
+        "title": "Editor's Note on Refusing Erasure: Moral Courage in\n                    <scp>LGBTQ</scp>\n                    + Health Research",
+        "authors": [
+          "Alexander K. Smith"
+        ],
+        "abstract": "",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-09-20",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70715",
+        "doi": "10.1111/jgs.70715",
+        "url": "https://doi.org/10.1111/jgs.70715",
+        "title": "Association of B‐Type Natriuretic Peptide With Intrinsic Capacity Trajectories Among Chinese Older Adults",
+        "authors": [
+          "Na Zhang",
+          "Xichenhui Qiu",
+          "Xiaofeng Wang",
+          "Ling Wei",
+          "Xinyuan Li",
+          "Shuanglin Xie",
+          "Chunlai Zeng",
+          "Xiaoyan Jiang"
+        ],
+        "abstract": "ABSTRACT                                        Background                     Intrinsic capacity (IC) is central to healthy aging, yet accessible and cost‐effective biomarkers for identifying individuals at risk of IC decline remain limited. We investigated whether elevated B‐type natriuretic peptide (BNP), including persistent BNP abnormalities, is associated with baseline IC and longitudinal IC decline.                                                           Methods                     We conducted a population‐based prospective cohort study using data from the Rugao Longevity and Aging Study, which included three waves of assessments over 4 years. IC was quantified as a composite score across five domains—mobility, vitality, cognition, psychological, and sensory—and assessed at baseline and follow‐up visits. Longitudinal associations between BNP levels (quartiles, binary elevation, and cumulative abnormalities) and changes in IC were analyzed using generalized estimating equations.                                                           Results                                            Among 1494 participants (mean [SD] age 77.9 [4.5] years, 46.4% male), higher BNP levels were significantly associated with lower IC scores at baseline (adjusted                       β                        = −0.46, 95% CI: −0.70, −0.22). In a longitudinal analysis, compared with the lowest quartile, the highest BNP quartile was associated with greater IC decline (adjusted                       β                        = −0.43; 95% CI: −0.70, −0.19). Elevated BNP was similarly associated with IC decline (adjusted                       β                        = −0.37; 95% CI: −0.57, −0.18). Findings remained significant among participants without CVD. Persistent BNP elevation at baseline and 2‐year follow‐up was associated with subsequent IC decline (adjusted                       β                        = −0.36; 95% CI: −0.65, −0.06).                                                                                Conclusions                     Elevated and persistent BNP abnormalities are consistently associated with IC decline, supporting BNP as a practical biomarker for early identification of older adults at risk of functional deterioration.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-09-20",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70730",
+        "doi": "10.1111/jgs.70730",
+        "url": "https://doi.org/10.1111/jgs.70730",
+        "title": "Editor's Note on Association of B‐Type Natriuretic Peptide With Intrinsic Capacity Trajectories Among Chinese Older Adults",
+        "authors": [
+          "Michael W. Rich"
+        ],
+        "abstract": "",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-09-20",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-22",
         "fetched_from": "crossref"
       },
       {
@@ -42064,6 +43526,23 @@
         "fetched_from": "crossref"
       },
       {
+        "id": "doi:10.1093/sw/swag047",
+        "doi": "10.1093/sw/swag047",
+        "url": "https://doi.org/10.1093/sw/swag047",
+        "title": "Social Work",
+        "authors": [],
+        "abstract": "",
+        "source": "Social Work",
+        "issn": "0037-8046",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-09-22",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1007/s10896-026-01162-6",
         "doi": "10.1007/s10896-026-01162-6",
         "url": "https://doi.org/10.1007/s10896-026-01162-6",
@@ -42082,6 +43561,27 @@
           "socialWork"
         ],
         "firstSeen": "2026-09-21",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/bjsw/bcag207",
+        "doi": "10.1093/bjsw/bcag207",
+        "url": "https://doi.org/10.1093/bjsw/bcag207",
+        "title": "‘Of course we knew, but we didn’t talk about it’: Valuing LGBTQ+ lives in safeguarding adults",
+        "authors": [
+          "Karl Mason",
+          "Adi Cooper",
+          "Gill Taylor"
+        ],
+        "abstract": "Abstract                   Safeguarding adults policy and practice offers person-centred and strengths-based support to people with care and support needs who cannot protect themselves from experiences of abuse and neglect. Little is known about how lesbian, gay, bisexual, transgender or queer (LGBTQ+) adults experience these processes, but a range of factors may place them at greater risk of abuse, particularly due to hostility, discrimination, and inequalities. This article sets out to explore the ways in which LGBTQ+ adults with care and support needs are represented in English Safeguarding Adults Reviews (SARs) and reports on documentary analysis of twenty-seven SARs and focus group discussions with fourteen SAR reviewers. Our findings illustrate that LGBTQ+ lives are framed as difficult, unacknowledged, transgressive, and unequal. The article concludes with a discussion that applies critical and queer theories to these findings, ultimately arguing that safeguarding practice is not currently addressing the needs of this group consistently and indeed, may cause further systemic harm through non-affirmative, hetero/cis-normative, discriminatory, or other hostile practices. One way forward is to adopt queer-oriented strengths-based approaches that centre joy, aliveness, and the liveability of life, alongside an understanding of systemic and structural harm. We argue this may offer more affirmative safeguarding support for LGBTQ+ adults.",
+        "source": "The British Journal of Social Work",
+        "issn": "0045-3102",
+        "date": "2026-09-21",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-09-22",
         "fetched_from": "crossref"
       },
       {
@@ -43511,11 +45011,11 @@
     ]
   },
   "totals": {
-    "socialSecurity": 1526,
-    "elderCare": 164,
-    "healthReform": 310,
-    "agingHealth": 236,
-    "socialWork": 80
+    "socialSecurity": 1527,
+    "elderCare": 180,
+    "healthReform": 322,
+    "agingHealth": 260,
+    "socialWork": 82
   },
   "feeds_ok": 41
 }
