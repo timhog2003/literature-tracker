@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-22",
-  "fetched": "2026-09-22T06:28:51+00:00",
+  "date": "2026-09-23",
+  "fetched": "2026-09-23T06:13:31+00:00",
   "domains": {
     "socialSecurity": [
       {
@@ -23310,6 +23310,106 @@
     ],
     "elderCare": [
       {
+        "id": "doi:10.1186/s12877-026-08320-x",
+        "doi": "10.1186/s12877-026-08320-x",
+        "url": "https://doi.org/10.1186/s12877-026-08320-x",
+        "title": "Anticipated acceptance of generative AI among older adults with chronic heart failure: a qualitative study guided by UTAUT",
+        "authors": [
+          "Yunxia Shen",
+          "Xueli Shen",
+          "Jingbang Liu",
+          "Yan Ma",
+          "Haili Yang",
+          "Chenchen Feng",
+          "Qianyi Shen",
+          "Lili Wu"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-23",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08346-1",
+        "doi": "10.1186/s12877-026-08346-1",
+        "url": "https://doi.org/10.1186/s12877-026-08346-1",
+        "title": "Discriminative ability and exploratory cutoff of six-minute walk distance for recent self-reported fall history in community-dwelling older adults with type 2 diabetes",
+        "authors": [
+          "Chiraphat Kloypan",
+          "Boonsita Suwannakul",
+          "Chakkraphan Hongluek",
+          "Tichanon Promsrisuk",
+          "Arunrat Srithawong"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-23",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08342-5",
+        "doi": "10.1186/s12877-026-08342-5",
+        "url": "https://doi.org/10.1186/s12877-026-08342-5",
+        "title": "Association of social factors with physical frailty in community dwelling older adults: a cross-sectional study in Northern India",
+        "authors": [
+          "Vinod Gupta",
+          "Kritartha Kashyap",
+          "Sudeep Mathew George",
+          "Parul Bhutani",
+          "Vasu Digra",
+          "Minakshi Dhar",
+          "Vartika Saxena",
+          "Yogesh Bahurupi"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-23",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08331-8",
+        "doi": "10.1186/s12877-026-08331-8",
+        "url": "https://doi.org/10.1186/s12877-026-08331-8",
+        "title": "Psychosocial predictors of death anxiety in older adults: the differential role of social health and active ageing dimensions",
+        "authors": [
+          "Zohreh Monfared",
+          "Kheizaran Miri",
+          "Hossein AjamZibad"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-23",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-23",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1186/s12877-026-08315-8",
         "doi": "10.1186/s12877-026-08315-8",
         "url": "https://doi.org/10.1186/s12877-026-08315-8",
@@ -23487,6 +23587,96 @@
           "agingHealth"
         ],
         "firstSeen": "2026-09-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70710",
+        "doi": "10.1111/jgs.70710",
+        "url": "https://doi.org/10.1111/jgs.70710",
+        "title": "Supporting Patient Goals Through Standardization and Documentation of Surgical Goals in the Electronic Health Record",
+        "authors": [
+          "K. A. Telma",
+          "A. L. Hitzeman",
+          "J. N. Cohan",
+          "M. L. Schwarze"
+        ],
+        "abstract": "",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-09-22",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70717",
+        "doi": "10.1111/jgs.70717",
+        "url": "https://doi.org/10.1111/jgs.70717",
+        "title": "Healthcare Goals and Perceived Goal‐Concordant Care Among\n                    <scp>US</scp>\n                    Older Adults—A National Survey",
+        "authors": [
+          "Nancy L. Schoenborn",
+          "Terri R. Fried"
+        ],
+        "abstract": "",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-09-22",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08328-3",
+        "doi": "10.1186/s12877-026-08328-3",
+        "url": "https://doi.org/10.1186/s12877-026-08328-3",
+        "title": "Suicidal ideation and associated factors in early and late onset late life depression",
+        "authors": [
+          "Ali İnaltekin",
+          "Yasin Taşdelen",
+          "Ibrahim Yağcı"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-22",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08226-8",
+        "doi": "10.1186/s12877-026-08226-8",
+        "url": "https://doi.org/10.1186/s12877-026-08226-8",
+        "title": "Correction: Analysis of the prevalence of frailty and its influential factors among the rural elderly from the Yi and Hani ethnic groups in border areas of Yunnan Province",
+        "authors": [
+          "Xuting Ruan",
+          "Renyi Yu",
+          "Lu Zhao",
+          "Xin Mao",
+          "Lingyun Ran"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-22",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-23",
         "fetched_from": "crossref"
       },
       {
@@ -27821,6 +28011,1073 @@
           "healthReform"
         ],
         "firstSeen": "2026-09-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.12768",
+        "doi": "10.1001/jama.2026.12768",
+        "url": "https://doi.org/10.1001/jama.2026.12768",
+        "title": "Ceperognastat in Early Symptomatic Alzheimer Disease",
+        "authors": [
+          "Adam S. Fleisher",
+          "Leanne Munsie",
+          "Michele Mancini",
+          "Yun-Ju Cheng",
+          "Jiaying Guo",
+          "Hugh Nuthall",
+          "Diana Svaldi Otero",
+          "Vikas Kotari",
+          "William Kielbasa",
+          "Michael Hutton",
+          "Miroslaw Brys",
+          "Dustin J. Mergott",
+          "Mark Mintun",
+          "Oskar Hansson"
+        ],
+        "abstract": "Importance                                            Inhibiting                       O                       -linked                       N                       -acetylglucosaminidase (OGA) is hypothesized to slow accumulation of aggregated, hyperphosphorylated tau and neurofibrillary tangle formation.                                                                                Objective                     To evaluate the efficacy and safety of the potent oral OGA inhibitor ceperognastat in early symptomatic Alzheimer disease (AD).                                                           Design, Setting, and Participants                     This double-blind, randomized, placebo-controlled phase 2 study was conducted at 72 sites in 5 countries from September 2021 to August 2024, with a posttreatment observational extension period through May 2025. The primary outcome population comprised participants with early symptomatic AD and biomarker evidence of tau pathology, including low to medium baseline tau levels (excluding individuals with high levels), as measured by positron emission tomography (PET) with flortaucipir F18.                                                           Intervention                     Participants were randomized 1:1:1 to receive once-daily, oral ceperognastat at doses of 0.75 mg (n = 110) or 3 mg (n = 108) or placebo (n = 108).                                                           Main Outcomes and Measures                     The primary outcome was change in Integrated AD Rating Scale (iADRS) score. The success criterion was a 60% or greater probability of achieving greater than or equal to 25% slower progression vs placebo using a bayesian probabilistic disease progression model. The 6 secondary outcomes were Alzheimer's Disease Assessment Scale–Cognitive Subscale, 13-item version; Alzheimer’s Disease Cooperative Study–Activities of Daily Living scale; Clinical Dementia Rating–Sum of Boxes; Mini-Mental State Examination; tau PET; and volumetric magnetic resonance imaging.                                                           Results                                            Of the 327 randomized participants (mean age, 73.4 years; 201 [61.5%] females), 259 (87 receiving ceperognastat 0.75 mg, 86 receiving ceperognastat 3 mg, and 86 receiving placebo) with low to medium baseline tau levels were included in the primary outcome population (mean age, 74.3 years; 161 [62.2%] females). In this population, no clinically meaningful benefit vs placebo was observed for the primary end point (iADRS score) at 100 weeks: posterior mean change from baseline was −8.39 with ceperognastat 0.75 mg, −13.27 with ceperognastat 3 mg, and −10.07 with placebo. The disease progression ratio relative to placebo was 0.84 (95% credible interval [CrI], 0.66-1.04) for the ceperognastat 0.75 mg group and 1.32 (CrI, 1.10-1.58) for the ceperognastat 3 mg group, corresponding to 16% less and 32% greater progression, respectively. No benefits were demonstrated for secondary clinical end points. From baseline to 76 weeks, least-squares mean change in standardized uptake value ratio on PET showed a statistically significantly smaller increase (                       P                        = .04) vs placebo only for the ceperognastat 3 mg group in the lateral temporal lobe. Volumetric magnetic resonance imaging showed less whole brain volume loss in participants treated with ceperognastat vs placebo (43.2% [ceperognastat 0.75 mg] and 49.5% [ceperognastat 3 mg] less vs placebo; both                       P                        &amp;amp;lt; .001). The ceperognastat 3 mg group had more serious (ceperognastat 0.75 mg: n = 13 [12.0%]; ceperognastat 3 mg: n = 29 [26.4%]; placebo: n = 17 [15.7%]) and severe (ceperognastat 0.75 mg: n = 7 [6.5%]; ceperognastat 3 mg: n = 15 [13.6%]; placebo: n = 7 [6.5%]) treatment-emergent adverse events.                                                                                Conclusions and Relevance                     Ceperognastat did not slow disease progression of early symptomatic AD.                                                           Trial Registration                                            ClinicalTrials.gov Identifier:                       NCT05063539",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-22",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.12323",
+        "doi": "10.1001/jama.2026.12323",
+        "url": "https://doi.org/10.1001/jama.2026.12323",
+        "title": "Ceperognastat in Alzheimer Disease",
+        "authors": [
+          "Gil D. Rabinovici",
+          "Joshua D. Grill"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-22",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.12911",
+        "doi": "10.1001/jama.2026.12911",
+        "url": "https://doi.org/10.1001/jama.2026.12911",
+        "title": "Ceperognastat in Early Symptomatic Alzheimer Disease",
+        "authors": [],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-22",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.8803",
+        "doi": "10.1001/jama.2026.8803",
+        "url": "https://doi.org/10.1001/jama.2026.8803",
+        "title": "Ulcerative Colitis Management in Adults",
+        "authors": [
+          "Lauren P. Loeb",
+          "Andrew M. Davis",
+          "Jami A. Kinnucan"
+        ],
+        "abstract": "This JAMA Clinical Guidelines Synopsis summarizes the American College of Gastroenterology’s (ACG) 2025 clinical guideline update on management of ulcerative colitis in adults.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-22",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.12117",
+        "doi": "10.1001/jama.2026.12117",
+        "url": "https://doi.org/10.1001/jama.2026.12117",
+        "title": "Multidomain Intervention for Growth in Term Small-for-Gestational-Age Infants",
+        "authors": [
+          "Ranadip Chowdhury",
+          "Rukman Manapurath",
+          "Ravi Prakash Upadhyay",
+          "Ingvild Fossgard Sandøy",
+          "Saijuddin Shaikh",
+          "Harish Chellani",
+          "Abhinav Jain",
+          "Neeta Dhabhai",
+          "Savita Sapra",
+          "Afreen Khan",
+          "Tarun Shankar Choudhary",
+          "Kiran Bhatia",
+          "Jose Martines",
+          "Nita Bhandari",
+          "Tor A. Strand",
+          "Sunita Taneja",
+          "Ranadip Chowdhury",
+          "Rukman Manapurath",
+          "Ravi Prakash Upadhyay",
+          "Ingvild Fossgard Sandoy",
+          "Saijuddin Shaikh",
+          "Harish Chellani",
+          "Abhinav Jain",
+          "Neeta Dhabhai",
+          "Savita Sapra",
+          "Afreen Khan",
+          "Tarun Shankar Choudhary",
+          "Kiran Bhatia",
+          "Jose Martines",
+          "Nita Bhandari",
+          "Tor A Strand",
+          "Sunita Taneja",
+          "Farhana Rafiqi",
+          "Anita Kate",
+          "Gunjan Aggarwal",
+          "Runa Ghosh",
+          "Firoz Alam",
+          "Sayeed Ahmad",
+          "Himani Bhardwaj",
+          "Girish Chand Pant",
+          "Farah Abbasi",
+          "Heena Chaudhary",
+          "Vaishnavi Rathod",
+          "Geeta Sharma",
+          "Nada Waanbah",
+          "Sangita Yadav"
+        ],
+        "abstract": "Importance                     Small-for-gestational-age (SGA) infants face elevated risk of undernutrition and developmental delays. Multidomain interventions may be needed to promote growth and neurodevelopment.                                                           Objective                     To evaluate the effect of an integrated intervention package on growth and neurodevelopment in term SGA infants.                                                           Design, Setting, and Participants                     Individually randomized clinical trial conducted in low-resource neighborhoods of South Delhi, India. Term SGA infants were enrolled within 14 days of birth; 1300 infants were randomized and followed up to 12 months of age. Recruitment occurred from January 14, 2023, until July 31, 2024, with follow-up completed on August 6, 2025. Outcome assessors were blinded to participant allocation.                                                           Interventions                     Infants were randomized in a 1:1 ratio to receive either an integrated intervention package including health, nutrition, early child stimulation, and psychosocial support (n = 647) or usual care through government programs (n = 653).                                                           Main Outcomes and Measures                                            The primary outcomes were weight and weight-for-age                       z                       score at 12 months. Secondary outcomes included linear growth, neurodevelopment (assessed using the Bayley Scales of Infant and Toddler Development, Third Edition), anemia, and mortality.                                                                                Results                                            At 12 months, 1261 infants (97%) (mean age, 6 days; 48.1% male) had completed follow-up. The mean weight was 8.0 kg (SD, 0.9 kg) in the intervention group vs 7.8 kg (SD, 0.9 kg) in the usual care group (mean difference, 0.22 kg [95% CI, 0.11-0.32 kg]). The mean weight-for-age                       z                       score was −1.3 (SD, 0.9) vs −1.6 (SD, 1.0), respectively (mean difference, 0.24 [95% CI, 0.14-0.35]). The intervention group had a lower prevalence of underweight (23.9% vs 32.6%; risk difference, −8.75 [95% CI, −13.70 to −3.80] percentage points), stunting (20.1% vs 27.2%; risk difference, −7.17 [95% CI, −11.85 to −2.49] percentage points), wasting (13.9% vs 19.4%; risk difference, −5.52 [95% CI, −9.63 to −1.41] percentage points), and anemia (34.0% vs 72.5%; risk difference, −38.49 [95% CI, −44.36 to −32.61] percentage points) and higher cognitive scores (mean difference, 1.73 [95% CI, 0.32-3.14]), language scores (mean difference, 2.74 [95% CI, 1.51-3.98]), and motor composite scores (mean difference, 2.32 [95% CI, 1.25-3.38]). Nine children in the usual care group and 5 in the intervention group died.                                                                                Conclusions and Relevance                                            Among term SGA infants, an integrated intervention improved weight and weight-for-age                       z                       scores at 12 months.                                                                                Trial Registration                                            Clinical Trials Registry–India Identifier:                       CTRI/2021/11/037881",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-22",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.13846",
+        "doi": "10.1001/jama.2026.13846",
+        "url": "https://doi.org/10.1001/jama.2026.13846",
+        "title": "Nurturing Care for Term Small-for-Gestational-Age Infants",
+        "authors": [
+          "Aisha K. Yousafzai"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-22",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.12150",
+        "doi": "10.1001/jama.2026.12150",
+        "url": "https://doi.org/10.1001/jama.2026.12150",
+        "title": "Multidomain Intervention for Growth in Term Small-for-Gestational-Age Infants",
+        "authors": [],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-22",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.11806",
+        "doi": "10.1001/jama.2026.11806",
+        "url": "https://doi.org/10.1001/jama.2026.11806",
+        "title": "Nicotine Pouches",
+        "authors": [
+          "Thomas M. Piasecki",
+          "Megan E. Piper",
+          "Hasmeena Kathuria"
+        ],
+        "abstract": "This JAMA Insights examines the use of nicotine pouches in the US, including adverse effects, comparisons with cigarette and e-cigarette use, and concerns regarding increased use among adolescents and young adults.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-22",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.12580",
+        "doi": "10.1001/jama.2026.12580",
+        "url": "https://doi.org/10.1001/jama.2026.12580",
+        "title": "What Are Nicotine Pouches?",
+        "authors": [
+          "Kristin L. Walter"
+        ],
+        "abstract": "This JAMA Patient Page describes nicotine patch use, the possible harms and side effects, accidental use, and dependence.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-22",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.11065",
+        "doi": "10.1001/jama.2026.11065",
+        "url": "https://doi.org/10.1001/jama.2026.11065",
+        "title": "Total Intravenous vs Volatile Inhalational Anesthesia for Major Noncardiac Surgery",
+        "authors": [
+          "Shaman Jhanji",
+          "Katie Booth",
+          "Louise Hiller",
+          "John Braun",
+          "Janet Dunn",
+          "Lucy Eggleston",
+          "Llewellyn Fenton-May",
+          "Sam Frempong",
+          "Katie Gilchrist",
+          "Claire Jacques",
+          "Monica Jefford",
+          "Rebecca Kandiyali",
+          "Dalbir Kaur",
+          "James Mason",
+          "S. Ramani Moonesinghe",
+          "Rupert Pearse",
+          "Ravishankar Rao Baikady",
+          "Toby Reynolds",
+          "Ben Shelley",
+          "Rhona C. F. Sinclair",
+          "Thomas Teare",
+          "Cecilia Vindrola-Padros",
+          "Joyce Yeung",
+          "Petrus Fourie",
+          "Helen Williams",
+          "Elizabeth Hood",
+          "Marcela Vizcaychipi",
+          "Sundar R Ashok",
+          "Kariem Elboghdadly",
+          "Mandeep Phull",
+          "Tim Hughes",
+          "Caroline Thomas",
+          "Brendon Sloan",
+          "Jamie Strachan",
+          "Michael Gilbert",
+          "Manjunatha Patel",
+          "Rik Kapila",
+          "Tariq Qureshi",
+          "Rhidian Jones",
+          "Jaimin Patel",
+          "Richard Ramsaran",
+          "Ben Clevenger",
+          "Chris Jones",
+          "Tim Cook",
+          "Catriona Frankling",
+          "Sean Cope",
+          "Benjamin Avery",
+          "Kanika Dua",
+          "Chloe Fairbairns",
+          "Anil Hornis",
+          "Ceri-Ann B Lynch",
+          "Andrew Woodgate",
+          "Valasubramaniam Mahadevan",
+          "Jeremy Fabes",
+          "Andrew Clark",
+          "Chetan Pataki",
+          "Clifford Shelton",
+          "Agnieszka Kubisz-Pudelko",
+          "Eleni Syrrakou",
+          "Michael Grocott",
+          "Michael G Irwin",
+          "Chris Partlett",
+          "Catherine Houghton",
+          "Dave Chutter",
+          "Stephen Brett",
+          "Natalie Rowland",
+          "Matthew Rowland",
+          "KHALID ZAHIR",
+          "Jacob Lawson",
+          "Richard Timoney",
+          "Basel Obeidat",
+          "Joshua Watson",
+          "Steffan Morgan",
+          "Rosanna Grimes",
+          "Stephen Berry",
+          "Vasiliki Manou-Stathopoulou",
+          "Peggy Fooks",
+          "Eleanor Tanqueray",
+          "Enoch Onya",
+          "Sophie Jones",
+          "Shirin Dastur",
+          "Laura Kemp",
+          "Edward Hare",
+          "Inez Armstrong",
+          "Robert Jesty",
+          "Esther Thomas",
+          "Alex Hunter",
+          "Simantika Ghosh",
+          "Laura Heggie",
+          "mohammed Asif Aleem",
+          "David Ou",
+          "Sean Roberts",
+          "MAHEEKA RAJAMUNI",
+          "Amrita Kaul",
+          "Bethan Morgan",
+          "Alexander Churton",
+          "Ferrari Matteo",
+          "Phoebe D'Orton-Gibson",
+          "Sean Warburton",
+          "Jake Warrington",
+          "William Long",
+          "Pei Shan Lim",
+          "Abigail Butler",
+          "Mary Leese",
+          "Joanna Krawczyk",
+          "Christopher Parsons",
+          "Anjum Goth",
+          "James Brooks",
+          "Luke Rutter",
+          "Helen Ivatt",
+          "Daniel Wilson",
+          "Josh Patch",
+          "Georgina Singleton",
+          "Stuart Mcphail",
+          "Jonathan Neil",
+          "Priya Shekar",
+          "Anna Greenwood",
+          "Alison Hare",
+          "Nicholas Maskell",
+          "Ramiro D'Abrantes"
+        ],
+        "abstract": "Importance                     Older adults undergoing major noncardiac surgery experience substantial postoperative morbidity and health care use. The comparative effectiveness of total intravenous anesthesia (TIVA) vs volatile-based inhalational anesthesia on recovery and safety remains uncertain.                                                           Objectives                     To determine whether TIVA improves days alive and at home at 30 days compared with inhalational anesthesia and to evaluate differences in patient-centered outcomes and recovery.                                                           Design, Setting, and Participants                     Pragmatic, multicenter, open-label randomized clinical trial conducted in 49 UK National Health Service hospitals from January 2022 to April 2024 (final follow-up, October 2024) among patients aged 50 years or older scheduled for elective major noncardiac surgery.                                                           Interventions                     Participants were randomized 1:1 to receive maintenance of general anesthesia with either TIVA (propofol infusion) (n = 1254) or volatile-based inhalational agents (n = 1254). All other perioperative care was at clinician discretion.                                                           Main Outcomes and Measures                     The primary outcome was days alive and at home at 30 days. Secondary outcomes included days alive and at home at 90 days; mortality at 30 days, 90 days, and 6 months; Quality of Recovery–15 score at day 3; patient satisfaction (Bauer Patient Satisfaction Questionnaire) at day 1; delirium (4 As Test [4AT]) at day 3; unintentional awareness under anesthesia; and major postoperative complications within 30 days.                                                           Results                                            Among the 2508 randomized participants, the mean age was 67 (SD, 8.9) years, and 55% were male. Characteristics were balanced across randomized groups. Days alive and at home at 30 days were similar between groups (mean, 22.5 [SD, 6.8] days vs 22.4 [SD, 6.6] days for TIVA vs inhalational anesthesia, respectively; incidence rate ratio, 1.00; 95% CI, 0.99-1.02; adjusted                       P                        = .68). There were no differences in days alive and at home at 90 days; mortality at 30 days, 90 days, or 6 months; or Quality of Recovery–15 score at day 3. Lower rates of thirst, hoarseness, and nausea and vomiting were reported in the TIVA group. Levels of delirium were similar between groups, with the majority (87.6%) having no delirium at day 3. Major complications occurred in 12.4% of patients overall, with no significant between-group differences. Two cases of certain or probable unintentional awareness under anesthesia were reported, both in the TIVA group.                                                                                Conclusions and Relevance                     Among older adults undergoing major noncardiac surgery, TIVA did not improve days alive and at home at 30 days compared with inhalational anesthesia.                                                           Trial Registration                                            ISRCTN.org Identifier:                       ISRCTN62903453",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-22",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.11184",
+        "doi": "10.1001/jama.2026.11184",
+        "url": "https://doi.org/10.1001/jama.2026.11184",
+        "title": "Total Intravenous vs Volatile Inhalational Anesthesia for Major Noncardiac Surgery",
+        "authors": [],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-22",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.12679",
+        "doi": "10.1001/jama.2026.12679",
+        "url": "https://doi.org/10.1001/jama.2026.12679",
+        "title": "Stereotactic Body Radiotherapy vs Moderately Hypofractionated IMRT for Localized Intermediate-Risk Prostate Cancer",
+        "authors": [],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-22",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.12627",
+        "doi": "10.1001/jama.2026.12627",
+        "url": "https://doi.org/10.1001/jama.2026.12627",
+        "title": "Stereotactic Body Radiotherapy vs Moderately Hypofractionated IMRT for Localized Intermediate-Risk Prostate Cancer",
+        "authors": [
+          "Rodney J. Ellis",
+          "Stephanie L. Pugh",
+          "James B. Yu",
+          "Felix Y. Feng",
+          "Andre A. Konski",
+          "Robert L. Grubb",
+          "Robert E. Wallace",
+          "David J. Gladstone",
+          "Cynthia Ménard",
+          "Joseph A. Miccio",
+          "Arthur J. Frazier",
+          "J. Daniel Pennington",
+          "Jeff M. Michalski",
+          "Daniel E. Spratt",
+          "Alvaro Martinez",
+          "Scott C. Morgan",
+          "Alina Mihai",
+          "Abhishek Ashok Solanki",
+          "Asim Amjad",
+          "Michael W. Straza",
+          "Guila Delouya",
+          "Thomas M. Schroeder",
+          "David T. Marshall",
+          "Nirav Kapadia",
+          "Akshar N. Patel",
+          "Terrence P. Cescon",
+          "Ali El-Gayed",
+          "Harold A. Yoon",
+          "Rebecca Paulus",
+          "Howard M. Sandler"
+        ],
+        "abstract": "Importance                     The treatment of prostate cancer with radiotherapy is evolving. How quickly radiotherapy can be delivered, and the relative risks and benefits of such a treatment, is of significant public interest.                                                           Objective                     To determine whether stereotactic body radiotherapy (SBRT) was superior to moderately hypofractionated intensity-modulated radiation therapy (MH-IMRT) in terms of patient-reported urinary irritative/obstructive and bowel quality of life and disease-free survival (DFS).                                                           Design, Setting, and Participants                     NRG-GU005 was a phase-3, international, open-label, randomized clinical trial. The study was activated on November 16, 2017, and closed to accrual on June 8, 2022. Date of last follow-up was October 13, 2024. There were 136 centers in Asia, Canada, Europe, and the United States that accrued patients to the study. Patients with localized prostate cancer, clinical stage T1-T2b with Gleason 3 + 4 (grade group 2) and prostate-specific antigen (PSA) level less than 20 ng/mL or Gleason 3 + 3 (grade group 1) and PSA level 10 to 20 ng/mL were eligible. Intended accrual of 692 patients provided reductions of 8% and 10% in minimal clinically important decline (MCID) frequency for urinary-irritative/obstructive and bowel domains of the Expanded Prostate Cancer Index Composite–26 Item (EPIC-26) instrument at 2 years and greater than 80% power to detect a hazard ratio of 0.62 in DFS.                                                           Interventions                     Patients were randomized 1:1 to receive SBRT (36.25 Gy in 5 fractions; n = 353) or MH-IMRT (70 Gy in 28 fractions or 60 Gy in 20 fractions; n  =345).                                                           Main Outcomes and Measures                     Primary outcomes were the frequency of an MCID in the urinary irritative/obstructive and bowel domains of the EPIC-26 at 2 years and DFS at 3 years.                                                           Results                                            A total of 698 patients were randomized. Median age was 68 years; 3% were Asian, 13% Black, and 80% White. Median follow-up was 3.2 years (range, 0-6.5). At 2 years, there was no significant difference in the urinary-irritative domain (35.4% vs 33.7%,                       P                        = .68). Urinary incontinence at 1 and 2 years after treatment and sexual function at 1 year after treatment favored SBRT. Fewer grade 3 + 4 genitourinary adverse events occurred in the SBRT vs MH-IMRT group (0.6% vs 2.5%,                       P                        = .04). There were significantly fewer MCIDs with SBRT vs MH-IMRT in the bowel domain (34.9% vs 43.8%,                       P                        = .03). At 3 years, DFS for MH-IMRT was 92.1% (95% CI, 88.9%-95.2%) vs 88.6% for SBRT (95% CI, 85.2%-92.1%) (1-sided log-rank                       P                        &amp;amp;lt; .001).                                                                                Conclusions and Relevance                     Stereotactic body radiotherapy using a modest dose prescription improved multiple quality-of-life domains but was not superior to MH-IMRT in terms of DFS. The rate of PSA failure was not significantly improved in the SBRT vs MH-IMRT group.                                                           Trial Registration                                            ClinicalTrials.gov Identifier:                       NCT03367702",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-22",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.12320",
+        "doi": "10.1001/jama.2026.12320",
+        "url": "https://doi.org/10.1001/jama.2026.12320",
+        "title": "Optimizing the Therapeutic Ratio in Prostate Radiation Therapy",
+        "authors": [
+          "Stanley L. Liauw",
+          "W. Robert Lee"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-22",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.12712",
+        "doi": "10.1001/jama.2026.12712",
+        "url": "https://doi.org/10.1001/jama.2026.12712",
+        "title": "Suicide Mortality After Launch of the 988 Lifeline—Reply",
+        "authors": [
+          "Vishal R. Patel",
+          "Michael Liu",
+          "Anupam B. Jena"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-22",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.12709",
+        "doi": "10.1001/jama.2026.12709",
+        "url": "https://doi.org/10.1001/jama.2026.12709",
+        "title": "Suicide Mortality After Launch of the 988 Lifeline",
+        "authors": [
+          "Jonathan Purtle"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-22",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.12706",
+        "doi": "10.1001/jama.2026.12706",
+        "url": "https://doi.org/10.1001/jama.2026.12706",
+        "title": "Suicide Mortality After Launch of the 988 Lifeline",
+        "authors": [
+          "Andrew A. Herring"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-22",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.13167",
+        "doi": "10.1001/jama.2026.13167",
+        "url": "https://doi.org/10.1001/jama.2026.13167",
+        "title": "Review of Prepregnancy Care and Counseling",
+        "authors": [
+          "Robert L. Barbieri"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-22",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.15933",
+        "doi": "10.1001/jama.2026.15933",
+        "url": "https://doi.org/10.1001/jama.2026.15933",
+        "title": "HIV Status Exclusion in Sickle Cell Gene Therapy",
+        "authors": [
+          "Daniel Prior",
+          "Lakshmanan Krishnamurti"
+        ],
+        "abstract": "This Perspective discusses the ethical, scientific, clinical, and manufacturing implications of excluding patients living with HIV from gene therapies for sickle cell disease.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-22",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.13170",
+        "doi": "10.1001/jama.2026.13170",
+        "url": "https://doi.org/10.1001/jama.2026.13170",
+        "title": "Review of Prepregnancy Care and Counseling",
+        "authors": [
+          "Michael Auerbach",
+          "Thomas G. DeLoughery"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-22",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.13173",
+        "doi": "10.1001/jama.2026.13173",
+        "url": "https://doi.org/10.1001/jama.2026.13173",
+        "title": "Review of Prepregnancy Care and Counseling—Reply",
+        "authors": [
+          "Daniel M. Breitkopf",
+          "Kylie M. Cooper"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-22",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.13262",
+        "doi": "10.1001/jama.2026.13262",
+        "url": "https://doi.org/10.1001/jama.2026.13262",
+        "title": "Intra-Arterial Alteplase After Successful Thrombectomy for Acute Ischemic Stroke",
+        "authors": [
+          "Yue Chang"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-22",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.16879",
+        "doi": "10.1001/jama.2026.16879",
+        "url": "https://doi.org/10.1001/jama.2026.16879",
+        "title": "Clarifications in JAMA Clinical Guidelines Synopsis",
+        "authors": [],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-22",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.13265",
+        "doi": "10.1001/jama.2026.13265",
+        "url": "https://doi.org/10.1001/jama.2026.13265",
+        "title": "Intra-Arterial Alteplase After Successful Thrombectomy for Acute Ischemic Stroke—Reply",
+        "authors": [
+          "Ángel Chamorro",
+          "Arturo Renú",
+          "Alba Singla"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-22",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.14688",
+        "doi": "10.1001/jama.2026.14688",
+        "url": "https://doi.org/10.1001/jama.2026.14688",
+        "title": "Resurgence of Malaria in Ethiopia",
+        "authors": [
+          "Ashenafi Assefa",
+          "Bokretsion G. Brhane",
+          "Isabela Gerdes Gyuricza",
+          "Heven Sime",
+          "Mahlet Belachew",
+          "Mesay Hailu Dangisso",
+          "Getachew Tollera",
+          "Jeffrey A. Bailey",
+          "Jonathan J. Juliano",
+          "Abebe A. Fola",
+          "Geremew Tasew",
+          "Jonathan B. Parr",
+          "Adugna Abera",
+          "Sisay Adane",
+          "Gebrie Alebachew",
+          "Abraham Ali",
+          "Zahara Ayalew",
+          "Mulu Berihun",
+          "Dinkenesh Chalchisa",
+          "Abeba Geberetsadik",
+          "Atsbeha G. Weldemariam",
+          "Melak Getu",
+          "Christopher M. Hennelly",
+          "Michael T. Ferdig",
+          "Hiwot Solomon",
+          "Rajiha A. Ibrahim",
+          "Enirsie Kassie",
+          "Oksana Kharabora",
+          "Jacob M. Sadler",
+          "Alfred Simkin",
+          "Gemechu Tadesse",
+          "Addisu Tesfaye",
+          "Mahelet Tesfaye",
+          "Kyaw L. Thwai",
+          "Yonas Weletaw",
+          "Girma Zerefaw"
+        ],
+        "abstract": "This study examines whether emerging drug and diagnostic resistance variants are contributing to Ethiopia’s malaria resurgence.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-22",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.15930",
+        "doi": "10.1001/jama.2026.15930",
+        "url": "https://doi.org/10.1001/jama.2026.15930",
+        "title": "Health Care Ownership and Patient Care—A National Institute on Aging Workshop",
+        "authors": [
+          "Zirui Song",
+          "Mark A. Unruh",
+          "Jane M. Zhu"
+        ],
+        "abstract": "This Viewpoint discusses how consolidation in frontline care delivery has shaped health care markets across the US and how changes in ownership of hospitals and practices affect clinicians and patient outcomes.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-22",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.17218",
+        "doi": "10.1001/jama.2026.17218",
+        "url": "https://doi.org/10.1001/jama.2026.17218",
+        "title": "Affiliations Updated",
+        "authors": [],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-22",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.17183",
+        "doi": "10.1001/jama.2026.17183",
+        "url": "https://doi.org/10.1001/jama.2026.17183",
+        "title": "Revised Supplement 2",
+        "authors": [],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-22",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.8362",
+        "doi": "10.1001/jama.2026.8362",
+        "url": "https://doi.org/10.1001/jama.2026.8362",
+        "title": "The Hole",
+        "authors": [
+          "Andrew Murdock"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-22",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.8365",
+        "doi": "10.1001/jama.2026.8365",
+        "url": "https://doi.org/10.1001/jama.2026.8365",
+        "title": "“The Hole”: Poetry Like a Gunshot Wound",
+        "authors": [
+          "Rafael Campo"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-22",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2025.16050",
+        "doi": "10.1001/jama.2025.16050",
+        "url": "https://doi.org/10.1001/jama.2025.16050",
+        "title": "Foreign Letters",
+        "authors": [],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-22",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.12837",
+        "doi": "10.1001/jama.2026.12837",
+        "url": "https://doi.org/10.1001/jama.2026.12837",
+        "title": "ADVOCATing for Patients With Heart Failure",
+        "authors": [
+          "Roy Perlis"
+        ],
+        "abstract": "The ADVOCATE initiative and how autonomous AI agents could help patients with heart failure are discussed by JAMA+ AI Editor in Chief Roy Perlis, MD, MSc, and Haider Warraich, MD, a cardiologist and the program manager at ARPA-H, for the                     JAMA+ AI Conversations                     podcast.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-22",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.14248",
+        "doi": "10.1001/jama.2026.14248",
+        "url": "https://doi.org/10.1001/jama.2026.14248",
+        "title": "Nomenclature",
+        "authors": [
+          "Luke P. Burns"
+        ],
+        "abstract": "In this narrative medicine essay, a maternal-fetal medicine physician trained to use clinical terms for developmental stages of pregnancy as an emotional stay against an uncertain outcome experiences tension between clinical and lived language during his wife’s miscarriage.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-22",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.12067",
+        "doi": "10.1001/jama.2026.12067",
+        "url": "https://doi.org/10.1001/jama.2026.12067",
+        "title": "ICE Activity Tied to Disruptions in Pediatric Care",
+        "authors": [
+          "Samantha Anderer"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-22",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.12066",
+        "doi": "10.1001/jama.2026.12066",
+        "url": "https://doi.org/10.1001/jama.2026.12066",
+        "title": "Measles in the Americas 3 Times Higher Than in All of 2025, PAHO Warns",
+        "authors": [
+          "Samantha Anderer"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-22",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.12068",
+        "doi": "10.1001/jama.2026.12068",
+        "url": "https://doi.org/10.1001/jama.2026.12068",
+        "title": "Physical Fitness Assessments Could Help Guide Older Adult Care",
+        "authors": [
+          "Samantha Anderer"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-22",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.16822",
+        "doi": "10.1001/jama.2026.16822",
+        "url": "https://doi.org/10.1001/jama.2026.16822",
+        "title": "How Many Patients With Hypertension Newly Qualify for Medication Under New Guideline?",
+        "authors": [
+          "Samantha Anderer"
+        ],
+        "abstract": "This Medical News article discusses the estimated population-level effects of the 2025 blood pressure guideline, which expanded antihypertensive treatment eligibility.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-22",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.17524",
+        "doi": "10.1001/jama.2026.17524",
+        "url": "https://doi.org/10.1001/jama.2026.17524",
+        "title": "Cardiovascular Care Should Incorporate Cognition and Frailty, Heart Group Says in New Statement",
+        "authors": [
+          "Jennifer Abbasi"
+        ],
+        "abstract": "This Medical News article discusses a new scientific statement from the American College of Cardiology about caring for older adults with cardiovascular disease.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-22",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2025.16049",
+        "doi": "10.1001/jama.2025.16049",
+        "url": "https://doi.org/10.1001/jama.2025.16049",
+        "title": "Audio Highlights",
+        "authors": [],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-22",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2025.16048",
+        "doi": "10.1001/jama.2025.16048",
+        "url": "https://doi.org/10.1001/jama.2025.16048",
+        "title": "JAMA",
+        "authors": [],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-22",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejme2611312",
+        "doi": "10.1056/nejme2611312",
+        "url": "https://doi.org/10.1056/nejme2611312",
+        "title": "A Step in the Search for the Elusive Holy Grail of Early Detection of Cancer",
+        "authors": [
+          "David J. Hunter"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-09-22",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmoa2505723",
+        "doi": "10.1056/nejmoa2505723",
+        "url": "https://doi.org/10.1056/nejmoa2505723",
+        "title": "Effect of Screening with Multicancer Early-Detection Test on Late-Stage Cancer Diagnosis",
+        "authors": [
+          "Peter Sasieni",
+          "Peter Johnson",
+          "Thomas Round",
+          "Jane Warwick",
+          "Helen Jones",
+          "Saoirse Dolly",
+          "Lennard Lee",
+          "Yujin Lee",
+          "Harpal Kumar",
+          "Wei Liang",
+          "Rebecca Smittenaar",
+          "Richard D. Neal",
+          "Charles Swanton"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-09-22",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1007/s40273-026-01652-x",
+        "doi": "10.1007/s40273-026-01652-x",
+        "url": "https://doi.org/10.1007/s40273-026-01652-x",
+        "title": "Derivation and Validation of Charlson, Elixhauser and RxRisk Cost-Based Comorbidity Indices: A Register-Based Study of 350,000 Individuals Over 11 Years",
+        "authors": [
+          "Camilla Nystrand",
+          "Naimi Johansson",
+          "Johannes Blom"
+        ],
+        "abstract": "",
+        "source": "PharmacoEconomics",
+        "issn": "1170-7690",
+        "date": "2026-09-22",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-23",
         "fetched_from": "crossref"
       },
       {
@@ -37102,6 +38359,106 @@
     ],
     "agingHealth": [
       {
+        "id": "doi:10.1186/s12877-026-08320-x",
+        "doi": "10.1186/s12877-026-08320-x",
+        "url": "https://doi.org/10.1186/s12877-026-08320-x",
+        "title": "Anticipated acceptance of generative AI among older adults with chronic heart failure: a qualitative study guided by UTAUT",
+        "authors": [
+          "Yunxia Shen",
+          "Xueli Shen",
+          "Jingbang Liu",
+          "Yan Ma",
+          "Haili Yang",
+          "Chenchen Feng",
+          "Qianyi Shen",
+          "Lili Wu"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-23",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08346-1",
+        "doi": "10.1186/s12877-026-08346-1",
+        "url": "https://doi.org/10.1186/s12877-026-08346-1",
+        "title": "Discriminative ability and exploratory cutoff of six-minute walk distance for recent self-reported fall history in community-dwelling older adults with type 2 diabetes",
+        "authors": [
+          "Chiraphat Kloypan",
+          "Boonsita Suwannakul",
+          "Chakkraphan Hongluek",
+          "Tichanon Promsrisuk",
+          "Arunrat Srithawong"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-23",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08342-5",
+        "doi": "10.1186/s12877-026-08342-5",
+        "url": "https://doi.org/10.1186/s12877-026-08342-5",
+        "title": "Association of social factors with physical frailty in community dwelling older adults: a cross-sectional study in Northern India",
+        "authors": [
+          "Vinod Gupta",
+          "Kritartha Kashyap",
+          "Sudeep Mathew George",
+          "Parul Bhutani",
+          "Vasu Digra",
+          "Minakshi Dhar",
+          "Vartika Saxena",
+          "Yogesh Bahurupi"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-23",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08331-8",
+        "doi": "10.1186/s12877-026-08331-8",
+        "url": "https://doi.org/10.1186/s12877-026-08331-8",
+        "title": "Psychosocial predictors of death anxiety in older adults: the differential role of social health and active ageing dimensions",
+        "authors": [
+          "Zohreh Monfared",
+          "Kheizaran Miri",
+          "Hossein AjamZibad"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-23",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-23",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1186/s12877-026-08315-8",
         "doi": "10.1186/s12877-026-08315-8",
         "url": "https://doi.org/10.1186/s12877-026-08315-8",
@@ -37307,6 +38664,197 @@
           "healthReform"
         ],
         "firstSeen": "2026-09-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70710",
+        "doi": "10.1111/jgs.70710",
+        "url": "https://doi.org/10.1111/jgs.70710",
+        "title": "Supporting Patient Goals Through Standardization and Documentation of Surgical Goals in the Electronic Health Record",
+        "authors": [
+          "K. A. Telma",
+          "A. L. Hitzeman",
+          "J. N. Cohan",
+          "M. L. Schwarze"
+        ],
+        "abstract": "",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-09-22",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70717",
+        "doi": "10.1111/jgs.70717",
+        "url": "https://doi.org/10.1111/jgs.70717",
+        "title": "Healthcare Goals and Perceived Goal‐Concordant Care Among\n                    <scp>US</scp>\n                    Older Adults—A National Survey",
+        "authors": [
+          "Nancy L. Schoenborn",
+          "Terri R. Fried"
+        ],
+        "abstract": "",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-09-22",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08328-3",
+        "doi": "10.1186/s12877-026-08328-3",
+        "url": "https://doi.org/10.1186/s12877-026-08328-3",
+        "title": "Suicidal ideation and associated factors in early and late onset late life depression",
+        "authors": [
+          "Ali İnaltekin",
+          "Yasin Taşdelen",
+          "Ibrahim Yağcı"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-22",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08226-8",
+        "doi": "10.1186/s12877-026-08226-8",
+        "url": "https://doi.org/10.1186/s12877-026-08226-8",
+        "title": "Correction: Analysis of the prevalence of frailty and its influential factors among the rural elderly from the Yi and Hani ethnic groups in border areas of Yunnan Province",
+        "authors": [
+          "Xuting Ruan",
+          "Renyi Yu",
+          "Lu Zhao",
+          "Xin Mao",
+          "Lingyun Ran"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-22",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261489816",
+        "doi": "10.1177/13872877261489816",
+        "url": "https://doi.org/10.1177/13872877261489816",
+        "title": "Quantitative analysis of intersecting pentagon drawings for interpretable cognitive impairment screening",
+        "authors": [
+          "Rong Xing",
+          "Wenshan Sun",
+          "Jian Zhou",
+          "Ting Chen",
+          "Lifang Chen",
+          "Pei Peng",
+          "Gelin Xu"
+        ],
+        "abstract": "Background                     The intersecting pentagon drawing task in the Mini-Mental State Examination (MMSE), also referred to as the Pentagon Drawing Test (PDT), is a brief cognitive screening tool in Alzheimer's disease (AD) and other cognitive disorders. However, conventional manual scoring is coarse and may overlook clinically meaningful variation in drawing performance.                                                           Objective                     To evaluate whether quantitative PDT features can support interpretable screening for cognitive impairment.                                                           Methods                     We analyzed participants who completed the MMSE, Montreal Cognitive Assessment (MoCA), and PDT. Cognitive impairment was defined using education-adjusted MMSE and MoCA cutoffs. Eight quantitative drawing features characterized geometric integrity, spatial organization, and graphomotor characteristics. These features, together with demographic variables, were evaluated for prediction of a modified MMSE-derived cognitive score and classification of cognitive status using cross-validation.                                                           Results                                            A total of 3478 participants were included, including 2463 with cognitive impairment and 1015 cognitively normal individuals. All eight quantitative drawing features were significantly lower in the cognitive impairment group. Shape regularity, vertices, alignment and intersection area proportion showed the strongest positive correlations with modified MMSE scores. The model achieved an R                       2                       of 0.42 for score prediction and showed a positive correlation between predicted and observed scores (Spearman ρ = 0.64). For cognitive impairment classification, the model achieved a ROC-AUC of 0.832, sensitivity of 82.5%, specificity of 67.4%, PPV of 86.0%, NPV of 61.4%, and F1-score of 0.842.                                                                                Conclusions                     Quantitative features of PDT showed interpretable associations with cognitive screening outcomes. This approach may support scalable and objective cognitive screening and serve as a complement to clinical assessment.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-09-22",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261489803",
+        "doi": "10.1177/13872877261489803",
+        "url": "https://doi.org/10.1177/13872877261489803",
+        "title": "Functional hearing difficulty in Alzheimer's disease: Selective links to verbal fluency and behavioral and psychological symptoms of dementia severity",
+        "authors": [
+          "Makoto Uchiyama",
+          "Takuya Sato",
+          "Yasuyuki Mamiya",
+          "Takumi Takato",
+          "Tomoyo Matsui",
+          "Toru Imamura"
+        ],
+        "abstract": "Background                     Hearing loss is a well-established risk factor for dementia. However, the clinical relevance of everyday listening difficulties after the diagnosis of Alzheimer's disease (AD) remains insufficiently understood, particularly in relation to cognition and behavioral and psychological symptoms of dementia (BPSD). Functional hearing difficulty refers to perceived difficulties in everyday listening situations that are not fully captured by standard audiometric thresholds.                                                           Objective                     To examine the associations between caregiver-rated functional hearing difficulty, cognitive measures commonly used in clinical practice, and overall BPSD severity in patients with AD.                                                           Methods                     This single-center cross-sectional study included 101 patients with clinically diagnosed AD attending a memory clinic. Functional hearing difficulty was assessed using a caregiver-based structured interview. Associations with widely used cognitive measures and BPSD severity, operationalized as the Neuropsychiatric Inventory five-domain total score, were examined using regression models adjusted for relevant covariates.                                                           Results                     Greater functional hearing difficulty was selectively associated with poorer verbal fluency, whereas no significant associations were observed with other cognitive measures. Functional hearing difficulty was also associated with greater BPSD severity. Exploratory analyses showed a pattern statistically consistent with an indirect association via verbal fluency.                                                           Conclusions                     Caregiver-rated functional hearing difficulty was selectively linked to verbal fluency and BPSD severity in patients with AD. These findings suggest that functional hearing difficulty may capture communication-related cognitive processes relevant to everyday functioning beyond global disease severity, although longitudinal studies are needed to clarify temporal relationships.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-09-22",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261487603",
+        "doi": "10.1177/13872877261487603",
+        "url": "https://doi.org/10.1177/13872877261487603",
+        "title": "Auditory brainstem response deficits precede and are associated with subsequent auditory cortical amyloid burden in male APP/PS1 mice",
+        "authors": [
+          "Yinpei Luo",
+          "Liping Chen",
+          "Shu Yin",
+          "Li Zhang",
+          "Bihua Chen",
+          "Huizhong Wen"
+        ],
+        "abstract": "Background                     Auditory dysfunction is considered one of the early manifestations of Alzheimer's disease (AD). However, its evolutionary characteristics with the progression of AD have not been fully studied, and the temporal relationship between this sensory impairment and the typical pathology of the disease is unclear.                                                           Objective                     To investigate whether auditory dysfunction precedes auditory cortical amyloid-β (Aβ) deposition during AD progression.                                                           Methods                     This study longitudinally assessed the threshold and amplitude of auditory brainstem response (ABR) in male APP/PS1 mice and male wild-type littermate mice at different ages, and quantitatively analyzed Aβ plaques in the auditory cortex of APP/PS1 mice using immunofluorescence. Further evaluation was conducted on the correlation between early ABR indicators and subsequent Aβ burden. A multivariate logistic regression model was constructed based on ABR features to distinguish APP/PS1 mice from wild-type controls in the pre-plaque stage.                                                           Results                     APP/PS1 mice exhibited progressive hearing impairment, with auditory impairment emerging at 8–12 weeks of age and detectable Aβ deposition appearing at 20 weeks of age. Early ABR abnormalities were significantly correlated with subsequent Aβ burden. Furthermore, a multivariable logistic regression model based on ABR threshold and the amplitudes of waves I, III, and IV showed good discriminatory performance for distinguishing APP/PS1 mice from wild-type controls during the pre-plaque stage.                                                           Conclusions                     ABR abnormalities occur before detectable cortical plaque deposition in APP/PS1 mice and are associated with subsequent auditory cortical Aβ burden. These findings suggest that ABR-based features may serve as candidate non-invasive functional indicators for assessing early pathological progression of AD.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-09-22",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261489619",
+        "doi": "10.1177/13872877261489619",
+        "url": "https://doi.org/10.1177/13872877261489619",
+        "title": "Clinical utility of combined amyloid biomarkers in early cognitive impairment",
+        "authors": [
+          "Pu-Tien Chiang",
+          "Shao-Ying Cheng",
+          "Sung-Ju Hsueh",
+          "Sheng-Sian Lin",
+          "Bo-Ching Lee",
+          "Chia-Ju Liu",
+          "Yu-Hung Lin",
+          "Shang-Chin Huang",
+          "Li-Kai Tsai",
+          "Hsin-Hsi Tsai"
+        ],
+        "abstract": "Background                     Early etiological diagnosis of cognitive impairment is challenging. Amyloid PET improves diagnostic accuracy but is costly and limited in availability. Plasma phosphorylated tau-217 (p-tau217) has emerged as a scalable, minimally invasive biomarker.                                                           Objective                     This study aimed to evaluate the diagnostic and prognostic utility of amyloid PET and plasma p-tau217 in older adults with early cognitive impairment.                                                           Methods                                            We prospectively enrolled 100 adults aged ≥ 65 years with mild cognitive impairment or mild dementia. Participants underwent comprehensive clinical evaluation, brain MRI,                       18                       F-florbetaben amyloid PET, and plasma p-tau217 analysis. Longitudinal cognitive decline was assessed over a median follow-up of 1.3 years.                                                                                Results                     Amyloid PET was positive in 45% and resulted in diagnostic revision in 39%. Plasma p-tau217 levels were significantly higher in amyloid-positive individuals (1.178 ± 0.652 versus 0.642 ± 0.940 pg/mL, p &lt; 0.001) and accurately identified amyloid positivity (AUC = 0.855). Both amyloid PET positivity (HR = 6.61, 95% CI 2.36–18.50; p &lt; 0.001) and elevated p-tau217 (HR = 4.43, 95% CI 1.83–10.68; p = 0.001) independently predicted faster cognitive decline. Combined biomarker analysis revealed a stepwise risk stratification, with dual-positive individuals showing the most rapid deterioration (global p &lt; 0.001). Among amyloid-positive patients, elevated p-tau217 further distinguished those with faster progression (p = 0.035).                                                           Conclusions                     Amyloid PET and plasma p-tau217 provide complementary diagnostic and prognostic value. While PET refines etiological diagnosis, p-tau217 serves as a robust predictor of amyloid status and cognitive trajectory. Integrating these biomarkers improves risk stratification and may facilitate patient selection for disease-modifying therapies.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-09-22",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-23",
         "fetched_from": "crossref"
       },
       {
@@ -43543,6 +45091,26 @@
         "fetched_from": "crossref"
       },
       {
+        "id": "doi:10.1093/bjsw/bcag218",
+        "doi": "10.1093/bjsw/bcag218",
+        "url": "https://doi.org/10.1093/bjsw/bcag218",
+        "title": "‘An inner war’: The intrusion of national conflict into the professional identity and spaces of Palestinian social workers in Israel during the war on Gaza",
+        "authors": [
+          "Banan Abdallah",
+          "Rana Eseed"
+        ],
+        "abstract": "Abstract                   The social work literature indicates that political conflicts may undermine assumptions regarding professional neutrality and organizational partnership, particularly when the professionals themselves occupy complex sociopolitical positions. The study examines the wartime experiences of social workers belonging to an indigenous ethnonational minority who work with clients and colleagues from the majority group. Semi-structured interviews were conducted with fifteen Palestinian social workers, Arab citizens of Israel, during the war on Gaza (2023–5). The findings indicate that the national conflict has intruded into their work. The participants described detachment, anger, and suspicion in their encounters with Jewish clients, including refusal to be treated by them based on their Palestinian identity. At the same time, they also mentioned moments of appreciation for therapeutic relationships. The conflict also intruded into peer relations: participants described a split between Jewish and Palestinian employees, a reduced sense of belonging, offensive statements, and contingent legitimacy in staff meetings. Additionally, interviewees felt constrained by well-intentioned attempts to create inclusive workspaces. These findings indicate that the war has shaped professional social work relations and point to the need for reflexive training and organizational interventions focused on intergroup relations as well as therapeutic practices adapted to periods of national crisis.",
+        "source": "The British Journal of Social Work",
+        "issn": "0045-3102",
+        "date": "2026-09-22",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-09-23",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1007/s10896-026-01162-6",
         "doi": "10.1007/s10896-026-01162-6",
         "url": "https://doi.org/10.1007/s10896-026-01162-6",
@@ -45012,10 +46580,10 @@
   },
   "totals": {
     "socialSecurity": 1527,
-    "elderCare": 180,
-    "healthReform": 322,
-    "agingHealth": 260,
-    "socialWork": 82
+    "elderCare": 188,
+    "healthReform": 365,
+    "agingHealth": 272,
+    "socialWork": 83
   },
   "feeds_ok": 41
 }
