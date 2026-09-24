@@ -1,8 +1,49 @@
 {
-  "date": "2026-09-23",
-  "fetched": "2026-09-23T06:13:31+00:00",
+  "date": "2026-09-24",
+  "fetched": "2026-09-24T06:23:07+00:00",
   "domains": {
     "socialSecurity": [
+      {
+        "id": "doi:10.1111/jori.70079",
+        "doi": "10.1111/jori.70079",
+        "url": "https://doi.org/10.1111/jori.70079",
+        "title": "The impact of co‐payments for nursing home care on care use and welfare",
+        "authors": [
+          "Marianne Tenand",
+          "Pieter Bakx",
+          "Bram Wouterse"
+        ],
+        "abstract": "Abstract                   We assess the impact of an increase in the co‐payments for nursing home care on care use and welfare. Nursing home residents often have to pay substantial user fees, which expose them to a financial risk. Co‐payments may incentivize efficient care use, but empirical evidence is limited. We leverage a reform in the Netherlands that increased co‐payments for a group of individuals, and implement a difference‐in‐differences approach. An increase in the monthly co‐payment induces users to postpone permanent nursing home admissions. The resulting savings are only partially offset by increases in home care use. There are no overall effects on mortality nor on children's care use and income. While the change in the monthly co‐payment is modest, average lifetime payments increase substantially. The welfare loss due to the associated increase in financial risk for potential users likely outweighs the gains caused by the reduction in publicly financed care.",
+        "source": "Journal of Risk and Insurance",
+        "issn": "0022-4367",
+        "date": "2026-09-23",
+        "subjects": [],
+        "domains": [
+          "socialSecurity"
+        ],
+        "firstSeen": "2026-09-24",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/1468-0009.70118",
+        "doi": "10.1111/1468-0009.70118",
+        "url": "https://doi.org/10.1111/1468-0009.70118",
+        "title": "US Life Expectancy and Increasing Mortality Rates: An Analysis of the Crisis",
+        "authors": [
+          "STEVEN H. WOOLF"
+        ],
+        "abstract": "Policy Points                                                                                                                                         US life expectancy is shorter than in other high‐income countries and the gap has widened dramatically over time, driven in particular by rising mortality rates that threaten the probability that youth can survive to middle age, or even adulthood.                                                                                         Policy priorities to address this crisis include efforts to address the proximal causes of rising mortality, such as poor diet, drug overdoses, problem drinking, homicide, suicide, and chronic diseases such as cardiometabolic, neurologic and genitourinary diseases, among others.                                                                                         Meaningful progress in closing the gap with other high‐income countries must go beyond proximal causes to address structural factors that systematically compromise the health of Americans, such as deficiencies in the health care system, adverse socioeconomic conditions, threats from the physical and social environment, and public policies that do not prioritize the health and safety of the population or that perpetuate health inequities.                                                                                         At a time when political support for such policies is sharply divided in the United States, states are exerting greater power over policies that could improve—or worsen—population health.                                                                                         The challenge in the United States in solving the mortality crisis is not a lack of policy solutions but of political will to prioritize population health over competing interests.                                                                                                                                                                                        Context                     US life expectancy is shorter than in other high‐income countries, and the gap has widened over time. This article examines the mortality patterns that help explain the widening gap, considers the root causes that might be to blame, and discusses potential policy solutions.                                                           Methods                     Sources of mortality data included the United Nations Department of Economic and Social Affairs, US Mortality Database, Centers for Disease Control and Prevention, and Organisation for Economic Cooperation and Development. The analysis examined life expectancy and age‐specific mortality rates by country, cause‐specific US mortality rates from 1999 through 2023, and cause‐specific mortality rates in 16 high‐income countries for comparison. A literature review examined potential explanations for the US health disadvantage, including the growing role of states and partisan polarization. This was supplemented by an analysis of state‐level life expectancy and gubernatorial party affiliation for 1941–2022 and a comparison of state life expectancy in 2017–2021 with countries reporting similar life expectancy.                                                           Findings                     As of 2023, US life expectancy ranked 38th among countries with a population greater than 1 million, and the populations of 60 countries faced a lower risk of dying before age 40 than did Americans. Causes of death responsible for changes in all‐cause mortality varied by age group. Leading contributors among infants and children included sudden unexplained infant deaths and external causes (e.g., transport, homicide, suicide). Young adults (ages 25–44) experienced the largest relative increases in all‐cause mortality of any age group, including a 71.2% increase between 2010 and 2021, driven by deaths from external causes, notably drug overdoses, and early‐onset diseases (e.g., hypertensive disease, endocrine and metabolic disorders, alcoholic liver disease). Middle‐aged adults experienced increased mortality from similar causes (hypertensive diseases, endocrine and metabolic disorders, external causes), as well as higher death rates from nervous and genitourinary system diseases. Mortality from COVID‐19, which emerged in 2020 as the third leading causes of death among middle‐aged adults, almost doubled in 2021, despite the availability of vaccines. Older adults experienced increased mortality from neurologic diseases and endocrine and metabolic disorders and the highest mortality rates from COVID‐19. Since 2010, the gap in all‐cause mortality between the United States and 16 high‐income countries has been driven by higher death rates from circulatory diseases, external causes, nervous system diseases, respiratory diseases, and endocrine and metabolic disorders. Explanations for the US health disadvantage include proximal causes (e.g., opioid epidemic, access to firearms, the obesogenic food environment, affective disorders), as well as systemic factors such as deficiencies in the health care system, socioneconomic precarity, a lax regulatory environment, and structural racism. State‐level life expectancy and mortality rates have increased over time and appear associated with policy and increasingly partisan orientations.                                                           Conclusions                     The United States faces a mortality crisis that requires attention not only to specific causes of death but also systemic issues that compromise health. That better health outcomes are achievable is demonstrated by the growing list of high‐income and middle‐income countries that have achieved higher life expectancy than the United States. Policies that would close the gap, which have historically attracted weak political support in the United States and are now being actively opposed at the federal level, can be pursued by states and communities with greater commitments to improving population health.",
+        "source": "The Milbank Quarterly",
+        "issn": "0887-378X",
+        "date": "2026-09-23",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "socialSecurity"
+        ],
+        "firstSeen": "2026-09-24",
+        "fetched_from": "crossref"
+      },
       {
         "id": "doi:10.1111/jori.70083",
         "doi": "10.1111/jori.70083",
@@ -23310,6 +23351,29 @@
     ],
     "elderCare": [
       {
+        "id": "doi:10.1186/s12877-026-08358-x",
+        "doi": "10.1186/s12877-026-08358-x",
+        "url": "https://doi.org/10.1186/s12877-026-08358-x",
+        "title": "Healthcare professionals’ perceptions of participation and learning related to mealtimes in long-term care facilities: an interview study",
+        "authors": [
+          "Camilla Allert",
+          "Stefan Andersson",
+          "Nina Carlsson",
+          "Anna Sandgren"
+        ],
+        "abstract": "Abstract                                        Background                     Mealtimes in long-term care facilities are complex and serve multiple purposes. They provide opportunities for participation and learning, involving residents, relatives and healthcare professionals, each with unique circumstances. Participation and learning are central to healthy ageing. Healthcare professionals play a key role in enabling participation and learning among those involved, although these opportunities may be shaped by their perceptions and attitudes. Therefore, this study aimed to explore healthcare professionals’ perceptions of participation and learning among residents, their relatives, and colleagues related to mealtime situations in long-term care facilities.                                                           Methods                     Data were collected through individual semi-structured interviews with 23 healthcare professionals (nursing assistants, licensed practical nurses, and registered nurses) working in long-term care facilities in a municipality in south-eastern Sweden. The data were analysed using reflexive thematic analysis.                                                           Results                                            Three themes were generated: (1)                       Shaped by relationships and circumstances                       , (2)                       Rewarding yet challenging                       , and (3)                       Prerequisites influence opportunities.                       Participation and learning related to mealtime situations manifested in various ways and to differing degrees, from extensive to almost non-existent. It was a balancing act for the healthcare professionals managing multiple challenges to enable participating and learning; however, residents and relatives were seldom invited to engage in this problem-solving. For participation and learning to occur, prerequisites were required at all levels in the organisation.                                                                                Conclusion                     Healthcare professionals perceive that participation and learning among residents, relatives, and colleagues in long-term care facilities do occur, but to varying degrees and are associated with multiple challenges. Drawing on a learning model, such as Illeris, can help identify which components need to be developed, which together with a deeper understanding and implementation of person-centredness, could contribute to increased participation and learning, and thereby to the wellbeing of residents, relatives, and healthcare professionals. However, this approach must permeate the entire organisation.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-24",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-24",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1186/s12877-026-08320-x",
         "doi": "10.1186/s12877-026-08320-x",
         "url": "https://doi.org/10.1186/s12877-026-08320-x",
@@ -23407,6 +23471,203 @@
           "agingHealth"
         ],
         "firstSeen": "2026-09-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70726",
+        "doi": "10.1111/jgs.70726",
+        "url": "https://doi.org/10.1111/jgs.70726",
+        "title": "Development and Preliminary Feasibility Testing of\n                    <scp>PACERS</scp>\n                    , a Physical Activity‐Centered Intervention for Rural Older Adults With Hypertension",
+        "authors": [
+          "Stella T. Lartey",
+          "Moonseong Heo",
+          "Joel Edward Williams",
+          "Tanya Lee Staton",
+          "Douglas Moore",
+          "Bailey Naples",
+          "Sarah Blythe Bacon",
+          "Zachary Skipper",
+          "James S. Powers",
+          "Sarah F. Griffin",
+          "Alyssa Ann Gamaldo‐Roddy",
+          "Angela L. Jefferson"
+        ],
+        "abstract": "ABSTRACT                                        Background                     A high prevalence of hypertension is observed among American rural residents. This study aimed to engage rural community members in designing, developing, and preliminarily testing the feasibility of a physical activity (PA)‐centered health promotion intervention integrating Fitbit‐based activity monitoring and text messaging among rural older adults (50+ years) with hypertension (PACERS). We also tested the feasibility of measuring candidate outcomes for future studies.                                                           Participants and Setting                                            Sixteen participants residing in rural South Carolina communities were interviewed to inform the intervention design and development. Over 12 weeks, 10 older adults diagnosed with hypertension with no or low PA participated in preliminary feasibility testing of the intervention and pre‐ and post‐intervention measurements. Finally, we conducted a post‐intervention focus group discussion (FGD,                       n                        = 5).                                                                                Methods                     We reviewed health reports, analyzed EHR data, engaged the community to establish health needs, designed and developed PACERS, assessed barriers and facilitators, and tested the preliminary feasibility of the PACERS intervention. Preliminary feasibility was measured by recruitment, retention, fidelity, participants' attendance and acceptability, and candidate outcomes included blood pressure (BP), PA, arterial compliance, cognition, overall health, and quality of life.                                                           Results                                            Key pre‐design themes included as follows: accessibility, intervention delivery through existing health systems, social isolation, hypertension‐cognition relationship, accountability, and perceived positive health impacts. FGD themes included as follows: hypertension‐cognition links, financial preparation for retirement and isolation management. Recruitment (90.9%), retention (100%), attendance (93%), adherence (90%), and intervention fidelity (98.5%) rates, as well as average acceptance (4.8/5), were promising. Some Candidate outcomes showed improvement: quality of life (0.084; 95% CI: 0.022, 0.146;                       p                        = 0.008), systolic BP (−34.28; 95% CI: −57.77, −10.78;                       p                        = 0.004), diastolic BP (−19.14; 95% CI: −31.68, −6.60;                       p                        = 0.003), arterial compliance (−15.13; 95% CI: −28.00, −2.30;                       p                        = 0.021), and average steps per day (3612; 95% CI: 855, 6370;                       p                        = 0.010).                                                                                Conclusions                     This study provides valuable insights into intervention development for older adults in under‐resourced settings.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-09-23",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-24",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70751",
+        "doi": "10.1111/jgs.70751",
+        "url": "https://doi.org/10.1111/jgs.70751",
+        "title": "Comment on: Substitution Patterns After Discontinuation of\n                    <scp>CNS</scp>\n                    ‐Active Medications in Older Adults in Primary Care",
+        "authors": [
+          "Kunlong Zhang",
+          "Xiaoqi Ying"
+        ],
+        "abstract": "",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-09-23",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-24",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70746",
+        "doi": "10.1111/jgs.70746",
+        "url": "https://doi.org/10.1111/jgs.70746",
+        "title": "Diagnosing Dementias: Many Names, Many Faces",
+        "authors": [
+          "Michael Tran Duong"
+        ],
+        "abstract": "",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-09-23",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-24",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70738",
+        "doi": "10.1111/jgs.70738",
+        "url": "https://doi.org/10.1111/jgs.70738",
+        "title": "Validating Administrative Data Markers for Elder Abuse Identification via Chart Review in a National Health System",
+        "authors": [
+          "Joseph Shin",
+          "Hongwei Zhang",
+          "Maria K. Mor",
+          "Tony Rosen",
+          "Naomi Shin",
+          "Lena K. Makaroun"
+        ],
+        "abstract": "ABSTRACT                                        Background                     Elder abuse (EA) is a serious public health concern that is dramatically under‐documented in electronic health records (EHRs). Although structured EHR markers for EA are commonly used in research to identify EA cases in large cohorts due to their accessibility, their validity for capturing clinical EA concerns is unknown.                                                           Participants and Setting                     Of 3,724,639 Veterans aged ≥ 60 years with an outpatient Veterans Health Administration (VHA) encounter in 2022, 8161 (0.2%) had an EA‐related ICD‐10 code and/or a structured social work consult marker for “abuse/neglect” recorded in the EHR that year. From the 7382 with complete race/ethnicity data, we randomly sampled 105 veterans for review, intentionally oversampling women and racial/ethnic minority groups.                                                           Methods                     We conducted a retrospective chart review, systematically abstracting clinical notes within ±180 days of the structured EA marker to assess the positive predictive value (PPV) with 95% confidence intervals (CIs) against a reference standard of documented active clinical EA concerns in free text notes. Descriptive statistics were used to characterize the sample and documentation patterns.                                                           Results                     Only 14 of 105 veterans (PPV [95% CI] 13.3% [7.5–21.4]) had free‐text documentation of active clinical EA concern: 9 of 77 (11.7% [5.5–21.0]) with a social work consult marker, 4 of 27 (14.8% [4.2–33.7]) with an ICD‐10 code, and 1 of 1 (100% [2.5–100.0]) with both. Among the 91 veterans without documented concern, 20 had documentation of historical abuse only (e.g., military sexual trauma), while the remainder had no clear explanation for the administrative marker.                                                           Conclusions                     Structured EA data markers in the VHA EHR rarely corresponded to free‐text documentation of active clinical EA concern, raising important questions about their validity as proxies for EA identification. These findings underscore the need for developing standardized, clinician‐friendly approaches to EA documentation in EHRs.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-09-23",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-24",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08327-4",
+        "doi": "10.1186/s12877-026-08327-4",
+        "url": "https://doi.org/10.1186/s12877-026-08327-4",
+        "title": "Dietary patterns across the continuum of age-related cognitive decline: a scoping review",
+        "authors": [
+          "Hang Zhang",
+          "Jinghua Yi",
+          "Xinlin Wang",
+          "Jing Gong",
+          "Zhe Wei"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-23",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-24",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-07837-5",
+        "doi": "10.1186/s12877-026-07837-5",
+        "url": "https://doi.org/10.1186/s12877-026-07837-5",
+        "title": "Trajectories of memory function before and after cardiovascular disease among hypertensive patients",
+        "authors": [
+          "Yachao Li",
+          "Zhen Zhang",
+          "Huazhen Yang",
+          "Haoyue Gao",
+          "Chu Chen",
+          "Ying Wen",
+          "Yun Li",
+          "Qingping Xue"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-23",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-24",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08240-w",
+        "doi": "10.1186/s12877-026-08240-w",
+        "url": "https://doi.org/10.1186/s12877-026-08240-w",
+        "title": "The direct medical cost of urinary and fecal incontinence by care settings for adults over 65 in the United States",
+        "authors": [
+          "Ian Duncan",
+          "Andrew J Stocking",
+          "Donna Z. Bliss",
+          "Nhan Huynh"
+        ],
+        "abstract": "Abstract                                        Background                     Incontinence is a chronic condition that affects millions of adults over the age of 65 in the United States. This study estimates the direct medical costs of incontinence for this population and identifies some possible root causes driving these costs.                                                           Methods                     This retrospective analysis relied on administrative claims data from the 2018 Medicare Limited Data Set. The cost analysis was limited to fee-for-service (FFS) Medicare beneficiaries over the age of 65 enrolled in Medicare Parts A and B. Our analysis of urinary tract infections (UTIs) relied on a Medicare Advantage dataset from 2016 to 2018 that included service and drug costs. We used diagnosis codes and place-of-service codes from the 2018 claims experience to identify incontinent members and their respective care setting. We used propensity score matching of incontinent and non-incontinent members to estimate the incremental cost of incontinence, controlling for age, gender, regional state groupings, and 79 comorbidities based on ICD-10CM codes, categorized into 9 disease groups. We also created an event study of UTIs to explore whether the cost of a UTI episode differs based on the presence of incontinence.                                                           Results                     On average, direct medical costs for incontinent members were $404 per member per month (PMPM) in 2018 USD higher than their non-incontinent counterparts in the same care setting. This gap rises to $968 PMPM when averaged over all members across all four care settings because it accounts for the disproportionate migration of incontinent members into more intensive and expensive care settings. A significant driver of these costs is the higher prevalence of urinary tract infections (UTIs) among incontinent members. Using an event study of UTIs, we also find that the treatment costs for UTIs are 52% higher, on average, for incontinent members.                                                           Conclusion                     The direct medical cost of incontinence for adults over 65 is comparable in magnitude to other major chronic conditions such as obesity, cancer, and diabetes, yet receives far less policy and management attention. Payers and institutions can make meaningful gains in reducing this cost by investing in incontinence management strategies that reduce UTIs, support caregivers, and prevent transitions to higher-intensity care settings.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-23",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-24",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08310-z",
+        "doi": "10.1186/s12877-026-08310-z",
+        "url": "https://doi.org/10.1186/s12877-026-08310-z",
+        "title": "Beyond clinical need: socioeconomic inequalities in access to hospital at home among older adults",
+        "authors": [
+          "Maristella Belfiori",
+          "Laura Mónica Pérez",
+          "Lorena Villa-García",
+          "Oriol Planesas-Pérez",
+          "Caterina Salucci",
+          "Marco Inzitari",
+          "Aida Ribera"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-23",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-24",
         "fetched_from": "crossref"
       },
       {
@@ -27985,6 +28246,706 @@
       }
     ],
     "healthReform": [
+      {
+        "id": "doi:10.1056/nejmoa2607978",
+        "doi": "10.1056/nejmoa2607978",
+        "url": "https://doi.org/10.1056/nejmoa2607978",
+        "title": "Anticoagulation for Atrial Fibrillation with Intermediate Stroke Risk",
+        "authors": [
+          "Daehoon Kim",
+          "Young Soo Lee",
+          "Jaemin Shim",
+          "Hee Tae Yu",
+          "Junbeom Park",
+          "Jin-Kyu Park",
+          "Il-Young Oh",
+          "Ki-Woon Kang",
+          "Eue-Keun Choi",
+          "Kyoung-Min Park",
+          "Hyoung-Seob Park",
+          "Dae-Hyeok Kim",
+          "Hyung Wook Park",
+          "Jun Kim",
+          "Jum-Suk Ko",
+          "Dongmin Kim",
+          "Jong-Youn Kim",
+          "Jin-Bae Kim",
+          "Jung-Hoon Sung",
+          "Tae-Hoon Kim",
+          "Jae-Sun Uhm",
+          "Hui-Nam Pak",
+          "Boyoung Joung"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-09-24",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-24",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejme2610344",
+        "doi": "10.1056/nejme2610344",
+        "url": "https://doi.org/10.1056/nejme2610344",
+        "title": "Anticoagulation for Atrial Fibrillation with a Single Risk Factor for Stroke",
+        "authors": [
+          "Paulus Kirchhof"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-09-24",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-24",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmc2602616",
+        "doi": "10.1056/nejmc2602616",
+        "url": "https://doi.org/10.1056/nejmc2602616",
+        "title": "Oya Virus in a Patient with Severe Hepatitis, Enteritis, and Coagulopathy",
+        "authors": [
+          "Yulong Wang",
+          "Linjin Fan",
+          "Zhipeng Zhang",
+          "Xudan Chen",
+          "Yiwen Chen",
+          "Yang Zhou",
+          "Jingcheng Wu",
+          "Pengfei Ye",
+          "Jicheng Huang",
+          "Jun Dai",
+          "Jiahao Lin",
+          "Pinfu Lai",
+          "Jian Wang",
+          "Sisi Liu",
+          "Yihui Huang",
+          "Linghua Li",
+          "Hongbing Jiang",
+          "Jun Qian",
+          "Linna Liu"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-09-24",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-24",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmc2605001",
+        "doi": "10.1056/nejmc2605001",
+        "url": "https://doi.org/10.1056/nejmc2605001",
+        "title": "Cumulative Hematologic Morbidity and Outcomes in Shwachman–Diamond Syndrome",
+        "authors": [
+          "Kasiani C. Myers",
+          "Jean Donadieu",
+          "Benjamin Goldberg",
+          "Manon Delafoy",
+          "Cornelia Zeidler",
+          "Sabine Mellor-Heineke",
+          "Yang Wan",
+          "Xiaofan Zhu",
+          "Simone Cesaro",
+          "Marco Cipolli",
+          "Kenichiro Watanabe",
+          "Lucy C. Fox",
+          "Caroline Rutten",
+          "Taco W. Kuijpers",
+          "Antonis Kattamis",
+          "Polyxeni Delaporta",
+          "Ulla Wartiovaara-Kautto",
+          "Outi Kilpivaara",
+          "Alison A. Bertuch",
+          "Candelaria O’Farrell",
+          "Melanie Cotter",
+          "Eoghan Dunlea",
+          "Christopher R. Reilly",
+          "Alan J. Warren",
+          "Amy Geddis",
+          "Edie Weller",
+          "Akiko Shimamura"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-09-24",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-24",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmc2609821",
+        "doi": "10.1056/nejmc2609821",
+        "url": "https://doi.org/10.1056/nejmc2609821",
+        "title": "Bepirovirsen Treatment for Chronic Hepatitis B Virus Infection",
+        "authors": [],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-09-24",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-24",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmc2610221",
+        "doi": "10.1056/nejmc2610221",
+        "url": "https://doi.org/10.1056/nejmc2610221",
+        "title": "More on Artificial Intelligence and Detection of Hirschsprung Disease",
+        "authors": [],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-09-24",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-24",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmcpc2603181",
+        "doi": "10.1056/nejmcpc2603181",
+        "url": "https://doi.org/10.1056/nejmcpc2603181",
+        "title": "Case 27-2026: A 4-Year-Old Boy with Fatigue, Imbalance, and Frequent Falls",
+        "authors": [
+          "Alexy D. Arauz Boudreau",
+          "Hee Mang Yoon",
+          "Brenda L. Wong"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-09-24",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-24",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejme2609181",
+        "doi": "10.1056/nejme2609181",
+        "url": "https://doi.org/10.1056/nejme2609181",
+        "title": "Anito-cel for Multiple Myeloma",
+        "authors": [
+          "Yi Lin"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-09-24",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-24",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmicm2607665",
+        "doi": "10.1056/nejmicm2607665",
+        "url": "https://doi.org/10.1056/nejmicm2607665",
+        "title": "Congenital Amniotic Band Sequence",
+        "authors": [
+          "Yao Lu",
+          "Lijun Lin"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-09-24",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-24",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmoa2515005",
+        "doi": "10.1056/nejmoa2515005",
+        "url": "https://doi.org/10.1056/nejmoa2515005",
+        "title": "Etuvetidigene Autotemcel for the Treatment of Wiskott–Aldrich Syndrome",
+        "authors": [
+          "Francesca Ferrua",
+          "Sabina Cenciarelli",
+          "Stefania Giannelli",
+          "Stefania Galimberti",
+          "Shanmuganathan Chandrakasan",
+          "Federico Fraschetta",
+          "Carmen Caputo",
+          "Davide Sala",
+          "Ilaria Monti",
+          "Federica Barzaghi",
+          "Valeria Calbi",
+          "Daniele Canarutto",
+          "Giulia Consiglieri",
+          "Matteo Doglio",
+          "Francesca Fumagalli",
+          "Vera Gallo",
+          "Maddalena Migliavacca",
+          "Salvatore Recupero",
+          "Francesca Tucci",
+          "Alessia Orsini",
+          "Raffaella Milani",
+          "Mariam Datukishvili",
+          "Simona De Gregori",
+          "Eugenio Montini",
+          "Paolo Silvani",
+          "Matias Soncini",
+          "Elena Tomasetto",
+          "Koen van Rossem",
+          "Laura Castagnaro",
+          "Federica Miotto",
+          "Stefano Zancan",
+          "Celeste Scotti",
+          "Sean Russell",
+          "Luigi Naldini",
+          "Fabio Ciceri",
+          "Maria Ester Bernardo",
+          "Suhag Parikh",
+          "Maria Pia Cicalese",
+          "Alessandro Aiuti"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-09-24",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-24",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmoa2603527",
+        "doi": "10.1056/nejmoa2603527",
+        "url": "https://doi.org/10.1056/nejmoa2603527",
+        "title": "Phase 1 Study of Anito-cel, a\n                    <scp>d</scp>\n                    -Domain BCMA CAR T Cell for Refractory or Recurrent Myeloma",
+        "authors": [
+          "Matthew J. Frigault",
+          "Binod Dhakal",
+          "Andrzej J. Jakubowiak",
+          "Noopur Raje",
+          "Kamalika Banerjee",
+          "C. Jenny Mu",
+          "Kevin C. Hart",
+          "Sigal Shachar",
+          "Lawrence P. Andrews",
+          "Laurene S. Cheung",
+          "Faith M. Griffin",
+          "Alexandra R. Witter",
+          "Michael Hyde",
+          "Chester Pham",
+          "Nikitha Gandra",
+          "Tenzin Shakya",
+          "Bhargavi Rajan",
+          "Christa Cortesio",
+          "Samuel T. Haile",
+          "Heba Nowyhed",
+          "Priyanka Nair-Gupta",
+          "Priyam Mitra",
+          "Rebecca J. Chan",
+          "Ana Kostic",
+          "Christopher R. Heery",
+          "Jacalyn Rosenblatt",
+          "Michael R. Bishop"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-09-24",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-24",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmra2413201",
+        "doi": "10.1056/nejmra2413201",
+        "url": "https://doi.org/10.1056/nejmra2413201",
+        "title": "Clinical Uses of Common Genetic Variants Associated with Common Diseases",
+        "authors": [
+          "David J. Hunter",
+          "Michael Inouye"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-09-24",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-24",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.16925",
+        "doi": "10.1001/jama.2026.16925",
+        "url": "https://doi.org/10.1001/jama.2026.16925",
+        "title": "Rural Emergency Hospitals",
+        "authors": [
+          "George Vivek Koshy",
+          "Ari B. Friedman",
+          "Hao Yu",
+          "Anish K. Agarwal"
+        ],
+        "abstract": "This Perspective discusses the Rural Emergency Hospital designation, outlining structural flaws in its design and offering suggestions on how to address those flaws to encourage wider adoption.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-23",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-24",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.13207",
+        "doi": "10.1001/jama.2026.13207",
+        "url": "https://doi.org/10.1001/jama.2026.13207",
+        "title": "Holding Hope",
+        "authors": [
+          "Blossom Tewelde"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-23",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-24",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.14700",
+        "doi": "10.1001/jama.2026.14700",
+        "url": "https://doi.org/10.1001/jama.2026.14700",
+        "title": "Lifestyle Modification and Incretin Therapy for Individuals With Obesity—Reply",
+        "authors": [
+          "Robert F. Kushner",
+          "Ariana M. Chao",
+          "Thomas A. Wadden"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-23",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-24",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.16237",
+        "doi": "10.1001/jama.2026.16237",
+        "url": "https://doi.org/10.1001/jama.2026.16237",
+        "title": "Prediction Utility of Urinary Albumin-Creatinine vs Protein-Creatinine Ratios in Chronic Kidney Disease",
+        "authors": [
+          "Ashish Verma",
+          "Insa M. Schmidt",
+          "Sophie E. Claudel",
+          "Sushrut S. Waikar"
+        ],
+        "abstract": "This study compares the clinical utility of the urinary albumin-creatinine ratio (UACR) vs the the urinary protein-creatinine ratio (UPCR) for prediction of kidney failure, chronic kidney disease (CKD) progression, and cardiovascular outcomes in an established CKD cohort.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-23",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-24",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.13082",
+        "doi": "10.1001/jama.2026.13082",
+        "url": "https://doi.org/10.1001/jama.2026.13082",
+        "title": "Medicolegal Evaluations for Asylum Seekers",
+        "authors": [
+          "Sondra S. Crosby",
+          "Karen B. Musalo",
+          "Michele Heisler"
+        ],
+        "abstract": "This JAMA Insights discusses the importance of medicolegal evaluations for those seeking asylum and encourages clinicians to complete additional training to conduct these evaluations.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-23",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-24",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.13210",
+        "doi": "10.1001/jama.2026.13210",
+        "url": "https://doi.org/10.1001/jama.2026.13210",
+        "title": "Fixed Pupils: Neurologic Finality vs Poetic Repair",
+        "authors": [
+          "Rafael Campo"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-23",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-24",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.18939",
+        "doi": "10.1001/jama.2026.18939",
+        "url": "https://doi.org/10.1001/jama.2026.18939",
+        "title": "Long COVID: The Problem Society Wants to Forget",
+        "authors": [
+          "Derek C. Angus",
+          "Matthew B. O’Connor"
+        ],
+        "abstract": "Long COVID, including the difficulty in defining it and caring for patients experiencing it, is discussed by                     JAMA                     Senior Editor Derek C. Angus, MD, MPH, and E. Wesley Ely, MD, MPH, professor of medicine at Vanderbilt University, for this episode of the                     Healthy Dialogue                     podcast.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-23",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-24",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.14697",
+        "doi": "10.1001/jama.2026.14697",
+        "url": "https://doi.org/10.1001/jama.2026.14697",
+        "title": "Lifestyle Modification and Incretin Therapy for Individuals With Obesity",
+        "authors": [
+          "Robert Glatter",
+          "Elena Luciani"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-23",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-24",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.15496",
+        "doi": "10.1001/jama.2026.15496",
+        "url": "https://doi.org/10.1001/jama.2026.15496",
+        "title": "Tenecteplase Before Thrombectomy at 4.5 to 24 Hours for Basilar Artery Occlusion",
+        "authors": [
+          "Rui Li",
+          "Xiaoxi Yao",
+          "Raul G. Nogueira",
+          "Guangxiong Yuan",
+          "Zhongjun Chen",
+          "Wenhuo Chen",
+          "Tingyu Yi",
+          "Youquan Ren",
+          "Junfeng Su",
+          "Hao Wang",
+          "Zhengfei Ma",
+          "Guoyong Zeng",
+          "Benxiao Wang",
+          "Ming Wei",
+          "Shunfu Jiang",
+          "Guodong Xiao",
+          "Cunfeng Song",
+          "Tao Cui",
+          "Yaxuan Sun",
+          "Yuwen Li",
+          "Zhiming Zhou",
+          "Xingyun Yuan",
+          "Huaizhang Shi",
+          "Guang Zhang",
+          "Jianshang Wen",
+          "Chuanqing Yu",
+          "Tao Wang",
+          "Jinglun Li",
+          "Chuyuan Ni",
+          "Fei Wang",
+          "Yu Jin",
+          "Yao Wang",
+          "Zhide Li",
+          "Lihua Xu",
+          "Bin Mei",
+          "Peiyang Zhou",
+          "Zhihua Cao",
+          "Pu Fang",
+          "Hanwen Liu",
+          "Juluo Chen",
+          "Tao Qiu",
+          "Guangsen Cheng",
+          "Jie Chen",
+          "Yi Sui",
+          "Qingbo Lu",
+          "Lei Mou",
+          "Chunrong Tao",
+          "Jun Sun",
+          "Cong Luo",
+          "Pengfei Xu",
+          "Li Wang",
+          "Chao Zhang",
+          "Tianlong Liu",
+          "Jianlong Song",
+          "Xiaozhong Jing",
+          "Anmo Wang",
+          "Jinjing Wang",
+          "Guoping Wang",
+          "Adnan I. Qureshi",
+          "Jeffrey L. Saver",
+          "Yuyou Zhu",
+          "Thanh N. Nguyen",
+          "Wei Hu",
+          "Gelin Xu",
+          "Feng Gao",
+          "Yinguang Fan",
+          "Juncang Wu",
+          "Zi Wang",
+          "Juan Chen",
+          "Yongwei Zhang",
+          "Sen Qun",
+          "Chuanqing Fang",
+          "Wei Wei",
+          "Shuya Yuan",
+          "Wei Bao",
+          "Hongxing Han",
+          "Kai Li",
+          "Liping Yu",
+          "Chen Long",
+          "Li Chen",
+          "Junjun Wang"
+        ],
+        "abstract": "Importance                     Whether intravenous tenecteplase before endovascular thrombectomy (EVT) improves outcomes in patients with basilar artery occlusion presenting 4.5 to 24 hours after stroke onset remains uncertain.                                                           Objective                     To evaluate the efficacy and safety of intravenous tenecteplase before EVT vs EVT alone in patients with moderate to severe basilar artery occlusion admitted within 4.5 to 24 hours from stroke onset.                                                           Design, Setting, and Participants                     This multicenter, open-label, blinded end point, randomized clinical trial was conducted at 40 stroke centers in China. Between March 16, 2023, and February 4, 2025, a total of 330 patients with moderate to severe basilar artery occlusion (National Institutes of Health Stroke Scale score ≥10) presenting within 4.5 to 24 hours from stroke onset to EVT-capable centers were enrolled. Final follow-up was completed on May 4, 2025.                                                           Interventions                     Patients were randomized 1:1 via a centralized web server using a minimization method to receive either intravenous tenecteplase (bolus injection, 0.25 mg/kg; maximum, 25 mg) followed by EVT (n = 166) or EVT alone (n = 164).                                                           Main Outcomes and Measures                     The primary outcome was functional independence (modified Rankin Scale score, 0-2) at 90 days. Safety outcomes included symptomatic intracranial hemorrhage and 90-day mortality.                                                           Results                     Among 332 patients randomized, 2 withdrew consent. Of the remaining 330 patients (mean [SD] age, 66 [11] years; 241 males [73%]; 89 females [27%]), 329 completed 90-day follow-up. Of whom, 50 of 165 (30%) in the tenecteplase plus EVT group and 50 of 164 (30%) in the EVT alone group achieved functional independence (adjusted rate ratio, 0.92 [95% CI, 0.67 to 1.25]; risk difference, −0.18% [95% CI, −10.13% to 9.76%]). Symptomatic intracranial hemorrhage occurred in 8 patients (5%) in the tenecteplase plus EVT group and 6 (4%) in the EVT alone group. Mortality at 90 days was similar between the groups (66 [40%] vs 70 [43%], respectively).                                                           Conclusions and Relevance                     Among patients with moderate to severe basilar artery occlusion admitted directly to EVT-capable centers who presented 4.5 to 24 hours after stroke onset, the addition of intravenous tenecteplase before EVT did not result in improved functional outcomes compared with EVT alone.                                                           Trial Registration                                            ClinicalTrials.gov Identifier:                       NCT05701956",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-23",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-24",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.15601",
+        "doi": "10.1001/jama.2026.15601",
+        "url": "https://doi.org/10.1001/jama.2026.15601",
+        "title": "Tenecteplase Before Thrombectomy at 4.5 to 24 Hours for Basilar Artery Occlusion",
+        "authors": [],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-23",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-24",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1377/hlthaff.2025.01663",
+        "doi": "10.1377/hlthaff.2025.01663",
+        "url": "https://doi.org/10.1377/hlthaff.2025.01663",
+        "title": "Real-World Brinkmanship In Hospital-Insurer Negotiations",
+        "authors": [
+          "Jason D. Buxbaum",
+          "Neil Mehta",
+          "Andrew M. Ryan"
+        ],
+        "abstract": "",
+        "source": "Health Affairs",
+        "issn": "0278-2715",
+        "date": "2026-09-23",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-24",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/1468-0009.70118",
+        "doi": "10.1111/1468-0009.70118",
+        "url": "https://doi.org/10.1111/1468-0009.70118",
+        "title": "US Life Expectancy and Increasing Mortality Rates: An Analysis of the Crisis",
+        "authors": [
+          "STEVEN H. WOOLF"
+        ],
+        "abstract": "Policy Points                                                                                                                                         US life expectancy is shorter than in other high‐income countries and the gap has widened dramatically over time, driven in particular by rising mortality rates that threaten the probability that youth can survive to middle age, or even adulthood.                                                                                         Policy priorities to address this crisis include efforts to address the proximal causes of rising mortality, such as poor diet, drug overdoses, problem drinking, homicide, suicide, and chronic diseases such as cardiometabolic, neurologic and genitourinary diseases, among others.                                                                                         Meaningful progress in closing the gap with other high‐income countries must go beyond proximal causes to address structural factors that systematically compromise the health of Americans, such as deficiencies in the health care system, adverse socioeconomic conditions, threats from the physical and social environment, and public policies that do not prioritize the health and safety of the population or that perpetuate health inequities.                                                                                         At a time when political support for such policies is sharply divided in the United States, states are exerting greater power over policies that could improve—or worsen—population health.                                                                                         The challenge in the United States in solving the mortality crisis is not a lack of policy solutions but of political will to prioritize population health over competing interests.                                                                                                                                                                                        Context                     US life expectancy is shorter than in other high‐income countries, and the gap has widened over time. This article examines the mortality patterns that help explain the widening gap, considers the root causes that might be to blame, and discusses potential policy solutions.                                                           Methods                     Sources of mortality data included the United Nations Department of Economic and Social Affairs, US Mortality Database, Centers for Disease Control and Prevention, and Organisation for Economic Cooperation and Development. The analysis examined life expectancy and age‐specific mortality rates by country, cause‐specific US mortality rates from 1999 through 2023, and cause‐specific mortality rates in 16 high‐income countries for comparison. A literature review examined potential explanations for the US health disadvantage, including the growing role of states and partisan polarization. This was supplemented by an analysis of state‐level life expectancy and gubernatorial party affiliation for 1941–2022 and a comparison of state life expectancy in 2017–2021 with countries reporting similar life expectancy.                                                           Findings                     As of 2023, US life expectancy ranked 38th among countries with a population greater than 1 million, and the populations of 60 countries faced a lower risk of dying before age 40 than did Americans. Causes of death responsible for changes in all‐cause mortality varied by age group. Leading contributors among infants and children included sudden unexplained infant deaths and external causes (e.g., transport, homicide, suicide). Young adults (ages 25–44) experienced the largest relative increases in all‐cause mortality of any age group, including a 71.2% increase between 2010 and 2021, driven by deaths from external causes, notably drug overdoses, and early‐onset diseases (e.g., hypertensive disease, endocrine and metabolic disorders, alcoholic liver disease). Middle‐aged adults experienced increased mortality from similar causes (hypertensive diseases, endocrine and metabolic disorders, external causes), as well as higher death rates from nervous and genitourinary system diseases. Mortality from COVID‐19, which emerged in 2020 as the third leading causes of death among middle‐aged adults, almost doubled in 2021, despite the availability of vaccines. Older adults experienced increased mortality from neurologic diseases and endocrine and metabolic disorders and the highest mortality rates from COVID‐19. Since 2010, the gap in all‐cause mortality between the United States and 16 high‐income countries has been driven by higher death rates from circulatory diseases, external causes, nervous system diseases, respiratory diseases, and endocrine and metabolic disorders. Explanations for the US health disadvantage include proximal causes (e.g., opioid epidemic, access to firearms, the obesogenic food environment, affective disorders), as well as systemic factors such as deficiencies in the health care system, socioneconomic precarity, a lax regulatory environment, and structural racism. State‐level life expectancy and mortality rates have increased over time and appear associated with policy and increasingly partisan orientations.                                                           Conclusions                     The United States faces a mortality crisis that requires attention not only to specific causes of death but also systemic issues that compromise health. That better health outcomes are achievable is demonstrated by the growing list of high‐income and middle‐income countries that have achieved higher life expectancy than the United States. Policies that would close the gap, which have historically attracted weak political support in the United States and are now being actively opposed at the federal level, can be pursued by states and communities with greater commitments to improving population health.",
+        "source": "The Milbank Quarterly",
+        "issn": "0887-378X",
+        "date": "2026-09-23",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "socialSecurity"
+        ],
+        "firstSeen": "2026-09-24",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag230",
+        "doi": "10.1093/aje/kwag230",
+        "url": "https://doi.org/10.1093/aje/kwag230",
+        "title": "Causal inference of multiple interrelated exposures: Contributions of ischemic placental disease to preterm delivery",
+        "authors": [
+          "Wen Wei Loh",
+          "Cande V Ananth"
+        ],
+        "abstract": "Abstract                   Ischemic placental disease (IPD) involves three obstetrical complications – preeclampsia, placental abruption, and fetal growth restriction – and is implicated in up to 55% of early deliveries. Despite substantial overlap in their etiology and epidemiologic risk profiles, existing studies have assessed their effects independently. Using data from the Consortium on Safe Labor (2002–2008; n = 203, 990), we examined the composite and separate effects of the IPD conditions on spontaneous and indicated preterm delivery (sPTD and iPTD). We systematically specified joint IPD probabilities, corresponding to combinations of hypothetical stochastic and deterministic interventions. Eliminating all IPD reduced sPTD (RR = 0.93; 95% CI = 0.92, 0.94) and iPTD (RR = 0.66; 95% CI = 0.64, 0.67) from observed levels. Eliminating preeclampsia alone reduced sPTD (RR = 0.94; 95% CI = 0.94, 0.95) and iPTD (RR = 0.72; 95% CI=0.71, 0.73). Partially reducing joint IPD co-occurrence among 58% of individuals who met criteria for high-risk, by magnitudes drawn from separate low-dose aspirin meta-analyses, yielded minimal reductions for sPTD (RR = 0.99; 95% CI=0.98, 0.99) and iPTD (RR = 0.89; 95%CI=0.88, 0.89). Preeclampsia drives IPD’s association with both PTD subtypes; under the stated assumptions, hypothetically eliminating preeclampsia yielded the largest iPTD reduction.",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-09-23",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-24",
+        "fetched_from": "crossref"
+      },
       {
         "id": "doi:10.1093/aje/kwag236",
         "doi": "10.1093/aje/kwag236",
@@ -38359,6 +39320,29 @@
     ],
     "agingHealth": [
       {
+        "id": "doi:10.1186/s12877-026-08358-x",
+        "doi": "10.1186/s12877-026-08358-x",
+        "url": "https://doi.org/10.1186/s12877-026-08358-x",
+        "title": "Healthcare professionals’ perceptions of participation and learning related to mealtimes in long-term care facilities: an interview study",
+        "authors": [
+          "Camilla Allert",
+          "Stefan Andersson",
+          "Nina Carlsson",
+          "Anna Sandgren"
+        ],
+        "abstract": "Abstract                                        Background                     Mealtimes in long-term care facilities are complex and serve multiple purposes. They provide opportunities for participation and learning, involving residents, relatives and healthcare professionals, each with unique circumstances. Participation and learning are central to healthy ageing. Healthcare professionals play a key role in enabling participation and learning among those involved, although these opportunities may be shaped by their perceptions and attitudes. Therefore, this study aimed to explore healthcare professionals’ perceptions of participation and learning among residents, their relatives, and colleagues related to mealtime situations in long-term care facilities.                                                           Methods                     Data were collected through individual semi-structured interviews with 23 healthcare professionals (nursing assistants, licensed practical nurses, and registered nurses) working in long-term care facilities in a municipality in south-eastern Sweden. The data were analysed using reflexive thematic analysis.                                                           Results                                            Three themes were generated: (1)                       Shaped by relationships and circumstances                       , (2)                       Rewarding yet challenging                       , and (3)                       Prerequisites influence opportunities.                       Participation and learning related to mealtime situations manifested in various ways and to differing degrees, from extensive to almost non-existent. It was a balancing act for the healthcare professionals managing multiple challenges to enable participating and learning; however, residents and relatives were seldom invited to engage in this problem-solving. For participation and learning to occur, prerequisites were required at all levels in the organisation.                                                                                Conclusion                     Healthcare professionals perceive that participation and learning among residents, relatives, and colleagues in long-term care facilities do occur, but to varying degrees and are associated with multiple challenges. Drawing on a learning model, such as Illeris, can help identify which components need to be developed, which together with a deeper understanding and implementation of person-centredness, could contribute to increased participation and learning, and thereby to the wellbeing of residents, relatives, and healthcare professionals. However, this approach must permeate the entire organisation.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-24",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-24",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1186/s12877-026-08320-x",
         "doi": "10.1186/s12877-026-08320-x",
         "url": "https://doi.org/10.1186/s12877-026-08320-x",
@@ -38456,6 +39440,344 @@
           "agingHealth"
         ],
         "firstSeen": "2026-09-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70726",
+        "doi": "10.1111/jgs.70726",
+        "url": "https://doi.org/10.1111/jgs.70726",
+        "title": "Development and Preliminary Feasibility Testing of\n                    <scp>PACERS</scp>\n                    , a Physical Activity‐Centered Intervention for Rural Older Adults With Hypertension",
+        "authors": [
+          "Stella T. Lartey",
+          "Moonseong Heo",
+          "Joel Edward Williams",
+          "Tanya Lee Staton",
+          "Douglas Moore",
+          "Bailey Naples",
+          "Sarah Blythe Bacon",
+          "Zachary Skipper",
+          "James S. Powers",
+          "Sarah F. Griffin",
+          "Alyssa Ann Gamaldo‐Roddy",
+          "Angela L. Jefferson"
+        ],
+        "abstract": "ABSTRACT                                        Background                     A high prevalence of hypertension is observed among American rural residents. This study aimed to engage rural community members in designing, developing, and preliminarily testing the feasibility of a physical activity (PA)‐centered health promotion intervention integrating Fitbit‐based activity monitoring and text messaging among rural older adults (50+ years) with hypertension (PACERS). We also tested the feasibility of measuring candidate outcomes for future studies.                                                           Participants and Setting                                            Sixteen participants residing in rural South Carolina communities were interviewed to inform the intervention design and development. Over 12 weeks, 10 older adults diagnosed with hypertension with no or low PA participated in preliminary feasibility testing of the intervention and pre‐ and post‐intervention measurements. Finally, we conducted a post‐intervention focus group discussion (FGD,                       n                        = 5).                                                                                Methods                     We reviewed health reports, analyzed EHR data, engaged the community to establish health needs, designed and developed PACERS, assessed barriers and facilitators, and tested the preliminary feasibility of the PACERS intervention. Preliminary feasibility was measured by recruitment, retention, fidelity, participants' attendance and acceptability, and candidate outcomes included blood pressure (BP), PA, arterial compliance, cognition, overall health, and quality of life.                                                           Results                                            Key pre‐design themes included as follows: accessibility, intervention delivery through existing health systems, social isolation, hypertension‐cognition relationship, accountability, and perceived positive health impacts. FGD themes included as follows: hypertension‐cognition links, financial preparation for retirement and isolation management. Recruitment (90.9%), retention (100%), attendance (93%), adherence (90%), and intervention fidelity (98.5%) rates, as well as average acceptance (4.8/5), were promising. Some Candidate outcomes showed improvement: quality of life (0.084; 95% CI: 0.022, 0.146;                       p                        = 0.008), systolic BP (−34.28; 95% CI: −57.77, −10.78;                       p                        = 0.004), diastolic BP (−19.14; 95% CI: −31.68, −6.60;                       p                        = 0.003), arterial compliance (−15.13; 95% CI: −28.00, −2.30;                       p                        = 0.021), and average steps per day (3612; 95% CI: 855, 6370;                       p                        = 0.010).                                                                                Conclusions                     This study provides valuable insights into intervention development for older adults in under‐resourced settings.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-09-23",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-24",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70751",
+        "doi": "10.1111/jgs.70751",
+        "url": "https://doi.org/10.1111/jgs.70751",
+        "title": "Comment on: Substitution Patterns After Discontinuation of\n                    <scp>CNS</scp>\n                    ‐Active Medications in Older Adults in Primary Care",
+        "authors": [
+          "Kunlong Zhang",
+          "Xiaoqi Ying"
+        ],
+        "abstract": "",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-09-23",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-24",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70746",
+        "doi": "10.1111/jgs.70746",
+        "url": "https://doi.org/10.1111/jgs.70746",
+        "title": "Diagnosing Dementias: Many Names, Many Faces",
+        "authors": [
+          "Michael Tran Duong"
+        ],
+        "abstract": "",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-09-23",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-24",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70738",
+        "doi": "10.1111/jgs.70738",
+        "url": "https://doi.org/10.1111/jgs.70738",
+        "title": "Validating Administrative Data Markers for Elder Abuse Identification via Chart Review in a National Health System",
+        "authors": [
+          "Joseph Shin",
+          "Hongwei Zhang",
+          "Maria K. Mor",
+          "Tony Rosen",
+          "Naomi Shin",
+          "Lena K. Makaroun"
+        ],
+        "abstract": "ABSTRACT                                        Background                     Elder abuse (EA) is a serious public health concern that is dramatically under‐documented in electronic health records (EHRs). Although structured EHR markers for EA are commonly used in research to identify EA cases in large cohorts due to their accessibility, their validity for capturing clinical EA concerns is unknown.                                                           Participants and Setting                     Of 3,724,639 Veterans aged ≥ 60 years with an outpatient Veterans Health Administration (VHA) encounter in 2022, 8161 (0.2%) had an EA‐related ICD‐10 code and/or a structured social work consult marker for “abuse/neglect” recorded in the EHR that year. From the 7382 with complete race/ethnicity data, we randomly sampled 105 veterans for review, intentionally oversampling women and racial/ethnic minority groups.                                                           Methods                     We conducted a retrospective chart review, systematically abstracting clinical notes within ±180 days of the structured EA marker to assess the positive predictive value (PPV) with 95% confidence intervals (CIs) against a reference standard of documented active clinical EA concerns in free text notes. Descriptive statistics were used to characterize the sample and documentation patterns.                                                           Results                     Only 14 of 105 veterans (PPV [95% CI] 13.3% [7.5–21.4]) had free‐text documentation of active clinical EA concern: 9 of 77 (11.7% [5.5–21.0]) with a social work consult marker, 4 of 27 (14.8% [4.2–33.7]) with an ICD‐10 code, and 1 of 1 (100% [2.5–100.0]) with both. Among the 91 veterans without documented concern, 20 had documentation of historical abuse only (e.g., military sexual trauma), while the remainder had no clear explanation for the administrative marker.                                                           Conclusions                     Structured EA data markers in the VHA EHR rarely corresponded to free‐text documentation of active clinical EA concern, raising important questions about their validity as proxies for EA identification. These findings underscore the need for developing standardized, clinician‐friendly approaches to EA documentation in EHRs.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-09-23",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-24",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08327-4",
+        "doi": "10.1186/s12877-026-08327-4",
+        "url": "https://doi.org/10.1186/s12877-026-08327-4",
+        "title": "Dietary patterns across the continuum of age-related cognitive decline: a scoping review",
+        "authors": [
+          "Hang Zhang",
+          "Jinghua Yi",
+          "Xinlin Wang",
+          "Jing Gong",
+          "Zhe Wei"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-23",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-24",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-07837-5",
+        "doi": "10.1186/s12877-026-07837-5",
+        "url": "https://doi.org/10.1186/s12877-026-07837-5",
+        "title": "Trajectories of memory function before and after cardiovascular disease among hypertensive patients",
+        "authors": [
+          "Yachao Li",
+          "Zhen Zhang",
+          "Huazhen Yang",
+          "Haoyue Gao",
+          "Chu Chen",
+          "Ying Wen",
+          "Yun Li",
+          "Qingping Xue"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-23",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-24",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08240-w",
+        "doi": "10.1186/s12877-026-08240-w",
+        "url": "https://doi.org/10.1186/s12877-026-08240-w",
+        "title": "The direct medical cost of urinary and fecal incontinence by care settings for adults over 65 in the United States",
+        "authors": [
+          "Ian Duncan",
+          "Andrew J Stocking",
+          "Donna Z. Bliss",
+          "Nhan Huynh"
+        ],
+        "abstract": "Abstract                                        Background                     Incontinence is a chronic condition that affects millions of adults over the age of 65 in the United States. This study estimates the direct medical costs of incontinence for this population and identifies some possible root causes driving these costs.                                                           Methods                     This retrospective analysis relied on administrative claims data from the 2018 Medicare Limited Data Set. The cost analysis was limited to fee-for-service (FFS) Medicare beneficiaries over the age of 65 enrolled in Medicare Parts A and B. Our analysis of urinary tract infections (UTIs) relied on a Medicare Advantage dataset from 2016 to 2018 that included service and drug costs. We used diagnosis codes and place-of-service codes from the 2018 claims experience to identify incontinent members and their respective care setting. We used propensity score matching of incontinent and non-incontinent members to estimate the incremental cost of incontinence, controlling for age, gender, regional state groupings, and 79 comorbidities based on ICD-10CM codes, categorized into 9 disease groups. We also created an event study of UTIs to explore whether the cost of a UTI episode differs based on the presence of incontinence.                                                           Results                     On average, direct medical costs for incontinent members were $404 per member per month (PMPM) in 2018 USD higher than their non-incontinent counterparts in the same care setting. This gap rises to $968 PMPM when averaged over all members across all four care settings because it accounts for the disproportionate migration of incontinent members into more intensive and expensive care settings. A significant driver of these costs is the higher prevalence of urinary tract infections (UTIs) among incontinent members. Using an event study of UTIs, we also find that the treatment costs for UTIs are 52% higher, on average, for incontinent members.                                                           Conclusion                     The direct medical cost of incontinence for adults over 65 is comparable in magnitude to other major chronic conditions such as obesity, cancer, and diabetes, yet receives far less policy and management attention. Payers and institutions can make meaningful gains in reducing this cost by investing in incontinence management strategies that reduce UTIs, support caregivers, and prevent transitions to higher-intensity care settings.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-23",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-24",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08310-z",
+        "doi": "10.1186/s12877-026-08310-z",
+        "url": "https://doi.org/10.1186/s12877-026-08310-z",
+        "title": "Beyond clinical need: socioeconomic inequalities in access to hospital at home among older adults",
+        "authors": [
+          "Maristella Belfiori",
+          "Laura Mónica Pérez",
+          "Lorena Villa-García",
+          "Oriol Planesas-Pérez",
+          "Caterina Salucci",
+          "Marco Inzitari",
+          "Aida Ribera"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-23",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-24",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag230",
+        "doi": "10.1093/aje/kwag230",
+        "url": "https://doi.org/10.1093/aje/kwag230",
+        "title": "Causal inference of multiple interrelated exposures: Contributions of ischemic placental disease to preterm delivery",
+        "authors": [
+          "Wen Wei Loh",
+          "Cande V Ananth"
+        ],
+        "abstract": "Abstract                   Ischemic placental disease (IPD) involves three obstetrical complications – preeclampsia, placental abruption, and fetal growth restriction – and is implicated in up to 55% of early deliveries. Despite substantial overlap in their etiology and epidemiologic risk profiles, existing studies have assessed their effects independently. Using data from the Consortium on Safe Labor (2002–2008; n = 203, 990), we examined the composite and separate effects of the IPD conditions on spontaneous and indicated preterm delivery (sPTD and iPTD). We systematically specified joint IPD probabilities, corresponding to combinations of hypothetical stochastic and deterministic interventions. Eliminating all IPD reduced sPTD (RR = 0.93; 95% CI = 0.92, 0.94) and iPTD (RR = 0.66; 95% CI = 0.64, 0.67) from observed levels. Eliminating preeclampsia alone reduced sPTD (RR = 0.94; 95% CI = 0.94, 0.95) and iPTD (RR = 0.72; 95% CI=0.71, 0.73). Partially reducing joint IPD co-occurrence among 58% of individuals who met criteria for high-risk, by magnitudes drawn from separate low-dose aspirin meta-analyses, yielded minimal reductions for sPTD (RR = 0.99; 95% CI=0.98, 0.99) and iPTD (RR = 0.89; 95%CI=0.88, 0.89). Preeclampsia drives IPD’s association with both PTD subtypes; under the stated assumptions, hypothetically eliminating preeclampsia yielded the largest iPTD reduction.",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-09-23",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-24",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261490596",
+        "doi": "10.1177/13872877261490596",
+        "url": "https://doi.org/10.1177/13872877261490596",
+        "title": "Clinic-based real-world analysis of amyloid PET positivity and MRI markers across subjective cognitive decline, mild cognitive impairment, and early Alzheimer's disease",
+        "authors": [
+          "Heii Arai",
+          "Satoko Aiba",
+          "Hideo Yamamoto",
+          "Yuki Akiba",
+          "Junpei Takayama",
+          "Reiko Arai"
+        ],
+        "abstract": "Background                     Alzheimer's disease (AD) is increasingly defined biologically. Amyloid positron emission tomography (PET) is a validated biomarker; however, evidence from truly consecutive, real-world memory-clinic cohorts spanning subjective cognitive decline (SCD), mild cognitive impairment (MCI), and early AD remains limited. Structural MRI markers such as the voxel-based specific regional analysis system for AD (VSRAD) are widely used, yet their incremental value for predicting amyloid positivity in real-world settings is uncertain.                                                           Objective                     To quantify amyloid PET positivity across SCD, MCI, and early AD in a real-world cohort and test whether MRI indices improve prediction beyond clinical diagnosis.                                                           Methods                                            We retrospectively analyzed 194 consecutive patients undergoing                       18                       F-florbetapir amyloid PET (SCD n = 93; MCI n = 47; early AD n = 54). Positivity was determined by certified visual reads. Quantitation used Centiloid (CL) values retained on the original continuous scale (including negative values) and regional standardized uptake value ratios (SUVR). MRI/VSRAD indices were available in 153 patients. Logistic regression models were evaluated by cross-validated area under the curve (AUC).                                                                                Results                     Amyloid PET positivity increased stepwise (SCD 40.9%, MCI 66.0%, early AD 91.7%; p &lt; 0.0001). CL and regional SUVRs increased in parallel, most prominently in the temporal cortex and precuneus. Although VSRAD indices correlated with amyloid burden, adding MRI to the base model did not improve discrimination (AUC 0.752 versus 0.751).                                                           Conclusions                     Clinical utility of amyloid PET was confirmed in a real-world, consecutive memory-clinic cohort, supporting the relevance of amyloid assessment for routine practice and future clinical application.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-09-23",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-24",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261489739",
+        "doi": "10.1177/13872877261489739",
+        "url": "https://doi.org/10.1177/13872877261489739",
+        "title": "Effect of a multivitamin and cocoa flavanol extract on changes in neurofilament light, N-terminal tau fragment, and oligomeric amyloid-β levels in COSMOS-clinic",
+        "authors": [
+          "Pamela M. Rist",
+          "Sidong Li",
+          "Rikuta Hamaya",
+          "Amirah K. Anderson",
+          "Ting Yang",
+          "Yi Ran Xu",
+          "Beth L. Ostaszewski",
+          "Dennis J. Selkoe",
+          "Howard D. Sesso",
+          "JoAnn E. Manson"
+        ],
+        "abstract": "Background                     Multivitamin-multimineral (MVM) supplements and cocoa flavanols may delay cognitive aging, but underlying pathways remain unclear.                                                           Objective                     We examined the effect of MVM or cocoa extract (CE) supplementation on 2-year changes in three blood-based neurodegenerative biomarkers.                                                           Methods                     The COcoa Supplement and Multivitamin Outcomes Study (COSMOS) was a 2 × 2 factorial trial of a MVM (Centrum Silver) and/or CE supplement (containing 500 mg/d, including 80 mg (–)-epicatechin) among older US adults free of major cardiovascular disease and recently diagnosed cancer. The primary outcomes of this ancillary study were the 2-year change in neurofilament light chain (NfL), N-terminal tau fragment (NT1), and oligomeric amyloid-β (oAβ) levels. We examined the effect of each intervention on each biomarker in separate general linear models of response profiles.                                                           Results                     We included 506 individuals with available NT1 or NfL levels and 498 individuals with oAβ levels. We observed no significant difference between the changes over time in either NT1 (mean difference in yearly percentage change=3.7%; 95% CI: −3% to 10.8%; p = 0.29), NfL (3.1%; 95% CI: −1.9% to 8.3%; p = 0.23), or oAβ (−8.9%; 95% CI: −23.9% to 9%; p = 0.31) for those randomized to MVM versus placebo. We observed no significant differences between changes over time for those randomized to CE versus placebo for NT1 (−0.7%; 95% CI: −7.1% to 6.1%; p = 0.83), NfL (0.5%; 95% CI: −4.4% to 5.6%; p = 0.85), or oAβ (−5.9%; 95% CI: −21.4% to 12.6%; p = 0.51).                                                           Conclusions                     Daily supplementation with MVM or CE compared to placebo did not affect two-year changes in NfL, NT1, and oAβ.                                            Clinicaltrials.gov                       : COSMOS (clinicaltrials.gov NCT02422745)",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-09-23",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-24",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261489741",
+        "doi": "10.1177/13872877261489741",
+        "url": "https://doi.org/10.1177/13872877261489741",
+        "title": "A multi-omics Mendelian randomization study identifies putatively causal genes and pathways for Alzheimer's disease associated with reactive astrocytes",
+        "authors": [
+          "Qi Zhu",
+          "Wenjie Chen",
+          "Xu Han"
+        ],
+        "abstract": "Background                     Neuroinflammation, particularly involving reactive astrocytes, plays a pivotal role in Alzheimer's disease (AD) progression.                                                           Objective                     However, the causal genes and regulatory pathways linking astrocyte reactivity to AD risk remain unclear.                                                           Methods                     We performed a multi-omics summary-data-based Mendelian randomization (SMR) analysis, integrating large-scale AD GWAS data with methylation (mQTLs), expression (eQTLs), and protein (pQTLs) data for 514 reactive astrocyte-related genes. Causal inference was strengthened using colocalization and tissue-specific validation, and pathway enrichment.                                                           Results                                            Our multi-omics SMR analysis identified a core set of high-confidence genes related to reactive astrocytes with putatively causal roles in AD. Based on mQTL-eQTL analysis,                       SPARC                       (cg08331313),                       RPS6KA2                       (12 CpG sites), and                       LEP                       (4 CpG sites) demonstrated significant regulatory cascades, where methylation changes modulated gene expression and subsequently influenced AD risk. The eQTL-pQTL analysis revealed GCDH as genes with strong expression-protein correlations. Cross-tissue validation between blood and brain pinpointed a robust set of seven genes, including                       MAPK3                       ,                       HLA-DQB1                       , and                       CSF3                       , that consistently associate with AD risk, highlighting systemic effects. Functional and network analyses of these causal candidates revealed that they converge upon the                       MAPK                       signaling pathway as a central mechanistic hub in both peripheral blood and brain tissue. Furthermore, network analysis identified seven hub genes, including                       MAPK3                       ,                       LEP                       , and                       STAT1                       , as critical regulators within this astrocyte-centered AD network.                                                                                Conclusions                     Our study systematically identifies genetically predicted reactive astrocyte-related genes in AD pathogenesis through multi-omics Mendelian randomization, highlighting MAPK signaling as a putatively causal mechanistic hub.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-09-23",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-24",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261489744",
+        "doi": "10.1177/13872877261489744",
+        "url": "https://doi.org/10.1177/13872877261489744",
+        "title": "Neuropsychiatric symptom-role reorganization in amyloid PET-positive Alzheimer's disease: An expanded-cohort analysis",
+        "authors": [
+          "YoungSoon Yang",
+          "Yong Tae Kwak"
+        ],
+        "abstract": "Background                     Neuropsychiatric symptoms (NPS) in Alzheimer's disease (AD) often occur in clusters, and their clinical meaning may depend on the symptoms with which they co-occur. Whether a previously identified NPS cluster pattern remains transportable after expansion of an amyloid PET-positive cohort is uncertain.                                                           Objective                     To assess the transportability of a previously published NPS cluster model and to characterize symptom-role reorganization after cohort expansion.                                                           Methods                                            We analyzed 301 consecutive drug-naive patients with probable AD and positive                       18                       F-FC119S amyloid PET. The cohort comprised the previously published 143-patient reference cohort and 158 newly enrolled, non-overlapping patients who constituted the extension cohort. Twelve Korean Neuropsychiatric Inventory domains were coded as present or absent. Hierarchical clustering was repeated in the extension cohort and in the full cohort, and changes in individual symptom relationships were examined.                                                                                Results                     The original four-cluster solution was only partly reproduced. Aggression, disinhibition, and aberrant motor behavior remained closely grouped, while anxiety and irritability also remained linked and were joined by euphoria. Hallucination shifted into the behavioral-dyscontrol cluster, whereas depression, apathy, nighttime behavior, and eating abnormality formed a vegetative-apathy cluster. Delusion formed a single-domain cluster and, together with aggression, aberrant motor behavior, and disinhibition, showed the largest stage-associated prevalence differences between Clinical Dementia Rating (CDR) 0.5 and CDR 1.0–2.0.                                                           Conclusions                     NPS clusters in amyloid PET-positive AD may not represent fixed syndromes. A symptom-role framework that distinguishes preserved relationships, reorganized symptoms, and independent stage-linked symptoms may provide a more clinically informative understanding of NPS in AD.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-09-23",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-24",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261489800",
+        "doi": "10.1177/13872877261489800",
+        "url": "https://doi.org/10.1177/13872877261489800",
+        "title": "<i>APOE</i>\n                    -centered transcriptional convergence underlying diverse dementia subtypes",
+        "authors": [
+          "Zhi-Jie Xu",
+          "Jie Ma",
+          "Guido M. Giuffrè",
+          "Jia-Jia Wu",
+          "Xin Xue",
+          "Juan-Juan Lu",
+          "Paolo Maria Rossini",
+          "Xu-Yun Hua",
+          "Jian-Guang Xu"
+        ],
+        "abstract": "Background                     Dementia subtypes exhibit diverse clinical and pathological features, yet may share convergent molecular underpinnings. Identifying these common pathways is critical for unified therapeutic strategies.                                                           Objective                     To delineate the shared genetic architecture and convergent molecular pathways underlying diverse dementia subtypes, and to mechanistically characterize the structural and functional impacts of key risk variants, thereby establishing a unified framework for precision therapeutic development.                                                           Methods                     We applied multivariate genomic structural equation modeling to six dementia-related genome-wide association studies (GWAS), followed by integrative transcriptome-wide association studies (TWAS) across tissues and cell types. We combined AlphaFold3-predicted structures, molecular dynamics simulations, and deep learning–based stability analyses to assess functional impacts of risk variants.                                                           Results                                            We uncovered a shared genetic architecture underlying dementia, identifying 60 novel risk loci.                       APOE                       emerged as the central hub, linking lipid metabolism and immune dysregulation. Missense variants in                       APOE                       (p.Arg176Cys),                       BIN2                       (p.Glu190Lys), and                       FOXO1                       (p.Asp82His/Tyr/Asn) induced charge-dependent conformational destabilization, impairing lipid transport, microglial phagocytosis, and transcriptional control.                                                                                Conclusions                                            Our multiscale framework bridges population genetics with molecular pathophysiology, establishing                       APOE                       -centered transcriptional dysregulation as a unifying mechanism in dementia. These findings nominate convergent pathways, particularly lipid-immune crosstalk, as high-priority targets for precision therapeutics.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-09-23",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-24",
         "fetched_from": "crossref"
       },
       {
@@ -38639,34 +39961,6 @@
         "fetched_from": "crossref"
       },
       {
-        "id": "doi:10.1093/aje/kwag236",
-        "doi": "10.1093/aje/kwag236",
-        "url": "https://doi.org/10.1093/aje/kwag236",
-        "title": "Real-world cardiovascular effects of liraglutide: transportability analysis of the LEADER trial",
-        "authors": [
-          "Kevin Josey",
-          "Wenhui Liu",
-          "Theodore Warsavage",
-          "Morten Medici",
-          "Kajsa Kvist",
-          "Catherine G Derington",
-          "Jane E B Reusch",
-          "Debashis Ghosh",
-          "Sridharan Raghavan"
-        ],
-        "abstract": "Abstract                   Appropriate use of recently approved type 2 diabetes treatments depends on external validity of landmark clinical trials (RCTs) in real-world populations that may differ from trial participants. This study transported effect estimates from the Liraglutide Effect and Action in Diabetes: Evaluation of Cardiovascular Outcome Results (LEADER) trial, a placebo-controlled RCT of liraglutide on cardiovascular outcomes, onto real-world cohorts within the Veterans Affairs (VA) healthcare system. Risk differences (RD) in survival outcomes, approximated using pseudo-observations of individual survival probabilities, were estimated with augmented inverse probability weighting after balancing baseline characteristics between RCT and target samples using approximate balancing weights. Transported effects of liraglutide compared to placebo on major adverse cardiovascular events (MACE) and all-cause mortality in veterans (“VA-weighted LEADER”) were larger than, though statistically consistent with, the treatment effects observed in LEADER: MACE RD at 3 years of 4.6% [95% CI 2.2, 7.0] in VA-weighted LEADER versus 1.6% [0.3, 2.9] in LEADER; all-cause mortality RD at 3 years of 2.9% [0.8, 5.1] in VA-weighted LEADER versus 0.9% [-0.09, 1.9] in LEADER. These estimates of the effects of liraglutide in veterans with diabetes provide real-world evidence that can guide diabetes treatment decisions and formulary policies for a high-risk population underrepresented in RCTs.",
-        "source": "American Journal of Epidemiology",
-        "issn": "0002-9262",
-        "date": "2026-09-22",
-        "subjects": [],
-        "domains": [
-          "agingHealth",
-          "healthReform"
-        ],
-        "firstSeen": "2026-09-22",
-        "fetched_from": "crossref"
-      },
-      {
         "id": "doi:10.1111/jgs.70710",
         "doi": "10.1111/jgs.70710",
         "url": "https://doi.org/10.1111/jgs.70710",
@@ -38754,6 +40048,34 @@
           "agingHealth"
         ],
         "firstSeen": "2026-09-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag236",
+        "doi": "10.1093/aje/kwag236",
+        "url": "https://doi.org/10.1093/aje/kwag236",
+        "title": "Real-world cardiovascular effects of liraglutide: transportability analysis of the LEADER trial",
+        "authors": [
+          "Kevin Josey",
+          "Wenhui Liu",
+          "Theodore Warsavage",
+          "Morten Medici",
+          "Kajsa Kvist",
+          "Catherine G Derington",
+          "Jane E B Reusch",
+          "Debashis Ghosh",
+          "Sridharan Raghavan"
+        ],
+        "abstract": "Abstract                   Appropriate use of recently approved type 2 diabetes treatments depends on external validity of landmark clinical trials (RCTs) in real-world populations that may differ from trial participants. This study transported effect estimates from the Liraglutide Effect and Action in Diabetes: Evaluation of Cardiovascular Outcome Results (LEADER) trial, a placebo-controlled RCT of liraglutide on cardiovascular outcomes, onto real-world cohorts within the Veterans Affairs (VA) healthcare system. Risk differences (RD) in survival outcomes, approximated using pseudo-observations of individual survival probabilities, were estimated with augmented inverse probability weighting after balancing baseline characteristics between RCT and target samples using approximate balancing weights. Transported effects of liraglutide compared to placebo on major adverse cardiovascular events (MACE) and all-cause mortality in veterans (“VA-weighted LEADER”) were larger than, though statistically consistent with, the treatment effects observed in LEADER: MACE RD at 3 years of 4.6% [95% CI 2.2, 7.0] in VA-weighted LEADER versus 1.6% [0.3, 2.9] in LEADER; all-cause mortality RD at 3 years of 2.9% [0.8, 5.1] in VA-weighted LEADER versus 0.9% [-0.09, 1.9] in LEADER. These estimates of the effects of liraglutide in veterans with diabetes provide real-world evidence that can guide diabetes treatment decisions and formulary policies for a high-risk population underrepresented in RCTs.",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-09-22",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-22",
         "fetched_from": "crossref"
       },
       {
@@ -45091,6 +46413,25 @@
         "fetched_from": "crossref"
       },
       {
+        "id": "doi:10.1093/bjsw/bcag206",
+        "doi": "10.1093/bjsw/bcag206",
+        "url": "https://doi.org/10.1093/bjsw/bcag206",
+        "title": "Mediated empowerment: Empowerment practices of social workers with refugee women in Germany",
+        "authors": [
+          "Chaitali Das"
+        ],
+        "abstract": "Abstract                   Empowerment is a central yet contested concept in social work. This is particularly true in high-control and surveillance contexts, such as social work with refugees. This article critically examines empowerment in social work practice with refugee women in Germany—a setting characterized by complex, bureaucratic asylum systems. Findings show that social workers mediate empowerment through their direct work with individuals aimed at providing basic needs and fostering self-efficacy through strengths-based relationship work. They also support group work and connect individuals to communities. Furthermore, social workers bridge gaps and enable access to services by translating clients’ needs into bureaucratic and legal language and seeking creative solutions within existing systems. Social workers also play a role in influencing bureaucratic processes and expanding the scope of possibilities. Findings highlight how social workers mediate empowerment through interventions that reduce barriers and address powerlessness at the individual, cultural, and structural levels. However, the extent to which these roles can be considered empowering remains contestable. The findings have implications for social work practice, policy, and education, emphasizing that, while ‘mediated intervention’ may offer a useful framework for extremely vulnerable and controlled groups such as refugee women, empowerment must be considered through a critical practice lens.",
+        "source": "The British Journal of Social Work",
+        "issn": "0045-3102",
+        "date": "2026-09-23",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-09-24",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1093/bjsw/bcag218",
         "doi": "10.1093/bjsw/bcag218",
         "url": "https://doi.org/10.1093/bjsw/bcag218",
@@ -46579,11 +47920,11 @@
     ]
   },
   "totals": {
-    "socialSecurity": 1527,
-    "elderCare": 188,
-    "healthReform": 365,
-    "agingHealth": 272,
-    "socialWork": 83
+    "socialSecurity": 1529,
+    "elderCare": 197,
+    "healthReform": 390,
+    "agingHealth": 287,
+    "socialWork": 84
   },
   "feeds_ok": 41
 }
