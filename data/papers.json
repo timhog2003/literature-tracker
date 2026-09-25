@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-24",
-  "fetched": "2026-09-24T06:23:07+00:00",
+  "date": "2026-09-25",
+  "fetched": "2026-09-25T06:17:49+00:00",
   "domains": {
     "socialSecurity": [
       {
@@ -23351,6 +23351,77 @@
     ],
     "elderCare": [
       {
+        "id": "doi:10.1186/s12877-026-08151-w",
+        "doi": "10.1186/s12877-026-08151-w",
+        "url": "https://doi.org/10.1186/s12877-026-08151-w",
+        "title": "Medication burden and high-risk drug exposure associated with fall-related complications in adults aged 85 years and older presenting to the emergency department: a retrospective observational study",
+        "authors": [
+          "Mariana Tapia-Paredes",
+          "Marisol Valdés-Escárcega",
+          "Aldo R. López-Rodríguez",
+          "Teresa Álvarez-Cisneros"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-25",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-25",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08359-w",
+        "doi": "10.1186/s12877-026-08359-w",
+        "url": "https://doi.org/10.1186/s12877-026-08359-w",
+        "title": "Life-course sociodemographic influences on mobility decline: a comparative qualitative study of older adults’ perspectives in Canada and Nigeria",
+        "authors": [
+          "Ogochukwu Kelechi Onyeso",
+          "Janice Victor",
+          "Kelechi Mirabel Onyeso",
+          "Blessing Ugochi Ojembe",
+          "Chiedozie James Alumona",
+          "Adesola C. Odole",
+          "Jon Doan",
+          "Oluwagbohunmi A. Awosoga"
+        ],
+        "abstract": "Abstract                                        Background                     Mobility is fundamental to healthy ageing and quality of life, as it enables older adults to continue participating in all spheres of life, including social, cultural, civic, spiritual, and economic activities. This study explored and compared the perspectives of Canadian and Nigerian older adults regarding life-course sociodemographic influences on mobility decline. The two distinct national contexts provided insight into mobility decline between high-income and low-resource settings shaped by unique cultural, economic, and policy environments.                                                           Methods                     We recruited eighteen Canadian and eighteen Nigerian community-dwelling older adults from diverse sociodemographic strata through community-based organisations. Using a qualitative description design, we interviewed the participants about their experiences with and observations about mobility decline. The transcripts were coded and analysed using conventional content analysis.                                                           Results                     Of the 36 participants aged 65 to 89 years, 47.2% were women, 66.7% had a spouse or partner, and 86.1% were middle-income earners. We categorised findings into four domains: demographic, socioeconomic, sociocultural, and socioenvironmental factors. Demographic factors such as older age, ageism, women’s gender roles, and singlehood or widowhood were perceived to influence mobility decline among older adults negatively. However, most Canadian participants perceived no gender-related influence, highlighting the cultural differences in perspectives between the two groups. Socioeconomic factors (education, occupation type, and income), sociocultural factors (traditional dietary patterns, religious practices, and social participation), and socioenvironmental factors (urban versus rural living conditions, housing, and climatic challenges) were also perceived to influence the mobility trajectories of older adults. Most Canadians perceived poorer mobility among rural dwellers, while Nigerians believed the converse. We also documented the recommendations that participants made for mitigating mobility decline, including their advocacy for supportive environments and policies that recognise the unique sociodemographic contexts of older adults.                                                           Conclusion                     Sociodemographic factors may disproportionately influence mobility decline. Policymakers can enhance equity in ageing experiences by implementing age-friendly community initiatives that support the mobility of older adults, especially in low-resource and rural areas.                                                           Clinical trial number                     Not applicable.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-25",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-25",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08354-1",
+        "doi": "10.1186/s12877-026-08354-1",
+        "url": "https://doi.org/10.1186/s12877-026-08354-1",
+        "title": "Experiences from a language development intervention in nursing homes from the perspective of first-line managers, language advocates and care staff: a qualitative study",
+        "authors": [
+          "Eriksson Elisabet",
+          "Cecilia Arving"
+        ],
+        "abstract": "Abstract                                        Background                     An increase in foreign-born workers in nursing homes (NHs) has challenged first-line managers to implement language initiatives for their staff. Evidence regarding foreign-born care workers’ experiences of language support initiatives is still scarce. Thus, the aim of the study was to explore and describe the experiences of a language development intervention “Talk about Work” from the perspective of first-line managers (FLMs), language advocates and participating care staff.                                                           Methods                     An explorative qualitative study using on-going evaluation methods following the intervention “Talk about Work.” The intervention consisted of eight workshops intended to strengthen language and professional competence within health and social care. Semi-structured focus-group interviews were conducted with FLMs (3), language advocates (5), and caring staff including language assistants (20) at NHs. Data were analyzed using qualitative content analysis to identify three main categories and seven subcategories.                                                           Results                     The educational material was suitable for caring staff, and FLMs found it beneficial also for future education plans. They could repeat topics, introduce new ones, and continue the intervention at different paces. Addressing Swedish language skills at work was perceived as sensitive, and the initiative made it easier to speak about language competences. Challenges for FLMs included finding staff with the right competences to lead the initiative. Language advocates asked for closer collaboration with FLMs.                                                           Conclusion                     The intervention “Talk about Work” was considered appropriate for and was well received by all participating groups in the study. Moreover, FLMs could use the material for continued language initiatives at NHs. To improve language and communication skills among caring staff in multi-cultural contexts, there is a need to find staff with the right competences to lead language development initiatives as well as to provide resources to implement them.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-25",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-25",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1186/s12877-026-08358-x",
         "doi": "10.1186/s12877-026-08358-x",
         "url": "https://doi.org/10.1186/s12877-026-08358-x",
@@ -23371,6 +23442,259 @@
           "agingHealth"
         ],
         "firstSeen": "2026-09-24",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/geront/gnag229",
+        "doi": "10.1093/geront/gnag229",
+        "url": "https://doi.org/10.1093/geront/gnag229",
+        "title": "Participatory Approaches with Older Adults in Technology and Innovation Research: A Scoping Review of Reviews",
+        "authors": [
+          "Ittay Mannheim",
+          "Anna Urbaniak",
+          "Eleanor Bantry White",
+          "Unmil Karadkar",
+          "Krzysztof Klincewicz",
+          "Alexander Bajwa Kucharski",
+          "Arlind Reuter",
+          "Rogério Tavares Ribeiro",
+          "Willeke van Staalduinen",
+          "P J White",
+          "Magdalena Zatorska"
+        ],
+        "abstract": "Abstract                   Compared to other age groups, older adults are often marginalized in the design processes of digital technologies leading to digital and social exclusion. While these aspects have been discussed in several reviews, an overarching perspective on how older adults are involved in Participatory Approaches (PA) in technology and innovation development is currently missing. This scoping review of reviews provides an overarching view on the narratives, trends, and gaps in PA in different fields of innovation, and proposes future research and practice directions. The study followed the Arksey &amp; O’Malley’s protocol for scoping reviews and the PRISMA-ScR checklist as the reporting guideline. Seven databases were screened for studies with a thematic focus on older adults, applying PA in technology and technology-related innovation, and published between 2014-2024. Twenty-two reviews were included. PA with older adults have seemingly evolved over the years with an increased focus on values equity, empowerment, power-sharing, and mutual learning. Nevertheless, deficit narratives on aging and ageism still constrain meaningful participation. A \"participation gap\" persists in which: terminology remains inconsistent; older adults are predominantly assigned roles of informants or testers rather than co-designers or equal partners; methods are mainly data-extractive; marginalized subgroups remain systematically underrepresented; and the technology scope remains predominantly care-centric. Identified gaps highlight the need for standardizing meaningful participation by creating a seal of quality for participatory approaches, improved reporting, and stronger inclusion of underrepresented populations and life domains of older persons.",
+        "source": "The Gerontologist",
+        "issn": "0016-9013",
+        "date": "2026-09-24",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-25",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/geront/gnag227",
+        "doi": "10.1093/geront/gnag227",
+        "url": "https://doi.org/10.1093/geront/gnag227",
+        "title": "<i>Harold and Maude</i>\n                    at 55: Revisiting a Classic Tale of Age and Intergenerational Connection",
+        "authors": [
+          "Rose Capp",
+          "Jim Vanden Bosch"
+        ],
+        "abstract": "",
+        "source": "The Gerontologist",
+        "issn": "0016-9013",
+        "date": "2026-09-24",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-25",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/geront/gnag228",
+        "doi": "10.1093/geront/gnag228",
+        "url": "https://doi.org/10.1093/geront/gnag228",
+        "title": "Impact of supervised physical exercise on inflammatory and oxidative stress biomarkers in older adults: a systematic review and meta-analysis of randomized controlled trials",
+        "authors": [
+          "Chenhui Chenhuichen",
+          "Yasmin Ezzatvar",
+          "Fabiola Zambom-Ferraresi",
+          "Carly Welch",
+          "Myriam Gorospe",
+          "Marta Montes Resano",
+          "Marta Gutiérrez-Valencia",
+          "Juan José Lasarte Sagastibelza",
+          "Thomas Jackson",
+          "Nicolás Martínez-Velilla"
+        ],
+        "abstract": "Abstract                                        Background and Objectives                     Physical exercise is widely recognized as an effective non-pharmacological intervention that improves not only functional capacity, but also cognition and quality of life in older adults. However, the molecular pathways through which it influences aging-related processes remain incompletely understood. This systematic review and meta-analysis aimed to synthesize current evidence on the effects of structured physical exercise intervention on molecular biomarkers associated with inflammation and oxidative stress in older adults.                                                           Research Design and Methods                     Randomized controlled trials which included participants ≥65 years old were identified through searches of PubMed, Scopus, Web of Science, CINAHL, and the Cochrane Library.                                                           Results                     A total of 50 reports (4,379 participants) were included in the qualitative synthesis, and 38 of them in the different meta-analyses performed. Exercise interventions ranged from 8 weeks to 12 months and included aerobic, resistance, and multicomponent training. Pooled analyses indicated modest but significant reductions in C-Reactive Protein (CRP) and high-sensitivity CRP, as well as increases in IL-10. Effects on other pro-inflammatory cytokines, including IL-6 and TNF-α, were inconsistent across studies. Evidence from a limited number of trials (n = 6) also suggested improvements in redox balance.                                                           Discussion and Implications                     Overall, structured physical exercise demonstrates a moderate immunomodulatory and antioxidant effect in older adults, although bias was moderate to high. PROSPERO registry: CRD420251006248.",
+        "source": "The Gerontologist",
+        "issn": "0016-9013",
+        "date": "2026-09-24",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-25",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70711",
+        "doi": "10.1111/jgs.70711",
+        "url": "https://doi.org/10.1111/jgs.70711",
+        "title": "Mapping the Landscape of\n                    <scp>AgeTech</scp>\n                    Standards and Guidelines: A Gray Literature Review",
+        "authors": [
+          "Shahabeddin Abhari",
+          "Tithi Joshi",
+          "Ruah Al‐Saghier",
+          "Gaya Bin Noon",
+          "Patricia Debergue",
+          "Heather McNeil",
+          "Josephine McMurray",
+          "Plinio Pelegrini Morita"
+        ],
+        "abstract": "ABSTRACT                                        Background                     AgeTech is increasingly promoted to support aging populations, yet it's safe, effective, and scalable adoption depends on clear standards and guidelines. Although previous research has examined AgeTech design in academic literature, the landscape of formal standards and guidelines has not been systematically mapped. This study aimed to identify and characterize standards and guidelines relevant to AgeTech through a structured gray literature review.                                                           Methods                     Searches were conducted on May 10, 2024, across the online catalogs and search platforms of the International Organization for Standardization (ISO), International Electrotechnical Commission, ASTM International, IEEE, and CSA Group; the websites of the World Health Organization, World Bank, and AGE‐WELL; and Google. No publication date restrictions were applied. In total, 3198 records were identified and screened using predefined eligibility criteria. Extracted data were analyzed using descriptive statistics and content analysis.                                                           Results                     Twenty‐two eligible standards and guidelines published between 2008 and 2024 were included. The largest number of documents was published in 2022 and 2024, with four documents in each year (18.2% each). Most documents were developed by the International Organization for Standardization (ISO; 55%, 12/22). The leading thematic goals were health and assistive technologies (54%, 12/22) and accessibility and usability (23%, 5/22), whereas safety, security, and privacy accounted for only 9% (2/22). Supportive homes and communities (32%, 7/22) and autonomy and independence (27%, 6/22) were the dominant AgeTech categories. Most documents focused on the general older adult population (73%, 16/22), with limited attention to specific subgroups.                                                           Conclusions                     Although AgeTech standardization is advancing, critical gaps remain. Limited attention to safety, security, privacy, and digital economy and community inclusion raises concerns for trust, equity, and sustainable adoption. Addressing these gaps through targeted and coordinated standardization efforts is essential to support inclusive, trustworthy, and scalable AgeTech solutions in the context of rapid global population aging.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-09-24",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-25",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70741",
+        "doi": "10.1111/jgs.70741",
+        "url": "https://doi.org/10.1111/jgs.70741",
+        "title": "Vitamin D and Risk of Falls: A Multidisciplinary Intervention",
+        "authors": [
+          "Susana M. S. Dias"
+        ],
+        "abstract": "",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-09-24",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-25",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70747",
+        "doi": "10.1111/jgs.70747",
+        "url": "https://doi.org/10.1111/jgs.70747",
+        "title": "Death and Dying in Visual Paintings From a Palliative Care Perspective",
+        "authors": [
+          "Manar Shalak"
+        ],
+        "abstract": "",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-09-24",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-25",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70736",
+        "doi": "10.1111/jgs.70736",
+        "url": "https://doi.org/10.1111/jgs.70736",
+        "title": "A Crosswalk of the\n                    <scp>IQCODE</scp>\n                    and\n                    <scp>AD8</scp>\n                    Proxy Dementia Screening Tools",
+        "authors": [
+          "Priyanka Shrestha",
+          "Erica K. Husser",
+          "Abigail Overstreet",
+          "Donna M. Fick",
+          "Shrunjal Trivedi",
+          "Emily A. Wolfson",
+          "Shannon Malloy",
+          "Yoojin Jung",
+          "Sharon K. Inouye",
+          "Edward R. Marcantonio",
+          "Long H. Ngo"
+        ],
+        "abstract": "ABSTRACT                                        Introduction                     Since many hospitalized older adults have delirium, assessment of baseline cognitive function often requires proxy‐based measures. While the 16‐item Informant Questionnaire on Cognitive Decline in Elderly (IQCODE) specifies cutoff scores for mild cognitive impairment (MCI) and dementia, the 8‐item Informant Interview to Differentiate Aging and Dementia (AD8) provides only a single cutoff for “cognitive impairment,” limiting its usefulness and precision. Our aim was to develop a crosswalk between the IQCODE and AD8 to identify cutoff scores on the AD8 for MCI and dementia.                                                           Methods                     The IQCODE and AD8 were administered to proxies of hospitalized older adults. We used two methods: equipercentile, which matches percentiles between IQCODE and AD8 score distributions, and item response theory (IRT), which matches estimated latent traits of the two measures, to create a crosswalk of equivalent scores and identify AD8 cutoff scores for MCI and dementia.                                                           Results                     A total of 264 hospitalized older adults (mean age 79.5 years, 55% women) and their proxies were recruited. Equipercentile and IRT methods yielded a crosswalk linking AD8 scores from 0 to 8 with IQCODE scores ranging from 1.0 to 5.0. An AD8 score of 2, corresponding to an IQCODE score of 3.2, was identified as the cutoff for MCI, while an AD8 score of 4, corresponding to an IQCODE score of 3.5, was identified as the cutoff for dementia.                                                           Discussion                     Our crosswalk equates AD8 and IQCODE scores and provides cutoff values for MCI and dementia for the AD8, enhancing its clinical utility in acute care. By establishing empirically derived thresholds, this study strengthens comparability across proxy‐based cognitive measures and expands the AD8's usefulness for distinguishing MCI from dementia. In acute settings, where delirium and time constraints limit direct testing, the AD8 offers a brief, reliable option for measuring baseline cognition and supporting early recognition of cognitive decline.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-09-24",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-25",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08360-3",
+        "doi": "10.1186/s12877-026-08360-3",
+        "url": "https://doi.org/10.1186/s12877-026-08360-3",
+        "title": "Joint functional-cognitive trajectories and hospitalization-associated within-person change in multimorbid older adults: a CHARLS and HRS analysis",
+        "authors": [
+          "Shuyang Zheng",
+          "Yanzhong Wang"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-24",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-25",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08356-z",
+        "doi": "10.1186/s12877-026-08356-z",
+        "url": "https://doi.org/10.1186/s12877-026-08356-z",
+        "title": "Local infiltration versus intramuscular esketamine for procedural pain and postoperative PHQ-9 scores in older adults undergoing percutaneous kyphoplasty: a randomised controlled trial",
+        "authors": [
+          "Longyuan Zhou",
+          "Lihong Hu",
+          "Xixi Jiang",
+          "Huanxiang Wang",
+          "Miao Sun",
+          "Kaiyun Xie",
+          "Lei Lv",
+          "Ruilan Wu",
+          "Wenbo Mang",
+          "Yong Qi"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-24",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-25",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08330-9",
+        "doi": "10.1186/s12877-026-08330-9",
+        "url": "https://doi.org/10.1186/s12877-026-08330-9",
+        "title": "Appropriateness prescriptions of direct oral anticoagulants in hospital in 2023 in the older population: a prospective observational multicenter study",
+        "authors": [
+          "Thomas Rodier",
+          "Agathe Gibert",
+          "Adrien Lepors",
+          "Christine Fernandez",
+          "Patrick Hindlet",
+          "Virginie Savoldelli",
+          "Camille Schwab"
+        ],
+        "abstract": "Abstract                                        Background                     Direct oral anticoagulants (DOACs) are increasingly prescribed, particularly in outpatient settings by general practitioners. In older patients with polypharmacy, inappropriate DOAC prescribing represents a major patient safety concern, potentially leading to therapeutic failure or preventable harm. To assess the quality and safety of DOAC prescriptions at hospital admission and discharge among older adults in 2023. Secondary objectives were to identify factors associated with inappropriate prescribing, characterize underlying prescribing errors, and compare these findings with data from 2018.                                                           Methods                     We conducted a prospective, observational, multicentre study across three French university hospitals, including departments of cardiology, internal medicine, post-emergency, and acute geriatrics. Older adults who were taking DOACs prior to admission and hospitalized for &gt;24 hours were consecutively enrolled between November 2022 and May 2023. Appropriateness was defined according to European Society of Cardiology (ESC) guidelines. Predictive factors were analyzed using logistic regression, and comparisons with 2018 data were made using χ² tests.                                                           Results                     Of 536 eligible patients (mean age 84.1± 8.5 years; 50.6% women), 421 were included in the primary analysis. Most received apixaban (70.1%) for atrial fibrillation (83.6%). Inappropriate prescriptions were identified in 32.0% on admission and 24.9% at discharge (p = 0.004). Age &gt;80 years (OR=1.80, CI95%= 1.20-2.72) and serum creatinine &gt;133 µmol/L (OR=1.84, CI95%= 1.13-2.98) were associated with admission inappropriateness; age &gt;80 years remained a discharge risk factor (OR=2.71, CI95%= 1.63-4.61), while weight &lt;60 kg was protective (OR=0.42, CI95%= 0.25-0.69). No significant changes were observed compared to 2018.                                                           Conclusions                     Inappropriate DOAC prescribing during hospital transitions remains common in older adults, driven by advanced age and impaired renal function. The absence of substantial improvement since 2018 suggests that further efforts to optimize DOAC prescribing are warranted. Future interventions, including pharmacist-led medication reviews and integrated prescribing tools, could be considered to improve DOAC prescribing appropriateness in older adults.                                                           Trial registration                     Clinical trial not applicable.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-24",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-25",
         "fetched_from": "crossref"
       },
       {
@@ -28605,6 +28929,282 @@
         "fetched_from": "crossref"
       },
       {
+        "id": "doi:10.1001/jama.2026.16940",
+        "doi": "10.1001/jama.2026.16940",
+        "url": "https://doi.org/10.1001/jama.2026.16940",
+        "title": "What Is Hodgkin Lymphoma?",
+        "authors": [
+          "Kristin L. Walter"
+        ],
+        "abstract": "This JAMA Patient Page describes the risk factors, symptoms, and diagnosis of Hodgkin lymphoma along with treatment details and prognosis.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-24",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-25",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.14805",
+        "doi": "10.1001/jama.2026.14805",
+        "url": "https://doi.org/10.1001/jama.2026.14805",
+        "title": "Cost-Effectiveness of Fecal Immunochemical Testing—Reply",
+        "authors": [
+          "Yi-Chia Lee",
+          "Amy Ming-Fang Yen",
+          "Tony Hsiu-Hsi Chen"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-24",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-25",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.14802",
+        "doi": "10.1001/jama.2026.14802",
+        "url": "https://doi.org/10.1001/jama.2026.14802",
+        "title": "Cost-Effectiveness of Fecal Immunochemical Testing",
+        "authors": [
+          "Tien Manh Huynh",
+          "Duc Trong Quach",
+          "Toru Hiyama"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-24",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-25",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2025.16082",
+        "doi": "10.1001/jama.2025.16082",
+        "url": "https://doi.org/10.1001/jama.2025.16082",
+        "title": "The Physician of The Future",
+        "authors": [],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-24",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-25",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.17268",
+        "doi": "10.1001/jama.2026.17268",
+        "url": "https://doi.org/10.1001/jama.2026.17268",
+        "title": "Polypharmacy and Drug-Drug Interactions Among Older Adults",
+        "authors": [
+          "Dima Mazen Qato",
+          "Jocelyn Wilder",
+          "Shyam Krishnan Ondanat Veetil",
+          "Qingrong (Jessica) Li",
+          "Rupshikha Sen",
+          "G. Caleb Alexander"
+        ],
+        "abstract": "This study uses a nationally representative sample to estimate changes in the use and concurrent use of prescription and over-the-counter (OTC) medications and dietary supplements among older adults in the US between 2015-2016 and 2021-2023, including use of potentially major drug-drug interactions.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-24",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-25",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.18267",
+        "doi": "10.1001/jama.2026.18267",
+        "url": "https://doi.org/10.1001/jama.2026.18267",
+        "title": "Months, Not Years",
+        "authors": [
+          "Timothy Ryan Kanne"
+        ],
+        "abstract": "In this narrative medicine essay, a newly graduated medical student about to start his orthopedic residency halted his training upon learning his cancer had returned and was inoperable.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-24",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-25",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.15949",
+        "doi": "10.1001/jama.2026.15949",
+        "url": "https://doi.org/10.1001/jama.2026.15949",
+        "title": "Beyond the AI Alarm",
+        "authors": [
+          "Yulin Hswen"
+        ],
+        "abstract": "JAMA+ AI Associate Editor Yulin Hswen, ScD, MPH, and Bon Ku, MD, MPP, program manager at the Advanced Research Projects Agency for Health (ARPA-H), discuss what it will take to design AI systems that meaningfully improve health for the                     JAMA+ AI Conversations                     podcast.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-24",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-25",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.19957",
+        "doi": "10.1001/jama.2026.19957",
+        "url": "https://doi.org/10.1001/jama.2026.19957",
+        "title": "Errors in Results, Figure 3, and Supplement 1",
+        "authors": [],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-24",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-25",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.19439",
+        "doi": "10.1001/jama.2026.19439",
+        "url": "https://doi.org/10.1001/jama.2026.19439",
+        "title": "Research in Small Packages—Research Letters at\n                    <i>JAMA</i>",
+        "authors": [
+          "Preeti N. Malani",
+          "Linda Brubaker",
+          "Gregory Curfman",
+          "Stacy L. Christiansen",
+          "Annette Flanagin",
+          "Tracy A. Lieu",
+          "David H. Mark",
+          "Christopher C. Muth",
+          "Joseph S. Ross",
+          "Kirsten Bibbins-Domingo"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-24",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-25",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.19315",
+        "doi": "10.1001/jama.2026.19315",
+        "url": "https://doi.org/10.1001/jama.2026.19315",
+        "title": "On Becoming a Gold Standard Scientist—The Importance of Pilot Clinical Trials",
+        "authors": [
+          "James A. Feinstein",
+          "Amy G. Huebschmann",
+          "Russell E. Glasgow",
+          "Lilia Cervantes"
+        ],
+        "abstract": "This Viewpoint discusses the recent National Institutes of Health announcement that its Career Development (K) awards cannot be used to conduct clinical trials, feasibility studies, or ancillary studies, which may negatively affect awardees’ ability to lead pilot clinical trials.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-24",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-25",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmsb2608211",
+        "doi": "10.1056/nejmsb2608211",
+        "url": "https://doi.org/10.1056/nejmsb2608211",
+        "title": "IARC Perspective on Lung Cancer Screening",
+        "authors": [
+          "Luciana Neamtiu",
+          "Matthew E.J. Callister",
+          "Philip Crosbie",
+          "Stephen Lam",
+          "Vivienne Milch",
+          "Daniela Mariosa",
+          "Xiaoshuang Feng",
+          "Roya Dolatkhah",
+          "Ali Saeed Al-Zahrani",
+          "Zhandos Amankulov",
+          "Jean-Luc Bulliard",
+          "Wendy A. Cooper",
+          "Luis Corrales",
+          "Paolo Giorgi Rossi",
+          "Rayjean J. Hung",
+          "Ella Kazerooni",
+          "Mengmeng Li",
+          "Peter Mazzone",
+          "Rafael Meza",
+          "Arn Migowski",
+          "Rachael L. Murray",
+          "Samantha L. Quaife",
+          "Robert C. Rintoul",
+          "Witold Rzyman",
+          "Wei Jie Seow",
+          "Abhishek Shankar",
+          "Mahdi Sheikh",
+          "Hilary A. Robbins",
+          "Mattias Johansson",
+          "Harry J. de Koning",
+          "Béatrice Lauby-Secretan"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-09-24",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-25",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/1468-0009.70118",
+        "doi": "10.1111/1468-0009.70118",
+        "url": "https://doi.org/10.1111/1468-0009.70118",
+        "title": "US Life Expectancy and Increasing Mortality Rates: An Analysis of the Crisis",
+        "authors": [
+          "STEVEN H. WOOLF"
+        ],
+        "abstract": "Policy Points                                                                                                                                         US life expectancy is shorter than in other high‐income countries and the gap has widened dramatically over time, driven in particular by rising mortality rates that threaten the probability that youth can survive to middle age, or even adulthood.                                                                                         Policy priorities to address this crisis include efforts to address the proximal causes of rising mortality, such as poor diet, drug overdoses, problem drinking, homicide, suicide, and chronic diseases such as cardiometabolic, neurologic and genitourinary diseases, among others.                                                                                         Meaningful progress in closing the gap with other high‐income countries must go beyond proximal causes to address structural factors that systematically compromise the health of Americans, such as deficiencies in the health care system, adverse socioeconomic conditions, threats from the physical and social environment, and public policies that do not prioritize the health and safety of the population or that perpetuate health inequities.                                                                                         At a time when political support for such policies is sharply divided in the United States, states are exerting greater power over policies that could improve—or worsen—population health.                                                                                         The challenge in the United States in solving the mortality crisis is not a lack of policy solutions but of political will to prioritize population health over competing interests.                                                                                                                                                                                        Context                     US life expectancy is shorter than in other high‐income countries, and the gap has widened over time. This article examines the mortality patterns that help explain the widening gap, considers the root causes that might be to blame, and discusses potential policy solutions.                                                           Methods                     Sources of mortality data included the United Nations Department of Economic and Social Affairs, US Mortality Database, Centers for Disease Control and Prevention, and Organisation for Economic Cooperation and Development. The analysis examined life expectancy and age‐specific mortality rates by country, cause‐specific US mortality rates from 1999 through 2023, and cause‐specific mortality rates in 16 high‐income countries for comparison. A literature review examined potential explanations for the US health disadvantage, including the growing role of states and partisan polarization. This was supplemented by an analysis of state‐level life expectancy and gubernatorial party affiliation for 1941–2022 and a comparison of state life expectancy in 2017–2021 with countries reporting similar life expectancy.                                                           Findings                     As of 2023, US life expectancy ranked 38th among countries with a population greater than 1 million, and the populations of 60 countries faced a lower risk of dying before age 40 than did Americans. Causes of death responsible for changes in all‐cause mortality varied by age group. Leading contributors among infants and children included sudden unexplained infant deaths and external causes (e.g., transport, homicide, suicide). Young adults (ages 25–44) experienced the largest relative increases in all‐cause mortality of any age group, including a 71.2% increase between 2010 and 2021, driven by deaths from external causes, notably drug overdoses, and early‐onset diseases (e.g., hypertensive disease, endocrine and metabolic disorders, alcoholic liver disease). Middle‐aged adults experienced increased mortality from similar causes (hypertensive diseases, endocrine and metabolic disorders, external causes), as well as higher death rates from nervous and genitourinary system diseases. Mortality from COVID‐19, which emerged in 2020 as the third leading causes of death among middle‐aged adults, almost doubled in 2021, despite the availability of vaccines. Older adults experienced increased mortality from neurologic diseases and endocrine and metabolic disorders and the highest mortality rates from COVID‐19. Since 2010, the gap in all‐cause mortality between the United States and 16 high‐income countries has been driven by higher death rates from circulatory diseases, external causes, nervous system diseases, respiratory diseases, and endocrine and metabolic disorders. Explanations for the US health disadvantage include proximal causes (e.g., opioid epidemic, access to firearms, the obesogenic food environment, affective disorders), as well as systemic factors such as deficiencies in the health care system, socioneconomic precarity, a lax regulatory environment, and structural racism. State‐level life expectancy and mortality rates have increased over time and appear associated with policy and increasingly partisan orientations.                                                           Conclusions                     The United States faces a mortality crisis that requires attention not only to specific causes of death but also systemic issues that compromise health. That better health outcomes are achievable is demonstrated by the growing list of high‐income and middle‐income countries that have achieved higher life expectancy than the United States. Policies that would close the gap, which have historically attracted weak political support in the United States and are now being actively opposed at the federal level, can be pursued by states and communities with greater commitments to improving population health.",
+        "source": "The Milbank Quarterly",
+        "issn": "0887-378X",
+        "date": "2026-09-23",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "socialSecurity"
+        ],
+        "firstSeen": "2026-09-24",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1001/jama.2026.16925",
         "doi": "10.1001/jama.2026.16925",
         "url": "https://doi.org/10.1001/jama.2026.16925",
@@ -28901,26 +29501,6 @@
         "subjects": [],
         "domains": [
           "healthReform"
-        ],
-        "firstSeen": "2026-09-24",
-        "fetched_from": "crossref"
-      },
-      {
-        "id": "doi:10.1111/1468-0009.70118",
-        "doi": "10.1111/1468-0009.70118",
-        "url": "https://doi.org/10.1111/1468-0009.70118",
-        "title": "US Life Expectancy and Increasing Mortality Rates: An Analysis of the Crisis",
-        "authors": [
-          "STEVEN H. WOOLF"
-        ],
-        "abstract": "Policy Points                                                                                                                                         US life expectancy is shorter than in other high‐income countries and the gap has widened dramatically over time, driven in particular by rising mortality rates that threaten the probability that youth can survive to middle age, or even adulthood.                                                                                         Policy priorities to address this crisis include efforts to address the proximal causes of rising mortality, such as poor diet, drug overdoses, problem drinking, homicide, suicide, and chronic diseases such as cardiometabolic, neurologic and genitourinary diseases, among others.                                                                                         Meaningful progress in closing the gap with other high‐income countries must go beyond proximal causes to address structural factors that systematically compromise the health of Americans, such as deficiencies in the health care system, adverse socioeconomic conditions, threats from the physical and social environment, and public policies that do not prioritize the health and safety of the population or that perpetuate health inequities.                                                                                         At a time when political support for such policies is sharply divided in the United States, states are exerting greater power over policies that could improve—or worsen—population health.                                                                                         The challenge in the United States in solving the mortality crisis is not a lack of policy solutions but of political will to prioritize population health over competing interests.                                                                                                                                                                                        Context                     US life expectancy is shorter than in other high‐income countries, and the gap has widened over time. This article examines the mortality patterns that help explain the widening gap, considers the root causes that might be to blame, and discusses potential policy solutions.                                                           Methods                     Sources of mortality data included the United Nations Department of Economic and Social Affairs, US Mortality Database, Centers for Disease Control and Prevention, and Organisation for Economic Cooperation and Development. The analysis examined life expectancy and age‐specific mortality rates by country, cause‐specific US mortality rates from 1999 through 2023, and cause‐specific mortality rates in 16 high‐income countries for comparison. A literature review examined potential explanations for the US health disadvantage, including the growing role of states and partisan polarization. This was supplemented by an analysis of state‐level life expectancy and gubernatorial party affiliation for 1941–2022 and a comparison of state life expectancy in 2017–2021 with countries reporting similar life expectancy.                                                           Findings                     As of 2023, US life expectancy ranked 38th among countries with a population greater than 1 million, and the populations of 60 countries faced a lower risk of dying before age 40 than did Americans. Causes of death responsible for changes in all‐cause mortality varied by age group. Leading contributors among infants and children included sudden unexplained infant deaths and external causes (e.g., transport, homicide, suicide). Young adults (ages 25–44) experienced the largest relative increases in all‐cause mortality of any age group, including a 71.2% increase between 2010 and 2021, driven by deaths from external causes, notably drug overdoses, and early‐onset diseases (e.g., hypertensive disease, endocrine and metabolic disorders, alcoholic liver disease). Middle‐aged adults experienced increased mortality from similar causes (hypertensive diseases, endocrine and metabolic disorders, external causes), as well as higher death rates from nervous and genitourinary system diseases. Mortality from COVID‐19, which emerged in 2020 as the third leading causes of death among middle‐aged adults, almost doubled in 2021, despite the availability of vaccines. Older adults experienced increased mortality from neurologic diseases and endocrine and metabolic disorders and the highest mortality rates from COVID‐19. Since 2010, the gap in all‐cause mortality between the United States and 16 high‐income countries has been driven by higher death rates from circulatory diseases, external causes, nervous system diseases, respiratory diseases, and endocrine and metabolic disorders. Explanations for the US health disadvantage include proximal causes (e.g., opioid epidemic, access to firearms, the obesogenic food environment, affective disorders), as well as systemic factors such as deficiencies in the health care system, socioneconomic precarity, a lax regulatory environment, and structural racism. State‐level life expectancy and mortality rates have increased over time and appear associated with policy and increasingly partisan orientations.                                                           Conclusions                     The United States faces a mortality crisis that requires attention not only to specific causes of death but also systemic issues that compromise health. That better health outcomes are achievable is demonstrated by the growing list of high‐income and middle‐income countries that have achieved higher life expectancy than the United States. Policies that would close the gap, which have historically attracted weak political support in the United States and are now being actively opposed at the federal level, can be pursued by states and communities with greater commitments to improving population health.",
-        "source": "The Milbank Quarterly",
-        "issn": "0887-378X",
-        "date": "2026-09-23",
-        "subjects": [],
-        "domains": [
-          "healthReform",
-          "socialSecurity"
         ],
         "firstSeen": "2026-09-24",
         "fetched_from": "crossref"
@@ -39320,6 +39900,77 @@
     ],
     "agingHealth": [
       {
+        "id": "doi:10.1186/s12877-026-08151-w",
+        "doi": "10.1186/s12877-026-08151-w",
+        "url": "https://doi.org/10.1186/s12877-026-08151-w",
+        "title": "Medication burden and high-risk drug exposure associated with fall-related complications in adults aged 85 years and older presenting to the emergency department: a retrospective observational study",
+        "authors": [
+          "Mariana Tapia-Paredes",
+          "Marisol Valdés-Escárcega",
+          "Aldo R. López-Rodríguez",
+          "Teresa Álvarez-Cisneros"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-25",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-25",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08359-w",
+        "doi": "10.1186/s12877-026-08359-w",
+        "url": "https://doi.org/10.1186/s12877-026-08359-w",
+        "title": "Life-course sociodemographic influences on mobility decline: a comparative qualitative study of older adults’ perspectives in Canada and Nigeria",
+        "authors": [
+          "Ogochukwu Kelechi Onyeso",
+          "Janice Victor",
+          "Kelechi Mirabel Onyeso",
+          "Blessing Ugochi Ojembe",
+          "Chiedozie James Alumona",
+          "Adesola C. Odole",
+          "Jon Doan",
+          "Oluwagbohunmi A. Awosoga"
+        ],
+        "abstract": "Abstract                                        Background                     Mobility is fundamental to healthy ageing and quality of life, as it enables older adults to continue participating in all spheres of life, including social, cultural, civic, spiritual, and economic activities. This study explored and compared the perspectives of Canadian and Nigerian older adults regarding life-course sociodemographic influences on mobility decline. The two distinct national contexts provided insight into mobility decline between high-income and low-resource settings shaped by unique cultural, economic, and policy environments.                                                           Methods                     We recruited eighteen Canadian and eighteen Nigerian community-dwelling older adults from diverse sociodemographic strata through community-based organisations. Using a qualitative description design, we interviewed the participants about their experiences with and observations about mobility decline. The transcripts were coded and analysed using conventional content analysis.                                                           Results                     Of the 36 participants aged 65 to 89 years, 47.2% were women, 66.7% had a spouse or partner, and 86.1% were middle-income earners. We categorised findings into four domains: demographic, socioeconomic, sociocultural, and socioenvironmental factors. Demographic factors such as older age, ageism, women’s gender roles, and singlehood or widowhood were perceived to influence mobility decline among older adults negatively. However, most Canadian participants perceived no gender-related influence, highlighting the cultural differences in perspectives between the two groups. Socioeconomic factors (education, occupation type, and income), sociocultural factors (traditional dietary patterns, religious practices, and social participation), and socioenvironmental factors (urban versus rural living conditions, housing, and climatic challenges) were also perceived to influence the mobility trajectories of older adults. Most Canadians perceived poorer mobility among rural dwellers, while Nigerians believed the converse. We also documented the recommendations that participants made for mitigating mobility decline, including their advocacy for supportive environments and policies that recognise the unique sociodemographic contexts of older adults.                                                           Conclusion                     Sociodemographic factors may disproportionately influence mobility decline. Policymakers can enhance equity in ageing experiences by implementing age-friendly community initiatives that support the mobility of older adults, especially in low-resource and rural areas.                                                           Clinical trial number                     Not applicable.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-25",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-25",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08354-1",
+        "doi": "10.1186/s12877-026-08354-1",
+        "url": "https://doi.org/10.1186/s12877-026-08354-1",
+        "title": "Experiences from a language development intervention in nursing homes from the perspective of first-line managers, language advocates and care staff: a qualitative study",
+        "authors": [
+          "Eriksson Elisabet",
+          "Cecilia Arving"
+        ],
+        "abstract": "Abstract                                        Background                     An increase in foreign-born workers in nursing homes (NHs) has challenged first-line managers to implement language initiatives for their staff. Evidence regarding foreign-born care workers’ experiences of language support initiatives is still scarce. Thus, the aim of the study was to explore and describe the experiences of a language development intervention “Talk about Work” from the perspective of first-line managers (FLMs), language advocates and participating care staff.                                                           Methods                     An explorative qualitative study using on-going evaluation methods following the intervention “Talk about Work.” The intervention consisted of eight workshops intended to strengthen language and professional competence within health and social care. Semi-structured focus-group interviews were conducted with FLMs (3), language advocates (5), and caring staff including language assistants (20) at NHs. Data were analyzed using qualitative content analysis to identify three main categories and seven subcategories.                                                           Results                     The educational material was suitable for caring staff, and FLMs found it beneficial also for future education plans. They could repeat topics, introduce new ones, and continue the intervention at different paces. Addressing Swedish language skills at work was perceived as sensitive, and the initiative made it easier to speak about language competences. Challenges for FLMs included finding staff with the right competences to lead the initiative. Language advocates asked for closer collaboration with FLMs.                                                           Conclusion                     The intervention “Talk about Work” was considered appropriate for and was well received by all participating groups in the study. Moreover, FLMs could use the material for continued language initiatives at NHs. To improve language and communication skills among caring staff in multi-cultural contexts, there is a need to find staff with the right competences to lead language development initiatives as well as to provide resources to implement them.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-25",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-25",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1186/s12877-026-08358-x",
         "doi": "10.1186/s12877-026-08358-x",
         "url": "https://doi.org/10.1186/s12877-026-08358-x",
@@ -39340,6 +39991,259 @@
           "agingHealth"
         ],
         "firstSeen": "2026-09-24",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/geront/gnag229",
+        "doi": "10.1093/geront/gnag229",
+        "url": "https://doi.org/10.1093/geront/gnag229",
+        "title": "Participatory Approaches with Older Adults in Technology and Innovation Research: A Scoping Review of Reviews",
+        "authors": [
+          "Ittay Mannheim",
+          "Anna Urbaniak",
+          "Eleanor Bantry White",
+          "Unmil Karadkar",
+          "Krzysztof Klincewicz",
+          "Alexander Bajwa Kucharski",
+          "Arlind Reuter",
+          "Rogério Tavares Ribeiro",
+          "Willeke van Staalduinen",
+          "P J White",
+          "Magdalena Zatorska"
+        ],
+        "abstract": "Abstract                   Compared to other age groups, older adults are often marginalized in the design processes of digital technologies leading to digital and social exclusion. While these aspects have been discussed in several reviews, an overarching perspective on how older adults are involved in Participatory Approaches (PA) in technology and innovation development is currently missing. This scoping review of reviews provides an overarching view on the narratives, trends, and gaps in PA in different fields of innovation, and proposes future research and practice directions. The study followed the Arksey &amp; O’Malley’s protocol for scoping reviews and the PRISMA-ScR checklist as the reporting guideline. Seven databases were screened for studies with a thematic focus on older adults, applying PA in technology and technology-related innovation, and published between 2014-2024. Twenty-two reviews were included. PA with older adults have seemingly evolved over the years with an increased focus on values equity, empowerment, power-sharing, and mutual learning. Nevertheless, deficit narratives on aging and ageism still constrain meaningful participation. A \"participation gap\" persists in which: terminology remains inconsistent; older adults are predominantly assigned roles of informants or testers rather than co-designers or equal partners; methods are mainly data-extractive; marginalized subgroups remain systematically underrepresented; and the technology scope remains predominantly care-centric. Identified gaps highlight the need for standardizing meaningful participation by creating a seal of quality for participatory approaches, improved reporting, and stronger inclusion of underrepresented populations and life domains of older persons.",
+        "source": "The Gerontologist",
+        "issn": "0016-9013",
+        "date": "2026-09-24",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-25",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/geront/gnag227",
+        "doi": "10.1093/geront/gnag227",
+        "url": "https://doi.org/10.1093/geront/gnag227",
+        "title": "<i>Harold and Maude</i>\n                    at 55: Revisiting a Classic Tale of Age and Intergenerational Connection",
+        "authors": [
+          "Rose Capp",
+          "Jim Vanden Bosch"
+        ],
+        "abstract": "",
+        "source": "The Gerontologist",
+        "issn": "0016-9013",
+        "date": "2026-09-24",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-25",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/geront/gnag228",
+        "doi": "10.1093/geront/gnag228",
+        "url": "https://doi.org/10.1093/geront/gnag228",
+        "title": "Impact of supervised physical exercise on inflammatory and oxidative stress biomarkers in older adults: a systematic review and meta-analysis of randomized controlled trials",
+        "authors": [
+          "Chenhui Chenhuichen",
+          "Yasmin Ezzatvar",
+          "Fabiola Zambom-Ferraresi",
+          "Carly Welch",
+          "Myriam Gorospe",
+          "Marta Montes Resano",
+          "Marta Gutiérrez-Valencia",
+          "Juan José Lasarte Sagastibelza",
+          "Thomas Jackson",
+          "Nicolás Martínez-Velilla"
+        ],
+        "abstract": "Abstract                                        Background and Objectives                     Physical exercise is widely recognized as an effective non-pharmacological intervention that improves not only functional capacity, but also cognition and quality of life in older adults. However, the molecular pathways through which it influences aging-related processes remain incompletely understood. This systematic review and meta-analysis aimed to synthesize current evidence on the effects of structured physical exercise intervention on molecular biomarkers associated with inflammation and oxidative stress in older adults.                                                           Research Design and Methods                     Randomized controlled trials which included participants ≥65 years old were identified through searches of PubMed, Scopus, Web of Science, CINAHL, and the Cochrane Library.                                                           Results                     A total of 50 reports (4,379 participants) were included in the qualitative synthesis, and 38 of them in the different meta-analyses performed. Exercise interventions ranged from 8 weeks to 12 months and included aerobic, resistance, and multicomponent training. Pooled analyses indicated modest but significant reductions in C-Reactive Protein (CRP) and high-sensitivity CRP, as well as increases in IL-10. Effects on other pro-inflammatory cytokines, including IL-6 and TNF-α, were inconsistent across studies. Evidence from a limited number of trials (n = 6) also suggested improvements in redox balance.                                                           Discussion and Implications                     Overall, structured physical exercise demonstrates a moderate immunomodulatory and antioxidant effect in older adults, although bias was moderate to high. PROSPERO registry: CRD420251006248.",
+        "source": "The Gerontologist",
+        "issn": "0016-9013",
+        "date": "2026-09-24",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-25",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70711",
+        "doi": "10.1111/jgs.70711",
+        "url": "https://doi.org/10.1111/jgs.70711",
+        "title": "Mapping the Landscape of\n                    <scp>AgeTech</scp>\n                    Standards and Guidelines: A Gray Literature Review",
+        "authors": [
+          "Shahabeddin Abhari",
+          "Tithi Joshi",
+          "Ruah Al‐Saghier",
+          "Gaya Bin Noon",
+          "Patricia Debergue",
+          "Heather McNeil",
+          "Josephine McMurray",
+          "Plinio Pelegrini Morita"
+        ],
+        "abstract": "ABSTRACT                                        Background                     AgeTech is increasingly promoted to support aging populations, yet it's safe, effective, and scalable adoption depends on clear standards and guidelines. Although previous research has examined AgeTech design in academic literature, the landscape of formal standards and guidelines has not been systematically mapped. This study aimed to identify and characterize standards and guidelines relevant to AgeTech through a structured gray literature review.                                                           Methods                     Searches were conducted on May 10, 2024, across the online catalogs and search platforms of the International Organization for Standardization (ISO), International Electrotechnical Commission, ASTM International, IEEE, and CSA Group; the websites of the World Health Organization, World Bank, and AGE‐WELL; and Google. No publication date restrictions were applied. In total, 3198 records were identified and screened using predefined eligibility criteria. Extracted data were analyzed using descriptive statistics and content analysis.                                                           Results                     Twenty‐two eligible standards and guidelines published between 2008 and 2024 were included. The largest number of documents was published in 2022 and 2024, with four documents in each year (18.2% each). Most documents were developed by the International Organization for Standardization (ISO; 55%, 12/22). The leading thematic goals were health and assistive technologies (54%, 12/22) and accessibility and usability (23%, 5/22), whereas safety, security, and privacy accounted for only 9% (2/22). Supportive homes and communities (32%, 7/22) and autonomy and independence (27%, 6/22) were the dominant AgeTech categories. Most documents focused on the general older adult population (73%, 16/22), with limited attention to specific subgroups.                                                           Conclusions                     Although AgeTech standardization is advancing, critical gaps remain. Limited attention to safety, security, privacy, and digital economy and community inclusion raises concerns for trust, equity, and sustainable adoption. Addressing these gaps through targeted and coordinated standardization efforts is essential to support inclusive, trustworthy, and scalable AgeTech solutions in the context of rapid global population aging.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-09-24",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-25",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70741",
+        "doi": "10.1111/jgs.70741",
+        "url": "https://doi.org/10.1111/jgs.70741",
+        "title": "Vitamin D and Risk of Falls: A Multidisciplinary Intervention",
+        "authors": [
+          "Susana M. S. Dias"
+        ],
+        "abstract": "",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-09-24",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-25",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70747",
+        "doi": "10.1111/jgs.70747",
+        "url": "https://doi.org/10.1111/jgs.70747",
+        "title": "Death and Dying in Visual Paintings From a Palliative Care Perspective",
+        "authors": [
+          "Manar Shalak"
+        ],
+        "abstract": "",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-09-24",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-25",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70736",
+        "doi": "10.1111/jgs.70736",
+        "url": "https://doi.org/10.1111/jgs.70736",
+        "title": "A Crosswalk of the\n                    <scp>IQCODE</scp>\n                    and\n                    <scp>AD8</scp>\n                    Proxy Dementia Screening Tools",
+        "authors": [
+          "Priyanka Shrestha",
+          "Erica K. Husser",
+          "Abigail Overstreet",
+          "Donna M. Fick",
+          "Shrunjal Trivedi",
+          "Emily A. Wolfson",
+          "Shannon Malloy",
+          "Yoojin Jung",
+          "Sharon K. Inouye",
+          "Edward R. Marcantonio",
+          "Long H. Ngo"
+        ],
+        "abstract": "ABSTRACT                                        Introduction                     Since many hospitalized older adults have delirium, assessment of baseline cognitive function often requires proxy‐based measures. While the 16‐item Informant Questionnaire on Cognitive Decline in Elderly (IQCODE) specifies cutoff scores for mild cognitive impairment (MCI) and dementia, the 8‐item Informant Interview to Differentiate Aging and Dementia (AD8) provides only a single cutoff for “cognitive impairment,” limiting its usefulness and precision. Our aim was to develop a crosswalk between the IQCODE and AD8 to identify cutoff scores on the AD8 for MCI and dementia.                                                           Methods                     The IQCODE and AD8 were administered to proxies of hospitalized older adults. We used two methods: equipercentile, which matches percentiles between IQCODE and AD8 score distributions, and item response theory (IRT), which matches estimated latent traits of the two measures, to create a crosswalk of equivalent scores and identify AD8 cutoff scores for MCI and dementia.                                                           Results                     A total of 264 hospitalized older adults (mean age 79.5 years, 55% women) and their proxies were recruited. Equipercentile and IRT methods yielded a crosswalk linking AD8 scores from 0 to 8 with IQCODE scores ranging from 1.0 to 5.0. An AD8 score of 2, corresponding to an IQCODE score of 3.2, was identified as the cutoff for MCI, while an AD8 score of 4, corresponding to an IQCODE score of 3.5, was identified as the cutoff for dementia.                                                           Discussion                     Our crosswalk equates AD8 and IQCODE scores and provides cutoff values for MCI and dementia for the AD8, enhancing its clinical utility in acute care. By establishing empirically derived thresholds, this study strengthens comparability across proxy‐based cognitive measures and expands the AD8's usefulness for distinguishing MCI from dementia. In acute settings, where delirium and time constraints limit direct testing, the AD8 offers a brief, reliable option for measuring baseline cognition and supporting early recognition of cognitive decline.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-09-24",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-25",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08360-3",
+        "doi": "10.1186/s12877-026-08360-3",
+        "url": "https://doi.org/10.1186/s12877-026-08360-3",
+        "title": "Joint functional-cognitive trajectories and hospitalization-associated within-person change in multimorbid older adults: a CHARLS and HRS analysis",
+        "authors": [
+          "Shuyang Zheng",
+          "Yanzhong Wang"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-24",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-25",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08356-z",
+        "doi": "10.1186/s12877-026-08356-z",
+        "url": "https://doi.org/10.1186/s12877-026-08356-z",
+        "title": "Local infiltration versus intramuscular esketamine for procedural pain and postoperative PHQ-9 scores in older adults undergoing percutaneous kyphoplasty: a randomised controlled trial",
+        "authors": [
+          "Longyuan Zhou",
+          "Lihong Hu",
+          "Xixi Jiang",
+          "Huanxiang Wang",
+          "Miao Sun",
+          "Kaiyun Xie",
+          "Lei Lv",
+          "Ruilan Wu",
+          "Wenbo Mang",
+          "Yong Qi"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-24",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-25",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08330-9",
+        "doi": "10.1186/s12877-026-08330-9",
+        "url": "https://doi.org/10.1186/s12877-026-08330-9",
+        "title": "Appropriateness prescriptions of direct oral anticoagulants in hospital in 2023 in the older population: a prospective observational multicenter study",
+        "authors": [
+          "Thomas Rodier",
+          "Agathe Gibert",
+          "Adrien Lepors",
+          "Christine Fernandez",
+          "Patrick Hindlet",
+          "Virginie Savoldelli",
+          "Camille Schwab"
+        ],
+        "abstract": "Abstract                                        Background                     Direct oral anticoagulants (DOACs) are increasingly prescribed, particularly in outpatient settings by general practitioners. In older patients with polypharmacy, inappropriate DOAC prescribing represents a major patient safety concern, potentially leading to therapeutic failure or preventable harm. To assess the quality and safety of DOAC prescriptions at hospital admission and discharge among older adults in 2023. Secondary objectives were to identify factors associated with inappropriate prescribing, characterize underlying prescribing errors, and compare these findings with data from 2018.                                                           Methods                     We conducted a prospective, observational, multicentre study across three French university hospitals, including departments of cardiology, internal medicine, post-emergency, and acute geriatrics. Older adults who were taking DOACs prior to admission and hospitalized for &gt;24 hours were consecutively enrolled between November 2022 and May 2023. Appropriateness was defined according to European Society of Cardiology (ESC) guidelines. Predictive factors were analyzed using logistic regression, and comparisons with 2018 data were made using χ² tests.                                                           Results                     Of 536 eligible patients (mean age 84.1± 8.5 years; 50.6% women), 421 were included in the primary analysis. Most received apixaban (70.1%) for atrial fibrillation (83.6%). Inappropriate prescriptions were identified in 32.0% on admission and 24.9% at discharge (p = 0.004). Age &gt;80 years (OR=1.80, CI95%= 1.20-2.72) and serum creatinine &gt;133 µmol/L (OR=1.84, CI95%= 1.13-2.98) were associated with admission inappropriateness; age &gt;80 years remained a discharge risk factor (OR=2.71, CI95%= 1.63-4.61), while weight &lt;60 kg was protective (OR=0.42, CI95%= 0.25-0.69). No significant changes were observed compared to 2018.                                                           Conclusions                     Inappropriate DOAC prescribing during hospital transitions remains common in older adults, driven by advanced age and impaired renal function. The absence of substantial improvement since 2018 suggests that further efforts to optimize DOAC prescribing are warranted. Future interventions, including pharmacist-led medication reviews and integrated prescribing tools, could be considered to improve DOAC prescribing appropriateness in older adults.                                                           Trial registration                     Clinical trial not applicable.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-24",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-25",
         "fetched_from": "crossref"
       },
       {
@@ -46413,6 +47317,67 @@
         "fetched_from": "crossref"
       },
       {
+        "id": "doi:10.1007/s10896-026-01187-x",
+        "doi": "10.1007/s10896-026-01187-x",
+        "url": "https://doi.org/10.1007/s10896-026-01187-x",
+        "title": "Providers’ perspectives on the ‘best practices’ for employing medical-legal partnerships for women with co-occurring intimate partner violence and opioid use disorder",
+        "authors": [
+          "Penelope K. Morrison",
+          "Katherine McLean",
+          "Elizabeth Schachte"
+        ],
+        "abstract": "Abstract                                        Purpose                     Co-occurring intimate partner violence and opioid use disorder (co-IPV/OUD) is an understudied public health issue which presents significant barriers to care for victims. Providers recognize that the complexities of these conditions require a more holistic, integrated approach to treatment; yet, devising co-located or coordinated care presents its own set of challenges. One potential pathway for improving care for women experiencing co-IPV/OUD is through medical-legal partnerships (MLPs), which have been shown to be an effective upstream intervention for addressing barriers to care.                                                           Method                     As part of a larger study on the barriers and facilitators for caring for women with co-IPV/OUD, we interviewed 40 individuals working across service domains (e.g., healthcare, criminal justice) to understand their perspectives on the best practices for employing an MLP in settings which serve this population.                                                           Results                     Participants discussed at length the “partners” who would need to be included in a medical-legal partnership for this population, including the need to have case managers and peer support involved. Participants identified other “practices” that needed to be considered when implementing a MLP for these women, including necessary training, considerations on where to house the partnership, and to a lesser extent how to refer patients into the partnership.                                                           Conclusions                     This study helps bridge two traditionally siloed literatures: research on MLPs and research on co-occurring IPV and substance use. In doing so, it offers a novel conceptual framework for considering how legal, clinical, and community-based supports can be integrated to better serve women with complex, intersecting needs.",
+        "source": "Journal of Family Violence",
+        "issn": "0885-7482",
+        "date": "2026-09-25",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-09-25",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/10497315261490830",
+        "doi": "10.1177/10497315261490830",
+        "url": "https://doi.org/10.1177/10497315261490830",
+        "title": "Online Psychoeducational Group Based on Choice Theory: Effects on University Adjustment",
+        "authors": [
+          "Hüseyin Zahid Kara",
+          "Melahat Demirbilek"
+        ],
+        "abstract": "Purpose                     This study examined the effects of a choice theory-based online psychoeducational group intervention incorporating reality therapy techniques on university students’ adjustment to university life.                                                           Method                                            A quasi-experimental pretest, posttest, six-week follow-up, and control-group design with matched-pair allocation was used. From 138 undergraduate applicants, 32 students with low adjustment scores were allocated to experimental and control groups (                       n                        = 16 each). The experimental group completed 10 weekly online sessions; the control group received no intervention.                                                                                Results                     Significant Time × Group interactions emerged for overall, personal, and academic adjustment. Improvements in overall and personal adjustment were maintained at follow-up, whereas the academic-adjustment gain was not sustained. Social adjustment increased in the experimental group, although this finding requires caution because of baseline differences and a control-group decline. Participants reported high satisfaction.                                                           Discussion                     Findings provide preliminary support for online psychoeducational group work as a preventive and developmental component of university social work services.",
+        "source": "Research on Social Work Practice",
+        "issn": "1049-7315",
+        "date": "2026-09-24",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-09-25",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/bjsw/bcag209",
+        "doi": "10.1093/bjsw/bcag209",
+        "url": "https://doi.org/10.1093/bjsw/bcag209",
+        "title": "Chronic ethical dissonance as a site of clandestine decolonization: Practices of resistance among Arab social workers in Israel",
+        "authors": [
+          "Ibrahim Mahajne",
+          "Nuzha Allassad Alhuzail"
+        ],
+        "abstract": "Abstract                   This critical-qualitative study examines the phenomenon of “chronic ethical dissonance” among Arab social workers in Israel, who operate within bureaucratic welfare institutions, embedded in a colonial reality. The research identifies an inherent ethical dissonance that germinates due to the social workers’ encounter with the institutional sphere and analyses how this discord is transmuted into practices of “clandestine decolonization” within a dissident “Third Space.” Supported by an integration of internal colonialism, decolonization, and “Third Space” theories, the research draws on semi-structured in-depth interviews with twenty-seven social workers from a diverse range of public social services. The findings describe a professional reality oscillating between restriction by structural oppression and creative resistance. Analysis identified four central themes that interlink power structures (systemic microaggressions), internal experience (the moral price), and action (dual resistance): systemic microaggressions, the moral price of identity fragmentation, creative non-compliance, and cultural brokering as a reclamation of knowledge sovereignty. The conclusions indicate the need for a critical decolonial pedagogy in societies where a hegemonic majority governs a dispossessed population.",
+        "source": "The British Journal of Social Work",
+        "issn": "0045-3102",
+        "date": "2026-09-24",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-09-25",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1093/bjsw/bcag206",
         "doi": "10.1093/bjsw/bcag206",
         "url": "https://doi.org/10.1093/bjsw/bcag206",
@@ -47921,10 +48886,10 @@
   },
   "totals": {
     "socialSecurity": 1529,
-    "elderCare": 197,
-    "healthReform": 390,
-    "agingHealth": 287,
-    "socialWork": 84
+    "elderCare": 210,
+    "healthReform": 401,
+    "agingHealth": 300,
+    "socialWork": 87
   },
   "feeds_ok": 41
 }
