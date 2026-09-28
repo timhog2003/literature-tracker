@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-27",
-  "fetched": "2026-09-27T06:46:31+00:00",
+  "date": "2026-09-28",
+  "fetched": "2026-09-28T07:11:27+00:00",
   "domains": {
     "socialSecurity": [
       {
@@ -23371,6 +23371,136 @@
     ],
     "elderCare": [
       {
+        "id": "doi:10.1186/s12877-026-08287-9",
+        "doi": "10.1186/s12877-026-08287-9",
+        "url": "https://doi.org/10.1186/s12877-026-08287-9",
+        "title": "The impact of population aging on household carbon emissions and its heterogeneity: evidence from CGSS 2018 data in China",
+        "authors": [
+          "Xianhong Qin",
+          "Chenxi Sun"
+        ],
+        "abstract": "Abstract                                        Background                     Against the backdrop of the “Dual Carbon” goals and accelerated population aging, changes in household demographic structure may influence household carbon emissions; however, existing research has not fully examined these effects and their heterogeneity at the micro household level. This study aims to investigate the impact of population aging on household carbon emissions and its heterogeneity based on Chinese household microdata.                                                           Methods                     Using data from the 2018 China General Social Survey (CGSS), this study employed the STIRPAT model and OLS regression. It characterizes population aging from three dimensions—“whether there are elderly members”, “proportion of elderly members”, and “average age of elderly members”—to examine its impact on total household carbon emissions, direct carbon emissions, and indirect carbon emissions, and further analyzes the heterogeneity of urban-rural, regional, climate conditions, as well as the mediating effect of household expenditure.                                                           Results                     This study found a significant negative correlation between population aging and household carbon emissions, with the “structural effect” being stronger than the “age effect”. Households with elderly members have significantly reduced carbon emissions, and the higher the proportion of elderly members, the more significant the reduction in household carbon emissions. The impact of population aging on indirect carbon emissions is stronger than that on direct carbon emissions, indicating that it mainly exerts its effect by reducing expenditure and adjusting consumption structure. Heterogeneity analysis shows that the reduction in household carbon emissions caused by population aging is more pronounced in rural, central, and northern China.                                                           Conclusion                     Population aging has reduced household carbon emissions, which is of significant value for low-carbon governance. Policymakers should incorporate population aging into the household emission reduction framework and consider urban-rural and regional differences to promote differentiated low-carbon policy design.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-28",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-28",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08321-w",
+        "doi": "10.1186/s12877-026-08321-w",
+        "url": "https://doi.org/10.1186/s12877-026-08321-w",
+        "title": "The role of external fixation in the management of ischial tuberosity pressure ulcers in elderly patients: a two-center clinical study",
+        "authors": [
+          "Yuan-Qiang Zhu",
+          "Shu-Fang Duan",
+          "Hang Xia",
+          "Le Qiu",
+          "Zhi Chen",
+          "Ya-Ling Lu",
+          "Shi-Ji Li",
+          "Xu-Lin Chen"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-28",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-28",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08349-y",
+        "doi": "10.1186/s12877-026-08349-y",
+        "url": "https://doi.org/10.1186/s12877-026-08349-y",
+        "title": "Interpretable machine learning analysis of multidimensional biomarkers associated with osteoporosis in postmenopausal women with metabolic syndrome",
+        "authors": [
+          "Yang Guo",
+          "Kok-Yong Chin",
+          "Guofeng Ou",
+          "Chen Yong",
+          "Jun Zhao"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-28",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-28",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08345-2",
+        "doi": "10.1186/s12877-026-08345-2",
+        "url": "https://doi.org/10.1186/s12877-026-08345-2",
+        "title": "Prevalence of and factors associated with heat-related illness in a super-aged society: a cross-sectional study of older adults in suburban Tokyo, Japan",
+        "authors": [
+          "Tomoko Ogusu",
+          "Makiko Sekiyama",
+          "Yuki Hashimoto",
+          "Ryoko Ihara",
+          "Tomohiko Ihara"
+        ],
+        "abstract": "Abstract                                        Background                     The convergence of increasing extreme heat events due to climate change and rapid population aging poses a critical public health challenge. While previous studies have identified risk factors for heat-related health outcomes, most have been conducted in Western countries and have relied on indicators that require resource-intensive surveys. This study aims to identify factors associated with heat-related illness among the elderly in Japan using practical, policy-relevant indicators.                                                           Methods                                            A cross-sectional study using a self-administered questionnaire was conducted in a suburban area of Tokyo, Japan, from September to November 2017. Elderly residents were recruited from two distinct populations: a large public housing complex and a socially active community club. The primary outcome was the self-reported history of heat-related illness within five years, defined as episodes requiring ambulance transport or hospital visits. Univariate and multivariable logistic regression analyses were performed to identify associated factors (Significance level:                       p                        &lt; 0.10).                                                                                Results                                            Of the 743 participants included in the analysis (mean age: 73.01, SD: 10.23), 31 (4.17%, 95% CI: 2.86%–5.87%) reported having experienced heat-related illness. In the univariate analysis (                       p                        &lt; 0.10), heat-related illness was associated with long-term care certification (Crude OR 2.64, 90% CI 1.13–5.56), suspected dementia (Crude OR 8.24, 90% CI 2.33–24.14), and living alone (Crude OR 2.10, 90% CI 1.11–4.05). AC ownership was inversely associated with heat-related illness (Crude OR 0.30, 90% CI 0.13–0.84). In the multivariable analysis (                       N                        = 583), factors that remained associated with heat-related illness (                       p                        &lt; 0.10) were advanced age (75 or above; Adjusted OR 2.49, 90% CI 1.09–5.94), living alone (Adjusted OR 2.38, 90% CI 1.03–5.69), and AC ownership (Adjusted OR 0.13, 90% CI 0.01–0.83).                                                                                Conclusions                     Advanced age and living alone were strongly associated with heat-related illness, while air conditioning ownership was inversely associated. Utilizing easily accessible administrative data—such as age, household composition, and long-term care status—is a feasible strategy to identify vulnerable older adults and target proactive interventions in super-aged societies.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-28",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-28",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70737",
+        "doi": "10.1111/jgs.70737",
+        "url": "https://doi.org/10.1111/jgs.70737",
+        "title": "Local Adaptations of Hospital in Home: Variations in Structure and Implementation Across Six\n                    <scp>VA</scp>\n                    Programs",
+        "authors": [
+          "Akanksha Samant",
+          "Sungjae Park",
+          "Emily Franzosa",
+          "Orna Intrator",
+          "Jennifer L. Sullivan",
+          "D'Arcy",
+          "Porooshat Dadgostar",
+          "Reza Yousefi Nooraie",
+          "Shivani Jindal",
+          "Dayna Cooper",
+          "Jessica Barth",
+          "Kimberly Judon",
+          "Marlena H. Shin",
+          "Matthew Augustine",
+          "William Hung"
+        ],
+        "abstract": "ABSTRACT                                        Background                     The VA Hospital in Home (HIH) model of care delivers acute‐level hospital care to Veterans at home across the country. We aim to examine the similarities and differences in the structure and implementation of existing HIH programs across sites to identify best practices that optimize resources, ensure high‐quality care, and enhance sustainability and scalability of the program.                                                           Methods                     A total of 6 out of 11 existing VA HIH programs reported on their program through structured presentations at Community‐of‐Practice meetings in 2022. Additional site‐level characteristics were retrieved from the VA Corporate Data Warehouse to describe context at each program and to identify HIH encounters, types of stays, and numbers of HIH patients for each site.                                                           Results                     All sites offered transfer (from hospital‐based inpatient service) and substitutive (from other than inpatient) HIH stays, though the proportion of patients for each varied (transfer patients ranging from 6% to 85%). Referral sources for substitutive stays varied across sites including Home‐Based Primary Care (HBPC) (67%), outpatient primary care (83%), specialty care clinics (67%), and emergency departments (83%). Each program had interdisciplinary teams, though composition and staff size varied (4–7 full‐time equivalent [FTE] RNs; 1.0–2.0 FTE physicians). Programs varied in the number of unique patients served per program (63–146 unique HIH Veterans annually). Programs reported similar procedures in clinical evaluation, informed consent, and maintaining 24/7 access to the HIH team. Outcome metrics tracked include readmission (67%), cost avoidance (50%), and length of stay (50%). Additionally, 50% of sites reported integrating ancillary services and introducing program adaptations during the COVID‐19 pandemic period such as virtual follow‐up visits.                                                           Conclusion                     Our study identified similarities and differences across the existing HIH programs, adapting to local contexts while maintaining quality of care. These characteristics may reflect differences in population and site characteristics, patient needs, and program goals.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-09-27",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-28",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1186/s12877-026-08282-0",
         "doi": "10.1186/s12877-026-08282-0",
         "url": "https://doi.org/10.1186/s12877-026-08282-0",
@@ -29067,6 +29197,24 @@
           "healthReform"
         ],
         "firstSeen": "2026-09-26",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag207",
+        "doi": "10.1093/aje/kwag207",
+        "url": "https://doi.org/10.1093/aje/kwag207",
+        "title": "Correction to : Impact of quitline services on tobacco cessation: an application of modern epidemiologic methods",
+        "authors": [],
+        "abstract": "",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-09-28",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-28",
         "fetched_from": "crossref"
       },
       {
@@ -40837,6 +40985,154 @@
         "fetched_from": "crossref"
       },
       {
+        "id": "doi:10.1186/s12877-026-08287-9",
+        "doi": "10.1186/s12877-026-08287-9",
+        "url": "https://doi.org/10.1186/s12877-026-08287-9",
+        "title": "The impact of population aging on household carbon emissions and its heterogeneity: evidence from CGSS 2018 data in China",
+        "authors": [
+          "Xianhong Qin",
+          "Chenxi Sun"
+        ],
+        "abstract": "Abstract                                        Background                     Against the backdrop of the “Dual Carbon” goals and accelerated population aging, changes in household demographic structure may influence household carbon emissions; however, existing research has not fully examined these effects and their heterogeneity at the micro household level. This study aims to investigate the impact of population aging on household carbon emissions and its heterogeneity based on Chinese household microdata.                                                           Methods                     Using data from the 2018 China General Social Survey (CGSS), this study employed the STIRPAT model and OLS regression. It characterizes population aging from three dimensions—“whether there are elderly members”, “proportion of elderly members”, and “average age of elderly members”—to examine its impact on total household carbon emissions, direct carbon emissions, and indirect carbon emissions, and further analyzes the heterogeneity of urban-rural, regional, climate conditions, as well as the mediating effect of household expenditure.                                                           Results                     This study found a significant negative correlation between population aging and household carbon emissions, with the “structural effect” being stronger than the “age effect”. Households with elderly members have significantly reduced carbon emissions, and the higher the proportion of elderly members, the more significant the reduction in household carbon emissions. The impact of population aging on indirect carbon emissions is stronger than that on direct carbon emissions, indicating that it mainly exerts its effect by reducing expenditure and adjusting consumption structure. Heterogeneity analysis shows that the reduction in household carbon emissions caused by population aging is more pronounced in rural, central, and northern China.                                                           Conclusion                     Population aging has reduced household carbon emissions, which is of significant value for low-carbon governance. Policymakers should incorporate population aging into the household emission reduction framework and consider urban-rural and regional differences to promote differentiated low-carbon policy design.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-28",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-28",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08321-w",
+        "doi": "10.1186/s12877-026-08321-w",
+        "url": "https://doi.org/10.1186/s12877-026-08321-w",
+        "title": "The role of external fixation in the management of ischial tuberosity pressure ulcers in elderly patients: a two-center clinical study",
+        "authors": [
+          "Yuan-Qiang Zhu",
+          "Shu-Fang Duan",
+          "Hang Xia",
+          "Le Qiu",
+          "Zhi Chen",
+          "Ya-Ling Lu",
+          "Shi-Ji Li",
+          "Xu-Lin Chen"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-28",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-28",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08349-y",
+        "doi": "10.1186/s12877-026-08349-y",
+        "url": "https://doi.org/10.1186/s12877-026-08349-y",
+        "title": "Interpretable machine learning analysis of multidimensional biomarkers associated with osteoporosis in postmenopausal women with metabolic syndrome",
+        "authors": [
+          "Yang Guo",
+          "Kok-Yong Chin",
+          "Guofeng Ou",
+          "Chen Yong",
+          "Jun Zhao"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-28",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-28",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08345-2",
+        "doi": "10.1186/s12877-026-08345-2",
+        "url": "https://doi.org/10.1186/s12877-026-08345-2",
+        "title": "Prevalence of and factors associated with heat-related illness in a super-aged society: a cross-sectional study of older adults in suburban Tokyo, Japan",
+        "authors": [
+          "Tomoko Ogusu",
+          "Makiko Sekiyama",
+          "Yuki Hashimoto",
+          "Ryoko Ihara",
+          "Tomohiko Ihara"
+        ],
+        "abstract": "Abstract                                        Background                     The convergence of increasing extreme heat events due to climate change and rapid population aging poses a critical public health challenge. While previous studies have identified risk factors for heat-related health outcomes, most have been conducted in Western countries and have relied on indicators that require resource-intensive surveys. This study aims to identify factors associated with heat-related illness among the elderly in Japan using practical, policy-relevant indicators.                                                           Methods                                            A cross-sectional study using a self-administered questionnaire was conducted in a suburban area of Tokyo, Japan, from September to November 2017. Elderly residents were recruited from two distinct populations: a large public housing complex and a socially active community club. The primary outcome was the self-reported history of heat-related illness within five years, defined as episodes requiring ambulance transport or hospital visits. Univariate and multivariable logistic regression analyses were performed to identify associated factors (Significance level:                       p                        &lt; 0.10).                                                                                Results                                            Of the 743 participants included in the analysis (mean age: 73.01, SD: 10.23), 31 (4.17%, 95% CI: 2.86%–5.87%) reported having experienced heat-related illness. In the univariate analysis (                       p                        &lt; 0.10), heat-related illness was associated with long-term care certification (Crude OR 2.64, 90% CI 1.13–5.56), suspected dementia (Crude OR 8.24, 90% CI 2.33–24.14), and living alone (Crude OR 2.10, 90% CI 1.11–4.05). AC ownership was inversely associated with heat-related illness (Crude OR 0.30, 90% CI 0.13–0.84). In the multivariable analysis (                       N                        = 583), factors that remained associated with heat-related illness (                       p                        &lt; 0.10) were advanced age (75 or above; Adjusted OR 2.49, 90% CI 1.09–5.94), living alone (Adjusted OR 2.38, 90% CI 1.03–5.69), and AC ownership (Adjusted OR 0.13, 90% CI 0.01–0.83).                                                                                Conclusions                     Advanced age and living alone were strongly associated with heat-related illness, while air conditioning ownership was inversely associated. Utilizing easily accessible administrative data—such as age, household composition, and long-term care status—is a feasible strategy to identify vulnerable older adults and target proactive interventions in super-aged societies.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-28",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-28",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag207",
+        "doi": "10.1093/aje/kwag207",
+        "url": "https://doi.org/10.1093/aje/kwag207",
+        "title": "Correction to : Impact of quitline services on tobacco cessation: an application of modern epidemiologic methods",
+        "authors": [],
+        "abstract": "",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-09-28",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-28",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70737",
+        "doi": "10.1111/jgs.70737",
+        "url": "https://doi.org/10.1111/jgs.70737",
+        "title": "Local Adaptations of Hospital in Home: Variations in Structure and Implementation Across Six\n                    <scp>VA</scp>\n                    Programs",
+        "authors": [
+          "Akanksha Samant",
+          "Sungjae Park",
+          "Emily Franzosa",
+          "Orna Intrator",
+          "Jennifer L. Sullivan",
+          "D'Arcy",
+          "Porooshat Dadgostar",
+          "Reza Yousefi Nooraie",
+          "Shivani Jindal",
+          "Dayna Cooper",
+          "Jessica Barth",
+          "Kimberly Judon",
+          "Marlena H. Shin",
+          "Matthew Augustine",
+          "William Hung"
+        ],
+        "abstract": "ABSTRACT                                        Background                     The VA Hospital in Home (HIH) model of care delivers acute‐level hospital care to Veterans at home across the country. We aim to examine the similarities and differences in the structure and implementation of existing HIH programs across sites to identify best practices that optimize resources, ensure high‐quality care, and enhance sustainability and scalability of the program.                                                           Methods                     A total of 6 out of 11 existing VA HIH programs reported on their program through structured presentations at Community‐of‐Practice meetings in 2022. Additional site‐level characteristics were retrieved from the VA Corporate Data Warehouse to describe context at each program and to identify HIH encounters, types of stays, and numbers of HIH patients for each site.                                                           Results                     All sites offered transfer (from hospital‐based inpatient service) and substitutive (from other than inpatient) HIH stays, though the proportion of patients for each varied (transfer patients ranging from 6% to 85%). Referral sources for substitutive stays varied across sites including Home‐Based Primary Care (HBPC) (67%), outpatient primary care (83%), specialty care clinics (67%), and emergency departments (83%). Each program had interdisciplinary teams, though composition and staff size varied (4–7 full‐time equivalent [FTE] RNs; 1.0–2.0 FTE physicians). Programs varied in the number of unique patients served per program (63–146 unique HIH Veterans annually). Programs reported similar procedures in clinical evaluation, informed consent, and maintaining 24/7 access to the HIH team. Outcome metrics tracked include readmission (67%), cost avoidance (50%), and length of stay (50%). Additionally, 50% of sites reported integrating ancillary services and introducing program adaptations during the COVID‐19 pandemic period such as virtual follow‐up visits.                                                           Conclusion                     Our study identified similarities and differences across the existing HIH programs, adapting to local contexts while maintaining quality of care. These characteristics may reflect differences in population and site characteristics, patient needs, and program goals.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-09-27",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-28",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1186/s12877-026-08282-0",
         "doi": "10.1186/s12877-026-08282-0",
         "url": "https://doi.org/10.1186/s12877-026-08282-0",
@@ -48767,6 +49063,26 @@
         "fetched_from": "crossref"
       },
       {
+        "id": "doi:10.1093/bjsw/bcag235",
+        "doi": "10.1093/bjsw/bcag235",
+        "url": "https://doi.org/10.1093/bjsw/bcag235",
+        "title": "Social work and mental health with refugees: A systematic review of the evidence and methodological challenges",
+        "authors": [
+          "Yolanda García-Vázquez",
+          "Sabela Ferrás García"
+        ],
+        "abstract": "Abstract                   This systematic review addresses the mental health of refugees in Western countries—a critical public health issue shaped by a complex interplay of risk factors, post-migration living difficulties, and protective factors. We conducted a search in three major scientific databases, focusing on peer-reviewed studies published in the past decade and following the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines. Findings reveal key methodological challenges, including sampling bias, reliance on self-report measures, and inconsistent results regarding gender, age, language, and legal status. These reflect the diversity of refugee experiences and highlight the need for robust, interdisciplinary, and context-sensitive research. Social work plays a vital role by adopting trauma-informed, rights-based approaches that integrate clinical and psychosocial perspectives, foster community engagement, and advocate for inclusive policies. While protective factors such as social support, resilience, and stable relationships remain underexplored, they are essential for recovery and integration. Recommendations include developing proactive and preventive strategies, ensuring culturally responsive mental health care, and promoting equitable access to support. Future research should prioritize neglected populations and support intervention development to enhance psychosocial well-being and sustainable integration.",
+        "source": "The British Journal of Social Work",
+        "issn": "0045-3102",
+        "date": "2026-09-26",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-09-28",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1007/s10896-026-01187-x",
         "doi": "10.1007/s10896-026-01187-x",
         "url": "https://doi.org/10.1007/s10896-026-01187-x",
@@ -50380,10 +50696,10 @@
   },
   "totals": {
     "socialSecurity": 1530,
-    "elderCare": 226,
-    "healthReform": 422,
-    "agingHealth": 323,
-    "socialWork": 89
+    "elderCare": 231,
+    "healthReform": 423,
+    "agingHealth": 329,
+    "socialWork": 90
   },
   "feeds_ok": 41
 }
