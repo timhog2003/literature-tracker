@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-28",
-  "fetched": "2026-09-28T07:11:27+00:00",
+  "date": "2026-09-29",
+  "fetched": "2026-09-29T07:08:18+00:00",
   "domains": {
     "socialSecurity": [
       {
@@ -23371,6 +23371,33 @@
     ],
     "elderCare": [
       {
+        "id": "doi:10.1186/s12877-026-08257-1",
+        "doi": "10.1186/s12877-026-08257-1",
+        "url": "https://doi.org/10.1186/s12877-026-08257-1",
+        "title": "Association between posterior occlusal support and sequential hip fractures in older adults",
+        "authors": [
+          "Shunsuke Akiho",
+          "Kazuki Kanazawa",
+          "Megumi Kawakami",
+          "Takashi Yanabe",
+          "Kimihiko Shigetsune",
+          "Soshiro Goshima",
+          "Ryohei Haraguchi",
+          "Takuaki Yamamoto"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-29",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-29",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1186/s12877-026-08287-9",
         "doi": "10.1186/s12877-026-08287-9",
         "url": "https://doi.org/10.1186/s12877-026-08287-9",
@@ -23464,6 +23491,32 @@
           "agingHealth"
         ],
         "firstSeen": "2026-09-28",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08361-2",
+        "doi": "10.1186/s12877-026-08361-2",
+        "url": "https://doi.org/10.1186/s12877-026-08361-2",
+        "title": "Changing care work and support needs across the home-based dementia care trajectory: a qualitative study of family caregivers in China",
+        "authors": [
+          "Yating Wu",
+          "Nanxi Fu",
+          "Qian Wu",
+          "Yaqi Wang",
+          "Jinghan Hou",
+          "Qiyuan Lyu",
+          "Hua Lin"
+        ],
+        "abstract": "Abstract                                        Background                     In China, most people living with dementia receive care at home from family members. Dementia caregiving changes over time, yet less is known about how caregivers’ support needs are reconfigured within ongoing home-based care as family responsibilities and interactions with health and care services change. This study explored how caregivers retrospectively described changes in caregiving responsibilities and associated support needs across the home-based dementia care trajectory.                                                           Methods                     This qualitative descriptive study involved 38 primary family caregivers in Guangzhou, China, who participated in face-to-face semi-structured interviews between February and December 2024. Participants were recruited using purposive maximum variation sampling, and data were analysed using the framework method. The identified phases were treated as analytically reconstructed and overlapping rather than fixed or linear.                                                           Results                     Support needs did not simply increase over time but were reconfigured as family care work changed. Before formal help-seeking, caregivers had to interpret ambiguous changes, judge whether they warranted concern, and decide how to seek help. They therefore needed accessible risk-recognition information, clear entry points to assessment, and low-barrier, non-stigmatising routes to formal support. While engaging with services, caregiving shifted towards navigating pathways, coordinating across settings, maintaining continuity, and negotiating family decisions. Caregivers consequently needed clearer care pathways, continuity and handover support, service coordination, and family decision support. While sustaining care at home, the central challenge became maintaining everyday manageability amid repetitive tasks, symptom fluctuation, emotional strain, and financial pressure. Caregivers needed practical relief, actionable symptom-management guidance, emotional support, financial protection, and services compatible with family routines.                                                           Conclusions                     Caregivers’ support needs were shaped not only by dementia-related changes, but also by the reorganisation of family care work and encounters with fragmented services. These findings suggest that support may be more responsive when aligned with transitions in caregiving responsibilities and service engagement rather than with dementia severity alone.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-28",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-29",
         "fetched_from": "crossref"
       },
       {
@@ -29215,6 +29268,454 @@
           "healthReform"
         ],
         "firstSeen": "2026-09-28",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.16535",
+        "doi": "10.1001/jama.2026.16535",
+        "url": "https://doi.org/10.1001/jama.2026.16535",
+        "title": "Understanding Patent Thickets",
+        "authors": [
+          "Gregory Curfman"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-28",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-29",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.17558",
+        "doi": "10.1001/jama.2026.17558",
+        "url": "https://doi.org/10.1001/jama.2026.17558",
+        "title": "Intra-Arterial Tenecteplase After Endovascular Thrombectomy for Acute Stroke",
+        "authors": [
+          "Xin Tong",
+          "Jin Bai",
+          "Gang Luo",
+          "Dapeng Sun",
+          "Wenhuo Chen",
+          "Xiaoxi Yao",
+          "Guangxiong Yuan",
+          "Changming Wen",
+          "Ming Wei",
+          "Xueli Cai",
+          "Jiangang Zhang",
+          "Zhiming Zhou",
+          "Mingze Chang",
+          "Guangxian Nan",
+          "Jing Wang",
+          "Guangyu Xiang",
+          "Li Zhou",
+          "Wen Gao",
+          "Hong Zhang",
+          "Jiheng Hao",
+          "Chenghua Xu",
+          "Yaxuan Sun",
+          "Tingyu Yi",
+          "Ganghua Feng",
+          "Yuesong Pan",
+          "Qi Zhou",
+          "Huachen Zhang",
+          "Yiwen Xu",
+          "Thanh N. Nguyen",
+          "Bernard Yan",
+          "Yongjun Wang",
+          "Zhongrong Miao",
+          "Xiaochuan Huo",
+          "Bo Liu",
+          "Chen Yao",
+          "Dan Long",
+          "Fengjie Jie",
+          "Gaoting Ma",
+          "Han Zhao",
+          "Hang Yu",
+          "Hongyi Yan",
+          "Jian Yan",
+          "Jianfeng Han",
+          "Jingjun Zhao",
+          "Juan Wang",
+          "Kangning Chen",
+          "Liyong Zhang",
+          "Qi Zhou",
+          "Wanru Wang",
+          "Wei Wu",
+          "Xiaoling Liao",
+          "Xinghua Lu",
+          "Xuewei Xie",
+          "Yayun Sheng",
+          "Yuhuan Chen",
+          "Zhe Zhang",
+          "Zhou Zhou",
+          "Yaou Liu",
+          "Hongxing Han",
+          "Feng Gao",
+          "Ning Ma",
+          "Dapeng Mo",
+          "Xuan Sun",
+          "Yiming Deng",
+          "Xu Tong",
+          "Xiaoqing Li",
+          "Baixue Jia",
+          "Bo Wang",
+          "Zijun He",
+          "Ming Yang",
+          "Xingquan Zhao",
+          "Xuelei Zhang",
+          "Longhui Zhang",
+          "Shuo Li",
+          "Jing Jing",
+          "Yunyun Xiong",
+          "Tao Liu",
+          "Zixiao Li",
+          "Zeguang Ren",
+          "Yilong Wang",
+          "David S. Liebeskind",
+          "Tudor G. Jovin"
+        ],
+        "abstract": "This secondary analysis of a randomized clinical trial examines the efficacy of adjunctive intra-arterial tenecteplase 12 months after stroke in patients who received endovascular thrombectomy.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-28",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-29",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.15713",
+        "doi": "10.1001/jama.2026.15713",
+        "url": "https://doi.org/10.1001/jama.2026.15713",
+        "title": "Will Women Physicians Face an AI Gap?",
+        "authors": [
+          "Roy Perlis"
+        ],
+        "abstract": "Editor in Chief of JAMA+ AI Roy Perlis, MD, MSc, and Rochelle P. Walensky, MD, MPH, professor of medicine at Harvard Medical School, discuss the role of women physicians in shaping AI’s impact on health care in this episode of the                     JAMA+ AI Conversations                     podcast.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-28",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-29",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.16139",
+        "doi": "10.1001/jama.2026.16139",
+        "url": "https://doi.org/10.1001/jama.2026.16139",
+        "title": "Patents on Small-Molecule Drugs Approved by the US Food and Drug Administration, 1990-2019",
+        "authors": [
+          "S. Sean Tu",
+          "Nickolas Freeman",
+          "Theodore W. Teng",
+          "William B. Feldman",
+          "Aaron S. Kesselheim",
+          "Jason Parton",
+          "Olivier J. Wouters"
+        ],
+        "abstract": "Importance                     Patent protection allows pharmaceutical companies to charge high prices for prescription drugs during periods of market exclusivity, and their expiration usually defines when generic competitors can enter the US market. Patents on drug active ingredients are classified as primary patents, while patents on formulations, methods of use, and delivery devices are nonprimary.                                                           Objective                     To evaluate how pharmaceutical patent portfolios for US Food and Drug Administration (FDA)–approved drugs have evolved over time.                                                           Evidence Review                     Patents on small-molecule drugs approved by the FDA from 1990 to 2019 were examined and assessed for changes in the number and types of patents per product. The additional duration of total patent exclusivity associated with each patent type was quantified, and how often patents of each type were enforced against generic manufacturers in litigation was determined.                                                           Findings                     The FDA approved 1981 small-molecule drugs during the study period, and manufacturers listed 10 940 patents on these drugs. The mean number of patents per drug increased from 2.1 in 1990 to 6.9 in 2019, driven primarily by nonprimary patents. The mean number of nonprimary patents per drug rose from 1.2 in 1990 to 5.6 in 2019. Nonprimary patents represented majorities of FDA-listed patents (84% [9236/10 940]) and litigated patents (87% [4586/5253]). Nearly all patents listed after drug approval were nonprimary (96% [4874/5064]), and these patents extended market exclusivity by a mean of 6.1 years (SD, 5.8 years) and a median of 4.7 years (IQR, 0.2-10.1 years).                                                           Conclusions and Relevance                     Pharmaceutical patent portfolios have grown over the last 2 decades. These portfolios have largely been built on nonprimary patents, which are then enforced against generic firms at higher rates than primary patents. Large patent portfolios can complicate routine generic competition and prolong periods of high drug prices.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-28",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-29",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.15536",
+        "doi": "10.1001/jama.2026.15536",
+        "url": "https://doi.org/10.1001/jama.2026.15536",
+        "title": "Diagnostic Delays Associated With a Screening Trial of a Multicancer Early Detection Test",
+        "authors": [
+          "Michael Froehner"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-28",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-29",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.18687",
+        "doi": "10.1001/jama.2026.18687",
+        "url": "https://doi.org/10.1001/jama.2026.18687",
+        "title": "Critically Ill Neonates and Secondary Genomic Findings",
+        "authors": [
+          "Whitney S. Thompson",
+          "Laura M. Amendola",
+          "Bruce R. Korf",
+          "Monica A. Giovanni"
+        ],
+        "abstract": "This Perspective discusses whether secondary genomic findings in the clinical context of diagnostic genomic sequencing tests should be sought and reported.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-28",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-29",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.15538",
+        "doi": "10.1001/jama.2026.15538",
+        "url": "https://doi.org/10.1001/jama.2026.15538",
+        "title": "Diagnostic Delays Associated With a Screening Trial of a Multicancer Early Detection Test—Reply",
+        "authors": [
+          "Sean Mann",
+          "Pedro Nascimento de Lima",
+          "Beth Ann Griffin"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-28",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-29",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.20495",
+        "doi": "10.1001/jama.2026.20495",
+        "url": "https://doi.org/10.1001/jama.2026.20495",
+        "title": "Permissive Blood Pressure Targets in Pediatric Critical Care",
+        "authors": [],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-28",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-29",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.19747",
+        "doi": "10.1001/jama.2026.19747",
+        "url": "https://doi.org/10.1001/jama.2026.19747",
+        "title": "Permissive Blood Pressure Targets in Pediatric Critical Care",
+        "authors": [
+          "David P. Inwald",
+          "Emma Laing",
+          "Julia M. Broomhall",
+          "Tommaso Viola",
+          "Carly Au",
+          "Alanna Brown",
+          "Julie Camsooksai",
+          "Irene Chang",
+          "Hannah Chester",
+          "Robert Darnell",
+          "Prabhleen Ghattoray",
+          "Amelia Francis Johnson",
+          "Stef Keattch",
+          "Millie Parke",
+          "Joseph C. Manning",
+          "Padmanabhan Ramnarayan",
+          "Samiran Ray",
+          "Zia Sadique",
+          "Barnaby R. Scholefield",
+          "Dermot Shortt",
+          "Karen Thomas",
+          "Helen Winmill",
+          "David A. Harrison",
+          "Mark J. Peters",
+          "Kathy M. Rowan",
+          "Paul R. Mouncey",
+          "Deborah White",
+          "Esther Daubney",
+          "Ben Lakin",
+          "Simon Davies",
+          "Laura O’Malley",
+          "Paris Lucia Harrison",
+          "Afeda Mohamed Ali",
+          "Jane Cassidy",
+          "Samantha Finn",
+          "Sarah Fox",
+          "Carly Tooke",
+          "Rachel Lewis",
+          "Alvin Schadenberg",
+          "Laura Dodge",
+          "Judit Bak",
+          "Elizabeth Stoddart",
+          "Sandra Walsh",
+          "Mong Hoi Tan",
+          "Ellen McGarr ",
+          "Jocelyn Thekkudan",
+          "Elisabeth Day",
+          "Rachel Agbeko",
+          "Robert Claydon",
+          "Nadine Heenan",
+          "Sarah Benkenstein",
+          "Kate Plant",
+          "Holly Belfield",
+          "Shannon McCarty",
+          "Sara Thomas",
+          "Emily Beech",
+          "Morgan White",
+          "Lauran O’Neill",
+          "Avishay Sarfatti",
+          "Caris Coyle",
+          "Simon Mattus",
+          "Melanie James",
+          "Karim Noordally",
+          "Akash Deep",
+          "Katherine-Daisy Radley-Stroud",
+          "Shubham Charaya",
+          "Bethany Walmsley",
+          "Khurram Mustafa",
+          "Davinder Singh",
+          "Jo Lumsden",
+          "Amisha Mistry",
+          "Pompa Dutta Kukreja",
+          "Rekha Patel",
+          "Anand Patil",
+          "Laurie Bennett",
+          "Selyf Shapey",
+          "Susan Bowes",
+          "Shrirang Alurkar",
+          "Catarina Silvestre",
+          "Laura Anderson",
+          "Elizabeth Inoyo",
+          "Alastair Turner",
+          "Kieran Bannerman",
+          "Emma Harley",
+          "Fiona Bowman",
+          "Susanne Cathcart",
+          "Christopher Halliday",
+          "Margrethe VanDijke",
+          "Sarah Churchward",
+          "Kerry Jack",
+          "Simona Lampariello",
+          "Tahmina Khatun",
+          "Ravishankar Nagaraj",
+          "Adam Nicholls",
+          "Lara Bunni",
+          "Rebecca Marshall",
+          "Claire Jennings",
+          "Wei Yen Evelyn Chia",
+          "Jack Watson",
+          "Marie Ward",
+          "Annmarie Wherton-Whitehurst",
+          "Penny Percival",
+          "Yaya Egberongbe",
+          "Sandeep Budhiraja",
+          "Ellie Fisher",
+          "Brenna Perry",
+          "Iain Macintosh",
+          "Jenny Pond",
+          "Amber Cook",
+          "Caitlin Oxford",
+          "John Pappachan",
+          "Buvana Dwarakanathan",
+          "Cristina Da Silva",
+          "Egi Kraniqi",
+          "Rebecca Mitting",
+          "Sarah Darnell",
+          "Katy Bridges",
+          "Sobia Mustafa",
+          "Isabel Johnson",
+          "Luregn Schlapbach",
+          "Philipp Baumann",
+          "Sanella Ellersich",
+          "Anika Adam",
+          "Marie Vandendaele"
+        ],
+        "abstract": "Importance                     Vasoactive drugs are often given to critically ill children to treat hypotension. However, optimal mean arterial pressure (MAP) targets are unknown.                                                           Objective                     To evaluate whether adopting a permissive MAP target, and thereby potentially reducing exposure to vasoactive drugs, improves outcomes in hypotensive critically ill children.                                                           Design, Setting, and Participants                     This multicenter, unblinded, pragmatic randomized clinical trial was conducted in 23 pediatric intensive care units (PICUs) in 3 countries. Critically ill children receiving invasive ventilation and vasoactive drugs for hypotension were enrolled between November 2021 and May 2026. Follow-up to the 30-day outcome was completed in June 2026.                                                           Interventions                     Patients randomized to the intervention (n = 957) were assigned a permissive MAP target greater than the fifth percentile for age. Patients in the control group (n = 943) received usual care with MAP target set by the attending physician.                                                           Main Outcomes and Measures                     The primary outcome was a composite of mortality and duration of invasive ventilation at 30 days. Secondary outcomes included mortality at PICU discharge, time to cessation of invasive ventilation, receipt and duration of kidney replacement therapy in PICU at 30 days, and length of PICU and hospital stay.                                                           Results                                            Of 1900 randomized patients, 910 in the permissive MAP target group and 904 in the usual care group were included for analysis of the primary outcome. Participants had a median (IQR) age of 4 (0-10) years and 44.8% were female; baseline characteristics were similar between the groups. Median (IQR) MAP while receiving vasoactive drugs was 58 (51-63) mm Hg in the permissive MAP target group and 61 (54-67) mm Hg in the usual care group. A permissive MAP target led to a 37.5% reduction in median norepinephrine-equivalent total dose compared with the usual care group. There was no significant difference between the groups in the primary outcome (probabilistic index, 0.52 [95% CI, 0.49-0.54];                       P                        = .23). Six of the 7 secondary outcomes were similar between the groups, except median (IQR) PICU length of stay was significantly shorter in survivors in the permissive MAP target vs usual care group (159 [79-286] vs 166 [92-319] hours); probabilistic index, 0.53 [95% CI, 0.50-0.56]). Receipt of kidney replacement therapy and adverse events did not differ between the groups.                                                                                Conclusions and Relevance                     Adopting a permissive MAP target resulted in no significant difference in mortality and duration of invasive ventilation at 30 days compared with usual care.                                                           Trial Registration                                            isrctn.org Identifier:                       ISRCTN20609635                       ; Swiss National Clinical Trial Portal:                       SNCTP000006590",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-28",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-29",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.20372",
+        "doi": "10.1001/jama.2026.20372",
+        "url": "https://doi.org/10.1001/jama.2026.20372",
+        "title": "Blood Pressure Targets in Critically Ill Children",
+        "authors": [
+          "Christopher M. Horvat",
+          "Mohammed Shaik",
+          "Joseph Carcillo"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-28",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-29",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1007/s40273-026-01670-9",
+        "doi": "10.1007/s40273-026-01670-9",
+        "url": "https://doi.org/10.1007/s40273-026-01670-9",
+        "title": "Developing an Australian Value Set for the COCOON Carer Quality-of-Life Measure for Use in Economic Evaluations",
+        "authors": [
+          "Lidia Engel",
+          "Cathrine Mihalopoulos",
+          "Nikki McCaffrey",
+          "Thao Thai"
+        ],
+        "abstract": "",
+        "source": "PharmacoEconomics",
+        "issn": "1170-7690",
+        "date": "2026-09-28",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-29",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag241",
+        "doi": "10.1093/aje/kwag241",
+        "url": "https://doi.org/10.1093/aje/kwag241",
+        "title": "Effects conditional on post-treatment events generated by independent mechanisms",
+        "authors": [
+          "Marco Piccininni",
+          "Mats J Stensrud"
+        ],
+        "abstract": "Abstract                   In both observational studies and randomized trials, post-treatment events such as dropout, nonadherence, and truncation by death occur frequently. In some studies, conditioning on post-treatment variables is a deliberate strategy to isolate particular treatment effects on the outcome. However, naive comparisons of outcomes conditional on posttreatment events generally lack a causal interpretation, even when treatment is randomly assigned. There exist causal estimands that account for post-treatment events, including survivor average causal effects and conditional separable effects, but identification usually requires measurement of common causes of the post-treatment event and the outcome. In this article, we show that such measurements are not always necessary. Conceptually, what we require is that the treatment and other unmeasured causes of the outcome generate the post-treatment event through “independent mechanisms”. Then, conditional separable effects and survivor average causal effects can be identified without adjustment for common causes of the post-treatment event and the outcome. We illustrate the results in studies with truncating events, differential nonadherence, and the birth weight paradox.",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-09-28",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-29",
         "fetched_from": "crossref"
       },
       {
@@ -40985,6 +41486,330 @@
         "fetched_from": "crossref"
       },
       {
+        "id": "doi:10.1002/alz.71919",
+        "doi": "10.1002/alz.71919",
+        "url": "https://doi.org/10.1002/alz.71919",
+        "title": "Issue Information",
+        "authors": [],
+        "abstract": "",
+        "source": "Alzheimer's &amp; Dementia",
+        "issn": "1552-5260",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-29",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1002/alz.71861",
+        "doi": "10.1002/alz.71861",
+        "url": "https://doi.org/10.1002/alz.71861",
+        "title": "Tau‐PET correlates of mild behavioral impairment in preclinical and prodromal Alzheimer's disease: A head‐to‐head comparison of Flortaucipir and MK6240",
+        "authors": [
+          "Isabella Bizzi",
+          "Arthur C. Macedo",
+          "Lydia Trudel",
+          "Joseph Therriault",
+          "Nesrine Rahmouni",
+          "Firoza Z. Lussier",
+          "Cécile Tissot",
+          "Gleb Bezgin",
+          "Étienne Aumont",
+          "Tevy Chan",
+          "Seyyed Ali Hosseini",
+          "Delphine Oliva‐Lopez",
+          "Marina Pereira Gonçalves",
+          "Guilherme Povala",
+          "Pamela C. L. Ferreira",
+          "Bruna Bellaver",
+          "Livia Amaral",
+          "Emma Ruppert",
+          "Marina Scop Medeiros",
+          "Rayan Mroué",
+          "Andréia Rocha",
+          "Kok Pin Ng",
+          "Eduardo R. Zimmer",
+          "Joseph Masdeu",
+          "Belen Pascual",
+          "Val J. Lowe",
+          "Hwamee Oh",
+          "David N. Soleimani‐Meigooni",
+          "Juan Fortea",
+          "Zahinoor Ismail",
+          "Suzanne Baker",
+          "Tharick A Pascoal",
+          "Pedro Rosa‐Neto"
+        ],
+        "abstract": "Abstract                                        INTRODUCTION                     We compared the association between mild behavioral impairment (MBI) and first‐ versus second‐generation tau‐positron emission tomography (PET) tracers in preclinical and prodromal Alzheimer's disease (AD).                                                           METHODS                                            We assessed 110 individuals with head‐to‐head [                       18                       F]MK6240 and [                       18                       F]Flortaucipir tau‐PET. Voxel‐wise and region‐of‐interest analyses investigated relationships between tau‐PET and MBI Checklist (MBI‐C) scores, which were also compared across tau‐PET positivity and PET‐Braak stages.                                                                                RESULTS                                            For both tracers, MBI severity was associated with tau‐PET signal in all Braak regions and increased across PET‐Braak stages. [                       18                       F]MK6240 showed more extensive voxel‐wise associations with MBI‐C scores and additional correlations with affective symptoms in stratified analyses by diagnostic groups. Tau positivity was associated with a higher frequency of MBI. Individuals positive for [                       18                       F]MK6240 but negative for [                       18                       F]Flortaucipir exhibited greater MBI burden than individuals negative for both tracers.                                                                                DISCUSSION                                            MBI in early AD is associated with tau‐PET, with [                       18                       F]MK6240 providing greater sensitivity to detect MBI‐related symptoms.",
+        "source": "Alzheimer's &amp; Dementia",
+        "issn": "1552-5260",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-29",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1002/alz.71835",
+        "doi": "10.1002/alz.71835",
+        "url": "https://doi.org/10.1002/alz.71835",
+        "title": "Precision residential greenspace, urban environmental exposures, and incident dementia among older adults in Sweden: A 16‐year cohort study",
+        "authors": [
+          "Cecilia U. D. Stenfors",
+          "Jing Wu",
+          "Giulia Grande",
+          "Andrei Pyko",
+          "Mare Löhmus",
+          "Göran Pershagen",
+          "Debora Rizzuto"
+        ],
+        "abstract": "Abstract                                        INTRODUCTION                     Residential greenspace is linked to mental and cardiometabolic health, but longitudinal studies on detailed greenspace and dementia incidence are limited.                                                           METHODS                     We followed 2993 dementia‐free participants in the Swedish National Study on Aging and Care Kungsholmen for 16 years; 477 developed clinically diagnosed dementia. Greenspace was assessed using normalized difference vegetation index within 100‐, 250‐, and 500‐m residential buffers. Cox models estimated hazard ratios (HRs) per interquartile‐range greenspace increment and tested effect modification by air pollution, road traffic noise, blue space, age, sex, and apolipoprotein E‐ε4 (APOE‐ε4).                                                           RESULTS                     Higher greenspace within 100 m was associated with lower dementia incidence (HR = 0.79, 95% confidence interval [CI] = 0.64–0.96), whereas associations for larger buffers were attenuated. Associations were stronger in women (HR = 0.69, 95% CI = 0.54–0.89) than men (HR = 0.93, 95% CI = 0.71–1.24).                                                           DISCUSSION                     Close residential greenspace may reduce dementia risk in older adults, particularly women.",
+        "source": "Alzheimer's &amp; Dementia",
+        "issn": "1552-5260",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-29",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1002/alz.71869",
+        "doi": "10.1002/alz.71869",
+        "url": "https://doi.org/10.1002/alz.71869",
+        "title": "Integrative prediction of Alzheimer's disease and related dementias using multi‐omics aging clocks and genetic data",
+        "authors": [
+          "Shayan Mostafaei",
+          "Karolina Gustavsson",
+          "Hampus Hagelin",
+          "Jonathan K. L. Mak",
+          "Trung Nghia Vu",
+          "Ida K. Karlsson",
+          "Sara Hägg"
+        ],
+        "abstract": "Abstract                                        INTRODUCTION                     We tested whether combining Alzheimer's disease and related dementias (ADRD) polygenic risk scores (PRS) with biological aging markers improves ADRD risk prediction.                                                           METHODS                                            In 16,215 UK Biobank (UKB) participants free of ADRD at baseline (median follow‐up: 10.08 years), 397 incident diagnoses were identified. Biological aging measures included clinical, telomere, proteomic, and metabolomic aging markers. External validation/replication was performed in TwinGene (                       N                        = 3772; 331 cases).                                                                                RESULTS                     The fully integrated model achieved area under the curve (AUC) = 0.90 and area under the precision‐recall curve (AUPRC) = 0.24 in the UKB held‐out test set. PRS was the strongest predictor (subdistribution hazard ratio [sHR] = 2.24, 95% CI: 2.02–2.48), followed by ProtAge (sHR = 2.01, 95% CI: 1.13–3.58). The top predicted‐risk quartile showed higher ADRD incidence (sHR = 16.73, 95% CI: 6.49–43.11). TwinGene showed moderate transportability (AUC = 0.757; AUPRC = 0.223) and preserved risk stratification (sHR = 4.02, 95% CI: 3.25–5.02).                                                           DISCUSSION                     Integrating PRS and biological aging measures improved ADRD risk stratification.",
+        "source": "Alzheimer's &amp; Dementia",
+        "issn": "1552-5260",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-29",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1002/alz.71878",
+        "doi": "10.1002/alz.71878",
+        "url": "https://doi.org/10.1002/alz.71878",
+        "title": "World Trade Center neurotoxicant exposure severity is associated with cortical thinning and regional brain atrophy: a neuroimaging study of general responders at midlife",
+        "authors": [
+          "Sean A. P. Clouston",
+          "Chuan Huang",
+          "Temurbek Askarov",
+          "Yicun Wang",
+          "Zan Chaudhry",
+          "Melissa A. Carr",
+          "Yuan Yang",
+          "Steven West",
+          "Frank D. Mann",
+          "Ruth Marquez",
+          "Paul Vaska",
+          "Jaymie Meliker",
+          "Sam Gandy",
+          "Roberto G. Lucchini",
+          "Benjamin J. Luft"
+        ],
+        "abstract": "Abstract                                        INTRODUCTION                     Exposure to aerosolized pollutants is a risk factor for cognitive impairment and dementia, but the specific features of exposure‐related neurodegeneration remain unclear.                                                           METHODS                     We measured the World Trade Center Neurotoxicant Exposure Severity Index (WTC‐NESI) in 218 responders and unexposed controls aged 44‐65 years. The main outcome was cortical thickness. Correlation analyses reported unadjusted associations and multiple linear regression to adjust for correlates. Vertex‐wise analyses were used with threshold‐free cluster enhancement to examine associations after adjusting for cross‐vertex clustering in atrophy.                                                           RESULTS                                            Cortical thickness was associated with WTC‐NESI (                       R =                        −0.38,                       p &lt;                        0.001) that survived multivariable adjustment. Vertex‐wise analyses revealed reduced cortical thickness across much of the cortical surface that was associated with WTC exposure severity. Results were right‐hemisphere asymmetric and focused in the precentral regions (partial                                                η                         2                                              ≥ 0.07).                                                                                CONCLUSION                     Our results provide an important reference for neurotoxicological investigators mapping the implications of airborne pollutant exposures. This study suggests that efforts to mitigate exposures in first responders might have long‐term implications for cerebral health.",
+        "source": "Alzheimer's &amp; Dementia",
+        "issn": "1552-5260",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-29",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1002/alz.71887",
+        "doi": "10.1002/alz.71887",
+        "url": "https://doi.org/10.1002/alz.71887",
+        "title": "Long term clinical performance and analytical robustness of the Lumipulse plasma p‐tau217 assay in routine clinical practice",
+        "authors": [
+          "Susan Ashrafzadeh‐Kian",
+          "Daniel J. Figdore",
+          "Joshua A. Bornhorst",
+          "Patrick M. Vanderboom",
+          "Sarah Callison",
+          "Gregory S. Day",
+          "Christian Lachner",
+          "Neill Graff‐Radford",
+          "Dror Shir",
+          "Clifford R. Jack",
+          "David S. Knopman",
+          "Jonathan Graff‐Radford",
+          "Ronald C. Petersen",
+          "Vijay K. Ramanan",
+          "Alicia Algeciras‐Schimnich"
+        ],
+        "abstract": "Abstract                                        INTRODUCTION                     Plasma phosphorylated tau 217 (p‑tau217) immunoassays are increasingly being used to assess Alzheimer's disease (AD) pathology despite limited data affirming test reliability over time.                                                           METHODS                     Clinical performance of the Fujirebio Lumipulse G p‑tau217 assay was assessed in 744 Mayo Clinic patients presenting for evaluation of cognitive impairment between July 2024 and December 2025. Cerebrospinal fluid p‑tau181/amyloid beta 42 or amyloid positron emission tomography, within 1 year of p‐tau217 testing, were used as reference. Analytical robustness was evaluated by tracking result frequencies over time, conducting quality control checks, performing 10 lot‑to‑lot comparisons, and comparing two versions of reagents.                                                           RESULTS                     Diagnostic accuracy for detection of AD pathology was 93% (95% confidence interval 91–95) with 23% intermediate results. Reduced estimated glomerular filtration rate was associated with increased intermediate results among amyloid‐negative individuals. Result frequencies remained stable, average imprecision was 8%, and analytical bias between lots and version changes were ≤ 11%.                                                           DISCUSSION                     The findings support plasma p‐tau217 reliability in clinical practice for evaluation of cognitively impaired individuals.",
+        "source": "Alzheimer's &amp; Dementia",
+        "issn": "1552-5260",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-29",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1002/alz.71694",
+        "doi": "10.1002/alz.71694",
+        "url": "https://doi.org/10.1002/alz.71694",
+        "title": "Perspectives from Alzheimer's Disease Research Centers site directors on the early steps and the lasting impact",
+        "authors": [
+          "John H. Growdon",
+          "John C. Morris",
+          "Ronald C. Petersen",
+          "Mary Sano",
+          "Lon S. Schneider"
+        ],
+        "abstract": "Abstract                   Since the groundbreaking work of Alois Alzheimer in the early 1900s, Alzheimer's disease research has evolved immensely, most notably with the establishment of the Alzheimer's Disease Research Centers (ADRC). Fueled by the vision and funding of the National Institute on Aging (NIA), ADRCs have created a legacy through their work standardizing criteria for Alzheimer's disease diagnosis. Leveraging the experience of the Consortium to Establish a Registry for Alzheimer's Disease, the ADRCs advanced standardized assessment tools, including the Clinical and Neuropsychological Batteries, as well as the CDR, which would make way for uniform data collection, in what we know today as the National Alzheimer's Coordinating Center (NACC). Collaborative data collection was expanded by NIA to support the development of treatments for Alzheimer's disease and related disorders (ADRD) through the Alzheimer's Disease Cooperative Study (ADCS) and the Alzheimer's Clinical Trial Consortium (ACTC) programs. These NIA sponsored programs have created a foundation for today's pharmacological and non‐pharmacological interventions to improve cognition and function in persons living with ADRD.",
+        "source": "Alzheimer's &amp; Dementia",
+        "issn": "1552-5260",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-29",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1002/alz.71888",
+        "doi": "10.1002/alz.71888",
+        "url": "https://doi.org/10.1002/alz.71888",
+        "title": "GLP‐1R agonist semaglutide protects human forebrain organoids from cholesterol‐induced neurotoxicity",
+        "authors": [
+          "Feifei Yu",
+          "Jiani Xu",
+          "Yibo Hou",
+          "Honghui Zheng",
+          "Lingyi Guo",
+          "Davit Khutsishvili",
+          "Cheng Hai",
+          "Wenxin Xu",
+          "Bailing Chen",
+          "Zitian Wang",
+          "Shaohua Ma"
+        ],
+        "abstract": "Abstract                                        INTRODUCTION                     Dysregulated cholesterol metabolism represents a critical metabolic stressor in the central nervous system, contributing to neuronal injury across multiple neurological conditions, including Alzheimer's disease (AD). While glucagon‐like peptide‐1 receptor (GLP‐1R) agonists show neuroprotective potential, their capacity to directly mitigate cholesterol‐induced metabolic stress in human neural cells remains to be established.                                                           METHODS                                            Here, we modeled metabolic stress using human induced pluripotent stem cell–derived forebrain organoids exposed to cholesterol overload. The protective effects of the GLP‐1R agonist semaglutide were characterized by integrating bulk/single‐cell transcriptomics, calcium imaging, and biochemical assays. Furthermore, clinical translatability was supported by mapping organoid expression signatures against human                       post mortem                       neurodegenerative brain datasets.                                                                                RESULTS                     Cholesterol overload induced cellular stress and transcriptomic alterations that partially overlapped with AD‐associated signatures. Semaglutide protected neural cells from lipotoxic injury. Intracellularly, GLP‐1R activation engaged the cyclic adenosine 3',5'‐monophosphate–protein kinase A and phosphoinositide 3 kinase–protein kinase B–mechanistic target of rapamycin signaling pathways, consistent with reduced lipid droplet accumulation and oxidative stress. Intercellularly, single‐cell analysis indicated partial preservation of disrupted cellular communication, including the neurotrophic midkine signaling network. Functionally, semaglutide stabilized cellular calcium activity patterns under metabolic stress.                                                           DISCUSSION                     These findings highlight the role of cholesterol homeostasis in maintaining neuronal integrity and position GLP‐1R signaling as a candidate protective axis under metabolic stress, offering insights into therapeutic strategies for AD and broader neurodegenerative disorders.",
+        "source": "Alzheimer's &amp; Dementia",
+        "issn": "1552-5260",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-29",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1002/alz.71855",
+        "doi": "10.1002/alz.71855",
+        "url": "https://doi.org/10.1002/alz.71855",
+        "title": "Novel genetic profile linked to cognitive decline in Hispanics/Latinos",
+        "authors": [
+          "Yana Hrytsenko",
+          "Yogesh Purushotham",
+          "Zhirou Li",
+          "Carmen R Isasi",
+          "Wassim Tarraf",
+          "Alberto R Ramos",
+          "Martha L Daviglus",
+          "Humberto Parada",
+          "Brian W Spitzer",
+          "Mariko Isshiki",
+          "Srilakshmi M Raj",
+          "Charles DeCarli",
+          "Hector M González",
+          "Myriam Fornage",
+          "Tamar Sofer"
+        ],
+        "abstract": "Abstract                                        BACKGROUND                                            The                       APOE                       ε4 allele has weaker association with ADRD outcomes in Hispanic/Latino populations compared to non‐Hispanic White and East Asian populations.                                                                                METHODS                                            We used whole‐genome sequencing data from 13,025 Hispanic/Latino adults to infer population groups (clusters) from short DNA sequences at the                       APOE                       gene region. We estimated the associations between these clusters and mild cognitive impairment (MCI) and age‐adjusted significant cognitive decline assessed via the Study of Latinos‐Investigation of Neurocognitive Aging (SOL‐INCA) study (                       n                        = 5334). We compared these associations to those of the conventional                       APOE                       alleles.                                                                                RESULTS                                            We identified three clusters of individuals. Relative to the largest Cluster 1, being in Cluster 3 had higher likelihood of having significant cognitive decline, with odds ratio (OR) = 1.47, 95% confidence interval (CI) [1.18, 1.84],                       p                       &lt; 0.001. The association with having prevalent MCI at the SOL‐INCA exam was not statistically significant, with OR = 1.33, 95% CI [0.97, 1.83],                       p                       = 0.08. Associations of the ε4 allele with these traits were not statistically significant.                                                                                DISCUSSION                                            The new                       APOE                       profile has stronger risk association with age‐adjusted significant cognitive decline in SOL‐INCA Hispanics/Latinos compared to the ε4 allele.",
+        "source": "Alzheimer's &amp; Dementia",
+        "issn": "1552-5260",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-29",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1002/alz.71841",
+        "doi": "10.1002/alz.71841",
+        "url": "https://doi.org/10.1002/alz.71841",
+        "title": "Practical considerations for characterization of the external exposome in Alzheimer's disease and related dementias cohorts",
+        "authors": [
+          "Zachary Popp",
+          "Allison James",
+          "Marco Chivardi",
+          "Cameron J Reimer",
+          "Charlotte Robbins",
+          "Tara Jenson",
+          "Jeroen M van Baar",
+          "Peter James",
+          "Kevin J Lane",
+          "Marcia Pescador Jiménez"
+        ],
+        "abstract": "Abstract                   External exposome research offers opportunities to evaluate complex relationships between multiple environmental determinants of Alzheimer's disease and related dementias (ADRD). However, selecting specific exposure domains, identifying metrics, and downloading, processing, and managing big data are key challenges in translating the potential of exposome research into empirical data analyses. To overcome these issues, we have established a reproducible system that protects data privacy, setting the stage for an unparalleled examination of associations between environmental exposures and ADRD risk within an exposome framework. In this perspective, we provide a comprehensive guide, including examples, to linking natural, built, and social environment metrics to nationwide time‐varying participants’ residential address data. Further, as a proof of concept, we report descriptive statistics and spatial distribution of external exposome metrics across the contiguous United States in 2015. The external exposome can be securely and comprehensively characterized across multiple cohorts using this highly scalable approach.",
+        "source": "Alzheimer's &amp; Dementia",
+        "issn": "1552-5260",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-29",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08257-1",
+        "doi": "10.1186/s12877-026-08257-1",
+        "url": "https://doi.org/10.1186/s12877-026-08257-1",
+        "title": "Association between posterior occlusal support and sequential hip fractures in older adults",
+        "authors": [
+          "Shunsuke Akiho",
+          "Kazuki Kanazawa",
+          "Megumi Kawakami",
+          "Takashi Yanabe",
+          "Kimihiko Shigetsune",
+          "Soshiro Goshima",
+          "Ryohei Haraguchi",
+          "Takuaki Yamamoto"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-29",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-29",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1186/s12877-026-08287-9",
         "doi": "10.1186/s12877-026-08287-9",
         "url": "https://doi.org/10.1186/s12877-026-08287-9",
@@ -41096,6 +41921,453 @@
           "healthReform"
         ],
         "firstSeen": "2026-09-28",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08361-2",
+        "doi": "10.1186/s12877-026-08361-2",
+        "url": "https://doi.org/10.1186/s12877-026-08361-2",
+        "title": "Changing care work and support needs across the home-based dementia care trajectory: a qualitative study of family caregivers in China",
+        "authors": [
+          "Yating Wu",
+          "Nanxi Fu",
+          "Qian Wu",
+          "Yaqi Wang",
+          "Jinghan Hou",
+          "Qiyuan Lyu",
+          "Hua Lin"
+        ],
+        "abstract": "Abstract                                        Background                     In China, most people living with dementia receive care at home from family members. Dementia caregiving changes over time, yet less is known about how caregivers’ support needs are reconfigured within ongoing home-based care as family responsibilities and interactions with health and care services change. This study explored how caregivers retrospectively described changes in caregiving responsibilities and associated support needs across the home-based dementia care trajectory.                                                           Methods                     This qualitative descriptive study involved 38 primary family caregivers in Guangzhou, China, who participated in face-to-face semi-structured interviews between February and December 2024. Participants were recruited using purposive maximum variation sampling, and data were analysed using the framework method. The identified phases were treated as analytically reconstructed and overlapping rather than fixed or linear.                                                           Results                     Support needs did not simply increase over time but were reconfigured as family care work changed. Before formal help-seeking, caregivers had to interpret ambiguous changes, judge whether they warranted concern, and decide how to seek help. They therefore needed accessible risk-recognition information, clear entry points to assessment, and low-barrier, non-stigmatising routes to formal support. While engaging with services, caregiving shifted towards navigating pathways, coordinating across settings, maintaining continuity, and negotiating family decisions. Caregivers consequently needed clearer care pathways, continuity and handover support, service coordination, and family decision support. While sustaining care at home, the central challenge became maintaining everyday manageability amid repetitive tasks, symptom fluctuation, emotional strain, and financial pressure. Caregivers needed practical relief, actionable symptom-management guidance, emotional support, financial protection, and services compatible with family routines.                                                           Conclusions                     Caregivers’ support needs were shaped not only by dementia-related changes, but also by the reorganisation of family care work and encounters with fragmented services. These findings suggest that support may be more responsive when aligned with transitions in caregiving responsibilities and service engagement rather than with dementia severity alone.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-28",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-29",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag241",
+        "doi": "10.1093/aje/kwag241",
+        "url": "https://doi.org/10.1093/aje/kwag241",
+        "title": "Effects conditional on post-treatment events generated by independent mechanisms",
+        "authors": [
+          "Marco Piccininni",
+          "Mats J Stensrud"
+        ],
+        "abstract": "Abstract                   In both observational studies and randomized trials, post-treatment events such as dropout, nonadherence, and truncation by death occur frequently. In some studies, conditioning on post-treatment variables is a deliberate strategy to isolate particular treatment effects on the outcome. However, naive comparisons of outcomes conditional on posttreatment events generally lack a causal interpretation, even when treatment is randomly assigned. There exist causal estimands that account for post-treatment events, including survivor average causal effects and conditional separable effects, but identification usually requires measurement of common causes of the post-treatment event and the outcome. In this article, we show that such measurements are not always necessary. Conceptually, what we require is that the treatment and other unmeasured causes of the outcome generate the post-treatment event through “independent mechanisms”. Then, conditional separable effects and survivor average causal effects can be identified without adjustment for common causes of the post-treatment event and the outcome. We illustrate the results in studies with truncating events, differential nonadherence, and the birth weight paradox.",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-09-28",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-29",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261485596",
+        "doi": "10.1177/13872877261485596",
+        "url": "https://doi.org/10.1177/13872877261485596",
+        "title": "Associations between systemic inflammation, neighborhood tree canopy, and white matter hyperintensities: The healthy brain initiative",
+        "authors": [
+          "Lauren G. Toledo",
+          "Madeleine Tourelle",
+          "James E. Galvin",
+          "Lilah M. Besser"
+        ],
+        "abstract": "Background                     Systemic inflammation is associated with greater white matter hyperintensities (WMH), increasing risk of Alzheimer's disease. Neighborhood greenspaces (e.g., parks) have been associated with reduced inflammation and dementia risk and fewer WMH.                                                           Objective                     To examine whether systemic inflammation and neighborhood % tree canopy are independently associated with and interact to influence WMH.                                                           Methods                     We used cross-sectional data on 161 participants with magnetic resonance imaging (MRI) in University of Miami's Healthy Brain Initiative who were ≥ 50-years old with no to mild cognitive impairment. U.S. Forest Service tree canopy data (2021) were used to derive tree canopy percentage per Census tract. High-sensitivity C-reactive protein (hs-CRP), a marker of systemic inflammation, was categorized as low/moderate (0–3 mg/L) and high (&gt;3 mg/L). Total WMH volume was derived from structural MRI. Multivariable linear regression examined independent associations of hs-CRP and WMH and % tree canopy and WMH, and the association between a four-category hs-CRP-tree canopy variable (based on median cut points) and WMH.                                                           Results                     Participants were 68.7 ± 9.3 years old and 70% were female. Higher hs-CRP was associated with greater WMH, and greater neighborhood % tree canopy was associated with fewer WMH. Compared to those with higher hs-CRP and lower % tree canopy, those with higher hs-CRP and greater % tree canopy had fewer WMH.                                                           Conclusions                     Higher systemic inflammation and greater neighborhood % tree canopy were independently associated with WMH, and our findings suggest that they interact to influence WMH (e.g., in those with higher inflammation, having greater neighborhood tree canopy associated with lower WMH).",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-09-28",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-29",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261487149",
+        "doi": "10.1177/13872877261487149",
+        "url": "https://doi.org/10.1177/13872877261487149",
+        "title": "Synergistic effects of cerebrovascular reactivity and gray matter volume on executive function in aging",
+        "authors": [
+          "Jiajia Zhang",
+          "Xuejia Jia",
+          "Yifei Zhang",
+          "Qihui Wang",
+          "Peiying Liu",
+          "Xiuqin Jia",
+          "Qi Yang"
+        ],
+        "abstract": "Background                     Age-related impairments in cerebrovascular reactivity (CVR) and gray matter volume (GMV) both contribute to cognitive decline, yet their regional interplay and joint impact on cognition remain unclear.                                                           Objective                     To investigate how CVR and GMV are coupled and interact regionally to influence cognition in normal aging.                                                           Methods                     We examined 181 healthy younger adults (18–34 years) and 120 older adults (60–89 years). CVR and GMV (% intracranial volume) in major brain lobes were quantified using resting-state multi-echo functional MRI and structural MRI, respectively. Age-related alterations were defined by standardizing older adults’ values relative to the younger group. Spearman correlations, linear regression models, and interaction analyses were performed.                                                           Results                                            CVR and GMV were not significantly correlated across frontal, temporal, parietal, or occipital lobes (ρ: −0.15 to −0.06; all                       p                        &gt; 0.05). However, significant CVR × GMV interaction effects on executive function were found in parietal and occipital lobes (                       p                       -interaction=0.015 and 0.026). In the occipital lobe, compared with the “low CVR decline + low GMV loss” group, “high CVR decline + low GMV loss” (β=−0.47,                       p                        = 0.004) and “high CVR decline + high GMV loss” (β=−0.60,                       p                        &lt; 0.001), but not “low CVR decline + high GMV loss” (β=−0.23,                       p                        = 0.127), were significantly associated with poorer executive function.                                                                                Conclusions                     CVR and GMV interacted to support executive function in parietal and occipital lobes. Occipital CVR decline linked to poorer executive performance irrespective of GMV status. These findings highlight the importance of multi-modal, cross-scale assessments and suggest CVR as a sensitive marker of executive decline beyond structural measures alone.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-09-28",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-29",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261487173",
+        "doi": "10.1177/13872877261487173",
+        "url": "https://doi.org/10.1177/13872877261487173",
+        "title": "Subregion-specific temporal lobe EEG signatures in amnestic mild cognitive impairment: Evidence from high-density EEG",
+        "authors": [
+          "Shirui Wen",
+          "Jianying Liu",
+          "Jing Wang",
+          "Lingyan Mao",
+          "Qianqian Zhang",
+          "Xin Wang",
+          "Jing Ding"
+        ],
+        "abstract": "Background                     Amnestic mild cognitive impairment (aMCI), a prodromal stage associated with an increased risk of Alzheimer's disease (AD), is characterized by early neural network dysfunction. The temporal lobe is among the earliest affected regions, yet conventional electroencephalography (EEG) provides limited information regarding subregional electrophysiological alterations.                                                           Objective                     To characterize temporal-subregional electrophysiological features in aMCI using high-density EEG (HD-EEG).                                                           Methods                     Fifty-five individuals with aMCI and 35 cognitively normal controls underwent neuropsychological assessment and resting-state 128-channel HD-EEG recording. Spectral power was quantified across the whole temporal lobe and its anterior, middle, and posterior subregions. Group differences were assessed using Welch's t-tests and Mann–Whitney U tests. Associations between EEG measures and cognitive performance were examined using Spearman correlation analyses. Exploratory receiver operating characteristic (ROC) and multivariable classification analyses were performed to evaluate discriminatory performance.                                                           Results                     Compared with controls, individuals with aMCI showed significantly poorer cognitive performance. HD-EEG analyses revealed increased gamma-band activity across bilateral temporal subregions, whereas elevated delta power and theta/beta ratios were primarily localized to right temporal subregions. Right temporal delta activity was negatively associated with memory performance. Connectivity analyses demonstrated enhanced fast-frequency coupling involving temporal regions, with particularly evident alterations in the left posterior temporal subregion. Classification analyses showed that gamma-band measures derived from left temporal subregions achieved discriminatory performance comparable to conventional whole-temporal measures.                                                           Conclusions                     HD-EEG identified subregion-specific temporal-lobe electrophysiological alterations in aMCI. Temporal-subregional EEG profiling may provide additional electrophysiological information beyond conventional whole-lobe analyses and improve the characterization of aMCI-related neural alterations.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-09-28",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-29",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261487358",
+        "doi": "10.1177/13872877261487358",
+        "url": "https://doi.org/10.1177/13872877261487358",
+        "title": "Edentulism and cognitive transitions: A multi-state analysis",
+        "authors": [
+          "Lulu Tang",
+          "Changcui Qiu",
+          "Chunwei Chi",
+          "Fei Liu",
+          "Xiaoping Zhu"
+        ],
+        "abstract": "Background                     Edentulism has been linked to cognitive decline, yet its effects on the transitions from normal cognition to dementia and ultimately death remain unclear.                                                           Objective                     This study aimed to evaluate how edentulism influences cognitive state transitions across the aging continuum.                                                           Methods                     We conducted a prospective cohort analysis of 22,205 adults aged 50 years or older from China, the USA, and England, with cognitive states assessed over a median follow-up of 12.3 years. Multi-state Markov models were used to estimate transition-specific hazard ratios (HR) and population attributable fractions (PAFs) for edentulism after adjusting for sociodemographic, behavioral, and health covariates. A Cox regression model was used to estimate edentulism associated with the risk of cognitive status and death.                                                           Results                     At baseline, 7.41% of Chinese, 21.64% of US, and 14.24% of English participants were edentulous. During follow-up, 60.1% developed mild cognitive impairment (MCI), 13.6% of those progressed to dementia, and 36.0% died after dementia. Edentulism significantly increased the risk of transition from baseline to death (HR = 1.27, 95% CI:1.13, 1.42) and from MCI to dementia (HR = 1.26, 95% CI:1.12, 1.40). The corresponding PAFs were 4.58% and 6.52%, respectively. Subgroup analyses by age and sex yielded consistent results.                                                           Conclusions                     Edentulism was associated with faster progression from MCI to dementia and higher death risk. These findings highlight the importance of oral health maintenance as a potential target for Alzheimer's disease and dementia prevention.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-09-28",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-29",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261487392",
+        "doi": "10.1177/13872877261487392",
+        "url": "https://doi.org/10.1177/13872877261487392",
+        "title": "Age-dependent associations between physical activity and cognitive function in adults aged 70–100: A cross-sectional and longitudinal study",
+        "authors": [
+          "Irit Stessman Lande",
+          "Aliza Rozenberg",
+          "Jochanan Stessman",
+          "Jeremy M. Jacobs"
+        ],
+        "abstract": "Background                     While the protective effects of physical activity (PA) on cognitive function and risk for cognitive decline are well documented, it remains unclear if the preventive effect continues at advancing age.                                                           Objective                     This study aims to examine the association between PA and cognitive impairment between ages 70–100                                                           Methods                     The Jerusalem Cross-sectional and Longitudinal Study (1990–2023) prospectively follows a representative community-dwelling cohort born 1920–1921, combining follow-up of the original cohort with repeated recruitment of same–birth cohort participants at each age. During the study, assessments were performed at ages 70, 78, 85, 90, 95, and 100 (n = 604, 1024, 1222, 729, 508, 205, respectively). Comprehensive assessment included Mini-Mental State Examination (MMSE) defining cognitive impairment (≤23/30), and self-reported PA, dichotomized to Sedentary (PA-S) (&lt;4 h weekly) versus Active (PA-A) (at least &gt;4 h a week).                                                           Results                     At ages 70, 78, 85, 90, 95, and 100 the frequency of PA-A was 53.5%, 77.0%, and declined to 64.3%, 16.0%, 25.5%, and 27.1%, respectively. In a longitudinal analysis, PA-S at baseline was found to have a statistically significant association with cognitive impairment at a later age between ages 78–85, 85–90: OR 2.61 (95%CI 1.38–4.82); OR 2.90 (95%CI 1.63- 5.11), respectively. At ages 90–95 a similar not statistically significant effect was found.                                                           Conclusions                     PA is associated with better cognitive aging and lower risk for cognitive impairment in advanced age. Inclusion of very old adults extends evidence into an age rarely examined and demonstrates that promotion of PA remains relevant even at advanced ages.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-09-28",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-29",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261487604",
+        "doi": "10.1177/13872877261487604",
+        "url": "https://doi.org/10.1177/13872877261487604",
+        "title": "Integrating transcriptomic data to identify calmodulin-related diagnostic biomarkers for Alzheimer's disease",
+        "authors": [
+          "Xi'An Wang",
+          "Yanbin Huang",
+          "Jiuru Li"
+        ],
+        "abstract": "Background                     Alzheimer's disease (AD) is driven by amyloid-β, tau protein, and neuroinflammation. Calmodulin-mediated calcium signaling centrally links synaptic dysfunction, tauopathy, and inflammation, making it a key mechanistic and therapeutic target.                                                           Objective                     To identify calmodulin-related diagnostic biomarkers for AD and explore associated immune profiles and molecular subtypes.                                                           Methods                     The present work utilized integrative bioinformatics for the characterization of calmodulin-related genes in AD. Differentially expressed calmodulin-related genes were identified from Gene Expression Omnibus datasets and the Human Protein Atlas. Core genes were screened using weighted gene co-expression network analysis combined with three machine learning algorithms (Least Absolute Shrinkage and Selection Operator, random forest, and Support Vector Machine), from which a diagnostic model was subsequently constructed and validated. Immune infiltration was evaluated via ssGSEA and CIBERSORT, transcription factor and ceRNA regulatory networks were established, and small-molecule drugs were predicted. Consensus clustering was further applied to define molecular subtypes.                                                           Results                     From 50 differentially expressed genes, three core genes—MKNK2, ITPKB, and CEP97—showed strong diagnostic performance. Immune cell alterations were uncovered, regulatory networks and drug candidates predicted, and consensus clustering divided AD patients into two distinct subtypes.                                                           Conclusions                     ITPKB, MKNK2, and CEP97 are identified as calmodulin-related AD biomarkers linked to immune infiltration and subtyping, with potential for early diagnosis and novel therapies.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-09-28",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-29",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261488808",
+        "doi": "10.1177/13872877261488808",
+        "url": "https://doi.org/10.1177/13872877261488808",
+        "title": "Lithium exposure and risk of dementia and Alzheimer's disease: A systematic review and meta-analysis",
+        "authors": [
+          "Lorenzo Campedelli",
+          "Andrea Cicoli",
+          "Mara Lastretti",
+          "Sabina Spagna",
+          "Ettore D'Aleo",
+          "Alberto Costa"
+        ],
+        "abstract": "Background                     Alzheimer's disease (AD) is the most common cause of dementia, affecting over 55 million people worldwide with no established disease-modifying treatments. Lithium has emerged as a potential neuroprotective agent through multiple molecular mechanisms, and observational studies suggest reduced dementia risk among users, but evidence synthesis is needed.                                                           Objective                     To evaluate the association between lithium exposure and dementia incidence through systematic review and meta-analysis.                                                           Methods                     We conducted a systematic review following PRISMA 2020 guidelines, searching major databases through December 2024. Random-effects meta-analyses with Hartung-Knapp-Sidik-Jonkman adjustment were performed.                                                           Results                     Twenty-three primary studies with original data (n &gt; 1.2 million) were included in qualitative synthesis; 11 provided extractable quantitative data, including 8 individual-level and 3 ecological studies. Four cohort studies showed a pooled hazard ratio (HR) of 0.633 (95% CI: 0.517–0.775; p = 0.003), indicating ∼37% lower dementia risk with lithium. Two individual-level studies showed HR 0.656 (95% CI: 0.427–1.009; p = 0.052) for AD diagnosis. Three randomized controlled trials (RCTs) of cognitive outcomes yielded SMD −0.410 (95% CI: −0.810 to −0.020; p = 0.040) based on 229 participants. Two ecological studies using incidence rate ratios (IRR 0.830, 95% CI: 0.810–0.850) were directionally consistent. Substantial heterogeneity reflected clinical diversity, with consistent protective effects across subgroups.                                                           Conclusions                     Lithium exposure was consistently associated with reduced dementia risk. While observational evidence precludes definitive causal inferences, the magnitude, consistency, and biological plausibility support lithium as a promising candidate for dementia prevention research. Large-scale, long-term RCTs are needed to establish causality.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-09-28",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-29",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261488812",
+        "doi": "10.1177/13872877261488812",
+        "url": "https://doi.org/10.1177/13872877261488812",
+        "title": "Efficacy and safety of aducanumab, lecanemab, and donanemab in Alzheimer's disease: A meta-analysis of randomized controlled trials",
+        "authors": [
+          "Muaz Ali",
+          "Haroon Shabbir",
+          "Maheen Shaharyar",
+          "Sindu Mukesh",
+          "Adriana Rodriguez",
+          "Mansour Afshani",
+          "Deepak Kalra",
+          "Ahmed Koriesh"
+        ],
+        "abstract": "Background                     Anti-amyloid monoclonal antibodies offer a treatment strategy for early Alzheimer's disease, but their modest efficacy must be weighed against important safety concerns.                                                           Objective                     To evaluate the efficacy and safety of aducanumab, lecanemab, and donanemab in randomized placebo-controlled trials.                                                           Methods                                            PubMed, Cochrane, and ClinicalTrials.gov were searched through February 2026 for randomized placebo-controlled trials evaluating aducanumab, lecanemab, or donanemab in early symptomatic Alzheimer's disease. Outcomes included Clinical Dementia Rating–Sum of Boxes (CDR-SB), Alzheimer's Disease Assessment Scale–Cognitive Subscale (ADAS-Cog), Mini-Mental State Examination (MMSE), amyloid-related imaging abnormalities–edema/effusion (ARIA-E), amyloid-related imaging abnormalities–hemosiderin deposition (ARIA-H), and                       APOE                       ε4-stratified ARIA-E. Random-effects meta-analyses were performed.                                                                                Results                                            Seven trials were included. Treatment favored intervention for ADAS-Cog (SMD −0.15, 95% CI −0.21 to −0.10), CDR-SB (MD −0.41, 95% CI −0.63 to −0.18), and MMSE (MD 0.44, 95% CI 0.03 to 0.86), although effects were small. Treatment increased ARIA-E (23.9% versus 1.9%; RR 11.65, 95% CI 9.06 to 14.99) and ARIA-H (16.8% versus 6.8%; RR 2.45, 95% CI 1.94 to 3.09). Among treated participants with                       APOE                       ε4-stratified ARIA-E data,                       APOE                       ε4 carriers had higher ARIA-E risk than non-carriers (29.3% versus 13.8%; RR 2.10, 95% CI 1.67 to 2.64). Brain-volume loss, ventricular enlargement, and treatment-related deaths were narratively identified but not pooled.                                                                                Conclusions                     Aducanumab, lecanemab, and donanemab showed statistically significant but small slowing of decline that may not reach patient-perceptible clinical meaningfulness. Increased ARIA risk and additional safety signals support cautious selection, imaging surveillance, and individualized risk-benefit discussions.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-09-28",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-29",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261488813",
+        "doi": "10.1177/13872877261488813",
+        "url": "https://doi.org/10.1177/13872877261488813",
+        "title": "Estimating anti-amyloid therapy eligibility in Alzheimer's disease: A real-world retrospective study from an Italian memory clinic",
+        "authors": [
+          "Francesco Motolese",
+          "Francesca Ursini",
+          "Davide Norata",
+          "Fioravante Capone",
+          "Elisabetta Sapio",
+          "Maria Luisa Di Giesi",
+          "Silvia Antonella Selvaggi",
+          "Gabriele Annesi",
+          "Mariagrazia Rossi",
+          "Rosalinda Calandrelli",
+          "Carlo Augusto Mallio",
+          "Caterina Bernetti",
+          "Michele Tondo",
+          "Bruno Beomonte Zobel",
+          "Eliodoro Faiella",
+          "Fabio Pilato",
+          "Vincenzo Di Lazzaro"
+        ],
+        "abstract": "Background                     Amyloid-targeting therapies (ATTs) such as donanemab may change the management of Alzheimer's disease (AD). However, ATTs require meticulous eligibility assessment to optimize the benefit-to-risk ratio.                                                           Objective                     To quantify the proportion of patients eligible for donanemab in a real-world Italian memory clinic, and to assess how this proportion changes under stricter biological criteria.                                                           Methods                     In this real-world study, we retrospectively evaluated consecutive patients with new-onset cognitive symptoms at the Fondazione Policlinico Campus Bio-Medico between October 2024 and March 2026. Amyloid status was determined by cerebrospinal fluid (CSF) examination or PET-imaging. Eligibility was determined using European Medicines Agency and Appropriate Use Recommendations (AUR).                                                           Results                     We included 179 consecutive patients (mean age 72.3 ± 7.2 years, 77 [44.0%] female) with mean Mini-Mental State Examination score 26.4 ± 3.3. A clinical diagnosis of AD was made in 78 (43.6%), and 46 (25.7%) were amyloid-positive. Overall, 21 patients (11.7% of the total cohort and 45.6% of amyloid-positive individuals) fulfilled all AUR criteria for donanemab. Requiring concomitant CSF p-tau positivity further reduced eligibility to 13 patients, accounting for 7.3% of the total cohort.                                                           Conclusions                     Although ATTs represent a novel therapeutic option that targets the underlying AD pathology, their real-world applicability remains limited to a small patient fraction, narrowing further under strict biological stratification. Concerns regarding cost-effectiveness and practical implementation persist. Early-stage AD diagnosis and precise stratification are paramount to ensure that the promise of disease-modifying therapies can be translated into tangible clinical impact.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-09-28",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-29",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261489152",
+        "doi": "10.1177/13872877261489152",
+        "url": "https://doi.org/10.1177/13872877261489152",
+        "title": "Associations of social isolation and its subdomains with cognition and cerebrospinal fluid amyloid pathologies in non-demented adults: The CABLE study",
+        "authors": [
+          "Shi-Yin Xiong",
+          "Yong-Li Zhao",
+          "Yan Fu",
+          "Qiong-Yao Li",
+          "Dan-Dan Zhang",
+          "Shu-Dong Qiu",
+          "Yong-Chang Wang",
+          "Zhen Yan",
+          "Wei Zhang",
+          "Lan Tan"
+        ],
+        "abstract": "Background                     Social isolation is increasingly recognized as a modifiable risk factor for cognitive impairment. However, the associations with Alzheimer's disease (AD)-related cerebrospinal fluid (CSF) biomarkers remain unexplored.                                                           Objective                     To evaluate the relationships between social isolation, cognition, and CSF biomarkers and how these are influenced by other factors.                                                           Methods                                            In this cross-sectional study, 957 non-demented adults from the Chinese Alzheimer's Biomarker and LifestyLE (CABLE) study (mean age: 64.19 years; 46% male) were included. Multiple linear regression models were used to analyze the associations of social isolation and its subdomains (social networks, marital status, and social activities) with cognition and CSF biomarkers after adjustment for age, gender, education, and                       APOE                       ɛ4 allele status. Interactive, stratified, and sensitivity analyses were further conducted.                                                                                Results                                            Social isolation was significantly associated with worse cognitive performance, including lower MMSE (                       β                       =-0.09,                       PFDR                       =0.008) and MoCA scores (                       β                       =-0.11,                       PFDR                       =0.002). Social isolation was also associated with CSF amyloid pathology, including decreased Aβ                       42                       (                       β                       =-0.14,                       PFDR                       =0.004), decreased Aβ                       40                       (                       β                       =-0.16,                       PFDR                       &lt;0.001), and increased T-tau/Aβ                       42                       ratio (                       β                       =0.12,                       PFDR                       =0.016) levels. Specifically, smaller social networks were correlated with poorer cognition and decreased CSF Aβ                       42                       and Aβ                       40                       levels, while being without a spouse was associated with decreased CSF Aβ                       42                       and Aβ                       40                       levels and increased P-tau/Aβ                       42                       and T-tau/Aβ                       42                       ratios. Associations were primarily observed among males and                       APOE                       ε4 non-carriers in subgroup analyses. Sensitivity analyses confirmed the robustness of our findings.                                                                                Conclusions                     Social isolation, particularly smaller social networks and being without a spouse, is associated with worse cognitive performance and early CSF amyloid-related biomarkers levels in non-demented adults.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-09-28",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-29",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261489585",
+        "doi": "10.1177/13872877261489585",
+        "url": "https://doi.org/10.1177/13872877261489585",
+        "title": "Older adults’ attitudes toward knowing their risk of Alzheimer's disease and preclinical diagnostic communication: A nationwide study",
+        "authors": [
+          "Marie Bruun",
+          "T. Rune Nielsen",
+          "Gunhild Waldemar",
+          "Kristian Steen Frederiksen"
+        ],
+        "abstract": "Background                     Communication about biomarkers and disclosure of Alzheimer's disease pathology is challenging. Earlier diagnosis has intensified this challenge, but evidence regarding communication of positive biomarker results for Alzheimer's disease to individuals with subjective cognitive decline remains limited.                                                           Objective                     The study aimed to investigate older adults’ attitude toward knowing their risk of Alzheimer's disease, preferences regarding pre-biomarker counseling and diagnostic disclosure, and their views on the use of artificial intelligence in the diagnostic process when presented with a hypothetical scenario of subjective cognitive decline.                                                           Methods                     We conducted a cross-sectional nationwide questionnaire survey among an age-selected, sex- and residence-balanced sample from the Danish Civil Registration System where individuals with dementia, nursing home residency, or dementia medication use were excluded. An online questionnaire was sent to 30,000 participants.                                                           Results                     A total of 12,939 participants (aged 55–84 years, 53.3% female) answered at least one questionnaire item (response rate: 43.1%). More than two-thirds of the participants were interested in knowing their Alzheimer's disease risk status (76.4%). Information on treatment options, test reliability and risk prediction, along with written material, personal interaction and follow-up consultation, were rated as the most important topics. Simple graphical figures were preferred to accompany risk communication. Finally, 56.4% were positive toward use of artificial intelligence in diagnostics by physicians.                                                           Conclusions                     Older adults are interested in knowing their risk of developing Alzheimer's disease and trust physicians’ use of artificial intelligence in the diagnostic process. Moreover, their preferences regarding information and methodology may help improve the current guidelines.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-09-28",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-29",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261489594",
+        "doi": "10.1177/13872877261489594",
+        "url": "https://doi.org/10.1177/13872877261489594",
+        "title": "Spirometry-defined obstructive airflow limitation and risk of incident dementia: A nationwide cohort study in South Korea",
+        "authors": [
+          "Dongjin Yeo",
+          "Soeun Kim",
+          "Kyeongmin Lee",
+          "Yejun Son",
+          "Hayeon Lee",
+          "Sunyoung Kim",
+          "Hyeon Seok Hwang",
+          "Dong Keon Yon"
+        ],
+        "abstract": "Background                     Whether spirometry-defined airflow limitation is independently associated with incident dementia and related disability burden remains unclear.                                                           Objective                     To investigate the association between obstructive airflow limitation and incident dementia and to estimate dementia-related years lived with disability (YLDs) in a nationwide cohort.                                                           Methods                     We conducted a nationwide population-based cohort study linking the Korea National Health and Nutrition Examination Survey (2014–2021) with national health insurance claims data. Adults aged ≥40 years with baseline spirometry and no prior dementia were included. Airflow limitation was defined as FEV1/FVC &lt;0.70, with severity classified by percent-predicted FEV1. Inverse probability of treatment weighting balanced baseline covariates. Cox models estimated adjusted hazard ratios (aHRs) and 95% confidence intervals (CIs) for incident dementia. Dementia-related YLDs were calculated using Global Burden of Disease Study weights.                                                           Results                     During follow-up (2014–2023), 760 cases (4.79%) of dementia occurred among 15,854 adults. Normal pulmonary function was associated with lower dementia risk than airflow limitation (aHR, 0.62 [95% CI, 0.50–0.77]). Within the normal range, risk decreased across increasing FEV1/FVC tertiles (T1 [lowest], 0.76 [0.60–0.96]; T2, 0.63 [0.49–0.81]; T3 [highest], 0.45 [0.34–0.59]). Among those with airflow limitation, risk increased with severity (mild: 1.32 [0.95–1.84]; moderate: 1.87 [1.41–2.46]). Greater severity was also associated with higher YLDs.                                                           Conclusions                     Spirometry-defined airflow limitation was associated with higher dementia risk and greater disability burden, suggesting impaired pulmonary function as a potential factor in dementia risk stratification and brain health.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-09-28",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-29",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261490548",
+        "doi": "10.1177/13872877261490548",
+        "url": "https://doi.org/10.1177/13872877261490548",
+        "title": "Comparison of Clock Drawing Test and Rey Complex Figure Test scoring methods for detecting mild and major neurocognitive disorder due to Alzheimer's disease in a real-world clinical setting",
+        "authors": [
+          "Charalampos L. Kandilakis",
+          "Maria Skondra",
+          "Grigorios Papageorgiou",
+          "Eleni Konidari",
+          "Violeta Papalexiou",
+          "Leonidas Papadopoulos",
+          "Marina Charalampopoulou",
+          "Eleni-Zacharoula Georgiou",
+          "Ianthi Marouli",
+          "Loukia-Maria Malagkoniari",
+          "Andreas Kostakiotis",
+          "Polychronis Economou",
+          "Panagiotis Felemegkas",
+          "Panagiotis Alexopoulos"
+        ],
+        "abstract": "Background                     Direct comparisons of different scoring methods of the Clock Drawing Test (CDT) and the copy trial of the Rey Complex Figure Test (RCFT) remain limited.                                                           Objective                     The study aimed to compare the effectiveness of four- and two scoring systems of the CDT and the RCFT, respectively, in detecting mild neurocognitive disorder (MildND) due to Alzheimer's disease (AD) and major neurocognitive disorder (MajorND) due to AD.                                                           Methods                     The study included 141 cognitively unimpaired individuals, 209 people with MildND and 76 with MajorND due to AD. The 3-point CDT scoring method (CDT3), the Gestalt-, Freund-, and Rouleau methods were employed, while the RCFT Copy trial was scored with the 36-point Taylor system and the RCFT central-items (RCFTci) method. Statistical analyses included comparison analyses and proportional odds logistic regression (POLR) models, while stratified bootstrap resampling was used to repeatedly partition the sample into training and validation sets (70/30 ratio).                                                           Results                     The Rouleau CDT scoring method achieved the highest classification performance (F1 = 0.67; 95% CI: 0.59–0.74), followed by the Gestalt method (F1 = 0.65; 95% CI: 0.57–0.72), the Freund method (F1 = 0.64; 95% CI: 0.56–0.72), and the CDT3 (F1 = 0.63; 95% CI: 0.55–0.71). The CDT Rouleau method and the RCFT Copy trial showed similar performance (F1 = 0.67; 95% CI: 0.59–0.74), while RCFTci was less effective (F1 = 0.62; 95% CI: 0.54–0.70).                                                           Conclusions                     The CDT and RCFT Copy trial demonstrated comparable diagnostic accuracy, yet their distinct characteristics (administration time, scoring complexity) may guide test selection across healthcare settings.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-09-28",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-29",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261490595",
+        "doi": "10.1177/13872877261490595",
+        "url": "https://doi.org/10.1177/13872877261490595",
+        "title": "Diagnosis and management of mild cognitive impairment and mild Alzheimer's disease dementia: Findings from an Italian real-world survey",
+        "authors": [
+          "Stefania Ippati",
+          "Federico Torelli",
+          "Giovanna Zamboni",
+          "Alessandro Iavarone",
+          "Alessandro Martorana",
+          "Brenda Botello",
+          "Sarah Cotton",
+          "Chloe Walker",
+          "Zoe Phillips",
+          "Arianna Avitabile"
+        ],
+        "abstract": "Background                     The identification and early diagnosis of mild cognitive impairment (MCI) and mild Alzheimer's disease (AD) dementia are critical for timely intervention, yet implementation of biomarker-based diagnostics in the Italian healthcare system remains limited.                                                           Objective                     To characterize the real-world diagnostic journey, barriers, and management pathways of MCI and mild AD dementia patients in Italy.                                                           Methods                     Data were drawn from the Adelphi Real World Dementia Disease Specific Programme™, a cross-sectional survey of Italian primary care physicians and specialists. Physicians reported on diagnostic assessments, biomarker testing, and treatment initiation for consulting patients with MCI/mild AD dementia.                                                           Results                     Physicians provided data on 325 patients (mean age: 74.1 years; 48.3% female). Patients aged ≥75 had lower Mini-Mental State Examination scores at survey (p = 0.0028) and diagnosis (p = 0.0223) than patients aged &lt;75 years. Short-term memory loss (87.6%) was the most common symptom. Delays in diagnosis were most commonly attributed to limited specialist access (55.8%), prolonged interval between consultations (27.0%), and restricted diagnostic resources (20.4%). Magnetic resonance imaging was the primary imaging modality (65.7%), while biomarker testing such as cerebrospinal fluid and amyloid positron emission tomography were performed in 15.9% and 16.3% of cases, likely hindered by patient's reluctance and cost, respectively, as indicated by specialist-perceived challenges in using biomarkers for early symptomatic AD diagnosis. Patients whose treatment was initiated by specialists were commonly prescribed acetylcholinesterase inhibitors (72.8%).                                                           Conclusions                     Delays in MCI and mild AD dementia diagnosis persist alongside systemic barriers and limited biomarker use. Improving referral pathways and biomarker access is essential for timely diagnosis and management.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-09-28",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-29",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261491985",
+        "doi": "10.1177/13872877261491985",
+        "url": "https://doi.org/10.1177/13872877261491985",
+        "title": "Alzheimer's disease polygenic risk scores and postoperative delirium: A promising marker, but not yet a clinical tool",
+        "authors": [
+          "Rômulo Rebouças Lôbo",
+          "Lucas Tadeu Rocha Santos",
+          "Arnaldo Aires Peixoto Junior",
+          "Danielle S. Macedo"
+        ],
+        "abstract": "Recent advances in Alzheimer's disease (AD) biomarkers and genomics have raised interest in personalized approaches to related conditions such as postoperative delirium (POD). Chen et al. report a moderate association between AD polygenic risk scores (AD-PRS) and POD, suggesting genetic susceptibility as a marker of biological vulnerability. However, the clinical utility of AD-PRS remains uncertain, as the study does not demonstrate incremental predictive value over established clinical risk factors. At present, AD-PRS should be considered a research tool. Future studies should assess its predictive performance, cost-effectiveness, and ethical implementation in diverse populations.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-09-28",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-29",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261491982",
+        "doi": "10.1177/13872877261491982",
+        "url": "https://doi.org/10.1177/13872877261491982",
+        "title": "From bilingual dementia screening to equitable clinical action in primary care",
+        "authors": [
+          "Yu Fujiwara"
+        ],
+        "abstract": "Shah et al. embedded a brief bilingual dementia screening tool in the electronic health record and reported increases in diagnosis, referral, laboratory testing, and prescribing in a diverse primary care clinic serving patients at risk for Alzheimer's disease and related dementias. The novelty lies less in the test itself than in integrating culturally and linguistically responsive case finding into routine care and linking positive results to next clinical actions. This commentary considers how that implementation logic could be adapted to Japan.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-09-28",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-29",
         "fetched_from": "crossref"
       },
       {
@@ -49063,6 +50335,113 @@
         "fetched_from": "crossref"
       },
       {
+        "id": "doi:10.1007/s10896-026-01191-1",
+        "doi": "10.1007/s10896-026-01191-1",
+        "url": "https://doi.org/10.1007/s10896-026-01191-1",
+        "title": "A Network Analysis of Adverse Childhood Experiences and Adolescent Depressive Symptoms",
+        "authors": [
+          "Shengyu Luo",
+          "Lu Li",
+          "Xiuqiong Feng",
+          "Weiqing Chen",
+          "Dan Xu",
+          "Vivian Yawei Guo"
+        ],
+        "abstract": "",
+        "source": "Journal of Family Violence",
+        "issn": "0885-7482",
+        "date": "2026-09-28",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-09-29",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1007/s10896-026-01189-9",
+        "doi": "10.1007/s10896-026-01189-9",
+        "url": "https://doi.org/10.1007/s10896-026-01189-9",
+        "title": "The Association of War-Zone Stressors with Intimate Partner Physical and Sexual Aggression in a Sample of US Military Personnel Deployed to Iraq and Afghanistan",
+        "authors": [
+          "Emily F. Rothman",
+          "Audrey Huff",
+          "Ohad Gilbar",
+          "Casey Taft"
+        ],
+        "abstract": "",
+        "source": "Journal of Family Violence",
+        "issn": "0885-7482",
+        "date": "2026-09-28",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-09-29",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1007/s10896-026-01184-0",
+        "doi": "10.1007/s10896-026-01184-0",
+        "url": "https://doi.org/10.1007/s10896-026-01184-0",
+        "title": "Design for Safety: Perceptions of Safety Among Residents and Staff within Family and Domestic Violence Refuges in Australia",
+        "authors": [
+          "Heather Mitcheltree",
+          "Minna Marjaana Sunikka-Blank"
+        ],
+        "abstract": "Abstract                                        Purpose                     The point at which someone decides to leave a situation of family and domestic violence (FDV) is often marked by an escalation of violence, making it critical that safe housing options are available. However, what constitutes ‘safe’, and how can the design of the refuge environment help contribute to a greater sense of safety? This research examines the impact of the design of FDV refuges on residents’ and staff’s perceptions of safety.                                                           Methods                                            Structured interviews and an accompanying demographic survey were conducted with residents (                       n                        = 31) and staff (                       n                        = 21) at six FDV women’s refuges across Australia. Interview data were analysed using inductive content analysis.                                                                                Results                     Among staff, we see emphasis on physical safety, risk management, and a linking of the concept of safety with that of home. Whereas for residents, perceptions of safety were defined more in terms of emotional safety and the absence of fear, stress and anxiety, and the positive impact of personal support. Additionally, whilst staff cited the use of hidden refuge locations as an important safety feature, among residents, hidden locations did not feature strongly as a factor contributing to perceptions of safety.                                                           Conclusion                     For residents, perceptions of safety extend beyond physical safety, and there is a need to broaden notions of how the design of refuges might better support safety. Designers and service providers need to embrace a more comprehensive notion of safety as one that also integrates emerging research on design for wellbeing, trauma-informed design, and the physiological impact of the built environment.",
+        "source": "Journal of Family Violence",
+        "issn": "0885-7482",
+        "date": "2026-09-28",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-09-29",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/bjsw/bcag208",
+        "doi": "10.1093/bjsw/bcag208",
+        "url": "https://doi.org/10.1093/bjsw/bcag208",
+        "title": "Deriving hope from moral indignation: The emotional foundations of volunteering and activism in the 6 February earthquakes",
+        "authors": [
+          "Gizem Kordali Takak",
+          "Fatih Şahin"
+        ],
+        "abstract": "Abstract                   This study investigated the role of moral indignation emerging in the wake of the 6 February earthquakes, the structural failures diagnosed by this emotion, and the conditions under which it translates into social action. Drawing on in-depth interviews with fifteen individuals engaged in volunteering and activism in Hatay, Turkey, the research revealed that indignation served as a diagnostic force rooted in the violation of the sanctity of life, justice, and equality. However, the findings suggested that indignation alone was insufficient; for it to be transformed into sustainable collective action, a dynamic synergy with hope was required. The analysis deciphered how indignation rendered systemic failures and historical traumas visible, while hope purged this emotion of resentment or melancholy, transforming it into a form of professional agency. The primary originality of this research lies in its transition from a perspective initially focused on anger to a synthesis of “hopeful indignation”—a concept that bridged critical reflexivity with constructive energy. By positioning emotions as catalysts for political resistance rather than pathological reactions, this study proposed a radical intervention framework for social work. It advocated for a professional shift from merely alleviating anger toward organizing it through the transformative power of hope.",
+        "source": "The British Journal of Social Work",
+        "issn": "0045-3102",
+        "date": "2026-09-28",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-09-29",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/bjsw/bcag226",
+        "doi": "10.1093/bjsw/bcag226",
+        "url": "https://doi.org/10.1093/bjsw/bcag226",
+        "title": "Hybrid child protection conferences in England: Participation, relational practice, and decision-making",
+        "authors": [
+          "Laura L Cook",
+          "Mary Baginsky",
+          "Julia Rimmer"
+        ],
+        "abstract": "Abstract                   Child protection conferences are central to decision-making within child welfare systems. Following the expansion of online working during the pandemic, many English local authorities have adopted hybrid conferences, combining in-person and online participation. However, little is known about how these arrangements shape participation and decision-making. This article reports first-stage findings from a national study of hybrid conferences. It examines how they are organized and practitioners’ views on their implications for participation and multi-agency deliberation. Data derive from nine regional workshops with children’s social care professionals (n = 301) and an associated questionnaire (n = 375), with responses received from 95 percent of English local authorities. The analysis identifies a six-type typology of conference configurations currently in use, spanning a continuum from fully in-person to fully online formats. In addition to mapping national practice, this article makes a conceptual contribution to understanding professional judgement in child protection by showing how different conference configurations create distinct relational conditions that shape interaction and decision-making. While hybrid conferences may widen access and improve attendance, some, particularly those where parents attend online, introduce relational risks that may influence decision-making dynamics. Hybrid conferences should therefore be treated as adaptable tools requiring explicit consideration of their relational and decision-making effects.",
+        "source": "The British Journal of Social Work",
+        "issn": "0045-3102",
+        "date": "2026-09-28",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-09-29",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1093/bjsw/bcag235",
         "doi": "10.1093/bjsw/bcag235",
         "url": "https://doi.org/10.1093/bjsw/bcag235",
@@ -50696,10 +52075,10 @@
   },
   "totals": {
     "socialSecurity": 1530,
-    "elderCare": 231,
-    "healthReform": 423,
-    "agingHealth": 329,
-    "socialWork": 90
+    "elderCare": 233,
+    "healthReform": 435,
+    "agingHealth": 358,
+    "socialWork": 95
   },
   "feeds_ok": 41
 }
