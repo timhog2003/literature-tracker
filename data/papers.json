@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-29",
-  "fetched": "2026-09-29T07:08:18+00:00",
+  "date": "2026-09-30",
+  "fetched": "2026-09-30T06:59:13+00:00",
   "domains": {
     "socialSecurity": [
       {
@@ -23371,6 +23371,32 @@
     ],
     "elderCare": [
       {
+        "id": "doi:10.1186/s12877-026-08344-3",
+        "doi": "10.1186/s12877-026-08344-3",
+        "url": "https://doi.org/10.1186/s12877-026-08344-3",
+        "title": "Leisure lifestyle patterns and multidimensional health outcomes among older adults in China: a latent class analysis of the 2023 Chinese General Social Survey",
+        "authors": [
+          "Lin Luo",
+          "Mingyu Yu",
+          "Jing Ma",
+          "Yu Wen",
+          "Haixin Zeng",
+          "Liwei Liu",
+          "Shenglan Zhang"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-30",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-30",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1186/s12877-026-08257-1",
         "doi": "10.1186/s12877-026-08257-1",
         "url": "https://doi.org/10.1186/s12877-026-08257-1",
@@ -23395,6 +23421,115 @@
           "agingHealth"
         ],
         "firstSeen": "2026-09-29",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/geront/gnag230",
+        "doi": "10.1093/geront/gnag230",
+        "url": "https://doi.org/10.1093/geront/gnag230",
+        "title": "Healthcare Provider Experiences Delivering Dementia Care in Indigenous Communities: Challenges and Recommendations",
+        "authors": [
+          "Carey Gleason",
+          "Nickolas Lambrou",
+          "Melissa Blind",
+          "Dana Ketcher",
+          "Elizabeth Weigler",
+          "Melinda Dertinger",
+          "January Johnson",
+          "Alexis Mason",
+          "Susan L Ninham",
+          "Red Lake Nation Ojibwe",
+          "Karen Pitawanakwat",
+          "Collette Pederson",
+          "Lois Metoxen Strong",
+          "Marlene Summers",
+          "Rhonda Trudeau",
+          "Wayne Warry",
+          "Kristen Jacklin"
+        ],
+        "abstract": "Abstract                                        Background and Objectives                     Little is known regarding the effects of Alzheimer’s disease and related dementias (AD/ADRD) in in American Indian and First Nation (AI/FN) communities in the US and Canada. Yet, research suggests FN populations in Canada experience 34% higher dementia rates and over half of US-based Indigenous adults demonstrate incident cognitive impairment, including dementia due to AD and/or cerebrovascular disease. Already higher than the general population, rates will increase as Indigenous populations age. The Indigenous Cultural Understandings of ADRD-Research and Engagement (ICARE) project was established to understand lived-experiences of dementia in AI/FN communities around the Great Lakes. We report themes describing practitioner experiences providing dementia care in selected US and Canadian Indigenous communities.                                                           Research Design and Methods                     Healthcare practitioners (n = 14) providing care in Indigenous communities were interviewed by community-based researchers using semi-structured guides exploring a range of topics. Thematic analysis was used to identify challenges and recommendations to improve care. Trustworthiness checks included reflexivity, consensus, prolonged engagement, member checking and audit.                                                           Results                     Thematic analysis yielded six superordinate themes. Provider-perceived challenges included: 1) Limited Resources for Providing Dementia Care, 2) Need for Caregiver-focused Preparation and Support, 3) Communication and Relationship Gaps, 4) Low-levels of Community Dementia-related Awareness, Education and Engagement. Provider recommendations were characterized as: 5) Increase Dementia-related Awareness, Education and Engagement, 6) Invest in Dementia Caregiver Support and Community Strengths.                                                           Discussion and Implications                     Findings were contextualized with post-colonial and relational care frameworks. Providers described relevant challenges and provided culturally safe and equitable strategies to improve dementia care outcomes.",
+        "source": "The Gerontologist",
+        "issn": "0016-9013",
+        "date": "2026-09-29",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-30",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08313-w",
+        "doi": "10.1186/s12877-026-08313-w",
+        "url": "https://doi.org/10.1186/s12877-026-08313-w",
+        "title": "Correction: Low lean mass with obesity in older adults with hypertension: prevalence and association with mortality rate",
+        "authors": [
+          "Qiang Qu",
+          "Qixin Guo",
+          "Jinyu Sun",
+          "Xinyi Lu",
+          "Lokfai Cheang",
+          "Xu Zhu",
+          "Wenming Yao",
+          "Xinli Li",
+          "Haifeng Zhang",
+          "Yanli Zhou",
+          "Shengen Liao",
+          "Rongrong Gao"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-29",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-30",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08341-6",
+        "doi": "10.1186/s12877-026-08341-6",
+        "url": "https://doi.org/10.1186/s12877-026-08341-6",
+        "title": "The relationship between health literacy and active and successful aging: a cross-sectional study of active aging service center",
+        "authors": [
+          "Şengül Akdeniz",
+          "Karin Wolf-Ostermann"
+        ],
+        "abstract": "Abstract                                        Background                     While successful aging focuses on physical health and disease prevention, active aging offers a broader framework encompassing social participation and security. Health literacy is considered a vital tool in achieving these outcomes, yet its specific impact on the synergy between both aging paradigms requires further exploration.                                                           Objective                     This study aims to evaluate the relationship between health literacy, successful ageing, and active ageing among older adults and to identify the factors associated with active ageing levels.                                                           Method                     This descriptive and cross-sectional study was conducted between October 2024 and May 2025 at the Metropolitan Municipality’s Active Aging Service Center in Antalya, Türkiye. The study included 306 participants aged 65 and over. Data were collected using a Demographic Information Form, the Active Ageing Scale, the Successful Ageing Scale, and the Turkish Health Literacy Scale. Data analysis included descriptive statistics, independent samples t-test, Chi-square, Pearson correlation, and Multiple Linear Regression.                                                           Results                                            The study involved 306 older adults with an average age of 67.79 ± 3.56 years (79.4% of participants were women, and 70.6% were university graduates). Whilst the majority of participants reported having a chronic illness (66.0%) and taking medication regularly (64.7%), 58.5% engaged in regular physical exercise and 80.7% engaged in regular mental activities. The mean total score for the Active Ageing Scale was 190.10 ± 39.37, for the Successful Ageing Scale it was 57.74 ± 7.61, and for the Health Literacy Index it was 32.97 ± 9.53. Bivariate analyses revealed that higher levels of education, income, regular physical exercise and mental activity were significantly associated with better health literacy and ageing outcomes (                       p                        &lt; 0.05). Furthermore, positive correlations were found between active ageing, successful ageing and health literacy (                       p                        &lt; 0.01). Multiple linear regression analysis showed that the model statistically significantly predicted active aging and explained 56.4% of the total variance (R² = 0.564,                       p                        &lt; 0.05). While age, mental activity, and health literacy emerged as significant predictors, education and regular exercise were found to be insignificant.                                                                                Conclusion                     Health literacy is a key factor of active and successful ageing. To promote active ageing, older adults care centres should prioritise health literacy.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-29",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-30",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08348-z",
+        "doi": "10.1186/s12877-026-08348-z",
+        "url": "https://doi.org/10.1186/s12877-026-08348-z",
+        "title": "CGM-guided personalized self-management intervention improves glycemic control and quality of life in older adults with type 2 diabetes: a randomized controlled trial",
+        "authors": [
+          "Hyangsoon Cho",
+          "Youngran Yang"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-29",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-30",
         "fetched_from": "crossref"
       },
       {
@@ -29250,6 +29385,263 @@
           "healthReform"
         ],
         "firstSeen": "2026-09-26",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1007/s40273-026-01665-6",
+        "doi": "10.1007/s40273-026-01665-6",
+        "url": "https://doi.org/10.1007/s40273-026-01665-6",
+        "title": "Meta-Analysis of Incremental Net Benefit from Trial-Based Health Economic Evaluations in R: A Tutorial",
+        "authors": [
+          "Romain Jonathan Collet",
+          "Johanna Maria van Dongen",
+          "Oraluck Pattanaprateep",
+          "Suparee Wisawapipat Boonmanunt",
+          "Ardine de Wit",
+          "Judith Ekkina Bosmans",
+          "Veerle Coupé",
+          "Raymond Ostelo",
+          "Ammarin Thakkinstian"
+        ],
+        "abstract": "",
+        "source": "PharmacoEconomics",
+        "issn": "1170-7690",
+        "date": "2026-09-30",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-30",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.16570",
+        "doi": "10.1001/jama.2026.16570",
+        "url": "https://doi.org/10.1001/jama.2026.16570",
+        "title": "Graduate Medical Education, 2025-2026",
+        "authors": [
+          "John S. Andrews",
+          "Chris Mathews",
+          "Shanti K. Kolli"
+        ],
+        "abstract": "This Appendix presents 2025 National GME Census data detailing the numbers and types of ACGME-accredited training programs and the resident physicians and fellows in them.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-29",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-30",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.15616",
+        "doi": "10.1001/jama.2026.15616",
+        "url": "https://doi.org/10.1001/jama.2026.15616",
+        "title": "AI-Powered Clinical Decision Support Tools",
+        "authors": [
+          "Julie K. Taitsman"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-29",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-30",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.19286",
+        "doi": "10.1001/jama.2026.19286",
+        "url": "https://doi.org/10.1001/jama.2026.19286",
+        "title": "Undergraduate and Graduate Medical Education in 2025-2026",
+        "authors": [
+          "Linda Brubaker",
+          "Gregory Curfman"
+        ],
+        "abstract": "This Viewpoint discusses physician workforce shortages, obstacles for non–US-born physicians and international medical graduates, and the cost of medical school and student loan limits.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-29",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-30",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.15619",
+        "doi": "10.1001/jama.2026.15619",
+        "url": "https://doi.org/10.1001/jama.2026.15619",
+        "title": "AI-Powered Clinical Decision Support Tools",
+        "authors": [
+          "Hao Chi",
+          "Jiayu Xu",
+          "Youping Deng"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-29",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-30",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.20187",
+        "doi": "10.1001/jama.2026.20187",
+        "url": "https://doi.org/10.1001/jama.2026.20187",
+        "title": "Errors in Confidence Intervals",
+        "authors": [],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-29",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-30",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.15613",
+        "doi": "10.1001/jama.2026.15613",
+        "url": "https://doi.org/10.1001/jama.2026.15613",
+        "title": "AI-Powered Clinical Decision Support Tools",
+        "authors": [
+          "Roy C. Ziegelstein"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-29",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-30",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.15622",
+        "doi": "10.1001/jama.2026.15622",
+        "url": "https://doi.org/10.1001/jama.2026.15622",
+        "title": "AI-Powered Clinical Decision Support Tools—Reply",
+        "authors": [
+          "Nina Singh",
+          "Michelle M. Mello"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-29",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-30",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.17994",
+        "doi": "10.1001/jama.2026.17994",
+        "url": "https://doi.org/10.1001/jama.2026.17994",
+        "title": "Health Care’s Identity Crisis—Is Medicine Still a Profession?",
+        "authors": [
+          "Adam P. Sawatsky",
+          "Andrea N. Leep Hunderfund"
+        ],
+        "abstract": "This Perspective discusses the misalignment physicians face between their professionalism-based values and the conditions of practice that are influenced by pressures from market, managerial, and platform logics, and offers suggestions to align practice conditions and professional identity.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-29",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-30",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.16297",
+        "doi": "10.1001/jama.2026.16297",
+        "url": "https://doi.org/10.1001/jama.2026.16297",
+        "title": "MD-Granting Medical Schools in the US, 2025-2026",
+        "authors": [
+          "Barbara Barzansky",
+          "Felicia Walker"
+        ],
+        "abstract": "This Appendix presents data derived from the 2025-2026 Liaison Committee on Medical Education Annual Medical School Questionnaire-Part II to assess trends at doctor of medicine (MD)–granting medical schools.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-09-29",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-30",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmoa2604169",
+        "doi": "10.1056/nejmoa2604169",
+        "url": "https://doi.org/10.1056/nejmoa2604169",
+        "title": "Retatrutide, a Triple Hormone Receptor Agonist, for Treatment of Obesity",
+        "authors": [
+          "Ania M. Jastreboff",
+          "Lee M. Kaplan",
+          "Melanie J. Davies",
+          "John P.H. Wilding",
+          "Nadia N. Ahmad",
+          "Megan Murray",
+          "Yu Du",
+          "Nune Makarova",
+          "Kathryn Giblin",
+          "Nanette C. Schloot",
+          "Yan Wang"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-09-29",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-30",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag243",
+        "doi": "10.1093/aje/kwag243",
+        "url": "https://doi.org/10.1093/aje/kwag243",
+        "title": "Event-time regression discontinuity for biomedical data: LATT estimation and covariate distribution tests",
+        "authors": [
+          "Yesong Choe",
+          "Yeahoon Kwon",
+          "Minjung Kho",
+          "Seunggeun Lee",
+          "Sanghack Lee"
+        ],
+        "abstract": "Abstract                   Estimating causal effects of drugs on clinical biomarkers is often infeasible through randomized trials, while observational data require designs that approximate experimental conditions. Using linked UK Biobank records collected during 2006–2013, we develop an event-time regression discontinuity (RD) framework for settings in which prescription records are longitudinal but biomarkers are measured cross-sectionally. A surrogate running variable aligns individuals by the interval between biomarker measurement and the first recorded prescription, comparing eventual users measured shortly before versus after that date. Under continuity assumptions, this identifies a local average treatment effect among the treated. We apply distributional covariate-balance diagnostics, robust bias-corrected inference, and parsimonious covariate adjustment. Statin analyses show a local downward LDL discontinuity around the first recorded prescription date, with direction and statistical significance robust across bias-corrected inference, bandwidths, and donut specifications. However, the running-variable density test is significant and donut estimates vary from − 1.00 to − 1.72 mmol/L, indicating residual uncertainty about local comparability. The metformin–HbA1c example is less stable: a sizeable parametric local-linear reduction is not corroborated under robust bias-corrected inference. Event-time RD offers potential for pharmacovigilance and real-world causal inference in linked health databases, but conclusions depend on explicit local timing-exogeneity and continuity assumptions.",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-09-29",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-30",
         "fetched_from": "crossref"
       },
       {
@@ -41783,6 +42175,32 @@
         "fetched_from": "crossref"
       },
       {
+        "id": "doi:10.1186/s12877-026-08344-3",
+        "doi": "10.1186/s12877-026-08344-3",
+        "url": "https://doi.org/10.1186/s12877-026-08344-3",
+        "title": "Leisure lifestyle patterns and multidimensional health outcomes among older adults in China: a latent class analysis of the 2023 Chinese General Social Survey",
+        "authors": [
+          "Lin Luo",
+          "Mingyu Yu",
+          "Jing Ma",
+          "Yu Wen",
+          "Haixin Zeng",
+          "Liwei Liu",
+          "Shenglan Zhang"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-30",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-30",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1186/s12877-026-08257-1",
         "doi": "10.1186/s12877-026-08257-1",
         "url": "https://doi.org/10.1186/s12877-026-08257-1",
@@ -41807,6 +42225,452 @@
           "agingHealth"
         ],
         "firstSeen": "2026-09-29",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/geront/gnag230",
+        "doi": "10.1093/geront/gnag230",
+        "url": "https://doi.org/10.1093/geront/gnag230",
+        "title": "Healthcare Provider Experiences Delivering Dementia Care in Indigenous Communities: Challenges and Recommendations",
+        "authors": [
+          "Carey Gleason",
+          "Nickolas Lambrou",
+          "Melissa Blind",
+          "Dana Ketcher",
+          "Elizabeth Weigler",
+          "Melinda Dertinger",
+          "January Johnson",
+          "Alexis Mason",
+          "Susan L Ninham",
+          "Red Lake Nation Ojibwe",
+          "Karen Pitawanakwat",
+          "Collette Pederson",
+          "Lois Metoxen Strong",
+          "Marlene Summers",
+          "Rhonda Trudeau",
+          "Wayne Warry",
+          "Kristen Jacklin"
+        ],
+        "abstract": "Abstract                                        Background and Objectives                     Little is known regarding the effects of Alzheimer’s disease and related dementias (AD/ADRD) in in American Indian and First Nation (AI/FN) communities in the US and Canada. Yet, research suggests FN populations in Canada experience 34% higher dementia rates and over half of US-based Indigenous adults demonstrate incident cognitive impairment, including dementia due to AD and/or cerebrovascular disease. Already higher than the general population, rates will increase as Indigenous populations age. The Indigenous Cultural Understandings of ADRD-Research and Engagement (ICARE) project was established to understand lived-experiences of dementia in AI/FN communities around the Great Lakes. We report themes describing practitioner experiences providing dementia care in selected US and Canadian Indigenous communities.                                                           Research Design and Methods                     Healthcare practitioners (n = 14) providing care in Indigenous communities were interviewed by community-based researchers using semi-structured guides exploring a range of topics. Thematic analysis was used to identify challenges and recommendations to improve care. Trustworthiness checks included reflexivity, consensus, prolonged engagement, member checking and audit.                                                           Results                     Thematic analysis yielded six superordinate themes. Provider-perceived challenges included: 1) Limited Resources for Providing Dementia Care, 2) Need for Caregiver-focused Preparation and Support, 3) Communication and Relationship Gaps, 4) Low-levels of Community Dementia-related Awareness, Education and Engagement. Provider recommendations were characterized as: 5) Increase Dementia-related Awareness, Education and Engagement, 6) Invest in Dementia Caregiver Support and Community Strengths.                                                           Discussion and Implications                     Findings were contextualized with post-colonial and relational care frameworks. Providers described relevant challenges and provided culturally safe and equitable strategies to improve dementia care outcomes.",
+        "source": "The Gerontologist",
+        "issn": "0016-9013",
+        "date": "2026-09-29",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-30",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08313-w",
+        "doi": "10.1186/s12877-026-08313-w",
+        "url": "https://doi.org/10.1186/s12877-026-08313-w",
+        "title": "Correction: Low lean mass with obesity in older adults with hypertension: prevalence and association with mortality rate",
+        "authors": [
+          "Qiang Qu",
+          "Qixin Guo",
+          "Jinyu Sun",
+          "Xinyi Lu",
+          "Lokfai Cheang",
+          "Xu Zhu",
+          "Wenming Yao",
+          "Xinli Li",
+          "Haifeng Zhang",
+          "Yanli Zhou",
+          "Shengen Liao",
+          "Rongrong Gao"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-29",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-30",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08341-6",
+        "doi": "10.1186/s12877-026-08341-6",
+        "url": "https://doi.org/10.1186/s12877-026-08341-6",
+        "title": "The relationship between health literacy and active and successful aging: a cross-sectional study of active aging service center",
+        "authors": [
+          "Şengül Akdeniz",
+          "Karin Wolf-Ostermann"
+        ],
+        "abstract": "Abstract                                        Background                     While successful aging focuses on physical health and disease prevention, active aging offers a broader framework encompassing social participation and security. Health literacy is considered a vital tool in achieving these outcomes, yet its specific impact on the synergy between both aging paradigms requires further exploration.                                                           Objective                     This study aims to evaluate the relationship between health literacy, successful ageing, and active ageing among older adults and to identify the factors associated with active ageing levels.                                                           Method                     This descriptive and cross-sectional study was conducted between October 2024 and May 2025 at the Metropolitan Municipality’s Active Aging Service Center in Antalya, Türkiye. The study included 306 participants aged 65 and over. Data were collected using a Demographic Information Form, the Active Ageing Scale, the Successful Ageing Scale, and the Turkish Health Literacy Scale. Data analysis included descriptive statistics, independent samples t-test, Chi-square, Pearson correlation, and Multiple Linear Regression.                                                           Results                                            The study involved 306 older adults with an average age of 67.79 ± 3.56 years (79.4% of participants were women, and 70.6% were university graduates). Whilst the majority of participants reported having a chronic illness (66.0%) and taking medication regularly (64.7%), 58.5% engaged in regular physical exercise and 80.7% engaged in regular mental activities. The mean total score for the Active Ageing Scale was 190.10 ± 39.37, for the Successful Ageing Scale it was 57.74 ± 7.61, and for the Health Literacy Index it was 32.97 ± 9.53. Bivariate analyses revealed that higher levels of education, income, regular physical exercise and mental activity were significantly associated with better health literacy and ageing outcomes (                       p                        &lt; 0.05). Furthermore, positive correlations were found between active ageing, successful ageing and health literacy (                       p                        &lt; 0.01). Multiple linear regression analysis showed that the model statistically significantly predicted active aging and explained 56.4% of the total variance (R² = 0.564,                       p                        &lt; 0.05). While age, mental activity, and health literacy emerged as significant predictors, education and regular exercise were found to be insignificant.                                                                                Conclusion                     Health literacy is a key factor of active and successful ageing. To promote active ageing, older adults care centres should prioritise health literacy.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-29",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-30",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08348-z",
+        "doi": "10.1186/s12877-026-08348-z",
+        "url": "https://doi.org/10.1186/s12877-026-08348-z",
+        "title": "CGM-guided personalized self-management intervention improves glycemic control and quality of life in older adults with type 2 diabetes: a randomized controlled trial",
+        "authors": [
+          "Hyangsoon Cho",
+          "Youngran Yang"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-09-29",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-30",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag243",
+        "doi": "10.1093/aje/kwag243",
+        "url": "https://doi.org/10.1093/aje/kwag243",
+        "title": "Event-time regression discontinuity for biomedical data: LATT estimation and covariate distribution tests",
+        "authors": [
+          "Yesong Choe",
+          "Yeahoon Kwon",
+          "Minjung Kho",
+          "Seunggeun Lee",
+          "Sanghack Lee"
+        ],
+        "abstract": "Abstract                   Estimating causal effects of drugs on clinical biomarkers is often infeasible through randomized trials, while observational data require designs that approximate experimental conditions. Using linked UK Biobank records collected during 2006–2013, we develop an event-time regression discontinuity (RD) framework for settings in which prescription records are longitudinal but biomarkers are measured cross-sectionally. A surrogate running variable aligns individuals by the interval between biomarker measurement and the first recorded prescription, comparing eventual users measured shortly before versus after that date. Under continuity assumptions, this identifies a local average treatment effect among the treated. We apply distributional covariate-balance diagnostics, robust bias-corrected inference, and parsimonious covariate adjustment. Statin analyses show a local downward LDL discontinuity around the first recorded prescription date, with direction and statistical significance robust across bias-corrected inference, bandwidths, and donut specifications. However, the running-variable density test is significant and donut estimates vary from − 1.00 to − 1.72 mmol/L, indicating residual uncertainty about local comparability. The metformin–HbA1c example is less stable: a sizeable parametric local-linear reduction is not corroborated under robust bias-corrected inference. Event-time RD offers potential for pharmacovigilance and real-world causal inference in linked health databases, but conclusions depend on explicit local timing-exogeneity and continuity assumptions.",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-09-29",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-30",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261472830",
+        "doi": "10.1177/13872877261472830",
+        "url": "https://doi.org/10.1177/13872877261472830",
+        "title": "Immune boosting to combat Alzheimer's disease: Position statement",
+        "authors": [
+          "Peter Aaby",
+          "Steven E. Arnold",
+          "Christine Stabell Benn",
+          "Shay Ben-Haim",
+          "William Bishai",
+          "C. Thomas Dow",
+          "Denise Faustman",
+          "Ofer N. Gofrit",
+          "Charles L. Greenblatt",
+          "Ruth Itzhaki",
+          "Benjamin Klein",
+          "Richard Lathe",
+          "Mihai G. Netea",
+          "Alex Sankin",
+          "Jeffrey F. Scherrer",
+          "Frederik Schaltz-Buchholzer",
+          "Paul E. Schulz",
+          "Maxime Taquet",
+          "Pierre N. Tariot",
+          "Marc S. Weinberg"
+        ],
+        "abstract": "The societal cost of Alzheimer's disease (AD) and related dementias is immense, but there are no effective treatments. Emerging evidence suggests that AD brain pathology may be triggered by microbial infection, and that the diagnostic protein deposits in AD brain represent an antimicrobial defense mechanism. This raises the prospect of protection against AD through stimulation of the immune system. Specifically, non-specific activation through ‘trained immunity’ or ‘immunopotentiation’ is now known to offer protection against unrelated pathogens as well as against diverse diseases. Earlier findings that vaccine recipients are at reduced risk of developing AD have now been replicated around the world. Protection has been reported for diverse types of vaccines, and the effect sizes are clinically meaningful. Although these studies are predominantly observational, and are thus at risk of confounders such as ‘healthy vaccinee’ bias, several studies based on ‘natural experiments’ avoid this bias and provide stronger evidence that vaccine administration can reduce dementia risk. Most such vaccines can be obtained for a few dollars, although others are a little more expensive. But the cost of vaccination is entirely trivial compared to the financial burden of AD. Both clinical trials of immunopotentiation in AD and further research into the underlying mechanisms will be essential. This Position Statement briefly summarizes current knowledge and recommends that immune boosting should be placed at the top of the AD public health R&amp;D agenda.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-09-29",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-30",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261487575",
+        "doi": "10.1177/13872877261487575",
+        "url": "https://doi.org/10.1177/13872877261487575",
+        "title": "Aging dogs exhibit heterogeneous cognitive decline trajectories: A longitudinal comparative model",
+        "authors": [
+          "Katherine E. Simon",
+          "Wojciech K. Panek",
+          "Gilad Fefer",
+          "Alejandra Mondino",
+          "Chin-Chieh Yang",
+          "Shaghayegh Rafatpanah Baigi",
+          "Michael Z. Khan",
+          "Beth C. Case",
+          "Emily Griffith",
+          "Margaret E. Gruen",
+          "Natasha J. Olby"
+        ],
+        "abstract": "Background                     Both dogs and humans experience substantially variable cognitive decline with age. In humans, this ranges from healthy cognitive aging to early onset Alzheimer's disease. While different rates of cognitive decline have been described in purpose-bred beagles, few studies have examined longitudinal trajectories in companion dogs.                                                           Objective                     The aim of this study was to describe cognitive changes in a cohort of 92 senior dogs (aged ≥ 8 years).                                                           Methods                     Data were collected on 7 cognitive outcomes (2 caregiver questionnaires and 5 cognitive tests) every 6 months from enrollment to withdrawal/death. A principal components analysis reduced the dimensionality of these outcomes into a single global cognitive score. A mixed effect model was built using this composite score to examine within-subjects cognitive changes, while accounting for chronological age and study participation effects. Finally, a hierarchical cluster analysis identified statistically distinct groups of cognitive trajectories.                                                           Results                     All seven outcomes loaded strongly, with consistent directionality, onto the first principal component (PC1) at each timepoint. Global cognitive score significantly declines with increasing age (β = −0.60, p &lt; 0.0001). Despite a non-significant population-level subject*age interaction (p = 0.14), individual random slopes (rate of change with age) ranged from −0.20 and 0.15, suggesting meaningful variability. Cluster analysis revealed two groups differing in trajectories at the population level and subject level.                                                           Conclusions                     These findings provide evidence that while age is a significant predictor of cognitive decline at the population level, individual trajectories vary. The heterogeneity of canine cognitive aging presents an opportunity to investigate the biologic drivers of age-associated cognitive decline.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-09-29",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-30",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261489828",
+        "doi": "10.1177/13872877261489828",
+        "url": "https://doi.org/10.1177/13872877261489828",
+        "title": "Rural-urban disparities in the clinical diagnostic pathway of patients with all-cause mild cognitive impairment and dementia due to Alzheimer's disease in Australia",
+        "authors": [
+          "Xiaoping Lin",
+          "Mohammad Amin Honardoost",
+          "Susannah Ahern",
+          "Colman Taylor",
+          "Stephanie Ward",
+          "Elisabeth de Laguiche",
+          "Elizabeth Adesanya",
+          "Henry Brodaty",
+          "Jonathan Pearson-Stuttard",
+          "Sara Holloway",
+          "Michael Woodward"
+        ],
+        "abstract": "Background                     Access to high-quality and timely dementia diagnoses varies between rural and urban location.                                                           Objective                     We examined rural-urban disparities in key indicators for high-quality and timely diagnoses of mild cognitive impairment (MCI) and Alzheimer's disease (AD) dementia in Australia.                                                           Methods                     3648 patients with all-cause MCI or AD dementia were geographically classified into major cities (75.7%), inner (15.8%) and outer (8.4%) regional areas. We used regression analyses to assess rural-urban disparities in completion of key diagnostic investigations and diagnostic wait times.                                                           Results                     Participants in inner regional areas were more likely (odds ratio [OR] = 1.55; 95% confidence interval [CI] = 1.14, 2.13; p = 0.006) to have had more basic diagnostic investigations completed (including core blood tests, cognitive assessments, functional assessments, structural neuroimaging) compared to those in major cities. However, participants in inner regional (OR = 0.37; 95% CI = 0.28, 0.48; p &lt; 0.001) and outer regional (OR = 0.32; 95% CI = 0.21, 0.48; p &lt; 0.001) areas were less likely to have functional neuroimaging completed. Median wait times for an initial appointment following referral to a memory clinic were up to 28 days longer for rural compared to urban participants (Inner regional: Beta (median) = 12.91; 95% CI = 5.15, 20.69; p = 0.001; Outer regional: Beta (median) = 27.50; 95% CI = 18.80, 36.20; p &lt; 0.001), whereas median wait times from initial appointment to diagnosis were up to 47 days shorter in rural compared to urban residents (Inner regional: Beta (median) = −46.83; 95% CI = −52.35, −41.32; p &lt; 0.001; Outer regional: Beta (median) = −44.42; 95% CI = −50.35, −38.49; p &lt; 0.001).                                                           Conclusions                     Findings suggest disparities in access to advanced diagnostic investigations and timely initial appointments in rural Australia, and increased need for enhanced workforce and diagnostic infrastructure in these areas.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-09-29",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-30",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261490135",
+        "doi": "10.1177/13872877261490135",
+        "url": "https://doi.org/10.1177/13872877261490135",
+        "title": "The role of acupuncture in the dendritic cell vaccine against Alzheimer's disease",
+        "authors": [
+          "Yuzhu Hong",
+          "Ning Shen",
+          "Haiqiang Yang",
+          "Ghufran Ahmed",
+          "Deepika Regmi",
+          "Xiaoyang Lin",
+          "Ningyi Guo",
+          "Grace Hearn",
+          "Darrell Sawmiller",
+          "Chuanhai Cao"
+        ],
+        "abstract": "Background                     Acupuncture, with its extensive historical application and therapeutic effects, may serve as a viable method to modulate immune responses associated with Alzheimer's disease immunotherapy.                                                           Objective                     To investigate the effects of stimulating the ST36 acupoint before vaccine injection in C57BL/6J mice and to determine how acupuncture influences immune responses and its potential immunomodulatory effects associated with a dendritic-cell-based amyloid-β (Aβ) vaccine.                                                           Methods                     Flow cytometry for immune cell profiling, antibody levels, immunoglobulin isotyping, cytokine expression profiling, western blotting, and immunohistochemistry were performed to evaluate immunological and neuroimmune responses.                                                           Results                     Acupuncture modulated antibody production, influenced Th1/Th2 immune responses, and may influence BDNF/TrkB-associated neurotrophic signaling following vaccination.                                                           Conclusions                     These findings suggest that acupuncture may modulate immune and neurotrophic signaling responses associated with dendritic-cell-based Aβ vaccination.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-09-29",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-30",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261492673",
+        "doi": "10.1177/13872877261492673",
+        "url": "https://doi.org/10.1177/13872877261492673",
+        "title": "Chronic mitochondrial DNA depletion alters\n                    <i>MAPT</i>\n                    splicing and increases tau levels",
+        "authors": [
+          "Ian Weidling",
+          "Emily Schueddig",
+          "Xiaowan Wang",
+          "Lesya Novikova",
+          "Blaise W. Menta",
+          "Anysja Roberts",
+          "Amol Ranjan",
+          "Riley Kemna",
+          "Jill K. Morris",
+          "Heather M. Wilkins",
+          "Dong Pei",
+          "Russell H. Swerdlow"
+        ],
+        "abstract": "Background                     In Alzheimer's disease (AD), tau protein aggregates to form neurofibrillary tangles (NFTs). The cellular changes favoring AD brain NFT formation remain incompletely understood. AD brains also display mitochondrial defects, including reduced mitochondrial DNA (mtDNA) copy number.                                                           Objective                     We considered whether mtDNA depletion alters tau homeostasis.                                                           Methods                     We assessed tau mRNA using short-read mRNA sequencing and PCR, and tau protein using immunochemistry, in SH-SY5Y cells with chronic mtDNA depletion (ρ0).                                                           Results                                            mtDNA depletion increased tau expression and resulted in alternatively spliced isoforms, elevated 4R and exon 4a-containing                       MAPT                       transcripts, and consistently detectable big tau protein. ρ0 cells also displayed an elevated                       MAPT                       exon 13 3’Untranslated Region (UTR): Coding DNA sequence (CDS) ratio. Phosphorylation at amino acid positions 217 and 181 decreased.                                                                                Conclusions                                            Mitochondrial dysfunction affects tau expression, splicing, and 3’UTR retention while increasing tau protein levels and modifying its phosphorylation. These studies hold AD relevance as they provide evidence for a relationship between two AD-associated phenomena, defective mitochondrial function and altered                       MAPT                       regulation.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-09-29",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-30",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261492695",
+        "doi": "10.1177/13872877261492695",
+        "url": "https://doi.org/10.1177/13872877261492695",
+        "title": "Age-frailty status jointly modifies the nonlinear association between systolic blood pressure and annual cognitive aging rate: A community-based cohort study",
+        "authors": [
+          "Qing Tian",
+          "Chengsong Deng",
+          "Jinchi Liao",
+          "Yongqiang Dai",
+          "Tingting Lu"
+        ],
+        "abstract": "Background                     Cognitive impairment (including Alzheimer's disease), frailty, and hypertension are interlinked challenges in older adults. Among non-frail adults, prefrail older adults represent a crucial window for prevention. However, whether systolic blood pressure (SBP) affects cognitive decline differently across age-frailty strata, or what constitutes an optimal age-frailty-stratified target, remains unclear.                                                           Objective                     To investigate the association of SBP with annual cognitive aging rate in non-frail adults (robust/prefrail, ≥45years), focusing on nonlinearity and modification by age-frailty status, and to explore optimal SBP thresholds, especially in prefrail older adults.                                                           Methods                     This longitudinal analysis included 4723 non-frail adults from China Health and Retirement Longitudinal Study (2011–2018). SBP and annual cognitive aging rate (Z-score) were measured, with age and frailty categorized as middle-aged (45–64 years)/older (≥65 years), robust/prefrail. Linear regression and restricted cubic splines assessed associations, with interaction effect tested. Exploratory threshold and piecewise linear regression identified optimal SBP ranges and breakpoints.                                                           Results                     Besides linearity, a significant inverted U-shaped relationship existed between SBP and annual global cognition aging rate (p-nonlinear=0.049), with a peak at 120.1 mmHg overall, jointly modified by age-frailty status. A steep, distinct curve with a higher peak (130.8 mmHg; p-nonlinear=0.005) was found in prefrail older adults. The SBP-by-age-frailty nonlinear interaction was significant (p = 0.010) and improved model fit (p = 0.001). Divergent coefficients across breakpoints corroborated the robustness of the nonlinear SBP-cognition association in both populations. Episodic memory analyses showed highly concordant patterns above.                                                           Conclusions                     To optimize cognitive aging prevention, personalized SBP targets should be set based on age-frailty status, with relaxed thresholds for vulnerable prefrail older adults.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-09-29",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-30",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261492699",
+        "doi": "10.1177/13872877261492699",
+        "url": "https://doi.org/10.1177/13872877261492699",
+        "title": "Accelerated biological aging in the association between early-life tobacco smoke exposure and dementia risk: An exploratory mediation analysis",
+        "authors": [
+          "Linling Yu",
+          "Huaxin Deng",
+          "Meng Yang",
+          "Ding-Sheng Jiang",
+          "Chenqi Liao",
+          "Danyang Sun",
+          "Jiahao Song",
+          "Hongbin Luo",
+          "Wei Liu",
+          "Xiong Wang"
+        ],
+        "abstract": "Background                     Early-life tobacco smoke exposure, including maternal smoking during gestation and smoking during childhood or adolescence, may have long-term health consequences, but its association with dementia remains uncertain.                                                           Objective                     To examine the associations of prenatal tobacco smoke exposure and childhood/adolescence smoking with incident dementia and to explore whether biological-age acceleration represents a potential intermediate component of these associations.                                                           Methods                     We conducted a prospective cohort study of 285,009 dementia-free participants from the UK Biobank. Biological aging was assessed using Klemera–Doubal method biological age acceleration (KDM-BA) and phenotypic age acceleration (PhenoAge). Cox proportional hazards models estimated hazard ratios (HRs) for incident dementia, and exploratory mediation analyses evaluated model-based indirect components through biological-age acceleration.                                                           Results                     During a mean follow-up of 13.67 years, 4621 incident dementia cases were documented. Prenatal tobacco smoke exposure (HR = 1.094, 95% CI 1.025–1.168) and childhood/adolescence smoking (HR = 1.187, 95% CI 1.106–1.275) were associated with higher dementia hazards. The corresponding standardized 10-year absolute risk differences were 0.063 and 0.124 percentage points. For childhood/adolescence smoking, the combined indirect effect through KDM-BA and PhenoAge acceleration was small (HR = 1.0062, 95% CI 1.0002–1.0125), with an estimated mediated proportion of 3.63% (95% CI 0.11%–8.77%).                                                           Conclusions                     Early-life tobacco smoke exposure was associated with modestly higher hazards of incident dementia. Exploratory mediation analyses identified a small estimated indirect component through biological-age acceleration for childhood/adolescence smoking.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-09-29",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-30",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261493067",
+        "doi": "10.1177/13872877261493067",
+        "url": "https://doi.org/10.1177/13872877261493067",
+        "title": "Feasibility and safety of repeated low-intensity ultrasound in amyloid PET-positive early Alzheimer's disease: A prospective pilot study",
+        "authors": [
+          "Bo-Yong Park",
+          "Sang Won Jo",
+          "Tae Young Park",
+          "Hyungmin Kim",
+          "Min Seung Kim",
+          "Suk Yun Kang",
+          "Soo-Jin Cho",
+          "Jaeho Kim",
+          "SangYun Kim"
+        ],
+        "abstract": "Background                     Low-intensity ultrasound (LIUS) is a potential noninvasive neuromodulatory approach for Alzheimer's disease (AD), but clinical evidence on repeated stimulation in biomarker-confirmed early AD remains limited.                                                           Objective                     To evaluate the feasibility, safety, and exploratory clinical effects of a 4-week repeated LIUS protocol in amyloid positron emission tomography (PET)-positive early AD.                                                           Methods                     Twenty patients with amyloid PET-positive prodromal AD or mild AD dementia underwent LIUS targeting bilateral frontal and temporal regions three times weekly for 4 weeks. Safety was assessed by neurological examinations and brain magnetic resonance imaging (MRI). Exploratory outcomes included the Trail Making Test-Black &amp; White (TMT-B&amp;W) parts A and B, Attention Questionnaire Scale (AQS), Korean version of Quality of Life (KQoL), Mini-Mental State Examination (MMSE), and Neuropsychiatric Inventory (NPI). Resting-state functional MRI was analyzed in an exploratory subset.                                                           Results                     No severe adverse events occurred, and post-treatment MRI showed no intracerebral hemorrhage, microbleeding, or brain edema. Completion times decreased on TMT-B&amp;W part A (105.3 ± 63.3 versus 84.2 ± 46.6 s, p = 0.012) and part B (280.1 ± 139.9 versus 212.8 ± 59.7 s, p = 0.038). NPI scores also decreased (9.8 ± 14.7 versus 4.5 ± 8.8, p = 0.006). KQoL, AQS, and MMSE did not change significantly.                                                           Conclusions                     Repeated LIUS over 4 weeks was feasible and well tolerated in amyloid PET-positive early AD. Exploratory changes in executive function and neuropsychiatric symptoms were observed; however, the single-arm design precludes causal inference. Randomized, sham-controlled studies are warranted to determine the therapeutic potential of LIUS.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-09-29",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-30",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261493102",
+        "doi": "10.1177/13872877261493102",
+        "url": "https://doi.org/10.1177/13872877261493102",
+        "title": "Association between white matter T1w/T2w ratio and cognitive function in frontotemporal dementia mutation carriers",
+        "authors": [
+          "Hyunwoo Lee",
+          "Ian R.A. Mackenzie",
+          "Mirza Faisal Beg",
+          "Karteek Popuri",
+          "Dana Wittenberg",
+          "Winston Huang",
+          "Ging-Yuek Robin Hsiung"
+        ],
+        "abstract": "Background                                            Frontotemporal dementia (FTD) is characterized by progressive cognitive, behavioral, and language deficits. Early white matter (WM) changes on MRI are associated with TAR DNA-binding protein 43 (TDP-43) pathology, often caused by progranulin (                       GRN                       ) or chromosome 9 open reading frame 72 (                       C9orf72                       ) mutations. Post-mortem studies suggest prominent myelin loss in                       GRN                       carriers compared to                       C9orf72                       carriers or controls. The T1-weighted/T2-weighted (T1w/T2w) ratio is an MRI marker sensitive to WM properties, including myelin lipid content.                                                                                Objective                                            This study used the T1w/T2w ratio to investigate WM integrity in familial FTD. We hypothesized that (1)                       GRN                       mutation carriers would show reduced T1w/T2w ratios compared to non-carrier controls; (2)                       C9orf72                       mutation carriers would not differ significantly from non-carriers; and (3) lower T1w/T2w ratios would associate with cognitive deficits.                                                                                Methods                                            Eighty participants (                       GRN                        = 12,                       C9orf72                        = 28, non-carrier controls = 40) completed neuropsychological testing across multiple cognitive domains and structural MRI. After generating standardized T1w/T2w ratio maps, mean values were extracted from JHU Atlas-based WM lobe regions. General linear models evaluated group differences and MRI-cognition associations.                                                                                Results                                            GRN                       carriers exhibited significantly lower T1w/T2w ratios in frontal and parietal lobe WM compared to non-carriers. Conversely,                       C9orf72                       carriers did not differ from non-carriers. Across all participants, lower frontal T1w/T2w ratios were associated with poorer working memory, language, and visuospatial function. Lower parietal ratios were associated with poorer visuospatial function.                                                                                Conclusions                                            This study provides evidence for a reduction in the T1w/T2w ratio in                       GRN                       mutation carriers. This reduction associates with key cognitive impairments, highlighting a vulnerability of WM microstructural integrity in                       GRN                       -related FTD.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-09-29",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-30",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261490130",
+        "doi": "10.1177/13872877261490130",
+        "url": "https://doi.org/10.1177/13872877261490130",
+        "title": "A single-center open-label, randomized, parallel-group controlled clinical trial on the long-term effect of the treatment with EGb 761 in blood markers of inflammation and neurodegeneration in patients with mild cognitive impairment: ACE-2020-EGb 761",
+        "authors": [
+          "Xavier Morato",
+          "Marta Marquié",
+          "Juan Pablo Tartari",
+          "Asunción Lafuente",
+          "María Eugenia Sáez",
+          "Laia Montoliu-Gaya",
+          "Hanna Huber",
+          "Montserrat Alegret",
+          "Sara Jofresa",
+          "Mar Buendía",
+          "Ana Pancho",
+          "Nuria Aguilera",
+          "Marta Ibarria",
+          "Susana Diego",
+          "Rosario Cuevas",
+          "Laia Cañada",
+          "Alba Pérez-Cordón",
+          "Angela Sanabria",
+          "Itziar De Rojas",
+          "Amanda Cano",
+          "Adelina Orellana",
+          "Laura Montrreal",
+          "Maitee Rosende-Roca",
+          "Liliana Vargas",
+          "Ana Espinosa",
+          "Gemma Ortega",
+          "Raúl Núñez-Llaves",
+          "Marta Martínez-Lucas",
+          "Yahveth Cantero-Fortiz",
+          "Emilio Alarcón-Martín",
+          "Miren Gurruchaga",
+          "Lluís Tárraga",
+          "Sergi Valero",
+          "Pilar Sanz-Cartagena",
+          "Santos Mañes",
+          "Henrik Zetterberg",
+          "Agustín Ruiz",
+          "Mercè Boada"
+        ],
+        "abstract": "Background                     Neuroinflammation plays a central role in Alzheimer's disease (AD) pathology and other dementias. EGb 761, a standardized Ginkgo biloba extract, has shown potential anti-inflammatory and neuroprotective properties.                                                           Objective                     This study evaluated the effects of EGb 761 on plasma proteins related to inflammation and neurodegeneration, cognitive performance, and core AD biomarkers in individuals with mild cognitive impairment (MCI).                                                           Methods                                            We conducted a 12-month randomized, controlled, open-label clinical trial with a 12-month extension phase in 100 patients with MCI recruited at a single center. During the first 12 months, participants were randomly assigned to EGb 761 or no treatment. In the extension phase, all participants received EGb 761 for an additional 12 months. Plasma samples were collected at baseline and at 6-month intervals throughout both phases. Inflammatory and neurological proteomic profiles were assessed using the Olink Inflammation and Neurology panels. AD biomarkers including Aβ                       40                       , Aβ                       42                       , Aβ                       42/40                       ratio, GFAP, NfL, and pTau231 were measured in plasma. Clinical, neurological, and neuropsychological assessments were performed at each visit.                                                                                Results                     EGb 761 was associated with nominally significant longitudinal decreases in 15 plasma proteins linked to innate immunity and axon guidance, replicated in the delayed-start group.                                                           Conclusions                     EGb 761 exposure is associated with longitudinal modulation of serum markers associated with systemic inflammation and neurodegeneration in MCI. Larger placebo-controlled biomarker-driven trials are warranted to confirm whether this translates into clinically meaningful neuroprotection.                                            Trial registration:                                                Registro Español de estudios clínicos (REec) 2020-003776-41, ClinicalTrials.gov NCT05594355,                         https://clinicaltrials.gov/study/NCT05594355",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-09-29",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-30",
         "fetched_from": "crossref"
       },
       {
@@ -41906,24 +42770,6 @@
         "fetched_from": "crossref"
       },
       {
-        "id": "doi:10.1093/aje/kwag207",
-        "doi": "10.1093/aje/kwag207",
-        "url": "https://doi.org/10.1093/aje/kwag207",
-        "title": "Correction to : Impact of quitline services on tobacco cessation: an application of modern epidemiologic methods",
-        "authors": [],
-        "abstract": "",
-        "source": "American Journal of Epidemiology",
-        "issn": "0002-9262",
-        "date": "2026-09-28",
-        "subjects": [],
-        "domains": [
-          "agingHealth",
-          "healthReform"
-        ],
-        "firstSeen": "2026-09-28",
-        "fetched_from": "crossref"
-      },
-      {
         "id": "doi:10.1186/s12877-026-08361-2",
         "doi": "10.1186/s12877-026-08361-2",
         "url": "https://doi.org/10.1186/s12877-026-08361-2",
@@ -41947,6 +42793,24 @@
           "agingHealth"
         ],
         "firstSeen": "2026-09-29",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag207",
+        "doi": "10.1093/aje/kwag207",
+        "url": "https://doi.org/10.1093/aje/kwag207",
+        "title": "Correction to : Impact of quitline services on tobacco cessation: an application of modern epidemiologic methods",
+        "authors": [],
+        "abstract": "",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-09-28",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-28",
         "fetched_from": "crossref"
       },
       {
@@ -50335,6 +51199,48 @@
         "fetched_from": "crossref"
       },
       {
+        "id": "doi:10.1093/bjsw/bcag214",
+        "doi": "10.1093/bjsw/bcag214",
+        "url": "https://doi.org/10.1093/bjsw/bcag214",
+        "title": "Getting to the heart of it: The role of emotions in social work knowledge translation",
+        "authors": [
+          "Milena Heinsch",
+          "Elaine Sharland",
+          "Campbell Tickner"
+        ],
+        "abstract": "Abstract                   This article explores the overlooked role of emotion in the translation of social work research knowledge, proposing that feelings shape how knowledge is shared, received, and enacted in practice. While the centrality of emotion in social work practice is widely acknowledged, its role in shaping the translation of research knowledge into practice has received little attention. In this article, we revisit empirical work conducted several years ago, intending less to make new empirical claims than to provoke reflection, in light of wider literature, on the emotional and relational qualities which may influence how research knowledge moves into social work practice. We suggest that the impact of these emotional and relational qualities is under-recognized because social work has long wrestled with the tension between its commitment to human connection and the imperative to prove its legitimacy as an evidence-based discipline and profession, grounded on “hard” data, “rational” decision-making, and accountability for its effectiveness and efficiency. We argue that, since knowledge is not just known but felt, translating social work research knowledge into practice requires engaging with human relationships, fostering connection, and attending to the complex emotions these involve.",
+        "source": "The British Journal of Social Work",
+        "issn": "0045-3102",
+        "date": "2026-09-29",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-09-30",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/bjsw/bcag228",
+        "doi": "10.1093/bjsw/bcag228",
+        "url": "https://doi.org/10.1093/bjsw/bcag228",
+        "title": "Systematic bibliographic database searching in social work evidence synthesis: Methodological reflections from a scoping review",
+        "authors": [
+          "Jessica Cushnan",
+          "Paul McCafferty",
+          "Paul Best"
+        ],
+        "abstract": "Abstract                   Digital capability is increasingly recognized as essential within social work, extending beyond communication technologies and digital service delivery to include the ability to locate, evaluate, and synthesize research evidence. This paper presents a methodological reflection on systematic searching through a completed scoping review examining clinicians’ perspectives on immersive virtual reality in mental health settings. Drawing on the Joanna Briggs Institute framework, the paper explores interdisciplinary evidence retrieval, database selection, search strategy, screening management, and database performance. Consistent with previous methodological studies, findings suggest that database effectiveness is shaped by the interdisciplinary nature of the topic. Particular attention is given to sensitivity, precision, screening burden, and the retrieval of unique studies across databases. Substantial variation in database performance was identified. Scopus proved indispensable for broad interdisciplinary retrieval, identifying all included studies and most unique records, but generated a considerable screening burden due to low precision. More specialized databases demonstrated greater efficiency but contributed fewer unique studies. The paper conceptualizes systematic searching as an iterative and reflexive methodological practice shaped by database infrastructures, conceptual ambiguity, and researcher judgement. It highlights the importance of evidence literacy and digital capability, establishing systematic searching as central to rigorous, transparent, and critically informed social work research.",
+        "source": "The British Journal of Social Work",
+        "issn": "0045-3102",
+        "date": "2026-09-29",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-09-30",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1007/s10896-026-01191-1",
         "doi": "10.1007/s10896-026-01191-1",
         "url": "https://doi.org/10.1007/s10896-026-01191-1",
@@ -52075,10 +52981,10 @@
   },
   "totals": {
     "socialSecurity": 1530,
-    "elderCare": 233,
-    "healthReform": 435,
-    "agingHealth": 358,
-    "socialWork": 95
+    "elderCare": 238,
+    "healthReform": 447,
+    "agingHealth": 374,
+    "socialWork": 97
   },
   "feeds_ok": 41
 }
