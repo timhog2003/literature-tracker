@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-02",
-  "fetched": "2026-10-02T07:11:51+00:00",
+  "date": "2026-10-03",
+  "fetched": "2026-10-03T06:44:02+00:00",
   "domains": {
     "socialSecurity": [
       {
@@ -24158,6 +24158,79 @@
     ],
     "elderCare": [
       {
+        "id": "doi:10.1186/s12877-026-08271-3",
+        "doi": "10.1186/s12877-026-08271-3",
+        "url": "https://doi.org/10.1186/s12877-026-08271-3",
+        "title": "Association between living arrangements and long-term health outcomes among older adults with mild cognitive impairment: a longitudinal cohort study using data from a nationally representative survey in China",
+        "authors": [
+          "Maoting Lin",
+          "Xueli Liu",
+          "Xin Tang",
+          "Chenxi Wu"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-03",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-03",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08405-7",
+        "doi": "10.1186/s12877-026-08405-7",
+        "url": "https://doi.org/10.1186/s12877-026-08405-7",
+        "title": "Predictors of hemodynamic instability during ERCP sedation in older adults: impact of sedation strategy in a retrospective cohort",
+        "authors": [
+          "Ali Ümit Eşbah",
+          "Serkan Torun"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-03",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-03",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08325-6",
+        "doi": "10.1186/s12877-026-08325-6",
+        "url": "https://doi.org/10.1186/s12877-026-08325-6",
+        "title": "How to ensure the implementability of multi-component interventions to improve active ageing in older people? An overview of the evidence of systematic reviews",
+        "authors": [
+          "Erika Renzi",
+          "Edda Parrinello",
+          "Michele Innocenzio",
+          "Antonio Covelli",
+          "Valentina Baccolini",
+          "Corrado De Vito",
+          "Carolina Marzuillo",
+          "Febo Cincotti",
+          "Paolo Villari",
+          "Azzurra Massimi"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-03",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-03",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1186/s12877-026-08370-1",
         "doi": "10.1186/s12877-026-08370-1",
         "url": "https://doi.org/10.1186/s12877-026-08370-1",
@@ -24181,6 +24254,57 @@
           "agingHealth"
         ],
         "firstSeen": "2026-10-02",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08372-z",
+        "doi": "10.1186/s12877-026-08372-z",
+        "url": "https://doi.org/10.1186/s12877-026-08372-z",
+        "title": "Feasibility of dysphagia cup for older adults living in residential care homes: a preliminary study",
+        "authors": [
+          "Yee Tak Derek Cheung",
+          "Tsz Hong Ryder Chan",
+          "Yushen Zuo",
+          "Lai Wah Eva Yuen",
+          "Celia Sze Chow",
+          "Alice Kin Yi Au",
+          "Wai Yin Lau",
+          "Chun Yin Lau",
+          "Guowen Zhang"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-02",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-03",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08273-1",
+        "doi": "10.1186/s12877-026-08273-1",
+        "url": "https://doi.org/10.1186/s12877-026-08273-1",
+        "title": "Family-based transitional care for older adults after hip fracture surgery: a feasibility study",
+        "authors": [
+          "Nareerat Puttakun",
+          "Praneed Songwathana",
+          "Chantra Promnoi",
+          "Eleanor Holroyd"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-02",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-03",
         "fetched_from": "crossref"
       },
       {
@@ -35334,6 +35458,175 @@
         "fetched_from": "crossref"
       },
       {
+        "id": "doi:10.1001/jama.2026.18718",
+        "doi": "10.1001/jama.2026.18718",
+        "url": "https://doi.org/10.1001/jama.2026.18718",
+        "title": "The Ketogenic Diet Improved Liver Health in Trial, But What Does That Mean in the Real World?",
+        "authors": [
+          "Jennifer Abbasi"
+        ],
+        "abstract": "This Medical News article discusses a randomized clinical trial that compared the metabolic effects of 10% weight loss with a Mediterranean diet, a very low-fat, plant-forward diet, and a very low-carbohydrate ketogenic diet.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-02",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-03",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.20009",
+        "doi": "10.1001/jama.2026.20009",
+        "url": "https://doi.org/10.1001/jama.2026.20009",
+        "title": "Autism Incidence Has Remained Stable, Study Finds",
+        "authors": [
+          "Samantha Anderer"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-02",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-03",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.19502",
+        "doi": "10.1001/jama.2026.19502",
+        "url": "https://doi.org/10.1001/jama.2026.19502",
+        "title": "More Than 1 in 5 Children Report Using AI for Emotional Support—Is It Good News or Bad?",
+        "authors": [
+          "Kate Schweitzer"
+        ],
+        "abstract": "This Medical News article discusses how children are using artificial intelligence (AI) chatbots for emotional support and the challenges of developing evidence and mental health safeguards quickly enough to keep pace with the technology.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-02",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-03",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.20006",
+        "doi": "10.1001/jama.2026.20006",
+        "url": "https://doi.org/10.1001/jama.2026.20006",
+        "title": "Societies Release Vaccine Recommendations for Respiratory Virus Season",
+        "authors": [
+          "Samantha Anderer"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-02",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-03",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.20007",
+        "doi": "10.1001/jama.2026.20007",
+        "url": "https://doi.org/10.1001/jama.2026.20007",
+        "title": "PREVENT Equations Integrated Into Electronic Health Record Platform",
+        "authors": [
+          "Samantha Anderer"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-02",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-03",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.20008",
+        "doi": "10.1001/jama.2026.20008",
+        "url": "https://doi.org/10.1001/jama.2026.20008",
+        "title": "Semaglutide Demonstrates Benefits Across Frailty Levels",
+        "authors": [
+          "Samantha Anderer"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-02",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-03",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.20010",
+        "doi": "10.1001/jama.2026.20010",
+        "url": "https://doi.org/10.1001/jama.2026.20010",
+        "title": "CDC Issues Rabies Exposure Alert",
+        "authors": [
+          "Samantha Anderer"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-02",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-03",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.20011",
+        "doi": "10.1001/jama.2026.20011",
+        "url": "https://doi.org/10.1001/jama.2026.20011",
+        "title": "Addressing Cognitive Decline Among Aging Physicians",
+        "authors": [
+          "Samantha Anderer"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-02",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-03",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2025.16081",
+        "doi": "10.1001/jama.2025.16081",
+        "url": "https://doi.org/10.1001/jama.2025.16081",
+        "title": "JAMA Editors' Summary Podcast",
+        "authors": [],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-02",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-03",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1016/j.jpubeco.2026.105743",
         "doi": "10.1016/j.jpubeco.2026.105743",
         "url": "https://doi.org/10.1016/j.jpubeco.2026.105743",
@@ -39506,6 +39799,138 @@
         "fetched_from": "crossref"
       },
       {
+        "id": "doi:10.1016/j.socscimed.2026.119881",
+        "doi": "10.1016/j.socscimed.2026.119881",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.119881",
+        "title": "Corrigendum to ‘Place and brain health: A community-led yarning study with Aboriginal and Torres Strait Islander peoples in Australia’ [Soc. Sci. Med. 408 (2026) 119799]",
+        "authors": [
+          "A.J. Clarke",
+          "K. Radford",
+          "C. Murrup-Stewart",
+          "C. Swinton",
+          "P. Bates-Canty",
+          "J. McGuinness",
+          "L. Lavrencic",
+          "A. Withall",
+          "A. Brodtmann",
+          "J. Towney"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-02",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.socscimed.2026.119851",
+        "doi": "10.1016/j.socscimed.2026.119851",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.119851",
+        "title": "Institutional maintenance of an elite profession: the case of performance-related pay in the English medical profession",
+        "authors": [
+          "Mark Exworthy",
+          "Paula Hyde",
+          "Aoife M. McDermott"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-02",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.socscimed.2026.119893",
+        "doi": "10.1016/j.socscimed.2026.119893",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.119893",
+        "title": "Recent Canadian immigration reforms and their consequences for migrant children and families’ health: the “globalization of indifference”?",
+        "authors": [
+          "Rachel Kronick",
+          "Marianne Côté-Olijnyk",
+          "Efrat Arbel"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-02",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.socscimed.2026.119855",
+        "doi": "10.1016/j.socscimed.2026.119855",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.119855",
+        "title": "Algorithmic Portrayals of Mental Health Stigma: Quantifying the Gap Between AI Estimations and Human Perceptions Across Gender Groups Using GPT-Based LLMs",
+        "authors": [
+          "Soojong Kim",
+          "Hye Min Kim",
+          "Kwanho Kim",
+          "Dongdong Zhu"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-02",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.socscimed.2026.119898",
+        "doi": "10.1016/j.socscimed.2026.119898",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.119898",
+        "title": "Positive emotions and credibility: Understanding how a community-engaged online campaign featuring clinician testimonials improved rural vaccine promotion",
+        "authors": [
+          "Ran Tao",
+          "Liwei Shen",
+          "Mahima Bhattar",
+          "Malia Jones",
+          "Andy Garbacz",
+          "Sijia Yang",
+          "Susan Racine Passmore"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-02",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1056/nejme2605617",
         "doi": "10.1056/nejme2605617",
         "url": "https://doi.org/10.1056/nejme2605617",
@@ -39974,138 +40399,6 @@
           "healthReform"
         ],
         "firstSeen": "2026-10-01",
-        "fetched_from": "crossref"
-      },
-      {
-        "id": "doi:10.1016/j.socscimed.2026.119881",
-        "doi": "10.1016/j.socscimed.2026.119881",
-        "url": "https://doi.org/10.1016/j.socscimed.2026.119881",
-        "title": "Corrigendum to ‘Place and brain health: A community-led yarning study with Aboriginal and Torres Strait Islander peoples in Australia’ [Soc. Sci. Med. 408 (2026) 119799]",
-        "authors": [
-          "A.J. Clarke",
-          "K. Radford",
-          "C. Murrup-Stewart",
-          "C. Swinton",
-          "P. Bates-Canty",
-          "J. McGuinness",
-          "L. Lavrencic",
-          "A. Withall",
-          "A. Brodtmann",
-          "J. Towney"
-        ],
-        "abstract": "",
-        "source": "Social Science &amp; Medicine",
-        "issn": "0277-9536",
-        "date": "2026-10-01",
-        "subjects": [],
-        "domains": [
-          "healthReform",
-          "elderCare",
-          "agingHealth",
-          "socialWork"
-        ],
-        "firstSeen": "2026-10-02",
-        "fetched_from": "crossref"
-      },
-      {
-        "id": "doi:10.1016/j.socscimed.2026.119851",
-        "doi": "10.1016/j.socscimed.2026.119851",
-        "url": "https://doi.org/10.1016/j.socscimed.2026.119851",
-        "title": "Institutional maintenance of an elite profession: the case of performance-related pay in the English medical profession",
-        "authors": [
-          "Mark Exworthy",
-          "Paula Hyde",
-          "Aoife M. McDermott"
-        ],
-        "abstract": "",
-        "source": "Social Science &amp; Medicine",
-        "issn": "0277-9536",
-        "date": "2026-10-01",
-        "subjects": [],
-        "domains": [
-          "healthReform",
-          "elderCare",
-          "agingHealth",
-          "socialWork"
-        ],
-        "firstSeen": "2026-10-02",
-        "fetched_from": "crossref"
-      },
-      {
-        "id": "doi:10.1016/j.socscimed.2026.119893",
-        "doi": "10.1016/j.socscimed.2026.119893",
-        "url": "https://doi.org/10.1016/j.socscimed.2026.119893",
-        "title": "Recent Canadian immigration reforms and their consequences for migrant children and families’ health: the “globalization of indifference”?",
-        "authors": [
-          "Rachel Kronick",
-          "Marianne Côté-Olijnyk",
-          "Efrat Arbel"
-        ],
-        "abstract": "",
-        "source": "Social Science &amp; Medicine",
-        "issn": "0277-9536",
-        "date": "2026-10-01",
-        "subjects": [],
-        "domains": [
-          "healthReform",
-          "elderCare",
-          "agingHealth",
-          "socialWork"
-        ],
-        "firstSeen": "2026-10-02",
-        "fetched_from": "crossref"
-      },
-      {
-        "id": "doi:10.1016/j.socscimed.2026.119855",
-        "doi": "10.1016/j.socscimed.2026.119855",
-        "url": "https://doi.org/10.1016/j.socscimed.2026.119855",
-        "title": "Algorithmic Portrayals of Mental Health Stigma: Quantifying the Gap Between AI Estimations and Human Perceptions Across Gender Groups Using GPT-Based LLMs",
-        "authors": [
-          "Soojong Kim",
-          "Hye Min Kim",
-          "Kwanho Kim",
-          "Dongdong Zhu"
-        ],
-        "abstract": "",
-        "source": "Social Science &amp; Medicine",
-        "issn": "0277-9536",
-        "date": "2026-10-01",
-        "subjects": [],
-        "domains": [
-          "healthReform",
-          "elderCare",
-          "agingHealth",
-          "socialWork"
-        ],
-        "firstSeen": "2026-10-02",
-        "fetched_from": "crossref"
-      },
-      {
-        "id": "doi:10.1016/j.socscimed.2026.119898",
-        "doi": "10.1016/j.socscimed.2026.119898",
-        "url": "https://doi.org/10.1016/j.socscimed.2026.119898",
-        "title": "Positive emotions and credibility: Understanding how a community-engaged online campaign featuring clinician testimonials improved rural vaccine promotion",
-        "authors": [
-          "Ran Tao",
-          "Liwei Shen",
-          "Mahima Bhattar",
-          "Malia Jones",
-          "Andy Garbacz",
-          "Sijia Yang",
-          "Susan Racine Passmore"
-        ],
-        "abstract": "",
-        "source": "Social Science &amp; Medicine",
-        "issn": "0277-9536",
-        "date": "2026-10-01",
-        "subjects": [],
-        "domains": [
-          "healthReform",
-          "elderCare",
-          "agingHealth",
-          "socialWork"
-        ],
-        "firstSeen": "2026-10-02",
         "fetched_from": "crossref"
       },
       {
@@ -54193,6 +54486,79 @@
         "fetched_from": "crossref"
       },
       {
+        "id": "doi:10.1186/s12877-026-08271-3",
+        "doi": "10.1186/s12877-026-08271-3",
+        "url": "https://doi.org/10.1186/s12877-026-08271-3",
+        "title": "Association between living arrangements and long-term health outcomes among older adults with mild cognitive impairment: a longitudinal cohort study using data from a nationally representative survey in China",
+        "authors": [
+          "Maoting Lin",
+          "Xueli Liu",
+          "Xin Tang",
+          "Chenxi Wu"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-03",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-03",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08405-7",
+        "doi": "10.1186/s12877-026-08405-7",
+        "url": "https://doi.org/10.1186/s12877-026-08405-7",
+        "title": "Predictors of hemodynamic instability during ERCP sedation in older adults: impact of sedation strategy in a retrospective cohort",
+        "authors": [
+          "Ali Ümit Eşbah",
+          "Serkan Torun"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-03",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-03",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08325-6",
+        "doi": "10.1186/s12877-026-08325-6",
+        "url": "https://doi.org/10.1186/s12877-026-08325-6",
+        "title": "How to ensure the implementability of multi-component interventions to improve active ageing in older people? An overview of the evidence of systematic reviews",
+        "authors": [
+          "Erika Renzi",
+          "Edda Parrinello",
+          "Michele Innocenzio",
+          "Antonio Covelli",
+          "Valentina Baccolini",
+          "Corrado De Vito",
+          "Carolina Marzuillo",
+          "Febo Cincotti",
+          "Paolo Villari",
+          "Azzurra Massimi"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-03",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-03",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1186/s12877-026-08370-1",
         "doi": "10.1186/s12877-026-08370-1",
         "url": "https://doi.org/10.1186/s12877-026-08370-1",
@@ -54239,6 +54605,57 @@
           "healthReform"
         ],
         "firstSeen": "2026-10-02",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08372-z",
+        "doi": "10.1186/s12877-026-08372-z",
+        "url": "https://doi.org/10.1186/s12877-026-08372-z",
+        "title": "Feasibility of dysphagia cup for older adults living in residential care homes: a preliminary study",
+        "authors": [
+          "Yee Tak Derek Cheung",
+          "Tsz Hong Ryder Chan",
+          "Yushen Zuo",
+          "Lai Wah Eva Yuen",
+          "Celia Sze Chow",
+          "Alice Kin Yi Au",
+          "Wai Yin Lau",
+          "Chun Yin Lau",
+          "Guowen Zhang"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-02",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-03",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08273-1",
+        "doi": "10.1186/s12877-026-08273-1",
+        "url": "https://doi.org/10.1186/s12877-026-08273-1",
+        "title": "Family-based transitional care for older adults after hip fracture surgery: a feasibility study",
+        "authors": [
+          "Nareerat Puttakun",
+          "Praneed Songwathana",
+          "Chantra Promnoi",
+          "Eleanor Holroyd"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-02",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-03",
         "fetched_from": "crossref"
       },
       {
@@ -58501,428 +58918,6 @@
         "fetched_from": "crossref"
       },
       {
-        "id": "doi:10.1002/alz.71919",
-        "doi": "10.1002/alz.71919",
-        "url": "https://doi.org/10.1002/alz.71919",
-        "title": "Issue Information",
-        "authors": [],
-        "abstract": "",
-        "source": "Alzheimer's &amp; Dementia",
-        "issn": "1552-5260",
-        "date": "2026-10-01",
-        "subjects": [],
-        "domains": [
-          "agingHealth"
-        ],
-        "firstSeen": "2026-09-29",
-        "fetched_from": "crossref"
-      },
-      {
-        "id": "doi:10.1002/alz.71861",
-        "doi": "10.1002/alz.71861",
-        "url": "https://doi.org/10.1002/alz.71861",
-        "title": "Tau‐PET correlates of mild behavioral impairment in preclinical and prodromal Alzheimer's disease: A head‐to‐head comparison of Flortaucipir and MK6240",
-        "authors": [
-          "Isabella Bizzi",
-          "Arthur C. Macedo",
-          "Lydia Trudel",
-          "Joseph Therriault",
-          "Nesrine Rahmouni",
-          "Firoza Z. Lussier",
-          "Cécile Tissot",
-          "Gleb Bezgin",
-          "Étienne Aumont",
-          "Tevy Chan",
-          "Seyyed Ali Hosseini",
-          "Delphine Oliva‐Lopez",
-          "Marina Pereira Gonçalves",
-          "Guilherme Povala",
-          "Pamela C. L. Ferreira",
-          "Bruna Bellaver",
-          "Livia Amaral",
-          "Emma Ruppert",
-          "Marina Scop Medeiros",
-          "Rayan Mroué",
-          "Andréia Rocha",
-          "Kok Pin Ng",
-          "Eduardo R. Zimmer",
-          "Joseph Masdeu",
-          "Belen Pascual",
-          "Val J. Lowe",
-          "Hwamee Oh",
-          "David N. Soleimani‐Meigooni",
-          "Juan Fortea",
-          "Zahinoor Ismail",
-          "Suzanne Baker",
-          "Tharick A Pascoal",
-          "Pedro Rosa‐Neto"
-        ],
-        "abstract": "Abstract                                        INTRODUCTION                     We compared the association between mild behavioral impairment (MBI) and first‐ versus second‐generation tau‐positron emission tomography (PET) tracers in preclinical and prodromal Alzheimer's disease (AD).                                                           METHODS                                            We assessed 110 individuals with head‐to‐head [                       18                       F]MK6240 and [                       18                       F]Flortaucipir tau‐PET. Voxel‐wise and region‐of‐interest analyses investigated relationships between tau‐PET and MBI Checklist (MBI‐C) scores, which were also compared across tau‐PET positivity and PET‐Braak stages.                                                                                RESULTS                                            For both tracers, MBI severity was associated with tau‐PET signal in all Braak regions and increased across PET‐Braak stages. [                       18                       F]MK6240 showed more extensive voxel‐wise associations with MBI‐C scores and additional correlations with affective symptoms in stratified analyses by diagnostic groups. Tau positivity was associated with a higher frequency of MBI. Individuals positive for [                       18                       F]MK6240 but negative for [                       18                       F]Flortaucipir exhibited greater MBI burden than individuals negative for both tracers.                                                                                DISCUSSION                                            MBI in early AD is associated with tau‐PET, with [                       18                       F]MK6240 providing greater sensitivity to detect MBI‐related symptoms.",
-        "source": "Alzheimer's &amp; Dementia",
-        "issn": "1552-5260",
-        "date": "2026-10-01",
-        "subjects": [],
-        "domains": [
-          "agingHealth"
-        ],
-        "firstSeen": "2026-09-29",
-        "fetched_from": "crossref"
-      },
-      {
-        "id": "doi:10.1002/alz.71835",
-        "doi": "10.1002/alz.71835",
-        "url": "https://doi.org/10.1002/alz.71835",
-        "title": "Precision residential greenspace, urban environmental exposures, and incident dementia among older adults in Sweden: A 16‐year cohort study",
-        "authors": [
-          "Cecilia U. D. Stenfors",
-          "Jing Wu",
-          "Giulia Grande",
-          "Andrei Pyko",
-          "Mare Löhmus",
-          "Göran Pershagen",
-          "Debora Rizzuto"
-        ],
-        "abstract": "Abstract                                        INTRODUCTION                     Residential greenspace is linked to mental and cardiometabolic health, but longitudinal studies on detailed greenspace and dementia incidence are limited.                                                           METHODS                     We followed 2993 dementia‐free participants in the Swedish National Study on Aging and Care Kungsholmen for 16 years; 477 developed clinically diagnosed dementia. Greenspace was assessed using normalized difference vegetation index within 100‐, 250‐, and 500‐m residential buffers. Cox models estimated hazard ratios (HRs) per interquartile‐range greenspace increment and tested effect modification by air pollution, road traffic noise, blue space, age, sex, and apolipoprotein E‐ε4 (APOE‐ε4).                                                           RESULTS                     Higher greenspace within 100 m was associated with lower dementia incidence (HR = 0.79, 95% confidence interval [CI] = 0.64–0.96), whereas associations for larger buffers were attenuated. Associations were stronger in women (HR = 0.69, 95% CI = 0.54–0.89) than men (HR = 0.93, 95% CI = 0.71–1.24).                                                           DISCUSSION                     Close residential greenspace may reduce dementia risk in older adults, particularly women.",
-        "source": "Alzheimer's &amp; Dementia",
-        "issn": "1552-5260",
-        "date": "2026-10-01",
-        "subjects": [],
-        "domains": [
-          "agingHealth"
-        ],
-        "firstSeen": "2026-09-29",
-        "fetched_from": "crossref"
-      },
-      {
-        "id": "doi:10.1002/alz.71869",
-        "doi": "10.1002/alz.71869",
-        "url": "https://doi.org/10.1002/alz.71869",
-        "title": "Integrative prediction of Alzheimer's disease and related dementias using multi‐omics aging clocks and genetic data",
-        "authors": [
-          "Shayan Mostafaei",
-          "Karolina Gustavsson",
-          "Hampus Hagelin",
-          "Jonathan K. L. Mak",
-          "Trung Nghia Vu",
-          "Ida K. Karlsson",
-          "Sara Hägg"
-        ],
-        "abstract": "Abstract                                        INTRODUCTION                     We tested whether combining Alzheimer's disease and related dementias (ADRD) polygenic risk scores (PRS) with biological aging markers improves ADRD risk prediction.                                                           METHODS                                            In 16,215 UK Biobank (UKB) participants free of ADRD at baseline (median follow‐up: 10.08 years), 397 incident diagnoses were identified. Biological aging measures included clinical, telomere, proteomic, and metabolomic aging markers. External validation/replication was performed in TwinGene (                       N                        = 3772; 331 cases).                                                                                RESULTS                     The fully integrated model achieved area under the curve (AUC) = 0.90 and area under the precision‐recall curve (AUPRC) = 0.24 in the UKB held‐out test set. PRS was the strongest predictor (subdistribution hazard ratio [sHR] = 2.24, 95% CI: 2.02–2.48), followed by ProtAge (sHR = 2.01, 95% CI: 1.13–3.58). The top predicted‐risk quartile showed higher ADRD incidence (sHR = 16.73, 95% CI: 6.49–43.11). TwinGene showed moderate transportability (AUC = 0.757; AUPRC = 0.223) and preserved risk stratification (sHR = 4.02, 95% CI: 3.25–5.02).                                                           DISCUSSION                     Integrating PRS and biological aging measures improved ADRD risk stratification.",
-        "source": "Alzheimer's &amp; Dementia",
-        "issn": "1552-5260",
-        "date": "2026-10-01",
-        "subjects": [],
-        "domains": [
-          "agingHealth"
-        ],
-        "firstSeen": "2026-09-29",
-        "fetched_from": "crossref"
-      },
-      {
-        "id": "doi:10.1002/alz.71878",
-        "doi": "10.1002/alz.71878",
-        "url": "https://doi.org/10.1002/alz.71878",
-        "title": "World Trade Center neurotoxicant exposure severity is associated with cortical thinning and regional brain atrophy: a neuroimaging study of general responders at midlife",
-        "authors": [
-          "Sean A. P. Clouston",
-          "Chuan Huang",
-          "Temurbek Askarov",
-          "Yicun Wang",
-          "Zan Chaudhry",
-          "Melissa A. Carr",
-          "Yuan Yang",
-          "Steven West",
-          "Frank D. Mann",
-          "Ruth Marquez",
-          "Paul Vaska",
-          "Jaymie Meliker",
-          "Sam Gandy",
-          "Roberto G. Lucchini",
-          "Benjamin J. Luft"
-        ],
-        "abstract": "Abstract                                        INTRODUCTION                     Exposure to aerosolized pollutants is a risk factor for cognitive impairment and dementia, but the specific features of exposure‐related neurodegeneration remain unclear.                                                           METHODS                     We measured the World Trade Center Neurotoxicant Exposure Severity Index (WTC‐NESI) in 218 responders and unexposed controls aged 44‐65 years. The main outcome was cortical thickness. Correlation analyses reported unadjusted associations and multiple linear regression to adjust for correlates. Vertex‐wise analyses were used with threshold‐free cluster enhancement to examine associations after adjusting for cross‐vertex clustering in atrophy.                                                           RESULTS                                            Cortical thickness was associated with WTC‐NESI (                       R =                        −0.38,                       p &lt;                        0.001) that survived multivariable adjustment. Vertex‐wise analyses revealed reduced cortical thickness across much of the cortical surface that was associated with WTC exposure severity. Results were right‐hemisphere asymmetric and focused in the precentral regions (partial                                                η                         2                                              ≥ 0.07).                                                                                CONCLUSION                     Our results provide an important reference for neurotoxicological investigators mapping the implications of airborne pollutant exposures. This study suggests that efforts to mitigate exposures in first responders might have long‐term implications for cerebral health.",
-        "source": "Alzheimer's &amp; Dementia",
-        "issn": "1552-5260",
-        "date": "2026-10-01",
-        "subjects": [],
-        "domains": [
-          "agingHealth"
-        ],
-        "firstSeen": "2026-09-29",
-        "fetched_from": "crossref"
-      },
-      {
-        "id": "doi:10.1002/alz.71887",
-        "doi": "10.1002/alz.71887",
-        "url": "https://doi.org/10.1002/alz.71887",
-        "title": "Long term clinical performance and analytical robustness of the Lumipulse plasma p‐tau217 assay in routine clinical practice",
-        "authors": [
-          "Susan Ashrafzadeh‐Kian",
-          "Daniel J. Figdore",
-          "Joshua A. Bornhorst",
-          "Patrick M. Vanderboom",
-          "Sarah Callison",
-          "Gregory S. Day",
-          "Christian Lachner",
-          "Neill Graff‐Radford",
-          "Dror Shir",
-          "Clifford R. Jack",
-          "David S. Knopman",
-          "Jonathan Graff‐Radford",
-          "Ronald C. Petersen",
-          "Vijay K. Ramanan",
-          "Alicia Algeciras‐Schimnich"
-        ],
-        "abstract": "Abstract                                        INTRODUCTION                     Plasma phosphorylated tau 217 (p‑tau217) immunoassays are increasingly being used to assess Alzheimer's disease (AD) pathology despite limited data affirming test reliability over time.                                                           METHODS                     Clinical performance of the Fujirebio Lumipulse G p‑tau217 assay was assessed in 744 Mayo Clinic patients presenting for evaluation of cognitive impairment between July 2024 and December 2025. Cerebrospinal fluid p‑tau181/amyloid beta 42 or amyloid positron emission tomography, within 1 year of p‐tau217 testing, were used as reference. Analytical robustness was evaluated by tracking result frequencies over time, conducting quality control checks, performing 10 lot‑to‑lot comparisons, and comparing two versions of reagents.                                                           RESULTS                     Diagnostic accuracy for detection of AD pathology was 93% (95% confidence interval 91–95) with 23% intermediate results. Reduced estimated glomerular filtration rate was associated with increased intermediate results among amyloid‐negative individuals. Result frequencies remained stable, average imprecision was 8%, and analytical bias between lots and version changes were ≤ 11%.                                                           DISCUSSION                     The findings support plasma p‐tau217 reliability in clinical practice for evaluation of cognitively impaired individuals.",
-        "source": "Alzheimer's &amp; Dementia",
-        "issn": "1552-5260",
-        "date": "2026-10-01",
-        "subjects": [],
-        "domains": [
-          "agingHealth"
-        ],
-        "firstSeen": "2026-09-29",
-        "fetched_from": "crossref"
-      },
-      {
-        "id": "doi:10.1002/alz.71694",
-        "doi": "10.1002/alz.71694",
-        "url": "https://doi.org/10.1002/alz.71694",
-        "title": "Perspectives from Alzheimer's Disease Research Centers site directors on the early steps and the lasting impact",
-        "authors": [
-          "John H. Growdon",
-          "John C. Morris",
-          "Ronald C. Petersen",
-          "Mary Sano",
-          "Lon S. Schneider"
-        ],
-        "abstract": "Abstract                   Since the groundbreaking work of Alois Alzheimer in the early 1900s, Alzheimer's disease research has evolved immensely, most notably with the establishment of the Alzheimer's Disease Research Centers (ADRC). Fueled by the vision and funding of the National Institute on Aging (NIA), ADRCs have created a legacy through their work standardizing criteria for Alzheimer's disease diagnosis. Leveraging the experience of the Consortium to Establish a Registry for Alzheimer's Disease, the ADRCs advanced standardized assessment tools, including the Clinical and Neuropsychological Batteries, as well as the CDR, which would make way for uniform data collection, in what we know today as the National Alzheimer's Coordinating Center (NACC). Collaborative data collection was expanded by NIA to support the development of treatments for Alzheimer's disease and related disorders (ADRD) through the Alzheimer's Disease Cooperative Study (ADCS) and the Alzheimer's Clinical Trial Consortium (ACTC) programs. These NIA sponsored programs have created a foundation for today's pharmacological and non‐pharmacological interventions to improve cognition and function in persons living with ADRD.",
-        "source": "Alzheimer's &amp; Dementia",
-        "issn": "1552-5260",
-        "date": "2026-10-01",
-        "subjects": [],
-        "domains": [
-          "agingHealth"
-        ],
-        "firstSeen": "2026-09-29",
-        "fetched_from": "crossref"
-      },
-      {
-        "id": "doi:10.1002/alz.71888",
-        "doi": "10.1002/alz.71888",
-        "url": "https://doi.org/10.1002/alz.71888",
-        "title": "GLP‐1R agonist semaglutide protects human forebrain organoids from cholesterol‐induced neurotoxicity",
-        "authors": [
-          "Feifei Yu",
-          "Jiani Xu",
-          "Yibo Hou",
-          "Honghui Zheng",
-          "Lingyi Guo",
-          "Davit Khutsishvili",
-          "Cheng Hai",
-          "Wenxin Xu",
-          "Bailing Chen",
-          "Zitian Wang",
-          "Shaohua Ma"
-        ],
-        "abstract": "Abstract                                        INTRODUCTION                     Dysregulated cholesterol metabolism represents a critical metabolic stressor in the central nervous system, contributing to neuronal injury across multiple neurological conditions, including Alzheimer's disease (AD). While glucagon‐like peptide‐1 receptor (GLP‐1R) agonists show neuroprotective potential, their capacity to directly mitigate cholesterol‐induced metabolic stress in human neural cells remains to be established.                                                           METHODS                                            Here, we modeled metabolic stress using human induced pluripotent stem cell–derived forebrain organoids exposed to cholesterol overload. The protective effects of the GLP‐1R agonist semaglutide were characterized by integrating bulk/single‐cell transcriptomics, calcium imaging, and biochemical assays. Furthermore, clinical translatability was supported by mapping organoid expression signatures against human                       post mortem                       neurodegenerative brain datasets.                                                                                RESULTS                     Cholesterol overload induced cellular stress and transcriptomic alterations that partially overlapped with AD‐associated signatures. Semaglutide protected neural cells from lipotoxic injury. Intracellularly, GLP‐1R activation engaged the cyclic adenosine 3',5'‐monophosphate–protein kinase A and phosphoinositide 3 kinase–protein kinase B–mechanistic target of rapamycin signaling pathways, consistent with reduced lipid droplet accumulation and oxidative stress. Intercellularly, single‐cell analysis indicated partial preservation of disrupted cellular communication, including the neurotrophic midkine signaling network. Functionally, semaglutide stabilized cellular calcium activity patterns under metabolic stress.                                                           DISCUSSION                     These findings highlight the role of cholesterol homeostasis in maintaining neuronal integrity and position GLP‐1R signaling as a candidate protective axis under metabolic stress, offering insights into therapeutic strategies for AD and broader neurodegenerative disorders.",
-        "source": "Alzheimer's &amp; Dementia",
-        "issn": "1552-5260",
-        "date": "2026-10-01",
-        "subjects": [],
-        "domains": [
-          "agingHealth"
-        ],
-        "firstSeen": "2026-09-29",
-        "fetched_from": "crossref"
-      },
-      {
-        "id": "doi:10.1002/alz.71855",
-        "doi": "10.1002/alz.71855",
-        "url": "https://doi.org/10.1002/alz.71855",
-        "title": "Novel genetic profile linked to cognitive decline in Hispanics/Latinos",
-        "authors": [
-          "Yana Hrytsenko",
-          "Yogesh Purushotham",
-          "Zhirou Li",
-          "Carmen R Isasi",
-          "Wassim Tarraf",
-          "Alberto R Ramos",
-          "Martha L Daviglus",
-          "Humberto Parada",
-          "Brian W Spitzer",
-          "Mariko Isshiki",
-          "Srilakshmi M Raj",
-          "Charles DeCarli",
-          "Hector M González",
-          "Myriam Fornage",
-          "Tamar Sofer"
-        ],
-        "abstract": "Abstract                                        BACKGROUND                                            The                       APOE                       ε4 allele has weaker association with ADRD outcomes in Hispanic/Latino populations compared to non‐Hispanic White and East Asian populations.                                                                                METHODS                                            We used whole‐genome sequencing data from 13,025 Hispanic/Latino adults to infer population groups (clusters) from short DNA sequences at the                       APOE                       gene region. We estimated the associations between these clusters and mild cognitive impairment (MCI) and age‐adjusted significant cognitive decline assessed via the Study of Latinos‐Investigation of Neurocognitive Aging (SOL‐INCA) study (                       n                        = 5334). We compared these associations to those of the conventional                       APOE                       alleles.                                                                                RESULTS                                            We identified three clusters of individuals. Relative to the largest Cluster 1, being in Cluster 3 had higher likelihood of having significant cognitive decline, with odds ratio (OR) = 1.47, 95% confidence interval (CI) [1.18, 1.84],                       p                       &lt; 0.001. The association with having prevalent MCI at the SOL‐INCA exam was not statistically significant, with OR = 1.33, 95% CI [0.97, 1.83],                       p                       = 0.08. Associations of the ε4 allele with these traits were not statistically significant.                                                                                DISCUSSION                                            The new                       APOE                       profile has stronger risk association with age‐adjusted significant cognitive decline in SOL‐INCA Hispanics/Latinos compared to the ε4 allele.",
-        "source": "Alzheimer's &amp; Dementia",
-        "issn": "1552-5260",
-        "date": "2026-10-01",
-        "subjects": [],
-        "domains": [
-          "agingHealth"
-        ],
-        "firstSeen": "2026-09-29",
-        "fetched_from": "crossref"
-      },
-      {
-        "id": "doi:10.1002/alz.71841",
-        "doi": "10.1002/alz.71841",
-        "url": "https://doi.org/10.1002/alz.71841",
-        "title": "Practical considerations for characterization of the external exposome in Alzheimer's disease and related dementias cohorts",
-        "authors": [
-          "Zachary Popp",
-          "Allison James",
-          "Marco Chivardi",
-          "Cameron J Reimer",
-          "Charlotte Robbins",
-          "Tara Jenson",
-          "Jeroen M van Baar",
-          "Peter James",
-          "Kevin J Lane",
-          "Marcia Pescador Jiménez"
-        ],
-        "abstract": "Abstract                   External exposome research offers opportunities to evaluate complex relationships between multiple environmental determinants of Alzheimer's disease and related dementias (ADRD). However, selecting specific exposure domains, identifying metrics, and downloading, processing, and managing big data are key challenges in translating the potential of exposome research into empirical data analyses. To overcome these issues, we have established a reproducible system that protects data privacy, setting the stage for an unparalleled examination of associations between environmental exposures and ADRD risk within an exposome framework. In this perspective, we provide a comprehensive guide, including examples, to linking natural, built, and social environment metrics to nationwide time‐varying participants’ residential address data. Further, as a proof of concept, we report descriptive statistics and spatial distribution of external exposome metrics across the contiguous United States in 2015. The external exposome can be securely and comprehensively characterized across multiple cohorts using this highly scalable approach.",
-        "source": "Alzheimer's &amp; Dementia",
-        "issn": "1552-5260",
-        "date": "2026-10-01",
-        "subjects": [],
-        "domains": [
-          "agingHealth"
-        ],
-        "firstSeen": "2026-09-29",
-        "fetched_from": "crossref"
-      },
-      {
-        "id": "doi:10.1002/alz.71842",
-        "doi": "10.1002/alz.71842",
-        "url": "https://doi.org/10.1002/alz.71842",
-        "title": "Exposome‐wide association study and predictive risk score for incident Alzheimer's disease and related dementias",
-        "authors": [
-          "Chenshuang Li",
-          "Chenxu Zhao",
-          "Yiqun Lan",
-          "Randall J Ellis",
-          "Shakson Isaac",
-          "Sai Zhang",
-          "Gary W. Miller",
-          "Yi Sun",
-          "Shalini Jain",
-          "Hariom Yadav",
-          "Peng Gao",
-          "Chirag J Patel"
-        ],
-        "abstract": "Abstract                                        INTRODUCTION                     Environmental exposures contribute substantially to Alzheimer's disease and related dementias (ADRD), yet comprehensive exposome‐wide investigations systematically evaluating multi‐domain environmental factors remain limited and lacking utility for precision medicine.                                                           METHODS                     We conducted an exposome‐wide association study (ExWAS) among 499,992 UK Biobank participants, examining 193 exposures across five domains (social, physical, chemical, lifestyle, and ecosystems). Cox proportional hazard models with Bonferroni correction identified ADRD‐associated exposures. We used the XGBoost classifier to build a predictive model and further developed an exposomic risk score (ERS) for risk stratification.                                                           RESULTS                                            During a 15.3‐year median follow‐up, 8881 participants (1.77%) developed ADRD, including 4000 with Alzheimer's disease. ExWAS identified 76 exposures after Bonferroni correction. The prediction model achieved area under the curve (AUC) = 0.718, outperforming demographics+apolipoprotein E (                       APOE                       ) status alone (AUC = 0.678). The ERS stratified ADRD risk (highest vs lowest quartile hazard ratio [HR] = 2.97, 95% confidence interval [CI]: 2.59–3.41).                                                                                DISCUSSION                     The ERS has the potential to contribute to clinically relevant prevention strategies for ADRD.",
-        "source": "Alzheimer's &amp; Dementia",
-        "issn": "1552-5260",
-        "date": "2026-10-01",
-        "subjects": [],
-        "domains": [
-          "agingHealth"
-        ],
-        "firstSeen": "2026-10-01",
-        "fetched_from": "crossref"
-      },
-      {
-        "id": "doi:10.1002/alz.71891",
-        "doi": "10.1002/alz.71891",
-        "url": "https://doi.org/10.1002/alz.71891",
-        "title": "Excitation–inhibition imbalance links amyloid pathophysiology to cognition in non‐demented individuals",
-        "authors": [
-          "Shaoshi Zhang",
-          "Sebastian N. Roemer‐Cassiano",
-          "Joyce Ruifen Chong",
-          "Tian Fang",
-          "Yan Li",
-          "Ziwen Wang",
-          "Tianchu Zeng",
-          "Xin Li",
-          "Gustavo Deco",
-          "Narayanaswamy Venketasubramanian",
-          "Juan Helen Zhou",
-          "Christopher Li‐Hsian Chen",
-          "Mitchell K. P. Lai",
-          "Nicolai Franzmeier",
-          "B. T. Thomas Yeo"
-        ],
-        "abstract": "Abstract                                        INTRODUCTION                     Excitation–inhibition (E/I) imbalance has been proposed as an early circuit‐level mechanism in Alzheimer's disease (AD), but its relationship to molecular pathology and cognition in humans remains unclear.                                                           METHODS                                            We integrated biophysical modeling of resting‐state functional magnetic resonance imaging with cerebrospinal fluid (CSF) and plasma biomarkers to examine whether E/I ratio links amyloid pathophysiology to memory in non‐demented individuals across two cohorts from North America (                       N                        = 302; CSF amyloid beta 42 [Aβ42]) and Singapore (                       N                        = 240; plasma phosphorylated tau 217 [p‐tau217]).                                                                                RESULTS                     Elevated E/I ratio was associated with lower CSF Aβ42 and higher plasma p‐tau217, with greater sensitivity in sensory–motor regions. In contrast, elevated E/I ratio in association cortices was more strongly related to worse memory function. Mediation analyses indicated E/I ratio partially accounted for the AD biomarker–memory relationship.                                                           DISCUSSION                     E/I imbalance represents an intermediate, systems‐level circuit mechanism that links AD pathophysiology to cognitive impairment, offering novel insight into early neurophysiological changes along the AD continuum.",
-        "source": "Alzheimer's &amp; Dementia",
-        "issn": "1552-5260",
-        "date": "2026-10-01",
-        "subjects": [],
-        "domains": [
-          "agingHealth"
-        ],
-        "firstSeen": "2026-10-01",
-        "fetched_from": "crossref"
-      },
-      {
-        "id": "doi:10.1002/alz.71896",
-        "doi": "10.1002/alz.71896",
-        "url": "https://doi.org/10.1002/alz.71896",
-        "title": "ZBP1‐mediated Treg cell dysfunction exacerbates neuroimmune dysregulation in Alzheimer's disease under metabolic stress",
-        "authors": [
-          "Shanshan Huang",
-          "Zengyu Zhang",
-          "Jiajie Xia",
-          "Mengqiu Deng",
-          "Fangzheng Chen",
-          "Meng Wang",
-          "Yuchao Fei",
-          "Zhiwen Jiang",
-          "Chenyu Lu",
-          "Jiayu Fu",
-          "Jingchun Guo",
-          "Houguang Zhou"
-        ],
-        "abstract": "Abstract                                        INTRODUCTION                     Metabolic stress increases Alzheimer's disease (AD) risk, but mechanisms linking metabolic dysfunction to neuroimmune dysregulation remain unclear.                                                           METHODS                     We assessed cognition in community‐dwelling participants and used high‐fat diet (HFD)‐fed 5xFAD mice, high glucose and high palmitate (HGHP)‐treated regulatory T cell (Treg) co‐cultures, and adoptive Treg transfer to evaluate metabolic stress‐associated neuroimmune dysfunction. Flow cytometry, RNA sequencing, positron emission tomography computed tomography, and electrophysiology assessed Treg function, AD pathology, cerebral metabolism, and synaptic plasticity.                                                           RESULTS                     Metabolic stress impaired Treg stability and function, accompanied by increased Z‐DNA‐binding protein 1 (ZBP1) expression and activation of apoptotic and necroptotic signaling. Treg dysfunction was associated with enhanced glial activation and neuronal injury. Under HGHP stress, ZBP1‐deficient Tregs showed improved survival and stronger immunosuppressive activity, more effectively limiting glial activation and preserving neuronal integrity. In vivo, ZBP1‐deficient Treg transfer conferred greater neuroprotection than wild‐type Treg transfer in HFD‐fed AD mice.                                                           DISCUSSION                     ZBP1 may contribute to metabolic stress–induced Treg dysfunction and represent a candidate target to improve Treg‐based therapy in HFD‐fed AD mice.",
-        "source": "Alzheimer's &amp; Dementia",
-        "issn": "1552-5260",
-        "date": "2026-10-01",
-        "subjects": [],
-        "domains": [
-          "agingHealth"
-        ],
-        "firstSeen": "2026-10-01",
-        "fetched_from": "crossref"
-      },
-      {
-        "id": "doi:10.1002/alz.71893",
-        "doi": "10.1002/alz.71893",
-        "url": "https://doi.org/10.1002/alz.71893",
-        "title": "Associations of plasma HDL subclasses with incident dementia risk in older adults",
-        "authors": [
-          "Binchong An",
-          "Suad Ali",
-          "Karen Smith",
-          "Samantha Roemhild",
-          "Lindsey Neumann",
-          "Dwight R. Stoll",
-          "Ling Li",
-          "Pamela L Lutsey",
-          "Michelle M Mielke",
-          "Fang Yu",
-          "Ron C Hoogeveen",
-          "Lin Zhang",
-          "Alvaro Alonso",
-          "Danni Li"
-        ],
-        "abstract": "Abstract                                        INTRODUCTION                     Plasma high‐density lipoprotein (HDL) varies in size. We examined the associations between HDL subclasses and their lipid composition and incident dementia risk in older adults.                                                           METHODS                     We included 23,790 United Kingdom (UK) Biobank (UKB) and 147 Atherosclerosis Risk in Communities (ARIC) older adults free of dementia at baseline. HDL subclasses and their lipid composition were characterized using two distinct approaches: Nightingale nuclear magnetic resonance (NMR) spectroscopy in UKB and anion‐exchange chromatography followed by mass spectrometry‐based lipidomics of physically isolated HDL subfractions (AEX‐MS) in ARIC. Cox regression models were used to evaluate the associations, adjusting for covariates.                                                           RESULTS                     In the UKB, Nightingale NMR‐derived plasma small and very large HDL particle and six lipid concentrations (total lipids, triglycerides [TG], phospholipids, free cholesterol, cholesterol ester [CE], total cholesterol) were associated with lower and higher risks of incident dementia, respectively. These associations were likely driven mainly by particle concentration in NMR‐derived small HDL and by both lipid and lipid concentrations in NMR‐derived very large HDL. In the ARIC, total TG in AEX‐defined HDL subfraction 1 (e.g., smaller HDL), total lysophosphatidylcholine (LPC) and phosphatidylethanolamine (PE), and TG in AEX‐defined subfraction 2 (e.g., larger HDL) were associated with a lower incident dementia risk.                                                           DISCUSSION                     Although different HDL subclass characterization and lipid measurement methods made it difficult to compare results across cohorts, HDL subclasses and their lipid compositions were associated with the risk of incident dementia in both cohorts.",
-        "source": "Alzheimer's &amp; Dementia",
-        "issn": "1552-5260",
-        "date": "2026-10-01",
-        "subjects": [],
-        "domains": [
-          "agingHealth"
-        ],
-        "firstSeen": "2026-10-01",
-        "fetched_from": "crossref"
-      },
-      {
         "id": "doi:10.1016/j.socscimed.2026.119881",
         "doi": "10.1016/j.socscimed.2026.119881",
         "url": "https://doi.org/10.1016/j.socscimed.2026.119881",
@@ -60344,6 +60339,428 @@
           "healthReform"
         ],
         "firstSeen": "2026-10-02",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1002/alz.71919",
+        "doi": "10.1002/alz.71919",
+        "url": "https://doi.org/10.1002/alz.71919",
+        "title": "Issue Information",
+        "authors": [],
+        "abstract": "",
+        "source": "Alzheimer's &amp; Dementia",
+        "issn": "1552-5260",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-29",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1002/alz.71861",
+        "doi": "10.1002/alz.71861",
+        "url": "https://doi.org/10.1002/alz.71861",
+        "title": "Tau‐PET correlates of mild behavioral impairment in preclinical and prodromal Alzheimer's disease: A head‐to‐head comparison of Flortaucipir and MK6240",
+        "authors": [
+          "Isabella Bizzi",
+          "Arthur C. Macedo",
+          "Lydia Trudel",
+          "Joseph Therriault",
+          "Nesrine Rahmouni",
+          "Firoza Z. Lussier",
+          "Cécile Tissot",
+          "Gleb Bezgin",
+          "Étienne Aumont",
+          "Tevy Chan",
+          "Seyyed Ali Hosseini",
+          "Delphine Oliva‐Lopez",
+          "Marina Pereira Gonçalves",
+          "Guilherme Povala",
+          "Pamela C. L. Ferreira",
+          "Bruna Bellaver",
+          "Livia Amaral",
+          "Emma Ruppert",
+          "Marina Scop Medeiros",
+          "Rayan Mroué",
+          "Andréia Rocha",
+          "Kok Pin Ng",
+          "Eduardo R. Zimmer",
+          "Joseph Masdeu",
+          "Belen Pascual",
+          "Val J. Lowe",
+          "Hwamee Oh",
+          "David N. Soleimani‐Meigooni",
+          "Juan Fortea",
+          "Zahinoor Ismail",
+          "Suzanne Baker",
+          "Tharick A Pascoal",
+          "Pedro Rosa‐Neto"
+        ],
+        "abstract": "Abstract                                        INTRODUCTION                     We compared the association between mild behavioral impairment (MBI) and first‐ versus second‐generation tau‐positron emission tomography (PET) tracers in preclinical and prodromal Alzheimer's disease (AD).                                                           METHODS                                            We assessed 110 individuals with head‐to‐head [                       18                       F]MK6240 and [                       18                       F]Flortaucipir tau‐PET. Voxel‐wise and region‐of‐interest analyses investigated relationships between tau‐PET and MBI Checklist (MBI‐C) scores, which were also compared across tau‐PET positivity and PET‐Braak stages.                                                                                RESULTS                                            For both tracers, MBI severity was associated with tau‐PET signal in all Braak regions and increased across PET‐Braak stages. [                       18                       F]MK6240 showed more extensive voxel‐wise associations with MBI‐C scores and additional correlations with affective symptoms in stratified analyses by diagnostic groups. Tau positivity was associated with a higher frequency of MBI. Individuals positive for [                       18                       F]MK6240 but negative for [                       18                       F]Flortaucipir exhibited greater MBI burden than individuals negative for both tracers.                                                                                DISCUSSION                                            MBI in early AD is associated with tau‐PET, with [                       18                       F]MK6240 providing greater sensitivity to detect MBI‐related symptoms.",
+        "source": "Alzheimer's &amp; Dementia",
+        "issn": "1552-5260",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-29",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1002/alz.71835",
+        "doi": "10.1002/alz.71835",
+        "url": "https://doi.org/10.1002/alz.71835",
+        "title": "Precision residential greenspace, urban environmental exposures, and incident dementia among older adults in Sweden: A 16‐year cohort study",
+        "authors": [
+          "Cecilia U. D. Stenfors",
+          "Jing Wu",
+          "Giulia Grande",
+          "Andrei Pyko",
+          "Mare Löhmus",
+          "Göran Pershagen",
+          "Debora Rizzuto"
+        ],
+        "abstract": "Abstract                                        INTRODUCTION                     Residential greenspace is linked to mental and cardiometabolic health, but longitudinal studies on detailed greenspace and dementia incidence are limited.                                                           METHODS                     We followed 2993 dementia‐free participants in the Swedish National Study on Aging and Care Kungsholmen for 16 years; 477 developed clinically diagnosed dementia. Greenspace was assessed using normalized difference vegetation index within 100‐, 250‐, and 500‐m residential buffers. Cox models estimated hazard ratios (HRs) per interquartile‐range greenspace increment and tested effect modification by air pollution, road traffic noise, blue space, age, sex, and apolipoprotein E‐ε4 (APOE‐ε4).                                                           RESULTS                     Higher greenspace within 100 m was associated with lower dementia incidence (HR = 0.79, 95% confidence interval [CI] = 0.64–0.96), whereas associations for larger buffers were attenuated. Associations were stronger in women (HR = 0.69, 95% CI = 0.54–0.89) than men (HR = 0.93, 95% CI = 0.71–1.24).                                                           DISCUSSION                     Close residential greenspace may reduce dementia risk in older adults, particularly women.",
+        "source": "Alzheimer's &amp; Dementia",
+        "issn": "1552-5260",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-29",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1002/alz.71869",
+        "doi": "10.1002/alz.71869",
+        "url": "https://doi.org/10.1002/alz.71869",
+        "title": "Integrative prediction of Alzheimer's disease and related dementias using multi‐omics aging clocks and genetic data",
+        "authors": [
+          "Shayan Mostafaei",
+          "Karolina Gustavsson",
+          "Hampus Hagelin",
+          "Jonathan K. L. Mak",
+          "Trung Nghia Vu",
+          "Ida K. Karlsson",
+          "Sara Hägg"
+        ],
+        "abstract": "Abstract                                        INTRODUCTION                     We tested whether combining Alzheimer's disease and related dementias (ADRD) polygenic risk scores (PRS) with biological aging markers improves ADRD risk prediction.                                                           METHODS                                            In 16,215 UK Biobank (UKB) participants free of ADRD at baseline (median follow‐up: 10.08 years), 397 incident diagnoses were identified. Biological aging measures included clinical, telomere, proteomic, and metabolomic aging markers. External validation/replication was performed in TwinGene (                       N                        = 3772; 331 cases).                                                                                RESULTS                     The fully integrated model achieved area under the curve (AUC) = 0.90 and area under the precision‐recall curve (AUPRC) = 0.24 in the UKB held‐out test set. PRS was the strongest predictor (subdistribution hazard ratio [sHR] = 2.24, 95% CI: 2.02–2.48), followed by ProtAge (sHR = 2.01, 95% CI: 1.13–3.58). The top predicted‐risk quartile showed higher ADRD incidence (sHR = 16.73, 95% CI: 6.49–43.11). TwinGene showed moderate transportability (AUC = 0.757; AUPRC = 0.223) and preserved risk stratification (sHR = 4.02, 95% CI: 3.25–5.02).                                                           DISCUSSION                     Integrating PRS and biological aging measures improved ADRD risk stratification.",
+        "source": "Alzheimer's &amp; Dementia",
+        "issn": "1552-5260",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-29",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1002/alz.71878",
+        "doi": "10.1002/alz.71878",
+        "url": "https://doi.org/10.1002/alz.71878",
+        "title": "World Trade Center neurotoxicant exposure severity is associated with cortical thinning and regional brain atrophy: a neuroimaging study of general responders at midlife",
+        "authors": [
+          "Sean A. P. Clouston",
+          "Chuan Huang",
+          "Temurbek Askarov",
+          "Yicun Wang",
+          "Zan Chaudhry",
+          "Melissa A. Carr",
+          "Yuan Yang",
+          "Steven West",
+          "Frank D. Mann",
+          "Ruth Marquez",
+          "Paul Vaska",
+          "Jaymie Meliker",
+          "Sam Gandy",
+          "Roberto G. Lucchini",
+          "Benjamin J. Luft"
+        ],
+        "abstract": "Abstract                                        INTRODUCTION                     Exposure to aerosolized pollutants is a risk factor for cognitive impairment and dementia, but the specific features of exposure‐related neurodegeneration remain unclear.                                                           METHODS                     We measured the World Trade Center Neurotoxicant Exposure Severity Index (WTC‐NESI) in 218 responders and unexposed controls aged 44‐65 years. The main outcome was cortical thickness. Correlation analyses reported unadjusted associations and multiple linear regression to adjust for correlates. Vertex‐wise analyses were used with threshold‐free cluster enhancement to examine associations after adjusting for cross‐vertex clustering in atrophy.                                                           RESULTS                                            Cortical thickness was associated with WTC‐NESI (                       R =                        −0.38,                       p &lt;                        0.001) that survived multivariable adjustment. Vertex‐wise analyses revealed reduced cortical thickness across much of the cortical surface that was associated with WTC exposure severity. Results were right‐hemisphere asymmetric and focused in the precentral regions (partial                                                η                         2                                              ≥ 0.07).                                                                                CONCLUSION                     Our results provide an important reference for neurotoxicological investigators mapping the implications of airborne pollutant exposures. This study suggests that efforts to mitigate exposures in first responders might have long‐term implications for cerebral health.",
+        "source": "Alzheimer's &amp; Dementia",
+        "issn": "1552-5260",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-29",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1002/alz.71887",
+        "doi": "10.1002/alz.71887",
+        "url": "https://doi.org/10.1002/alz.71887",
+        "title": "Long term clinical performance and analytical robustness of the Lumipulse plasma p‐tau217 assay in routine clinical practice",
+        "authors": [
+          "Susan Ashrafzadeh‐Kian",
+          "Daniel J. Figdore",
+          "Joshua A. Bornhorst",
+          "Patrick M. Vanderboom",
+          "Sarah Callison",
+          "Gregory S. Day",
+          "Christian Lachner",
+          "Neill Graff‐Radford",
+          "Dror Shir",
+          "Clifford R. Jack",
+          "David S. Knopman",
+          "Jonathan Graff‐Radford",
+          "Ronald C. Petersen",
+          "Vijay K. Ramanan",
+          "Alicia Algeciras‐Schimnich"
+        ],
+        "abstract": "Abstract                                        INTRODUCTION                     Plasma phosphorylated tau 217 (p‑tau217) immunoassays are increasingly being used to assess Alzheimer's disease (AD) pathology despite limited data affirming test reliability over time.                                                           METHODS                     Clinical performance of the Fujirebio Lumipulse G p‑tau217 assay was assessed in 744 Mayo Clinic patients presenting for evaluation of cognitive impairment between July 2024 and December 2025. Cerebrospinal fluid p‑tau181/amyloid beta 42 or amyloid positron emission tomography, within 1 year of p‐tau217 testing, were used as reference. Analytical robustness was evaluated by tracking result frequencies over time, conducting quality control checks, performing 10 lot‑to‑lot comparisons, and comparing two versions of reagents.                                                           RESULTS                     Diagnostic accuracy for detection of AD pathology was 93% (95% confidence interval 91–95) with 23% intermediate results. Reduced estimated glomerular filtration rate was associated with increased intermediate results among amyloid‐negative individuals. Result frequencies remained stable, average imprecision was 8%, and analytical bias between lots and version changes were ≤ 11%.                                                           DISCUSSION                     The findings support plasma p‐tau217 reliability in clinical practice for evaluation of cognitively impaired individuals.",
+        "source": "Alzheimer's &amp; Dementia",
+        "issn": "1552-5260",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-29",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1002/alz.71694",
+        "doi": "10.1002/alz.71694",
+        "url": "https://doi.org/10.1002/alz.71694",
+        "title": "Perspectives from Alzheimer's Disease Research Centers site directors on the early steps and the lasting impact",
+        "authors": [
+          "John H. Growdon",
+          "John C. Morris",
+          "Ronald C. Petersen",
+          "Mary Sano",
+          "Lon S. Schneider"
+        ],
+        "abstract": "Abstract                   Since the groundbreaking work of Alois Alzheimer in the early 1900s, Alzheimer's disease research has evolved immensely, most notably with the establishment of the Alzheimer's Disease Research Centers (ADRC). Fueled by the vision and funding of the National Institute on Aging (NIA), ADRCs have created a legacy through their work standardizing criteria for Alzheimer's disease diagnosis. Leveraging the experience of the Consortium to Establish a Registry for Alzheimer's Disease, the ADRCs advanced standardized assessment tools, including the Clinical and Neuropsychological Batteries, as well as the CDR, which would make way for uniform data collection, in what we know today as the National Alzheimer's Coordinating Center (NACC). Collaborative data collection was expanded by NIA to support the development of treatments for Alzheimer's disease and related disorders (ADRD) through the Alzheimer's Disease Cooperative Study (ADCS) and the Alzheimer's Clinical Trial Consortium (ACTC) programs. These NIA sponsored programs have created a foundation for today's pharmacological and non‐pharmacological interventions to improve cognition and function in persons living with ADRD.",
+        "source": "Alzheimer's &amp; Dementia",
+        "issn": "1552-5260",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-29",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1002/alz.71888",
+        "doi": "10.1002/alz.71888",
+        "url": "https://doi.org/10.1002/alz.71888",
+        "title": "GLP‐1R agonist semaglutide protects human forebrain organoids from cholesterol‐induced neurotoxicity",
+        "authors": [
+          "Feifei Yu",
+          "Jiani Xu",
+          "Yibo Hou",
+          "Honghui Zheng",
+          "Lingyi Guo",
+          "Davit Khutsishvili",
+          "Cheng Hai",
+          "Wenxin Xu",
+          "Bailing Chen",
+          "Zitian Wang",
+          "Shaohua Ma"
+        ],
+        "abstract": "Abstract                                        INTRODUCTION                     Dysregulated cholesterol metabolism represents a critical metabolic stressor in the central nervous system, contributing to neuronal injury across multiple neurological conditions, including Alzheimer's disease (AD). While glucagon‐like peptide‐1 receptor (GLP‐1R) agonists show neuroprotective potential, their capacity to directly mitigate cholesterol‐induced metabolic stress in human neural cells remains to be established.                                                           METHODS                                            Here, we modeled metabolic stress using human induced pluripotent stem cell–derived forebrain organoids exposed to cholesterol overload. The protective effects of the GLP‐1R agonist semaglutide were characterized by integrating bulk/single‐cell transcriptomics, calcium imaging, and biochemical assays. Furthermore, clinical translatability was supported by mapping organoid expression signatures against human                       post mortem                       neurodegenerative brain datasets.                                                                                RESULTS                     Cholesterol overload induced cellular stress and transcriptomic alterations that partially overlapped with AD‐associated signatures. Semaglutide protected neural cells from lipotoxic injury. Intracellularly, GLP‐1R activation engaged the cyclic adenosine 3',5'‐monophosphate–protein kinase A and phosphoinositide 3 kinase–protein kinase B–mechanistic target of rapamycin signaling pathways, consistent with reduced lipid droplet accumulation and oxidative stress. Intercellularly, single‐cell analysis indicated partial preservation of disrupted cellular communication, including the neurotrophic midkine signaling network. Functionally, semaglutide stabilized cellular calcium activity patterns under metabolic stress.                                                           DISCUSSION                     These findings highlight the role of cholesterol homeostasis in maintaining neuronal integrity and position GLP‐1R signaling as a candidate protective axis under metabolic stress, offering insights into therapeutic strategies for AD and broader neurodegenerative disorders.",
+        "source": "Alzheimer's &amp; Dementia",
+        "issn": "1552-5260",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-29",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1002/alz.71855",
+        "doi": "10.1002/alz.71855",
+        "url": "https://doi.org/10.1002/alz.71855",
+        "title": "Novel genetic profile linked to cognitive decline in Hispanics/Latinos",
+        "authors": [
+          "Yana Hrytsenko",
+          "Yogesh Purushotham",
+          "Zhirou Li",
+          "Carmen R Isasi",
+          "Wassim Tarraf",
+          "Alberto R Ramos",
+          "Martha L Daviglus",
+          "Humberto Parada",
+          "Brian W Spitzer",
+          "Mariko Isshiki",
+          "Srilakshmi M Raj",
+          "Charles DeCarli",
+          "Hector M González",
+          "Myriam Fornage",
+          "Tamar Sofer"
+        ],
+        "abstract": "Abstract                                        BACKGROUND                                            The                       APOE                       ε4 allele has weaker association with ADRD outcomes in Hispanic/Latino populations compared to non‐Hispanic White and East Asian populations.                                                                                METHODS                                            We used whole‐genome sequencing data from 13,025 Hispanic/Latino adults to infer population groups (clusters) from short DNA sequences at the                       APOE                       gene region. We estimated the associations between these clusters and mild cognitive impairment (MCI) and age‐adjusted significant cognitive decline assessed via the Study of Latinos‐Investigation of Neurocognitive Aging (SOL‐INCA) study (                       n                        = 5334). We compared these associations to those of the conventional                       APOE                       alleles.                                                                                RESULTS                                            We identified three clusters of individuals. Relative to the largest Cluster 1, being in Cluster 3 had higher likelihood of having significant cognitive decline, with odds ratio (OR) = 1.47, 95% confidence interval (CI) [1.18, 1.84],                       p                       &lt; 0.001. The association with having prevalent MCI at the SOL‐INCA exam was not statistically significant, with OR = 1.33, 95% CI [0.97, 1.83],                       p                       = 0.08. Associations of the ε4 allele with these traits were not statistically significant.                                                                                DISCUSSION                                            The new                       APOE                       profile has stronger risk association with age‐adjusted significant cognitive decline in SOL‐INCA Hispanics/Latinos compared to the ε4 allele.",
+        "source": "Alzheimer's &amp; Dementia",
+        "issn": "1552-5260",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-29",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1002/alz.71841",
+        "doi": "10.1002/alz.71841",
+        "url": "https://doi.org/10.1002/alz.71841",
+        "title": "Practical considerations for characterization of the external exposome in Alzheimer's disease and related dementias cohorts",
+        "authors": [
+          "Zachary Popp",
+          "Allison James",
+          "Marco Chivardi",
+          "Cameron J Reimer",
+          "Charlotte Robbins",
+          "Tara Jenson",
+          "Jeroen M van Baar",
+          "Peter James",
+          "Kevin J Lane",
+          "Marcia Pescador Jiménez"
+        ],
+        "abstract": "Abstract                   External exposome research offers opportunities to evaluate complex relationships between multiple environmental determinants of Alzheimer's disease and related dementias (ADRD). However, selecting specific exposure domains, identifying metrics, and downloading, processing, and managing big data are key challenges in translating the potential of exposome research into empirical data analyses. To overcome these issues, we have established a reproducible system that protects data privacy, setting the stage for an unparalleled examination of associations between environmental exposures and ADRD risk within an exposome framework. In this perspective, we provide a comprehensive guide, including examples, to linking natural, built, and social environment metrics to nationwide time‐varying participants’ residential address data. Further, as a proof of concept, we report descriptive statistics and spatial distribution of external exposome metrics across the contiguous United States in 2015. The external exposome can be securely and comprehensively characterized across multiple cohorts using this highly scalable approach.",
+        "source": "Alzheimer's &amp; Dementia",
+        "issn": "1552-5260",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-09-29",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1002/alz.71842",
+        "doi": "10.1002/alz.71842",
+        "url": "https://doi.org/10.1002/alz.71842",
+        "title": "Exposome‐wide association study and predictive risk score for incident Alzheimer's disease and related dementias",
+        "authors": [
+          "Chenshuang Li",
+          "Chenxu Zhao",
+          "Yiqun Lan",
+          "Randall J Ellis",
+          "Shakson Isaac",
+          "Sai Zhang",
+          "Gary W. Miller",
+          "Yi Sun",
+          "Shalini Jain",
+          "Hariom Yadav",
+          "Peng Gao",
+          "Chirag J Patel"
+        ],
+        "abstract": "Abstract                                        INTRODUCTION                     Environmental exposures contribute substantially to Alzheimer's disease and related dementias (ADRD), yet comprehensive exposome‐wide investigations systematically evaluating multi‐domain environmental factors remain limited and lacking utility for precision medicine.                                                           METHODS                     We conducted an exposome‐wide association study (ExWAS) among 499,992 UK Biobank participants, examining 193 exposures across five domains (social, physical, chemical, lifestyle, and ecosystems). Cox proportional hazard models with Bonferroni correction identified ADRD‐associated exposures. We used the XGBoost classifier to build a predictive model and further developed an exposomic risk score (ERS) for risk stratification.                                                           RESULTS                                            During a 15.3‐year median follow‐up, 8881 participants (1.77%) developed ADRD, including 4000 with Alzheimer's disease. ExWAS identified 76 exposures after Bonferroni correction. The prediction model achieved area under the curve (AUC) = 0.718, outperforming demographics+apolipoprotein E (                       APOE                       ) status alone (AUC = 0.678). The ERS stratified ADRD risk (highest vs lowest quartile hazard ratio [HR] = 2.97, 95% confidence interval [CI]: 2.59–3.41).                                                                                DISCUSSION                     The ERS has the potential to contribute to clinically relevant prevention strategies for ADRD.",
+        "source": "Alzheimer's &amp; Dementia",
+        "issn": "1552-5260",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-01",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1002/alz.71891",
+        "doi": "10.1002/alz.71891",
+        "url": "https://doi.org/10.1002/alz.71891",
+        "title": "Excitation–inhibition imbalance links amyloid pathophysiology to cognition in non‐demented individuals",
+        "authors": [
+          "Shaoshi Zhang",
+          "Sebastian N. Roemer‐Cassiano",
+          "Joyce Ruifen Chong",
+          "Tian Fang",
+          "Yan Li",
+          "Ziwen Wang",
+          "Tianchu Zeng",
+          "Xin Li",
+          "Gustavo Deco",
+          "Narayanaswamy Venketasubramanian",
+          "Juan Helen Zhou",
+          "Christopher Li‐Hsian Chen",
+          "Mitchell K. P. Lai",
+          "Nicolai Franzmeier",
+          "B. T. Thomas Yeo"
+        ],
+        "abstract": "Abstract                                        INTRODUCTION                     Excitation–inhibition (E/I) imbalance has been proposed as an early circuit‐level mechanism in Alzheimer's disease (AD), but its relationship to molecular pathology and cognition in humans remains unclear.                                                           METHODS                                            We integrated biophysical modeling of resting‐state functional magnetic resonance imaging with cerebrospinal fluid (CSF) and plasma biomarkers to examine whether E/I ratio links amyloid pathophysiology to memory in non‐demented individuals across two cohorts from North America (                       N                        = 302; CSF amyloid beta 42 [Aβ42]) and Singapore (                       N                        = 240; plasma phosphorylated tau 217 [p‐tau217]).                                                                                RESULTS                     Elevated E/I ratio was associated with lower CSF Aβ42 and higher plasma p‐tau217, with greater sensitivity in sensory–motor regions. In contrast, elevated E/I ratio in association cortices was more strongly related to worse memory function. Mediation analyses indicated E/I ratio partially accounted for the AD biomarker–memory relationship.                                                           DISCUSSION                     E/I imbalance represents an intermediate, systems‐level circuit mechanism that links AD pathophysiology to cognitive impairment, offering novel insight into early neurophysiological changes along the AD continuum.",
+        "source": "Alzheimer's &amp; Dementia",
+        "issn": "1552-5260",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-01",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1002/alz.71896",
+        "doi": "10.1002/alz.71896",
+        "url": "https://doi.org/10.1002/alz.71896",
+        "title": "ZBP1‐mediated Treg cell dysfunction exacerbates neuroimmune dysregulation in Alzheimer's disease under metabolic stress",
+        "authors": [
+          "Shanshan Huang",
+          "Zengyu Zhang",
+          "Jiajie Xia",
+          "Mengqiu Deng",
+          "Fangzheng Chen",
+          "Meng Wang",
+          "Yuchao Fei",
+          "Zhiwen Jiang",
+          "Chenyu Lu",
+          "Jiayu Fu",
+          "Jingchun Guo",
+          "Houguang Zhou"
+        ],
+        "abstract": "Abstract                                        INTRODUCTION                     Metabolic stress increases Alzheimer's disease (AD) risk, but mechanisms linking metabolic dysfunction to neuroimmune dysregulation remain unclear.                                                           METHODS                     We assessed cognition in community‐dwelling participants and used high‐fat diet (HFD)‐fed 5xFAD mice, high glucose and high palmitate (HGHP)‐treated regulatory T cell (Treg) co‐cultures, and adoptive Treg transfer to evaluate metabolic stress‐associated neuroimmune dysfunction. Flow cytometry, RNA sequencing, positron emission tomography computed tomography, and electrophysiology assessed Treg function, AD pathology, cerebral metabolism, and synaptic plasticity.                                                           RESULTS                     Metabolic stress impaired Treg stability and function, accompanied by increased Z‐DNA‐binding protein 1 (ZBP1) expression and activation of apoptotic and necroptotic signaling. Treg dysfunction was associated with enhanced glial activation and neuronal injury. Under HGHP stress, ZBP1‐deficient Tregs showed improved survival and stronger immunosuppressive activity, more effectively limiting glial activation and preserving neuronal integrity. In vivo, ZBP1‐deficient Treg transfer conferred greater neuroprotection than wild‐type Treg transfer in HFD‐fed AD mice.                                                           DISCUSSION                     ZBP1 may contribute to metabolic stress–induced Treg dysfunction and represent a candidate target to improve Treg‐based therapy in HFD‐fed AD mice.",
+        "source": "Alzheimer's &amp; Dementia",
+        "issn": "1552-5260",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-01",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1002/alz.71893",
+        "doi": "10.1002/alz.71893",
+        "url": "https://doi.org/10.1002/alz.71893",
+        "title": "Associations of plasma HDL subclasses with incident dementia risk in older adults",
+        "authors": [
+          "Binchong An",
+          "Suad Ali",
+          "Karen Smith",
+          "Samantha Roemhild",
+          "Lindsey Neumann",
+          "Dwight R. Stoll",
+          "Ling Li",
+          "Pamela L Lutsey",
+          "Michelle M Mielke",
+          "Fang Yu",
+          "Ron C Hoogeveen",
+          "Lin Zhang",
+          "Alvaro Alonso",
+          "Danni Li"
+        ],
+        "abstract": "Abstract                                        INTRODUCTION                     Plasma high‐density lipoprotein (HDL) varies in size. We examined the associations between HDL subclasses and their lipid composition and incident dementia risk in older adults.                                                           METHODS                     We included 23,790 United Kingdom (UK) Biobank (UKB) and 147 Atherosclerosis Risk in Communities (ARIC) older adults free of dementia at baseline. HDL subclasses and their lipid composition were characterized using two distinct approaches: Nightingale nuclear magnetic resonance (NMR) spectroscopy in UKB and anion‐exchange chromatography followed by mass spectrometry‐based lipidomics of physically isolated HDL subfractions (AEX‐MS) in ARIC. Cox regression models were used to evaluate the associations, adjusting for covariates.                                                           RESULTS                     In the UKB, Nightingale NMR‐derived plasma small and very large HDL particle and six lipid concentrations (total lipids, triglycerides [TG], phospholipids, free cholesterol, cholesterol ester [CE], total cholesterol) were associated with lower and higher risks of incident dementia, respectively. These associations were likely driven mainly by particle concentration in NMR‐derived small HDL and by both lipid and lipid concentrations in NMR‐derived very large HDL. In the ARIC, total TG in AEX‐defined HDL subfraction 1 (e.g., smaller HDL), total lysophosphatidylcholine (LPC) and phosphatidylethanolamine (PE), and TG in AEX‐defined subfraction 2 (e.g., larger HDL) were associated with a lower incident dementia risk.                                                           DISCUSSION                     Although different HDL subclass characterization and lipid measurement methods made it difficult to compare results across cohorts, HDL subclasses and their lipid compositions were associated with the risk of incident dementia in both cohorts.",
+        "source": "Alzheimer's &amp; Dementia",
+        "issn": "1552-5260",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-01",
         "fetched_from": "crossref"
       },
       {
@@ -69903,6 +70320,49 @@
     ],
     "socialWork": [
       {
+        "id": "doi:10.1007/s10896-026-01190-2",
+        "doi": "10.1007/s10896-026-01190-2",
+        "url": "https://doi.org/10.1007/s10896-026-01190-2",
+        "title": "Gender Differences in Child Maltreatment Predictors of Physical Intimate Partner Violence Victimization: a Study Among Australian Adults",
+        "authors": [
+          "Michelle Manicad-Lapworth",
+          "Li Eriksson",
+          "Tara Renae McGee",
+          "James G. Scott",
+          "Jake Najman"
+        ],
+        "abstract": "Abstract                                        Purpose                                            Experiences of child abuse and neglect are widely acknowledged to be associated with increased risk of intimate partner violence (IPV) victimization in adulthood. This study examines whether the association between childhood abuse and neglect experiences and adult IPV victimization differs for males and females. It then goes on to examine which specific                       types                       of childhood experiences of abuse and neglect are associated with adult physical IPV victimization.                                                                                Methods                     The study draws on data collected as part of an ongoing Australian prospective, longitudinal study of mothers and their offspring. Logistic regression models were estimated, and model coefficient comparisons were conducted. The association between specific types of childhood experiences of abuse and neglect and adult physical IPV victimization were examined.                                                           Results                     Analyses showed that the associations between childhood experiences of abuse and neglect and adult IPV victimization varied by gender. For females, two types of abuse (sexual and emotional) and one type of neglect (emotional) during childhood were significantly associated with physical IPV victimization in adulthood. In contrast, for males, it was their experiences of physical abuse and physical neglect that were associated with physical IPV victimization in adulthood.                                                           Conclusion                     Emotional and sexual abuse and emotional neglect in childhood is significantly associated with subsequent physical IPV victimization for females, whereas childhood physical abuse and neglect is significantly associated with subsequent physical IPV victimization for males. This suggests that females and males may be affected differently by those abuse and neglect experiences in childhood, and further exploration of how this occurs will yield valuable insight into why females and males have different pathways to victimization.",
+        "source": "Journal of Family Violence",
+        "issn": "0885-7482",
+        "date": "2026-10-02",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-03",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1007/s10896-026-01188-w",
+        "doi": "10.1007/s10896-026-01188-w",
+        "url": "https://doi.org/10.1007/s10896-026-01188-w",
+        "title": "Intimate Partner Violence in the Context of Separation: Prevalence and Risk Factors",
+        "authors": [
+          "Julia Reim",
+          "Sabine Walper"
+        ],
+        "abstract": "",
+        "source": "Journal of Family Violence",
+        "issn": "0885-7482",
+        "date": "2026-10-02",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-03",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1016/j.socscimed.2026.119515",
         "doi": "10.1016/j.socscimed.2026.119515",
         "url": "https://doi.org/10.1016/j.socscimed.2026.119515",
@@ -73288,6 +73748,138 @@
         "fetched_from": "crossref"
       },
       {
+        "id": "doi:10.1016/j.socscimed.2026.119881",
+        "doi": "10.1016/j.socscimed.2026.119881",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.119881",
+        "title": "Corrigendum to ‘Place and brain health: A community-led yarning study with Aboriginal and Torres Strait Islander peoples in Australia’ [Soc. Sci. Med. 408 (2026) 119799]",
+        "authors": [
+          "A.J. Clarke",
+          "K. Radford",
+          "C. Murrup-Stewart",
+          "C. Swinton",
+          "P. Bates-Canty",
+          "J. McGuinness",
+          "L. Lavrencic",
+          "A. Withall",
+          "A. Brodtmann",
+          "J. Towney"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-02",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.socscimed.2026.119851",
+        "doi": "10.1016/j.socscimed.2026.119851",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.119851",
+        "title": "Institutional maintenance of an elite profession: the case of performance-related pay in the English medical profession",
+        "authors": [
+          "Mark Exworthy",
+          "Paula Hyde",
+          "Aoife M. McDermott"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-02",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.socscimed.2026.119893",
+        "doi": "10.1016/j.socscimed.2026.119893",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.119893",
+        "title": "Recent Canadian immigration reforms and their consequences for migrant children and families’ health: the “globalization of indifference”?",
+        "authors": [
+          "Rachel Kronick",
+          "Marianne Côté-Olijnyk",
+          "Efrat Arbel"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-02",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.socscimed.2026.119855",
+        "doi": "10.1016/j.socscimed.2026.119855",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.119855",
+        "title": "Algorithmic Portrayals of Mental Health Stigma: Quantifying the Gap Between AI Estimations and Human Perceptions Across Gender Groups Using GPT-Based LLMs",
+        "authors": [
+          "Soojong Kim",
+          "Hye Min Kim",
+          "Kwanho Kim",
+          "Dongdong Zhu"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-02",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.socscimed.2026.119898",
+        "doi": "10.1016/j.socscimed.2026.119898",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.119898",
+        "title": "Positive emotions and credibility: Understanding how a community-engaged online campaign featuring clinician testimonials improved rural vaccine promotion",
+        "authors": [
+          "Ran Tao",
+          "Liwei Shen",
+          "Mahima Bhattar",
+          "Malia Jones",
+          "Andy Garbacz",
+          "Sijia Yang",
+          "Susan Racine Passmore"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-02",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1177/10497315261452377",
         "doi": "10.1177/10497315261452377",
         "url": "https://doi.org/10.1177/10497315261452377",
@@ -74201,138 +74793,6 @@
           "socialWork"
         ],
         "firstSeen": "2026-10-01",
-        "fetched_from": "crossref"
-      },
-      {
-        "id": "doi:10.1016/j.socscimed.2026.119881",
-        "doi": "10.1016/j.socscimed.2026.119881",
-        "url": "https://doi.org/10.1016/j.socscimed.2026.119881",
-        "title": "Corrigendum to ‘Place and brain health: A community-led yarning study with Aboriginal and Torres Strait Islander peoples in Australia’ [Soc. Sci. Med. 408 (2026) 119799]",
-        "authors": [
-          "A.J. Clarke",
-          "K. Radford",
-          "C. Murrup-Stewart",
-          "C. Swinton",
-          "P. Bates-Canty",
-          "J. McGuinness",
-          "L. Lavrencic",
-          "A. Withall",
-          "A. Brodtmann",
-          "J. Towney"
-        ],
-        "abstract": "",
-        "source": "Social Science &amp; Medicine",
-        "issn": "0277-9536",
-        "date": "2026-10-01",
-        "subjects": [],
-        "domains": [
-          "healthReform",
-          "elderCare",
-          "agingHealth",
-          "socialWork"
-        ],
-        "firstSeen": "2026-10-02",
-        "fetched_from": "crossref"
-      },
-      {
-        "id": "doi:10.1016/j.socscimed.2026.119851",
-        "doi": "10.1016/j.socscimed.2026.119851",
-        "url": "https://doi.org/10.1016/j.socscimed.2026.119851",
-        "title": "Institutional maintenance of an elite profession: the case of performance-related pay in the English medical profession",
-        "authors": [
-          "Mark Exworthy",
-          "Paula Hyde",
-          "Aoife M. McDermott"
-        ],
-        "abstract": "",
-        "source": "Social Science &amp; Medicine",
-        "issn": "0277-9536",
-        "date": "2026-10-01",
-        "subjects": [],
-        "domains": [
-          "healthReform",
-          "elderCare",
-          "agingHealth",
-          "socialWork"
-        ],
-        "firstSeen": "2026-10-02",
-        "fetched_from": "crossref"
-      },
-      {
-        "id": "doi:10.1016/j.socscimed.2026.119893",
-        "doi": "10.1016/j.socscimed.2026.119893",
-        "url": "https://doi.org/10.1016/j.socscimed.2026.119893",
-        "title": "Recent Canadian immigration reforms and their consequences for migrant children and families’ health: the “globalization of indifference”?",
-        "authors": [
-          "Rachel Kronick",
-          "Marianne Côté-Olijnyk",
-          "Efrat Arbel"
-        ],
-        "abstract": "",
-        "source": "Social Science &amp; Medicine",
-        "issn": "0277-9536",
-        "date": "2026-10-01",
-        "subjects": [],
-        "domains": [
-          "healthReform",
-          "elderCare",
-          "agingHealth",
-          "socialWork"
-        ],
-        "firstSeen": "2026-10-02",
-        "fetched_from": "crossref"
-      },
-      {
-        "id": "doi:10.1016/j.socscimed.2026.119855",
-        "doi": "10.1016/j.socscimed.2026.119855",
-        "url": "https://doi.org/10.1016/j.socscimed.2026.119855",
-        "title": "Algorithmic Portrayals of Mental Health Stigma: Quantifying the Gap Between AI Estimations and Human Perceptions Across Gender Groups Using GPT-Based LLMs",
-        "authors": [
-          "Soojong Kim",
-          "Hye Min Kim",
-          "Kwanho Kim",
-          "Dongdong Zhu"
-        ],
-        "abstract": "",
-        "source": "Social Science &amp; Medicine",
-        "issn": "0277-9536",
-        "date": "2026-10-01",
-        "subjects": [],
-        "domains": [
-          "healthReform",
-          "elderCare",
-          "agingHealth",
-          "socialWork"
-        ],
-        "firstSeen": "2026-10-02",
-        "fetched_from": "crossref"
-      },
-      {
-        "id": "doi:10.1016/j.socscimed.2026.119898",
-        "doi": "10.1016/j.socscimed.2026.119898",
-        "url": "https://doi.org/10.1016/j.socscimed.2026.119898",
-        "title": "Positive emotions and credibility: Understanding how a community-engaged online campaign featuring clinician testimonials improved rural vaccine promotion",
-        "authors": [
-          "Ran Tao",
-          "Liwei Shen",
-          "Mahima Bhattar",
-          "Malia Jones",
-          "Andy Garbacz",
-          "Sijia Yang",
-          "Susan Racine Passmore"
-        ],
-        "abstract": "",
-        "source": "Social Science &amp; Medicine",
-        "issn": "0277-9536",
-        "date": "2026-10-01",
-        "subjects": [],
-        "domains": [
-          "healthReform",
-          "elderCare",
-          "agingHealth",
-          "socialWork"
-        ],
-        "firstSeen": "2026-10-02",
         "fetched_from": "crossref"
       },
       {
@@ -76317,10 +76777,10 @@
   },
   "totals": {
     "socialSecurity": 1567,
-    "elderCare": 442,
-    "healthReform": 697,
-    "agingHealth": 630,
-    "socialWork": 284
+    "elderCare": 447,
+    "healthReform": 706,
+    "agingHealth": 635,
+    "socialWork": 286
   },
   "feeds_ok": 41
 }
