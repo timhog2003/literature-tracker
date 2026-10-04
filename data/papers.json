@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-03",
-  "fetched": "2026-10-03T06:44:02+00:00",
+  "date": "2026-10-04",
+  "fetched": "2026-10-04T07:07:00+00:00",
   "domains": {
     "socialSecurity": [
       {
@@ -24231,6 +24231,168 @@
         "fetched_from": "crossref"
       },
       {
+        "id": "doi:10.1186/s12877-026-08426-2",
+        "doi": "10.1186/s12877-026-08426-2",
+        "url": "https://doi.org/10.1186/s12877-026-08426-2",
+        "title": "Transitions and predictive factors of cognitive frailty states in rural older adults: a prospective cohort study",
+        "authors": [
+          "Qiaoling Yang",
+          "Ni Sang",
+          "Qiao Liu",
+          "Hui Liu",
+          "Yajuan Duan",
+          "Shuhan Cheng",
+          "Li Cheng"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-03",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-04",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08396-5",
+        "doi": "10.1186/s12877-026-08396-5",
+        "url": "https://doi.org/10.1186/s12877-026-08396-5",
+        "title": "Cream skimming: how does health deprivation affect older adults’ access to community services?",
+        "authors": [
+          "Hang Li",
+          "Huijun Liu",
+          "Weihong Zeng"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-03",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-04",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08392-9",
+        "doi": "10.1186/s12877-026-08392-9",
+        "url": "https://doi.org/10.1186/s12877-026-08392-9",
+        "title": "Cross-cultural validation and psychometrics’ assessment of Pathak-Wieten Stoicism Ideology Scale among Chinese older people with knee osteoarthritis",
+        "authors": [
+          "Xiaojie Xie",
+          "Libin An",
+          "Jun Shan",
+          "Wentao Li"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-03",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-04",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08343-4",
+        "doi": "10.1186/s12877-026-08343-4",
+        "url": "https://doi.org/10.1186/s12877-026-08343-4",
+        "title": "Nutritional risk and life satisfaction in older adults: a cross-sectional analysis using the NUFFE-TR scale",
+        "authors": [
+          "Emine Merve Ekici",
+          "Pınar Göbel",
+          "Neslihan Arslan"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-03",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-04",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08318-5",
+        "doi": "10.1186/s12877-026-08318-5",
+        "url": "https://doi.org/10.1186/s12877-026-08318-5",
+        "title": "Development and preliminary feasibility evaluation of a health management checklist for older adults with chronic disease-related disability based on Fitch’s supportive care framework",
+        "authors": [
+          "Dongyu Hu",
+          "Yumeng Gong",
+          "Xiumu Yang",
+          "Jiajia Chen",
+          "Juanjuan Wang",
+          "Yongli Duan"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-03",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-04",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08394-7",
+        "doi": "10.1186/s12877-026-08394-7",
+        "url": "https://doi.org/10.1186/s12877-026-08394-7",
+        "title": "BMI-adjusted handgrip strength as a functional index to assess fall risk among older adults",
+        "authors": [
+          "Lixia Liu",
+          "Zhijie Li",
+          "Qian Dai",
+          "Qinqin Wu"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-03",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-04",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08417-3",
+        "doi": "10.1186/s12877-026-08417-3",
+        "url": "https://doi.org/10.1186/s12877-026-08417-3",
+        "title": "Cardiometabolic vulnerability and incident frailty across three aging cohorts: a multicohort longitudinal study of HRS, ELSA, and CHARLS",
+        "authors": [
+          "Zhaobei Cai",
+          "Zhenxiao Ren"
+        ],
+        "abstract": "Abstract                                        Background                     Cardiometabolic dysfunction is linked to frailty, but whether a fixed-weight biomarker score developed for one functional aging outcome retains an association with incident frailty without re-estimating its weights is unknown. We evaluated the systolic blood pressure–HDL–A1c–CRP (SHAC) index, originally developed for incident mobility limitation, across three aging cohorts.                                                           Methods                     We analyzed adults aged ≥ 65 years from HRS, ELSA, and CHARLS. Participant-specific baseline was the first eligible assessment with complete SHAC biomarkers and a valid frailty index (FI); participants frail at baseline were excluded. Incident frailty was defined as FI ≥ 0.25. Cohort-specific Cox models estimated hazard ratios (HRs) per 1-SD higher SHAC using the original fixed weights and cohort-internal standardization, and fully adjusted estimates were pooled by random-effects meta-analysis. Sensitivity analyses addressed exposure scaling, baseline FI, outcome timing, missingness and selection, competing mortality, and longitudinally updated SHAC.                                                           Results                     Fully adjusted analyses included 6,965 HRS participants with 3,334 events, 4,150 ELSA participants with 1,192 events, and 1,473 CHARLS participants with 476 events. HRs (95% CIs) were 1.12 (1.08–1.16), 1.21 (1.14–1.29), and 1.19 (1.08–1.30), respectively. The pooled HR was 1.16 (1.10–1.23; I²=65.9%). Adjustment for baseline FI attenuated the associations to 1.05 (1.01–1.09), 1.13 (1.06–1.20), and 1.12 (1.02–1.23). Fixed ELSA development-reference scaling also retained positive associations. Findings were broadly similar across other sensitivity analyses. HbA1c was the individual biomarker most consistently associated with incident frailty. Adding SHAC produced small increases in apparent discrimination, but SHAC did not clearly outperform HbA1c alone.                                                           Conclusions                     Fixed-weight SHAC was positively associated with subsequent observed frailty across HRS, ELSA, and CHARLS. These findings support further study of the previously specified SHAC weight structure as a marker of cardiometabolic vulnerability in functional aging. Cohort-dependent scaling, baseline-FI attenuation, selection, heterogeneity, and modest discrimination limit stronger claims regarding universal score transportability or clinical prediction.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-03",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-04",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1186/s12877-026-08370-1",
         "doi": "10.1186/s12877-026-08370-1",
         "url": "https://doi.org/10.1186/s12877-026-08370-1",
@@ -29267,6 +29429,136 @@
           "agingHealth"
         ],
         "firstSeen": "2026-10-02",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.socscimed.2026.119912",
+        "doi": "10.1016/j.socscimed.2026.119912",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.119912",
+        "title": "“I’ve got to believe in something”: Trust, cancer survivorship, and investing agency",
+        "authors": [
+          "Kevin Dew",
+          "Annabelle Fisher",
+          "Kerry Chamberlain",
+          "Richard Egan",
+          "Alex Broom",
+          "Elizabeth Dennett",
+          "Chris Cunningham"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-04",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.socscimed.2026.119890",
+        "doi": "10.1016/j.socscimed.2026.119890",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.119890",
+        "title": "“Attention to the Person Who Prepared This Questionnaire”: Queer Men’s Survey Marginalia in HIV Behavioral Surveillance",
+        "authors": [
+          "Jeffrey Morgan",
+          "Olivier Ferlatte",
+          "Ben Klassen",
+          "Rob Higgins",
+          "Nathan Lachowsky"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-04",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.socscimed.2026.119909",
+        "doi": "10.1016/j.socscimed.2026.119909",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.119909",
+        "title": "Alternative Visions: The Strategic Partial Medicalization of Ibogaine treatment",
+        "authors": [
+          "Jakob Lundgren",
+          "Johan Söderberg"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-04",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.socscimed.2026.119907",
+        "doi": "10.1016/j.socscimed.2026.119907",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.119907",
+        "title": "“It was so easy, it didn't feel real:” Positive abortion experiences post-Dobbs",
+        "authors": [
+          "Cynthia Beavin",
+          "Hillary J. Gyuras",
+          "Jessica A. Sinclair",
+          "Autumh Kirkendall",
+          "Danielle Bessett",
+          "Michelle L. McGowan"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-04",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.socscimed.2026.119911",
+        "doi": "10.1016/j.socscimed.2026.119911",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.119911",
+        "title": "The Hidden Injuries of Work: Institutional Invisibility, Precarity, and the Recognition of Occupational Harm. A Scoping Review",
+        "authors": [
+          "Daniel Côté",
+          "Amelia Leon Correal",
+          "Jessica Dubé",
+          "Ai-Thuy Huynh",
+          "Bénédicte Nuche"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-04",
         "fetched_from": "crossref"
       },
       {
@@ -35435,6 +35727,104 @@
         "fetched_from": "crossref"
       },
       {
+        "id": "doi:10.1056/nejmicm2607595",
+        "doi": "10.1056/nejmicm2607595",
+        "url": "https://doi.org/10.1056/nejmicm2607595",
+        "title": "Menkes Disease",
+        "authors": [
+          "Hsin-Yu Chen",
+          "Chi-Nien Chen"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-10-03",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-04",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmp2603758",
+        "doi": "10.1056/nejmp2603758",
+        "url": "https://doi.org/10.1056/nejmp2603758",
+        "title": "A Guide for the Perplexed Physician",
+        "authors": [
+          "Dean Ariel"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-10-03",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-04",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmp2608136",
+        "doi": "10.1056/nejmp2608136",
+        "url": "https://doi.org/10.1056/nejmp2608136",
+        "title": "Grief as a Vector for Disease — Tradition and Public Health in Ebola Outbreaks",
+        "authors": [
+          "Celestin Mutuyimana",
+          "Clare Killikelly"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-10-03",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-04",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmp2609407",
+        "doi": "10.1056/nejmp2609407",
+        "url": "https://doi.org/10.1056/nejmp2609407",
+        "title": "Beyond Percentage of Weight Lost — Protecting Participants in Obesity Trials",
+        "authors": [
+          "Sarah H. Schmitz"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-10-03",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-04",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmp2611801",
+        "doi": "10.1056/nejmp2611801",
+        "url": "https://doi.org/10.1056/nejmp2611801",
+        "title": "Hantavirus — Lessons Learned about Security and Solidarity",
+        "authors": [
+          "Pedro Sánchez",
+          "Tedros Adhanom Ghebreyesus"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-10-03",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-04",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1093/aje/kwag244",
         "doi": "10.1093/aje/kwag244",
         "url": "https://doi.org/10.1093/aje/kwag244",
@@ -41394,6 +41784,136 @@
           "healthReform"
         ],
         "firstSeen": "2026-10-02",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.socscimed.2026.119912",
+        "doi": "10.1016/j.socscimed.2026.119912",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.119912",
+        "title": "“I’ve got to believe in something”: Trust, cancer survivorship, and investing agency",
+        "authors": [
+          "Kevin Dew",
+          "Annabelle Fisher",
+          "Kerry Chamberlain",
+          "Richard Egan",
+          "Alex Broom",
+          "Elizabeth Dennett",
+          "Chris Cunningham"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-04",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.socscimed.2026.119890",
+        "doi": "10.1016/j.socscimed.2026.119890",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.119890",
+        "title": "“Attention to the Person Who Prepared This Questionnaire”: Queer Men’s Survey Marginalia in HIV Behavioral Surveillance",
+        "authors": [
+          "Jeffrey Morgan",
+          "Olivier Ferlatte",
+          "Ben Klassen",
+          "Rob Higgins",
+          "Nathan Lachowsky"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-04",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.socscimed.2026.119909",
+        "doi": "10.1016/j.socscimed.2026.119909",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.119909",
+        "title": "Alternative Visions: The Strategic Partial Medicalization of Ibogaine treatment",
+        "authors": [
+          "Jakob Lundgren",
+          "Johan Söderberg"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-04",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.socscimed.2026.119907",
+        "doi": "10.1016/j.socscimed.2026.119907",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.119907",
+        "title": "“It was so easy, it didn't feel real:” Positive abortion experiences post-Dobbs",
+        "authors": [
+          "Cynthia Beavin",
+          "Hillary J. Gyuras",
+          "Jessica A. Sinclair",
+          "Autumh Kirkendall",
+          "Danielle Bessett",
+          "Michelle L. McGowan"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-04",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.socscimed.2026.119911",
+        "doi": "10.1016/j.socscimed.2026.119911",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.119911",
+        "title": "The Hidden Injuries of Work: Institutional Invisibility, Precarity, and the Recognition of Occupational Harm. A Scoping Review",
+        "authors": [
+          "Daniel Côté",
+          "Amelia Leon Correal",
+          "Jessica Dubé",
+          "Ai-Thuy Huynh",
+          "Bénédicte Nuche"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-04",
         "fetched_from": "crossref"
       },
       {
@@ -54559,6 +55079,168 @@
         "fetched_from": "crossref"
       },
       {
+        "id": "doi:10.1186/s12877-026-08426-2",
+        "doi": "10.1186/s12877-026-08426-2",
+        "url": "https://doi.org/10.1186/s12877-026-08426-2",
+        "title": "Transitions and predictive factors of cognitive frailty states in rural older adults: a prospective cohort study",
+        "authors": [
+          "Qiaoling Yang",
+          "Ni Sang",
+          "Qiao Liu",
+          "Hui Liu",
+          "Yajuan Duan",
+          "Shuhan Cheng",
+          "Li Cheng"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-03",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-04",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08396-5",
+        "doi": "10.1186/s12877-026-08396-5",
+        "url": "https://doi.org/10.1186/s12877-026-08396-5",
+        "title": "Cream skimming: how does health deprivation affect older adults’ access to community services?",
+        "authors": [
+          "Hang Li",
+          "Huijun Liu",
+          "Weihong Zeng"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-03",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-04",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08392-9",
+        "doi": "10.1186/s12877-026-08392-9",
+        "url": "https://doi.org/10.1186/s12877-026-08392-9",
+        "title": "Cross-cultural validation and psychometrics’ assessment of Pathak-Wieten Stoicism Ideology Scale among Chinese older people with knee osteoarthritis",
+        "authors": [
+          "Xiaojie Xie",
+          "Libin An",
+          "Jun Shan",
+          "Wentao Li"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-03",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-04",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08343-4",
+        "doi": "10.1186/s12877-026-08343-4",
+        "url": "https://doi.org/10.1186/s12877-026-08343-4",
+        "title": "Nutritional risk and life satisfaction in older adults: a cross-sectional analysis using the NUFFE-TR scale",
+        "authors": [
+          "Emine Merve Ekici",
+          "Pınar Göbel",
+          "Neslihan Arslan"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-03",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-04",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08318-5",
+        "doi": "10.1186/s12877-026-08318-5",
+        "url": "https://doi.org/10.1186/s12877-026-08318-5",
+        "title": "Development and preliminary feasibility evaluation of a health management checklist for older adults with chronic disease-related disability based on Fitch’s supportive care framework",
+        "authors": [
+          "Dongyu Hu",
+          "Yumeng Gong",
+          "Xiumu Yang",
+          "Jiajia Chen",
+          "Juanjuan Wang",
+          "Yongli Duan"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-03",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-04",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08394-7",
+        "doi": "10.1186/s12877-026-08394-7",
+        "url": "https://doi.org/10.1186/s12877-026-08394-7",
+        "title": "BMI-adjusted handgrip strength as a functional index to assess fall risk among older adults",
+        "authors": [
+          "Lixia Liu",
+          "Zhijie Li",
+          "Qian Dai",
+          "Qinqin Wu"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-03",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-04",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08417-3",
+        "doi": "10.1186/s12877-026-08417-3",
+        "url": "https://doi.org/10.1186/s12877-026-08417-3",
+        "title": "Cardiometabolic vulnerability and incident frailty across three aging cohorts: a multicohort longitudinal study of HRS, ELSA, and CHARLS",
+        "authors": [
+          "Zhaobei Cai",
+          "Zhenxiao Ren"
+        ],
+        "abstract": "Abstract                                        Background                     Cardiometabolic dysfunction is linked to frailty, but whether a fixed-weight biomarker score developed for one functional aging outcome retains an association with incident frailty without re-estimating its weights is unknown. We evaluated the systolic blood pressure–HDL–A1c–CRP (SHAC) index, originally developed for incident mobility limitation, across three aging cohorts.                                                           Methods                     We analyzed adults aged ≥ 65 years from HRS, ELSA, and CHARLS. Participant-specific baseline was the first eligible assessment with complete SHAC biomarkers and a valid frailty index (FI); participants frail at baseline were excluded. Incident frailty was defined as FI ≥ 0.25. Cohort-specific Cox models estimated hazard ratios (HRs) per 1-SD higher SHAC using the original fixed weights and cohort-internal standardization, and fully adjusted estimates were pooled by random-effects meta-analysis. Sensitivity analyses addressed exposure scaling, baseline FI, outcome timing, missingness and selection, competing mortality, and longitudinally updated SHAC.                                                           Results                     Fully adjusted analyses included 6,965 HRS participants with 3,334 events, 4,150 ELSA participants with 1,192 events, and 1,473 CHARLS participants with 476 events. HRs (95% CIs) were 1.12 (1.08–1.16), 1.21 (1.14–1.29), and 1.19 (1.08–1.30), respectively. The pooled HR was 1.16 (1.10–1.23; I²=65.9%). Adjustment for baseline FI attenuated the associations to 1.05 (1.01–1.09), 1.13 (1.06–1.20), and 1.12 (1.02–1.23). Fixed ELSA development-reference scaling also retained positive associations. Findings were broadly similar across other sensitivity analyses. HbA1c was the individual biomarker most consistently associated with incident frailty. Adding SHAC produced small increases in apparent discrimination, but SHAC did not clearly outperform HbA1c alone.                                                           Conclusions                     Fixed-weight SHAC was positively associated with subsequent observed frailty across HRS, ELSA, and CHARLS. These findings support further study of the previously specified SHAC weight structure as a marker of cardiometabolic vulnerability in functional aging. Cohort-dependent scaling, baseline-FI attenuation, selection, heterogeneity, and modest discrimination limit stronger claims regarding universal score transportability or clinical prediction.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-03",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-04",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1186/s12877-026-08370-1",
         "doi": "10.1186/s12877-026-08370-1",
         "url": "https://doi.org/10.1186/s12877-026-08370-1",
@@ -54580,29 +55262,6 @@
         "domains": [
           "elderCare",
           "agingHealth"
-        ],
-        "firstSeen": "2026-10-02",
-        "fetched_from": "crossref"
-      },
-      {
-        "id": "doi:10.1093/aje/kwag244",
-        "doi": "10.1093/aje/kwag244",
-        "url": "https://doi.org/10.1093/aje/kwag244",
-        "title": "Prospective Pregnancy Preferences and Adverse Birth Outcomes in the United States: A Population-Based Study",
-        "authors": [
-          "Brooke W Bullington",
-          "Alison Gemmill",
-          "Isabel Muñoz",
-          "Corinne H Rocca"
-        ],
-        "abstract": "Abstract                   Adverse birth outcomes have been linked to “unintended” pregnancy; however, research that relies on retrospective measurement of “intentions” is vulnerable to differential recall bias. This study estimates associations between prospectively measured pregnancy preferences and preterm birth (&amp;lt;37 weeks) and low birthweight (&amp;lt;5.5 pounds). We analyzed longitudinal, population-based data from the Surveys of Women, conducted in nine US states (2016-2023), linking births reported across annual waves with pregnancy preferences measured before pregnancy using the 14-item Desire to Avoid Pregnancy (DAP) scale. We fit weighted logistic regression models to estimate associations between DAP categories (lower DAP: more open to pregnancy; higher DAP: stronger preference to avoid pregnancy) and outcomes using multiple imputation (primary analysis) and complete case analysis excluding participants whose DAP scores were imputed (sensitivity analysis). Although the adjusted association between DAP grouping and low birthweight was not statistically significant in analyses using imputation (15% high vs. 7% low DAP), it was significant treating DAP scores continuously (aOR=1.56 [1.01-2.43]) and in complete case analysis (20% vs. 6%, p=0.01). DAP scores were not associated with preterm birth in imputation analyses (18% high vs. 14% low DAP) or using continuous scores but were in complete case analysis (25% vs. 12%, p=0.02). While the magnitudes of associations were suggestive of a relationship between a strong prospective preference to avoid pregnancy and low birthweight, analyses were limited by low precision. Supporting individuals in achieving their reproductive preferences may have child health benefits.",
-        "source": "American Journal of Epidemiology",
-        "issn": "0002-9262",
-        "date": "2026-10-02",
-        "subjects": [],
-        "domains": [
-          "agingHealth",
-          "healthReform"
         ],
         "firstSeen": "2026-10-02",
         "fetched_from": "crossref"
@@ -54656,6 +55315,29 @@
           "agingHealth"
         ],
         "firstSeen": "2026-10-03",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag244",
+        "doi": "10.1093/aje/kwag244",
+        "url": "https://doi.org/10.1093/aje/kwag244",
+        "title": "Prospective Pregnancy Preferences and Adverse Birth Outcomes in the United States: A Population-Based Study",
+        "authors": [
+          "Brooke W Bullington",
+          "Alison Gemmill",
+          "Isabel Muñoz",
+          "Corinne H Rocca"
+        ],
+        "abstract": "Abstract                   Adverse birth outcomes have been linked to “unintended” pregnancy; however, research that relies on retrospective measurement of “intentions” is vulnerable to differential recall bias. This study estimates associations between prospectively measured pregnancy preferences and preterm birth (&amp;lt;37 weeks) and low birthweight (&amp;lt;5.5 pounds). We analyzed longitudinal, population-based data from the Surveys of Women, conducted in nine US states (2016-2023), linking births reported across annual waves with pregnancy preferences measured before pregnancy using the 14-item Desire to Avoid Pregnancy (DAP) scale. We fit weighted logistic regression models to estimate associations between DAP categories (lower DAP: more open to pregnancy; higher DAP: stronger preference to avoid pregnancy) and outcomes using multiple imputation (primary analysis) and complete case analysis excluding participants whose DAP scores were imputed (sensitivity analysis). Although the adjusted association between DAP grouping and low birthweight was not statistically significant in analyses using imputation (15% high vs. 7% low DAP), it was significant treating DAP scores continuously (aOR=1.56 [1.01-2.43]) and in complete case analysis (20% vs. 6%, p=0.01). DAP scores were not associated with preterm birth in imputation analyses (18% high vs. 14% low DAP) or using continuous scores but were in complete case analysis (25% vs. 12%, p=0.02). While the magnitudes of associations were suggestive of a relationship between a strong prospective preference to avoid pregnancy and low birthweight, analyses were limited by low precision. Supporting individuals in achieving their reproductive preferences may have child health benefits.",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-10-02",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-02",
         "fetched_from": "crossref"
       },
       {
@@ -60785,6 +61467,136 @@
           "agingHealth"
         ],
         "firstSeen": "2026-10-02",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.socscimed.2026.119912",
+        "doi": "10.1016/j.socscimed.2026.119912",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.119912",
+        "title": "“I’ve got to believe in something”: Trust, cancer survivorship, and investing agency",
+        "authors": [
+          "Kevin Dew",
+          "Annabelle Fisher",
+          "Kerry Chamberlain",
+          "Richard Egan",
+          "Alex Broom",
+          "Elizabeth Dennett",
+          "Chris Cunningham"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-04",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.socscimed.2026.119890",
+        "doi": "10.1016/j.socscimed.2026.119890",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.119890",
+        "title": "“Attention to the Person Who Prepared This Questionnaire”: Queer Men’s Survey Marginalia in HIV Behavioral Surveillance",
+        "authors": [
+          "Jeffrey Morgan",
+          "Olivier Ferlatte",
+          "Ben Klassen",
+          "Rob Higgins",
+          "Nathan Lachowsky"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-04",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.socscimed.2026.119909",
+        "doi": "10.1016/j.socscimed.2026.119909",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.119909",
+        "title": "Alternative Visions: The Strategic Partial Medicalization of Ibogaine treatment",
+        "authors": [
+          "Jakob Lundgren",
+          "Johan Söderberg"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-04",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.socscimed.2026.119907",
+        "doi": "10.1016/j.socscimed.2026.119907",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.119907",
+        "title": "“It was so easy, it didn't feel real:” Positive abortion experiences post-Dobbs",
+        "authors": [
+          "Cynthia Beavin",
+          "Hillary J. Gyuras",
+          "Jessica A. Sinclair",
+          "Autumh Kirkendall",
+          "Danielle Bessett",
+          "Michelle L. McGowan"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-04",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.socscimed.2026.119911",
+        "doi": "10.1016/j.socscimed.2026.119911",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.119911",
+        "title": "The Hidden Injuries of Work: Institutional Invisibility, Precarity, and the Recognition of Occupational Harm. A Scoping Review",
+        "authors": [
+          "Daniel Côté",
+          "Amelia Leon Correal",
+          "Jessica Dubé",
+          "Ai-Thuy Huynh",
+          "Bénédicte Nuche"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-04",
         "fetched_from": "crossref"
       },
       {
@@ -70320,6 +71132,47 @@
     ],
     "socialWork": [
       {
+        "id": "doi:10.1093/bjsw/bcag211",
+        "doi": "10.1093/bjsw/bcag211",
+        "url": "https://doi.org/10.1093/bjsw/bcag211",
+        "title": "Ticking into being: Rethinking the surge in “Tics on TikTok” through Hacking’s ecological niches",
+        "authors": [
+          "Stephanie Bogue Kerr",
+          "Mélissa Roy"
+        ],
+        "abstract": "Abstract                   This article provides a critical commentary on the phenomenon of ‘Tics on TikTok’, referring to the abrupt increase in consultations for motor and vocal tics during the COVID-19 pandemic. As clinicians sought to understand the change in volume in patients consulting for tics and its distinctive presentation, a common denominator emerged: social media. This article mobilizes Hacking’s theory of ecological niches to analyse this phenomenon, revealing how four vectors (medical taxonomy; observability; cultural polarity and release) converge, allowing this transient mental illness to exist and flourish. In this perspective, Tics on Tiktok are understood within the sociotechnological context in which they emerged, perhaps reflecting embodied connection at a time when this was largely proscribed. Implications for social work research and practice are discussed, highlighting the importance of attending to the intersection of embodied relationships with technology within the discipline.",
+        "source": "The British Journal of Social Work",
+        "issn": "0045-3102",
+        "date": "2026-10-03",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-04",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/bjsw/bcag233",
+        "doi": "10.1093/bjsw/bcag233",
+        "url": "https://doi.org/10.1093/bjsw/bcag233",
+        "title": "Negotiating professional jurisdiction: The boundary work of social workers in a Chinese hospital",
+        "authors": [
+          "Siheng Lin",
+          "Manya Li",
+          "Yangdi Han"
+        ],
+        "abstract": "Abstract                   This study examines how hospital social workers (HSWs) in China negotiate professional jurisdiction as healthcare reforms reconfigure interprofessional roles. Drawing on Abbott’s theory of professional jurisdiction and Langley et al.’s boundary-work typology, we conducted a 12-month ethnography in a tertiary hospital in Shanghai and analysed the data using constructivist grounded theory. The analysis identified two boundary strategies: detaching and advocating. Through detaching, HSWs built trust by assuming coordination tasks that other team members struggled to sustain. Through advocating, they deployed professional narratives to explain what social work could contribute and to make its expertise more recognizable to clinicians. Together, these strategies enabled incremental jurisdictional gains and more reciprocal partnerships. These gains, however, were constrained by ‘jurisdictional saturation’, a point where social workers’ ability to expand their roles stalls due to inadequate staffing support or external welfare resources. The concept identifies a paradox of state-led professionalization: policy recognition may extend faster than the resources needed to support practice. The study extends processual accounts of professional jurisdiction by highlighting how jurisdictional change is accomplished through everyday resource exchanges, with implications for hospital social work in other resource-constrained health systems.",
+        "source": "The British Journal of Social Work",
+        "issn": "0045-3102",
+        "date": "2026-10-03",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-04",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1007/s10896-026-01190-2",
         "doi": "10.1007/s10896-026-01190-2",
         "url": "https://doi.org/10.1007/s10896-026-01190-2",
@@ -74995,6 +75848,136 @@
         "fetched_from": "crossref"
       },
       {
+        "id": "doi:10.1016/j.socscimed.2026.119912",
+        "doi": "10.1016/j.socscimed.2026.119912",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.119912",
+        "title": "“I’ve got to believe in something”: Trust, cancer survivorship, and investing agency",
+        "authors": [
+          "Kevin Dew",
+          "Annabelle Fisher",
+          "Kerry Chamberlain",
+          "Richard Egan",
+          "Alex Broom",
+          "Elizabeth Dennett",
+          "Chris Cunningham"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-04",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.socscimed.2026.119890",
+        "doi": "10.1016/j.socscimed.2026.119890",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.119890",
+        "title": "“Attention to the Person Who Prepared This Questionnaire”: Queer Men’s Survey Marginalia in HIV Behavioral Surveillance",
+        "authors": [
+          "Jeffrey Morgan",
+          "Olivier Ferlatte",
+          "Ben Klassen",
+          "Rob Higgins",
+          "Nathan Lachowsky"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-04",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.socscimed.2026.119909",
+        "doi": "10.1016/j.socscimed.2026.119909",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.119909",
+        "title": "Alternative Visions: The Strategic Partial Medicalization of Ibogaine treatment",
+        "authors": [
+          "Jakob Lundgren",
+          "Johan Söderberg"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-04",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.socscimed.2026.119907",
+        "doi": "10.1016/j.socscimed.2026.119907",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.119907",
+        "title": "“It was so easy, it didn't feel real:” Positive abortion experiences post-Dobbs",
+        "authors": [
+          "Cynthia Beavin",
+          "Hillary J. Gyuras",
+          "Jessica A. Sinclair",
+          "Autumh Kirkendall",
+          "Danielle Bessett",
+          "Michelle L. McGowan"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-04",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.socscimed.2026.119911",
+        "doi": "10.1016/j.socscimed.2026.119911",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.119911",
+        "title": "The Hidden Injuries of Work: Institutional Invisibility, Precarity, and the Recognition of Occupational Harm. A Scoping Review",
+        "authors": [
+          "Daniel Côté",
+          "Amelia Leon Correal",
+          "Jessica Dubé",
+          "Ai-Thuy Huynh",
+          "Bénédicte Nuche"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-04",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1093/bjsw/bcag214",
         "doi": "10.1093/bjsw/bcag214",
         "url": "https://doi.org/10.1093/bjsw/bcag214",
@@ -76777,10 +77760,10 @@
   },
   "totals": {
     "socialSecurity": 1567,
-    "elderCare": 447,
-    "healthReform": 706,
-    "agingHealth": 635,
-    "socialWork": 286
+    "elderCare": 459,
+    "healthReform": 716,
+    "agingHealth": 647,
+    "socialWork": 293
   },
   "feeds_ok": 41
 }
