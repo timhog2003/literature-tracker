@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-04",
-  "fetched": "2026-10-04T07:07:00+00:00",
+  "date": "2026-10-05",
+  "fetched": "2026-10-05T07:19:31+00:00",
   "domains": {
     "socialSecurity": [
       {
@@ -24158,6 +24158,56 @@
     ],
     "elderCare": [
       {
+        "id": "doi:10.1111/jgs.70760",
+        "doi": "10.1111/jgs.70760",
+        "url": "https://doi.org/10.1111/jgs.70760",
+        "title": "A Model to Increase Faculty Competency in Teaching Quality Improvement to Geriatric and Palliative Care Fellows",
+        "authors": [
+          "Kelly J. Cummings",
+          "Kristi Nguyen",
+          "Stephanie W. Chow",
+          "Helen Fernandez",
+          "William Hung",
+          "Brijen J. Shah",
+          "Suzanne L. Goldhirsch",
+          "Christine Chang"
+        ],
+        "abstract": "",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-10-04",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-05",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08368-9",
+        "doi": "10.1186/s12877-026-08368-9",
+        "url": "https://doi.org/10.1186/s12877-026-08368-9",
+        "title": "Trauma patterns and epidemiological characteristics among older adults: a retrospective registry-based study in Iran",
+        "authors": [
+          "Vali Bahrevar",
+          "Saeed Hosseini",
+          "Seyed Houssein Saeed-Banadaky",
+          "Hassan Rezaeipandari"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-04",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-05",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1186/s12877-026-08271-3",
         "doi": "10.1186/s12877-026-08271-3",
         "url": "https://doi.org/10.1186/s12877-026-08271-3",
@@ -24390,6 +24440,53 @@
           "agingHealth"
         ],
         "firstSeen": "2026-10-04",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/geront/gnag224",
+        "doi": "10.1093/geront/gnag224",
+        "url": "https://doi.org/10.1093/geront/gnag224",
+        "title": "Implementing Person-Centered Dementia Care Practices Using a Care Community Coaching Intervention",
+        "authors": [
+          "Walter Moczygemba",
+          "Boeun Kim",
+          "Basia Belza",
+          "Emily Waddington",
+          "Shawn Johnson",
+          "Sam Fazio",
+          "Lorna Prophater"
+        ],
+        "abstract": "Abstract                                        Background and Objectives                     As person-centeredness is key to quality dementia care, the Care Community Coaching Program (CCCP) was created to implement the 2018 Alzheimer’s Association Dementia Care Practice Recommendations (DCPR) in long-term care communities. This paper describes the implementation and preliminary efficacy of the CCCP on adoption of the DCPR for person-centered care (PCC) and workforce practices, and current DCPR implementation in care communities.                                                           Research Design and Methods                     Uses a single group, pre- and posttest design drawing on field notes and data collected from 38 communities in a study on the impact of the CCCP in care communities in Ohio. Changes in the implementation of the DCPR for PCC were measured using a paired t test; changes in the DCPR for workforce practices were measured using a Wilcoxon signed-rank test. Additional post-hoc descriptive statistics describe current implementation of the DCPR.                                                           Results                     Participating communities saw statistically significant improvements related to the implementation of all but one DCPR for PCC and none related to workforce practices. Pre-intervention implementation rates for the DCPR for PCC and for workforce practices were 61.8% (n = 35 communities), and 78.3% (n = 10 communities), respectively. Exemplar practice changes, and facilitators and barriers to change are additionally described.                                                           Discussion and Implications                     The CCCP can be effectively implemented in care communities and shows preliminary efficacy in increasing the adoption of the DCPR for PCC. Areas for future research on the impact of the CCCP, and implications for improving the person-centeredness of dementia care in care communities, are identified and discussed.",
+        "source": "The Gerontologist",
+        "issn": "0016-9013",
+        "date": "2026-10-03",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-05",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/gerona/glag243",
+        "doi": "10.1093/gerona/glag243",
+        "url": "https://doi.org/10.1093/gerona/glag243",
+        "title": "The Role of Lifestyle Medicine in Shaping and Supporting Successful Aging",
+        "authors": [
+          "Teri A Undem",
+          "Heather R Fuller"
+        ],
+        "abstract": "Abstract                                        Background                     Within gerontology, various theoretical perspectives on what it means to age successfully have emerged over recent decades (5) and garnered empirical support. Similarly, within medicine and related healthcare fields, research and practice have focused on healthy living in terms of physical health, mental health, and well-being. In recent years, the practice of Lifestyle Medicine (nutrition, physical activity, stress management, restorative sleep, social connection, and avoidance of risky substances) has emerged to describe the role of such lifestyle factors on health.                                                           Methods                     The present article proposes a pathway to integrate lifestyle medicine with successful aging. We take a holistic approach to develop a model that merges the foundational pillars of lifestyle medicine with the principles of successful aging.                                                           Conclusions                     This new approach to exploring the linkages between the principles of lifestyle medicine and the essential components of successful aging highlights how proactive behavioral health strategies related to nutrition, exercise, sleep, stress, and substances could play a role in fostering optimal aging in cognitive and physical functioning and disease prevention, thereby potentially yielding more positive outcomes for aging well.",
+        "source": "The Journals of Gerontology, Series A: Biological Sciences and Medical Sciences",
+        "issn": "1079-5006",
+        "date": "2026-10-03",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "elderCare"
+        ],
+        "firstSeen": "2026-10-05",
         "fetched_from": "crossref"
       },
       {
@@ -40321,6 +40418,136 @@
         "fetched_from": "crossref"
       },
       {
+        "id": "doi:10.1016/j.socscimed.2026.119912",
+        "doi": "10.1016/j.socscimed.2026.119912",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.119912",
+        "title": "“I’ve got to believe in something”: Trust, cancer survivorship, and investing agency",
+        "authors": [
+          "Kevin Dew",
+          "Annabelle Fisher",
+          "Kerry Chamberlain",
+          "Richard Egan",
+          "Alex Broom",
+          "Elizabeth Dennett",
+          "Chris Cunningham"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-04",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.socscimed.2026.119890",
+        "doi": "10.1016/j.socscimed.2026.119890",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.119890",
+        "title": "“Attention to the Person Who Prepared This Questionnaire”: Queer Men’s Survey Marginalia in HIV Behavioral Surveillance",
+        "authors": [
+          "Jeffrey Morgan",
+          "Olivier Ferlatte",
+          "Ben Klassen",
+          "Rob Higgins",
+          "Nathan Lachowsky"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-04",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.socscimed.2026.119909",
+        "doi": "10.1016/j.socscimed.2026.119909",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.119909",
+        "title": "Alternative Visions: The Strategic Partial Medicalization of Ibogaine treatment",
+        "authors": [
+          "Jakob Lundgren",
+          "Johan Söderberg"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-04",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.socscimed.2026.119907",
+        "doi": "10.1016/j.socscimed.2026.119907",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.119907",
+        "title": "“It was so easy, it didn't feel real:” Positive abortion experiences post-Dobbs",
+        "authors": [
+          "Cynthia Beavin",
+          "Hillary J. Gyuras",
+          "Jessica A. Sinclair",
+          "Autumh Kirkendall",
+          "Danielle Bessett",
+          "Michelle L. McGowan"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-04",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.socscimed.2026.119911",
+        "doi": "10.1016/j.socscimed.2026.119911",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.119911",
+        "title": "The Hidden Injuries of Work: Institutional Invisibility, Precarity, and the Recognition of Occupational Harm. A Scoping Review",
+        "authors": [
+          "Daniel Côté",
+          "Amelia Leon Correal",
+          "Jessica Dubé",
+          "Ai-Thuy Huynh",
+          "Bénédicte Nuche"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-04",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1056/nejme2605617",
         "doi": "10.1056/nejme2605617",
         "url": "https://doi.org/10.1056/nejme2605617",
@@ -41787,133 +42014,136 @@
         "fetched_from": "crossref"
       },
       {
-        "id": "doi:10.1016/j.socscimed.2026.119912",
-        "doi": "10.1016/j.socscimed.2026.119912",
-        "url": "https://doi.org/10.1016/j.socscimed.2026.119912",
-        "title": "“I’ve got to believe in something”: Trust, cancer survivorship, and investing agency",
+        "id": "doi:10.1016/s0140-6736(26)01292-4",
+        "doi": "10.1016/s0140-6736(26)01292-4",
+        "url": "https://doi.org/10.1016/s0140-6736(26)01292-4",
+        "title": "The digital determinants of health: a new era for global public health",
         "authors": [
-          "Kevin Dew",
-          "Annabelle Fisher",
-          "Kerry Chamberlain",
-          "Richard Egan",
-          "Alex Broom",
-          "Elizabeth Dennett",
-          "Chris Cunningham"
+          "James Shaw",
+          "Nicole Gross",
+          "Abril Saldaña-Tejeda",
+          "Caesar Atuire",
+          "Barbara Prainsack",
+          "Louise Holly",
+          "Ilona Kickbusch"
         ],
         "abstract": "",
-        "source": "Social Science &amp; Medicine",
-        "issn": "0277-9536",
+        "source": "The Lancet",
+        "issn": "0140-6736",
         "date": "2026-10-01",
         "subjects": [],
         "domains": [
           "healthReform",
-          "elderCare",
-          "agingHealth",
-          "socialWork"
+          "agingHealth"
         ],
-        "firstSeen": "2026-10-04",
+        "firstSeen": "2026-10-05",
         "fetched_from": "crossref"
       },
       {
-        "id": "doi:10.1016/j.socscimed.2026.119890",
-        "doi": "10.1016/j.socscimed.2026.119890",
-        "url": "https://doi.org/10.1016/j.socscimed.2026.119890",
-        "title": "“Attention to the Person Who Prepared This Questionnaire”: Queer Men’s Survey Marginalia in HIV Behavioral Surveillance",
+        "id": "doi:10.1016/s0140-6736(26)01611-9",
+        "doi": "10.1016/s0140-6736(26)01611-9",
+        "url": "https://doi.org/10.1016/s0140-6736(26)01611-9",
+        "title": "The public health challenges of children's and adolescents’ digital media use: applying the digital determinants of health as an interpretive framework",
         "authors": [
-          "Jeffrey Morgan",
-          "Olivier Ferlatte",
-          "Ben Klassen",
-          "Rob Higgins",
-          "Nathan Lachowsky"
+          "Louise Holly",
+          "Rebecca Raeside",
+          "Alec Morton",
+          "Jovin Shi",
+          "Natarajan Padmapriya",
+          "Falk Müller-Riemenschneider"
         ],
         "abstract": "",
-        "source": "Social Science &amp; Medicine",
-        "issn": "0277-9536",
+        "source": "The Lancet",
+        "issn": "0140-6736",
         "date": "2026-10-01",
         "subjects": [],
         "domains": [
           "healthReform",
-          "elderCare",
-          "agingHealth",
-          "socialWork"
+          "agingHealth"
         ],
-        "firstSeen": "2026-10-04",
+        "firstSeen": "2026-10-05",
         "fetched_from": "crossref"
       },
       {
-        "id": "doi:10.1016/j.socscimed.2026.119909",
-        "doi": "10.1016/j.socscimed.2026.119909",
-        "url": "https://doi.org/10.1016/j.socscimed.2026.119909",
-        "title": "Alternative Visions: The Strategic Partial Medicalization of Ibogaine treatment",
+        "id": "doi:10.1016/s0140-6736(26)01293-6",
+        "doi": "10.1016/s0140-6736(26)01293-6",
+        "url": "https://doi.org/10.1016/s0140-6736(26)01293-6",
+        "title": "Governing the digital determinants of health for children and young people: a global public health imperative",
         "authors": [
-          "Jakob Lundgren",
-          "Johan Söderberg"
+          "Barbara Prainsack",
+          "Rohinton P Medhora",
+          "Ilona Kickbusch"
         ],
         "abstract": "",
-        "source": "Social Science &amp; Medicine",
-        "issn": "0277-9536",
+        "source": "The Lancet",
+        "issn": "0140-6736",
         "date": "2026-10-01",
         "subjects": [],
         "domains": [
           "healthReform",
-          "elderCare",
-          "agingHealth",
-          "socialWork"
+          "agingHealth"
         ],
-        "firstSeen": "2026-10-04",
+        "firstSeen": "2026-10-05",
         "fetched_from": "crossref"
       },
       {
-        "id": "doi:10.1016/j.socscimed.2026.119907",
-        "doi": "10.1016/j.socscimed.2026.119907",
-        "url": "https://doi.org/10.1016/j.socscimed.2026.119907",
-        "title": "“It was so easy, it didn't feel real:” Positive abortion experiences post-Dobbs",
+        "id": "doi:10.1016/s0140-6736(26)01986-0",
+        "doi": "10.1016/s0140-6736(26)01986-0",
+        "url": "https://doi.org/10.1016/s0140-6736(26)01986-0",
+        "title": "The role of product safety and liability law in governing digital determinants of health",
         "authors": [
-          "Cynthia Beavin",
-          "Hillary J. Gyuras",
-          "Jessica A. Sinclair",
-          "Autumh Kirkendall",
-          "Danielle Bessett",
-          "Michelle L. McGowan"
+          "Mindy Nunez Duffourc"
         ],
         "abstract": "",
-        "source": "Social Science &amp; Medicine",
-        "issn": "0277-9536",
+        "source": "The Lancet",
+        "issn": "0140-6736",
         "date": "2026-10-01",
         "subjects": [],
         "domains": [
           "healthReform",
-          "elderCare",
-          "agingHealth",
-          "socialWork"
+          "agingHealth"
         ],
-        "firstSeen": "2026-10-04",
+        "firstSeen": "2026-10-05",
         "fetched_from": "crossref"
       },
       {
-        "id": "doi:10.1016/j.socscimed.2026.119911",
-        "doi": "10.1016/j.socscimed.2026.119911",
-        "url": "https://doi.org/10.1016/j.socscimed.2026.119911",
-        "title": "The Hidden Injuries of Work: Institutional Invisibility, Precarity, and the Recognition of Occupational Harm. A Scoping Review",
+        "id": "doi:10.1016/s0140-6736(26)01988-4",
+        "doi": "10.1016/s0140-6736(26)01988-4",
+        "url": "https://doi.org/10.1016/s0140-6736(26)01988-4",
+        "title": "Barbara Prainsack: practical utopianism for healthier societies",
         "authors": [
-          "Daniel Côté",
-          "Amelia Leon Correal",
-          "Jessica Dubé",
-          "Ai-Thuy Huynh",
-          "Bénédicte Nuche"
+          "Niall Boyce"
         ],
         "abstract": "",
-        "source": "Social Science &amp; Medicine",
-        "issn": "0277-9536",
+        "source": "The Lancet",
+        "issn": "0140-6736",
         "date": "2026-10-01",
         "subjects": [],
         "domains": [
           "healthReform",
-          "elderCare",
-          "agingHealth",
-          "socialWork"
+          "agingHealth"
         ],
-        "firstSeen": "2026-10-04",
+        "firstSeen": "2026-10-05",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/s0140-6736(26)01991-4",
+        "doi": "10.1016/s0140-6736(26)01991-4",
+        "url": "https://doi.org/10.1016/s0140-6736(26)01991-4",
+        "title": "Digital technology for health, not harm",
+        "authors": [
+          "The Lancet"
+        ],
+        "abstract": "",
+        "source": "The Lancet",
+        "issn": "0140-6736",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-05",
         "fetched_from": "crossref"
       },
       {
@@ -55006,6 +55236,56 @@
         "fetched_from": "crossref"
       },
       {
+        "id": "doi:10.1111/jgs.70760",
+        "doi": "10.1111/jgs.70760",
+        "url": "https://doi.org/10.1111/jgs.70760",
+        "title": "A Model to Increase Faculty Competency in Teaching Quality Improvement to Geriatric and Palliative Care Fellows",
+        "authors": [
+          "Kelly J. Cummings",
+          "Kristi Nguyen",
+          "Stephanie W. Chow",
+          "Helen Fernandez",
+          "William Hung",
+          "Brijen J. Shah",
+          "Suzanne L. Goldhirsch",
+          "Christine Chang"
+        ],
+        "abstract": "",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-10-04",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-05",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08368-9",
+        "doi": "10.1186/s12877-026-08368-9",
+        "url": "https://doi.org/10.1186/s12877-026-08368-9",
+        "title": "Trauma patterns and epidemiological characteristics among older adults: a retrospective registry-based study in Iran",
+        "authors": [
+          "Vali Bahrevar",
+          "Saeed Hosseini",
+          "Seyed Houssein Saeed-Banadaky",
+          "Hassan Rezaeipandari"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-04",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-05",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1186/s12877-026-08271-3",
         "doi": "10.1186/s12877-026-08271-3",
         "url": "https://doi.org/10.1186/s12877-026-08271-3",
@@ -55238,6 +55518,53 @@
           "agingHealth"
         ],
         "firstSeen": "2026-10-04",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/geront/gnag224",
+        "doi": "10.1093/geront/gnag224",
+        "url": "https://doi.org/10.1093/geront/gnag224",
+        "title": "Implementing Person-Centered Dementia Care Practices Using a Care Community Coaching Intervention",
+        "authors": [
+          "Walter Moczygemba",
+          "Boeun Kim",
+          "Basia Belza",
+          "Emily Waddington",
+          "Shawn Johnson",
+          "Sam Fazio",
+          "Lorna Prophater"
+        ],
+        "abstract": "Abstract                                        Background and Objectives                     As person-centeredness is key to quality dementia care, the Care Community Coaching Program (CCCP) was created to implement the 2018 Alzheimer’s Association Dementia Care Practice Recommendations (DCPR) in long-term care communities. This paper describes the implementation and preliminary efficacy of the CCCP on adoption of the DCPR for person-centered care (PCC) and workforce practices, and current DCPR implementation in care communities.                                                           Research Design and Methods                     Uses a single group, pre- and posttest design drawing on field notes and data collected from 38 communities in a study on the impact of the CCCP in care communities in Ohio. Changes in the implementation of the DCPR for PCC were measured using a paired t test; changes in the DCPR for workforce practices were measured using a Wilcoxon signed-rank test. Additional post-hoc descriptive statistics describe current implementation of the DCPR.                                                           Results                     Participating communities saw statistically significant improvements related to the implementation of all but one DCPR for PCC and none related to workforce practices. Pre-intervention implementation rates for the DCPR for PCC and for workforce practices were 61.8% (n = 35 communities), and 78.3% (n = 10 communities), respectively. Exemplar practice changes, and facilitators and barriers to change are additionally described.                                                           Discussion and Implications                     The CCCP can be effectively implemented in care communities and shows preliminary efficacy in increasing the adoption of the DCPR for PCC. Areas for future research on the impact of the CCCP, and implications for improving the person-centeredness of dementia care in care communities, are identified and discussed.",
+        "source": "The Gerontologist",
+        "issn": "0016-9013",
+        "date": "2026-10-03",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-05",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/gerona/glag243",
+        "doi": "10.1093/gerona/glag243",
+        "url": "https://doi.org/10.1093/gerona/glag243",
+        "title": "The Role of Lifestyle Medicine in Shaping and Supporting Successful Aging",
+        "authors": [
+          "Teri A Undem",
+          "Heather R Fuller"
+        ],
+        "abstract": "Abstract                                        Background                     Within gerontology, various theoretical perspectives on what it means to age successfully have emerged over recent decades (5) and garnered empirical support. Similarly, within medicine and related healthcare fields, research and practice have focused on healthy living in terms of physical health, mental health, and well-being. In recent years, the practice of Lifestyle Medicine (nutrition, physical activity, stress management, restorative sleep, social connection, and avoidance of risky substances) has emerged to describe the role of such lifestyle factors on health.                                                           Methods                     The present article proposes a pathway to integrate lifestyle medicine with successful aging. We take a holistic approach to develop a model that merges the foundational pillars of lifestyle medicine with the principles of successful aging.                                                           Conclusions                     This new approach to exploring the linkages between the principles of lifestyle medicine and the essential components of successful aging highlights how proactive behavioral health strategies related to nutrition, exercise, sleep, stress, and substances could play a role in fostering optimal aging in cognitive and physical functioning and disease prevention, thereby potentially yielding more positive outcomes for aging well.",
+        "source": "The Journals of Gerontology, Series A: Biological Sciences and Medical Sciences",
+        "issn": "1079-5006",
+        "date": "2026-10-03",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "elderCare"
+        ],
+        "firstSeen": "2026-10-05",
         "fetched_from": "crossref"
       },
       {
@@ -60303,6 +60630,136 @@
         "fetched_from": "crossref"
       },
       {
+        "id": "doi:10.1016/j.socscimed.2026.119912",
+        "doi": "10.1016/j.socscimed.2026.119912",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.119912",
+        "title": "“I’ve got to believe in something”: Trust, cancer survivorship, and investing agency",
+        "authors": [
+          "Kevin Dew",
+          "Annabelle Fisher",
+          "Kerry Chamberlain",
+          "Richard Egan",
+          "Alex Broom",
+          "Elizabeth Dennett",
+          "Chris Cunningham"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-04",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.socscimed.2026.119890",
+        "doi": "10.1016/j.socscimed.2026.119890",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.119890",
+        "title": "“Attention to the Person Who Prepared This Questionnaire”: Queer Men’s Survey Marginalia in HIV Behavioral Surveillance",
+        "authors": [
+          "Jeffrey Morgan",
+          "Olivier Ferlatte",
+          "Ben Klassen",
+          "Rob Higgins",
+          "Nathan Lachowsky"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-04",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.socscimed.2026.119909",
+        "doi": "10.1016/j.socscimed.2026.119909",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.119909",
+        "title": "Alternative Visions: The Strategic Partial Medicalization of Ibogaine treatment",
+        "authors": [
+          "Jakob Lundgren",
+          "Johan Söderberg"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-04",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.socscimed.2026.119907",
+        "doi": "10.1016/j.socscimed.2026.119907",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.119907",
+        "title": "“It was so easy, it didn't feel real:” Positive abortion experiences post-Dobbs",
+        "authors": [
+          "Cynthia Beavin",
+          "Hillary J. Gyuras",
+          "Jessica A. Sinclair",
+          "Autumh Kirkendall",
+          "Danielle Bessett",
+          "Michelle L. McGowan"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-04",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.socscimed.2026.119911",
+        "doi": "10.1016/j.socscimed.2026.119911",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.119911",
+        "title": "The Hidden Injuries of Work: Institutional Invisibility, Precarity, and the Recognition of Occupational Harm. A Scoping Review",
+        "authors": [
+          "Daniel Côté",
+          "Amelia Leon Correal",
+          "Jessica Dubé",
+          "Ai-Thuy Huynh",
+          "Bénédicte Nuche"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-04",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1016/s0140-6736(26)01552-7",
         "doi": "10.1016/s0140-6736(26)01552-7",
         "url": "https://doi.org/10.1016/s0140-6736(26)01552-7",
@@ -61470,133 +61927,136 @@
         "fetched_from": "crossref"
       },
       {
-        "id": "doi:10.1016/j.socscimed.2026.119912",
-        "doi": "10.1016/j.socscimed.2026.119912",
-        "url": "https://doi.org/10.1016/j.socscimed.2026.119912",
-        "title": "“I’ve got to believe in something”: Trust, cancer survivorship, and investing agency",
+        "id": "doi:10.1016/s0140-6736(26)01292-4",
+        "doi": "10.1016/s0140-6736(26)01292-4",
+        "url": "https://doi.org/10.1016/s0140-6736(26)01292-4",
+        "title": "The digital determinants of health: a new era for global public health",
         "authors": [
-          "Kevin Dew",
-          "Annabelle Fisher",
-          "Kerry Chamberlain",
-          "Richard Egan",
-          "Alex Broom",
-          "Elizabeth Dennett",
-          "Chris Cunningham"
+          "James Shaw",
+          "Nicole Gross",
+          "Abril Saldaña-Tejeda",
+          "Caesar Atuire",
+          "Barbara Prainsack",
+          "Louise Holly",
+          "Ilona Kickbusch"
         ],
         "abstract": "",
-        "source": "Social Science &amp; Medicine",
-        "issn": "0277-9536",
+        "source": "The Lancet",
+        "issn": "0140-6736",
         "date": "2026-10-01",
         "subjects": [],
         "domains": [
           "healthReform",
-          "elderCare",
-          "agingHealth",
-          "socialWork"
+          "agingHealth"
         ],
-        "firstSeen": "2026-10-04",
+        "firstSeen": "2026-10-05",
         "fetched_from": "crossref"
       },
       {
-        "id": "doi:10.1016/j.socscimed.2026.119890",
-        "doi": "10.1016/j.socscimed.2026.119890",
-        "url": "https://doi.org/10.1016/j.socscimed.2026.119890",
-        "title": "“Attention to the Person Who Prepared This Questionnaire”: Queer Men’s Survey Marginalia in HIV Behavioral Surveillance",
+        "id": "doi:10.1016/s0140-6736(26)01611-9",
+        "doi": "10.1016/s0140-6736(26)01611-9",
+        "url": "https://doi.org/10.1016/s0140-6736(26)01611-9",
+        "title": "The public health challenges of children's and adolescents’ digital media use: applying the digital determinants of health as an interpretive framework",
         "authors": [
-          "Jeffrey Morgan",
-          "Olivier Ferlatte",
-          "Ben Klassen",
-          "Rob Higgins",
-          "Nathan Lachowsky"
+          "Louise Holly",
+          "Rebecca Raeside",
+          "Alec Morton",
+          "Jovin Shi",
+          "Natarajan Padmapriya",
+          "Falk Müller-Riemenschneider"
         ],
         "abstract": "",
-        "source": "Social Science &amp; Medicine",
-        "issn": "0277-9536",
+        "source": "The Lancet",
+        "issn": "0140-6736",
         "date": "2026-10-01",
         "subjects": [],
         "domains": [
           "healthReform",
-          "elderCare",
-          "agingHealth",
-          "socialWork"
+          "agingHealth"
         ],
-        "firstSeen": "2026-10-04",
+        "firstSeen": "2026-10-05",
         "fetched_from": "crossref"
       },
       {
-        "id": "doi:10.1016/j.socscimed.2026.119909",
-        "doi": "10.1016/j.socscimed.2026.119909",
-        "url": "https://doi.org/10.1016/j.socscimed.2026.119909",
-        "title": "Alternative Visions: The Strategic Partial Medicalization of Ibogaine treatment",
+        "id": "doi:10.1016/s0140-6736(26)01293-6",
+        "doi": "10.1016/s0140-6736(26)01293-6",
+        "url": "https://doi.org/10.1016/s0140-6736(26)01293-6",
+        "title": "Governing the digital determinants of health for children and young people: a global public health imperative",
         "authors": [
-          "Jakob Lundgren",
-          "Johan Söderberg"
+          "Barbara Prainsack",
+          "Rohinton P Medhora",
+          "Ilona Kickbusch"
         ],
         "abstract": "",
-        "source": "Social Science &amp; Medicine",
-        "issn": "0277-9536",
+        "source": "The Lancet",
+        "issn": "0140-6736",
         "date": "2026-10-01",
         "subjects": [],
         "domains": [
           "healthReform",
-          "elderCare",
-          "agingHealth",
-          "socialWork"
+          "agingHealth"
         ],
-        "firstSeen": "2026-10-04",
+        "firstSeen": "2026-10-05",
         "fetched_from": "crossref"
       },
       {
-        "id": "doi:10.1016/j.socscimed.2026.119907",
-        "doi": "10.1016/j.socscimed.2026.119907",
-        "url": "https://doi.org/10.1016/j.socscimed.2026.119907",
-        "title": "“It was so easy, it didn't feel real:” Positive abortion experiences post-Dobbs",
+        "id": "doi:10.1016/s0140-6736(26)01986-0",
+        "doi": "10.1016/s0140-6736(26)01986-0",
+        "url": "https://doi.org/10.1016/s0140-6736(26)01986-0",
+        "title": "The role of product safety and liability law in governing digital determinants of health",
         "authors": [
-          "Cynthia Beavin",
-          "Hillary J. Gyuras",
-          "Jessica A. Sinclair",
-          "Autumh Kirkendall",
-          "Danielle Bessett",
-          "Michelle L. McGowan"
+          "Mindy Nunez Duffourc"
         ],
         "abstract": "",
-        "source": "Social Science &amp; Medicine",
-        "issn": "0277-9536",
+        "source": "The Lancet",
+        "issn": "0140-6736",
         "date": "2026-10-01",
         "subjects": [],
         "domains": [
           "healthReform",
-          "elderCare",
-          "agingHealth",
-          "socialWork"
+          "agingHealth"
         ],
-        "firstSeen": "2026-10-04",
+        "firstSeen": "2026-10-05",
         "fetched_from": "crossref"
       },
       {
-        "id": "doi:10.1016/j.socscimed.2026.119911",
-        "doi": "10.1016/j.socscimed.2026.119911",
-        "url": "https://doi.org/10.1016/j.socscimed.2026.119911",
-        "title": "The Hidden Injuries of Work: Institutional Invisibility, Precarity, and the Recognition of Occupational Harm. A Scoping Review",
+        "id": "doi:10.1016/s0140-6736(26)01988-4",
+        "doi": "10.1016/s0140-6736(26)01988-4",
+        "url": "https://doi.org/10.1016/s0140-6736(26)01988-4",
+        "title": "Barbara Prainsack: practical utopianism for healthier societies",
         "authors": [
-          "Daniel Côté",
-          "Amelia Leon Correal",
-          "Jessica Dubé",
-          "Ai-Thuy Huynh",
-          "Bénédicte Nuche"
+          "Niall Boyce"
         ],
         "abstract": "",
-        "source": "Social Science &amp; Medicine",
-        "issn": "0277-9536",
+        "source": "The Lancet",
+        "issn": "0140-6736",
         "date": "2026-10-01",
         "subjects": [],
         "domains": [
           "healthReform",
-          "elderCare",
-          "agingHealth",
-          "socialWork"
+          "agingHealth"
         ],
-        "firstSeen": "2026-10-04",
+        "firstSeen": "2026-10-05",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/s0140-6736(26)01991-4",
+        "doi": "10.1016/s0140-6736(26)01991-4",
+        "url": "https://doi.org/10.1016/s0140-6736(26)01991-4",
+        "title": "Digital technology for health, not harm",
+        "authors": [
+          "The Lancet"
+        ],
+        "abstract": "",
+        "source": "The Lancet",
+        "issn": "0140-6736",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-05",
         "fetched_from": "crossref"
       },
       {
@@ -71132,6 +71592,27 @@
     ],
     "socialWork": [
       {
+        "id": "doi:10.1007/s10896-026-01193-z",
+        "doi": "10.1007/s10896-026-01193-z",
+        "url": "https://doi.org/10.1007/s10896-026-01193-z",
+        "title": "A Brief Psychometric Examination of the Attitudes Toward Parent-Child Gaslighting Questionnaire",
+        "authors": [
+          "Cameron S. Kay",
+          "Evita March",
+          "Stephanie D. Block"
+        ],
+        "abstract": "",
+        "source": "Journal of Family Violence",
+        "issn": "0885-7482",
+        "date": "2026-10-05",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-05",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1093/bjsw/bcag211",
         "doi": "10.1093/bjsw/bcag211",
         "url": "https://doi.org/10.1093/bjsw/bcag211",
@@ -74733,6 +75214,136 @@
         "fetched_from": "crossref"
       },
       {
+        "id": "doi:10.1016/j.socscimed.2026.119912",
+        "doi": "10.1016/j.socscimed.2026.119912",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.119912",
+        "title": "“I’ve got to believe in something”: Trust, cancer survivorship, and investing agency",
+        "authors": [
+          "Kevin Dew",
+          "Annabelle Fisher",
+          "Kerry Chamberlain",
+          "Richard Egan",
+          "Alex Broom",
+          "Elizabeth Dennett",
+          "Chris Cunningham"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-04",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.socscimed.2026.119890",
+        "doi": "10.1016/j.socscimed.2026.119890",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.119890",
+        "title": "“Attention to the Person Who Prepared This Questionnaire”: Queer Men’s Survey Marginalia in HIV Behavioral Surveillance",
+        "authors": [
+          "Jeffrey Morgan",
+          "Olivier Ferlatte",
+          "Ben Klassen",
+          "Rob Higgins",
+          "Nathan Lachowsky"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-04",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.socscimed.2026.119909",
+        "doi": "10.1016/j.socscimed.2026.119909",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.119909",
+        "title": "Alternative Visions: The Strategic Partial Medicalization of Ibogaine treatment",
+        "authors": [
+          "Jakob Lundgren",
+          "Johan Söderberg"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-04",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.socscimed.2026.119907",
+        "doi": "10.1016/j.socscimed.2026.119907",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.119907",
+        "title": "“It was so easy, it didn't feel real:” Positive abortion experiences post-Dobbs",
+        "authors": [
+          "Cynthia Beavin",
+          "Hillary J. Gyuras",
+          "Jessica A. Sinclair",
+          "Autumh Kirkendall",
+          "Danielle Bessett",
+          "Michelle L. McGowan"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-04",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.socscimed.2026.119911",
+        "doi": "10.1016/j.socscimed.2026.119911",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.119911",
+        "title": "The Hidden Injuries of Work: Institutional Invisibility, Precarity, and the Recognition of Occupational Harm. A Scoping Review",
+        "authors": [
+          "Daniel Côté",
+          "Amelia Leon Correal",
+          "Jessica Dubé",
+          "Ai-Thuy Huynh",
+          "Bénédicte Nuche"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-04",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1177/10497315261452377",
         "doi": "10.1177/10497315261452377",
         "url": "https://doi.org/10.1177/10497315261452377",
@@ -75845,136 +76456,6 @@
           "socialWork"
         ],
         "firstSeen": "2026-10-02",
-        "fetched_from": "crossref"
-      },
-      {
-        "id": "doi:10.1016/j.socscimed.2026.119912",
-        "doi": "10.1016/j.socscimed.2026.119912",
-        "url": "https://doi.org/10.1016/j.socscimed.2026.119912",
-        "title": "“I’ve got to believe in something”: Trust, cancer survivorship, and investing agency",
-        "authors": [
-          "Kevin Dew",
-          "Annabelle Fisher",
-          "Kerry Chamberlain",
-          "Richard Egan",
-          "Alex Broom",
-          "Elizabeth Dennett",
-          "Chris Cunningham"
-        ],
-        "abstract": "",
-        "source": "Social Science &amp; Medicine",
-        "issn": "0277-9536",
-        "date": "2026-10-01",
-        "subjects": [],
-        "domains": [
-          "healthReform",
-          "elderCare",
-          "agingHealth",
-          "socialWork"
-        ],
-        "firstSeen": "2026-10-04",
-        "fetched_from": "crossref"
-      },
-      {
-        "id": "doi:10.1016/j.socscimed.2026.119890",
-        "doi": "10.1016/j.socscimed.2026.119890",
-        "url": "https://doi.org/10.1016/j.socscimed.2026.119890",
-        "title": "“Attention to the Person Who Prepared This Questionnaire”: Queer Men’s Survey Marginalia in HIV Behavioral Surveillance",
-        "authors": [
-          "Jeffrey Morgan",
-          "Olivier Ferlatte",
-          "Ben Klassen",
-          "Rob Higgins",
-          "Nathan Lachowsky"
-        ],
-        "abstract": "",
-        "source": "Social Science &amp; Medicine",
-        "issn": "0277-9536",
-        "date": "2026-10-01",
-        "subjects": [],
-        "domains": [
-          "healthReform",
-          "elderCare",
-          "agingHealth",
-          "socialWork"
-        ],
-        "firstSeen": "2026-10-04",
-        "fetched_from": "crossref"
-      },
-      {
-        "id": "doi:10.1016/j.socscimed.2026.119909",
-        "doi": "10.1016/j.socscimed.2026.119909",
-        "url": "https://doi.org/10.1016/j.socscimed.2026.119909",
-        "title": "Alternative Visions: The Strategic Partial Medicalization of Ibogaine treatment",
-        "authors": [
-          "Jakob Lundgren",
-          "Johan Söderberg"
-        ],
-        "abstract": "",
-        "source": "Social Science &amp; Medicine",
-        "issn": "0277-9536",
-        "date": "2026-10-01",
-        "subjects": [],
-        "domains": [
-          "healthReform",
-          "elderCare",
-          "agingHealth",
-          "socialWork"
-        ],
-        "firstSeen": "2026-10-04",
-        "fetched_from": "crossref"
-      },
-      {
-        "id": "doi:10.1016/j.socscimed.2026.119907",
-        "doi": "10.1016/j.socscimed.2026.119907",
-        "url": "https://doi.org/10.1016/j.socscimed.2026.119907",
-        "title": "“It was so easy, it didn't feel real:” Positive abortion experiences post-Dobbs",
-        "authors": [
-          "Cynthia Beavin",
-          "Hillary J. Gyuras",
-          "Jessica A. Sinclair",
-          "Autumh Kirkendall",
-          "Danielle Bessett",
-          "Michelle L. McGowan"
-        ],
-        "abstract": "",
-        "source": "Social Science &amp; Medicine",
-        "issn": "0277-9536",
-        "date": "2026-10-01",
-        "subjects": [],
-        "domains": [
-          "healthReform",
-          "elderCare",
-          "agingHealth",
-          "socialWork"
-        ],
-        "firstSeen": "2026-10-04",
-        "fetched_from": "crossref"
-      },
-      {
-        "id": "doi:10.1016/j.socscimed.2026.119911",
-        "doi": "10.1016/j.socscimed.2026.119911",
-        "url": "https://doi.org/10.1016/j.socscimed.2026.119911",
-        "title": "The Hidden Injuries of Work: Institutional Invisibility, Precarity, and the Recognition of Occupational Harm. A Scoping Review",
-        "authors": [
-          "Daniel Côté",
-          "Amelia Leon Correal",
-          "Jessica Dubé",
-          "Ai-Thuy Huynh",
-          "Bénédicte Nuche"
-        ],
-        "abstract": "",
-        "source": "Social Science &amp; Medicine",
-        "issn": "0277-9536",
-        "date": "2026-10-01",
-        "subjects": [],
-        "domains": [
-          "healthReform",
-          "elderCare",
-          "agingHealth",
-          "socialWork"
-        ],
-        "firstSeen": "2026-10-04",
         "fetched_from": "crossref"
       },
       {
@@ -77760,10 +78241,10 @@
   },
   "totals": {
     "socialSecurity": 1567,
-    "elderCare": 459,
-    "healthReform": 716,
-    "agingHealth": 647,
-    "socialWork": 293
+    "elderCare": 463,
+    "healthReform": 722,
+    "agingHealth": 657,
+    "socialWork": 294
   },
   "feeds_ok": 41
 }
