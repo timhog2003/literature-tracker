@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-05",
-  "fetched": "2026-10-05T07:19:31+00:00",
+  "date": "2026-10-06",
+  "fetched": "2026-10-06T07:45:51+00:00",
   "domains": {
     "socialSecurity": [
       {
@@ -788,6 +788,30 @@
           "healthReform"
         ],
         "firstSeen": "2026-10-01",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.jhealeco.2026.103189",
+        "doi": "10.1016/j.jhealeco.2026.103189",
+        "url": "https://doi.org/10.1016/j.jhealeco.2026.103189",
+        "title": "Beyond targeting women: Intrahousehold contexts and the effectiveness of food vouchers",
+        "authors": [
+          "Seollee Park",
+          "Yaeeun Han",
+          "Hyuncheol Bryant Kim"
+        ],
+        "abstract": "",
+        "source": "Journal of Health Economics",
+        "issn": "0167-6296",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "socialSecurity",
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-06",
         "fetched_from": "crossref"
       },
       {
@@ -24158,6 +24182,406 @@
     ],
     "elderCare": [
       {
+        "id": "doi:10.1186/s12877-026-08445-z",
+        "doi": "10.1186/s12877-026-08445-z",
+        "url": "https://doi.org/10.1186/s12877-026-08445-z",
+        "title": "Barriers and facilitators to home-based osteoporosis self-management among older lung transplant recipients: a qualitative study",
+        "authors": [
+          "Yandie Wang",
+          "Mengshan Xie",
+          "Fangfang Hao",
+          "Jiangshuyuan Liang",
+          "Peipei Gu",
+          "Aihua Xu",
+          "Fei Zeng"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-06",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-06",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08406-6",
+        "doi": "10.1186/s12877-026-08406-6",
+        "url": "https://doi.org/10.1186/s12877-026-08406-6",
+        "title": "Predictive value of triglycerides-total cholesterol-body weight Index for postoperative complications in elderly patients undergoing coronary artery bypass grafting",
+        "authors": [
+          "Pan Peng",
+          "Shiqi Zhou",
+          "Yuting Liu",
+          "Qi Yang",
+          "Qiongyan Zou",
+          "Li Geng",
+          "Wen Zhang",
+          "Yinghong Zhang"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-06",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-06",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08377-8",
+        "doi": "10.1186/s12877-026-08377-8",
+        "url": "https://doi.org/10.1186/s12877-026-08377-8",
+        "title": "Changes in functional fitness among community-dwelling older adults participating in 12-week and 24-week community-based multicomponent exercise programs: a dynamic cohort study",
+        "authors": [
+          "Liang-Rong Chen",
+          "Haw-Jeng Chiou",
+          "Yi-Chien Yu",
+          "Ming-Chueh Tsai",
+          "Yung Liao",
+          "Shao-Hsi Chang"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-06",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-06",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08424-4",
+        "doi": "10.1186/s12877-026-08424-4",
+        "url": "https://doi.org/10.1186/s12877-026-08424-4",
+        "title": "Functional status and depressive symptoms in relation to bone mineral density and osteoporosis in hospitalized older adults: a cross-sectional study",
+        "authors": [
+          "Stylianos Kopanos",
+          "Sandra Scheel",
+          "Bettina Eggert",
+          "Alexander Rübberdt",
+          "Ulrich Thiem",
+          "Joachim Feldkamp"
+        ],
+        "abstract": "Abstract                                        Introduction                     Osteoporosis is a major cause of morbidity and fractures among older adults, contributing substantially to disability, hospitalization, and mortality. This cross-sectional study investigated the associations of depressive symptoms and functional status with bone mineral density (BMD) and osteoporosis in hospitalized older adults.                                                           Methods                     We analyzed 1,048 hospitalized patients aged ≥ 70 years who underwent dual-energy X-ray absorptiometry (DXA). Depressive symptoms (GDS-15) and functional status (Barthel Index) were extracted from routine geriatric assessments. Group comparisons, multivariable linear regression, and logistic regression analyses were performed after adjustment for demographic, clinical, and endocrine covariates.                                                           Results                     Lower Barthel Index scores and higher depressive symptom burden were independently associated with lower hip BMD, whereas associations with lumbar spine BMD were less consistent. Although statistically significant, the observed effect sizes were modest. The multivariable model explained a moderate proportion of BMD variability (adjusted R² = 0.22).                                                           Conclusion                     Functional and psychological characteristics were independently associated with bone mineral density in hospitalized older adults. Given the cross-sectional design, causal relationships cannot be established. These findings support the potential value of incorporating comprehensive geriatric assessment into osteoporosis evaluation to improve identification of older adults at increased fracture risk.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-06",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-06",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08416-4",
+        "doi": "10.1186/s12877-026-08416-4",
+        "url": "https://doi.org/10.1186/s12877-026-08416-4",
+        "title": "Effects and social design features of physical activity interventions on loneliness and subjective well-being in older adults: a systematic review",
+        "authors": [
+          "Xiaocui Sang",
+          "Dezhi Kong",
+          "Chunmei Li",
+          "Yishan Liu"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-06",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-06",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/geront/gnag235",
+        "doi": "10.1093/geront/gnag235",
+        "url": "https://doi.org/10.1093/geront/gnag235",
+        "title": "Exploring Experiences of Disempowerment in Older Adults with Chronic Illness: A Qualitative Study",
+        "authors": [
+          "Hau Yi Jodie Tse",
+          "Crystal Kwan",
+          "Daphne Sze Ki Cheung",
+          "Grace Wing Ka Ho"
+        ],
+        "abstract": "Abstract                                        Background and Objectives                     Disempowerment in the context of chronic illness refers to the state of dissatisfaction with diminishing opportunities to control personal lives, potentially leading to disengagement in health management and negative health outcomes. However, the experiences and perceptions of disempowerment in chronic illness among older adults are not fully understood. This study aims to explore the experiences and perceptions of disempowerment in older adults with chronic illness.                                                           Research Design and Methods                     Qualitative description was employed. From January to March 2025, individual face-to-face semi-structured interviews were conducted with 18 Cantonese-speaking older adults with chronic illness. Template analysis was used.                                                           Results                     Three themes emerged regarding the experiences of disempowerment: (1) confusion and uncertainty amid unexpected changes and unclear information, (2) struggles to manage their health in the way they would like, and (3) difficulty in living the life they had before or had hoped for. Negative feelings towards the experiences were also identified with indirect expression to others. The causes included: (1) irreversibly declining health and intrinsic capacity, (2) unmet expectations, and (3) age discrimination. The consequences involved: (1) disengaging the context of disempowerment by suppressing negative emotions, distancing themselves from care partners, and trying to overcome the situation, followed by (2) accepting or despairing over time.                                                           Discussion and Implications                     This study revealed the experiences and perceptions, causes and consequences of disempowerment in older adults with chronic illness. The tendency to indirectly express or suppress the negative feelings underscores a need for tailored strategies to better assess and address disempowerment in this population.",
+        "source": "The Gerontologist",
+        "issn": "0016-9013",
+        "date": "2026-10-05",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-06",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/geront/gnag234",
+        "doi": "10.1093/geront/gnag234",
+        "url": "https://doi.org/10.1093/geront/gnag234",
+        "title": "Scaling Caregiver Health and Wellbeing Coaching: A Mixed Methods Evaluation of Implementation and Sustainment in the Veterans Health Administration",
+        "authors": [
+          "Melissa Harris-Gersten",
+          "Colleen Blue",
+          "Yujung Choi",
+          "Olivia Whitt",
+          "Cassandra Dictus",
+          "Megan Shepherd-Banigan",
+          "Katherine Miller",
+          "Nadya Majette",
+          "Adrian Brown",
+          "Darrius McMillian",
+          "Pamela Birchett-Street",
+          "Kelli Essex",
+          "Courtney H Van Houtven",
+          "Imari Z Smith",
+          "Andrea L Nevedal"
+        ],
+        "abstract": "Abstract                                        Background and Objectives                     Effective and sustainable support for family caregivers is a growing priority, yet practical guidance for scaling promising coaching interventions into routine practice is limited. The objective of this evaluation was to identify organizational determinants, barriers, facilitators, and adaptations affecting national implementation of the Caregiver Health and Wellbeing Coaching (CHWC) program in the Veterans Health Administration.                                                           Research Design and Methods                     An explanatory, sequential mixed‑methods design included surveys of CHWC staff (n = 53) and qualitative interviews (n = 14), guided by the updated Consolidated Framework for Implementation Research, its Outcomes Addendum, and the Framework for Reporting Adaptations and Modifications‑Enhanced.                                                           Results                     Successful implementation—defined as program launch and delivery to at least one caregiver at each site—and successful sustainment—defined as ongoing or expanding delivery to new and returning caregivers—were associated with thorough planning, leadership engagement, and flexible delivery. Barriers included staff turnover, complex documentation, and challenges recruiting caregivers. Facilitators and process improvements were rapidly integrated into program operations.                                                           Discussion and Implications                     Findings can inform strategies to scale caregiver support programs that underpin sustainable aging and long-term care systems.",
+        "source": "The Gerontologist",
+        "issn": "0016-9013",
+        "date": "2026-10-05",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-06",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/geront/gnag237",
+        "doi": "10.1093/geront/gnag237",
+        "url": "https://doi.org/10.1093/geront/gnag237",
+        "title": "Re-Examining Age-Friendly Communities for Older People with Insecure Housing Histories",
+        "authors": [
+          "Rachel Weldrick",
+          "Sarah L Canham",
+          "Joe Humphries"
+        ],
+        "abstract": "Abstract                   In many countries, population aging and increasing rates of housing security among older people are unfolding simultaneously. While the World Health Organization's Age-Friendly Cities and Communities (AFCC) framework is largely considered the leading framework for developing age-supportive communities, it does not adequately account for the ways in which a community may be inclusive, supportive, or age-friendly for older people with lived experience of housing insecurity. This paper began with a question: What would an age-friendly community look like for older people with experiences of housing insecurity? Drawing on the Aging in the Right Place (AIRP) framework, a rights-based conceptual model of six indicators developed through community-based participatory research, this paper re-examines and extends each of the WHO AFCC framework's eight domains: housing, transportation, social participation, respect and social inclusion, civic participation, communication and information, community support and health services, and outdoor spaces and buildings. This paper argues that age-friendly approaches must recognize housing as a human right and housing security as a cornerstone of age-friendly communities, requiring protections including rent control, eviction prevention, and incentives for non-market housing development. Recommendations are offered for municipalities seeking to embed AIRP and rights-based perspectives into age-friendly strategies and evaluation.",
+        "source": "The Gerontologist",
+        "issn": "0016-9013",
+        "date": "2026-10-05",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-06",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70761",
+        "doi": "10.1111/jgs.70761",
+        "url": "https://doi.org/10.1111/jgs.70761",
+        "title": "What Comes Next? When and How Medicaid Home‐ and Community‐Based Services End",
+        "authors": [
+          "Emmaline Keesee",
+          "David Stevenson",
+          "Chanee D. Fabius",
+          "Laura M. Keohane"
+        ],
+        "abstract": "ABSTRACT                                        Background                     As Medicaid long‐term services and supports shift towards home‐and‐community‐based settings (HCBS), it is important to understand trajectories of HCBS use among older adults, including duration and living circumstances at cessation, to inform decisions about whether state Medicaid programs can afford to sustain or expand HCBS benefits.                                                           Methods                     This study examined determinants of HCBS episode duration and how they vary by status at cessation (community discharge, nursing home, or deceased). We used Southern Community Cohort Study (SCCS) data linked with Medicaid and Medicare claims to follow a cohort of older adults who initiated Medicaid‐funded HCBS in Southeastern states between 2006 and 2018. We calculated unadjusted incidence of cessation and modeled adjusted rate of cessation using Cox proportional hazard models to understand how demographic characteristics, Medicaid coverage, HCBS program, and health history related to cessation with community discharge, nursing home entry, and death.                                                           Results                                            Among older adults with 5 years of follow‐up (                       n                        = 591), 25.2% ended HCBS with community discharge, 16.2% with nursing home entry, and 26.2% with death. The remaining 32.3% still used HCBS. Across the entire sample (                       n                        = 1304), female cohort members had significantly lower rates of HCBS cessation (HR: 0.7, 95% CI: 0.6, 0.8), while individuals who were older (HR: 1.1, 95% CI: 1.0, 1.1), had more health conditions (HR: 1.1, 95% CI: 1.0, 1.1), or prior nursing home use (HR: 1.3, 95% CI: 1.0, 1.5) had higher rates of HCBS cessation. Individuals initiating HCBS use and Medicaid coverage at the same time had a lower rate of community discharge (HR: 0.7, 95% CI: 0.5, 0.9) than HCBS users with established Medicaid coverage.                                                                                Conclusions                     Extended duration of HCBS use was common across our sample, which may affect Medicaid's ability to fund HCBS programs. Policymakers should consider how care needs may vary when projecting how long older adults will access HCBS benefits.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-10-05",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-06",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08414-6",
+        "doi": "10.1186/s12877-026-08414-6",
+        "url": "https://doi.org/10.1186/s12877-026-08414-6",
+        "title": "Ageing with animals: a scoping review exploring pet inclusion for older adults through a socioecological lens",
+        "authors": [
+          "Carolyn Murray",
+          "Demi Germeroth",
+          "Carmel Nottle",
+          "Victor Krawczyk",
+          "Janette Young",
+          "Alyson J. Crozier"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-05",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-06",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08415-5",
+        "doi": "10.1186/s12877-026-08415-5",
+        "url": "https://doi.org/10.1186/s12877-026-08415-5",
+        "title": "Frailty trajectories from hospitalization to 12 months after discharge in older stroke survivors and their associations with intrinsic capacity: implications for geriatric nursing",
+        "authors": [
+          "Xin-Xin Tang",
+          "Qiu-Yue Tang",
+          "Li Liu",
+          "Bin-Bin Li",
+          "Jun Mei",
+          "Ling Yu"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-05",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-06",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08427-1",
+        "doi": "10.1186/s12877-026-08427-1",
+        "url": "https://doi.org/10.1186/s12877-026-08427-1",
+        "title": "Altered saccade control reveals executive dysfunction in late-life depression",
+        "authors": [
+          "Yao-Tung Lee",
+          "Ying-Hsuan Tai",
+          "Li-Kai Huang",
+          "Kuan-Yu Chen",
+          "Ta-Liang Chen",
+          "Chaowen Chen",
+          "Chin-An Wang"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-05",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-06",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08430-6",
+        "doi": "10.1186/s12877-026-08430-6",
+        "url": "https://doi.org/10.1186/s12877-026-08430-6",
+        "title": "Perioperative pharmacological prophylaxis of postoperative delirium after major orthopedic surgery in older adults: a systematic review and network meta-analysis of randomized controlled trials",
+        "authors": [
+          "Xiaoyu Yang",
+          "Xiaoning Jiang",
+          "Rui Xiao",
+          "Jichao Liu",
+          "Yaoyi Guo",
+          "Yuwei Ji",
+          "Fang Zhao",
+          "Fan Wang"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-05",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-06",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08170-7",
+        "doi": "10.1186/s12877-026-08170-7",
+        "url": "https://doi.org/10.1186/s12877-026-08170-7",
+        "title": "Loneliness among community-dwelling older adults during the early stage of the Covid-19 pandemic in Taiwan: exploring community-level and individual-level predictors",
+        "authors": [
+          "Honghui Pan",
+          "LiFan Liu"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-05",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-06",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08397-4",
+        "doi": "10.1186/s12877-026-08397-4",
+        "url": "https://doi.org/10.1186/s12877-026-08397-4",
+        "title": "The effect of empowerment based on 5 A model on fall self-efficacy, self-care and quality of life in older adults: a parallel randomized clinical trial",
+        "authors": [
+          "Ermia Maghsoodloo",
+          "Hossein Ebrahimi",
+          "Shahrbanoo Goli",
+          "Homeira Khoddam",
+          "Ali Dadgari"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-05",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-06",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08386-7",
+        "doi": "10.1186/s12877-026-08386-7",
+        "url": "https://doi.org/10.1186/s12877-026-08386-7",
+        "title": "Hospitalization in adults aged 75 years and older with type 2 diabetes: the role of kidney impairment and glycemic control",
+        "authors": [
+          "Bertin Magamba",
+          "Junmei Miao Jonasson",
+          "Louise Pettersson",
+          "Anders Halling",
+          "Björn Agvall"
+        ],
+        "abstract": "Abstract                                        Background                     Older adults aged ≥ 75 years with type 2 diabetes (T2D) experience high healthcare utilization, yet evidence on treatment patterns and outcomes in this age group is limited.                                                           Objective                     To assess associations between glycemic control, kidney function, and hospitalization among individuals aged ≥ 75 years with T2D.                                                           Methods                     Individuals aged ≥ 75 years with T2D were identified in 2018 using data from a population‑based healthcare database covering all levels of care in Region Halland. Healthcare utilization, including hospital admissions, hospital days, primary care encounters and mortality, was evaluated during 2019. Inclusion required at least one measurement of glycated hemoglobin (HbA1c) and estimated glomerular filtration rate (eGFR). Kidney function was classified by eGFR ≥ 60; 30–59; &lt;30 mL/min/1.73 m², and HbA1c as &lt; 52, 52–70, or &gt; 70 mmol/mol. Associations with hospital days were analyzed using Poisson regression adjusted for demographic, clinical, and treatment variables.                                                           Results                     The cohort comprised 1,446 individuals (49% women); 88 patients (6%) died during follow‑up. HbA1c was &lt; 52 mmol/mol in 43%, 52–70 mmol/mol in 45%, and &gt; 70 mmol/mol in 12%. CKD was common, with 56% classified as stage 3 and 10% as stage 4–5. Hospital days were higher among individuals with CKD stage 4–5 (RR 1.93, 95% CI:1.71–2.17) and HbA1c &gt; 70 mmol/mol (RR 1.44, 95% CI:1.28–1.61). Primary care encounters were frequent (physician visits: 4.6 [SD 3.7]; nurse visits: 9.0 [SD 9.3]) and associated with CKD but not with glucose dysregulation. Insulin use was associated with more hospital days, whereas metformin and incretin‑based therapy were associated with fewer.                                                           Conclusions                     In adults aged ≥ 75 years with T2D, hospitalization burden was substantial and was associated with advanced CKD and poor glycemic control, while primary care encounters were frequent. These findings demonstrate an association between kidney function, glycemic status, and healthcare utilization in older adults with T2D.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-05",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-06",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1111/jgs.70760",
         "doi": "10.1111/jgs.70760",
         "url": "https://doi.org/10.1111/jgs.70760",
@@ -29656,6 +30080,80 @@
           "socialWork"
         ],
         "firstSeen": "2026-10-04",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.socscimed.2026.119908",
+        "doi": "10.1016/j.socscimed.2026.119908",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.119908",
+        "title": "Enacting the body multiple: Wellness strategies among younger adults under biopolitical health governance and accelerated study–labour regimes",
+        "authors": [
+          "Haiyan Gao",
+          "Jiayue Zhao",
+          "Jingru Zhao"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-06",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.socscimed.2026.119916",
+        "doi": "10.1016/j.socscimed.2026.119916",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.119916",
+        "title": "“Their Body Is Their Territory”: Reproductive Autonomy and Governance by Omission in Peru",
+        "authors": [
+          "Maria A. Carrasco",
+          "Amanda Cordova-Gomez",
+          "Angela Sartur",
+          "Deborah Horowitz",
+          "Milka Dinev"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-06",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.jhealeco.2026.103189",
+        "doi": "10.1016/j.jhealeco.2026.103189",
+        "url": "https://doi.org/10.1016/j.jhealeco.2026.103189",
+        "title": "Beyond targeting women: Intrahousehold contexts and the effectiveness of food vouchers",
+        "authors": [
+          "Seollee Park",
+          "Yaeeun Han",
+          "Hyuncheol Bryant Kim"
+        ],
+        "abstract": "",
+        "source": "Journal of Health Economics",
+        "issn": "0167-6296",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "socialSecurity",
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-06",
         "fetched_from": "crossref"
       },
       {
@@ -35824,6 +36322,303 @@
         "fetched_from": "crossref"
       },
       {
+        "id": "doi:10.1001/jama.2026.18028",
+        "doi": "10.1001/jama.2026.18028",
+        "url": "https://doi.org/10.1001/jama.2026.18028",
+        "title": "Federal Right to Try 2.0—The Wrong Approach for Investigational Individualized Treatments",
+        "authors": [
+          "Holly Fernandez Lynch",
+          "Steven Joffe",
+          "Rebecca Ahrens-Nicklas",
+          "Kiran Musunuru"
+        ],
+        "abstract": "This Viewpoint discusses investigational individualized treatments and outlines issues with the approach of the Right to Try for Individualized Treatments Act, or Right to Try 2.0.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-05",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-06",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.17126",
+        "doi": "10.1001/jama.2026.17126",
+        "url": "https://doi.org/10.1001/jama.2026.17126",
+        "title": "Medicare and Bureau of Health Workforce and Funded Primary Care Residency Positions—Reply",
+        "authors": [
+          "Tarun Ramesh",
+          "Hao Yu"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-05",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-06",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.17345",
+        "doi": "10.1001/jama.2026.17345",
+        "url": "https://doi.org/10.1001/jama.2026.17345",
+        "title": "Smoking Cessation Among Underserved Patients Referred for Lung Cancer Screening",
+        "authors": [],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-05",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-06",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.18171",
+        "doi": "10.1001/jama.2026.18171",
+        "url": "https://doi.org/10.1001/jama.2026.18171",
+        "title": "Heat-Related Mortality in Working-Age Adults by Occupation and Industry",
+        "authors": [
+          "Jonathan J. Szeto",
+          "Rabeea F. Khan",
+          "Sean Hennessy",
+          "Sameed Ahmed M. Khatana"
+        ],
+        "abstract": "This study uses a US nationwide surveillance system to examine heat-related mortality across occupation and industry sectors in 2021-2023 among individuals aged 16 to 64 years.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-05",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-06",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.16113",
+        "doi": "10.1001/jama.2026.16113",
+        "url": "https://doi.org/10.1001/jama.2026.16113",
+        "title": "Low-Dose Rivaroxaban, Cardiovascular Events, and Kidney Disease—Reply",
+        "authors": [
+          "Sunil V. Badve",
+          "An S. De Vriese",
+          "Martin Gallagher"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-05",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-06",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.17144",
+        "doi": "10.1001/jama.2026.17144",
+        "url": "https://doi.org/10.1001/jama.2026.17144",
+        "title": "Opportunities and Challenges in Tobacco Treatment",
+        "authors": [
+          "Hasmeena Kathuria",
+          "Michael C. Fiore",
+          "Danielle E. McCarthy"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-05",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-06",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.16110",
+        "doi": "10.1001/jama.2026.16110",
+        "url": "https://doi.org/10.1001/jama.2026.16110",
+        "title": "Low-Dose Rivaroxaban, Cardiovascular Events, and Kidney Disease",
+        "authors": [
+          "Paolo Coppi"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-05",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-06",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.17192",
+        "doi": "10.1001/jama.2026.17192",
+        "url": "https://doi.org/10.1001/jama.2026.17192",
+        "title": "Smoking Cessation Among Underserved Patients Referred for Lung Cancer Screening",
+        "authors": [
+          "Joanna L. Hart",
+          "Anil Vachani",
+          "Christine M. Neslund-Dudas",
+          "Michael K. Gould",
+          "Matthew A. Facktor",
+          "Shira Blady",
+          "Brian A. Bayes",
+          "Dorothy Sheu",
+          "Vanessa L. Madden",
+          "Emma Britez Ferrante",
+          "Nirali Patel",
+          "Jenny Tian",
+          "Casey Whitman",
+          "Beth Creekmur",
+          "Rachel Kohn",
+          "Michael J. Simoff",
+          "Kevin G. Volpp",
+          "Dylan Small",
+          "Michael E. Scott",
+          "Amanda L. Holm",
+          "Alisa J. Stephens Shields",
+          "Scott D. Halpern"
+        ],
+        "abstract": "Importance                     The Centers for Medicare &amp;amp;amp; Medicaid Services requires that health systems offer smoking cessation services to patients undergoing lung cancer screening. However, the most effective methods to achieve smoking cessation among medically underserved patients undergoing lung cancer screening are unknown.                                                           Objective                     To compare the effectiveness of 4 strategies for promoting smoking cessation among medically underserved persons referred for lung cancer screening.                                                           Design, Setting, and Participants                     This randomized clinical trial included currently smoking individuals referred for lung cancer screening at 4 US health systems (5 centers) who identified as Black, Hispanic, living in a rural area, or being of low socioeconomic status. The first participant was enrolled on May 17, 2021, and the date of last follow-up was April 29, 2025.                                                           Intervention                     Patients were randomized to 1 of 4 groups. Participants received either an ask-advise-refer strategy to smoking cessation services (usual care); usual care plus free pharmacotherapy (ie, nicotine replacement and reimbursement for varenicline or bupropion); usual care, free pharmacotherapy, and financial incentives up to $600 contingent on biochemically confirmed smoking cessation; or usual care, free pharmacotherapy, and financial incentives plus a mobile health tool motivating patients to think about their future health.                                                           Main Outcomes and Measures                     The primary end point was biochemically confirmed, sustained tobacco abstinence through 6 months, measured with cotinine, anabasine, or carboxyhemoglobin.                                                           Results                                            Of the 9963 patients assessed for eligibility, 3259 patients were randomized and 3220 were included in the primary analysis. The median (IQR) age was 61.1 (56.6-66.0) years, 1948 (60.3%) were female, 823 (25.5%) were Black, 287 (8.9%) were Hispanic, 1251 (38.8%) lived in rural areas, 1519 (74.9%) had low socioeconomic status, and 1792 (55.5%) reported smoking more than 10 cigarettes per day at enrollment. Sustained tobacco abstinence rates through 6 months were 4.3% with usual care, 5.1% with the addition of pharmacotherapy, 8.8% with the addition of financial incentives, and 7.2% with the addition of mobile health tool. Adding financial incentives increased the adjusted rate of sustained tobacco abstinence compared with usual care (difference, 4.6% [95% CI, 2.1%-7.0%];                       P                        &amp;amp;lt; .001) and usual care plus free pharmacotherapy (difference, 4.1% [95% CI, 1.7%-6.4%];                       P                        &amp;amp;lt; .001). Adding free pharmacotherapy to ask-advise-refer was not superior to ask-advise-refer alone (difference, 0.5% [95% CI, −1.7% to 2.6%];                       P                        = .66).                                                                                Conclusions and Relevance                     Among medically underserved adults who currently smoked cigarettes and were referred for lung cancer screening, rates of sustained tobacco abstinence were higher through 6 months with addition of financial incentives compared with ask-advise-refer alone or with addition of free pharmacotherapy.                                                           Trial Registration                                            ClinicalTrials.gov Identifier:                       NCT04798664",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-05",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-06",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.17123",
+        "doi": "10.1001/jama.2026.17123",
+        "url": "https://doi.org/10.1001/jama.2026.17123",
+        "title": "Medicare and Bureau of Health Workforce and Funded Primary Care Residency Positions",
+        "authors": [
+          "Rachael W. Hayes",
+          "Isaac P. Dapkins"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-05",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-06",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1097/ede.0000000000002054",
+        "doi": "10.1097/ede.0000000000002054",
+        "url": "https://doi.org/10.1097/ede.0000000000002054",
+        "title": "Long-term exposure to ultrafine particles and mortality from neurodegenerative diseases: a population-based cohort study",
+        "authors": [
+          "Emmanuelle Batisse",
+          "Marshall Lloyd",
+          "Christel Renoux",
+          "Arman Ganji",
+          "Junshi Xu",
+          "Marianne Hatzopoulou",
+          "Scott Weichenthal",
+          "Jill Baumgartner"
+        ],
+        "abstract": "Background:                     Transportation and industrial activities emit large quantities of air pollutants, including unregulated ultrafine particles (UFP, &lt;0.1 um), which may adversely affect brain health.                                                           Methods:                     We analyzed data from 2.1 million adults in the Canadian Census Health and Environment Cohorts (CanCHECs) living in Montreal and Toronto (2001-2019). Vital status and primary cause of death were obtained from the Canadian Vital Statistics- Death database. We assigned high-resolution estimates of UFP number concentrations and UFP size to participants’ residential postal codes using three-year moving averages. Cox proportional hazards models were used to estimates hazard ratios (HRs) between long-term outdoor UFP number concentrations and mortality from dementia, Parkinson’s disease, and amyotrophic lateral sclerosis. We further examined associations by dementia sub-types including Alzheimer’s disease, vascular dementia and unspecified dementia. Models were used with and without inverse probability of censoring weights for competing events, and adjusted for UFP size, sociodemographic factors, and co-pollutants.                                                           Findings:                                            Over 19 million person-years, we identified 20,560 deaths from neurodegenerative diseases. Each 10,000 particle/cm                       3                       increase in UFP number concentrations was associated with increased dementia mortality (HR = 1.22, 95% CI: 1.17–1.27), with stronger associations observed after adjusting for UFP size. Positive associations were observed for all dementia subtypes, with the largest for vascular dementia (HR = 1.49, 95% CI: 1.27–1.76). We did not observe effects of UFP on mortality from Parkinson’s disease or amyotrophic lateral sclerosis.                                                                                Interpretation:                     Long-term exposure to outdoor UFPs may contribute to mortality from specific neurodegenerative diseases, particularly dementia. Reducing population exposures to these unregulated pollutants could help mitigate the burden of neurodegenerative mortality.",
+        "source": "Epidemiology",
+        "issn": "1044-3983",
+        "date": "2026-10-05",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-06",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag242",
+        "doi": "10.1093/aje/kwag242",
+        "url": "https://doi.org/10.1093/aje/kwag242",
+        "title": "Correction: Effects of two community violence interruption programs on firearm violence in Washington, DC",
+        "authors": [],
+        "abstract": "",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-10-05",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-06",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag238",
+        "doi": "10.1093/aje/kwag238",
+        "url": "https://doi.org/10.1093/aje/kwag238",
+        "title": "Adapting the prevalent new-user study design and clone-censor-weighting approach to evaluate drug discontinuation",
+        "authors": [
+          "Qoua Her",
+          "Til Stürmer",
+          "Robert J Glynn",
+          "Emilie Duchesneau",
+          "Tiansheng Wang",
+          "Charles Poole",
+          "Jennifer Leigh Lund",
+          "Michael Webster-Clark"
+        ],
+        "abstract": "Abstract                   We described how to adapt the prevalent new user (PNU) study design to estimate the effect of drug discontinuation among patients who discontinue and clone-censor-weighting (CCW) approach to estimate the effect of drug discontinuation among an eligible population at a pre-specified time point, focusing on the differences between the target trials the two approaches emulate. While both approaches produced unbiased estimates of the effect of drug discontinuation when all confounders were adjusted for in simulations, the true estimands differed, particularly when treatment effect heterogeneity was introduced. We also applied the approaches to study the effect of statin discontinuation among United States Medicare beneficiaries who discontinued statin therapy after at least 5 years (PNU) or at approximately 5 years (CCW) of continuous use. The PNU analysis estimated a mortality rate difference (MRD) of 3.6 (95% CI, 3.3-3.9) per 100 person-years and a mortality rate ratio (MRR) of 1.41 (95% CI, 1.37-1.45), while the CCW analysis estimated a MRD of 3.4 (95% CI, 2.8-4.0) per 100 person-years and MRR of 1.55 (1.45-1.66). Researchers studying drug discontinuation should carefully consider their causal question and target population when choosing between these two newer approaches.",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-10-05",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-06",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag250",
+        "doi": "10.1093/aje/kwag250",
+        "url": "https://doi.org/10.1093/aje/kwag250",
+        "title": "Estimation of the relative effectiveness and waning of the monovalent third dose of COVID-19 vaccine against hospital admission in France: a novel self-controlled case series analysis",
+        "authors": [
+          "Jérémie Botton",
+          "Yonas Ghebremichael-Weldeselassie",
+          "Mounia Nacima Hocine",
+          "Paddy Farrington"
+        ],
+        "abstract": "Abstract                   We present a novel application of the SCCS method for estimating the effectiveness and waning of the third dose of COVID-19 monovalent vaccine in France. We used data on individuals hospitalised for COVID-19 between September 2021 and February 2022 from the Système National des Données de Santé. Only cases having received a 3rd dose of COVID-19 vaccine prior to or on the day of hospitalisation were included in the analysis. We developed a new SCCS model including only time post-dose 3 vaccination, with reference period 24—65 days post-vaccination to capture maximum vaccine protection. Time was split into short-term and long-term post-vaccination risk periods, including days 4—9 corresponding to minimum protection, and successive 7-day windows from day 66 post vaccination. The model included two exposure variables, representing short-term and long-term effects of vaccination. The analysis confirms the relative effectiveness of the third-dose COVID-19 vaccination, the waning of vaccine immunity though of limited extent, and possible effect modification related to virus strain, vaccine, vaccination history, age, and sex. The strengths and weaknesses of this approach are discussed. Suitably applied, the SCCS method may provide a useful method of analysis of vaccine effectiveness which automatically controls for time-invariant confounders.",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-10-05",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-06",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1056/nejmicm2607595",
         "doi": "10.1056/nejmicm2607595",
         "url": "https://doi.org/10.1056/nejmicm2607595",
@@ -35919,6 +36714,29 @@
           "healthReform"
         ],
         "firstSeen": "2026-10-04",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag246",
+        "doi": "10.1093/aje/kwag246",
+        "url": "https://doi.org/10.1093/aje/kwag246",
+        "title": "A response to Francis and Wesselink’s “measuring structural racism in neighborhoods”",
+        "authors": [
+          "Abigail L Kappelman",
+          "Annie Ro",
+          "Belinda L Needham",
+          "Nancy L Fleischer"
+        ],
+        "abstract": "",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-10-03",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-06",
         "fetched_from": "crossref"
       },
       {
@@ -42144,6 +42962,1064 @@
           "agingHealth"
         ],
         "firstSeen": "2026-10-05",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.socscimed.2026.119908",
+        "doi": "10.1016/j.socscimed.2026.119908",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.119908",
+        "title": "Enacting the body multiple: Wellness strategies among younger adults under biopolitical health governance and accelerated study–labour regimes",
+        "authors": [
+          "Haiyan Gao",
+          "Jiayue Zhao",
+          "Jingru Zhao"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-06",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.socscimed.2026.119916",
+        "doi": "10.1016/j.socscimed.2026.119916",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.119916",
+        "title": "“Their Body Is Their Territory”: Reproductive Autonomy and Governance by Omission in Peru",
+        "authors": [
+          "Maria A. Carrasco",
+          "Amanda Cordova-Gomez",
+          "Angela Sartur",
+          "Deborah Horowitz",
+          "Milka Dinev"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-06",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.jhealeco.2026.103189",
+        "doi": "10.1016/j.jhealeco.2026.103189",
+        "url": "https://doi.org/10.1016/j.jhealeco.2026.103189",
+        "title": "Beyond targeting women: Intrahousehold contexts and the effectiveness of food vouchers",
+        "authors": [
+          "Seollee Park",
+          "Yaeeun Han",
+          "Hyuncheol Bryant Kim"
+        ],
+        "abstract": "",
+        "source": "Journal of Health Economics",
+        "issn": "0167-6296",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "socialSecurity",
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-06",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1377/hlthaff.2025.01424",
+        "doi": "10.1377/hlthaff.2025.01424",
+        "url": "https://doi.org/10.1377/hlthaff.2025.01424",
+        "title": "Dementia Care Patterns In The US Vary By Clinician Type: Evidence From A National Workforce Study, 2024–25",
+        "authors": [
+          "Sumedha Gupta",
+          "Rushil Zutshi",
+          "Kosali Simon",
+          "John R. Bowblis"
+        ],
+        "abstract": "",
+        "source": "Health Affairs",
+        "issn": "0278-2715",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-06",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1377/hlthaff.2025.01531",
+        "doi": "10.1377/hlthaff.2025.01531",
+        "url": "https://doi.org/10.1377/hlthaff.2025.01531",
+        "title": "Provider-Sponsored Health Plans Negotiated Lower Prices For Health Services Compared With Traditional Insurers, 2024",
+        "authors": [
+          "Mitchell Mead",
+          "Cody Lendon Mullens",
+          "Adrian Diaz",
+          "Andrew M. Ibrahim"
+        ],
+        "abstract": "",
+        "source": "Health Affairs",
+        "issn": "0278-2715",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-06",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1377/hlthaff.2025.01697",
+        "doi": "10.1377/hlthaff.2025.01697",
+        "url": "https://doi.org/10.1377/hlthaff.2025.01697",
+        "title": "Childhood Housing Assistance Associated With Lower Rates Of Adult Diabetes And Hypertension, 1970–2021",
+        "authors": [
+          "Jeffrey D. Colvin",
+          "Isabella Zaniletti",
+          "Kirk McClure",
+          "Matt Hall",
+          "Donna Ginther",
+          "Jordan A. Carlson",
+          "Narayan Sastry",
+          "Paul J. Chung"
+        ],
+        "abstract": "",
+        "source": "Health Affairs",
+        "issn": "0278-2715",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-06",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1377/hlthaff.2025.01724",
+        "doi": "10.1377/hlthaff.2025.01724",
+        "url": "https://doi.org/10.1377/hlthaff.2025.01724",
+        "title": "Charting A Path Forward For Medicare Advantage: Expert Consensus On Policy Priorities And Trade-Offs",
+        "authors": [
+          "Dmitry Khodyakov",
+          "Erin A. Taylor",
+          "Christine Buttorff",
+          "Hannah James",
+          "Melony E. Sorbero",
+          "Rachel O. Reid",
+          "Michael Dworsky"
+        ],
+        "abstract": "",
+        "source": "Health Affairs",
+        "issn": "0278-2715",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-06",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1377/hlthaff.2025.01733",
+        "doi": "10.1377/hlthaff.2025.01733",
+        "url": "https://doi.org/10.1377/hlthaff.2025.01733",
+        "title": "Criminal Legal Referrals Were Associated With Delayed Substance Use Treatment, Disparity By Housing Status",
+        "authors": [
+          "Anna C. Holdiman",
+          "Dale S. Mantey",
+          "Tim Mercer",
+          "Alexander Testa",
+          "Shreya Jain",
+          "John Embers-Weems",
+          "Kasey Claborn",
+          "Justin Benzer"
+        ],
+        "abstract": "",
+        "source": "Health Affairs",
+        "issn": "0278-2715",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-06",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1377/hlthaff.2025.01749",
+        "doi": "10.1377/hlthaff.2025.01749",
+        "url": "https://doi.org/10.1377/hlthaff.2025.01749",
+        "title": "Accessing Cancer Screening As A Person With Quadriplegia",
+        "authors": [
+          "Sharifa Abu-Hamda"
+        ],
+        "abstract": "",
+        "source": "Health Affairs",
+        "issn": "0278-2715",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-06",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1377/hlthaff.2025.01752",
+        "doi": "10.1377/hlthaff.2025.01752",
+        "url": "https://doi.org/10.1377/hlthaff.2025.01752",
+        "title": "Health Care Use Among Children With Hispanic Parents Declined After Shifts In US Immigration Policy In 2018",
+        "authors": [
+          "Jordan Herring",
+          "Indira Ghandi Islas",
+          "Maria Portela Martinez"
+        ],
+        "abstract": "",
+        "source": "Health Affairs",
+        "issn": "0278-2715",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-06",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1377/hlthaff.2026.00122",
+        "doi": "10.1377/hlthaff.2026.00122",
+        "url": "https://doi.org/10.1377/hlthaff.2026.00122",
+        "title": "Supplemental Rebates From Drug Makers To State Medicaid Programs Grew Fivefold From 2017 To 2024",
+        "authors": [
+          "Max C. Yates",
+          "Jason B. Gibbons",
+          "Aaron S. Kesselheim",
+          "Benjamin N. Rome"
+        ],
+        "abstract": "",
+        "source": "Health Affairs",
+        "issn": "0278-2715",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-06",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1377/hlthaff.2026.00197",
+        "doi": "10.1377/hlthaff.2026.00197",
+        "url": "https://doi.org/10.1377/hlthaff.2026.00197",
+        "title": "American Indian And Alaska Native Underrepresentation In US Health Professions",
+        "authors": [
+          "Nicole Stern",
+          "Maria Portela Martinez",
+          "Finn Dobkin",
+          "Edward Salsberg"
+        ],
+        "abstract": "",
+        "source": "Health Affairs",
+        "issn": "0278-2715",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-06",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1377/hlthaff.2026.00207",
+        "doi": "10.1377/hlthaff.2026.00207",
+        "url": "https://doi.org/10.1377/hlthaff.2026.00207",
+        "title": "Slower Price Growth, Modest Utilization Increases Drove Slowdown In US Health Care Spending Growth, 2014–19",
+        "authors": [
+          "Nikhil R. Sahni",
+          "Vishnu Murale",
+          "Heather Bello Thornhill",
+          "David M. Cutler"
+        ],
+        "abstract": "",
+        "source": "Health Affairs",
+        "issn": "0278-2715",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-06",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1377/hlthaff.2026.00257",
+        "doi": "10.1377/hlthaff.2026.00257",
+        "url": "https://doi.org/10.1377/hlthaff.2026.00257",
+        "title": "Net Prescription Drug Prices And Spending In Medicare Part D Before And After Generic Entry",
+        "authors": [
+          "Scott Laughery",
+          "Colin Baker",
+          "Rachel Fehr"
+        ],
+        "abstract": "",
+        "source": "Health Affairs",
+        "issn": "0278-2715",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-06",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1377/hlthaff.2026.00282",
+        "doi": "10.1377/hlthaff.2026.00282",
+        "url": "https://doi.org/10.1377/hlthaff.2026.00282",
+        "title": "Spending Growth In A Large Massachusetts Insurer Driven By Volume And Intensity",
+        "authors": [
+          "Michael E. Chernew",
+          "Matthew P. Day",
+          "David M. Cutler",
+          "Michael Guerriere"
+        ],
+        "abstract": "",
+        "source": "Health Affairs",
+        "issn": "0278-2715",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-06",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1377/hlthaff.2026.00414",
+        "doi": "10.1377/hlthaff.2026.00414",
+        "url": "https://doi.org/10.1377/hlthaff.2026.00414",
+        "title": "Systematic Review Of US Health Care Safety-Net Definitions",
+        "authors": [
+          "Danielle S. Browne",
+          "Jennifer R. Cardin",
+          "Yixin Tang",
+          "Paula Chatterjee",
+          "Amol S. Navathe",
+          "Joshua M. Liao"
+        ],
+        "abstract": "",
+        "source": "Health Affairs",
+        "issn": "0278-2715",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-06",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1377/hlthaff.2026.00483",
+        "doi": "10.1377/hlthaff.2026.00483",
+        "url": "https://doi.org/10.1377/hlthaff.2026.00483",
+        "title": "AI-Assisted Insurance Denial Appeals: Possible Consequences",
+        "authors": [
+          "Henry Bair"
+        ],
+        "abstract": "",
+        "source": "Health Affairs",
+        "issn": "0278-2715",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-06",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1377/hlthaff.2026.00904",
+        "doi": "10.1377/hlthaff.2026.00904",
+        "url": "https://doi.org/10.1377/hlthaff.2026.00904",
+        "title": "Medicaid Asset Limits And Enrollment",
+        "authors": [
+          "Stephen Arthur Moses"
+        ],
+        "abstract": "",
+        "source": "Health Affairs",
+        "issn": "0278-2715",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-06",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1377/hlthaff.2026.01341",
+        "doi": "10.1377/hlthaff.2026.01341",
+        "url": "https://doi.org/10.1377/hlthaff.2026.01341",
+        "title": "Medicaid Asset Limits And Enrollment: The Authors Reply",
+        "authors": [
+          "Andrew Anderson",
+          "Catherine K. Ettman"
+        ],
+        "abstract": "",
+        "source": "Health Affairs",
+        "issn": "0278-2715",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-06",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1377/hlthaff.2026.01466",
+        "doi": "10.1377/hlthaff.2026.01466",
+        "url": "https://doi.org/10.1377/hlthaff.2026.01466",
+        "title": "Erratum",
+        "authors": [],
+        "abstract": "",
+        "source": "Health Affairs",
+        "issn": "0278-2715",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-06",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1377/hlthaff.2026.01506",
+        "doi": "10.1377/hlthaff.2026.01506",
+        "url": "https://doi.org/10.1377/hlthaff.2026.01506",
+        "title": "Price Negotiations, Health Care Spending, And More",
+        "authors": [
+          "Donald E. Metz",
+          "The Editorial Staff"
+        ],
+        "abstract": "",
+        "source": "Health Affairs",
+        "issn": "0278-2715",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-06",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.jval.2025.07.023",
+        "doi": "10.1016/j.jval.2025.07.023",
+        "url": "https://doi.org/10.1016/j.jval.2025.07.023",
+        "title": "“Adrift From the World”: Exploring the Lived Experiences of Individuals Affected by an Inherited Optic Neuropathy in the United Kingdom—A Qualitative Study",
+        "authors": [
+          "Benson S. Chen",
+          "Chloe Seikus",
+          "James Ferguson",
+          "Valerija Tadić",
+          "Mike Horton",
+          "Patrick Yu-Wai-Man",
+          "Stephanie Archer"
+        ],
+        "abstract": "",
+        "source": "Value in Health",
+        "issn": "1098-3015",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-06",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.jval.2025.11.021",
+        "doi": "10.1016/j.jval.2025.11.021",
+        "url": "https://doi.org/10.1016/j.jval.2025.11.021",
+        "title": "Developing Meaningful Score Differences for the Bayley-4 and Vineland-3 in Angelman Syndrome Using a Delphi Panel",
+        "authors": [
+          "Sonya Powers",
+          "Katherine N. Anderson",
+          "Wen-Hann Tan",
+          "Julian Tillmann",
+          "Mark Daniel",
+          "Audrey Thurm",
+          "Cristan Farmer",
+          "Susanne Clinch",
+          "Anne C. Wheeler",
+          "Anjali Sadhwani",
+          "Angela Gwaltney",
+          "Sarah Nelson Potter",
+          "Lisa Squassante",
+          "Jorrit Tjeertes",
+          "Brenda Vincenzi",
+          "Katalin Buzasi"
+        ],
+        "abstract": "",
+        "source": "Value in Health",
+        "issn": "1098-3015",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-06",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.jval.2026.02.002",
+        "doi": "10.1016/j.jval.2026.02.002",
+        "url": "https://doi.org/10.1016/j.jval.2026.02.002",
+        "title": "Caregiver Meaningful Score Differences and Meaningful Score Regions for the Observer-Reported Communication Ability Measure for Individuals with Angelman Syndrome",
+        "authors": [
+          "Abigail Rader",
+          "Li Lin",
+          "Anjali Sadhwani",
+          "Nicole Lucas",
+          "Harrison N. Jones",
+          "Allyson Berent",
+          "Batsheva Friedman",
+          "Kelly Gordon",
+          "Wen-Hann Tan",
+          "Bryce B. Reeve",
+          "Alexa Namestnik",
+          "Preetha Ramachandran"
+        ],
+        "abstract": "",
+        "source": "Value in Health",
+        "issn": "1098-3015",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-06",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.jval.2026.04.001",
+        "doi": "10.1016/j.jval.2026.04.001",
+        "url": "https://doi.org/10.1016/j.jval.2026.04.001",
+        "title": "Patient Preferences, Perceptions, and Influencing Factors in Weight Loss Pharmacotherapy and Bariatric Surgery: A Systematic Literature Review",
+        "authors": [
+          "Kenechukwu C. Ben-Umeh",
+          "Chia Jie Tan",
+          "Juliana S. Simonetti",
+          "Joseph F. Levy",
+          "Daniel M. Witt",
+          "T. Joseph Mattingly"
+        ],
+        "abstract": "",
+        "source": "Value in Health",
+        "issn": "1098-3015",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-06",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.jval.2026.03.2248",
+        "doi": "10.1016/j.jval.2026.03.2248",
+        "url": "https://doi.org/10.1016/j.jval.2026.03.2248",
+        "title": "Modeling Approaches to the Economic Evaluation of Microelimination Strategies for Hepatitis C Virus in High-Risk Populations",
+        "authors": [
+          "Ying Chen",
+          "Yun Bao",
+          "Yueting Chen",
+          "Mengxia Yan",
+          "Kaijie Yao",
+          "Wen Li",
+          "Bin Wu"
+        ],
+        "abstract": "",
+        "source": "Value in Health",
+        "issn": "1098-3015",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-06",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.jval.2026.04.012",
+        "doi": "10.1016/j.jval.2026.04.012",
+        "url": "https://doi.org/10.1016/j.jval.2026.04.012",
+        "title": "How Much Change Is Meaningful in Global Impression Anchors? Evidence From 5 Rare Diseases",
+        "authors": [
+          "Courtney Hurt",
+          "Maja Kuharic",
+          "Somayeh Hashemi",
+          "Eloise Salmon",
+          "Sonya Eremenco",
+          "David Cella",
+          "Karen Kaiser",
+          "Chelsea Perschon",
+          "Sara Shaunfield",
+          "John Devin Peipert"
+        ],
+        "abstract": "",
+        "source": "Value in Health",
+        "issn": "1098-3015",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-06",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.jval.2026.04.013",
+        "doi": "10.1016/j.jval.2026.04.013",
+        "url": "https://doi.org/10.1016/j.jval.2026.04.013",
+        "title": "The Exchangeability Assumption in Network Meta-Analysis: Its Meaning and Evaluation",
+        "authors": [
+          "Yu-Kang Tu",
+          "James S. Hodges"
+        ],
+        "abstract": "",
+        "source": "Value in Health",
+        "issn": "1098-3015",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-06",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.jval.2026.05.001",
+        "doi": "10.1016/j.jval.2026.05.001",
+        "url": "https://doi.org/10.1016/j.jval.2026.05.001",
+        "title": "Estimating EQ-5D-5L Quality-Adjusted Life-Year Weights From 12-item General Health Questionnaire Mental Health Data: A Large Sample Exploration of 4 Mapping Methods",
+        "authors": [
+          "Zhuxin Mao",
+          "Joke Bilcke",
+          "Koen Pepermans",
+          "Philippe Beutels"
+        ],
+        "abstract": "",
+        "source": "Value in Health",
+        "issn": "1098-3015",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-06",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.jval.2026.05.004",
+        "doi": "10.1016/j.jval.2026.05.004",
+        "url": "https://doi.org/10.1016/j.jval.2026.05.004",
+        "title": "Cost-Effectiveness of Conditional Cash Transfers With Pre- and Posttest Tuberculosis Counseling in South Africa: A Modeling Analysis",
+        "authors": [
+          "Lara Goscé",
+          "Elena Venero Garcia",
+          "Kasim Allel",
+          "Judith Mwansa-Kambafwile",
+          "Shabir A. Madhi",
+          "Shaheed Vally Omar",
+          "Harry Moultrie",
+          "Nazir Ahmed Ismail",
+          "Rein M.G.J. Houben",
+          "Ibrahim Abubakar",
+          "Tomos O. Prys-Jones",
+          "Alvaro Schwalb",
+          "Martin J. Harker",
+          "Katherine C. Horton",
+          "Lily O’Brien",
+          "Tom Sumner",
+          "Roel Bakker",
+          "Richard G. White",
+          "Hassan Haghparast Bidgoli",
+          "Andrew Copas",
+          "Molebogeng X. Rangaka"
+        ],
+        "abstract": "",
+        "source": "Value in Health",
+        "issn": "1098-3015",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-06",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.jval.2026.05.005",
+        "doi": "10.1016/j.jval.2026.05.005",
+        "url": "https://doi.org/10.1016/j.jval.2026.05.005",
+        "title": "Evaluating Treatment Sequences in Major Depressive Disorder Using an Open-Source Health Economic Model Based on Stakeholder and Patient Engagement",
+        "authors": [
+          "Alice Kate Cummings Joyner",
+          "Richard H. Chapman",
+          "Yuan-Yuan Michelle Cheng",
+          "Richard Xie",
+          "Larragem Parsley-Raines",
+          "Jennifer Bright",
+          "Warren Stevens"
+        ],
+        "abstract": "",
+        "source": "Value in Health",
+        "issn": "1098-3015",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-06",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.jval.2026.05.008",
+        "doi": "10.1016/j.jval.2026.05.008",
+        "url": "https://doi.org/10.1016/j.jval.2026.05.008",
+        "title": "The Monetary Value of Health and Health Behaviors in Japan: A Well-Being Valuation Approach",
+        "authors": [
+          "Kenjiro Kawaguchi",
+          "Hiroki Takeuchi",
+          "Atsushi Nakagomi",
+          "Kazushige Ide",
+          "Katsunori Kondo"
+        ],
+        "abstract": "",
+        "source": "Value in Health",
+        "issn": "1098-3015",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-06",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.jval.2026.05.010",
+        "doi": "10.1016/j.jval.2026.05.010",
+        "url": "https://doi.org/10.1016/j.jval.2026.05.010",
+        "title": "Cost-Effectiveness of Remote Cognitive-Behavioral-Based Therapy for Chronic Pain Among People With High-Impact Chronic Pain",
+        "authors": [
+          "John F. Dickerson",
+          "Maureen O’Keeffe-Rosetti",
+          "Meghan Mayhew",
+          "Andrea J. Cook",
+          "Robert D. Wellman",
+          "Francis J. Keefe",
+          "Christine Rini",
+          "Ashli A. Owen-Smith",
+          "Michael Von Korff",
+          "Lynn L. DeBar"
+        ],
+        "abstract": "",
+        "source": "Value in Health",
+        "issn": "1098-3015",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-06",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.jval.2026.05.009",
+        "doi": "10.1016/j.jval.2026.05.009",
+        "url": "https://doi.org/10.1016/j.jval.2026.05.009",
+        "title": "Development and Validation of an Artificial Intelligence Tool for Automated Population, Intervention, Comparator, Outcome Scoping for the European Joint Clinical Assessment: A Proof of Concept",
+        "authors": [
+          "Bart-Jan Boverhof",
+          "Nikos Takatzoglou",
+          "Ken Redekop",
+          "Carin Uyl-de Groot",
+          "Jacob Jan Visser",
+          "Maureen Rutten-van Mölken"
+        ],
+        "abstract": "",
+        "source": "Value in Health",
+        "issn": "1098-3015",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-06",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.jval.2026.05.012",
+        "doi": "10.1016/j.jval.2026.05.012",
+        "url": "https://doi.org/10.1016/j.jval.2026.05.012",
+        "title": "Toward a Vision for Health Economics and Outcomes Research: From Technology Appraisal to Health Policy Science",
+        "authors": [
+          "Newell E. McElwee",
+          "Richard J. Willke",
+          "Stephanie Earnshaw",
+          "Louis P. Garrison",
+          "Laura T. Pizzi",
+          "Robert Abbott",
+          "Eric Barrette",
+          "Amanda Cole",
+          "Paolo Angelo Cortesi",
+          "Eduardo Gonzalez-Pier",
+          "Jan Hansen",
+          "Maarten Ijzerman",
+          "Vivian W.Y. Lee",
+          "Josephine Mauskopf",
+          "Shelby D. Reed"
+        ],
+        "abstract": "",
+        "source": "Value in Health",
+        "issn": "1098-3015",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-06",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.jval.2026.05.014",
+        "doi": "10.1016/j.jval.2026.05.014",
+        "url": "https://doi.org/10.1016/j.jval.2026.05.014",
+        "title": "Eliciting a Conceptual Model for a New Patient-Reported Outcome Measure to Assess Patients’ Perception of Treatment Goal Achievement in Interdisciplinary Multimodal Pain Treatment",
+        "authors": [
+          "Stefan Hager",
+          "Hendrik Berth",
+          "Leonie Manzke",
+          "Jan-Michael Hengel",
+          "Annekathrin Juliane Rätsch",
+          "Anja Küchler-Köbe",
+          "Elisa König",
+          "Kristin Braun",
+          "Ulrike Kaiser"
+        ],
+        "abstract": "",
+        "source": "Value in Health",
+        "issn": "1098-3015",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-06",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.jval.2026.05.015",
+        "doi": "10.1016/j.jval.2026.05.015",
+        "url": "https://doi.org/10.1016/j.jval.2026.05.015",
+        "title": "Author Reply",
+        "authors": [
+          "Aldéric M. Fraslin",
+          "Anne Aupérin",
+          "Caroline Even",
+          "Joël Guigay",
+          "Julia Bonastre"
+        ],
+        "abstract": "",
+        "source": "Value in Health",
+        "issn": "1098-3015",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-06",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.jval.2026.03.2265",
+        "doi": "10.1016/j.jval.2026.03.2265",
+        "url": "https://doi.org/10.1016/j.jval.2026.03.2265",
+        "title": "Interpreting the Economic Value of Docetaxel, Platinum, and Cetuximab in Recurrent or Metastatic Head and Neck Squamous Cell Carcinoma: The Importance of Decision Context, Utility Timing, and Treatment Burden",
+        "authors": [
+          "Runji Zhou",
+          "Yuanyuan Peng",
+          "Qiming Liu",
+          "Jiaxuan Zhou"
+        ],
+        "abstract": "",
+        "source": "Value in Health",
+        "issn": "1098-3015",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-06",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.jval.2026.05.017",
+        "doi": "10.1016/j.jval.2026.05.017",
+        "url": "https://doi.org/10.1016/j.jval.2026.05.017",
+        "title": "Development and Validation of a Brief Healthcare Insecurity Scale in a Sample of US Adults Living With and Without HIV",
+        "authors": [
+          "Sigal Maya",
+          "Hilary J. Bethancourt",
+          "Andrea Norcini Pala",
+          "Edward A. Frongillo",
+          "Mirjam-Colette Kempf",
+          "Igho Ofotokun",
+          "Sarah Krier",
+          "Valentina Stosor",
+          "Sheri D. Weiser",
+          "Bulent Turan",
+          "Allison A. Appleton",
+          "Gypsyamber D’Souza",
+          "David B. Hanna",
+          "James G. Kahn",
+          "Jorge R. Kizer",
+          "Deborah Konkle-Parker",
+          "Daniel Merenstein",
+          "Erin D. Michos",
+          "Phyllis C. Tien",
+          "Katherine C. Wu"
+        ],
+        "abstract": "",
+        "source": "Value in Health",
+        "issn": "1098-3015",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-06",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.jval.2026.06.018",
+        "doi": "10.1016/j.jval.2026.06.018",
+        "url": "https://doi.org/10.1016/j.jval.2026.06.018",
+        "title": "Introducing Risk Stratification Reduces Patient Burden and Improves Cost-Effectiveness of Hepatocellular Carcinoma Surveillance for People With Metabolic Dysfunction-Associated Steatotic Liver Disease: A Modeling Study",
+        "authors": [
+          "Joachim Worthington",
+          "Anna Kelly",
+          "Emily He",
+          "Jacob George",
+          "Leon A. Adams",
+          "Eleonora Feletto"
+        ],
+        "abstract": "",
+        "source": "Value in Health",
+        "issn": "1098-3015",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-06",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.jval.2026.05.006",
+        "doi": "10.1016/j.jval.2026.05.006",
+        "url": "https://doi.org/10.1016/j.jval.2026.05.006",
+        "title": "Longitudinal Modeling and Simulation of Growth Hormone Efficacy in Children With Idiopathic Short Stature",
+        "authors": [
+          "Hyojin Cho",
+          "Hyeseon Jeon",
+          "Chaeri Kang",
+          "Jihyun Jeon",
+          "Woojin Jung",
+          "Hwi-yeol Yun",
+          "Mi Ran Lee",
+          "Soyoung Lee",
+          "Yoo-Mi Kim",
+          "Jung-woo Chae"
+        ],
+        "abstract": "",
+        "source": "Value in Health",
+        "issn": "1098-3015",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-06",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.jval.2026.09.001",
+        "doi": "10.1016/j.jval.2026.09.001",
+        "url": "https://doi.org/10.1016/j.jval.2026.09.001",
+        "title": "The Application of Food and Drug Administration Patient-Focused Drug Development Guidance in Rare Patient Populations: Innovation and Flexibility",
+        "authors": [
+          "Stacie Hudgens"
+        ],
+        "abstract": "",
+        "source": "Value in Health",
+        "issn": "1098-3015",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-06",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/s1098-3015(26)02606-9",
+        "doi": "10.1016/s1098-3015(26)02606-9",
+        "url": "https://doi.org/10.1016/s1098-3015(26)02606-9",
+        "title": "Table of Contents",
+        "authors": [],
+        "abstract": "",
+        "source": "Value in Health",
+        "issn": "1098-3015",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-06",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/s1098-3015(26)02607-0",
+        "doi": "10.1016/s1098-3015(26)02607-0",
+        "url": "https://doi.org/10.1016/s1098-3015(26)02607-0",
+        "title": "Editorial Board",
+        "authors": [],
+        "abstract": "",
+        "source": "Value in Health",
+        "issn": "1098-3015",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-06",
         "fetched_from": "crossref"
       },
       {
@@ -55236,6 +57112,501 @@
         "fetched_from": "crossref"
       },
       {
+        "id": "doi:10.1186/s12877-026-08445-z",
+        "doi": "10.1186/s12877-026-08445-z",
+        "url": "https://doi.org/10.1186/s12877-026-08445-z",
+        "title": "Barriers and facilitators to home-based osteoporosis self-management among older lung transplant recipients: a qualitative study",
+        "authors": [
+          "Yandie Wang",
+          "Mengshan Xie",
+          "Fangfang Hao",
+          "Jiangshuyuan Liang",
+          "Peipei Gu",
+          "Aihua Xu",
+          "Fei Zeng"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-06",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-06",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08406-6",
+        "doi": "10.1186/s12877-026-08406-6",
+        "url": "https://doi.org/10.1186/s12877-026-08406-6",
+        "title": "Predictive value of triglycerides-total cholesterol-body weight Index for postoperative complications in elderly patients undergoing coronary artery bypass grafting",
+        "authors": [
+          "Pan Peng",
+          "Shiqi Zhou",
+          "Yuting Liu",
+          "Qi Yang",
+          "Qiongyan Zou",
+          "Li Geng",
+          "Wen Zhang",
+          "Yinghong Zhang"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-06",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-06",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08377-8",
+        "doi": "10.1186/s12877-026-08377-8",
+        "url": "https://doi.org/10.1186/s12877-026-08377-8",
+        "title": "Changes in functional fitness among community-dwelling older adults participating in 12-week and 24-week community-based multicomponent exercise programs: a dynamic cohort study",
+        "authors": [
+          "Liang-Rong Chen",
+          "Haw-Jeng Chiou",
+          "Yi-Chien Yu",
+          "Ming-Chueh Tsai",
+          "Yung Liao",
+          "Shao-Hsi Chang"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-06",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-06",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08424-4",
+        "doi": "10.1186/s12877-026-08424-4",
+        "url": "https://doi.org/10.1186/s12877-026-08424-4",
+        "title": "Functional status and depressive symptoms in relation to bone mineral density and osteoporosis in hospitalized older adults: a cross-sectional study",
+        "authors": [
+          "Stylianos Kopanos",
+          "Sandra Scheel",
+          "Bettina Eggert",
+          "Alexander Rübberdt",
+          "Ulrich Thiem",
+          "Joachim Feldkamp"
+        ],
+        "abstract": "Abstract                                        Introduction                     Osteoporosis is a major cause of morbidity and fractures among older adults, contributing substantially to disability, hospitalization, and mortality. This cross-sectional study investigated the associations of depressive symptoms and functional status with bone mineral density (BMD) and osteoporosis in hospitalized older adults.                                                           Methods                     We analyzed 1,048 hospitalized patients aged ≥ 70 years who underwent dual-energy X-ray absorptiometry (DXA). Depressive symptoms (GDS-15) and functional status (Barthel Index) were extracted from routine geriatric assessments. Group comparisons, multivariable linear regression, and logistic regression analyses were performed after adjustment for demographic, clinical, and endocrine covariates.                                                           Results                     Lower Barthel Index scores and higher depressive symptom burden were independently associated with lower hip BMD, whereas associations with lumbar spine BMD were less consistent. Although statistically significant, the observed effect sizes were modest. The multivariable model explained a moderate proportion of BMD variability (adjusted R² = 0.22).                                                           Conclusion                     Functional and psychological characteristics were independently associated with bone mineral density in hospitalized older adults. Given the cross-sectional design, causal relationships cannot be established. These findings support the potential value of incorporating comprehensive geriatric assessment into osteoporosis evaluation to improve identification of older adults at increased fracture risk.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-06",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-06",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08416-4",
+        "doi": "10.1186/s12877-026-08416-4",
+        "url": "https://doi.org/10.1186/s12877-026-08416-4",
+        "title": "Effects and social design features of physical activity interventions on loneliness and subjective well-being in older adults: a systematic review",
+        "authors": [
+          "Xiaocui Sang",
+          "Dezhi Kong",
+          "Chunmei Li",
+          "Yishan Liu"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-06",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-06",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/geront/gnag235",
+        "doi": "10.1093/geront/gnag235",
+        "url": "https://doi.org/10.1093/geront/gnag235",
+        "title": "Exploring Experiences of Disempowerment in Older Adults with Chronic Illness: A Qualitative Study",
+        "authors": [
+          "Hau Yi Jodie Tse",
+          "Crystal Kwan",
+          "Daphne Sze Ki Cheung",
+          "Grace Wing Ka Ho"
+        ],
+        "abstract": "Abstract                                        Background and Objectives                     Disempowerment in the context of chronic illness refers to the state of dissatisfaction with diminishing opportunities to control personal lives, potentially leading to disengagement in health management and negative health outcomes. However, the experiences and perceptions of disempowerment in chronic illness among older adults are not fully understood. This study aims to explore the experiences and perceptions of disempowerment in older adults with chronic illness.                                                           Research Design and Methods                     Qualitative description was employed. From January to March 2025, individual face-to-face semi-structured interviews were conducted with 18 Cantonese-speaking older adults with chronic illness. Template analysis was used.                                                           Results                     Three themes emerged regarding the experiences of disempowerment: (1) confusion and uncertainty amid unexpected changes and unclear information, (2) struggles to manage their health in the way they would like, and (3) difficulty in living the life they had before or had hoped for. Negative feelings towards the experiences were also identified with indirect expression to others. The causes included: (1) irreversibly declining health and intrinsic capacity, (2) unmet expectations, and (3) age discrimination. The consequences involved: (1) disengaging the context of disempowerment by suppressing negative emotions, distancing themselves from care partners, and trying to overcome the situation, followed by (2) accepting or despairing over time.                                                           Discussion and Implications                     This study revealed the experiences and perceptions, causes and consequences of disempowerment in older adults with chronic illness. The tendency to indirectly express or suppress the negative feelings underscores a need for tailored strategies to better assess and address disempowerment in this population.",
+        "source": "The Gerontologist",
+        "issn": "0016-9013",
+        "date": "2026-10-05",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-06",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/geront/gnag234",
+        "doi": "10.1093/geront/gnag234",
+        "url": "https://doi.org/10.1093/geront/gnag234",
+        "title": "Scaling Caregiver Health and Wellbeing Coaching: A Mixed Methods Evaluation of Implementation and Sustainment in the Veterans Health Administration",
+        "authors": [
+          "Melissa Harris-Gersten",
+          "Colleen Blue",
+          "Yujung Choi",
+          "Olivia Whitt",
+          "Cassandra Dictus",
+          "Megan Shepherd-Banigan",
+          "Katherine Miller",
+          "Nadya Majette",
+          "Adrian Brown",
+          "Darrius McMillian",
+          "Pamela Birchett-Street",
+          "Kelli Essex",
+          "Courtney H Van Houtven",
+          "Imari Z Smith",
+          "Andrea L Nevedal"
+        ],
+        "abstract": "Abstract                                        Background and Objectives                     Effective and sustainable support for family caregivers is a growing priority, yet practical guidance for scaling promising coaching interventions into routine practice is limited. The objective of this evaluation was to identify organizational determinants, barriers, facilitators, and adaptations affecting national implementation of the Caregiver Health and Wellbeing Coaching (CHWC) program in the Veterans Health Administration.                                                           Research Design and Methods                     An explanatory, sequential mixed‑methods design included surveys of CHWC staff (n = 53) and qualitative interviews (n = 14), guided by the updated Consolidated Framework for Implementation Research, its Outcomes Addendum, and the Framework for Reporting Adaptations and Modifications‑Enhanced.                                                           Results                     Successful implementation—defined as program launch and delivery to at least one caregiver at each site—and successful sustainment—defined as ongoing or expanding delivery to new and returning caregivers—were associated with thorough planning, leadership engagement, and flexible delivery. Barriers included staff turnover, complex documentation, and challenges recruiting caregivers. Facilitators and process improvements were rapidly integrated into program operations.                                                           Discussion and Implications                     Findings can inform strategies to scale caregiver support programs that underpin sustainable aging and long-term care systems.",
+        "source": "The Gerontologist",
+        "issn": "0016-9013",
+        "date": "2026-10-05",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-06",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/geront/gnag237",
+        "doi": "10.1093/geront/gnag237",
+        "url": "https://doi.org/10.1093/geront/gnag237",
+        "title": "Re-Examining Age-Friendly Communities for Older People with Insecure Housing Histories",
+        "authors": [
+          "Rachel Weldrick",
+          "Sarah L Canham",
+          "Joe Humphries"
+        ],
+        "abstract": "Abstract                   In many countries, population aging and increasing rates of housing security among older people are unfolding simultaneously. While the World Health Organization's Age-Friendly Cities and Communities (AFCC) framework is largely considered the leading framework for developing age-supportive communities, it does not adequately account for the ways in which a community may be inclusive, supportive, or age-friendly for older people with lived experience of housing insecurity. This paper began with a question: What would an age-friendly community look like for older people with experiences of housing insecurity? Drawing on the Aging in the Right Place (AIRP) framework, a rights-based conceptual model of six indicators developed through community-based participatory research, this paper re-examines and extends each of the WHO AFCC framework's eight domains: housing, transportation, social participation, respect and social inclusion, civic participation, communication and information, community support and health services, and outdoor spaces and buildings. This paper argues that age-friendly approaches must recognize housing as a human right and housing security as a cornerstone of age-friendly communities, requiring protections including rent control, eviction prevention, and incentives for non-market housing development. Recommendations are offered for municipalities seeking to embed AIRP and rights-based perspectives into age-friendly strategies and evaluation.",
+        "source": "The Gerontologist",
+        "issn": "0016-9013",
+        "date": "2026-10-05",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-06",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70761",
+        "doi": "10.1111/jgs.70761",
+        "url": "https://doi.org/10.1111/jgs.70761",
+        "title": "What Comes Next? When and How Medicaid Home‐ and Community‐Based Services End",
+        "authors": [
+          "Emmaline Keesee",
+          "David Stevenson",
+          "Chanee D. Fabius",
+          "Laura M. Keohane"
+        ],
+        "abstract": "ABSTRACT                                        Background                     As Medicaid long‐term services and supports shift towards home‐and‐community‐based settings (HCBS), it is important to understand trajectories of HCBS use among older adults, including duration and living circumstances at cessation, to inform decisions about whether state Medicaid programs can afford to sustain or expand HCBS benefits.                                                           Methods                     This study examined determinants of HCBS episode duration and how they vary by status at cessation (community discharge, nursing home, or deceased). We used Southern Community Cohort Study (SCCS) data linked with Medicaid and Medicare claims to follow a cohort of older adults who initiated Medicaid‐funded HCBS in Southeastern states between 2006 and 2018. We calculated unadjusted incidence of cessation and modeled adjusted rate of cessation using Cox proportional hazard models to understand how demographic characteristics, Medicaid coverage, HCBS program, and health history related to cessation with community discharge, nursing home entry, and death.                                                           Results                                            Among older adults with 5 years of follow‐up (                       n                        = 591), 25.2% ended HCBS with community discharge, 16.2% with nursing home entry, and 26.2% with death. The remaining 32.3% still used HCBS. Across the entire sample (                       n                        = 1304), female cohort members had significantly lower rates of HCBS cessation (HR: 0.7, 95% CI: 0.6, 0.8), while individuals who were older (HR: 1.1, 95% CI: 1.0, 1.1), had more health conditions (HR: 1.1, 95% CI: 1.0, 1.1), or prior nursing home use (HR: 1.3, 95% CI: 1.0, 1.5) had higher rates of HCBS cessation. Individuals initiating HCBS use and Medicaid coverage at the same time had a lower rate of community discharge (HR: 0.7, 95% CI: 0.5, 0.9) than HCBS users with established Medicaid coverage.                                                                                Conclusions                     Extended duration of HCBS use was common across our sample, which may affect Medicaid's ability to fund HCBS programs. Policymakers should consider how care needs may vary when projecting how long older adults will access HCBS benefits.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-10-05",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-06",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08414-6",
+        "doi": "10.1186/s12877-026-08414-6",
+        "url": "https://doi.org/10.1186/s12877-026-08414-6",
+        "title": "Ageing with animals: a scoping review exploring pet inclusion for older adults through a socioecological lens",
+        "authors": [
+          "Carolyn Murray",
+          "Demi Germeroth",
+          "Carmel Nottle",
+          "Victor Krawczyk",
+          "Janette Young",
+          "Alyson J. Crozier"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-05",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-06",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08415-5",
+        "doi": "10.1186/s12877-026-08415-5",
+        "url": "https://doi.org/10.1186/s12877-026-08415-5",
+        "title": "Frailty trajectories from hospitalization to 12 months after discharge in older stroke survivors and their associations with intrinsic capacity: implications for geriatric nursing",
+        "authors": [
+          "Xin-Xin Tang",
+          "Qiu-Yue Tang",
+          "Li Liu",
+          "Bin-Bin Li",
+          "Jun Mei",
+          "Ling Yu"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-05",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-06",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08427-1",
+        "doi": "10.1186/s12877-026-08427-1",
+        "url": "https://doi.org/10.1186/s12877-026-08427-1",
+        "title": "Altered saccade control reveals executive dysfunction in late-life depression",
+        "authors": [
+          "Yao-Tung Lee",
+          "Ying-Hsuan Tai",
+          "Li-Kai Huang",
+          "Kuan-Yu Chen",
+          "Ta-Liang Chen",
+          "Chaowen Chen",
+          "Chin-An Wang"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-05",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-06",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08430-6",
+        "doi": "10.1186/s12877-026-08430-6",
+        "url": "https://doi.org/10.1186/s12877-026-08430-6",
+        "title": "Perioperative pharmacological prophylaxis of postoperative delirium after major orthopedic surgery in older adults: a systematic review and network meta-analysis of randomized controlled trials",
+        "authors": [
+          "Xiaoyu Yang",
+          "Xiaoning Jiang",
+          "Rui Xiao",
+          "Jichao Liu",
+          "Yaoyi Guo",
+          "Yuwei Ji",
+          "Fang Zhao",
+          "Fan Wang"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-05",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-06",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08170-7",
+        "doi": "10.1186/s12877-026-08170-7",
+        "url": "https://doi.org/10.1186/s12877-026-08170-7",
+        "title": "Loneliness among community-dwelling older adults during the early stage of the Covid-19 pandemic in Taiwan: exploring community-level and individual-level predictors",
+        "authors": [
+          "Honghui Pan",
+          "LiFan Liu"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-05",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-06",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08397-4",
+        "doi": "10.1186/s12877-026-08397-4",
+        "url": "https://doi.org/10.1186/s12877-026-08397-4",
+        "title": "The effect of empowerment based on 5 A model on fall self-efficacy, self-care and quality of life in older adults: a parallel randomized clinical trial",
+        "authors": [
+          "Ermia Maghsoodloo",
+          "Hossein Ebrahimi",
+          "Shahrbanoo Goli",
+          "Homeira Khoddam",
+          "Ali Dadgari"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-05",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-06",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08386-7",
+        "doi": "10.1186/s12877-026-08386-7",
+        "url": "https://doi.org/10.1186/s12877-026-08386-7",
+        "title": "Hospitalization in adults aged 75 years and older with type 2 diabetes: the role of kidney impairment and glycemic control",
+        "authors": [
+          "Bertin Magamba",
+          "Junmei Miao Jonasson",
+          "Louise Pettersson",
+          "Anders Halling",
+          "Björn Agvall"
+        ],
+        "abstract": "Abstract                                        Background                     Older adults aged ≥ 75 years with type 2 diabetes (T2D) experience high healthcare utilization, yet evidence on treatment patterns and outcomes in this age group is limited.                                                           Objective                     To assess associations between glycemic control, kidney function, and hospitalization among individuals aged ≥ 75 years with T2D.                                                           Methods                     Individuals aged ≥ 75 years with T2D were identified in 2018 using data from a population‑based healthcare database covering all levels of care in Region Halland. Healthcare utilization, including hospital admissions, hospital days, primary care encounters and mortality, was evaluated during 2019. Inclusion required at least one measurement of glycated hemoglobin (HbA1c) and estimated glomerular filtration rate (eGFR). Kidney function was classified by eGFR ≥ 60; 30–59; &lt;30 mL/min/1.73 m², and HbA1c as &lt; 52, 52–70, or &gt; 70 mmol/mol. Associations with hospital days were analyzed using Poisson regression adjusted for demographic, clinical, and treatment variables.                                                           Results                     The cohort comprised 1,446 individuals (49% women); 88 patients (6%) died during follow‑up. HbA1c was &lt; 52 mmol/mol in 43%, 52–70 mmol/mol in 45%, and &gt; 70 mmol/mol in 12%. CKD was common, with 56% classified as stage 3 and 10% as stage 4–5. Hospital days were higher among individuals with CKD stage 4–5 (RR 1.93, 95% CI:1.71–2.17) and HbA1c &gt; 70 mmol/mol (RR 1.44, 95% CI:1.28–1.61). Primary care encounters were frequent (physician visits: 4.6 [SD 3.7]; nurse visits: 9.0 [SD 9.3]) and associated with CKD but not with glucose dysregulation. Insulin use was associated with more hospital days, whereas metformin and incretin‑based therapy were associated with fewer.                                                           Conclusions                     In adults aged ≥ 75 years with T2D, hospitalization burden was substantial and was associated with advanced CKD and poor glycemic control, while primary care encounters were frequent. These findings demonstrate an association between kidney function, glycemic status, and healthcare utilization in older adults with T2D.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-05",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-06",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1097/ede.0000000000002054",
+        "doi": "10.1097/ede.0000000000002054",
+        "url": "https://doi.org/10.1097/ede.0000000000002054",
+        "title": "Long-term exposure to ultrafine particles and mortality from neurodegenerative diseases: a population-based cohort study",
+        "authors": [
+          "Emmanuelle Batisse",
+          "Marshall Lloyd",
+          "Christel Renoux",
+          "Arman Ganji",
+          "Junshi Xu",
+          "Marianne Hatzopoulou",
+          "Scott Weichenthal",
+          "Jill Baumgartner"
+        ],
+        "abstract": "Background:                     Transportation and industrial activities emit large quantities of air pollutants, including unregulated ultrafine particles (UFP, &lt;0.1 um), which may adversely affect brain health.                                                           Methods:                     We analyzed data from 2.1 million adults in the Canadian Census Health and Environment Cohorts (CanCHECs) living in Montreal and Toronto (2001-2019). Vital status and primary cause of death were obtained from the Canadian Vital Statistics- Death database. We assigned high-resolution estimates of UFP number concentrations and UFP size to participants’ residential postal codes using three-year moving averages. Cox proportional hazards models were used to estimates hazard ratios (HRs) between long-term outdoor UFP number concentrations and mortality from dementia, Parkinson’s disease, and amyotrophic lateral sclerosis. We further examined associations by dementia sub-types including Alzheimer’s disease, vascular dementia and unspecified dementia. Models were used with and without inverse probability of censoring weights for competing events, and adjusted for UFP size, sociodemographic factors, and co-pollutants.                                                           Findings:                                            Over 19 million person-years, we identified 20,560 deaths from neurodegenerative diseases. Each 10,000 particle/cm                       3                       increase in UFP number concentrations was associated with increased dementia mortality (HR = 1.22, 95% CI: 1.17–1.27), with stronger associations observed after adjusting for UFP size. Positive associations were observed for all dementia subtypes, with the largest for vascular dementia (HR = 1.49, 95% CI: 1.27–1.76). We did not observe effects of UFP on mortality from Parkinson’s disease or amyotrophic lateral sclerosis.                                                                                Interpretation:                     Long-term exposure to outdoor UFPs may contribute to mortality from specific neurodegenerative diseases, particularly dementia. Reducing population exposures to these unregulated pollutants could help mitigate the burden of neurodegenerative mortality.",
+        "source": "Epidemiology",
+        "issn": "1044-3983",
+        "date": "2026-10-05",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-06",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag242",
+        "doi": "10.1093/aje/kwag242",
+        "url": "https://doi.org/10.1093/aje/kwag242",
+        "title": "Correction: Effects of two community violence interruption programs on firearm violence in Washington, DC",
+        "authors": [],
+        "abstract": "",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-10-05",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-06",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag238",
+        "doi": "10.1093/aje/kwag238",
+        "url": "https://doi.org/10.1093/aje/kwag238",
+        "title": "Adapting the prevalent new-user study design and clone-censor-weighting approach to evaluate drug discontinuation",
+        "authors": [
+          "Qoua Her",
+          "Til Stürmer",
+          "Robert J Glynn",
+          "Emilie Duchesneau",
+          "Tiansheng Wang",
+          "Charles Poole",
+          "Jennifer Leigh Lund",
+          "Michael Webster-Clark"
+        ],
+        "abstract": "Abstract                   We described how to adapt the prevalent new user (PNU) study design to estimate the effect of drug discontinuation among patients who discontinue and clone-censor-weighting (CCW) approach to estimate the effect of drug discontinuation among an eligible population at a pre-specified time point, focusing on the differences between the target trials the two approaches emulate. While both approaches produced unbiased estimates of the effect of drug discontinuation when all confounders were adjusted for in simulations, the true estimands differed, particularly when treatment effect heterogeneity was introduced. We also applied the approaches to study the effect of statin discontinuation among United States Medicare beneficiaries who discontinued statin therapy after at least 5 years (PNU) or at approximately 5 years (CCW) of continuous use. The PNU analysis estimated a mortality rate difference (MRD) of 3.6 (95% CI, 3.3-3.9) per 100 person-years and a mortality rate ratio (MRR) of 1.41 (95% CI, 1.37-1.45), while the CCW analysis estimated a MRD of 3.4 (95% CI, 2.8-4.0) per 100 person-years and MRR of 1.55 (1.45-1.66). Researchers studying drug discontinuation should carefully consider their causal question and target population when choosing between these two newer approaches.",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-10-05",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-06",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag250",
+        "doi": "10.1093/aje/kwag250",
+        "url": "https://doi.org/10.1093/aje/kwag250",
+        "title": "Estimation of the relative effectiveness and waning of the monovalent third dose of COVID-19 vaccine against hospital admission in France: a novel self-controlled case series analysis",
+        "authors": [
+          "Jérémie Botton",
+          "Yonas Ghebremichael-Weldeselassie",
+          "Mounia Nacima Hocine",
+          "Paddy Farrington"
+        ],
+        "abstract": "Abstract                   We present a novel application of the SCCS method for estimating the effectiveness and waning of the third dose of COVID-19 monovalent vaccine in France. We used data on individuals hospitalised for COVID-19 between September 2021 and February 2022 from the Système National des Données de Santé. Only cases having received a 3rd dose of COVID-19 vaccine prior to or on the day of hospitalisation were included in the analysis. We developed a new SCCS model including only time post-dose 3 vaccination, with reference period 24—65 days post-vaccination to capture maximum vaccine protection. Time was split into short-term and long-term post-vaccination risk periods, including days 4—9 corresponding to minimum protection, and successive 7-day windows from day 66 post vaccination. The model included two exposure variables, representing short-term and long-term effects of vaccination. The analysis confirms the relative effectiveness of the third-dose COVID-19 vaccination, the waning of vaccine immunity though of limited extent, and possible effect modification related to virus strain, vaccine, vaccination history, age, and sex. The strengths and weaknesses of this approach are discussed. Suitably applied, the SCCS method may provide a useful method of analysis of vaccine effectiveness which automatically controls for time-invariant confounders.",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-10-05",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-06",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1111/jgs.70760",
         "doi": "10.1111/jgs.70760",
         "url": "https://doi.org/10.1111/jgs.70760",
@@ -55565,6 +57936,29 @@
           "elderCare"
         ],
         "firstSeen": "2026-10-05",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag246",
+        "doi": "10.1093/aje/kwag246",
+        "url": "https://doi.org/10.1093/aje/kwag246",
+        "title": "A response to Francis and Wesselink’s “measuring structural racism in neighborhoods”",
+        "authors": [
+          "Abigail L Kappelman",
+          "Annie Ro",
+          "Belinda L Needham",
+          "Nancy L Fleischer"
+        ],
+        "abstract": "",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-10-03",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-06",
         "fetched_from": "crossref"
       },
       {
@@ -61481,6 +63875,139 @@
         "fetched_from": "crossref"
       },
       {
+        "id": "doi:10.1016/s0140-6736(26)01292-4",
+        "doi": "10.1016/s0140-6736(26)01292-4",
+        "url": "https://doi.org/10.1016/s0140-6736(26)01292-4",
+        "title": "The digital determinants of health: a new era for global public health",
+        "authors": [
+          "James Shaw",
+          "Nicole Gross",
+          "Abril Saldaña-Tejeda",
+          "Caesar Atuire",
+          "Barbara Prainsack",
+          "Louise Holly",
+          "Ilona Kickbusch"
+        ],
+        "abstract": "",
+        "source": "The Lancet",
+        "issn": "0140-6736",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-05",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/s0140-6736(26)01611-9",
+        "doi": "10.1016/s0140-6736(26)01611-9",
+        "url": "https://doi.org/10.1016/s0140-6736(26)01611-9",
+        "title": "The public health challenges of children's and adolescents’ digital media use: applying the digital determinants of health as an interpretive framework",
+        "authors": [
+          "Louise Holly",
+          "Rebecca Raeside",
+          "Alec Morton",
+          "Jovin Shi",
+          "Natarajan Padmapriya",
+          "Falk Müller-Riemenschneider"
+        ],
+        "abstract": "",
+        "source": "The Lancet",
+        "issn": "0140-6736",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-05",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/s0140-6736(26)01293-6",
+        "doi": "10.1016/s0140-6736(26)01293-6",
+        "url": "https://doi.org/10.1016/s0140-6736(26)01293-6",
+        "title": "Governing the digital determinants of health for children and young people: a global public health imperative",
+        "authors": [
+          "Barbara Prainsack",
+          "Rohinton P Medhora",
+          "Ilona Kickbusch"
+        ],
+        "abstract": "",
+        "source": "The Lancet",
+        "issn": "0140-6736",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-05",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/s0140-6736(26)01986-0",
+        "doi": "10.1016/s0140-6736(26)01986-0",
+        "url": "https://doi.org/10.1016/s0140-6736(26)01986-0",
+        "title": "The role of product safety and liability law in governing digital determinants of health",
+        "authors": [
+          "Mindy Nunez Duffourc"
+        ],
+        "abstract": "",
+        "source": "The Lancet",
+        "issn": "0140-6736",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-05",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/s0140-6736(26)01988-4",
+        "doi": "10.1016/s0140-6736(26)01988-4",
+        "url": "https://doi.org/10.1016/s0140-6736(26)01988-4",
+        "title": "Barbara Prainsack: practical utopianism for healthier societies",
+        "authors": [
+          "Niall Boyce"
+        ],
+        "abstract": "",
+        "source": "The Lancet",
+        "issn": "0140-6736",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-05",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/s0140-6736(26)01991-4",
+        "doi": "10.1016/s0140-6736(26)01991-4",
+        "url": "https://doi.org/10.1016/s0140-6736(26)01991-4",
+        "title": "Digital technology for health, not harm",
+        "authors": [
+          "The Lancet"
+        ],
+        "abstract": "",
+        "source": "The Lancet",
+        "issn": "0140-6736",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-05",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1002/alz.71919",
         "doi": "10.1002/alz.71919",
         "url": "https://doi.org/10.1002/alz.71919",
@@ -61927,136 +64454,99 @@
         "fetched_from": "crossref"
       },
       {
-        "id": "doi:10.1016/s0140-6736(26)01292-4",
-        "doi": "10.1016/s0140-6736(26)01292-4",
-        "url": "https://doi.org/10.1016/s0140-6736(26)01292-4",
-        "title": "The digital determinants of health: a new era for global public health",
+        "id": "doi:10.1016/j.socscimed.2026.119908",
+        "doi": "10.1016/j.socscimed.2026.119908",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.119908",
+        "title": "Enacting the body multiple: Wellness strategies among younger adults under biopolitical health governance and accelerated study–labour regimes",
         "authors": [
-          "James Shaw",
-          "Nicole Gross",
-          "Abril Saldaña-Tejeda",
-          "Caesar Atuire",
-          "Barbara Prainsack",
-          "Louise Holly",
-          "Ilona Kickbusch"
+          "Haiyan Gao",
+          "Jiayue Zhao",
+          "Jingru Zhao"
         ],
         "abstract": "",
-        "source": "The Lancet",
-        "issn": "0140-6736",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
         "date": "2026-10-01",
         "subjects": [],
         "domains": [
           "healthReform",
-          "agingHealth"
+          "elderCare",
+          "agingHealth",
+          "socialWork"
         ],
-        "firstSeen": "2026-10-05",
+        "firstSeen": "2026-10-06",
         "fetched_from": "crossref"
       },
       {
-        "id": "doi:10.1016/s0140-6736(26)01611-9",
-        "doi": "10.1016/s0140-6736(26)01611-9",
-        "url": "https://doi.org/10.1016/s0140-6736(26)01611-9",
-        "title": "The public health challenges of children's and adolescents’ digital media use: applying the digital determinants of health as an interpretive framework",
+        "id": "doi:10.1016/j.socscimed.2026.119916",
+        "doi": "10.1016/j.socscimed.2026.119916",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.119916",
+        "title": "“Their Body Is Their Territory”: Reproductive Autonomy and Governance by Omission in Peru",
         "authors": [
-          "Louise Holly",
-          "Rebecca Raeside",
-          "Alec Morton",
-          "Jovin Shi",
-          "Natarajan Padmapriya",
-          "Falk Müller-Riemenschneider"
+          "Maria A. Carrasco",
+          "Amanda Cordova-Gomez",
+          "Angela Sartur",
+          "Deborah Horowitz",
+          "Milka Dinev"
         ],
         "abstract": "",
-        "source": "The Lancet",
-        "issn": "0140-6736",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
         "date": "2026-10-01",
         "subjects": [],
         "domains": [
           "healthReform",
-          "agingHealth"
+          "elderCare",
+          "agingHealth",
+          "socialWork"
         ],
-        "firstSeen": "2026-10-05",
+        "firstSeen": "2026-10-06",
         "fetched_from": "crossref"
       },
       {
-        "id": "doi:10.1016/s0140-6736(26)01293-6",
-        "doi": "10.1016/s0140-6736(26)01293-6",
-        "url": "https://doi.org/10.1016/s0140-6736(26)01293-6",
-        "title": "Governing the digital determinants of health for children and young people: a global public health imperative",
+        "id": "doi:10.1016/j.jhealeco.2026.103189",
+        "doi": "10.1016/j.jhealeco.2026.103189",
+        "url": "https://doi.org/10.1016/j.jhealeco.2026.103189",
+        "title": "Beyond targeting women: Intrahousehold contexts and the effectiveness of food vouchers",
         "authors": [
-          "Barbara Prainsack",
-          "Rohinton P Medhora",
-          "Ilona Kickbusch"
+          "Seollee Park",
+          "Yaeeun Han",
+          "Hyuncheol Bryant Kim"
         ],
         "abstract": "",
-        "source": "The Lancet",
-        "issn": "0140-6736",
+        "source": "Journal of Health Economics",
+        "issn": "0167-6296",
         "date": "2026-10-01",
         "subjects": [],
         "domains": [
           "healthReform",
+          "socialSecurity",
+          "elderCare",
           "agingHealth"
         ],
-        "firstSeen": "2026-10-05",
+        "firstSeen": "2026-10-06",
         "fetched_from": "crossref"
       },
       {
-        "id": "doi:10.1016/s0140-6736(26)01986-0",
-        "doi": "10.1016/s0140-6736(26)01986-0",
-        "url": "https://doi.org/10.1016/s0140-6736(26)01986-0",
-        "title": "The role of product safety and liability law in governing digital determinants of health",
+        "id": "doi:10.1002/alz.71827",
+        "doi": "10.1002/alz.71827",
+        "url": "https://doi.org/10.1002/alz.71827",
+        "title": "Structural compression and entorhinal vulnerability: Linking tentorial adjacency to tau burden and dementia progression",
         "authors": [
-          "Mindy Nunez Duffourc"
+          "Luyue Zhang",
+          "Ana M. Franceschi",
+          "John F. Crary",
+          "Frank A. Provenzano"
         ],
-        "abstract": "",
-        "source": "The Lancet",
-        "issn": "0140-6736",
+        "abstract": "Abstract                                        INTRODUCTION                     Early neurofibrillary tau degeneration in the entorhinal cortex (EC) is a hallmark of Alzheimer's disease (AD) and aging. We propose a biomechanical cascade hypothesis, suggesting proximity to the tentorial incisura (TI) may render the EC susceptible to chronic mechanical stress, potentially contributing to tau pathology.                                                           METHODS                                            We developed a neuroanatomical contact coefficient (NCC) to quantify EC–TI proximity using Alzheimer's Disease Neuroimaging Initiative multimodal imaging data (                       n                        = 47), stratifying participants into high and low adjacency groups.                                                                                RESULTS                                            Controlling for risk factors, EC tau positron emission tomography signal predicted conversion from mild cognitive impairment to AD only in the high‐adjacency group (                       P                        = 0.036).                                                                                DISCUSSION                     Findings identify EC–TI proximity as a potential, novel, anatomically grounded biomarker of AD risk. These findings are consistent with a previously unrecognized biomechanical contribution to EC tau vulnerability in sporadic AD and aging, opening new avenues for early detection, risk stratification, and mechanistically targeted prevention strategies.",
+        "source": "Alzheimer's &amp; Dementia",
+        "issn": "1552-5260",
         "date": "2026-10-01",
         "subjects": [],
         "domains": [
-          "healthReform",
           "agingHealth"
         ],
-        "firstSeen": "2026-10-05",
-        "fetched_from": "crossref"
-      },
-      {
-        "id": "doi:10.1016/s0140-6736(26)01988-4",
-        "doi": "10.1016/s0140-6736(26)01988-4",
-        "url": "https://doi.org/10.1016/s0140-6736(26)01988-4",
-        "title": "Barbara Prainsack: practical utopianism for healthier societies",
-        "authors": [
-          "Niall Boyce"
-        ],
-        "abstract": "",
-        "source": "The Lancet",
-        "issn": "0140-6736",
-        "date": "2026-10-01",
-        "subjects": [],
-        "domains": [
-          "healthReform",
-          "agingHealth"
-        ],
-        "firstSeen": "2026-10-05",
-        "fetched_from": "crossref"
-      },
-      {
-        "id": "doi:10.1016/s0140-6736(26)01991-4",
-        "doi": "10.1016/s0140-6736(26)01991-4",
-        "url": "https://doi.org/10.1016/s0140-6736(26)01991-4",
-        "title": "Digital technology for health, not harm",
-        "authors": [
-          "The Lancet"
-        ],
-        "abstract": "",
-        "source": "The Lancet",
-        "issn": "0140-6736",
-        "date": "2026-10-01",
-        "subjects": [],
-        "domains": [
-          "healthReform",
-          "agingHealth"
-        ],
-        "firstSeen": "2026-10-05",
+        "firstSeen": "2026-10-06",
         "fetched_from": "crossref"
       },
       {
@@ -71613,6 +74103,94 @@
         "fetched_from": "crossref"
       },
       {
+        "id": "doi:10.1093/bjsw/bcag190",
+        "doi": "10.1093/bjsw/bcag190",
+        "url": "https://doi.org/10.1093/bjsw/bcag190",
+        "title": "Spreading social innovation through a transnational network: Family Group Conferences",
+        "authors": [
+          "Aleksandar Bozic"
+        ],
+        "abstract": "Abstract                   Growing interest in social innovation has drawn attention to the role of transnational networks and organisational collaboration in spreading new models within children’s and family services. This study analyses the European Family Group Conference Network as a transnational infrastructure facilitating the diffusion of the Family Group Conference (FGC) model as a social innovation. Using social network analysis and the concept of transnational networks, the study explores patterns of organisational connection, centrality, density and information flow within the European FGC Network. The findings show that the network connects 24 civil society organisations and three public sector bodies across 18 European countries. Organisations based in the Netherlands, the United Kingdom, Germany and Bulgaria occupy highly central positions and function as key intermediaries for knowledge exchange, coordination, adoption and further innovation of the FGC model. The network’s low to moderate density creates both opportunities and challenges for innovation. It supports national local adaptation of FGCs, but may also produce national “silos” and limit transnational learning. High centralisation facilitates coordination and innovation diffusion, but may increase dependence on a small number of gatekeepers. The study highlights implications for policy and practice concerning informal cross-border structures in spreading social innovation in children’s and family services.",
+        "source": "The British Journal of Social Work",
+        "issn": "0045-3102",
+        "date": "2026-10-05",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-06",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/bjsw/bcag231",
+        "doi": "10.1093/bjsw/bcag231",
+        "url": "https://doi.org/10.1093/bjsw/bcag231",
+        "title": "Not just a day at the beach: Challenges experienced by social workers in England’s coastal communities",
+        "authors": [
+          "Joe Hanley",
+          "Rachel Brougham",
+          "Jermaine Ravalier",
+          "Ciaran Murphy",
+          "Nazm Berry",
+          "Marria Riaz",
+          "Rhiannon Cullen",
+          "Paulina Wegrzynek"
+        ],
+        "abstract": "Abstract                   This article presents findings from interviews with current and former social workers in coastal communities in England, with a focus on the challenges faced. These findings form part of a larger research project looking at the recruitment and retention of social workers in coastal communities. Following an introduction to the context and limited existing literature on coastal social work, including outlining the reasons why coastal social work may face additional challenges, the research methodology is outlined, utilizing a critical realist framework. Interviews were carried out with twenty-three social workers and former social workers, and data analyzed using data-driven thematic analysis. Three dispositional themes are used to frame the findings: the neglect of coastal communities, the specific neglect of the social work workforce in these same communities, and the experiences of global majority and international social workers. These themes are then analyzed with reference to existing literature and models of workforce management under the headings of demands, control, and support. The article concludes by examining how this research can feed into later strands of the ongoing research project, as well as policy initiatives and investment in these areas.",
+        "source": "The British Journal of Social Work",
+        "issn": "0045-3102",
+        "date": "2026-10-05",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-06",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/bjsw/bcag234",
+        "doi": "10.1093/bjsw/bcag234",
+        "url": "https://doi.org/10.1093/bjsw/bcag234",
+        "title": "Dual blockages: Exploring the experiences of professionalization dilemmas among child welfare directors through a grounded approach",
+        "authors": [
+          "Jinhui Lai",
+          "Zhiwei Li",
+          "Zhenxing Qin",
+          "Te Er Zhang",
+          "Shiqiang Zhou"
+        ],
+        "abstract": "Abstract                   Child welfare directors constitute a landmark institutional innovation in China’s child welfare governance system, and advancing their professionalization is crucial for enhancing child protection services and establishing their professional status. Existing studies primarily explore the factors influencing the professionalization of child welfare directors from static microindividual and macroinstitutional perspectives, yet neglect their practical experiences in the process of professionalization. To address this research gap, this article develops an explanatory model of “professionalization blockages,” arguing that child welfare directors encounter both structural and cognitive blockages throughout the professionalization process. Structural blockages manifest as inadequate institutional provision, imbalanced social collaboration, and individual competency gaps, whereas cognitive blockages arise from a weak professional identity and confusion about occupational meaning. When confronted with these dual blockages, child welfare directors adopt selective coping strategies: proactive coping and passive coping. Proactive coping strategies include resource integration, service innovation, and targeted capacity building, while passive coping strategies are characterized by path dependence, emotional burnout, and ritualistic implementation of superior directives. The theoretical model of professionalization blockages proposed in this study offers a novel framework for understanding the professional dilemmas faced by frontline service workers globally.",
+        "source": "The British Journal of Social Work",
+        "issn": "0045-3102",
+        "date": "2026-10-05",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-06",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/bjsw/bcag236",
+        "doi": "10.1093/bjsw/bcag236",
+        "url": "https://doi.org/10.1093/bjsw/bcag236",
+        "title": "Between protection and recognition: Problem definition as a political and ethical practice among Arab social workers",
+        "authors": [
+          "Nuzha Allassad Alhuzail",
+          "Ibrahim Mahajne"
+        ],
+        "abstract": "Abstract                   This article examines social workers’ problem definition as an ethical and political practice, rather than a neutral or technical step preceding intervention. An interpretive qualitative study interviewed eighteen Arab social workers employed in public welfare services in Israel to explore how practitioners define problems for intervention within a context marked by structural inequality, securitization, and protracted political conflict. Data were collected from in-depth, semi-structured interviews and were analysed thematically using an iterative and reflexive process. The findings suggest that problem definition may operate as a site of professional agency and moral decision-making. Participants described strategically framing problems to enable access to rights and resources and consciously avoiding documentation that may lead to criminalization or long-term stigma, while navigating tensions between professional knowledge and dominant state-led security and legal frameworks. These practices may reflect forms of quiet resistance intended to protect service users’ dignity, futures, and social standing within restrictive institutional systems. The article contributes to international debates on critical and decolonial social work, conceptualizing problem definition as an arena of ethical–political action. It highlights the epistemic labour of minority social workers and calls for institutional recognition of contextual, relational, and experiential knowledge in social work education, policy, and practice.",
+        "source": "The British Journal of Social Work",
+        "issn": "0045-3102",
+        "date": "2026-10-05",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-06",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1093/bjsw/bcag211",
         "doi": "10.1093/bjsw/bcag211",
         "url": "https://doi.org/10.1093/bjsw/bcag211",
@@ -76459,6 +79037,78 @@
         "fetched_from": "crossref"
       },
       {
+        "id": "doi:10.1016/j.socscimed.2026.119908",
+        "doi": "10.1016/j.socscimed.2026.119908",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.119908",
+        "title": "Enacting the body multiple: Wellness strategies among younger adults under biopolitical health governance and accelerated study–labour regimes",
+        "authors": [
+          "Haiyan Gao",
+          "Jiayue Zhao",
+          "Jingru Zhao"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-06",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.socscimed.2026.119916",
+        "doi": "10.1016/j.socscimed.2026.119916",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.119916",
+        "title": "“Their Body Is Their Territory”: Reproductive Autonomy and Governance by Omission in Peru",
+        "authors": [
+          "Maria A. Carrasco",
+          "Amanda Cordova-Gomez",
+          "Angela Sartur",
+          "Deborah Horowitz",
+          "Milka Dinev"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-06",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.childyouth.2026.109304",
+        "doi": "10.1016/j.childyouth.2026.109304",
+        "url": "https://doi.org/10.1016/j.childyouth.2026.109304",
+        "title": "Metabolic monitoring protocols/practices and metabolic/weight-related outcomes of psychotropic medications in children in foster care: a scoping review",
+        "authors": [
+          "Mohsin Khan",
+          "Lauren Q. Malthaner",
+          "Gunjan Singh",
+          "Jill D. McLeigh"
+        ],
+        "abstract": "",
+        "source": "Children and Youth Services Review",
+        "issn": "0190-7409",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-06",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1093/bjsw/bcag214",
         "doi": "10.1093/bjsw/bcag214",
         "url": "https://doi.org/10.1093/bjsw/bcag214",
@@ -78240,11 +80890,11 @@
     ]
   },
   "totals": {
-    "socialSecurity": 1567,
-    "elderCare": 463,
-    "healthReform": 722,
-    "agingHealth": 657,
-    "socialWork": 294
+    "socialSecurity": 1568,
+    "elderCare": 482,
+    "healthReform": 780,
+    "agingHealth": 682,
+    "socialWork": 301
   },
   "feeds_ok": 41
 }
