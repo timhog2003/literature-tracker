@@ -1,8 +1,27 @@
 {
-  "date": "2026-10-06",
-  "fetched": "2026-10-06T07:45:51+00:00",
+  "date": "2026-10-07",
+  "fetched": "2026-10-07T07:25:48+00:00",
   "domains": {
     "socialSecurity": [
+      {
+        "id": "doi:10.1111/jori.70084",
+        "doi": "10.1111/jori.70084",
+        "url": "https://doi.org/10.1111/jori.70084",
+        "title": "Selection and screening in cyber insurance markets",
+        "authors": [
+          "Dingchen Ning"
+        ],
+        "abstract": "Abstract                   This paper studies how information frictions shape demand, screening, and contract design in the U.S. cyber insurance market. I develop a framework in which firms sort into coverage based on latent cyber risk while insurers screen using coarse signals and manage residual exposure more through coverage quantities than through price. Using proprietary broker data, I document three findings consistent with this mechanism. First, higher‐risk firms are more likely to enter the brokered market and apply for coverage. Second, conditional on application, insurer acceptance is more closely related to a survey‐based score than to external risk measures that better capture realized incidents. Third, among issued policies, differences in assessed risk are reflected more in limits and adjusted coverage than in price. The results show that cyber insurance capacity is constrained not only by aggregate supply, but by how coarse risk classification generates residual adverse selection that insurers manage through contract design.",
+        "source": "Journal of Risk and Insurance",
+        "issn": "0022-4367",
+        "date": "2026-10-06",
+        "subjects": [],
+        "domains": [
+          "socialSecurity"
+        ],
+        "firstSeen": "2026-10-07",
+        "fetched_from": "crossref"
+      },
       {
         "id": "doi:10.1016/j.jpubeco.2026.105743",
         "doi": "10.1016/j.jpubeco.2026.105743",
@@ -24308,6 +24327,184 @@
         "fetched_from": "crossref"
       },
       {
+        "id": "doi:10.1093/gerona/glag244",
+        "doi": "10.1093/gerona/glag244",
+        "url": "https://doi.org/10.1093/gerona/glag244",
+        "title": "Planetary Health Diet Adherence and Frailty in Older Adults: Evidence from the Seniors-ENRICA Cohorts",
+        "authors": [
+          "Paul Diez-Echave",
+          "Rosario Ortolá",
+          "David Martínez-Gómez",
+          "José Luis Peñalvo",
+          "Ligia J Domínguez",
+          "Fernando Rodríguez-Artalejo",
+          "Mercedes Sotos-Prieto"
+        ],
+        "abstract": "Abstract                                        Background                     Frailty is a major determinant of disability and adverse outcomes in older adults. The Planetary Health Diet (PHD), a plant-based dietary pattern promoting environmental sustainability, has been associated with lower mortality and reduced chronic disease risk. We examined the association between adherence to the Planetary Health Diet Index (PHDI) and frailty over time using repeated frailty assessments.                                                           Methods                     Data came from two cohorts of community-dwelling older adults: Seniors-ENRICA-1 (2008-2015; ≥60 years; n = 3,289) and Seniors-ENRICA-2 (2015-2023; ≥65 years; n = 3,273). Baseline diet was assessed using a validated diet history, and adherence to the PHD was assessed using the PHDI (0-140), based on 15 food groups. Frailty was defined by the Fried phenotype (≥3 criteria of exhaustion, low physical activity, slow gait, muscle weakness, unintentional weight loss). Generalized estimating equation (GEE) models estimated odds ratios (OR) and 95% confidence intervals (CI) for frailty across PHDI tertiles, adjusting for sociodemographic, lifestyle, and clinical factors.                                                           Results                     Higher PHDI adherence was consistently associated with lower odds of frailty over time. Comparing highest vs. lowest tertiles, multivariable-adjusted ORs (95% CI) were 0.62 (0.42, 0.92) in Seniors-ENRICA-1, 0.40 (0.24, 0.65) in Seniors-ENRICA-2 and 0.52 (0.38, 0.70) in the pooled analyses. Higher PHDI adherence was primarily associated with lower odds of low physical activity, while vegetables and fruits showed the strongest independent associations among individual PHDI components.                                                           Conclusions                     Greater PHDI adherence is associated with lower odds of frailty in Spanish older adults, supporting the potential role of sustainable, plant-based dietary patterns for healthy ageing.",
+        "source": "The Journals of Gerontology, Series A: Biological Sciences and Medical Sciences",
+        "issn": "1079-5006",
+        "date": "2026-10-06",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "elderCare"
+        ],
+        "firstSeen": "2026-10-07",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08443-1",
+        "doi": "10.1186/s12877-026-08443-1",
+        "url": "https://doi.org/10.1186/s12877-026-08443-1",
+        "title": "Mental health literacy and help-seeking behaviour among older adults in Mysuru, India: a mixed methods study",
+        "authors": [
+          "Syeda Asra Sanober",
+          "D. M. Shilpa"
+        ],
+        "abstract": "Abstract                                        Background                     As populations age globally, mental health remains a frequently neglected aspect of healthy ageing. Older adults face biological, psychological, and social challenges that heighten their risk of mental health problems, yet professional service utilization remains low. In India, this treatment gap is worsened by limited mental health literacy, stigma, and socio-cultural barriers. This study assessed mental health literacy and help-seeking behaviour among older adults in Mysuru, examined their association, and explored barriers and facilitators influencing professional help-seeking.                                                           Methods                     An explanatory sequential mixed-methods design was used. A community-based cross-sectional survey was conducted among 232 older adults (aged ≥ 60 years) selected through multistage stratified sampling from rural and urban Mysuru Taluk, Karnataka. Mental health literacy was measured using the Mental Health Literacy Scale (MHLS) and help-seeking behaviour using the Attitudes Toward Seeking Professional Psychological Help Scale (ATSPPH). Non-parametric tests and Spearman’s correlation were applied. Eight in-depth interviews followed, analyzed using Braun and Clarke’s thematic analysis and Lewin’s Force Field Analysis framework.                                                           Results                                            Participants had a median MHLS score of 105 (IQR 12), representing a substantial proportion of the maximum possible score of 160, yet only 7.8% had sought professional help in the preceding 12 months, with most turning first to family or friends. A significant negative correlation existed between mental health literacy and help-seeking attitudes (ρ = -0.262,                       p                        &lt; 0.001). Education and family structure significantly influenced both outcomes. Five qualitative themes emerged: understanding of mental health, experiences of emotional distress, help-seeking and coping, barriers to care, and facilitators of support. Key barriers included stigma, emotional suppression, financial constraints, and misattribution of distress to normal ageing, while family support, awareness, and accessible services were key facilitators.                                                                                Conclusions                     Despite a comparatively favourable median mental health literacy score, professional help-seeking among older adults in Mysuru remains limited. Targeted awareness interventions, stigma reduction strategies, and strengthened community-based mental health services are needed.                                                           Clinical trial number                     Not applicable.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-06",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-07",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08367-w",
+        "doi": "10.1186/s12877-026-08367-w",
+        "url": "https://doi.org/10.1186/s12877-026-08367-w",
+        "title": "Safe homecoming intervention after hospital discharge: a retrospective cohort study of mortality and readmission among patients 75 years or older in Sweden",
+        "authors": [
+          "Ulrika Westerling",
+          "Tahir Taj",
+          "Emma Nilsing Strid",
+          "Liselotte Hermansson",
+          "Mikko Hellgren"
+        ],
+        "abstract": "Abstract                                        Background                                            After a hospital stay, older patients are at increased risk of health complications that may lead to readmission to hospital or premature death. Globally, numerous interventions have been applied to enhance transitional care for older patients, but the evidence base remains inconclusive. One form of a transitional care intervention is the Swedish primary health care                       Safe homecoming                       intervention, a time-limited, interprofessional and tailored home health care intervention designed to prevent avoidable complications and readmissions following hospital discharge. The effects of                       Safe homecoming                       have not yet been scientifically evaluated. The present study aimed to assess the association between the interprofessional                       Safe                       h                       omecoming                       intervention and the risk of death or readmission.                                                                                Methods                                            We conducted a retrospective propensity score-matched cohort study in Örebro County, Sweden, using administrative and medical-record data from 2013 to 2020. The source cohort comprised 38,338 patients aged 75 years or older who had been admitted to hospital for at least one day. We included 128 patients who received the interprofessional                       Safe homecoming                       intervention at a single primary health care centre between 1 November 2016 and 31 May 2019 and 512 propensity score-matched controls from across the county receiving standard care.                                                                                Results                                            The mean age was 85.5 years, and 60.9% of patients in both groups were women. At 90 days, the cumulative incidence of first hospital readmission was 20.3% in the intervention group and 33.6% among controls (Gray’s test                       p                        = 0.005). In the competing-risk analysis, the Fine-Gray subdistribution hazard ratio was 0.57 (95% CI 0.37–0.86;                       p                        = 0.008). The corresponding cause-specific Cox model yielded an HR of 0.55 (95% CI 0.36–0.84;                       p                        = 0.005). At 365 days, the Fine-Gray estimate was 0.79 (95% CI 0.59–1.05;                       p                        = 0.098). Mortality estimates favoured the intervention group numerically but were imprecise, with confidence intervals including the null at all evaluated follow-up times.                                                                                Conclusion                                            The Safe Homecoming                       intervention was associated with a lower risk of first hospital readmission at 90 days, whereas there was no clear evidence of an association with mortality or longer-term readmission. Given the observational design, small intervention sample, potential residual confounding and evaluation of multiple follow-up time points, these findings should be considered exploratory and require confirmation in larger prospective studies.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-06",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-07",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08422-6",
+        "doi": "10.1186/s12877-026-08422-6",
+        "url": "https://doi.org/10.1186/s12877-026-08422-6",
+        "title": "Effectiveness of early supervised walking sessions on a walking treadmill in older inpatients after cancer surgery: study protocol for the APPAHOCA-2 trial",
+        "authors": [
+          "Heidi Solem-Laviec",
+          "Bérengère Beauplet",
+          "Alexandra Leconte",
+          "Axel Coquerel",
+          "Flavie Demeude",
+          "Oriane Thuard",
+          "Alexis Ruet",
+          "Vianney Bastit",
+          "Emmanuel Babin",
+          "Sharmini Varatharajah",
+          "Jean-Marc Guilloit",
+          "Rafaelle Fauvet",
+          "Thibaut Waeckel",
+          "Joy Perrier",
+          "Justine Lequesne",
+          "Bénédicte Clarisse"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-06",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-07",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08403-9",
+        "doi": "10.1186/s12877-026-08403-9",
+        "url": "https://doi.org/10.1186/s12877-026-08403-9",
+        "title": "Components of family empowerment for family caregivers of older adults with dementia: focus group interviews",
+        "authors": [
+          "Hye-Ah Yeom",
+          "So-Yoon Kim"
+        ],
+        "abstract": "Abstract                                        Background                     Strengthening empowerment plays a pivotal role in supporting family caregivers of older adults with dementia. This study explored the comprehensive caregiving experiences of both family caregivers and dementia care professionals to identify and describe the components of family empowerment within the Korean context.                                                           Methods                     A qualitative study was conducted using semi-structured focus group interviews (FGIs). Participants included 14 family caregivers (3 groups) and 5 Dementia care professionals (1 group). Psychological Empowerment Model (PEM) served as the theoretical framework to understand the dimensions of empowerment. The specific components of empowerment in Korean family caregivers of older adults with dementia were analyzed using qualitative thematic analysis.                                                           Results                     Seven main themes and 14 sub-themes were identified as components of family empowerment. The main themes included: (1) Reconstructing the caregiving situation and awareness; (2) Acquiring dementia information through experiential means; (3) Satisfaction with doing my best in caregiving; (4) Balance between self-care and family care; (5) Securing and utilizing dementia-related resources; (6) Reflections of caregiving experiences; and (7) New roles and relationships created through caregiving.                                                           Conclusion                     The findings of the study elucidate that family empowerment of family caregivers of older adults with dementia is a multidimensional construct: it is established through the cognitive process of reconstructing caregiving perceptions, emotional fulfillment derived from the stability of the caregiving process, behavioral practices of balancing self-care with family care, and relational reinforcement gained through newly established roles. Future efforts should establish sustainable support systems through education, resource linkage, and emotional support. Additionally, we propose the development of empowerment intervention programs and measurement tools based on these identified components.                                                           Clinical trial number                     Not applicable.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-06",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-07",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08407-5",
+        "doi": "10.1186/s12877-026-08407-5",
+        "url": "https://doi.org/10.1186/s12877-026-08407-5",
+        "title": "Societal actors’ perceptions of intersectoral collaboration and the participation of older adults in the development of age-friendly environments",
+        "authors": [
+          "Anna Nivestam",
+          "Madelene Törnblom",
+          "Maria Haak",
+          "Albert Westergren"
+        ],
+        "abstract": "Abstract                                        Background                     Older adults’ participation and intersectoral collaboration are central to the development of age-friendly environments. While previous research has emphasised the importance of these principles, less is known about how they are understood and enacted by societal actors in practice. This creates a need to explore societal actors’ perceptions of both intersectoral collaboration and older adults’ participation in the development of age-friendly environments.                                                           Method                     The study had a participatory qualitative design. Data were collected through a World Café involving 19 societal actors in a Swedish municipal context. Participants represented several societal sectors relevant to age-friendly environments, including welfare, care, public health, governance, social sustainability, urban planning,mobility, civil society, and voluntary engagement.                                                           Findings                     The findings showed that participants perceived intersectoral collaboration as requiring shared societal responsibility across multiple sectors, while responsibility risked becoming unclear when no actor had an explicit mandate to coordinate, prioritise and act. Intersectoral collaboration was viewed as a way of sharing resources, yet also as vulnerable when it relied mainly on personal relationships and informal networks rather than organisationally embedded structures. Similarly, older adults’ participation was highly valued when developing age-friendly initiatives, but participants questioned whether existing participation channels adequately reflect the diversity of older adults’ experiences and needs.                                                           Conclusion                     Age-friendly work requires shared responsibility across societal actors, supported by clear coordination. Personal relationships and informal networks should be recognised as valuable for enabling collaboration, but they need to be complemented by formal structures to ensure sustainability over time. Moreover, greater efforts to reach seldom-heard older adults are needed. Doing so may contribute to more nuanced and age-friendly initiatives that better reflect the diverse needs of the older population.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-06",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-07",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08410-w",
+        "doi": "10.1186/s12877-026-08410-w",
+        "url": "https://doi.org/10.1186/s12877-026-08410-w",
+        "title": "Associations between occupational balance and health-related quality of life in informal caregivers of persons after stroke: a cross-sectional study",
+        "authors": [
+          "Hanna Köttl",
+          "Stefanie Lentner",
+          "Mandana Fallahpour",
+          "Evelyn Haberl",
+          "Larisa Baciu",
+          "Susanne Guidetti",
+          "Michael Schön",
+          "Cornelia Lischka",
+          "Mona Dür"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-06",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-07",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1093/geront/gnag235",
         "doi": "10.1093/geront/gnag235",
         "url": "https://doi.org/10.1093/geront/gnag235",
@@ -24988,6 +25185,30 @@
           "agingHealth"
         ],
         "firstSeen": "2026-10-03",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.jhealeco.2026.103189",
+        "doi": "10.1016/j.jhealeco.2026.103189",
+        "url": "https://doi.org/10.1016/j.jhealeco.2026.103189",
+        "title": "Beyond targeting women: Intrahousehold contexts and the effectiveness of food vouchers",
+        "authors": [
+          "Seollee Park",
+          "Yaeeun Han",
+          "Hyuncheol Bryant Kim"
+        ],
+        "abstract": "",
+        "source": "Journal of Health Economics",
+        "issn": "0167-6296",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "socialSecurity",
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-06",
         "fetched_from": "crossref"
       },
       {
@@ -30133,27 +30354,61 @@
         "fetched_from": "crossref"
       },
       {
-        "id": "doi:10.1016/j.jhealeco.2026.103189",
-        "doi": "10.1016/j.jhealeco.2026.103189",
-        "url": "https://doi.org/10.1016/j.jhealeco.2026.103189",
-        "title": "Beyond targeting women: Intrahousehold contexts and the effectiveness of food vouchers",
+        "id": "doi:10.1016/j.socscimed.2026.119917",
+        "doi": "10.1016/j.socscimed.2026.119917",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.119917",
+        "title": "Work Without a Roadmap: A Qualitative Analysis of Occupational and Structural Challenges Among Adolescent Peer Workers in HIV Programs in Kenya",
         "authors": [
-          "Seollee Park",
-          "Yaeeun Han",
-          "Hyuncheol Bryant Kim"
+          "Ashley Chory",
+          "Ava Boal",
+          "Jack Nyagaya",
+          "Janet Lidweye",
+          "Josephine Aluoch",
+          "Sakshi Sawarkar",
+          "Lonnie Embleton",
+          "Mary Ott",
+          "Rachel Vreeman",
+          "Edith Apondi"
         ],
         "abstract": "",
-        "source": "Journal of Health Economics",
-        "issn": "0167-6296",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
         "date": "2026-10-01",
         "subjects": [],
         "domains": [
           "healthReform",
-          "socialSecurity",
           "elderCare",
-          "agingHealth"
+          "agingHealth",
+          "socialWork"
         ],
-        "firstSeen": "2026-10-06",
+        "firstSeen": "2026-10-07",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.socscimed.2026.119918",
+        "doi": "10.1016/j.socscimed.2026.119918",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.119918",
+        "title": "Intersectional and Territorial Exclusion in Brazil’s Aging Policy Field: A Critical Analysis of Access to Bodily Practices and Inequalities",
+        "authors": [
+          "Thiago Medeiros da Costa Daniele",
+          "Larissa Oliveira Nascimento",
+          "Letticia de Araújo Moura",
+          "Maria Araruna Correia Lima",
+          "Eduardo Correia Ponte",
+          "Danilo Garcia"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-07",
         "fetched_from": "crossref"
       },
       {
@@ -36322,6 +36577,782 @@
         "fetched_from": "crossref"
       },
       {
+        "id": "doi:10.1001/jama.2026.12565",
+        "doi": "10.1001/jama.2026.12565",
+        "url": "https://doi.org/10.1001/jama.2026.12565",
+        "title": "Threshold in Focus—Defining Amyloid Positivity on the Centiloid Scale",
+        "authors": [
+          "Ilya M. Nasrallah",
+          "Christopher A. Brown"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-06",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-07",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.13116",
+        "doi": "10.1001/jama.2026.13116",
+        "url": "https://doi.org/10.1001/jama.2026.13116",
+        "title": "Amyloid PET Quantitation and Centiloid Thresholds in the Diagnosis of Alzheimer Disease",
+        "authors": [
+          "Ganna Blazhenets",
+          "David N. Soleimani-Meigooni",
+          "Konstantinos Chiotis",
+          "Isabel E. Allen",
+          "Gil D. Rabinovici",
+          "Renaud La Joie",
+          "Liana G. Apostolova",
+          "Breton M. Asken",
+          "Alexandre Bejanin",
+          "Tammie L. S. Benzinger",
+          "Tobey J. Betthauser",
+          "Marina Bluma",
+          "Stephanie Bombois",
+          "Pierrick Bourgeat",
+          "Vincent Bouteloup",
+          "Meredith N. Braskie",
+          "Matthias Brendel",
+          "Adam M. Brickman",
+          "Natalie Bryant",
+          "Santiago Bullich",
+          "Maria C. Carrillo",
+          "Kaitlin Casaletto",
+          "David M. Cash",
+          "Chiung-Chih Chang",
+          "Hsin-I Chang",
+          "Yishu Chao",
+          "Genevieve Chêne",
+          "Gaël Chételat",
+          "William Coath",
+          "Lyduine E. Collij",
+          "Lise Colmant",
+          "Maria M. Corrada",
+          "Suzanne Craft",
+          "Bradford C. Dickerson",
+          "Bruno Dubois",
+          "Carole Dufouil",
+          "Alfonso Fajardo",
+          "Gill Farrar",
+          "Juan Fortea",
+          "Lars Frings",
+          "Giovanni B. Frisoni",
+          "Raquel C. Gardner",
+          "Valentina Garibotto",
+          "Johannes S. Gnörich",
+          "Brian A. Gordon",
+          "Yuna Gu",
+          "Yihui Guan",
+          "Tengfei Guo",
+          "Bernard J. Hanseeuw",
+          "Oskar Hansson",
+          "Theresa M. Harrison",
+          "Qi Huang",
+          "Shu-Hua Huang",
+          "Leonardo Iaccarino",
+          "Kazunari Ishii",
+          "Kenji Ishi",
+          "William J. Jagust",
+          "Sterling C. Johnson",
+          "Takashi Kato",
+          "Yuta Katsumi",
+          "Jeffrey Kaye",
+          "Robert A. Koeppe",
+          "Guilherme D. Kolinger",
+          "Joel H. Kramer",
+          "Susan M. Landau",
+          "Brigitte Landeau",
+          "Patrick J. Lao",
+          "Sangwon Lee",
+          "Alberto Lleó",
+          "Brian J. Lopresti",
+          "Val J. Lowe",
+          "Jose A. Luchsinger",
+          "Maura Malpetti",
+          "Xiaoxie Mao",
+          "Andrew March",
+          "Colin L. Masters",
+          "Philipp T. Meyer",
+          "Florence Mezenge",
+          "Elizabeth C. Mormino",
+          "Maria Franquesa-Mullerat",
+          "Akinori Nakamura",
+          "Agneta Nordberg",
+          "John T. O’Brien",
+          "Sid E. O’Bryant",
+          "Ioannis Pappas",
+          "Debora E. Peretti",
+          "Lisa Quenon",
+          "Christopher C. Rowe",
+          "James B. Rowe",
+          "Marc D. Rudolph",
+          "Gemma Salvadó",
+          "Jonathan M. Schott",
+          "Daniel L. Schwartz",
+          "Christopher G. Schwarz",
+          "Sang Won Seo",
+          "Mahnaz Shekari",
+          "Lisa C. Silbert",
+          "Ruben Smith",
+          "Heather M. Snyder",
+          "Andrzej Sokolowski",
+          "Reisa A. Sperling",
+          "Pan Sun",
+          "Jacinda Z. Taggett",
+          "Arthur W. Toga",
+          "Alexandra Touroutoglou",
+          "David E. Vaillancourt",
+          "Elsmarieke van de Giessen",
+          "Jort Vijverberg",
+          "Prashanthi Vemuri",
+          "Nicolas Villain",
+          "Victor L. Villemagne",
+          "Sylvia Villeneuve",
+          "Wei-en Wang",
+          "Michael Weiner",
+          "Davis Woodworth",
+          "Cally Xiao",
+          "Fang Xie",
+          "Yeojun Yoon",
+          "Christina B. Young",
+          "Mijin Yun"
+        ],
+        "abstract": "Importance                     Amyloid positron emission tomography (PET) is increasingly used in research and clinical settings to determine the etiology of cognitive decline and eligibility for amyloid-targeting therapies. To assist with amyloid PET evaluation and to guide clinical decision-making, images can be quantified in a standardized unit called Centiloid, the interpretation of which can vary according to the method and threshold used.                                                           Objective                     To collect Centiloid values from available studies and determine robust positivity cutoffs using data-driven methods and correspondence with visual reads.                                                           Data Sources                     PubMed search (October 2024) identified studies with Centiloid values. Corresponding authors were invited to share individual participant data. Additional data were obtained through access-controlled repositories and conference outreach (July 2024-July 2025).                                                           Study Selection                     Studies were included if they provided Centiloids, radiotracer, age, and sex.                                                           Data Extraction and Synthesis                     Each study was analyzed using a unified statistical pipeline; study estimates were pooled using random-effects meta-analysis.                                                           Main Outcomes and Measures                     Gaussian mixture models (GMMs) were fitted to Centiloid values for each study. In studies with a bimodal distribution (per integrated completed likelihood), single cutoffs for positivity were set as mean plus 2 SDs of the lower gaussian component. Using GMMs, a double-cutoff approach defined a lower certainty range using a 90% posterior probability cutoff for assignment to the low (amyloid-negative) vs high (amyloid-positive) component. An alternative Centiloid cutoff was derived from maximizing the correspondence (Cohen κ) with the binary visual reads when available.                                                           Results                                            This meta-analysis included cross-sectional amyloid PET scans acquired with 5 radiotracers from 49 227 participants across 53 studies from 15 countries (mean age, 71 years; 54% female, 62% cognitively impaired). The data-driven GMM approach identified a bimodal distribution in 51 studies (n = 48 786), resulting in a single cutoff for positivity of 18 Centiloids (95% CI,16-19;                       I                       2                        = 97%). The double-cutoff approach revealed high confidence for interpreting scans as negative when Centiloid values were lower than 11 (95% CI, 9-13;                       I                       2                        = 95%) and interpreting scans as positive if Centiloid values were higher than 26 (95% CI, 24-28;                       I                       2                        = 95%). In analyses of correspondence with binary (positive or negative) visual reads of amyloid PET scans (n = 35 045; 36 studies), Centiloids were highly predictive of visual positivity (Cohen κ, 0.86; 95% CI, 0.83-0.89;                       I                       2                        = 96%) with a cutoff of 27 Centiloids (95% CI, 24-30;                       I                       2                        = 80%).                                                                                Conclusions and Relevance                     In this individual participant data meta-analysis, positivity cutoffs converged around 18 Centiloids (data-driven) and 27 Centiloids (visual reads). Findings from a double-cutoff analysis suggest that scans in the 11 to 26 Centiloid range should be interpreted with caution depending on the context of use.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-06",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-07",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.12242",
+        "doi": "10.1001/jama.2026.12242",
+        "url": "https://doi.org/10.1001/jama.2026.12242",
+        "title": "Iron or Multiple Micronutrient Powder Supplements With Malaria Chemoprevention in Rural Malawian Children",
+        "authors": [
+          "Kamija S. Phiri",
+          "Glory Mzembe",
+          "Maclean Vokhiwa",
+          "Alistair R. D. McLean",
+          "Chikondi Ngwira",
+          "Ernest Moya",
+          "Owen P. L. Mtambo",
+          "Jena Hamadani",
+          "Mayamiko D. Kapulula",
+          "Louise Randall",
+          "Gomezgani Mhango",
+          "Naomi Von Dinklage",
+          "Ruth Mangisa",
+          "Leila M. Larson",
+          "Mary Magoya",
+          "Danielle Clucas",
+          "Rebecca Harding",
+          "Anthony E. Chirwa",
+          "Miranda Starr",
+          "Hans Verhoef",
+          "Alinune N. Kabaghe",
+          "Ayse Y. Demir",
+          "Beverley-Ann Biggs",
+          "Martin N. Mwangi",
+          "Sabine Braat",
+          "Ricardo Ataíde",
+          "Sant-Rayn Pasricha"
+        ],
+        "abstract": "Importance                     The World Health Organization recommends universal preventive iron interventions for young children in anemia-prevalent areas to alleviate the effects of anemia on child neurodevelopment and other outcomes. However, the functional benefits have not been confirmed in randomized clinical trials and there are concerns that iron interventions may increase infection risk.                                                           Objective                     To determine whether universal iron interventions administered with malaria chemoprevention improve child functional outcomes and are safe regarding infection risk.                                                           Design, Setting, and Participants                     This randomized clinical trial enrolled 6-month-old infants at 4 centers in southern Malawi, which is a rural, malaria-endemic setting. Enrollment occurred between April 2020 and October 2021. The final assessment was completed in October 2022.                                                           Interventions                     Six months of (1) iron syrup and malaria chemoprevention (n = 542), (2) iron-containing micronutrient powders and malaria chemoprevention (n = 543), (3) malaria chemoprevention alone (n = 541), or (4) placebo alone (n = 542). Children were assessed after the 6-month intervention period and after 6-month follow-up.                                                           Main Outcomes and Measures                     The primary outcome was the Cognitive Scale composite score at the end of the intervention period using the Bayley Scales of Infant and Toddler Development–Third Edition (Bayley-III). The secondary outcomes included Bayley-III Language Scale and Motor Scale composite scores, anemia prevalence, and concentrations of hemoglobin and ferritin. The primary and secondary outcomes were measured when children were 1 year of age and when they were 18 months of age. The safety outcomes included incidence of infection (including malaria).                                                           Results                     A total of 2168 infants (mean age, 5.7 months; 49% were female; and 71% had anemia) were recruited to participate. Compared with malaria chemoprevention alone, there was no between-group difference in the Bayley-III Cognitive Scale composite score for iron syrup and malaria chemoprevention (mean difference [MD], −0.52 [95% CI, −2.52 to 1.48]). Compared with malaria chemoprevention alone, there was no between-group difference in the Bayley-III Cognitive Scale composite score for iron-containing micronutrient powders and malaria chemoprevention (MD, −0.85 [95% CI, −2.80 to 1.09]). Compared with placebo alone, there was no between-group difference in the Bayley-III Cognitive Scale composite score for malaria chemoprevention alone (MD, 1.62 [95% CI, −0.31 to 3.55]). Although the 2 iron interventions increased ferritin concentration, neither reduced anemia prevalence compared with malaria chemoprevention alone. Compared with malaria chemoprevention alone, neither iron syrup and malaria chemoprevention nor iron-containing micronutrient powders and malaria chemoprevention increased malaria risk. Compared with placebo alone, malaria chemoprevention alone reduced the incidence of malaria.                                                           Conclusions and Relevance                     Two universal, 6-month iron interventions with malaria chemoprevention did not improve cognitive outcomes among children in Malawi.                                                           Trial Registration                                            anzctr.org.au Identifier:                       ACTRN12620000386932",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-06",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-07",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.12484",
+        "doi": "10.1001/jama.2026.12484",
+        "url": "https://doi.org/10.1001/jama.2026.12484",
+        "title": "Iron or Multiple Micronutrient Powder Supplements With Malaria Chemoprevention in Rural Malawian Children",
+        "authors": [],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-06",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-07",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.14187",
+        "doi": "10.1001/jama.2026.14187",
+        "url": "https://doi.org/10.1001/jama.2026.14187",
+        "title": "Iron Delivery Amid Nutritional and Infectious Adversity",
+        "authors": [
+          "Sarah E. Cusick",
+          "Andrew Ssentoogo Ssemata",
+          "Andrea L. Conroy"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-06",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-07",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.13416",
+        "doi": "10.1001/jama.2026.13416",
+        "url": "https://doi.org/10.1001/jama.2026.13416",
+        "title": "Managing Chronic Subdural Hematoma With Adjunctive Embolization of Middle Meningeal Artery—Reply",
+        "authors": [
+          "Jai Jai Shiva Shankar",
+          "Namita Sinha"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-06",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-07",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.16190",
+        "doi": "10.1001/jama.2026.16190",
+        "url": "https://doi.org/10.1001/jama.2026.16190",
+        "title": "Rural-Urban Disparities in the Delivery and Intensity of the Medicare Hospice Benefit",
+        "authors": [
+          "Claire K. Ankuda",
+          "Ken Covinsky",
+          "Bocheng Jing",
+          "Helen P. Knight",
+          "Krista L. Harrison",
+          "Melissa D. Aldridge",
+          "Meredith A. MacMartin",
+          "Lauren J. Hunt"
+        ],
+        "abstract": "This cross-sectional study examines how hospice care varies across the rural-urban continuum, including length of stay, care setting, visits by hospice staff, and rates of higher-level care.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-06",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-07",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.13413",
+        "doi": "10.1001/jama.2026.13413",
+        "url": "https://doi.org/10.1001/jama.2026.13413",
+        "title": "Managing Chronic Subdural Hematoma With Adjunctive Embolization of Middle Meningeal Artery",
+        "authors": [
+          "Mattis A. Madsbu",
+          "Sasha Gulati",
+          "Pravin Salunke"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-06",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-07",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.14809",
+        "doi": "10.1001/jama.2026.14809",
+        "url": "https://doi.org/10.1001/jama.2026.14809",
+        "title": "Postural Orthostatic Tachycardia Syndrome (POTS)",
+        "authors": [
+          "Tae Hwan Chung",
+          "Satish R. Raj"
+        ],
+        "abstract": "Importance                     Postural orthostatic tachycardia syndrome (POTS) is a chronic autonomic disorder characterized by excessive orthostatic tachycardia and multisystem symptoms that affects an estimated 0.1% to 1% of the US population. POTS can substantially impair daily functioning and quality of life.                                                           Observations                     Consensus criteria define POTS by chronic symptoms of orthostatic intolerance accompanied by a sustained heart rate increase of at least 30 beats/min (≥40 beats/min in adolescents aged 12-19 years) within 10 minutes of standing or head-up tilt from a supine position in the absence of orthostatic hypotension, defined as a decrease in either systolic blood pressure of at least 20 mm Hg or diastolic blood pressure of at least 10 mm Hg with positional change. POTS symptoms may include palpitations, lightheadedness, nausea, vomiting, gastroparesis, anorexia, generalized weakness, and muscle pain, despite absence of structural pathology within cardiovascular, gastrointestinal, and neurological organs. POTS predominantly affects females (approximately 90% of cases), with peak incidence from ages 13 to 29 years. However, the true prevalence remains uncertain partly due to underrecognition and lack of a specific diagnostic code for POTS until 2022. Common symptoms include lightheadedness, palpitations, fatigue, cognitive dysfunction (“brain fog”), exercise intolerance, nausea, bloating, constipation, diarrhea, and sleep disturbance. In a survey of 4835 patients, approximately 70% reported substantial functional impairment and loss of school or work participation, and median diagnostic delay was 24 months. In 30% to 40% of cases, symptoms began within 3 months after infections, such as SARS-CoV-2, Epstein-Barr virus, and influenza. Initial evaluation should exclude other conditions that cause sinus tachycardia, including thyroid disease, adrenal insufficiency, pheochromocytoma, cardiomyopathy, valvular heart disease, congenital heart disease, chronic lung disease, medication effects (eg, stimulants, norepinephrine reuptake inhibitors, and diuretics), anemia, and dehydration. First-line treatment includes nonpharmacological strategies to improve cardiac preload, including increased fluid and sodium intake, lower-body compression garments; avoidance of heat exposure, dehydration, and prolonged standing; and structured supervised aerobic training. Pharmacological therapies should be individualized and may include β-blockers, ivabradine, midodrine, fludrocortisone, and pyridostigmine, although evidence supporting many therapeutic interventions is limited by small studies and lack of large, randomized trials.                                                           Conclusions and Relevance                     POTS is a chronic autonomic disorder associated with functional impairment and reduced quality of life that is diagnosed based on characteristic orthostatic symptoms in the absence of orthostatic hypotension after excluding alternative causes of sinus tachycardia. Treatment involves nonpharmacological measures (such as increased fluid and sodium intake), lower-body compression garments, structured exercise training, and individualized pharmacological therapy.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-06",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-07",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.13462",
+        "doi": "10.1001/jama.2026.13462",
+        "url": "https://doi.org/10.1001/jama.2026.13462",
+        "title": "Amoxicillin-Clavulanate vs Amoxicillin for Sinusitis",
+        "authors": [
+          "Michael P. Veve",
+          "Anita Shallal",
+          "John R. Craig"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-06",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-07",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.13468",
+        "doi": "10.1001/jama.2026.13468",
+        "url": "https://doi.org/10.1001/jama.2026.13468",
+        "title": "Amoxicillin-Clavulanate vs Amoxicillin for Sinusitis—Reply",
+        "authors": [
+          "Timothy J. Savage",
+          "Matthew P. Kronman",
+          "Krista F. Huybrechts"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-06",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-07",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.13233",
+        "doi": "10.1001/jama.2026.13233",
+        "url": "https://doi.org/10.1001/jama.2026.13233",
+        "title": "Predictive Utility of Coronary Artery Calcium Score Added to the PREVENT Atherosclerotic Cardiovascular Disease Equations",
+        "authors": [
+          "Xiaoning Huang",
+          "Lucia C. Petito",
+          "Norrina B. Allen",
+          "Ron Blankstein",
+          "Roger S. Blumenthal",
+          "Josef Coresh",
+          "Philip Greenland",
+          "Jennifer E. Ho",
+          "Amit Khera",
+          "Donald M. Lloyd-Jones",
+          "Janani Rangaswami",
+          "James H. Stein",
+          "Chiadi E. Ndumele",
+          "Sadiya S. Khan",
+          "Nilay S. Shah"
+        ],
+        "abstract": "Importance                     The 2026 American College of Cardiology/American Heart Association/Multisociety Dyslipidemia Guideline newly recommends selective use of coronary artery calcium (CAC) scoring based on a 10-year risk of 3% to less than 10% estimated with the Predicting Risk of Cardiovascular Disease EVENTS (PREVENT) atherosclerotic cardiovascular disease (ASCVD) equations. However, the utility of CAC scoring alongside the PREVENT equations for ASCVD risk estimation is not known.                                                           Objective                     To determine the change in predictive utility when adding CAC scores to the PREVENT-ASCVD equations.                                                           Design, Setting, and Participants                     Longitudinal observational cohort study conducted at 6 sites in the United States and enrolling adult participants aged 45 to 79 years without ASCVD at baseline in the Multi-Ethnic Study of Atherosclerosis.                                                           Exposures                     Ten-year ASCVD risk with the PREVENT-ASCVD equations before and after adding CAC scores.                                                           Main Outcomes                     Performance metrics for estimation of risk of fatal and nonfatal ASCVD, assessed using the Harrell C statistic, calibration, and net reclassification improvement (NRI) for newly defined ASCVD risk categories: low (&amp;amp;lt;3%); borderline (3% to &amp;amp;lt;5%); intermediate (5% to &amp;amp;lt;10%); and high (≥10%).                                                           Results                     A total of 6098 participants were included. At baseline, participant mean age was 61.4 (SD, 9.6) years, 52% were female, mean estimated 10-year ASCVD risk was 6.4% (SD, 4.8%) with the PREVENT-ASCVD base equations, and 49% had a CAC score greater than 0. During 10 years of follow-up, 366 (6%) experienced an ASCVD event. The Harrell C statistic for the PREVENT-ASCVD base equations was 0.73 (95% CI, 0.70-0.75). After adding CAC to the PREVENT-ASCVD base equations, the change in Harrell C statistic was 0.02 (95% CI, 0.01-0.03), and the categorical NRI was 0.095 (95% CI, 0.053-0.137). The calibration slope for the PREVENT-ASCVD base equations was 1.09 (95% CI, 0.93-1.25), and for the PREVENT-ASCVD base plus CAC equations was 0.92 (95% CI, 0.81-1.03). Among those at borderline risk, incident ASCVD occurred in 1.9% of those with CAC score of 0, 3.9% with CAC greater than 0 and less than 100, 7.4% with CAC 100 or greater and less than 300, and 14.3% with CAC 300 or greater.                                                           Conclusions and Relevance                     Among US adults aged 45 to 79 years, addition of CAC score to the PREVENT-ASCVD equations across all risk groups overall only modestly improved and, in some groups, did not change model discrimination and reclassification. Reclassification results support selective use of CAC in those with borderline to intermediate risk estimated by the PREVENT-ASCVD equations.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-06",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-07",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.13465",
+        "doi": "10.1001/jama.2026.13465",
+        "url": "https://doi.org/10.1001/jama.2026.13465",
+        "title": "Amoxicillin-Clavulanate vs Amoxicillin for Sinusitis",
+        "authors": [
+          "Alexis Marouk",
+          "Clémence Chao",
+          "Jean-Paul Fournier"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-06",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-07",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.13706",
+        "doi": "10.1001/jama.2026.13706",
+        "url": "https://doi.org/10.1001/jama.2026.13706",
+        "title": "Parental Support Package for Pregnant and Postpartum Trainees",
+        "authors": [
+          "Kara Patek",
+          "Catherine Windrim",
+          "Jennifer Leavitt"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-06",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-07",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.13709",
+        "doi": "10.1001/jama.2026.13709",
+        "url": "https://doi.org/10.1001/jama.2026.13709",
+        "title": "Parental Support Package for Pregnant and Postpartum Trainees—Reply",
+        "authors": [
+          "Erika L. Rangel",
+          "Tait D. Shanafelt"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-06",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-07",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.13738",
+        "doi": "10.1001/jama.2026.13738",
+        "url": "https://doi.org/10.1001/jama.2026.13738",
+        "title": "The Veteran Affairs’ Approach for Chronic Pain Management",
+        "authors": [
+          "Nilson N. Mendes Neto",
+          "Jessika M. Mendes"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-06",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-07",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.13735",
+        "doi": "10.1001/jama.2026.13735",
+        "url": "https://doi.org/10.1001/jama.2026.13735",
+        "title": "The Veteran Affairs’ Approach for Chronic Pain Management—Reply",
+        "authors": [
+          "Lauren M. Denneson",
+          "William C. Becker",
+          "Karen H. Seal"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-06",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-07",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.12130",
+        "doi": "10.1001/jama.2026.12130",
+        "url": "https://doi.org/10.1001/jama.2026.12130",
+        "title": "Pine, Arizona",
+        "authors": [
+          "Thomas Vu Nguyen"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-06",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-07",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.12133",
+        "doi": "10.1001/jama.2026.12133",
+        "url": "https://doi.org/10.1001/jama.2026.12133",
+        "title": "“Pills You Can’t Stomach”: Poetry, Medicine, and Resisting Metaphor",
+        "authors": [
+          "Rafael Campo"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-06",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-07",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.12877",
+        "doi": "10.1001/jama.2026.12877",
+        "url": "https://doi.org/10.1001/jama.2026.12877",
+        "title": "The Pragmatic Clinical Trial—Reconciling Intention, Design, and State of Mind",
+        "authors": [
+          "Alison J. Huang",
+          "Thomas G. Travison",
+          "Derek C. Angus"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-06",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-07",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.16498",
+        "doi": "10.1001/jama.2026.16498",
+        "url": "https://doi.org/10.1001/jama.2026.16498",
+        "title": "Everyone Will Feel the $1 Trillion Cut in Medicaid",
+        "authors": [
+          "Derek C. Angus",
+          "Matthew B. O’Connor"
+        ],
+        "abstract": "Proposed Medicaid cuts in the One Big Beautiful Bill Act and how they could affect patients, clinicians, and health care organizations are discussed by Derek C. Angus, MD, MPH, and Julie Donohue, PhD, professor and chair of health policy and management at the University of Pittsburgh, on this episode of the                     Healthy Dialogue                     podcast.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-06",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-07",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2025.16058",
+        "doi": "10.1001/jama.2025.16058",
+        "url": "https://doi.org/10.1001/jama.2025.16058",
+        "title": "Editorials",
+        "authors": [],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-06",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-07",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.12069",
+        "doi": "10.1001/jama.2026.12069",
+        "url": "https://doi.org/10.1001/jama.2026.12069",
+        "title": "Premature Menopause Linked to Increased Hypertension Risk",
+        "authors": [
+          "Samantha Anderer"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-06",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-07",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.17683",
+        "doi": "10.1001/jama.2026.17683",
+        "url": "https://doi.org/10.1001/jama.2026.17683",
+        "title": "Is Phage Therapy the Next Big Hope for Urinary Tract Infections?",
+        "authors": [
+          "Samantha Anderer",
+          "Jennifer Abbasi"
+        ],
+        "abstract": "This Medical News article discusses recently launched clinical trials of bacteriophage therapy for recurrent and multidrug-resistant urinary tract infections (UTIs).",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-06",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-07",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.12071",
+        "doi": "10.1001/jama.2026.12071",
+        "url": "https://doi.org/10.1001/jama.2026.12071",
+        "title": "Colorectal Cancer Deaths Increase Among Younger Adults",
+        "authors": [
+          "Samantha Anderer"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-06",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-07",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.9439",
+        "doi": "10.1001/jama.2026.9439",
+        "url": "https://doi.org/10.1001/jama.2026.9439",
+        "title": "Nearly Half of Dementia Cases May Be Preventable—Here’s What the Research Says So Far",
+        "authors": [
+          "Rita Rubin"
+        ],
+        "abstract": "This Medical News article discusses research on modifiable risk factors that could protect against Alzheimer disease and other dementias.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-06",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-07",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.12070",
+        "doi": "10.1001/jama.2026.12070",
+        "url": "https://doi.org/10.1001/jama.2026.12070",
+        "title": "FDA Authorizes First Autonomous Robotic Blood Draw Device",
+        "authors": [
+          "Samantha Anderer"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-06",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-07",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2025.16057",
+        "doi": "10.1001/jama.2025.16057",
+        "url": "https://doi.org/10.1001/jama.2025.16057",
+        "title": "Audio Highlights",
+        "authors": [],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-06",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-07",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2025.16056",
+        "doi": "10.1001/jama.2025.16056",
+        "url": "https://doi.org/10.1001/jama.2025.16056",
+        "title": "JAMA",
+        "authors": [],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-06",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-07",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1007/s40273-026-01663-8",
+        "doi": "10.1007/s40273-026-01663-8",
+        "url": "https://doi.org/10.1007/s40273-026-01663-8",
+        "title": "Correction: Comparing User‑Written Codes for Performing Economic Evaluations in Stata",
+        "authors": [
+          "Bradley Barker-Jones",
+          "Patricia Navvuga",
+          "Petra Baji",
+          "Elsa M. R. Marques",
+          "William Hollingworth"
+        ],
+        "abstract": "",
+        "source": "PharmacoEconomics",
+        "issn": "1170-7690",
+        "date": "2026-10-06",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-07",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1007/s40273-026-01672-7",
+        "doi": "10.1007/s40273-026-01672-7",
+        "url": "https://doi.org/10.1007/s40273-026-01672-7",
+        "title": "Methods in Systematic Reviews of Health Economic Evaluations in Submissions to Health Technology Assessment Agencies: How Systematic Are They, and Does This Matter?",
+        "authors": [
+          "Chris Bartlett",
+          "Rachael McCool",
+          "Matthew Taylor"
+        ],
+        "abstract": "",
+        "source": "PharmacoEconomics",
+        "issn": "1170-7690",
+        "date": "2026-10-06",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-07",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1001/jama.2026.18028",
         "doi": "10.1001/jama.2026.18028",
         "url": "https://doi.org/10.1001/jama.2026.18028",
@@ -37716,6 +38747,30 @@
           "healthReform"
         ],
         "firstSeen": "2026-10-01",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.jhealeco.2026.103189",
+        "doi": "10.1016/j.jhealeco.2026.103189",
+        "url": "https://doi.org/10.1016/j.jhealeco.2026.103189",
+        "title": "Beyond targeting women: Intrahousehold contexts and the effectiveness of food vouchers",
+        "authors": [
+          "Seollee Park",
+          "Yaeeun Han",
+          "Hyuncheol Bryant Kim"
+        ],
+        "abstract": "",
+        "source": "Journal of Health Economics",
+        "issn": "0167-6296",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "socialSecurity",
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-06",
         "fetched_from": "crossref"
       },
       {
@@ -41366,6 +42421,56 @@
         "fetched_from": "crossref"
       },
       {
+        "id": "doi:10.1016/j.socscimed.2026.119908",
+        "doi": "10.1016/j.socscimed.2026.119908",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.119908",
+        "title": "Enacting the body multiple: Wellness strategies among younger adults under biopolitical health governance and accelerated study–labour regimes",
+        "authors": [
+          "Haiyan Gao",
+          "Jiayue Zhao",
+          "Jingru Zhao"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-06",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.socscimed.2026.119916",
+        "doi": "10.1016/j.socscimed.2026.119916",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.119916",
+        "title": "“Their Body Is Their Territory”: Reproductive Autonomy and Governance by Omission in Peru",
+        "authors": [
+          "Maria A. Carrasco",
+          "Amanda Cordova-Gomez",
+          "Angela Sartur",
+          "Deborah Horowitz",
+          "Milka Dinev"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-06",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1056/nejme2605617",
         "doi": "10.1056/nejme2605617",
         "url": "https://doi.org/10.1056/nejme2605617",
@@ -42965,80 +44070,6 @@
         "fetched_from": "crossref"
       },
       {
-        "id": "doi:10.1016/j.socscimed.2026.119908",
-        "doi": "10.1016/j.socscimed.2026.119908",
-        "url": "https://doi.org/10.1016/j.socscimed.2026.119908",
-        "title": "Enacting the body multiple: Wellness strategies among younger adults under biopolitical health governance and accelerated study–labour regimes",
-        "authors": [
-          "Haiyan Gao",
-          "Jiayue Zhao",
-          "Jingru Zhao"
-        ],
-        "abstract": "",
-        "source": "Social Science &amp; Medicine",
-        "issn": "0277-9536",
-        "date": "2026-10-01",
-        "subjects": [],
-        "domains": [
-          "healthReform",
-          "elderCare",
-          "agingHealth",
-          "socialWork"
-        ],
-        "firstSeen": "2026-10-06",
-        "fetched_from": "crossref"
-      },
-      {
-        "id": "doi:10.1016/j.socscimed.2026.119916",
-        "doi": "10.1016/j.socscimed.2026.119916",
-        "url": "https://doi.org/10.1016/j.socscimed.2026.119916",
-        "title": "“Their Body Is Their Territory”: Reproductive Autonomy and Governance by Omission in Peru",
-        "authors": [
-          "Maria A. Carrasco",
-          "Amanda Cordova-Gomez",
-          "Angela Sartur",
-          "Deborah Horowitz",
-          "Milka Dinev"
-        ],
-        "abstract": "",
-        "source": "Social Science &amp; Medicine",
-        "issn": "0277-9536",
-        "date": "2026-10-01",
-        "subjects": [],
-        "domains": [
-          "healthReform",
-          "elderCare",
-          "agingHealth",
-          "socialWork"
-        ],
-        "firstSeen": "2026-10-06",
-        "fetched_from": "crossref"
-      },
-      {
-        "id": "doi:10.1016/j.jhealeco.2026.103189",
-        "doi": "10.1016/j.jhealeco.2026.103189",
-        "url": "https://doi.org/10.1016/j.jhealeco.2026.103189",
-        "title": "Beyond targeting women: Intrahousehold contexts and the effectiveness of food vouchers",
-        "authors": [
-          "Seollee Park",
-          "Yaeeun Han",
-          "Hyuncheol Bryant Kim"
-        ],
-        "abstract": "",
-        "source": "Journal of Health Economics",
-        "issn": "0167-6296",
-        "date": "2026-10-01",
-        "subjects": [],
-        "domains": [
-          "healthReform",
-          "socialSecurity",
-          "elderCare",
-          "agingHealth"
-        ],
-        "firstSeen": "2026-10-06",
-        "fetched_from": "crossref"
-      },
-      {
         "id": "doi:10.1377/hlthaff.2025.01424",
         "doi": "10.1377/hlthaff.2025.01424",
         "url": "https://doi.org/10.1377/hlthaff.2025.01424",
@@ -44020,6 +45051,107 @@
           "healthReform"
         ],
         "firstSeen": "2026-10-06",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.socscimed.2026.119917",
+        "doi": "10.1016/j.socscimed.2026.119917",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.119917",
+        "title": "Work Without a Roadmap: A Qualitative Analysis of Occupational and Structural Challenges Among Adolescent Peer Workers in HIV Programs in Kenya",
+        "authors": [
+          "Ashley Chory",
+          "Ava Boal",
+          "Jack Nyagaya",
+          "Janet Lidweye",
+          "Josephine Aluoch",
+          "Sakshi Sawarkar",
+          "Lonnie Embleton",
+          "Mary Ott",
+          "Rachel Vreeman",
+          "Edith Apondi"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-07",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.socscimed.2026.119918",
+        "doi": "10.1016/j.socscimed.2026.119918",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.119918",
+        "title": "Intersectional and Territorial Exclusion in Brazil’s Aging Policy Field: A Critical Analysis of Access to Bodily Practices and Inequalities",
+        "authors": [
+          "Thiago Medeiros da Costa Daniele",
+          "Larissa Oliveira Nascimento",
+          "Letticia de Araújo Moura",
+          "Maria Araruna Correia Lima",
+          "Eduardo Correia Ponte",
+          "Danilo Garcia"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-07",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.jval.2026.09.3126",
+        "doi": "10.1016/j.jval.2026.09.3126",
+        "url": "https://doi.org/10.1016/j.jval.2026.09.3126",
+        "title": "Reconciling Conflicting Evidence on Peri–Immune Checkpoint Inhibitor COVID-19 mRNA Vaccination in Lung Cancer: A Time-Aligned Target Trial Emulation–Informed Landmark Study",
+        "authors": [
+          "Shih-Sen Lin",
+          "Ju-Fang Liu",
+          "Pei-Sung Hsu",
+          "Hung-Chi Lai",
+          "Wen-Pin Cheng"
+        ],
+        "abstract": "",
+        "source": "Value in Health",
+        "issn": "1098-3015",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-07",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.jval.2026.09.3115",
+        "doi": "10.1016/j.jval.2026.09.3115",
+        "url": "https://doi.org/10.1016/j.jval.2026.09.3115",
+        "title": "Assessing the Value of Digital Health Interventions: A Systematic Review of Evaluation Frameworks and Approaches, Key Dimensions and Criteria",
+        "authors": [
+          "Ann-Kathrin Fischer",
+          "Axel Mühlbacher"
+        ],
+        "abstract": "",
+        "source": "Value in Health",
+        "issn": "1098-3015",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-07",
         "fetched_from": "crossref"
       },
       {
@@ -57238,6 +58370,184 @@
         "fetched_from": "crossref"
       },
       {
+        "id": "doi:10.1093/gerona/glag244",
+        "doi": "10.1093/gerona/glag244",
+        "url": "https://doi.org/10.1093/gerona/glag244",
+        "title": "Planetary Health Diet Adherence and Frailty in Older Adults: Evidence from the Seniors-ENRICA Cohorts",
+        "authors": [
+          "Paul Diez-Echave",
+          "Rosario Ortolá",
+          "David Martínez-Gómez",
+          "José Luis Peñalvo",
+          "Ligia J Domínguez",
+          "Fernando Rodríguez-Artalejo",
+          "Mercedes Sotos-Prieto"
+        ],
+        "abstract": "Abstract                                        Background                     Frailty is a major determinant of disability and adverse outcomes in older adults. The Planetary Health Diet (PHD), a plant-based dietary pattern promoting environmental sustainability, has been associated with lower mortality and reduced chronic disease risk. We examined the association between adherence to the Planetary Health Diet Index (PHDI) and frailty over time using repeated frailty assessments.                                                           Methods                     Data came from two cohorts of community-dwelling older adults: Seniors-ENRICA-1 (2008-2015; ≥60 years; n = 3,289) and Seniors-ENRICA-2 (2015-2023; ≥65 years; n = 3,273). Baseline diet was assessed using a validated diet history, and adherence to the PHD was assessed using the PHDI (0-140), based on 15 food groups. Frailty was defined by the Fried phenotype (≥3 criteria of exhaustion, low physical activity, slow gait, muscle weakness, unintentional weight loss). Generalized estimating equation (GEE) models estimated odds ratios (OR) and 95% confidence intervals (CI) for frailty across PHDI tertiles, adjusting for sociodemographic, lifestyle, and clinical factors.                                                           Results                     Higher PHDI adherence was consistently associated with lower odds of frailty over time. Comparing highest vs. lowest tertiles, multivariable-adjusted ORs (95% CI) were 0.62 (0.42, 0.92) in Seniors-ENRICA-1, 0.40 (0.24, 0.65) in Seniors-ENRICA-2 and 0.52 (0.38, 0.70) in the pooled analyses. Higher PHDI adherence was primarily associated with lower odds of low physical activity, while vegetables and fruits showed the strongest independent associations among individual PHDI components.                                                           Conclusions                     Greater PHDI adherence is associated with lower odds of frailty in Spanish older adults, supporting the potential role of sustainable, plant-based dietary patterns for healthy ageing.",
+        "source": "The Journals of Gerontology, Series A: Biological Sciences and Medical Sciences",
+        "issn": "1079-5006",
+        "date": "2026-10-06",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "elderCare"
+        ],
+        "firstSeen": "2026-10-07",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08443-1",
+        "doi": "10.1186/s12877-026-08443-1",
+        "url": "https://doi.org/10.1186/s12877-026-08443-1",
+        "title": "Mental health literacy and help-seeking behaviour among older adults in Mysuru, India: a mixed methods study",
+        "authors": [
+          "Syeda Asra Sanober",
+          "D. M. Shilpa"
+        ],
+        "abstract": "Abstract                                        Background                     As populations age globally, mental health remains a frequently neglected aspect of healthy ageing. Older adults face biological, psychological, and social challenges that heighten their risk of mental health problems, yet professional service utilization remains low. In India, this treatment gap is worsened by limited mental health literacy, stigma, and socio-cultural barriers. This study assessed mental health literacy and help-seeking behaviour among older adults in Mysuru, examined their association, and explored barriers and facilitators influencing professional help-seeking.                                                           Methods                     An explanatory sequential mixed-methods design was used. A community-based cross-sectional survey was conducted among 232 older adults (aged ≥ 60 years) selected through multistage stratified sampling from rural and urban Mysuru Taluk, Karnataka. Mental health literacy was measured using the Mental Health Literacy Scale (MHLS) and help-seeking behaviour using the Attitudes Toward Seeking Professional Psychological Help Scale (ATSPPH). Non-parametric tests and Spearman’s correlation were applied. Eight in-depth interviews followed, analyzed using Braun and Clarke’s thematic analysis and Lewin’s Force Field Analysis framework.                                                           Results                                            Participants had a median MHLS score of 105 (IQR 12), representing a substantial proportion of the maximum possible score of 160, yet only 7.8% had sought professional help in the preceding 12 months, with most turning first to family or friends. A significant negative correlation existed between mental health literacy and help-seeking attitudes (ρ = -0.262,                       p                        &lt; 0.001). Education and family structure significantly influenced both outcomes. Five qualitative themes emerged: understanding of mental health, experiences of emotional distress, help-seeking and coping, barriers to care, and facilitators of support. Key barriers included stigma, emotional suppression, financial constraints, and misattribution of distress to normal ageing, while family support, awareness, and accessible services were key facilitators.                                                                                Conclusions                     Despite a comparatively favourable median mental health literacy score, professional help-seeking among older adults in Mysuru remains limited. Targeted awareness interventions, stigma reduction strategies, and strengthened community-based mental health services are needed.                                                           Clinical trial number                     Not applicable.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-06",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-07",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08367-w",
+        "doi": "10.1186/s12877-026-08367-w",
+        "url": "https://doi.org/10.1186/s12877-026-08367-w",
+        "title": "Safe homecoming intervention after hospital discharge: a retrospective cohort study of mortality and readmission among patients 75 years or older in Sweden",
+        "authors": [
+          "Ulrika Westerling",
+          "Tahir Taj",
+          "Emma Nilsing Strid",
+          "Liselotte Hermansson",
+          "Mikko Hellgren"
+        ],
+        "abstract": "Abstract                                        Background                                            After a hospital stay, older patients are at increased risk of health complications that may lead to readmission to hospital or premature death. Globally, numerous interventions have been applied to enhance transitional care for older patients, but the evidence base remains inconclusive. One form of a transitional care intervention is the Swedish primary health care                       Safe homecoming                       intervention, a time-limited, interprofessional and tailored home health care intervention designed to prevent avoidable complications and readmissions following hospital discharge. The effects of                       Safe homecoming                       have not yet been scientifically evaluated. The present study aimed to assess the association between the interprofessional                       Safe                       h                       omecoming                       intervention and the risk of death or readmission.                                                                                Methods                                            We conducted a retrospective propensity score-matched cohort study in Örebro County, Sweden, using administrative and medical-record data from 2013 to 2020. The source cohort comprised 38,338 patients aged 75 years or older who had been admitted to hospital for at least one day. We included 128 patients who received the interprofessional                       Safe homecoming                       intervention at a single primary health care centre between 1 November 2016 and 31 May 2019 and 512 propensity score-matched controls from across the county receiving standard care.                                                                                Results                                            The mean age was 85.5 years, and 60.9% of patients in both groups were women. At 90 days, the cumulative incidence of first hospital readmission was 20.3% in the intervention group and 33.6% among controls (Gray’s test                       p                        = 0.005). In the competing-risk analysis, the Fine-Gray subdistribution hazard ratio was 0.57 (95% CI 0.37–0.86;                       p                        = 0.008). The corresponding cause-specific Cox model yielded an HR of 0.55 (95% CI 0.36–0.84;                       p                        = 0.005). At 365 days, the Fine-Gray estimate was 0.79 (95% CI 0.59–1.05;                       p                        = 0.098). Mortality estimates favoured the intervention group numerically but were imprecise, with confidence intervals including the null at all evaluated follow-up times.                                                                                Conclusion                                            The Safe Homecoming                       intervention was associated with a lower risk of first hospital readmission at 90 days, whereas there was no clear evidence of an association with mortality or longer-term readmission. Given the observational design, small intervention sample, potential residual confounding and evaluation of multiple follow-up time points, these findings should be considered exploratory and require confirmation in larger prospective studies.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-06",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-07",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08422-6",
+        "doi": "10.1186/s12877-026-08422-6",
+        "url": "https://doi.org/10.1186/s12877-026-08422-6",
+        "title": "Effectiveness of early supervised walking sessions on a walking treadmill in older inpatients after cancer surgery: study protocol for the APPAHOCA-2 trial",
+        "authors": [
+          "Heidi Solem-Laviec",
+          "Bérengère Beauplet",
+          "Alexandra Leconte",
+          "Axel Coquerel",
+          "Flavie Demeude",
+          "Oriane Thuard",
+          "Alexis Ruet",
+          "Vianney Bastit",
+          "Emmanuel Babin",
+          "Sharmini Varatharajah",
+          "Jean-Marc Guilloit",
+          "Rafaelle Fauvet",
+          "Thibaut Waeckel",
+          "Joy Perrier",
+          "Justine Lequesne",
+          "Bénédicte Clarisse"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-06",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-07",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08403-9",
+        "doi": "10.1186/s12877-026-08403-9",
+        "url": "https://doi.org/10.1186/s12877-026-08403-9",
+        "title": "Components of family empowerment for family caregivers of older adults with dementia: focus group interviews",
+        "authors": [
+          "Hye-Ah Yeom",
+          "So-Yoon Kim"
+        ],
+        "abstract": "Abstract                                        Background                     Strengthening empowerment plays a pivotal role in supporting family caregivers of older adults with dementia. This study explored the comprehensive caregiving experiences of both family caregivers and dementia care professionals to identify and describe the components of family empowerment within the Korean context.                                                           Methods                     A qualitative study was conducted using semi-structured focus group interviews (FGIs). Participants included 14 family caregivers (3 groups) and 5 Dementia care professionals (1 group). Psychological Empowerment Model (PEM) served as the theoretical framework to understand the dimensions of empowerment. The specific components of empowerment in Korean family caregivers of older adults with dementia were analyzed using qualitative thematic analysis.                                                           Results                     Seven main themes and 14 sub-themes were identified as components of family empowerment. The main themes included: (1) Reconstructing the caregiving situation and awareness; (2) Acquiring dementia information through experiential means; (3) Satisfaction with doing my best in caregiving; (4) Balance between self-care and family care; (5) Securing and utilizing dementia-related resources; (6) Reflections of caregiving experiences; and (7) New roles and relationships created through caregiving.                                                           Conclusion                     The findings of the study elucidate that family empowerment of family caregivers of older adults with dementia is a multidimensional construct: it is established through the cognitive process of reconstructing caregiving perceptions, emotional fulfillment derived from the stability of the caregiving process, behavioral practices of balancing self-care with family care, and relational reinforcement gained through newly established roles. Future efforts should establish sustainable support systems through education, resource linkage, and emotional support. Additionally, we propose the development of empowerment intervention programs and measurement tools based on these identified components.                                                           Clinical trial number                     Not applicable.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-06",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-07",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08407-5",
+        "doi": "10.1186/s12877-026-08407-5",
+        "url": "https://doi.org/10.1186/s12877-026-08407-5",
+        "title": "Societal actors’ perceptions of intersectoral collaboration and the participation of older adults in the development of age-friendly environments",
+        "authors": [
+          "Anna Nivestam",
+          "Madelene Törnblom",
+          "Maria Haak",
+          "Albert Westergren"
+        ],
+        "abstract": "Abstract                                        Background                     Older adults’ participation and intersectoral collaboration are central to the development of age-friendly environments. While previous research has emphasised the importance of these principles, less is known about how they are understood and enacted by societal actors in practice. This creates a need to explore societal actors’ perceptions of both intersectoral collaboration and older adults’ participation in the development of age-friendly environments.                                                           Method                     The study had a participatory qualitative design. Data were collected through a World Café involving 19 societal actors in a Swedish municipal context. Participants represented several societal sectors relevant to age-friendly environments, including welfare, care, public health, governance, social sustainability, urban planning,mobility, civil society, and voluntary engagement.                                                           Findings                     The findings showed that participants perceived intersectoral collaboration as requiring shared societal responsibility across multiple sectors, while responsibility risked becoming unclear when no actor had an explicit mandate to coordinate, prioritise and act. Intersectoral collaboration was viewed as a way of sharing resources, yet also as vulnerable when it relied mainly on personal relationships and informal networks rather than organisationally embedded structures. Similarly, older adults’ participation was highly valued when developing age-friendly initiatives, but participants questioned whether existing participation channels adequately reflect the diversity of older adults’ experiences and needs.                                                           Conclusion                     Age-friendly work requires shared responsibility across societal actors, supported by clear coordination. Personal relationships and informal networks should be recognised as valuable for enabling collaboration, but they need to be complemented by formal structures to ensure sustainability over time. Moreover, greater efforts to reach seldom-heard older adults are needed. Doing so may contribute to more nuanced and age-friendly initiatives that better reflect the diverse needs of the older population.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-06",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-07",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08410-w",
+        "doi": "10.1186/s12877-026-08410-w",
+        "url": "https://doi.org/10.1186/s12877-026-08410-w",
+        "title": "Associations between occupational balance and health-related quality of life in informal caregivers of persons after stroke: a cross-sectional study",
+        "authors": [
+          "Hanna Köttl",
+          "Stefanie Lentner",
+          "Mandana Fallahpour",
+          "Evelyn Haberl",
+          "Larisa Baciu",
+          "Susanne Guidetti",
+          "Michael Schön",
+          "Cornelia Lischka",
+          "Mona Dür"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-06",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-07",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1093/geront/gnag235",
         "doi": "10.1093/geront/gnag235",
         "url": "https://doi.org/10.1093/geront/gnag235",
@@ -58059,6 +59369,30 @@
           "healthReform"
         ],
         "firstSeen": "2026-10-02",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.jhealeco.2026.103189",
+        "doi": "10.1016/j.jhealeco.2026.103189",
+        "url": "https://doi.org/10.1016/j.jhealeco.2026.103189",
+        "title": "Beyond targeting women: Intrahousehold contexts and the effectiveness of food vouchers",
+        "authors": [
+          "Seollee Park",
+          "Yaeeun Han",
+          "Hyuncheol Bryant Kim"
+        ],
+        "abstract": "",
+        "source": "Journal of Health Economics",
+        "issn": "0167-6296",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "socialSecurity",
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-06",
         "fetched_from": "crossref"
       },
       {
@@ -63154,6 +64488,56 @@
         "fetched_from": "crossref"
       },
       {
+        "id": "doi:10.1016/j.socscimed.2026.119908",
+        "doi": "10.1016/j.socscimed.2026.119908",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.119908",
+        "title": "Enacting the body multiple: Wellness strategies among younger adults under biopolitical health governance and accelerated study–labour regimes",
+        "authors": [
+          "Haiyan Gao",
+          "Jiayue Zhao",
+          "Jingru Zhao"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-06",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.socscimed.2026.119916",
+        "doi": "10.1016/j.socscimed.2026.119916",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.119916",
+        "title": "“Their Body Is Their Territory”: Reproductive Autonomy and Governance by Omission in Peru",
+        "authors": [
+          "Maria A. Carrasco",
+          "Amanda Cordova-Gomez",
+          "Angela Sartur",
+          "Deborah Horowitz",
+          "Milka Dinev"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-06",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1016/s0140-6736(26)01552-7",
         "doi": "10.1016/s0140-6736(26)01552-7",
         "url": "https://doi.org/10.1016/s0140-6736(26)01552-7",
@@ -64454,80 +65838,6 @@
         "fetched_from": "crossref"
       },
       {
-        "id": "doi:10.1016/j.socscimed.2026.119908",
-        "doi": "10.1016/j.socscimed.2026.119908",
-        "url": "https://doi.org/10.1016/j.socscimed.2026.119908",
-        "title": "Enacting the body multiple: Wellness strategies among younger adults under biopolitical health governance and accelerated study–labour regimes",
-        "authors": [
-          "Haiyan Gao",
-          "Jiayue Zhao",
-          "Jingru Zhao"
-        ],
-        "abstract": "",
-        "source": "Social Science &amp; Medicine",
-        "issn": "0277-9536",
-        "date": "2026-10-01",
-        "subjects": [],
-        "domains": [
-          "healthReform",
-          "elderCare",
-          "agingHealth",
-          "socialWork"
-        ],
-        "firstSeen": "2026-10-06",
-        "fetched_from": "crossref"
-      },
-      {
-        "id": "doi:10.1016/j.socscimed.2026.119916",
-        "doi": "10.1016/j.socscimed.2026.119916",
-        "url": "https://doi.org/10.1016/j.socscimed.2026.119916",
-        "title": "“Their Body Is Their Territory”: Reproductive Autonomy and Governance by Omission in Peru",
-        "authors": [
-          "Maria A. Carrasco",
-          "Amanda Cordova-Gomez",
-          "Angela Sartur",
-          "Deborah Horowitz",
-          "Milka Dinev"
-        ],
-        "abstract": "",
-        "source": "Social Science &amp; Medicine",
-        "issn": "0277-9536",
-        "date": "2026-10-01",
-        "subjects": [],
-        "domains": [
-          "healthReform",
-          "elderCare",
-          "agingHealth",
-          "socialWork"
-        ],
-        "firstSeen": "2026-10-06",
-        "fetched_from": "crossref"
-      },
-      {
-        "id": "doi:10.1016/j.jhealeco.2026.103189",
-        "doi": "10.1016/j.jhealeco.2026.103189",
-        "url": "https://doi.org/10.1016/j.jhealeco.2026.103189",
-        "title": "Beyond targeting women: Intrahousehold contexts and the effectiveness of food vouchers",
-        "authors": [
-          "Seollee Park",
-          "Yaeeun Han",
-          "Hyuncheol Bryant Kim"
-        ],
-        "abstract": "",
-        "source": "Journal of Health Economics",
-        "issn": "0167-6296",
-        "date": "2026-10-01",
-        "subjects": [],
-        "domains": [
-          "healthReform",
-          "socialSecurity",
-          "elderCare",
-          "agingHealth"
-        ],
-        "firstSeen": "2026-10-06",
-        "fetched_from": "crossref"
-      },
-      {
         "id": "doi:10.1002/alz.71827",
         "doi": "10.1002/alz.71827",
         "url": "https://doi.org/10.1002/alz.71827",
@@ -64547,6 +65857,235 @@
           "agingHealth"
         ],
         "firstSeen": "2026-10-06",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.socscimed.2026.119917",
+        "doi": "10.1016/j.socscimed.2026.119917",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.119917",
+        "title": "Work Without a Roadmap: A Qualitative Analysis of Occupational and Structural Challenges Among Adolescent Peer Workers in HIV Programs in Kenya",
+        "authors": [
+          "Ashley Chory",
+          "Ava Boal",
+          "Jack Nyagaya",
+          "Janet Lidweye",
+          "Josephine Aluoch",
+          "Sakshi Sawarkar",
+          "Lonnie Embleton",
+          "Mary Ott",
+          "Rachel Vreeman",
+          "Edith Apondi"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-07",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.socscimed.2026.119918",
+        "doi": "10.1016/j.socscimed.2026.119918",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.119918",
+        "title": "Intersectional and Territorial Exclusion in Brazil’s Aging Policy Field: A Critical Analysis of Access to Bodily Practices and Inequalities",
+        "authors": [
+          "Thiago Medeiros da Costa Daniele",
+          "Larissa Oliveira Nascimento",
+          "Letticia de Araújo Moura",
+          "Maria Araruna Correia Lima",
+          "Eduardo Correia Ponte",
+          "Danilo Garcia"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-07",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1002/alz.71885",
+        "doi": "10.1002/alz.71885",
+        "url": "https://doi.org/10.1002/alz.71885",
+        "title": "Clusterin is enriched in plaque‐associated astrocytes and localizes to synapses in Alzheimer's disease",
+        "authors": [
+          "Robert A. J. Byrne",
+          "Aurora Veteleanu",
+          "Hannah L. Cramp",
+          "Olivia G. Bacon",
+          "Kirsten L. Baillie",
+          "Matthew Bright",
+          "Rebekah S. Cooke",
+          "Gareth D. Fenn",
+          "Mariana Flores Castelán",
+          "Kok Yung Lee",
+          "Wioleta M. Zelek",
+          "B. Paul Morgan",
+          "Nikoleta Daskoulidou"
+        ],
+        "abstract": "Abstract                                        INTRODUCTION                                            The clusterin gene (                       CLU                       ) is a top genome‐wide association studies (GWAS) risk locus for Alzheimer's disease (AD) and elevated clusterin levels have been reported in AD biofluids and brain tissue. Despite growing interest in clusterin as a biomarker and therapeutic target, its cellular and subcellular localization in the human brain remains incompletely understood, in part due to a lack of well‐characterized reagents.                                                                                METHODS                     We generated and validated monoclonal antibodies (mAbs) that distinguish secreted and intracellular clusterin, and applied these tools to human biofluids, brain tissue, and induced pluripotent stem cell (iPSC) ‐derived astrocytes.                                                           RESULTS                     The mAbs enabled sensitive detection and quantification of clusterin in plasma, serum, cerebrospinal fluid, and brain tissue homogenates. Immunostaining demonstrated that clusterin is associated with amyloid plaques in AD brain and localizes to synapses in both healthy and AD tissue; the mAb detecting intracellular clusterin demonstrated specific expression in astrocytes, confirmed using astrocytoma lines and iPSC‐derived astrocytes. Quantitative analysis demonstrated increased clusterin signal in plaque‐associated astrocytes, particularly those surrounding larger plaques.                                                           DISCUSSION                     The findings provide better understanding of clusterin expression in the healthy and AD brain, informing roles of clusterin in brain homeostasis and AD pathogenesis.",
+        "source": "Alzheimer's &amp; Dementia",
+        "issn": "1552-5260",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-07",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1002/alz.71895",
+        "doi": "10.1002/alz.71895",
+        "url": "https://doi.org/10.1002/alz.71895",
+        "title": "Cell‐based polygenic risk scores predict clinical progression and prioritize network‐based therapeutic targets in Alzheimer's disease",
+        "authors": [
+          "Nathan Sahelijo",
+          "Priya Rajagopalan",
+          "Lu Qian",
+          "Rufuto Rahman",
+          "Daniel Goldstein",
+          "Sophia I. Thomopoulos",
+          "David A. Bennett",
+          "Lindsay A. Farrer",
+          "Thor D. Stein",
+          "Li Shen",
+          "Heng Huang",
+          "Kwangsik Nho",
+          "Andrew J. Saykin",
+          "Christos Davatzikos",
+          "Paul M. Thompson",
+          "Julia TCW",
+          "Gyungah R. Jun"
+        ],
+        "abstract": "Abstract                                        BACKGROUND                     Late‐onset Alzheimer's disease (AD) exhibits substantial biological heterogeneity. We developed a framework linking cell‐type–specific polygenic risk profiles to precision medicine in AD.                                                           METHODS                     Cell‐based polygenic risk scores (cbPRSs) derived from single‐nucleus RNA‐seq co‐expression networks were evaluated in Alzheimer's Disease Neuroimaging Initiative (ADNI) and Framingham Heart Study (FHS) cohorts. Network hubs were prioritized using a graph‐based PageRank algorithm and candidate drugs were validated in human‐induced pluripotent stem cell (hiPSC)–derived astrocytes.                                                           RESULTS                                            Cell‐based PRS analysis identified two genetic risk axes independent of network cell‐type labels: an apolipoprotein E (                       APOE                       )–concentrated axis (Ast‐M2/Oli‐M45) and an                       APOE                       ‐independent axis (Ast‐M10/Oli‐M50), which predicted accelerated progression to AD (hazard ratio: 1.25–2.02) and correlated with localized temporal lobe atrophy, reduced glucose metabolism, and global amyloid burden. High‐risk status specifically upregulated complement C4a protein expression in postmortem brains. PageRank network analysis identified four candidate drugs targeting the                       APOE                       ‐containing astrocyte network. Experimental treatment with estradiol and levetiracetam significantly reduced                       APOE                       and complement                       C4                       gene expression in hiPSC‐derived astrocytes.                                                                                DISCUSSION                     By integrating cell‐based genetic risk with network‐level target prioritization, this framework enables robust patient stratification and experimental target validation.",
+        "source": "Alzheimer's &amp; Dementia",
+        "issn": "1552-5260",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-07",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1002/alz.71788",
+        "doi": "10.1002/alz.71788",
+        "url": "https://doi.org/10.1002/alz.71788",
+        "title": "A murine model of amyloid‐enhanced tauopathy: Comparison of wild‐type and P301L‐tau",
+        "authors": [
+          "Dylan J. Finneran",
+          "Taylor Desjarlais",
+          "Brianna M. Jackman",
+          "Marcia N. Gordon",
+          "David Morgan"
+        ],
+        "abstract": "Abstract                                        INTRODUCTION                     To optimize a model of amyloid‐enhanced tauopathy we compared wild‐type (WT) tau with P301L‐tau in a mouse with mature amyloid.                                                           METHODS                     Mice transgenic for amyloid precursor protein and presenilin‐1 (APP+PS1, A/P) were injected intravenously with adeno‐associated virus with capsid B10 (AAV.CAP‐B10) expressing either WT or P301L human tau. Mice were behaviorally assessed 5 and 8 months and tissue collected 9 months after injection.                                                           RESULTS                     A/P+WT and A/P+P301L groups were equivalently impaired in spatial learning and memory. A/P+WT mice had significantly greater tau hyperphosphorylation than A/P+P301L mice. However, A/P+P301L mice had greater deposition of phospho‐tau and formation of Gallyas‐positive neurofibrillary tangles (NFTs).                                                           DISCUSSION                     These data demonstrate that WT‐tau is more highly phosphorylated than P301L‐tau in the presence of amyloid in mouse brain. Furthermore, despite the lack of NFT pathology in A/P+WT mice, WT‐tau still caused cognitive impairment. The use of WT‐tau in this model may make it more translatable for pre‐clinical assessments of potential therapeutics for AD.",
+        "source": "Alzheimer's &amp; Dementia",
+        "issn": "1552-5260",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-07",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1002/alz.71890",
+        "doi": "10.1002/alz.71890",
+        "url": "https://doi.org/10.1002/alz.71890",
+        "title": "Longitudinal untargeted metabolomics of cognitive impairment in Parkinson's disease",
+        "authors": [
+          "Yuyuan Lin",
+          "Yu Yu",
+          "Keren Zhang",
+          "Irish Del Rosario",
+          "Aline Duarte Folle",
+          "Elizabeth Rose Mayeda",
+          "Dean P. Jones",
+          "Douglas I. Walker",
+          "Jeff Bronstein",
+          "Adrienne M. Keener",
+          "Kimberly C. Paul",
+          "Beate Ritz"
+        ],
+        "abstract": "Abstract                                        INTRODUCTION                     Cognitive impairment is a common non‐motor symptom of Parkinson's disease (PD), yet the mechanism remains unclear.                                                           METHODS                                            Longitudinal serum samples from PD patients in a community‐based case–control study were profiled, with cognition assessed by the Mini‐Mental State Examination at baseline and follow‐up. We performed three metabolome‐wide association studies: a baseline cross‐sectional analysis (                       n                        = 632), a time‐to‐event analysis (                       n                        = 412), and a repeated measures analysis (                       n                        = 265), followed by “Mummichog” pathway analysis.                                                                                RESULTS                     Of the 4762 metabolomic features, four reached statistical significance in the baseline analysis, 22 in the time‐to‐event analysis, and none in the repeated measures analysis. Dysregulated pathways included purine metabolism, the pentose phosphate pathway, fatty acid pathways, and C21‐steroid hormone biosynthesis and metabolism.                                                           DISCUSSION                     Disruptions in core metabolic pathways may contribute to PD‐related cognitive impairments. Disturbances in pentose and purine pathways may occur before clinical cognitive decline is observed, suggesting early metabolic markers.",
+        "source": "Alzheimer's &amp; Dementia",
+        "issn": "1552-5260",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-07",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1002/alz.71839",
+        "doi": "10.1002/alz.71839",
+        "url": "https://doi.org/10.1002/alz.71839",
+        "title": "A murine model of amyloid enhanced tauopathy: progressive changes in tau pathology and behavior",
+        "authors": [
+          "Dylan J. Finneran",
+          "Taylor Desjarlais",
+          "Brianna M. Jackman",
+          "David Morgan",
+          "Marcia N. Gordon"
+        ],
+        "abstract": "Abstract                                        BACKGROUND                     Our prior work demonstrated systemic P301L‐tau injections in mice with mature amyloid resulted in several‐fold enhancement of tauopathy compared to non‐transgenic (NTg) littermates.                                                           METHODS                     APP+PS1 mice were injected intravenously with AAV.CAP‐B10 expressing P301L tau (A/P+P301L). Mice were tested behaviorally and tissues collected for measurement of amyloid and tau pathology.                                                           RESULTS                     A/P+P301L mice have greater spatial navigation memory impairments than control APP+PS1 mice, or AAV‐tau injected NTg mice. Tau phosphorylation and deposition increased from 5 to 9 months after injection, culminating in numerous Gallyas‐positive presumptive neurofibrillary tangles.                                                           DISCUSSION                     In this model of amyloid‐enhanced tauopathy, tau pathology acts synergistically with amyloidosis to exacerbate cognitive impairments compared to amyloid‐only mice. The tauopathy is progressive, with more severe behavioral impairments and neurofibrillary deposits at longer survival times. The temporal staging of pathology in this model resembles that of Alzheimer's disease and may be useful for interrogating the linkage between amyloid and tau pathology.",
+        "source": "Alzheimer's &amp; Dementia",
+        "issn": "1552-5260",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-07",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1002/alz.71868",
+        "doi": "10.1002/alz.71868",
+        "url": "https://doi.org/10.1002/alz.71868",
+        "title": "Cognitive impairment in Parkinson disease correlates with loss of cholinergic axon projections to cortex in an autopsy study",
+        "authors": [
+          "Rebecca Miller",
+          "Jennifer O'Shea",
+          "Laura M. Rosok",
+          "Sydney Lim",
+          "Erin E. Franklin",
+          "Richard J. Perrin",
+          "Helen Hwang",
+          "Dhruva Dhavale",
+          "Joel Perlmutter",
+          "Meghan C. Campbell",
+          "Paul Kotzbauer"
+        ],
+        "abstract": "Abstract                                        INTRODUCTION                     People with Parkinson's disease (PD) frequently develop dementia. We investigated the relationship between cognitive impairment and the loss of cholinergic axon projections from the nucleus basalis of Meynert to neocortical regions in PD.                                                           METHODS                     Levels of choline acetyltransferase (ChAT), the enzyme required for acetylcholine synthesis, were measured with a sandwich enzyme‐linked immunosorbent assay (ELISA) in eight brain regions from 37 PD autopsy cases. Analyses focused on relationships between measures of global cognitive impairment and average ChAT levels in four neocortical regions.                                                           RESULTS                     Mean neocortical ChAT levels positively correlated with the Mini‐Mental State Examination and a global cognition z‐score obtained by averaging performance in multiple cognitive domains. Mean neocortical ChAT levels also showed a trending inverse correlation with the Clinical Dementia Rating sum of boxes.                                                           DISCUSSION                     These results indicate a role for the loss of cholinergic projections to neocortical regions in the development of cognitive impairment in PD.",
+        "source": "Alzheimer's &amp; Dementia",
+        "issn": "1552-5260",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-07",
         "fetched_from": "crossref"
       },
       {
@@ -74082,6 +75621,46 @@
     ],
     "socialWork": [
       {
+        "id": "doi:10.1093/bjsw/bcag243",
+        "doi": "10.1093/bjsw/bcag243",
+        "url": "https://doi.org/10.1093/bjsw/bcag243",
+        "title": "Social work, the Americanization movement, and the construction of Americans, 1874–1930. Yoosun Park and Michael Reisch",
+        "authors": [
+          "John Gal"
+        ],
+        "abstract": "",
+        "source": "The British Journal of Social Work",
+        "issn": "0045-3102",
+        "date": "2026-10-07",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-07",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/bjsw/bcag232",
+        "doi": "10.1093/bjsw/bcag232",
+        "url": "https://doi.org/10.1093/bjsw/bcag232",
+        "title": "‘Communication calculation’ in the era of hybrid working: How social workers navigate the diverse digital landscape in children’s safeguarding social work practice",
+        "authors": [
+          "Josh Behan-Devlin",
+          "Dharman Jeyasingham",
+          "Stephen Hicks"
+        ],
+        "abstract": "Abstract                   This article examines how children’s safeguarding social workers integrate digital communication technology into everyday practice in the post-COVID-19 practice context. The study draws on over 100 hours of ethnographic observations and 16 semi-structured interviews with 11 social workers across three teams in an English local authority children’s safeguarding department. The analysis is informed by a sociomaterial practice framework that foregrounds the inter-connectedness of technologies, social workers, and the activities they routinely undertake. Findings show that technology is now embedded and constant, with in-person and digitally mediated interactions routinely combined for communication with other social workers, multi-disciplinary professionals, and families. Social workers must navigate expanded communicative possibilities, including video meetings, messaging platforms, and email, within organizational conditions shaped by hybrid working patterns, staffing pressures, and shifting organizational expectations. Extending Byrne and Kirwan's concept of ‘communication calculation’ (p. 223), the study demonstrates that judgements about digital communication are not discrete decisions but ongoing, situated accomplishments structured by organizational and material arrangements. Professional guidance should prompt critical engagement with emerging technologies whilst avoiding attempts to prescribe practice.",
+        "source": "The British Journal of Social Work",
+        "issn": "0045-3102",
+        "date": "2026-10-06",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-07",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1007/s10896-026-01193-z",
         "doi": "10.1007/s10896-026-01193-z",
         "url": "https://doi.org/10.1007/s10896-026-01193-z",
@@ -77922,6 +79501,56 @@
         "fetched_from": "crossref"
       },
       {
+        "id": "doi:10.1016/j.socscimed.2026.119908",
+        "doi": "10.1016/j.socscimed.2026.119908",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.119908",
+        "title": "Enacting the body multiple: Wellness strategies among younger adults under biopolitical health governance and accelerated study–labour regimes",
+        "authors": [
+          "Haiyan Gao",
+          "Jiayue Zhao",
+          "Jingru Zhao"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-06",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.socscimed.2026.119916",
+        "doi": "10.1016/j.socscimed.2026.119916",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.119916",
+        "title": "“Their Body Is Their Territory”: Reproductive Autonomy and Governance by Omission in Peru",
+        "authors": [
+          "Maria A. Carrasco",
+          "Amanda Cordova-Gomez",
+          "Angela Sartur",
+          "Deborah Horowitz",
+          "Milka Dinev"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-06",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1177/10497315261452377",
         "doi": "10.1177/10497315261452377",
         "url": "https://doi.org/10.1177/10497315261452377",
@@ -79037,56 +80666,6 @@
         "fetched_from": "crossref"
       },
       {
-        "id": "doi:10.1016/j.socscimed.2026.119908",
-        "doi": "10.1016/j.socscimed.2026.119908",
-        "url": "https://doi.org/10.1016/j.socscimed.2026.119908",
-        "title": "Enacting the body multiple: Wellness strategies among younger adults under biopolitical health governance and accelerated study–labour regimes",
-        "authors": [
-          "Haiyan Gao",
-          "Jiayue Zhao",
-          "Jingru Zhao"
-        ],
-        "abstract": "",
-        "source": "Social Science &amp; Medicine",
-        "issn": "0277-9536",
-        "date": "2026-10-01",
-        "subjects": [],
-        "domains": [
-          "healthReform",
-          "elderCare",
-          "agingHealth",
-          "socialWork"
-        ],
-        "firstSeen": "2026-10-06",
-        "fetched_from": "crossref"
-      },
-      {
-        "id": "doi:10.1016/j.socscimed.2026.119916",
-        "doi": "10.1016/j.socscimed.2026.119916",
-        "url": "https://doi.org/10.1016/j.socscimed.2026.119916",
-        "title": "“Their Body Is Their Territory”: Reproductive Autonomy and Governance by Omission in Peru",
-        "authors": [
-          "Maria A. Carrasco",
-          "Amanda Cordova-Gomez",
-          "Angela Sartur",
-          "Deborah Horowitz",
-          "Milka Dinev"
-        ],
-        "abstract": "",
-        "source": "Social Science &amp; Medicine",
-        "issn": "0277-9536",
-        "date": "2026-10-01",
-        "subjects": [],
-        "domains": [
-          "healthReform",
-          "elderCare",
-          "agingHealth",
-          "socialWork"
-        ],
-        "firstSeen": "2026-10-06",
-        "fetched_from": "crossref"
-      },
-      {
         "id": "doi:10.1016/j.childyouth.2026.109304",
         "doi": "10.1016/j.childyouth.2026.109304",
         "url": "https://doi.org/10.1016/j.childyouth.2026.109304",
@@ -79106,6 +80685,64 @@
           "socialWork"
         ],
         "firstSeen": "2026-10-06",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.socscimed.2026.119917",
+        "doi": "10.1016/j.socscimed.2026.119917",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.119917",
+        "title": "Work Without a Roadmap: A Qualitative Analysis of Occupational and Structural Challenges Among Adolescent Peer Workers in HIV Programs in Kenya",
+        "authors": [
+          "Ashley Chory",
+          "Ava Boal",
+          "Jack Nyagaya",
+          "Janet Lidweye",
+          "Josephine Aluoch",
+          "Sakshi Sawarkar",
+          "Lonnie Embleton",
+          "Mary Ott",
+          "Rachel Vreeman",
+          "Edith Apondi"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-07",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.socscimed.2026.119918",
+        "doi": "10.1016/j.socscimed.2026.119918",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.119918",
+        "title": "Intersectional and Territorial Exclusion in Brazil’s Aging Policy Field: A Critical Analysis of Access to Bodily Practices and Inequalities",
+        "authors": [
+          "Thiago Medeiros da Costa Daniele",
+          "Larissa Oliveira Nascimento",
+          "Letticia de Araújo Moura",
+          "Maria Araruna Correia Lima",
+          "Eduardo Correia Ponte",
+          "Danilo Garcia"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-07",
         "fetched_from": "crossref"
       },
       {
@@ -80890,11 +82527,11 @@
     ]
   },
   "totals": {
-    "socialSecurity": 1568,
-    "elderCare": 482,
-    "healthReform": 780,
-    "agingHealth": 682,
-    "socialWork": 301
+    "socialSecurity": 1569,
+    "elderCare": 491,
+    "healthReform": 815,
+    "agingHealth": 697,
+    "socialWork": 305
   },
   "feeds_ok": 41
 }
