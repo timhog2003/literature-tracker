@@ -1,8 +1,29 @@
 {
-  "date": "2026-10-07",
-  "fetched": "2026-10-07T07:25:48+00:00",
+  "date": "2026-10-08",
+  "fetched": "2026-10-08T07:41:58+00:00",
   "domains": {
     "socialSecurity": [
+      {
+        "id": "doi:10.1111/jori.70081",
+        "doi": "10.1111/jori.70081",
+        "url": "https://doi.org/10.1111/jori.70081",
+        "title": "(Most) everyone is above average: Optimism bias and insurance nonparticipation",
+        "authors": [
+          "David L. Dicks",
+          "James R. Garven",
+          "James I. Hilliard"
+        ],
+        "abstract": "Abstract                   We examine health insurance nonparticipation using a behavioral framework that integrates optimism bias with institutional safety nets. In our model, optimistic consumers underestimate their probability of health shocks. We show that nonparticipation—even under subsidized premiums—is rationalized by the interaction between optimism and an implicit medical bankruptcy floor that limits financial downside for low‐wealth households. Testing these predictions with data from the Medical Expenditure Panel Survey, we create a proxy for optimism bias: the wedge between subjective health reports and objective clinical benchmarks. Consistent with theory, both lower income and higher optimism significantly depress insurance enrollment, with the behavioral friction concentrated among lower‐income households. Finally, because optimism bias positively predicts ex‐post healthcare expenditures across multiple care channels, our results are more consistent with a cognitive bias than private information.",
+        "source": "Journal of Risk and Insurance",
+        "issn": "0022-4367",
+        "date": "2026-10-07",
+        "subjects": [],
+        "domains": [
+          "socialSecurity"
+        ],
+        "firstSeen": "2026-10-08",
+        "fetched_from": "crossref"
+      },
       {
         "id": "doi:10.1111/jori.70084",
         "doi": "10.1111/jori.70084",
@@ -24201,6 +24222,327 @@
     ],
     "elderCare": [
       {
+        "id": "doi:10.1186/s12877-026-08383-w",
+        "doi": "10.1186/s12877-026-08383-w",
+        "url": "https://doi.org/10.1186/s12877-026-08383-w",
+        "title": "Physical performance clustering as a marker of frailty, fall risk, and cognitive health in older adults",
+        "authors": [
+          "Elodie Piche",
+          "Frédéric Chorin",
+          "Lyne Daumas",
+          "Emeline Michel",
+          "Olivier Guerin",
+          "Raphael Zory"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-08",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-08",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08389-4",
+        "doi": "10.1186/s12877-026-08389-4",
+        "url": "https://doi.org/10.1186/s12877-026-08389-4",
+        "title": "Validation of the Experiencing Day-to-Day Life Questionnaire (EDLQ-old): assessing objective and subjective participation of community-dwelling older adults",
+        "authors": [
+          "Haya Fogel-Grinvald",
+          "Adina Maeir",
+          "Anat Golos"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-08",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-08",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08446-y",
+        "doi": "10.1186/s12877-026-08446-y",
+        "url": "https://doi.org/10.1186/s12877-026-08446-y",
+        "title": "Surrogate decision-making during hospital care transitions for persons with dementia: role of palliative care",
+        "authors": [
+          "Jung Kwak",
+          "Kwaku Duah Oppong",
+          "Swasati Handique",
+          "Alexandra A. García",
+          "Carolyn S. Phillips",
+          "Sarah Stayer",
+          "Elizabeth A. Kvale"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-08",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-08",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/geront/gnag238",
+        "doi": "10.1093/geront/gnag238",
+        "url": "https://doi.org/10.1093/geront/gnag238",
+        "title": "Being Sensed, Scored, and ‘Connected’: A Social-Gerontological Critique of AI-Driven Loneliness Detection for Older Adults in Taiwan",
+        "authors": [
+          "Hui-Chun Chan",
+          "Kuo-Ming Chu"
+        ],
+        "abstract": "Abstract                   Enthusiasm for artificial intelligence (AI) that continuously infers emotion promises to change how care systems identify older adults at risk of loneliness. We use AI-driven loneliness detection to mean systems that infer loneliness, or a proxy for it, from sensed data rather than from a person’s answer, rendering the inference as a score or category used in care; they range from facial and vocal emotion recognition to behavioral risk prediction from everyday activity data. Engineering feasibility, more than any social-gerontological understanding of loneliness, has driven this agenda, and little attention has gone to how older adults in different cultural contexts wish to be known and supported. Because such detection is not yet in routine use in Taiwan, this Forum article adopts an anticipatory-governance stance, examining before deployment a trajectory that policy makes plausible. Anchored in Taiwan’s ageing society and long-term care system, it argues that culturally responsive design should begin with older adults’ own meanings, relational obligations, and expectations of privacy and autonomy, not with the sensors. It identifies three tensions for social gerontology: the reframing of a relational experience as an individual biometric deficit; the risk that algorithms read culturally patterned emotional restraint as noise; and the slippage from care toward surveillance once risk indices enter routine care workflows. Taking seriously the case for technological augmentation of scarce care resources, the article proposes principles for a socially accountable approach and a research agenda on how older adults negotiate being sensed, scored, and ‘connected.’",
+        "source": "The Gerontologist",
+        "issn": "0016-9013",
+        "date": "2026-10-07",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-08",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/geront/gnag239",
+        "doi": "10.1093/geront/gnag239",
+        "url": "https://doi.org/10.1093/geront/gnag239",
+        "title": "Vulnerability Intersections: An Integrative Conceptual Framework for Understanding Vulnerability in AI-Assisted Care for Older Adults",
+        "authors": [
+          "Wenqian Xu",
+          "Maria Claudia Solarte Vasquez",
+          "Aud Uhlen Obstfelder",
+          "Roger A Søraa",
+          "Jin Kristian Hurum",
+          "Xingyue Su",
+          "Honglin Chen",
+          "Katrin Kangur",
+          "Susanne Frennert"
+        ],
+        "abstract": "Abstract                   Artificial Intelligence (AI) applications are increasingly used to support independent living and care for older adults, particularly those in vulnerable situations. Yet, how vulnerability is constructed when AI enters later-life care remains poorly theorized. Existing approaches to vulnerability in old age inadequately address AI-related risks, structural conditions, exposure pathways, and life course disadvantages. Using a theory-synthesis approach, this article proposes “vulnerability intersections” as an integrative framework for how vulnerability is constructed, enacted, and negotiated in AI-assisted care for older adults. The framework extends existing sociotechnical accounts by conceptualizing vulnerability as taking four overlapping forms: anticipatory, opaque, routinized, and normative. It locates vulnerability factors at the micro level of older adults’ lives, the meso level of care organizations and technology providers, and the macro level of political-economic and regulatory arrangements, with life-course accumulation spanning all three. It also proposes three exposure pathways through which vulnerability factors become consequential: AI-mediated information and representations of aging; AI-powered care organization and delivery; and AI-configured power, participation, and social relations. The framework shifts attention away from viewing older adults as inherently vulnerable toward examining the sociotechnical arrangements under which vulnerability is anticipated, classified, distributed, and negotiated when AI enters care.",
+        "source": "The Gerontologist",
+        "issn": "0016-9013",
+        "date": "2026-10-07",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-08",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/gerona/glag239",
+        "doi": "10.1093/gerona/glag239",
+        "url": "https://doi.org/10.1093/gerona/glag239",
+        "title": "Heat stress and coping strategies among older adults in three Sunbelt cities in the United States",
+        "authors": [
+          "Cornelius Dassah",
+          "Peter Crank",
+          "Leah Jones-Crank"
+        ],
+        "abstract": "Abstract                                        Background                     Prevailing scientific evidence suggests that extreme heat poses a substantial threat to the health and well-being of older adults in the Sunbelt cities of the United States. However, prior research has not adequately addressed the specific socio-demographic, health-related vulnerabilities, and coping-strategic factors influencing heat stress among older urban populations.                                                           Methods                     Informed by the Socio-Ecological Model, this study adopts a retrospective cohort study design to investigate the predictors and experiences of heat stress among older adults. Data from older adults in Los Angeles, Houston, and Phoenix were analyzed using thematic and multiple binary logistic regression analyses.                                                           Results                     The results reveal that much older adults (aged 80 +) were less likely to experience heat stress compared to their relatively younger counterparts. Also, marital status, income, respiratory diseases, physical activity, taking cool showers, and city of residence were significantly associated with a higher risk of suffering heat stress. The qualitative results uncovered individual-level behavioural adjustment as an effective coping mechanism during extreme heat events.                                                           Conclusion                     These results underscore the complex interplay of behavioral, socio-demographic, and health-related factors influencing heat stress among older adults. The study recommends that urban health strategies prioritize these demographics, enhancing support systems and coping mechanisms to reduce vulnerability to heat stress among older urban populations.",
+        "source": "The Journals of Gerontology, Series A: Biological Sciences and Medical Sciences",
+        "issn": "1079-5006",
+        "date": "2026-10-07",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "elderCare"
+        ],
+        "firstSeen": "2026-10-08",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/gerona/glag246",
+        "doi": "10.1093/gerona/glag246",
+        "url": "https://doi.org/10.1093/gerona/glag246",
+        "title": "Chronic inflammation and multiple dimensions of aging among women in the Philippines",
+        "authors": [
+          "Thomas W McDade",
+          "Sofia Carrera",
+          "Calen P Ryan",
+          "Elijah Watson",
+          "Linda S Adair",
+          "Nanette R Lee",
+          "Delia B Carba",
+          "Julie L MacIsaac",
+          "Kristy Dever",
+          "Michael S Kobor",
+          "Christopher W Kuzawa"
+        ],
+        "abstract": "Abstract                   Age-related increases in chronic systemic inflammation are strong predictors of morbidity and mortality in high income countries, but evidence is lacking from lower- and middle-income settings where infectious diseases are more prevalent and rates of overweight and obesity are relatively low. Here we evaluate two complementary measures of chronic inflammation—plasma C-reactive protein (CRP) and a DNA methylation–based surrogate (DNAm-CRP)—measured at baseline as predictors of physical capacity, cognitive function, and cardiometabolic disease seven years later among women in the Philippines (N = 953; 43-75 years at follow-up). Levels of CRP and DNAm-CRP were not strongly associated with age. Both measures predicted subsequent declines in physical and functional capacity, increased incidence of diabetes and hypertension, and poorer cognitive performance, after adjustment for baseline status and other covariates. DNAm-CRP performed comparably to CRP, and was robust to variation in white blood cell composition and acute infectious symptoms at the time of sampling. These findings demonstrate that chronic inflammation is associated with multiple dimensions of aging in a lower-middle income setting, and highlights the utility of inflammatory biomarkers as scalable tools for global aging research.",
+        "source": "The Journals of Gerontology, Series A: Biological Sciences and Medical Sciences",
+        "issn": "1079-5006",
+        "date": "2026-10-07",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "elderCare"
+        ],
+        "firstSeen": "2026-10-08",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70755",
+        "doi": "10.1111/jgs.70755",
+        "url": "https://doi.org/10.1111/jgs.70755",
+        "title": "Back Pain and Prospective Frailty Status Among Older Men: Findings From the\n                    <scp>MrOS</scp>\n                    Study",
+        "authors": [
+          "David T. McNaughton",
+          "Kristine Ensrud",
+          "Lisa Langsetmo",
+          "Stephanie Harrison",
+          "Jessica J. Wong",
+          "Javier Muñoz Laguna",
+          "James Young",
+          "Katie de Luca",
+          "Tuo‐Yu Chen",
+          "Hazel Jenkin",
+          "Aron Downie",
+          "Casper Nim",
+          "Muhammad Thalil",
+          "Nancy E. Lane",
+          "Howard A. Fink",
+          "Eric J. Roseen"
+        ],
+        "abstract": "ABSTRACT                                        Background                     The association between back pain and frailty is uncertain. This study examined the association between back pain in older men and prospective frailty status an average of 7 years later.                                                           Methods                     Prospective cohort study using data from the Osteoporotic Fractures in Men Study. Eligible participants were men who, at study Visit 3 (Year 7), completed a back pain assessment (presence, frequency, severity, activity limitation) and a phenotypic frailty assessment (robust, pre‐frail, frail). Among men classified as either robust or pre‐frail, phenotypic frailty was again assessed at Visit 4 (Year 14), with deaths between Visits 3 and 4 considered a separate terminal outcome category. The association of Visit 3 back pain with frailty phenotype relative to a robust (and pre‐frail) status at Visit 4 was analyzed using multivariable‐adjusted multinominal logistic regression models.                                                           Results                     Among 5994 men enrolled, 2554 men who were considered robust or pre‐frail at Visit 3 (mean [SD] age = 71.6 [4.9] years) were included in the current analysis. After accounting for age, study clinic site, race and education, presence of any back pain, moderate–severe severity, high frequency, and activity limiting back pain were prospectively associated with higher odds of being frail vs. robust and of being frail vs. pre‐frail an average of 7 years later. However, after adjustment for other characteristics including prefrail vs. robust status at Visit 3, only the activity‐limiting back pain phenotype was associated with significantly higher odds of later being classified as frail vs. prefrail (OR = 1.40 [1.03–1.90]), and no back pain phenotypes were associated with higher odds of later being classified as frail vs. robust.                                                           Conclusion                     Among older community‐dwelling men, back pain, particularly activity‐limiting back pain, was associated with higher odds of progression to frailty during a 7‐year period, suggesting that back pain may be a modifiable risk factor for age‐related phenotypic frailty. Further replication and understanding of the mechanisms underpinning the relationship between back pain and frailty are needed to inform targeted interventions in older individuals at risk of frailty.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-10-07",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-08",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08400-y",
+        "doi": "10.1186/s12877-026-08400-y",
+        "url": "https://doi.org/10.1186/s12877-026-08400-y",
+        "title": "Red blood cell distribution width and risk of hip fracture in older adults: a UK Biobank prospective cohort study",
+        "authors": [
+          "Kaihua Qin",
+          "Shuhuai Tan",
+          "Yu Jiang",
+          "Yan Luo",
+          "Xiao Liu",
+          "Chang Yang",
+          "Dingfa Liang",
+          "Licheng Zhang",
+          "Xiang Cui",
+          "Wen Ju",
+          "Houchen Lyu"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-07",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-08",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08390-x",
+        "doi": "10.1186/s12877-026-08390-x",
+        "url": "https://doi.org/10.1186/s12877-026-08390-x",
+        "title": "How self-reported risk of dysphagia relates to anxiety symptoms in older adults: a propensity score-matched study",
+        "authors": [
+          "Xiaoli Zhou",
+          "Liping Wu",
+          "Ping Wu",
+          "Yanhong Wei",
+          "Teng Zuo",
+          "He Zhu",
+          "Zichen Ye",
+          "Shu Yan",
+          "Dongfang Zhu",
+          "Siyu Luo",
+          "Yuxing Wang",
+          "Rui Wang",
+          "Xi Zeng",
+          "Ling Li",
+          "Hongji Zeng"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-07",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-08",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08381-y",
+        "doi": "10.1186/s12877-026-08381-y",
+        "url": "https://doi.org/10.1186/s12877-026-08381-y",
+        "title": "Association between phase angle and incidence of sarcopenia: a 6-year prospective cohort study",
+        "authors": [
+          "Tingting Jiang",
+          "Qiao Xiang",
+          "Jiao Wang",
+          "Xiaoyu Shu",
+          "Taiping Lin",
+          "Li Huang",
+          "Jirong Yue"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-07",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-08",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08404-8",
+        "doi": "10.1186/s12877-026-08404-8",
+        "url": "https://doi.org/10.1186/s12877-026-08404-8",
+        "title": "Identification and characteristics of social connection latent profiles in older adults: Findings from the Health and Retirement Study",
+        "authors": [
+          "Dokyung Yoon",
+          "Elizabeth Zelinski",
+          "Teal Eich"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-07",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-08",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1186/s12877-026-08445-z",
         "doi": "10.1186/s12877-026-08445-z",
         "url": "https://doi.org/10.1186/s12877-026-08445-z",
@@ -30412,6 +30754,56 @@
         "fetched_from": "crossref"
       },
       {
+        "id": "doi:10.1016/j.socscimed.2026.119874",
+        "doi": "10.1016/j.socscimed.2026.119874",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.119874",
+        "title": "Unequal returns to effort? Gender differences in health status and lifestyle",
+        "authors": [
+          "Alexia Bigorne",
+          "Sandy Tubeuf"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-08",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.socscimed.2026.119910",
+        "doi": "10.1016/j.socscimed.2026.119910",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.119910",
+        "title": "Medicines, ‘Medication Work’ and Networks of Support in the Community Following Mental Health Hospital Discharge: A Qualitative Interview Study",
+        "authors": [
+          "Mark Jeffries",
+          "Fiona Naylor",
+          "Natasha Tyler",
+          "Catherine Robinson",
+          "Maria Panagioti",
+          "Richard N. Keers"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-08",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1186/s12877-026-08344-3",
         "doi": "10.1186/s12877-026-08344-3",
         "url": "https://doi.org/10.1186/s12877-026-08344-3",
@@ -36577,6 +36969,660 @@
         "fetched_from": "crossref"
       },
       {
+        "id": "doi:10.1056/nejmoa2516225",
+        "doi": "10.1056/nejmoa2516225",
+        "url": "https://doi.org/10.1056/nejmoa2516225",
+        "title": "Vasopressors or Fluids in Early Septic Shock",
+        "authors": [],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-10-08",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-08",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmoa2606934",
+        "doi": "10.1056/nejmoa2606934",
+        "url": "https://doi.org/10.1056/nejmoa2606934",
+        "title": "Tricuspid-Valve Intervention in Heart Failure",
+        "authors": [
+          "Jörg Hausleiter",
+          "Thomas J. Stocker",
+          "Tobias Geisler",
+          "Philipp Lurz",
+          "Wolfgang Rottbauer",
+          "Edith Lubos",
+          "Niklas Schofer",
+          "Christian Frerker",
+          "Johanne Frank",
+          "Holger Thiele",
+          "Rico Osteresch",
+          "Volker Rudolph",
+          "Alexander Lauten",
+          "Erion Xhepa",
+          "Jürgen Rothe",
+          "Tienush Rassaf",
+          "Stephan Baldus",
+          "Georg Nickenig",
+          "David M. Leistner",
+          "Eike Tigges",
+          "Victoria Kehl",
+          "Mirjam Kessler",
+          "Tobias Kister",
+          "Tobias Ruf",
+          "Muhammed Gerçek",
+          "Meinrad Gawaz",
+          "Derk Frank",
+          "Ingo Eitel",
+          "Ralph Stephan von Bardeleben",
+          "Daniel Kalbacher",
+          "Osama Soliman",
+          "Michael Näbauer",
+          "Steffen Massberg"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-10-08",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-08",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmc2607437",
+        "doi": "10.1056/nejmc2607437",
+        "url": "https://doi.org/10.1056/nejmc2607437",
+        "title": "Pediatric Heart Transplantation with Donation after Circulatory Death",
+        "authors": [
+          "Aaron M. Williams",
+          "Swaroop Bommareddi",
+          "Kevin C. McGann",
+          "Awab Ahmad",
+          "John Trahanas",
+          "Brian Lima",
+          "Tammy Ruth",
+          "David W. Bearl",
+          "Rachel E. Harris",
+          "Ryan D. Byrne",
+          "Caroline West",
+          "A. Joey Lepore",
+          "Phyllis Aycock",
+          "Nicole Michaud",
+          "Sonya Burrell",
+          "Susana A. Stripling",
+          "Amir T. Dereshgi",
+          "Garrett Coyan",
+          "David Bichell",
+          "Amanpreet Kalsi",
+          "Amy M. Babb",
+          "Michael Kuntz",
+          "Jessica Clark",
+          "Shelley Scholl",
+          "Matthew Bacchetta",
+          "Ashish S. Shah",
+          "Yishay Orr",
+          "Carlos M. Mery",
+          "Ziv Beckerman"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-10-08",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-08",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmc2607457",
+        "doi": "10.1056/nejmc2607457",
+        "url": "https://doi.org/10.1056/nejmc2607457",
+        "title": "A Multicomponent Intervention to Improve Maternal Infection Outcomes",
+        "authors": [],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-10-08",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-08",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmc2609242",
+        "doi": "10.1056/nejmc2609242",
+        "url": "https://doi.org/10.1056/nejmc2609242",
+        "title": "Interleukin-10 Autoantibodies in Inflammatory Bowel Disease",
+        "authors": [],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-10-08",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-08",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmc2610744",
+        "doi": "10.1056/nejmc2610744",
+        "url": "https://doi.org/10.1056/nejmc2610744",
+        "title": "Inhaled Treprostinil for Idiopathic Pulmonary Fibrosis",
+        "authors": [],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-10-08",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-08",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmcpc2603182",
+        "doi": "10.1056/nejmcpc2603182",
+        "url": "https://doi.org/10.1056/nejmcpc2603182",
+        "title": "Case 28-2026: A 19-Year-Old Woman with Fever, Cervical Lymphadenopathy, and Leukopenia",
+        "authors": [
+          "Ezra M. Cohen",
+          "Shohei Fujita",
+          "Daniel R. Brown",
+          "Vanda F. Torous"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-10-08",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-08",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejme2609170",
+        "doi": "10.1056/nejme2609170",
+        "url": "https://doi.org/10.1056/nejme2609170",
+        "title": "More Than One Way to Save a Life in Septic Shock",
+        "authors": [
+          "Theodore J. Iwashyna"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-10-08",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-08",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejme2610388",
+        "doi": "10.1056/nejme2610388",
+        "url": "https://doi.org/10.1056/nejme2610388",
+        "title": "Optogenetics in Sight",
+        "authors": [
+          "Karl Deisseroth"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-10-08",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-08",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejme2611648",
+        "doi": "10.1056/nejme2611648",
+        "url": "https://doi.org/10.1056/nejme2611648",
+        "title": "Transcatheter Tricuspid-Valve Intervention for Severe Tricuspid Regurgitation",
+        "authors": [
+          "Manesh R. Patel"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-10-08",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-08",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmicm2605910",
+        "doi": "10.1056/nejmicm2605910",
+        "url": "https://doi.org/10.1056/nejmicm2605910",
+        "title": "Syphilitic Chancre on the Nipple",
+        "authors": [
+          "Yangbin Wang",
+          "Chun-Fang Guo"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-10-08",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-08",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmms2607020",
+        "doi": "10.1056/nejmms2607020",
+        "url": "https://doi.org/10.1056/nejmms2607020",
+        "title": "Reproducibility in Biomedical Science — From Repetition to Corroboration",
+        "authors": [
+          "Harvey V. Fineberg"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-10-08",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-08",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmoa2602215",
+        "doi": "10.1056/nejmoa2602215",
+        "url": "https://doi.org/10.1056/nejmoa2602215",
+        "title": "Optogenetic Therapy for Restoring Aspects of Visual Function",
+        "authors": [
+          "José-Alain Sahel",
+          "Stefan Futterknecht",
+          "Isabelle Audo",
+          "Joseph N. Martel",
+          "Shouyu Ling",
+          "Chloé Pagot",
+          "Angelo Arleo",
+          "Elise Boulanger-Scemama",
+          "Antonin Duret",
+          "Jean-Baptiste de Saint Aubert",
+          "Alexandre Delaux",
+          "Simona Degli Esposti",
+          "Cécilia Coen",
+          "Caroline de Montleau",
+          "Dana Aravich",
+          "William Smith",
+          "Cecile Hayem",
+          "Magali Taiel",
+          "Marlene Behrmann",
+          "Botond Roska"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-10-08",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-08",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmra2500695",
+        "doi": "10.1056/nejmra2500695",
+        "url": "https://doi.org/10.1056/nejmra2500695",
+        "title": "Advances in Systemic Treatment of Breast Cancer",
+        "authors": [
+          "Sara Alsterlind Hurvitz"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-10-08",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-08",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.13868",
+        "doi": "10.1001/jama.2026.13868",
+        "url": "https://doi.org/10.1001/jama.2026.13868",
+        "title": "The Body and Poetry as Technologies",
+        "authors": [
+          "Rafael Campo"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-07",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-08",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.13891",
+        "doi": "10.1001/jama.2026.13891",
+        "url": "https://doi.org/10.1001/jama.2026.13891",
+        "title": "Multiple Brownish Patches on the Trunk in a Patient With Neck Masses",
+        "authors": [
+          "Yi-Shan Teng",
+          "Yng Sun"
+        ],
+        "abstract": "A patient with a history of lung adenocarcinoma had violaceous-to-brown cutaneous patches and plaques. Computed tomography showed splenomegaly and multicentric lymphadenopathy, and laboratory testing showed an elevated erythrocyte sedimentation rate and levels of IgG, IgG4, IgA, and interleukin 6. What is the diagnosis and what would you do next?",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-07",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-08",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.19205",
+        "doi": "10.1001/jama.2026.19205",
+        "url": "https://doi.org/10.1001/jama.2026.19205",
+        "title": "The Quiet Half of Good Medicine",
+        "authors": [
+          "Mohammed Ruzieh",
+          "Robert O. Bonow"
+        ],
+        "abstract": "This Viewpoint discusses the need to discern when medical intervention is needed vs when supportive care and monitoring are appropriate.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-07",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-08",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.15436",
+        "doi": "10.1001/jama.2026.15436",
+        "url": "https://doi.org/10.1001/jama.2026.15436",
+        "title": "Beyond the Trial—What Do Extension Studies Add to Randomized Clinical Trials?",
+        "authors": [
+          "Jesse A. Berlin",
+          "Nicole Santos",
+          "Alison J. Huang"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-07",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-08",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.18377",
+        "doi": "10.1001/jama.2026.18377",
+        "url": "https://doi.org/10.1001/jama.2026.18377",
+        "title": "Facilitating Real-World Advance Care Planning",
+        "authors": [
+          "Anne M. Walling",
+          "Neil S. Wenger",
+          "Rebecca L. Sudore"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-07",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-08",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.13865",
+        "doi": "10.1001/jama.2026.13865",
+        "url": "https://doi.org/10.1001/jama.2026.13865",
+        "title": "Eternal life",
+        "authors": [
+          "Michael O’Sullivan"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-07",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-08",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.16911",
+        "doi": "10.1001/jama.2026.16911",
+        "url": "https://doi.org/10.1001/jama.2026.16911",
+        "title": "Deescalation, Deimplementation, and Discontinuation Trials",
+        "authors": [
+          "Alexander G. Mathioudakis",
+          "Victoria Chatzimavridou-Grigoriadou"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-07",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-08",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.16914",
+        "doi": "10.1001/jama.2026.16914",
+        "url": "https://doi.org/10.1001/jama.2026.16914",
+        "title": "Deescalation, Deimplementation, and Discontinuation Trials—Reply",
+        "authors": [
+          "Alison J. Huang",
+          "Mara A. Schonberg",
+          "Deborah Grady"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-07",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-08",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.17619",
+        "doi": "10.1001/jama.2026.17619",
+        "url": "https://doi.org/10.1001/jama.2026.17619",
+        "title": "Advance Care Planning for Black and White Older Adults With Serious Illness",
+        "authors": [
+          "Kimberly S. Johnson",
+          "Deborah Ejem",
+          "Alyssa Platt",
+          "Maren Olsen",
+          "Tammie Quest",
+          "Nadine Barrett",
+          "Ramona Rhodes",
+          "Anupama Gangavati",
+          "Ronit Elk",
+          "Marie Bakitas",
+          "Marisette Hasan",
+          "Kenisha Bethea",
+          "Sherone N. Williams-Bryant",
+          "Felicia Underwood",
+          "Jane Lowers",
+          "Karen Steinhauser",
+          "Rowena Dolor",
+          "Raegan W. Durant"
+        ],
+        "abstract": "Importance                     Advance care planning (ACP) helps individuals communicate preferences for future medical care. Many adults do not participate in ACP, and Black adults are less likely than White adults to participate.                                                           Objective                     To compare the effectiveness of facilitated vs self-guided ACP interventions.                                                           Design, Setting, and Participants                     EQUAL ACP was a multisite, cluster randomized trial conducted in 10 primary care (n = 9) and geriatrics (n = 1) clinics in the South of the United States. Participants were community-dwelling Black and White adults 65 years or older with serious illness. Within each clinic and study group, participants were randomized to a racially concordant or discordant ACP facilitator.                                                           Interventions                     Clinics were randomized to Respecting Choices First Steps, a facilitated ACP approach, or Five Wishes, a self-guided approach. Both were delivered by lay ACP facilitators.                                                           Main Outcomes and Measures                     ACP completion within 12 months after the baseline survey, defined as new formal (advance directive, clinician note, or orders for life-sustaining treatment form in the medical record) and/or new informal ACP (participant-reported discussion with family about end-of-life care preferences). The primary analysis compared the effectiveness of the self-guided approach with the facilitated approach within each racial group. Other analyses assessed interaction between race and treatment in the combined sample and the association of participant-facilitator racial concordance with ACP.                                                           Results                     Of 791 participants, 427 were Black and 364 were White; 409 were in clinics with the facilitated approach and 382 in clinics with the self-guided approach. Among Black participants, 152 of 213 (71%) in facilitated clinics and 131 of 213 (62%) in self-guided clinics completed ACP within 1 year (adjusted risk ratio [RR], 1.15 [95% CI, 0.83-1.59]). Among White participants, 133 of 196 (68%) in facilitated clinics and 131 of 167 (78%) in self-guided clinics completed ACP (adjusted RR, 0.88 [95% CI, 0.65-1.18]). Among 789 in the pooled sample, 547 (69%) completed ACP, including 130 of 789 with formal ACP and 523 of 668 with informal ACP. In the pooled sample, the interaction between race and intervention group was significant (adjusted RR, 1.32 [95% CI, 1.03-1.69]), indicating greater effectiveness of the facilitated vs self-guided approach among Black relative to White participants. Participant-facilitator racial concordance was not associated with ACP in either racial group.                                                           Conclusions and Relevance                     ACP completion within 1 year did not differ significantly between facilitated vs self-guided ACP approaches within Black or White racial groups.                                                           Trial Registration                                            ClinicalTrials.gov Identifier:                       NCT03516994",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-07",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-08",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.19916",
+        "doi": "10.1001/jama.2026.19916",
+        "url": "https://doi.org/10.1001/jama.2026.19916",
+        "title": "Hypertension Management and Control in Cienfuegos, Cuba",
+        "authors": [
+          "Alain F. Morejón Giraldoni",
+          "Yamilé Valdés González",
+          "Mikhail Benet Rodríguez",
+          "Dania L. Pedraza Alejo",
+          "Dolores Ondarsuhu",
+          "Salvador Tamayo Muñiz",
+          "Andrew E. Moran",
+          "Pedro Ordunez"
+        ],
+        "abstract": "This population-based cross-sectional survey assesses hypertension prevalence and indicators of management and control in 2023 and compares these findings with a similar population-based survey conducted in 2011.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-07",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-08",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.21519",
+        "doi": "10.1001/jama.2026.21519",
+        "url": "https://doi.org/10.1001/jama.2026.21519",
+        "title": "Achieving Better Hypertension Control in Low- and Middle-Income Settings",
+        "authors": [
+          "Gianfranco Parati"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-07",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-08",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmp2610547",
+        "doi": "10.1056/nejmp2610547",
+        "url": "https://doi.org/10.1056/nejmp2610547",
+        "title": "Clinical Trial Prediction Markets — Information, at What Cost?",
+        "authors": [
+          "Matthew Vogel",
+          "Rona Yaeger",
+          "Olivier J. Wouters"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-10-07",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-08",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag249",
+        "doi": "10.1093/aje/kwag249",
+        "url": "https://doi.org/10.1093/aje/kwag249",
+        "title": "Reallocation of 24-hour movement behaviour composition and mortality: exploring effect modification by sleep characteristics",
+        "authors": [
+          "Wenxin Bian",
+          "Matthew N Ahmadi",
+          "John J Mitchell",
+          "Raaj Kishore Biswas",
+          "Nicholas A Koemel",
+          "Dorothea Dumuid",
+          "Sebastien F M Chastin",
+          "Joanna M Blodgett",
+          "Jean-Philippe Chaput",
+          "Mark Hamer",
+          "Emmanuel Stamatakis"
+        ],
+        "abstract": "Abstract                   Sleep, sedentary behaviour (SB), standing, light-intensity physical activity (LPA) and moderate-to-vigorous physical activity (MVPA) compose the 24-hour day, and reallocating time between these behaviours is associated with premature mortality; however, whether these associations differ by sleep characteristics remains unclear. We examined associations between time reallocations across these device-measured behaviours and all-cause, cardiovascular disease (CVD) and physical activity-related cancer mortality, and potential effect modification by sleep duration and regularity. We conducted a population-based prospective cohort study among UK Biobank participants and applied compositional Cox regression. In 68 995 adults, 2668 deaths occurred over a mean follow-up of 8.0 years. Among participants meeting sleep duration guidelines, reallocating 30-minutes from sleep to standing, LPA or MVPA was favourably associated with all-cause mortality, with HRs of 0.85 (95%CI 0.79, 0.92), 0.87 (0.81, 0.94), and 0.80 (0.74, 0.87), respectively. Among short sleepers, reallocating 30-minutes from sleep to SB, standing or LPA was adversely associated with CVD mortality, with HRs of 1.18 (1.04, 1.34), 1.20 (1.04, 1.38), and 1.18 (1.03, 1.35), respectively. Beneficial associations of reallocating SB to sleep were evident among both regular sleepers and irregular sleepers. These observational findings suggest that associations between 24-hour behavioural reallocations and mortality may vary according to sleep characteristics.",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-10-07",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-08",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag248",
+        "doi": "10.1093/aje/kwag248",
+        "url": "https://doi.org/10.1093/aje/kwag248",
+        "title": "Epidemiologic research questions are too often a ticket to nowhere",
+        "authors": [
+          "Jeremy A Labrecque"
+        ],
+        "abstract": "Abstract                   In the article by Fox et al. (Am J Epidemiol. 0000;000(00):0000–0000), they argue that research questions in epidemiology are too often unclear leading, in turn, to confusion regarding correlation and causation. I build on points made by Fox et al, arguing that the research question is equivalent to the destination on a train ticket: both tell us where we want to go. Just as we would be upset if we were issued a train ticket with an ambiguous destination, we should similarly be upset when reading an epidemiologic article with an unclear research question. I further leverage the analogy to show that research questions are statements about “where we want to go” not “where we will end up”. I end with a call that given the fundamental status of research questions in the research process, they deserve their own section in our research articles.",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-10-07",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-08",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1001/jama.2026.12565",
         "doi": "10.1001/jama.2026.12565",
         "url": "https://doi.org/10.1001/jama.2026.12565",
@@ -42471,6 +43517,64 @@
         "fetched_from": "crossref"
       },
       {
+        "id": "doi:10.1016/j.socscimed.2026.119917",
+        "doi": "10.1016/j.socscimed.2026.119917",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.119917",
+        "title": "Work Without a Roadmap: A Qualitative Analysis of Occupational and Structural Challenges Among Adolescent Peer Workers in HIV Programs in Kenya",
+        "authors": [
+          "Ashley Chory",
+          "Ava Boal",
+          "Jack Nyagaya",
+          "Janet Lidweye",
+          "Josephine Aluoch",
+          "Sakshi Sawarkar",
+          "Lonnie Embleton",
+          "Mary Ott",
+          "Rachel Vreeman",
+          "Edith Apondi"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-07",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.socscimed.2026.119918",
+        "doi": "10.1016/j.socscimed.2026.119918",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.119918",
+        "title": "Intersectional and Territorial Exclusion in Brazil’s Aging Policy Field: A Critical Analysis of Access to Bodily Practices and Inequalities",
+        "authors": [
+          "Thiago Medeiros da Costa Daniele",
+          "Larissa Oliveira Nascimento",
+          "Letticia de Araújo Moura",
+          "Maria Araruna Correia Lima",
+          "Eduardo Correia Ponte",
+          "Danilo Garcia"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-07",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1056/nejme2605617",
         "doi": "10.1056/nejme2605617",
         "url": "https://doi.org/10.1056/nejme2605617",
@@ -45054,64 +46158,6 @@
         "fetched_from": "crossref"
       },
       {
-        "id": "doi:10.1016/j.socscimed.2026.119917",
-        "doi": "10.1016/j.socscimed.2026.119917",
-        "url": "https://doi.org/10.1016/j.socscimed.2026.119917",
-        "title": "Work Without a Roadmap: A Qualitative Analysis of Occupational and Structural Challenges Among Adolescent Peer Workers in HIV Programs in Kenya",
-        "authors": [
-          "Ashley Chory",
-          "Ava Boal",
-          "Jack Nyagaya",
-          "Janet Lidweye",
-          "Josephine Aluoch",
-          "Sakshi Sawarkar",
-          "Lonnie Embleton",
-          "Mary Ott",
-          "Rachel Vreeman",
-          "Edith Apondi"
-        ],
-        "abstract": "",
-        "source": "Social Science &amp; Medicine",
-        "issn": "0277-9536",
-        "date": "2026-10-01",
-        "subjects": [],
-        "domains": [
-          "healthReform",
-          "elderCare",
-          "agingHealth",
-          "socialWork"
-        ],
-        "firstSeen": "2026-10-07",
-        "fetched_from": "crossref"
-      },
-      {
-        "id": "doi:10.1016/j.socscimed.2026.119918",
-        "doi": "10.1016/j.socscimed.2026.119918",
-        "url": "https://doi.org/10.1016/j.socscimed.2026.119918",
-        "title": "Intersectional and Territorial Exclusion in Brazil’s Aging Policy Field: A Critical Analysis of Access to Bodily Practices and Inequalities",
-        "authors": [
-          "Thiago Medeiros da Costa Daniele",
-          "Larissa Oliveira Nascimento",
-          "Letticia de Araújo Moura",
-          "Maria Araruna Correia Lima",
-          "Eduardo Correia Ponte",
-          "Danilo Garcia"
-        ],
-        "abstract": "",
-        "source": "Social Science &amp; Medicine",
-        "issn": "0277-9536",
-        "date": "2026-10-01",
-        "subjects": [],
-        "domains": [
-          "healthReform",
-          "elderCare",
-          "agingHealth",
-          "socialWork"
-        ],
-        "firstSeen": "2026-10-07",
-        "fetched_from": "crossref"
-      },
-      {
         "id": "doi:10.1016/j.jval.2026.09.3126",
         "doi": "10.1016/j.jval.2026.09.3126",
         "url": "https://doi.org/10.1016/j.jval.2026.09.3126",
@@ -45152,6 +46198,101 @@
           "healthReform"
         ],
         "firstSeen": "2026-10-07",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.socscimed.2026.119874",
+        "doi": "10.1016/j.socscimed.2026.119874",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.119874",
+        "title": "Unequal returns to effort? Gender differences in health status and lifestyle",
+        "authors": [
+          "Alexia Bigorne",
+          "Sandy Tubeuf"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-08",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.socscimed.2026.119910",
+        "doi": "10.1016/j.socscimed.2026.119910",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.119910",
+        "title": "Medicines, ‘Medication Work’ and Networks of Support in the Community Following Mental Health Hospital Discharge: A Qualitative Interview Study",
+        "authors": [
+          "Mark Jeffries",
+          "Fiona Naylor",
+          "Natasha Tyler",
+          "Catherine Robinson",
+          "Maria Panagioti",
+          "Richard N. Keers"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-08",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/s0140-6736(26)01366-8",
+        "doi": "10.1016/s0140-6736(26)01366-8",
+        "url": "https://doi.org/10.1016/s0140-6736(26)01366-8",
+        "title": "Migraine",
+        "authors": [
+          "Cristina Tassorelli",
+          "Shuu-Jiun Wang",
+          "Patricia Pozo-Rosich",
+          "Messoud Ashina"
+        ],
+        "abstract": "",
+        "source": "The Lancet",
+        "issn": "0140-6736",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-08",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.jval.2026.08.015",
+        "doi": "10.1016/j.jval.2026.08.015",
+        "url": "https://doi.org/10.1016/j.jval.2026.08.015",
+        "title": "Health Utilities and Costs for Multiple Sclerosis",
+        "authors": [
+          "Yankier Pijeira Perez",
+          "Carolyn A. Young",
+          "Roger J. Mills",
+          "Dyfrig A. Hughes"
+        ],
+        "abstract": "",
+        "source": "Value in Health",
+        "issn": "1098-3015",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-08",
         "fetched_from": "crossref"
       },
       {
@@ -58244,6 +59385,459 @@
         "fetched_from": "crossref"
       },
       {
+        "id": "doi:10.1186/s12877-026-08383-w",
+        "doi": "10.1186/s12877-026-08383-w",
+        "url": "https://doi.org/10.1186/s12877-026-08383-w",
+        "title": "Physical performance clustering as a marker of frailty, fall risk, and cognitive health in older adults",
+        "authors": [
+          "Elodie Piche",
+          "Frédéric Chorin",
+          "Lyne Daumas",
+          "Emeline Michel",
+          "Olivier Guerin",
+          "Raphael Zory"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-08",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-08",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08389-4",
+        "doi": "10.1186/s12877-026-08389-4",
+        "url": "https://doi.org/10.1186/s12877-026-08389-4",
+        "title": "Validation of the Experiencing Day-to-Day Life Questionnaire (EDLQ-old): assessing objective and subjective participation of community-dwelling older adults",
+        "authors": [
+          "Haya Fogel-Grinvald",
+          "Adina Maeir",
+          "Anat Golos"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-08",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-08",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08446-y",
+        "doi": "10.1186/s12877-026-08446-y",
+        "url": "https://doi.org/10.1186/s12877-026-08446-y",
+        "title": "Surrogate decision-making during hospital care transitions for persons with dementia: role of palliative care",
+        "authors": [
+          "Jung Kwak",
+          "Kwaku Duah Oppong",
+          "Swasati Handique",
+          "Alexandra A. García",
+          "Carolyn S. Phillips",
+          "Sarah Stayer",
+          "Elizabeth A. Kvale"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-08",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-08",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/geront/gnag238",
+        "doi": "10.1093/geront/gnag238",
+        "url": "https://doi.org/10.1093/geront/gnag238",
+        "title": "Being Sensed, Scored, and ‘Connected’: A Social-Gerontological Critique of AI-Driven Loneliness Detection for Older Adults in Taiwan",
+        "authors": [
+          "Hui-Chun Chan",
+          "Kuo-Ming Chu"
+        ],
+        "abstract": "Abstract                   Enthusiasm for artificial intelligence (AI) that continuously infers emotion promises to change how care systems identify older adults at risk of loneliness. We use AI-driven loneliness detection to mean systems that infer loneliness, or a proxy for it, from sensed data rather than from a person’s answer, rendering the inference as a score or category used in care; they range from facial and vocal emotion recognition to behavioral risk prediction from everyday activity data. Engineering feasibility, more than any social-gerontological understanding of loneliness, has driven this agenda, and little attention has gone to how older adults in different cultural contexts wish to be known and supported. Because such detection is not yet in routine use in Taiwan, this Forum article adopts an anticipatory-governance stance, examining before deployment a trajectory that policy makes plausible. Anchored in Taiwan’s ageing society and long-term care system, it argues that culturally responsive design should begin with older adults’ own meanings, relational obligations, and expectations of privacy and autonomy, not with the sensors. It identifies three tensions for social gerontology: the reframing of a relational experience as an individual biometric deficit; the risk that algorithms read culturally patterned emotional restraint as noise; and the slippage from care toward surveillance once risk indices enter routine care workflows. Taking seriously the case for technological augmentation of scarce care resources, the article proposes principles for a socially accountable approach and a research agenda on how older adults negotiate being sensed, scored, and ‘connected.’",
+        "source": "The Gerontologist",
+        "issn": "0016-9013",
+        "date": "2026-10-07",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-08",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/geront/gnag239",
+        "doi": "10.1093/geront/gnag239",
+        "url": "https://doi.org/10.1093/geront/gnag239",
+        "title": "Vulnerability Intersections: An Integrative Conceptual Framework for Understanding Vulnerability in AI-Assisted Care for Older Adults",
+        "authors": [
+          "Wenqian Xu",
+          "Maria Claudia Solarte Vasquez",
+          "Aud Uhlen Obstfelder",
+          "Roger A Søraa",
+          "Jin Kristian Hurum",
+          "Xingyue Su",
+          "Honglin Chen",
+          "Katrin Kangur",
+          "Susanne Frennert"
+        ],
+        "abstract": "Abstract                   Artificial Intelligence (AI) applications are increasingly used to support independent living and care for older adults, particularly those in vulnerable situations. Yet, how vulnerability is constructed when AI enters later-life care remains poorly theorized. Existing approaches to vulnerability in old age inadequately address AI-related risks, structural conditions, exposure pathways, and life course disadvantages. Using a theory-synthesis approach, this article proposes “vulnerability intersections” as an integrative framework for how vulnerability is constructed, enacted, and negotiated in AI-assisted care for older adults. The framework extends existing sociotechnical accounts by conceptualizing vulnerability as taking four overlapping forms: anticipatory, opaque, routinized, and normative. It locates vulnerability factors at the micro level of older adults’ lives, the meso level of care organizations and technology providers, and the macro level of political-economic and regulatory arrangements, with life-course accumulation spanning all three. It also proposes three exposure pathways through which vulnerability factors become consequential: AI-mediated information and representations of aging; AI-powered care organization and delivery; and AI-configured power, participation, and social relations. The framework shifts attention away from viewing older adults as inherently vulnerable toward examining the sociotechnical arrangements under which vulnerability is anticipated, classified, distributed, and negotiated when AI enters care.",
+        "source": "The Gerontologist",
+        "issn": "0016-9013",
+        "date": "2026-10-07",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-08",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/gerona/glag239",
+        "doi": "10.1093/gerona/glag239",
+        "url": "https://doi.org/10.1093/gerona/glag239",
+        "title": "Heat stress and coping strategies among older adults in three Sunbelt cities in the United States",
+        "authors": [
+          "Cornelius Dassah",
+          "Peter Crank",
+          "Leah Jones-Crank"
+        ],
+        "abstract": "Abstract                                        Background                     Prevailing scientific evidence suggests that extreme heat poses a substantial threat to the health and well-being of older adults in the Sunbelt cities of the United States. However, prior research has not adequately addressed the specific socio-demographic, health-related vulnerabilities, and coping-strategic factors influencing heat stress among older urban populations.                                                           Methods                     Informed by the Socio-Ecological Model, this study adopts a retrospective cohort study design to investigate the predictors and experiences of heat stress among older adults. Data from older adults in Los Angeles, Houston, and Phoenix were analyzed using thematic and multiple binary logistic regression analyses.                                                           Results                     The results reveal that much older adults (aged 80 +) were less likely to experience heat stress compared to their relatively younger counterparts. Also, marital status, income, respiratory diseases, physical activity, taking cool showers, and city of residence were significantly associated with a higher risk of suffering heat stress. The qualitative results uncovered individual-level behavioural adjustment as an effective coping mechanism during extreme heat events.                                                           Conclusion                     These results underscore the complex interplay of behavioral, socio-demographic, and health-related factors influencing heat stress among older adults. The study recommends that urban health strategies prioritize these demographics, enhancing support systems and coping mechanisms to reduce vulnerability to heat stress among older urban populations.",
+        "source": "The Journals of Gerontology, Series A: Biological Sciences and Medical Sciences",
+        "issn": "1079-5006",
+        "date": "2026-10-07",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "elderCare"
+        ],
+        "firstSeen": "2026-10-08",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/gerona/glag246",
+        "doi": "10.1093/gerona/glag246",
+        "url": "https://doi.org/10.1093/gerona/glag246",
+        "title": "Chronic inflammation and multiple dimensions of aging among women in the Philippines",
+        "authors": [
+          "Thomas W McDade",
+          "Sofia Carrera",
+          "Calen P Ryan",
+          "Elijah Watson",
+          "Linda S Adair",
+          "Nanette R Lee",
+          "Delia B Carba",
+          "Julie L MacIsaac",
+          "Kristy Dever",
+          "Michael S Kobor",
+          "Christopher W Kuzawa"
+        ],
+        "abstract": "Abstract                   Age-related increases in chronic systemic inflammation are strong predictors of morbidity and mortality in high income countries, but evidence is lacking from lower- and middle-income settings where infectious diseases are more prevalent and rates of overweight and obesity are relatively low. Here we evaluate two complementary measures of chronic inflammation—plasma C-reactive protein (CRP) and a DNA methylation–based surrogate (DNAm-CRP)—measured at baseline as predictors of physical capacity, cognitive function, and cardiometabolic disease seven years later among women in the Philippines (N = 953; 43-75 years at follow-up). Levels of CRP and DNAm-CRP were not strongly associated with age. Both measures predicted subsequent declines in physical and functional capacity, increased incidence of diabetes and hypertension, and poorer cognitive performance, after adjustment for baseline status and other covariates. DNAm-CRP performed comparably to CRP, and was robust to variation in white blood cell composition and acute infectious symptoms at the time of sampling. These findings demonstrate that chronic inflammation is associated with multiple dimensions of aging in a lower-middle income setting, and highlights the utility of inflammatory biomarkers as scalable tools for global aging research.",
+        "source": "The Journals of Gerontology, Series A: Biological Sciences and Medical Sciences",
+        "issn": "1079-5006",
+        "date": "2026-10-07",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "elderCare"
+        ],
+        "firstSeen": "2026-10-08",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70755",
+        "doi": "10.1111/jgs.70755",
+        "url": "https://doi.org/10.1111/jgs.70755",
+        "title": "Back Pain and Prospective Frailty Status Among Older Men: Findings From the\n                    <scp>MrOS</scp>\n                    Study",
+        "authors": [
+          "David T. McNaughton",
+          "Kristine Ensrud",
+          "Lisa Langsetmo",
+          "Stephanie Harrison",
+          "Jessica J. Wong",
+          "Javier Muñoz Laguna",
+          "James Young",
+          "Katie de Luca",
+          "Tuo‐Yu Chen",
+          "Hazel Jenkin",
+          "Aron Downie",
+          "Casper Nim",
+          "Muhammad Thalil",
+          "Nancy E. Lane",
+          "Howard A. Fink",
+          "Eric J. Roseen"
+        ],
+        "abstract": "ABSTRACT                                        Background                     The association between back pain and frailty is uncertain. This study examined the association between back pain in older men and prospective frailty status an average of 7 years later.                                                           Methods                     Prospective cohort study using data from the Osteoporotic Fractures in Men Study. Eligible participants were men who, at study Visit 3 (Year 7), completed a back pain assessment (presence, frequency, severity, activity limitation) and a phenotypic frailty assessment (robust, pre‐frail, frail). Among men classified as either robust or pre‐frail, phenotypic frailty was again assessed at Visit 4 (Year 14), with deaths between Visits 3 and 4 considered a separate terminal outcome category. The association of Visit 3 back pain with frailty phenotype relative to a robust (and pre‐frail) status at Visit 4 was analyzed using multivariable‐adjusted multinominal logistic regression models.                                                           Results                     Among 5994 men enrolled, 2554 men who were considered robust or pre‐frail at Visit 3 (mean [SD] age = 71.6 [4.9] years) were included in the current analysis. After accounting for age, study clinic site, race and education, presence of any back pain, moderate–severe severity, high frequency, and activity limiting back pain were prospectively associated with higher odds of being frail vs. robust and of being frail vs. pre‐frail an average of 7 years later. However, after adjustment for other characteristics including prefrail vs. robust status at Visit 3, only the activity‐limiting back pain phenotype was associated with significantly higher odds of later being classified as frail vs. prefrail (OR = 1.40 [1.03–1.90]), and no back pain phenotypes were associated with higher odds of later being classified as frail vs. robust.                                                           Conclusion                     Among older community‐dwelling men, back pain, particularly activity‐limiting back pain, was associated with higher odds of progression to frailty during a 7‐year period, suggesting that back pain may be a modifiable risk factor for age‐related phenotypic frailty. Further replication and understanding of the mechanisms underpinning the relationship between back pain and frailty are needed to inform targeted interventions in older individuals at risk of frailty.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-10-07",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-08",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08400-y",
+        "doi": "10.1186/s12877-026-08400-y",
+        "url": "https://doi.org/10.1186/s12877-026-08400-y",
+        "title": "Red blood cell distribution width and risk of hip fracture in older adults: a UK Biobank prospective cohort study",
+        "authors": [
+          "Kaihua Qin",
+          "Shuhuai Tan",
+          "Yu Jiang",
+          "Yan Luo",
+          "Xiao Liu",
+          "Chang Yang",
+          "Dingfa Liang",
+          "Licheng Zhang",
+          "Xiang Cui",
+          "Wen Ju",
+          "Houchen Lyu"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-07",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-08",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08390-x",
+        "doi": "10.1186/s12877-026-08390-x",
+        "url": "https://doi.org/10.1186/s12877-026-08390-x",
+        "title": "How self-reported risk of dysphagia relates to anxiety symptoms in older adults: a propensity score-matched study",
+        "authors": [
+          "Xiaoli Zhou",
+          "Liping Wu",
+          "Ping Wu",
+          "Yanhong Wei",
+          "Teng Zuo",
+          "He Zhu",
+          "Zichen Ye",
+          "Shu Yan",
+          "Dongfang Zhu",
+          "Siyu Luo",
+          "Yuxing Wang",
+          "Rui Wang",
+          "Xi Zeng",
+          "Ling Li",
+          "Hongji Zeng"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-07",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-08",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08381-y",
+        "doi": "10.1186/s12877-026-08381-y",
+        "url": "https://doi.org/10.1186/s12877-026-08381-y",
+        "title": "Association between phase angle and incidence of sarcopenia: a 6-year prospective cohort study",
+        "authors": [
+          "Tingting Jiang",
+          "Qiao Xiang",
+          "Jiao Wang",
+          "Xiaoyu Shu",
+          "Taiping Lin",
+          "Li Huang",
+          "Jirong Yue"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-07",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-08",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08404-8",
+        "doi": "10.1186/s12877-026-08404-8",
+        "url": "https://doi.org/10.1186/s12877-026-08404-8",
+        "title": "Identification and characteristics of social connection latent profiles in older adults: Findings from the Health and Retirement Study",
+        "authors": [
+          "Dokyung Yoon",
+          "Elizabeth Zelinski",
+          "Teal Eich"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-07",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-08",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag249",
+        "doi": "10.1093/aje/kwag249",
+        "url": "https://doi.org/10.1093/aje/kwag249",
+        "title": "Reallocation of 24-hour movement behaviour composition and mortality: exploring effect modification by sleep characteristics",
+        "authors": [
+          "Wenxin Bian",
+          "Matthew N Ahmadi",
+          "John J Mitchell",
+          "Raaj Kishore Biswas",
+          "Nicholas A Koemel",
+          "Dorothea Dumuid",
+          "Sebastien F M Chastin",
+          "Joanna M Blodgett",
+          "Jean-Philippe Chaput",
+          "Mark Hamer",
+          "Emmanuel Stamatakis"
+        ],
+        "abstract": "Abstract                   Sleep, sedentary behaviour (SB), standing, light-intensity physical activity (LPA) and moderate-to-vigorous physical activity (MVPA) compose the 24-hour day, and reallocating time between these behaviours is associated with premature mortality; however, whether these associations differ by sleep characteristics remains unclear. We examined associations between time reallocations across these device-measured behaviours and all-cause, cardiovascular disease (CVD) and physical activity-related cancer mortality, and potential effect modification by sleep duration and regularity. We conducted a population-based prospective cohort study among UK Biobank participants and applied compositional Cox regression. In 68 995 adults, 2668 deaths occurred over a mean follow-up of 8.0 years. Among participants meeting sleep duration guidelines, reallocating 30-minutes from sleep to standing, LPA or MVPA was favourably associated with all-cause mortality, with HRs of 0.85 (95%CI 0.79, 0.92), 0.87 (0.81, 0.94), and 0.80 (0.74, 0.87), respectively. Among short sleepers, reallocating 30-minutes from sleep to SB, standing or LPA was adversely associated with CVD mortality, with HRs of 1.18 (1.04, 1.34), 1.20 (1.04, 1.38), and 1.18 (1.03, 1.35), respectively. Beneficial associations of reallocating SB to sleep were evident among both regular sleepers and irregular sleepers. These observational findings suggest that associations between 24-hour behavioural reallocations and mortality may vary according to sleep characteristics.",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-10-07",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-08",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag248",
+        "doi": "10.1093/aje/kwag248",
+        "url": "https://doi.org/10.1093/aje/kwag248",
+        "title": "Epidemiologic research questions are too often a ticket to nowhere",
+        "authors": [
+          "Jeremy A Labrecque"
+        ],
+        "abstract": "Abstract                   In the article by Fox et al. (Am J Epidemiol. 0000;000(00):0000–0000), they argue that research questions in epidemiology are too often unclear leading, in turn, to confusion regarding correlation and causation. I build on points made by Fox et al, arguing that the research question is equivalent to the destination on a train ticket: both tell us where we want to go. Just as we would be upset if we were issued a train ticket with an ambiguous destination, we should similarly be upset when reading an epidemiologic article with an unclear research question. I further leverage the analogy to show that research questions are statements about “where we want to go” not “where we will end up”. I end with a call that given the fundamental status of research questions in the research process, they deserve their own section in our research articles.",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-10-07",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-08",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261490542",
+        "doi": "10.1177/13872877261490542",
+        "url": "https://doi.org/10.1177/13872877261490542",
+        "title": "White matter hyperintensities moderate neuropsychiatric response to N-acetylcysteine and exercise therapy in vascular mild cognitive impairment",
+        "authors": [
+          "Ethan Mah",
+          "Damien Gallagher",
+          "Yejin Kang",
+          "Fuqiang Gao",
+          "Joel Ramirez",
+          "Zahinoor Ismail",
+          "Sandra E. Black",
+          "Xingshan Cao",
+          "Nathan Herrmann",
+          "Susan Marzolini",
+          "Paul Oh",
+          "Jinghan Jenny Chen",
+          "Kate Survilla",
+          "Walter Swardfager",
+          "Danielle Vieira",
+          "Mark J. Rapoport",
+          "Krista L. Lanctôt"
+        ],
+        "abstract": "Background                     Vascular mild cognitive impairment (vaMCI) is frequently accompanied by neuropsychiatric symptoms (NPS), particularly apathy, which are associated with white matter hyperintensities (WMH). N-acetylcysteine (NAC) combined with exercise may provide neuroprotective benefits.                                                           Objective                     We hypothesized that baseline frontal and global WMH burden would moderate the neuropsychiatric response to NAC plus exercise. We further hypothesized that the strongest domain-specific effects would be observed for apathy and affective dysregulation.                                                           Methods                     Participants with vaMCI were randomized to NAC (2400 mg daily) or placebo plus exercise for 6 months. WMH volumes were quantified using structural MRI. NPS were assessed using the Mild Behavioral Impairment Checklist (MBI-C) at baseline, 3 months, and 6 months. Negative binomial generalized linear mixed models examined WMH × time × treatment interactions. False discovery rate (FDR) correction was applied.                                                           Results                                            Fifty-one participants were included. Lower baseline frontal (                       β                        = 0.229, SE = 0.070, FDR-adjusted                       p                        = 0.007) and global (                       β                        = 0.258, SE = 0.080, FDR-adjusted                       p                        = 0.007) WMH volume was associated with greater reductions in NPS over 6 months in the NAC plus exercise group. This effect was driven by improvements in apathy (frontal:                       β                        = 0.186, SE = 0.076, FDR-adjusted                       p                        = 0.048; global:                       β                        = 0.207, SE = 0.089, FDR-adjusted                       p                        = 0.049).                                                                                Conclusions                     Baseline WMH burden moderates neuropsychiatric treatment response in vaMCI. These findings support the importance of optimizing care for cerebrovascular risk factors in this vulnerable population.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-10-07",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-08",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261490813",
+        "doi": "10.1177/13872877261490813",
+        "url": "https://doi.org/10.1177/13872877261490813",
+        "title": "Alterations in diacylglycerol kinase θ define early pathological features of Alzheimer's disease in a mouse model",
+        "authors": [
+          "Marika Lanza",
+          "Rossella Basilotta",
+          "Sarah Adriana Scuderi",
+          "Pietro Giovani",
+          "Antonella Caccamo",
+          "Giovanna Casili",
+          "Salvatore Oddo",
+          "Emanuela Esposito"
+        ],
+        "abstract": "Background                     Diacylglycerol kinase theta (DGKθ) is an enzyme involved in lipid signaling pathways and has been implicated in Alzheimer's disease (AD). DGKθ plays a crucial role in regulating diacylglycerol and phosphatidic acid levels, which are important for neuronal function and survival. Dysregulation of DGKθ leads to abnormal lipid signaling, contributing to neuroinflammation, synaptic dysfunction, and neurodegeneration—hallmarks of AD.                                                           Objective                     This study aimed to assess the involvement of DGKθ in AD by measuring DGKθ levels as a function of age in the brains of APP/PS1 mice and associating its changes with key AD neuropathological markers.                                                           Methods                     To investigate the role of DGK-θ in AD, brain tissues from young and aged APP/PS1 transgenic and wild-type mice were analyzed using western blot, immunohistochemistry, and Pearson correlation analyses to establish relationships between protein expression levels.                                                           Results                                            We found that DGKθ levels were higher in older, but not in younger, APP/PS1 mice compared to age-matched controls. Notably, there was a positive correlation between DGKθ levels, Aβ                       42                       levels, and astrogliosis.                                                                                Conclusions                     These results suggest that DGKθ may play an important role in AD and that its modulation could represent a potential therapeutic strategy for this insidious disorder.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-10-07",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-08",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261486344",
+        "doi": "10.1177/13872877261486344",
+        "url": "https://doi.org/10.1177/13872877261486344",
+        "title": "Alzheimer's disease and olfactory dysfunction: A 20-year systematic bibliometric and genomic analysis",
+        "authors": [
+          "Guohui Yang",
+          "CuiDa Meng",
+          "DongDong Zhu"
+        ],
+        "abstract": "With the acceleration of global population aging, early diagnosis and intervention of Alzheimer's disease (AD) and other neurodegenerative disorders have become major public health challenges. Olfactory dysfunction (OD) is increasingly recognized as one of the earliest clinical manifestations of AD, highlighting the importance of understanding the relationship between AD and olfactory impairment. This study integrates bibliometric analysis and genomic approaches to systematically characterize global research trends and explore potential molecular mechanisms underlying AD and OD from 2006 to 2025. Publications related to AD and OD were retrieved from the Web of Science Core Collection, and bibliometric analyses were performed using CiteSpace and VOSviewer, with results further validated through the Scopus database. A total of 1412 publications were identified, demonstrating sustained growth over the past two decades and a rapid expansion phase after 2019. The United States and China were the leading contributors in publication output and international collaboration, although research development remained geographically uneven. Keyword analysis revealed a gradual transition from behavioral and pathological investigations toward early diagnosis, biomarker discovery, therapeutic exploration, and advanced technologies. Genomic analysis identified 1838 shared genes between AD and OD, with key hub genes including AKT1, INS, and ALB involved in common biological pathways associated with neuronal function, cognitive regulation, and olfactory system homeostasis. This study provides a comprehensive overview of the evolving research landscape of AD and OD, identifies emerging trends and potential molecular targets, and offers valuable insights for early screening, mechanistic investigation, and translational research in neurodegenerative diseases.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-10-07",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-08",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1186/s12877-026-08445-z",
         "doi": "10.1186/s12877-026-08445-z",
         "url": "https://doi.org/10.1186/s12877-026-08445-z",
@@ -64538,6 +66132,64 @@
         "fetched_from": "crossref"
       },
       {
+        "id": "doi:10.1016/j.socscimed.2026.119917",
+        "doi": "10.1016/j.socscimed.2026.119917",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.119917",
+        "title": "Work Without a Roadmap: A Qualitative Analysis of Occupational and Structural Challenges Among Adolescent Peer Workers in HIV Programs in Kenya",
+        "authors": [
+          "Ashley Chory",
+          "Ava Boal",
+          "Jack Nyagaya",
+          "Janet Lidweye",
+          "Josephine Aluoch",
+          "Sakshi Sawarkar",
+          "Lonnie Embleton",
+          "Mary Ott",
+          "Rachel Vreeman",
+          "Edith Apondi"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-07",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.socscimed.2026.119918",
+        "doi": "10.1016/j.socscimed.2026.119918",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.119918",
+        "title": "Intersectional and Territorial Exclusion in Brazil’s Aging Policy Field: A Critical Analysis of Access to Bodily Practices and Inequalities",
+        "authors": [
+          "Thiago Medeiros da Costa Daniele",
+          "Larissa Oliveira Nascimento",
+          "Letticia de Araújo Moura",
+          "Maria Araruna Correia Lima",
+          "Eduardo Correia Ponte",
+          "Danilo Garcia"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-07",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1016/s0140-6736(26)01552-7",
         "doi": "10.1016/s0140-6736(26)01552-7",
         "url": "https://doi.org/10.1016/s0140-6736(26)01552-7",
@@ -65860,64 +67512,6 @@
         "fetched_from": "crossref"
       },
       {
-        "id": "doi:10.1016/j.socscimed.2026.119917",
-        "doi": "10.1016/j.socscimed.2026.119917",
-        "url": "https://doi.org/10.1016/j.socscimed.2026.119917",
-        "title": "Work Without a Roadmap: A Qualitative Analysis of Occupational and Structural Challenges Among Adolescent Peer Workers in HIV Programs in Kenya",
-        "authors": [
-          "Ashley Chory",
-          "Ava Boal",
-          "Jack Nyagaya",
-          "Janet Lidweye",
-          "Josephine Aluoch",
-          "Sakshi Sawarkar",
-          "Lonnie Embleton",
-          "Mary Ott",
-          "Rachel Vreeman",
-          "Edith Apondi"
-        ],
-        "abstract": "",
-        "source": "Social Science &amp; Medicine",
-        "issn": "0277-9536",
-        "date": "2026-10-01",
-        "subjects": [],
-        "domains": [
-          "healthReform",
-          "elderCare",
-          "agingHealth",
-          "socialWork"
-        ],
-        "firstSeen": "2026-10-07",
-        "fetched_from": "crossref"
-      },
-      {
-        "id": "doi:10.1016/j.socscimed.2026.119918",
-        "doi": "10.1016/j.socscimed.2026.119918",
-        "url": "https://doi.org/10.1016/j.socscimed.2026.119918",
-        "title": "Intersectional and Territorial Exclusion in Brazil’s Aging Policy Field: A Critical Analysis of Access to Bodily Practices and Inequalities",
-        "authors": [
-          "Thiago Medeiros da Costa Daniele",
-          "Larissa Oliveira Nascimento",
-          "Letticia de Araújo Moura",
-          "Maria Araruna Correia Lima",
-          "Eduardo Correia Ponte",
-          "Danilo Garcia"
-        ],
-        "abstract": "",
-        "source": "Social Science &amp; Medicine",
-        "issn": "0277-9536",
-        "date": "2026-10-01",
-        "subjects": [],
-        "domains": [
-          "healthReform",
-          "elderCare",
-          "agingHealth",
-          "socialWork"
-        ],
-        "firstSeen": "2026-10-07",
-        "fetched_from": "crossref"
-      },
-      {
         "id": "doi:10.1002/alz.71885",
         "doi": "10.1002/alz.71885",
         "url": "https://doi.org/10.1002/alz.71885",
@@ -66086,6 +67680,248 @@
           "agingHealth"
         ],
         "firstSeen": "2026-10-07",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.socscimed.2026.119874",
+        "doi": "10.1016/j.socscimed.2026.119874",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.119874",
+        "title": "Unequal returns to effort? Gender differences in health status and lifestyle",
+        "authors": [
+          "Alexia Bigorne",
+          "Sandy Tubeuf"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-08",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.socscimed.2026.119910",
+        "doi": "10.1016/j.socscimed.2026.119910",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.119910",
+        "title": "Medicines, ‘Medication Work’ and Networks of Support in the Community Following Mental Health Hospital Discharge: A Qualitative Interview Study",
+        "authors": [
+          "Mark Jeffries",
+          "Fiona Naylor",
+          "Natasha Tyler",
+          "Catherine Robinson",
+          "Maria Panagioti",
+          "Richard N. Keers"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-08",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/s0140-6736(26)01366-8",
+        "doi": "10.1016/s0140-6736(26)01366-8",
+        "url": "https://doi.org/10.1016/s0140-6736(26)01366-8",
+        "title": "Migraine",
+        "authors": [
+          "Cristina Tassorelli",
+          "Shuu-Jiun Wang",
+          "Patricia Pozo-Rosich",
+          "Messoud Ashina"
+        ],
+        "abstract": "",
+        "source": "The Lancet",
+        "issn": "0140-6736",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-08",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1002/alz.71758",
+        "doi": "10.1002/alz.71758",
+        "url": "https://doi.org/10.1002/alz.71758",
+        "title": "Longitudinal clinical outcomes after amyloid clearance in aducanumab phase 3 studies",
+        "authors": [
+          "Menglan Pang",
+          "Holly M. Brothers",
+          "John O'Gorman",
+          "Jennifer Murphy",
+          "Yuval Zabar",
+          "Tyler Lasky",
+          "Changyu Shen",
+          "Ivana Rubino",
+          "David Knopman"
+        ],
+        "abstract": "Abstract                                        INTRODUCTION                     Anti‐amyloid antibody clinical trials with a high proportion of participants reaching treatment‐related amyloid clearance (TRAC) had positive clinical outcomes. We evaluated the aducanumab phase 3 program to determine whether TRAC during the double‐blind period was likewise associated with clinical benefit.                                                           METHODS                     We pooled ENGAGE and EMERGE (E/E) aducanumab‐treated participants in the amyloid positron emission tomography substudy who continued into the long‐term extension ≤ 134 weeks (continuously treated population) and/or returned to the EMBARK redosing study 0.7 to 2.5 years after termination of E/E (treatment gap population). Clinical outcomes were stratified by week 78 TRAC status.                                                           RESULTS                     TRAC participants had less clinical decline at week 78, week 134, and EMBARK baseline than non‐TRAC participants. Post‐TRAC, clinical decline was heterogeneous; approximately two thirds of TRAC participants had annualized decline of &lt; 1 point on Clinical Dementia Rating Sum of Boxes.                                                           DISCUSSION                     In these exploratory analyses, week 78 TRAC status was associated with better clinical outcomes.                                                           CLINICAL TRIAL REGISTRATION                     NCT02484547, NCT02477800, NCT04241068",
+        "source": "Alzheimer's &amp; Dementia",
+        "issn": "1552-5260",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-08",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1002/alz.71903",
+        "doi": "10.1002/alz.71903",
+        "url": "https://doi.org/10.1002/alz.71903",
+        "title": "miR‐214‐3p and NCKAP1: A microglial functional dimension of Alzheimer's progression",
+        "authors": [
+          "Min‐Young Noh",
+          "Yeonsil Moon",
+          "Sungwoo Kang",
+          "Won‐Jin Moon",
+          "Hee‐Jin Kim",
+          "Sang Won Seo",
+          "Sugyeong Ahn",
+          "Mi‐Hyeon Kang",
+          "Yong Sung Kim",
+          "Hyunkee Kim",
+          "Jae‐sung Bae",
+          "Hee Kyung Jin",
+          "Hojin Choi",
+          "Seong‐Ho Koh",
+          "Kee Hyung Park",
+          "Gregory S. Day",
+          "Guojun Bu",
+          "Seung Hyun Kim"
+        ],
+        "abstract": "Abstract                                        INTRODUCTION                     Biological Alzheimer's disease (AD) pathology does not fully explain the marked heterogeneity in clinical severity or progression. We investigated whether patient‐derived induced microglia‐like cell (iMG) profiles capture a functional dimension of AD progression beyond conventional plasma biomarkers.                                                           METHODS                                            We studied 114 participants comprising amyloid‐negative healthy controls (                       n =                        18) and amyloid‐positive AD‐continuum groups (cognitively unimpaired,                       n =                        2; mild cognitive impairment,                       n =                        18; AD dementia,                       n =                        76). Plasma biomarkers, patient‐derived iMG phagocytic function, and molecular markers were measured from the same blood draw. Longitudinal clinical follow‐up was available in 102 participants, and paired baseline/follow‐up blood samples were analyzed in a longitudinal biomarker cohort (                       n =                        38).                                                                                RESULTS                     iMG phagocytic capacity progressively declined across the AD continuum, accompanied by reduced NCK‐associated protein 1 (NCKAP1) expression and the strongest association with plasma glial fibrillary acidic protein (GFAP). Baseline NCKAP1 primarily reflected current cognitive impairment, whereas plasma miR‐214‐3p independently predicted faster cognitive decline beyond plasma tau phosphorylated at threonine 217 (p‐tau217), GFAP, neurofilament light chain (NfL), age, and baseline cognition. Within amyloid‐positive AD dementia, plasma miR‐214‐3p identified rapidly progressive disease and substantially improved prognostic discrimination beyond conventional plasma biomarkers. Longitudinally, declining NCKAP1 and increasing plasma miR‐214‐3p tracked the rate of cognitive deterioration, whereas plasma p‐tau217, GFAP, and NfL changed over time but did not track disease tempo.                                                           DISCUSSION                     Patient‐derived iMG profiling identifies microglial phagocytic dysfunction as a complementary functional dimension of AD progression beyond conventional plasma biomarkers. Longitudinal microglial dynamics tracked disease tempo more closely than conventional plasma pathology markers and may help interpret biological‐clinical discordance, supporting biologically informed staging, prognosis, and patient stratification in AD.",
+        "source": "Alzheimer's &amp; Dementia",
+        "issn": "1552-5260",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-08",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1002/alz.71845",
+        "doi": "10.1002/alz.71845",
+        "url": "https://doi.org/10.1002/alz.71845",
+        "title": "Genetic evidence supports a cortical neuroprotective role of GLP‐1 receptor activation in Alzheimer's disease: A drug‐target Mendelian randomization study",
+        "authors": [
+          "Li Jiang",
+          "Xinyuan Chen",
+          "Jiangshun Qian",
+          "Kaiwen Fang",
+          "Chenyuan Dai",
+          "Dong Chang",
+          "Liang Jin",
+          "Wenjin Huang",
+          "Yuzheng Wang",
+          "Xiaomei Duan",
+          "Juan Wan",
+          "Mingqiang Li",
+          "Wendiao Zhang",
+          "Jinchen Li",
+          "Zijian Xiao",
+          "Heng Wu",
+          "Qingtuan Meng",
+          "Beisha Tang"
+        ],
+        "abstract": "Abstract                                        INTRODUCTION                     Whether glucagon‐like peptide‐1 (GLP‐1) receptor (GLP‐1R) activation lowers Alzheimer's disease (AD) risk via peripheral metabolic improvement or direct neuroprotection remains unclear.                                                           METHODS                                            Using blood and brain‐cortex                       cis                       ‐acting expression quantitative trait loci (                       cis                       ‐eQTLs) for                       GLP‐1R                       as instruments, we performed                       cis‐                       Mendelian randomization (                       cis‐                       MR) for AD and seven biomarkers. Mendelian randomization Bayesian model averaging (MR‐BMA),                       cis‐                       multivariable Mendelian randomization (                       cis                       ‐MVMR), and two‐step                       cis‐                       MR assessed 11 metabolic and inflammatory mediators, and tissue‐specific                       cis‐                       MVMR identified the causal tissue.                                                                                RESULTS                                            GLP‐1R                       expression was associated with lower AD risk and cerebrospinal fluid phosphorylated tau (p‐tau) levels. The                       cis‐                       MVMR identified systolic blood pressure as the only independent mediator, whereas                       GLP‐1R                       retained a direct protective effect on AD. Tissue‐specific                       cis‐                       MVMR attributed the effect predominantly to cortical (posterior inclusion probability [PIP] = 0.998) rather than blood                       GLP‐1R                       expression (PIP = 0.002).                                                                                CONCLUSION                                            Genetic evidence supports                       GLP‐1R                       as a potential target in AD, with a protective effect not fully explained by peripheral metabolic improvement and possibly involving cortical neuroprotection, supporting further investigation of brain‐penetrant agents at preclinical or prodromal stages.",
+        "source": "Alzheimer's &amp; Dementia",
+        "issn": "1552-5260",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-08",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1002/alz.71819",
+        "doi": "10.1002/alz.71819",
+        "url": "https://doi.org/10.1002/alz.71819",
+        "title": "The value of timely treatment with anti‐amyloid therapy for Alzheimer's disease",
+        "authors": [
+          "Jack M. Chapel",
+          "Bryan Tysinger",
+          "Hossein Pourmand",
+          "Dana Goldman",
+          "Paul Aisen"
+        ],
+        "abstract": "Abstract                                        INTRODUCTION                     Anti‐amyloid therapies can slow Alzheimer's disease (AD) progression; diagnostic and treatment delays might reduce their value.                                                           METHODS                     Using dynamic microsimulation, we estimated the gross societal value of anti‐amyloid treatment for Americans with early symptomatic AD. A treatment scenario slowed the rate of clinical progression by 29% over individuals’ remaining lifetime (baseline mean age: 73.0); earlier treatment initiated 2 years earlier.                                                           RESULTS                     Treatment generated $104,885 (95% CI: $99,291, $110,479) in gross societal value over an individual's lifetime, including quality‐of‐life gains, reduced caregiving burden, and medical cost offsets driven by reduced nursing home use and Medicaid spending. Earlier treatment increased value 32%; this rose to 71% if treatment effects are also stronger (36% slowing) in earlier AD stages. Scenarios with 4‐year effect duration yielded $49,122 (treatment) and $56,385 (earlier treatment).                                                           DISCUSSION                     Timely treatment consistently increased long‐term societal value. The findings provide a benchmark against which treatment implementation costs can be weighed.",
+        "source": "Alzheimer's &amp; Dementia",
+        "issn": "1552-5260",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-08",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1002/alz.71914",
+        "doi": "10.1002/alz.71914",
+        "url": "https://doi.org/10.1002/alz.71914",
+        "title": "Network‐dependent remote effects and local tau burden jointly shape neuronal dysfunction in Alzheimer's disease",
+        "authors": [
+          "Lukas Frontzkowski",
+          "Sebastian Roemer‐Cassiano",
+          "Johannes Gnörich",
+          "Daniel Janowitz",
+          "Hannah Eyob",
+          "Katharina Probst",
+          "Dario Dhoqina",
+          "Anna Dewenter",
+          "Anna Steward",
+          "Zeyu Zhu",
+          "Madleen Klonowski",
+          "Fabian Hirsch",
+          "Davina Biel",
+          "Melina Paulus",
+          "Jonathan Vöglein",
+          "Sonja Schönecker",
+          "Boris‐Stephan Rauchmann",
+          "Carolin Kurz",
+          "Carolin Koriath",
+          "Jan Häckert",
+          "Sophia Stöcklein",
+          "Carla Palleis",
+          "Robert Perneczky",
+          "Johannes Levin",
+          "Katharina Buerger",
+          "Rudolf A. Werner",
+          "Günter Höglinger",
+          "Matthias Brendel",
+          "Nicolai Franzmeier"
+        ],
+        "abstract": "Abstract                                        BACKGROUND                     Tau pathology in Alzheimer's disease (AD) propagates along the brain's connectome, yet the mechanisms by which tau drives neuronal dysfunction remain unclear. We hypothesized that dysfunction primarily emerges in regions close to tau‐harboring epicenters.                                                           METHODS                                            One hundred thirty‐one amyloid‐positive individuals underwent dynamic [                       18                       F]PI‐2620 tau positron emission tomography. Kinetic modeling yielded distribution volume ratios (DVRs) and perfusion (R1). Tau epicenters were defined as top 10% DVR regions. Connectivity‐based distance to epicenters was derived from normative resting‐state functional connectivity.                                                                                RESULTS                     At the individual level, hypoperfusion was more closely related to distance from tau epicenters than to local tau deposition, particularly in early AD, consistent with diaschisis‐like disconnection. With advancing biological disease severity, local tau deposition increasingly converged with hypoperfusion. Critically, hypoperfusion mediated the relationship between tau accumulation and cognitive decline.                                                           DISCUSSION                     Tau epicenters shape the brain‐wide pattern of neuronal dysfunction, while local tau burden determines the degree of damage driving cognitive decline.",
+        "source": "Alzheimer's &amp; Dementia",
+        "issn": "1552-5260",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-08",
         "fetched_from": "crossref"
       },
       {
@@ -75640,6 +77476,83 @@
         "fetched_from": "crossref"
       },
       {
+        "id": "doi:10.1093/bjsw/bcag238",
+        "doi": "10.1093/bjsw/bcag238",
+        "url": "https://doi.org/10.1093/bjsw/bcag238",
+        "title": "Needs of displaced Palestinian women in the Gaza strip: Social work responses",
+        "authors": [
+          "Ahmed Mohammed Al Rantisi",
+          "Safa’a Ahmed Harb"
+        ],
+        "abstract": "Abstract                   This qualitative case study explores the lived experiences of Palestinian women repeatedly forcibly displaced during Israel’s genocidal war on the Gaza Strip and examines the social work response to their needs amid a prolonged humanitarian crisis. Data were collected between June and August 2025 through semi-structured interviews with 40 displaced women living in Deir al-Balah and Al-Mawasi in Khan Younis and 10 social workers employed by non-governmental organizations. Thematic analysis, supported by NVivo software, identified the main factors shaping women’s experiences, focusing on basic, psychological, and social needs. Findings show that healthcare, food, and clean water were the most urgent basic needs, while emotional support, a sense of safety, and relief from stress and anxiety were the most pressing psychological concerns. Community solidarity and family support emerged as essential sources of resilience despite repeated displacement. Social workers reported that severe resource shortages, security threats, cultural sensitivity challenges, and overwhelming workloads significantly limited their ability to deliver essential services. The study concludes that effective social work in war and forced displacement must address immediate humanitarian needs while recognizing the political realities, structural inequalities, and human rights violations shaping displaced women’s experiences and access to protection.",
+        "source": "The British Journal of Social Work",
+        "issn": "0045-3102",
+        "date": "2026-10-07",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-08",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/bjsw/bcag239",
+        "doi": "10.1093/bjsw/bcag239",
+        "url": "https://doi.org/10.1093/bjsw/bcag239",
+        "title": "How welfare systems shape social isolation and health practices: A qualitative study of public assistance recipients in Japan",
+        "authors": [
+          "Shingo Hayashi"
+        ],
+        "abstract": "Abstract                   Social isolation is increasingly recognized as a critical social work concern with implications for health inequalities. While research has documented its prevalence, less is known about how welfare institutions shape isolation among marginalized populations. This qualitative study examines how public assistance systems influence social isolation and health practices in Japan. Drawing on interviews with public assistance recipients and social network theory, the study examines the structural and institutional contexts in which relationships are formed, constrained, or disrupted. The findings reveal that social isolation is not solely the result of individual vulnerabilities but is shaped by interactions between pre-existing disadvantage and welfare-related processes, including institutional stigma, administrative burden, restricted social participation, and limited support. For participants already isolated before receiving public assistance, these processes often reinforced or prolonged isolation; for those whose isolation emerged after receipt, they contributed to withdrawal from relationships and community activities. These mechanisms influenced health check-up attendance and everyday health management. This study contributes to international social work scholarship by theorizing social isolation as an institutionally mediated outcome rather than an individual deficit. The findings highlight the need for social work interventions and welfare policies that address structural sources of isolation and promote socially inclusive support.",
+        "source": "The British Journal of Social Work",
+        "issn": "0045-3102",
+        "date": "2026-10-07",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-08",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/bjsw/bcag245",
+        "doi": "10.1093/bjsw/bcag245",
+        "url": "https://doi.org/10.1093/bjsw/bcag245",
+        "title": "Centring gender: Women social workers’ reflections on working with boys and young men who display harmful sexual behaviours",
+        "authors": [
+          "Anna Hutchings"
+        ],
+        "abstract": "Abstract                   Boys and young men are over-represented in statistics on harmful sexual behaviours (HSB), whilst the social work profession is predominantly female. Although gender is recognized as important in social work, this study indicates that a gender-blind approach is being adopted in this sensitive practice context. This article explores whether and how women social workers consider gender when working with boys and young men exhibiting HSB. Qualitative data were collected through interviews with ten women social workers from statutory Children and Family teams and specialist HSB settings in England and Scotland. Using multi-perspectival interpretative phenomenological analysis, a matrix was created to summarize how women social workers vary their emphasis on gender considerations when working with this group. This research offers valuable insights for practitioners, highlighting how gender is addressed, or overlooked, in this practice context, and what approaches might be adopted in the training and education of social workers by way of response.",
+        "source": "The British Journal of Social Work",
+        "issn": "0045-3102",
+        "date": "2026-10-07",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-08",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/bjsw/bcag247",
+        "doi": "10.1093/bjsw/bcag247",
+        "url": "https://doi.org/10.1093/bjsw/bcag247",
+        "title": "Constructing justice and tactical wisdom: Arab social workers’ authentic intervention in\n                    <i>Sharia</i>\n                    mediation",
+        "authors": [
+          "Ibrahim Mahajne"
+        ],
+        "abstract": "Abstract                   The intersection of Western-liberal-secular social work and religious legal systems raises pressing questions regarding identity and practice, creating challenges in service delivery to religious minorities. This study examines how 17 Muslim social workers in Israel navigate the Tajsir (mediation) units of Sharia courts. Using a qualitative-critical paradigm, semistructured interviews were conducted with social workers across a secular-religious continuum. Findings revealed a ‘navigation spectrum’ of three justice-oriented professional profiles: the ‘state agent’, prioritizing civil-liberal equality and rejecting religious authority; the ‘architect of possibilities’, negotiating pragmatic, community-contextualized compromises; and the ‘transformative Islamic interpreter’, employing Sharia law as a tool for female empowerment. Theoretically, the study frames these profiles as professionals’ use of ‘tactical wisdom’ to undermine strategic power structures through bricolage and conceptual poaching. The intersectionality of workers’ identities, as women, Muslims, and minority members, serves as an epistemological resource for professional authentication. This process generates hybrid models, bridging state law, professional ethos, and religious-ethical values, establishing authenticated, context-grounded justice within liminal arenas.",
+        "source": "The British Journal of Social Work",
+        "issn": "0045-3102",
+        "date": "2026-10-07",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-08",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1093/bjsw/bcag232",
         "doi": "10.1093/bjsw/bcag232",
         "url": "https://doi.org/10.1093/bjsw/bcag232",
@@ -79551,6 +81464,64 @@
         "fetched_from": "crossref"
       },
       {
+        "id": "doi:10.1016/j.socscimed.2026.119917",
+        "doi": "10.1016/j.socscimed.2026.119917",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.119917",
+        "title": "Work Without a Roadmap: A Qualitative Analysis of Occupational and Structural Challenges Among Adolescent Peer Workers in HIV Programs in Kenya",
+        "authors": [
+          "Ashley Chory",
+          "Ava Boal",
+          "Jack Nyagaya",
+          "Janet Lidweye",
+          "Josephine Aluoch",
+          "Sakshi Sawarkar",
+          "Lonnie Embleton",
+          "Mary Ott",
+          "Rachel Vreeman",
+          "Edith Apondi"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-07",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.socscimed.2026.119918",
+        "doi": "10.1016/j.socscimed.2026.119918",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.119918",
+        "title": "Intersectional and Territorial Exclusion in Brazil’s Aging Policy Field: A Critical Analysis of Access to Bodily Practices and Inequalities",
+        "authors": [
+          "Thiago Medeiros da Costa Daniele",
+          "Larissa Oliveira Nascimento",
+          "Letticia de Araújo Moura",
+          "Maria Araruna Correia Lima",
+          "Eduardo Correia Ponte",
+          "Danilo Garcia"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-07",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1177/10497315261452377",
         "doi": "10.1177/10497315261452377",
         "url": "https://doi.org/10.1177/10497315261452377",
@@ -80688,21 +82659,13 @@
         "fetched_from": "crossref"
       },
       {
-        "id": "doi:10.1016/j.socscimed.2026.119917",
-        "doi": "10.1016/j.socscimed.2026.119917",
-        "url": "https://doi.org/10.1016/j.socscimed.2026.119917",
-        "title": "Work Without a Roadmap: A Qualitative Analysis of Occupational and Structural Challenges Among Adolescent Peer Workers in HIV Programs in Kenya",
+        "id": "doi:10.1016/j.socscimed.2026.119874",
+        "doi": "10.1016/j.socscimed.2026.119874",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.119874",
+        "title": "Unequal returns to effort? Gender differences in health status and lifestyle",
         "authors": [
-          "Ashley Chory",
-          "Ava Boal",
-          "Jack Nyagaya",
-          "Janet Lidweye",
-          "Josephine Aluoch",
-          "Sakshi Sawarkar",
-          "Lonnie Embleton",
-          "Mary Ott",
-          "Rachel Vreeman",
-          "Edith Apondi"
+          "Alexia Bigorne",
+          "Sandy Tubeuf"
         ],
         "abstract": "",
         "source": "Social Science &amp; Medicine",
@@ -80715,21 +82678,21 @@
           "agingHealth",
           "socialWork"
         ],
-        "firstSeen": "2026-10-07",
+        "firstSeen": "2026-10-08",
         "fetched_from": "crossref"
       },
       {
-        "id": "doi:10.1016/j.socscimed.2026.119918",
-        "doi": "10.1016/j.socscimed.2026.119918",
-        "url": "https://doi.org/10.1016/j.socscimed.2026.119918",
-        "title": "Intersectional and Territorial Exclusion in Brazil’s Aging Policy Field: A Critical Analysis of Access to Bodily Practices and Inequalities",
+        "id": "doi:10.1016/j.socscimed.2026.119910",
+        "doi": "10.1016/j.socscimed.2026.119910",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.119910",
+        "title": "Medicines, ‘Medication Work’ and Networks of Support in the Community Following Mental Health Hospital Discharge: A Qualitative Interview Study",
         "authors": [
-          "Thiago Medeiros da Costa Daniele",
-          "Larissa Oliveira Nascimento",
-          "Letticia de Araújo Moura",
-          "Maria Araruna Correia Lima",
-          "Eduardo Correia Ponte",
-          "Danilo Garcia"
+          "Mark Jeffries",
+          "Fiona Naylor",
+          "Natasha Tyler",
+          "Catherine Robinson",
+          "Maria Panagioti",
+          "Richard N. Keers"
         ],
         "abstract": "",
         "source": "Social Science &amp; Medicine",
@@ -80742,7 +82705,7 @@
           "agingHealth",
           "socialWork"
         ],
-        "firstSeen": "2026-10-07",
+        "firstSeen": "2026-10-08",
         "fetched_from": "crossref"
       },
       {
@@ -82527,11 +84490,11 @@
     ]
   },
   "totals": {
-    "socialSecurity": 1569,
-    "elderCare": 491,
-    "healthReform": 815,
-    "agingHealth": 697,
-    "socialWork": 305
+    "socialSecurity": 1570,
+    "elderCare": 505,
+    "healthReform": 847,
+    "agingHealth": 722,
+    "socialWork": 311
   },
   "feeds_ok": 41
 }
