@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-08",
-  "fetched": "2026-10-08T07:41:58+00:00",
+  "date": "2026-10-09",
+  "fetched": "2026-10-09T07:38:04+00:00",
   "domains": {
     "socialSecurity": [
       {
@@ -24222,6 +24222,53 @@
     ],
     "elderCare": [
       {
+        "id": "doi:10.1186/s12877-026-08436-0",
+        "doi": "10.1186/s12877-026-08436-0",
+        "url": "https://doi.org/10.1186/s12877-026-08436-0",
+        "title": "Physiological reserve and cardiometabolic burden in relation to functional decline in older adults: a multicohort study",
+        "authors": [
+          "Weimin Chen",
+          "Zelin Pan",
+          "Song Yang",
+          "Weizhong Zhuang",
+          "Luoming Hu",
+          "Jimei Chen"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-09",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-09",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08441-3",
+        "doi": "10.1186/s12877-026-08441-3",
+        "url": "https://doi.org/10.1186/s12877-026-08441-3",
+        "title": "Assessment of malnutrition status using MNA, MNA-SF, CONUT and SGA in geriatric patients with HFrEF",
+        "authors": [
+          "Hasan Esat Yildirim",
+          "Hasan Pekdemir",
+          "Recep Bentli"
+        ],
+        "abstract": "Abstract                                        Introduction                     Malnutrition is a significant problem affecting the prognosis of elderly patients with heart failure. The objective of this study is to evaluate the nutritional status of geriatric patients suffering from heart failure with reduced ejection fraction (LVEF ≤ 40%) and to compare the effectiveness of the Mini Nutritional Assessment (MNA), Mini Nutritional Assessment-Short Form( MNA-SF), Subjective Global Assessment (SGA), and Controlling Nutritional Status (CONUT) malnutrition screening tools.                                                           Materials and methods                     One hundred thirty-eight patients aged 65 and over with heart failure were included in this study conducted at a tertiary care center. All participants were evaluated using the MNA, MNA-SF, SGA and CONUT score. Demographic data, clinical parameters, and laboratory findings were recorded.                                                           Results                                            The prevalence of malnutrition was found to be 16.7% according to MNA, 17.4% according to SGA, and 13.0% according to CONUT score. A significant correlation was found between all three assessment tools (                       p                        &lt; 0.01). The malnutrition risk was identified in 47.8% of patients using MNA, while moderate malnutrition was detected in 43.5% using SGA, and mild malnutrition in 45.0% using CONUT score.                                                                                Conclusion                     Malnutrition is a common problem in geriatric heart failure patients, requiring routine screening. All three assessment tools showed good correlation, suggesting their reliability in clinical practice. The MNA can be recommended as an initial screening tool, while SGA provides detailed assessment, and CONUT offers objective parameters. Integration of nutritional assessment into standard care protocols for geriatric heart failure patients is essential for improving clinical outcomes.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-09",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-09",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1186/s12877-026-08383-w",
         "doi": "10.1186/s12877-026-08383-w",
         "url": "https://doi.org/10.1186/s12877-026-08383-w",
@@ -24292,6 +24339,312 @@
           "agingHealth"
         ],
         "firstSeen": "2026-10-08",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/gerona/glag248",
+        "doi": "10.1093/gerona/glag248",
+        "url": "https://doi.org/10.1093/gerona/glag248",
+        "title": "Deprescribing Fall Risk–Increasing Drugs in Older Adults: Implementation Challenges and a Conceptual Framework from the DeFRID Trial and Global Evidence",
+        "authors": [
+          "Madhavi Eerike",
+          "Sakthivadivel Varatharajan",
+          "Priyadharsini Rajendran",
+          "Paul Mathai",
+          "Veena Nayak",
+          "Vijaya Kumar Karra",
+          "Gomathi Ramaswamy",
+          "Rekha Priyadarshini",
+          "Gerard Marshall Raj",
+          "Venugopalan Gunasekaran",
+          "Selvaraj Jayachandran",
+          "Sandhiya Selvarajan",
+          "Shivanand Kattimani",
+          "Anu Chandran",
+          "Rijesh Potangadi",
+          "Surendran Padinchara Kunhipilakkandiy",
+          "Narayanan Puthiya Veettil",
+          "Raghavendra Rao",
+          "Mukhyaprana Prabhu",
+          "Jerin Jose Cherian",
+          "Tanu Anand",
+          "Sowparnika Treasa Sabu",
+          "Lokesh Kumar Sharma"
+        ],
+        "abstract": "Abstract                                        Background                     Deprescribing fall risk–increasing drugs (FRIDs) is essential for reducing polypharmacy and falls in older adults, yet randomized controlled trials (RCTs) face unique implementation challenges. The DeFRID study is an ongoing multi-center RCT evaluating an ARMOR-based deprescribing intervention versus usual care in adults aged ≥60 years prescribed FRIDs. The objectives of this review are threefold: (1) to describe practical challenges encountered during a multi-center deprescribing RCT in India; (2) to propose a conceptual framework for categorizing these barriers; and (3) to contextualize DeFRID's experience within the broader deprescribing research landscape.                                                           Methods                     We conducted a narrative review with systematic scoping elements, synthesizing global RCT evidence from PubMed, OpenAlex, and Google Scholar (inception–December 2025) with DeFRID process evaluation data. DeFRID barriers and facilitators were identified via mixed-methods (clinician KAP questionnaire and qualitative interviews), team meetings, retention logs, and Phase II RCT implementation data, thematically categorized, then compared with global RCT challenges.                                                           Results                     DeFRID implementation revealed four challenge categories: ethical–clinical difficulties establishing equipoise for FRID withdrawal; operational barriers to recruitment and retention; methodological complexities in fall outcome ascertainment; and context-specific constraints unique to the Indian LMIC setting—limited deprescribing guidelines, polypharmacy normalization, fragmented care coordination, and hierarchical decision-making. Global RCTs revealed substantial implementation challenges: low clinician adherence, short follow-up periods, restrictive eligibility excluding frail or cognitively impaired older adults, and resource-intensive interventions limiting scalability.                                                           Conclusions                     Deprescribing FRIDs in older adults is impeded by ethical, operational, methodological, and provider-patient challenges, necessitating multilevel strategies integrating training, shared decision-making, context-specific guidelines, and stakeholder engagement for scalable implementation.",
+        "source": "The Journals of Gerontology, Series A: Biological Sciences and Medical Sciences",
+        "issn": "1079-5006",
+        "date": "2026-10-08",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "elderCare"
+        ],
+        "firstSeen": "2026-10-09",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70774",
+        "doi": "10.1111/jgs.70774",
+        "url": "https://doi.org/10.1111/jgs.70774",
+        "title": "Mobilization Alarms for In‐Hospital Falls: Time to Reconsider a Longstanding Practice",
+        "authors": [
+          "Bastiaan Van Grootven",
+          "Koen Milisen"
+        ],
+        "abstract": "",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-10-08",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-09",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70780",
+        "doi": "10.1111/jgs.70780",
+        "url": "https://doi.org/10.1111/jgs.70780",
+        "title": "Experiences With a Combined Meal Delivery and Home‐Based Exercise Intervention Among Homebound Older Adults",
+        "authors": [
+          "Melissa R. Cruz",
+          "Lisa Juckett",
+          "Paola Robles Cordova",
+          "Jessica Lee"
+        ],
+        "abstract": "ABSTRACT                                        Background                     Homebound older adults experience high rates of multimorbidity, frailty, and social isolation; yet few interventions target homebound older adults. We completed “Strength on Wheels”, a randomized controlled trial evaluating a nutrition and exercise intervention for homebound older adults that showed no differences in physical measures but improvements in loneliness for those in the exercise group. We now seek to understand their qualitative experiences with the intervention.                                                           Methods                     This qualitative study analyzed free‐text responses from biweekly surveys and an exit survey within the 12‐week Strength on Wheels intervention, which combined home‐delivered meals through Meals on Wheels with a home‐based exercise program. Structured content analysis was used to identify prominent themes across participant comments.                                                           Results                                            Participants (                       N                        = 101, mean age 74 years) reported enjoying meals and engaging with the exercise materials, though many reported ongoing pain and concerns about falls. Experiences with a commercial activity tracker were mixed: some found it motivating, while others reported difficulty charging, interpreting icons, or keeping track of the device. Participants also identified additional supports, such as social engagement, cognitive activities, physical therapy, transportation, and home modifications, as important for maintaining independence.                                                                                Conclusion                     Future work should refine nutrition and exercise programs for homebound older adults to better address their complex needs and support independence at home.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-10-08",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-09",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70754",
+        "doi": "10.1111/jgs.70754",
+        "url": "https://doi.org/10.1111/jgs.70754",
+        "title": "Hip Fracture Risk of Lemborexant and Suvorexant in Comparison With Z‐Drugs: A Target Trial Emulation",
+        "authors": [
+          "Yuichiro Matsuo",
+          "Hayato Yamana",
+          "Yusuke Sasabuchi",
+          "Hiroki Matsui",
+          "Takahide Kohro",
+          "Hideo Yasunaga"
+        ],
+        "abstract": "ABSTRACT                                        Background                     Lemborexant and suvorexant are widely used dual orexin receptor antagonists (DORAs) for the pharmacological treatment of insomnia. Although they are generally considered safer than benzodiazepine receptor agonists (Z‐drugs) regarding adverse events including hip fractures, evidence from direct comparisons remains limited. This study aimed to examine whether lemborexant and suvorexant are associated with a lower risk of hip fracture than Z‐drugs in older individuals.                                                           Methods                     We conducted a cohort study using databases from Tochigi Prefecture, Japan. We included individuals aged ≥ 65 years who newly initiated either lemborexant or Z‐drugs (lemborexant analysis cohort) or either suvorexant or Z‐drugs (suvorexant analysis cohort). The primary outcome was hospitalization for hip fracture within 1 year of cohort entry. Per‐protocol effects of continuous treatment with the assigned drugs were estimated. Baseline confounding was adjusted using inverse probability of treatment weighting based on propensity scores. Censoring due to discontinuation of the assigned drug or switching to the comparator drug was adjusted for using inverse probability of censoring weights. Adjusted cumulative incidence and hazard ratios (HRs) were estimated using the Kaplan–Meier methods and Cox regression, respectively.                                                           Results                                            The lemborexant analysis cohort included 22,655 individuals (6879 and 15,776 in the lemborexant and Z‐drug groups, respectively). After adjustment, lemborexant use was associated with a significantly lower hip fracture incidence (HR, 0.31, 95% confidence interval [CI], 0.16–0.59,                       p                        &lt; 0.001). The suvorexant analysis cohort included 22,377 individuals (6699 and 15,678 in the suvorexant and Z‐drug groups, respectively). After adjustment, hip fracture incidence was lower in the suvorexant group, but the association was not significant (HR, 0.57, 95% CI, 0.23–1.44,                       p                        = 0.234).                                                                                Conclusion                     DORAs, particularly lemborexant, may be safer alternatives to Z‐drugs with respect to hip fracture risk.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-10-08",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-09",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70740",
+        "doi": "10.1111/jgs.70740",
+        "url": "https://doi.org/10.1111/jgs.70740",
+        "title": "Concerns of the\n                    <scp>SSVI</scp>\n                    to Inform Medicare Beneficiaries HealthCare Decisions",
+        "authors": [
+          "Joan M. Teno",
+          "Xiao Wang",
+          "Emmanuelle Belanger"
+        ],
+        "abstract": "",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-10-08",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-09",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08285-x",
+        "doi": "10.1186/s12877-026-08285-x",
+        "url": "https://doi.org/10.1186/s12877-026-08285-x",
+        "title": "Caregivers’ perspectives and needs on using skin image recognition tools for monitoring skin conditions in homebound older adults with disabilities: a qualitative study",
+        "authors": [
+          "Huichao Zhang",
+          "Mingmei Xu",
+          "Shuyu Zhang",
+          "Yuxi Zhang"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-08",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-09",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08375-w",
+        "doi": "10.1186/s12877-026-08375-w",
+        "url": "https://doi.org/10.1186/s12877-026-08375-w",
+        "title": "TyG-BRI, frailty, and all-cause mortality in older adults with atrial fibrillation without diabetes: a two-cohort study",
+        "authors": [
+          "Qingqing Zhang",
+          "Xu Wang",
+          "Chuanmeng Zhang",
+          "Qiuping Chen",
+          "Si Sun",
+          "Yucheng Wu",
+          "Ming Chu"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-08",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-09",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08398-3",
+        "doi": "10.1186/s12877-026-08398-3",
+        "url": "https://doi.org/10.1186/s12877-026-08398-3",
+        "title": "Home medicine cabinets management and pharmacist service for geriatric patients with chronic diseases in China",
+        "authors": [
+          "Rongrong Huang",
+          "Xuan Xia",
+          "Cheng Huang",
+          "Baoli Xu",
+          "Ruxu You",
+          "Yongning Lv",
+          "Xuefeng Cai"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-08",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-09",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08412-8",
+        "doi": "10.1186/s12877-026-08412-8",
+        "url": "https://doi.org/10.1186/s12877-026-08412-8",
+        "title": "Coupling coordination of digital village and county care industry for older adults",
+        "authors": [
+          "Huan Liu",
+          "Yalin Xia",
+          "Meng Wang",
+          "Citao Liu"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-08",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-09",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08418-2",
+        "doi": "10.1186/s12877-026-08418-2",
+        "url": "https://doi.org/10.1186/s12877-026-08418-2",
+        "title": "Sustaining agency after a fall: navigating healthcare and adjusting everyday life – a qualitative interview study",
+        "authors": [
+          "Sara Bergström",
+          "Kristina Rosengren",
+          "Catarina Wallengren",
+          "Hanna Falk Erhag",
+          "Ramona Schenell"
+        ],
+        "abstract": "Abstract                                        Background                     Falls among older adults are a major public health concern and are associated with recurrent falls, functional decline, fear of falling, and reduced quality of life. Older adults presenting to emergency departments (EDs) following a fall are often discharged directly home despite ongoing rehabilitation and support needs. Although person-centred approaches are recommended in international guidelines, less is known about older adults’ and relatives’ experiences following an ED visit for a fall. This study aimed to describe older adults’ and their relatives’ experiences of a fall, including the ED visit and the transition back home.                                                           Method                     A qualitative study design was used, involving semi-structured interviews with older adults aged 75 years and older and their relatives. Participants had attended the ED following a fall but were discharged without hospital admission. Seventeen participants (11 older adults and 6 relatives) were recruited. Data were analysed using qualitative content analysis according to Graneheim and Lundman.                                                           Results                                            The analysis generated one overarching theme,                       Sustaining agency through recovery across care and everyday life                       , which reflected how older adults and their relatives sought to manage daily life following a fall. Both groups described addressing immediate care needs while simultaneously adapting to longer-term changes in everyday life. Participants described difficulties navigating healthcare services to access follow-up care and rehabilitation, contributing to feelings of insecurity, financial strain, and increased responsibility. A persistent fear of falling affected daily activities and required adaptations and new roles for both older adults and their relatives. Despite these challenges, many participants demonstrated resilience and an ability to manage daily life following injury. Individual coping strategies and support from relatives were described as central to managing everyday life and healthcare contacts.                                                                                Conclusions                     Older adults discharged home after a fall may benefit from coordinated, person-centred follow- up that supports rehabilitation, recovery, and fall prevention. Despite variation in support needs, participants described a common need for clearer guidance and improved support structures, while also demonstrating considerable resilience and capacity for self-management.                                                           Clinical trial number                     Not applicable.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-08",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-09",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08387-6",
+        "doi": "10.1186/s12877-026-08387-6",
+        "url": "https://doi.org/10.1186/s12877-026-08387-6",
+        "title": "Nurse-administered symptom-burden screening and 12-month mortality in older adults with heart failure: a cohort study",
+        "authors": [
+          "Thanh Thi Nguyen",
+          "Thao Thi Phuong Nguyen"
+        ],
+        "abstract": "Abstract                                        Background                     Older adults with heart failure face significant symptoms and psychosocial burdens that routine cardiology care might overlook. We assessed whether Edmonton Symptom Assessment System (ESAS) and Integrated Palliative Care Outcome Scale (IPOS) scores can predict 12-month mortality and improve risk discrimination beyond clinical covariates in a hospital cohort from a low-resource setting.                                                           Methods                     We conducted an observational cohort study at the National Geriatric Hospital (Vietnam). Inpatients aged 60 years or older with chronic heart failure who met the eligibility criteria were approached in the order of admission (January 2021-December 2022), and ESAS (9 items, each scored 0–10) and IPOS (17 items) were completed within 48 h of admission by trained ward nurse-researchers. Vital status at 12 months was determined through medical records and structured follow-up calls. Cox proportional hazards models evaluated associations with mortality, adjusting for age, sex, heart-failure classification, New York Heart Association (NYHA) class, comorbidities, and financial strain. Primary analyses used predefined categorical cutoffs (ESAS &gt; 30; IPOS ≥ 20). Discrimination was further assessed with Harrell’s C-index and the 12-month area under the curve (AUC), and model fit was compared using Akaike and Bayesian information criteria. Calibration was also examined using a logistic analogue (Hosmer–Lemeshow).                                                           Results                                            Of 327 screened patients, 304 were enrolled (mean age 71.9 ± 8.8 years; 52% men); 65 deaths (21.4%) occurred within 12 months. ESAS and IPOS were strongly correlated, but there was no multicollinearity. High symptom burden (ESAS &gt; 30) independently predicted mortality (adjusted hazard ratio [aHR] 2.27; 95%CI 1.20–4.28), while high palliative-care needs (IPOS ≥ 20) were not associated (aHR: 1.04; 95%CI 0.47–2.30). Kaplan–Meier curves across ESAS–IPOS strata diverged. Including categorical patient-reported measures in the clinical model modestly improved discrimination and fit: Harrell’s C increased from 0.671 to 0.697 and 12-month AUC from 0.700 to 0.718 (                       p                        = 0.034), with acceptable calibration and lower information criteria.                                                                                Conclusions                     In hospitalized older adults with heart failure, a nurse-administered ESAS identified patients at independently higher 12-month mortality risk. IPOS, though clinically informative for care planning, added little prognostic information once symptom severity was considered. Brief, nurse-led symptom screening offers a feasible approach to risk stratification in resource-limited settings.                                                           Trial registration                     Not applicable.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-08",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-09",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08452-0",
+        "doi": "10.1186/s12877-026-08452-0",
+        "url": "https://doi.org/10.1186/s12877-026-08452-0",
+        "title": "Incidence and factors associated with unplanned hospital return within 6 months in frail older adults in Thailand",
+        "authors": [
+          "Patumporn Suraarunsumrit",
+          "Maytinee Srisubin",
+          "Sutisa Pitiyarn",
+          "Ponnapa Petchthai",
+          "Dariya Tantiameorn",
+          "Chaloemphon Thedpun",
+          "Sunit Jarungjitaree",
+          "Kotchamon Sukyoyot",
+          "Unchana Sura-amonrattana",
+          "Varalak Srinonprasert",
+          "Titima Wongviriyawong"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-08",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-09",
         "fetched_from": "crossref"
       },
       {
@@ -37310,6 +37663,297 @@
         "fetched_from": "crossref"
       },
       {
+        "id": "doi:10.1001/jama.2026.19578",
+        "doi": "10.1001/jama.2026.19578",
+        "url": "https://doi.org/10.1001/jama.2026.19578",
+        "title": "Conversational Consent",
+        "authors": [
+          "Chris Feudtner"
+        ],
+        "abstract": "In this narrative medicine essay, a pediatrician reflects back on difficult conversations with parents of patients and stresses the importance of conversational consent as a way to initiate and advance medical conversations with empathy and respect.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-08",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-09",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.16220",
+        "doi": "10.1001/jama.2026.16220",
+        "url": "https://doi.org/10.1001/jama.2026.16220",
+        "title": "Survivors of Cyanotic Congenital Heart Disease—In Reply",
+        "authors": [
+          "Gabriele Egidy Assenza",
+          "Margarita Brida",
+          "Michael J. Landzberg"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-08",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-09",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.16506",
+        "doi": "10.1001/jama.2026.16506",
+        "url": "https://doi.org/10.1001/jama.2026.16506",
+        "title": "Review on Adult Male Hypogonadism—Reply",
+        "authors": [
+          "Bradley D. Anawalt",
+          "Kim M. O’Connor",
+          "Mathis Grossmann"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-08",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-09",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.18260",
+        "doi": "10.1001/jama.2026.18260",
+        "url": "https://doi.org/10.1001/jama.2026.18260",
+        "title": "Longitudinal Trends and Characteristics of Hospital Closures and Openings",
+        "authors": [
+          "Joshua E. Calianos",
+          "Julia H. Song",
+          "E. John Orav",
+          "Jose F. Figueroa",
+          "Thomas C. Tsai"
+        ],
+        "abstract": "This study assesses hospital closures and openings from 2010-2025 to characterize net changes in hospitals and beds, factors associated with closures and openings, and changes in distance to the nearest hospital after closures.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-08",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-09",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.19684",
+        "doi": "10.1001/jama.2026.19684",
+        "url": "https://doi.org/10.1001/jama.2026.19684",
+        "title": "Providing Care to the Surprisingly Large Rural Population in the US",
+        "authors": [
+          "Derek C. Angus",
+          "Matthew B. O’Connor"
+        ],
+        "abstract": "Rural health care in the US is discussed by                     JAMA                     Senior Editor Derek C. Angus, MD, MPH; Mark Holmes, PhD, director of The Cecil G. Sheps Center for Health Services Research at The University of North Carolina at Chapel Hill; and Julie Donohue, PhD, professor and chair of health policy and management at the University of Pittsburgh, for the                     Healthy Dialogue                     podcast.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-08",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-09",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.18828",
+        "doi": "10.1001/jama.2026.18828",
+        "url": "https://doi.org/10.1001/jama.2026.18828",
+        "title": "Nicotinamide Riboside for Patients With Early-Stage Parkinson Disease",
+        "authors": [
+          "Brage Brakedal",
+          "Geir Olve Skeie",
+          "Carlotta Derad",
+          "Karl Bjørnar Alstadhaug",
+          "Ingunn Anundskås",
+          "Haakon Berven",
+          "Martin Biermann",
+          "Kari Anne Bjørnarå",
+          "Yamila N. Torres Cleuren",
+          "Solveig E. J. Dalbro",
+          "David Eidelberg",
+          "Kjartan Foldnes",
+          "Gabriela Fortes",
+          "Kristoffer Haugarvoll",
+          "Karen Herlofson",
+          "Eldbjørg Hustad",
+          "Roelfien Ida HogenEsch",
+          "Gard Aasmund Skulstad Johanson",
+          "Stein Harald Johnsen",
+          "Krisztina Kunszt",
+          "Simon Kverneng",
+          "Aliaksei Labusau",
+          "Ingeborg Haugesag Lie",
+          "Hallvard Lilleng",
+          "Katarina Lundervold",
+          "Christofer Lundqvist",
+          "Yilong Ma",
+          "Adrian McCann",
+          "Tormund Haugland Njølstad",
+          "Lasse Pihlstrøm",
+          "Frank Riemer",
+          "Anna Kaja Rognerud",
+          "Erika Sheard",
+          "Axel Meyer Simonsen",
+          "Eline Storm",
+          "Magnus Svensen",
+          "Lilah Toker",
+          "Jon-Anders Tunold",
+          "Christian Dölle",
+          "Tim Friede",
+          "Charalampos Tzoulis"
+        ],
+        "abstract": "Importance                     Nicotinamide riboside, a nicotinamide adenine dinucleotide precursor, has been proposed as a potential disease-modifying therapy for Parkinson disease based on preclinical and early studies. Whether prolonged oral nicotinamide riboside improves clinical outcomes in Parkinson disease is unknown.                                                           Objective                     To determine whether nicotinamide riboside improves clinical outcomes in Parkinson disease compared with placebo.                                                           Design, Setting, and Participants                     Randomized, double-blind, placebo-controlled, phase 3 clinical trial conducted at 11 centers in Norway. Eligible participants were patients aged 35 years or older with Parkinson disease diagnosed within 2 years before enrollment, Hoehn and Yahr disease stage less than 3, abnormal dopamine transporter scintigraphy findings confirming dopaminergic nigrostriatal denervation, and stable dopaminergic treatment before enrollment. Of 537 screened individuals, 410 were randomized from May 6, 2020, to June 20, 2024, and 393 were included in the primary analysis. Final follow-up was completed on June 19, 2025.                                                           Interventions                     Patients were randomized to receive oral nicotinamide riboside, 500 mg twice daily (n = 206), or matching placebo (n = 204) for 52 weeks.                                                           Main Outcomes and Measures                     The primary outcome was change from baseline to week 52 in the Movement Disorder Society Unified Parkinson Disease Rating Scale total score (MDS-UPDRS parts I-III; range, 0-236, with higher scores indicating more severe disease; clinically important differences for improvement and worsening, 6.7 and 5.2 points, respectively), analyzed using a mixed model for repeated measures. The 5 key secondary outcomes were the individual parts I, II, and III of the MDS-UPDRS; dopamine transporter single-photon emission computed tomography brain imaging findings; and the Non-Motor Symptoms Scale score (NMSS; range, 0-360, with higher scores indicating greater nonmotor symptom burden).                                                           Results                                            Among the 393 participants in the primary analysis, the mean age was 65.6 (SD, 9.4) years and 133 (34%) were female. At week 52, the total MDS-UPDRS score increased by 2.45 (95% CI, 0.80-4.10) points with nicotinamide riboside and decreased by 0.27 (95% CI, −1.95 to 1.40) points with placebo, yielding an adjusted mean difference of 2.72 points (95% CI, 0.47-4.98 points;                       P                        = .02), favoring placebo. Of the 5 prespecified key secondary outcomes, 4 showed no significant difference, but nonmotor symptom burden worsened more with nicotinamide riboside (NMSS score adjusted mean difference, 4.22 [95% CI, 1.07-7.37] points;                       P                        = .009). Serious adverse events occurred in 17 (8.3%) of 205 participants receiving nicotinamide riboside and 29 (14.1%) of 205 receiving placebo in the safety population.                                                                                Conclusions and Relevance                     Among patients with early Parkinson disease, nicotinamide riboside treatment for 52 weeks did not improve clinical outcomes and was associated with worse clinical outcomes than placebo. These findings do not support nicotinamide riboside as a disease-modifying treatment for Parkinson disease.                                                           Trial Registration                                            ClinicalTrials.gov Identifier:                       NCT03568968",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-08",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-09",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.16217",
+        "doi": "10.1001/jama.2026.16217",
+        "url": "https://doi.org/10.1001/jama.2026.16217",
+        "title": "Survivors of Cyanotic Congenital Heart Disease",
+        "authors": [
+          "Sara I. Jones",
+          "Jerome J. Federspiel",
+          "Jeffrey A. Kuller"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-08",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-09",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2025.16090",
+        "doi": "10.1001/jama.2025.16090",
+        "url": "https://doi.org/10.1001/jama.2025.16090",
+        "title": "Catching Up With the Propaganda for Health",
+        "authors": [],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-08",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-09",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.18143",
+        "doi": "10.1001/jama.2026.18143",
+        "url": "https://doi.org/10.1001/jama.2026.18143",
+        "title": "The Ethics of Germline Gene Editing, Revisited",
+        "authors": [
+          "Emily Packard Dawson",
+          "Lainie Friedman Ross"
+        ],
+        "abstract": "The ethics of germline gene editing are discussed in this Viewpoint regarding 3 applications: basic science, treatment and prevention, and enhancement.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-08",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-09",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.16494",
+        "doi": "10.1001/jama.2026.16494",
+        "url": "https://doi.org/10.1001/jama.2026.16494",
+        "title": "Review on Adult Male Hypogonadism",
+        "authors": [
+          "Nikolaos Vlachadis",
+          "Sofoklis Stavros",
+          "Periklis Panagopoulos"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-08",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-09",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.18859",
+        "doi": "10.1001/jama.2026.18859",
+        "url": "https://doi.org/10.1001/jama.2026.18859",
+        "title": "Nicotinamide Riboside for Patients With Early-Stage Parkinson Disease",
+        "authors": [],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-08",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-09",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.21945",
+        "doi": "10.1001/jama.2026.21945",
+        "url": "https://doi.org/10.1001/jama.2026.21945",
+        "title": "Women’s Health in 2027—A Call for Papers for\n                    <i>JAMA</i>\n                    and the JAMA Network Journals",
+        "authors": [
+          "Kirsten Bibbins-Domingo",
+          "Linda Brubaker",
+          "Neil Bressler",
+          "Barbara Casadei",
+          "Dimitri Christakis",
+          "Mary L. Disis",
+          "Sandro Galea",
+          "Sharon K. Inouye",
+          "S. Andrew Josephson",
+          "Melina Kibbe",
+          "Dost Öngür",
+          "Eli Perencevich",
+          "Jay Piccirillo",
+          "Kanade Shinkai"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-08",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-09",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1001/jama.2026.13868",
         "doi": "10.1001/jama.2026.13868",
         "url": "https://doi.org/10.1001/jama.2026.13868",
@@ -43575,6 +44219,56 @@
         "fetched_from": "crossref"
       },
       {
+        "id": "doi:10.1016/j.socscimed.2026.119874",
+        "doi": "10.1016/j.socscimed.2026.119874",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.119874",
+        "title": "Unequal returns to effort? Gender differences in health status and lifestyle",
+        "authors": [
+          "Alexia Bigorne",
+          "Sandy Tubeuf"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-08",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.socscimed.2026.119910",
+        "doi": "10.1016/j.socscimed.2026.119910",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.119910",
+        "title": "Medicines, ‘Medication Work’ and Networks of Support in the Community Following Mental Health Hospital Discharge: A Qualitative Interview Study",
+        "authors": [
+          "Mark Jeffries",
+          "Fiona Naylor",
+          "Natasha Tyler",
+          "Catherine Robinson",
+          "Maria Panagioti",
+          "Richard N. Keers"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-08",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1056/nejme2605617",
         "doi": "10.1056/nejme2605617",
         "url": "https://doi.org/10.1056/nejme2605617",
@@ -46198,56 +46892,6 @@
           "healthReform"
         ],
         "firstSeen": "2026-10-07",
-        "fetched_from": "crossref"
-      },
-      {
-        "id": "doi:10.1016/j.socscimed.2026.119874",
-        "doi": "10.1016/j.socscimed.2026.119874",
-        "url": "https://doi.org/10.1016/j.socscimed.2026.119874",
-        "title": "Unequal returns to effort? Gender differences in health status and lifestyle",
-        "authors": [
-          "Alexia Bigorne",
-          "Sandy Tubeuf"
-        ],
-        "abstract": "",
-        "source": "Social Science &amp; Medicine",
-        "issn": "0277-9536",
-        "date": "2026-10-01",
-        "subjects": [],
-        "domains": [
-          "healthReform",
-          "elderCare",
-          "agingHealth",
-          "socialWork"
-        ],
-        "firstSeen": "2026-10-08",
-        "fetched_from": "crossref"
-      },
-      {
-        "id": "doi:10.1016/j.socscimed.2026.119910",
-        "doi": "10.1016/j.socscimed.2026.119910",
-        "url": "https://doi.org/10.1016/j.socscimed.2026.119910",
-        "title": "Medicines, ‘Medication Work’ and Networks of Support in the Community Following Mental Health Hospital Discharge: A Qualitative Interview Study",
-        "authors": [
-          "Mark Jeffries",
-          "Fiona Naylor",
-          "Natasha Tyler",
-          "Catherine Robinson",
-          "Maria Panagioti",
-          "Richard N. Keers"
-        ],
-        "abstract": "",
-        "source": "Social Science &amp; Medicine",
-        "issn": "0277-9536",
-        "date": "2026-10-01",
-        "subjects": [],
-        "domains": [
-          "healthReform",
-          "elderCare",
-          "agingHealth",
-          "socialWork"
-        ],
-        "firstSeen": "2026-10-08",
         "fetched_from": "crossref"
       },
       {
@@ -59385,6 +60029,53 @@
         "fetched_from": "crossref"
       },
       {
+        "id": "doi:10.1186/s12877-026-08436-0",
+        "doi": "10.1186/s12877-026-08436-0",
+        "url": "https://doi.org/10.1186/s12877-026-08436-0",
+        "title": "Physiological reserve and cardiometabolic burden in relation to functional decline in older adults: a multicohort study",
+        "authors": [
+          "Weimin Chen",
+          "Zelin Pan",
+          "Song Yang",
+          "Weizhong Zhuang",
+          "Luoming Hu",
+          "Jimei Chen"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-09",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-09",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08441-3",
+        "doi": "10.1186/s12877-026-08441-3",
+        "url": "https://doi.org/10.1186/s12877-026-08441-3",
+        "title": "Assessment of malnutrition status using MNA, MNA-SF, CONUT and SGA in geriatric patients with HFrEF",
+        "authors": [
+          "Hasan Esat Yildirim",
+          "Hasan Pekdemir",
+          "Recep Bentli"
+        ],
+        "abstract": "Abstract                                        Introduction                     Malnutrition is a significant problem affecting the prognosis of elderly patients with heart failure. The objective of this study is to evaluate the nutritional status of geriatric patients suffering from heart failure with reduced ejection fraction (LVEF ≤ 40%) and to compare the effectiveness of the Mini Nutritional Assessment (MNA), Mini Nutritional Assessment-Short Form( MNA-SF), Subjective Global Assessment (SGA), and Controlling Nutritional Status (CONUT) malnutrition screening tools.                                                           Materials and methods                     One hundred thirty-eight patients aged 65 and over with heart failure were included in this study conducted at a tertiary care center. All participants were evaluated using the MNA, MNA-SF, SGA and CONUT score. Demographic data, clinical parameters, and laboratory findings were recorded.                                                           Results                                            The prevalence of malnutrition was found to be 16.7% according to MNA, 17.4% according to SGA, and 13.0% according to CONUT score. A significant correlation was found between all three assessment tools (                       p                        &lt; 0.01). The malnutrition risk was identified in 47.8% of patients using MNA, while moderate malnutrition was detected in 43.5% using SGA, and mild malnutrition in 45.0% using CONUT score.                                                                                Conclusion                     Malnutrition is a common problem in geriatric heart failure patients, requiring routine screening. All three assessment tools showed good correlation, suggesting their reliability in clinical practice. The MNA can be recommended as an initial screening tool, while SGA provides detailed assessment, and CONUT offers objective parameters. Integration of nutritional assessment into standard care protocols for geriatric heart failure patients is essential for improving clinical outcomes.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-09",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-09",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1186/s12877-026-08383-w",
         "doi": "10.1186/s12877-026-08383-w",
         "url": "https://doi.org/10.1186/s12877-026-08383-w",
@@ -59455,6 +60146,696 @@
           "agingHealth"
         ],
         "firstSeen": "2026-10-08",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/gerona/glag248",
+        "doi": "10.1093/gerona/glag248",
+        "url": "https://doi.org/10.1093/gerona/glag248",
+        "title": "Deprescribing Fall Risk–Increasing Drugs in Older Adults: Implementation Challenges and a Conceptual Framework from the DeFRID Trial and Global Evidence",
+        "authors": [
+          "Madhavi Eerike",
+          "Sakthivadivel Varatharajan",
+          "Priyadharsini Rajendran",
+          "Paul Mathai",
+          "Veena Nayak",
+          "Vijaya Kumar Karra",
+          "Gomathi Ramaswamy",
+          "Rekha Priyadarshini",
+          "Gerard Marshall Raj",
+          "Venugopalan Gunasekaran",
+          "Selvaraj Jayachandran",
+          "Sandhiya Selvarajan",
+          "Shivanand Kattimani",
+          "Anu Chandran",
+          "Rijesh Potangadi",
+          "Surendran Padinchara Kunhipilakkandiy",
+          "Narayanan Puthiya Veettil",
+          "Raghavendra Rao",
+          "Mukhyaprana Prabhu",
+          "Jerin Jose Cherian",
+          "Tanu Anand",
+          "Sowparnika Treasa Sabu",
+          "Lokesh Kumar Sharma"
+        ],
+        "abstract": "Abstract                                        Background                     Deprescribing fall risk–increasing drugs (FRIDs) is essential for reducing polypharmacy and falls in older adults, yet randomized controlled trials (RCTs) face unique implementation challenges. The DeFRID study is an ongoing multi-center RCT evaluating an ARMOR-based deprescribing intervention versus usual care in adults aged ≥60 years prescribed FRIDs. The objectives of this review are threefold: (1) to describe practical challenges encountered during a multi-center deprescribing RCT in India; (2) to propose a conceptual framework for categorizing these barriers; and (3) to contextualize DeFRID's experience within the broader deprescribing research landscape.                                                           Methods                     We conducted a narrative review with systematic scoping elements, synthesizing global RCT evidence from PubMed, OpenAlex, and Google Scholar (inception–December 2025) with DeFRID process evaluation data. DeFRID barriers and facilitators were identified via mixed-methods (clinician KAP questionnaire and qualitative interviews), team meetings, retention logs, and Phase II RCT implementation data, thematically categorized, then compared with global RCT challenges.                                                           Results                     DeFRID implementation revealed four challenge categories: ethical–clinical difficulties establishing equipoise for FRID withdrawal; operational barriers to recruitment and retention; methodological complexities in fall outcome ascertainment; and context-specific constraints unique to the Indian LMIC setting—limited deprescribing guidelines, polypharmacy normalization, fragmented care coordination, and hierarchical decision-making. Global RCTs revealed substantial implementation challenges: low clinician adherence, short follow-up periods, restrictive eligibility excluding frail or cognitively impaired older adults, and resource-intensive interventions limiting scalability.                                                           Conclusions                     Deprescribing FRIDs in older adults is impeded by ethical, operational, methodological, and provider-patient challenges, necessitating multilevel strategies integrating training, shared decision-making, context-specific guidelines, and stakeholder engagement for scalable implementation.",
+        "source": "The Journals of Gerontology, Series A: Biological Sciences and Medical Sciences",
+        "issn": "1079-5006",
+        "date": "2026-10-08",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "elderCare"
+        ],
+        "firstSeen": "2026-10-09",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70774",
+        "doi": "10.1111/jgs.70774",
+        "url": "https://doi.org/10.1111/jgs.70774",
+        "title": "Mobilization Alarms for In‐Hospital Falls: Time to Reconsider a Longstanding Practice",
+        "authors": [
+          "Bastiaan Van Grootven",
+          "Koen Milisen"
+        ],
+        "abstract": "",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-10-08",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-09",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70780",
+        "doi": "10.1111/jgs.70780",
+        "url": "https://doi.org/10.1111/jgs.70780",
+        "title": "Experiences With a Combined Meal Delivery and Home‐Based Exercise Intervention Among Homebound Older Adults",
+        "authors": [
+          "Melissa R. Cruz",
+          "Lisa Juckett",
+          "Paola Robles Cordova",
+          "Jessica Lee"
+        ],
+        "abstract": "ABSTRACT                                        Background                     Homebound older adults experience high rates of multimorbidity, frailty, and social isolation; yet few interventions target homebound older adults. We completed “Strength on Wheels”, a randomized controlled trial evaluating a nutrition and exercise intervention for homebound older adults that showed no differences in physical measures but improvements in loneliness for those in the exercise group. We now seek to understand their qualitative experiences with the intervention.                                                           Methods                     This qualitative study analyzed free‐text responses from biweekly surveys and an exit survey within the 12‐week Strength on Wheels intervention, which combined home‐delivered meals through Meals on Wheels with a home‐based exercise program. Structured content analysis was used to identify prominent themes across participant comments.                                                           Results                                            Participants (                       N                        = 101, mean age 74 years) reported enjoying meals and engaging with the exercise materials, though many reported ongoing pain and concerns about falls. Experiences with a commercial activity tracker were mixed: some found it motivating, while others reported difficulty charging, interpreting icons, or keeping track of the device. Participants also identified additional supports, such as social engagement, cognitive activities, physical therapy, transportation, and home modifications, as important for maintaining independence.                                                                                Conclusion                     Future work should refine nutrition and exercise programs for homebound older adults to better address their complex needs and support independence at home.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-10-08",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-09",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70754",
+        "doi": "10.1111/jgs.70754",
+        "url": "https://doi.org/10.1111/jgs.70754",
+        "title": "Hip Fracture Risk of Lemborexant and Suvorexant in Comparison With Z‐Drugs: A Target Trial Emulation",
+        "authors": [
+          "Yuichiro Matsuo",
+          "Hayato Yamana",
+          "Yusuke Sasabuchi",
+          "Hiroki Matsui",
+          "Takahide Kohro",
+          "Hideo Yasunaga"
+        ],
+        "abstract": "ABSTRACT                                        Background                     Lemborexant and suvorexant are widely used dual orexin receptor antagonists (DORAs) for the pharmacological treatment of insomnia. Although they are generally considered safer than benzodiazepine receptor agonists (Z‐drugs) regarding adverse events including hip fractures, evidence from direct comparisons remains limited. This study aimed to examine whether lemborexant and suvorexant are associated with a lower risk of hip fracture than Z‐drugs in older individuals.                                                           Methods                     We conducted a cohort study using databases from Tochigi Prefecture, Japan. We included individuals aged ≥ 65 years who newly initiated either lemborexant or Z‐drugs (lemborexant analysis cohort) or either suvorexant or Z‐drugs (suvorexant analysis cohort). The primary outcome was hospitalization for hip fracture within 1 year of cohort entry. Per‐protocol effects of continuous treatment with the assigned drugs were estimated. Baseline confounding was adjusted using inverse probability of treatment weighting based on propensity scores. Censoring due to discontinuation of the assigned drug or switching to the comparator drug was adjusted for using inverse probability of censoring weights. Adjusted cumulative incidence and hazard ratios (HRs) were estimated using the Kaplan–Meier methods and Cox regression, respectively.                                                           Results                                            The lemborexant analysis cohort included 22,655 individuals (6879 and 15,776 in the lemborexant and Z‐drug groups, respectively). After adjustment, lemborexant use was associated with a significantly lower hip fracture incidence (HR, 0.31, 95% confidence interval [CI], 0.16–0.59,                       p                        &lt; 0.001). The suvorexant analysis cohort included 22,377 individuals (6699 and 15,678 in the suvorexant and Z‐drug groups, respectively). After adjustment, hip fracture incidence was lower in the suvorexant group, but the association was not significant (HR, 0.57, 95% CI, 0.23–1.44,                       p                        = 0.234).                                                                                Conclusion                     DORAs, particularly lemborexant, may be safer alternatives to Z‐drugs with respect to hip fracture risk.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-10-08",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-09",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70740",
+        "doi": "10.1111/jgs.70740",
+        "url": "https://doi.org/10.1111/jgs.70740",
+        "title": "Concerns of the\n                    <scp>SSVI</scp>\n                    to Inform Medicare Beneficiaries HealthCare Decisions",
+        "authors": [
+          "Joan M. Teno",
+          "Xiao Wang",
+          "Emmanuelle Belanger"
+        ],
+        "abstract": "",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-10-08",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-09",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08285-x",
+        "doi": "10.1186/s12877-026-08285-x",
+        "url": "https://doi.org/10.1186/s12877-026-08285-x",
+        "title": "Caregivers’ perspectives and needs on using skin image recognition tools for monitoring skin conditions in homebound older adults with disabilities: a qualitative study",
+        "authors": [
+          "Huichao Zhang",
+          "Mingmei Xu",
+          "Shuyu Zhang",
+          "Yuxi Zhang"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-08",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-09",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08375-w",
+        "doi": "10.1186/s12877-026-08375-w",
+        "url": "https://doi.org/10.1186/s12877-026-08375-w",
+        "title": "TyG-BRI, frailty, and all-cause mortality in older adults with atrial fibrillation without diabetes: a two-cohort study",
+        "authors": [
+          "Qingqing Zhang",
+          "Xu Wang",
+          "Chuanmeng Zhang",
+          "Qiuping Chen",
+          "Si Sun",
+          "Yucheng Wu",
+          "Ming Chu"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-08",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-09",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08398-3",
+        "doi": "10.1186/s12877-026-08398-3",
+        "url": "https://doi.org/10.1186/s12877-026-08398-3",
+        "title": "Home medicine cabinets management and pharmacist service for geriatric patients with chronic diseases in China",
+        "authors": [
+          "Rongrong Huang",
+          "Xuan Xia",
+          "Cheng Huang",
+          "Baoli Xu",
+          "Ruxu You",
+          "Yongning Lv",
+          "Xuefeng Cai"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-08",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-09",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08412-8",
+        "doi": "10.1186/s12877-026-08412-8",
+        "url": "https://doi.org/10.1186/s12877-026-08412-8",
+        "title": "Coupling coordination of digital village and county care industry for older adults",
+        "authors": [
+          "Huan Liu",
+          "Yalin Xia",
+          "Meng Wang",
+          "Citao Liu"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-08",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-09",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08418-2",
+        "doi": "10.1186/s12877-026-08418-2",
+        "url": "https://doi.org/10.1186/s12877-026-08418-2",
+        "title": "Sustaining agency after a fall: navigating healthcare and adjusting everyday life – a qualitative interview study",
+        "authors": [
+          "Sara Bergström",
+          "Kristina Rosengren",
+          "Catarina Wallengren",
+          "Hanna Falk Erhag",
+          "Ramona Schenell"
+        ],
+        "abstract": "Abstract                                        Background                     Falls among older adults are a major public health concern and are associated with recurrent falls, functional decline, fear of falling, and reduced quality of life. Older adults presenting to emergency departments (EDs) following a fall are often discharged directly home despite ongoing rehabilitation and support needs. Although person-centred approaches are recommended in international guidelines, less is known about older adults’ and relatives’ experiences following an ED visit for a fall. This study aimed to describe older adults’ and their relatives’ experiences of a fall, including the ED visit and the transition back home.                                                           Method                     A qualitative study design was used, involving semi-structured interviews with older adults aged 75 years and older and their relatives. Participants had attended the ED following a fall but were discharged without hospital admission. Seventeen participants (11 older adults and 6 relatives) were recruited. Data were analysed using qualitative content analysis according to Graneheim and Lundman.                                                           Results                                            The analysis generated one overarching theme,                       Sustaining agency through recovery across care and everyday life                       , which reflected how older adults and their relatives sought to manage daily life following a fall. Both groups described addressing immediate care needs while simultaneously adapting to longer-term changes in everyday life. Participants described difficulties navigating healthcare services to access follow-up care and rehabilitation, contributing to feelings of insecurity, financial strain, and increased responsibility. A persistent fear of falling affected daily activities and required adaptations and new roles for both older adults and their relatives. Despite these challenges, many participants demonstrated resilience and an ability to manage daily life following injury. Individual coping strategies and support from relatives were described as central to managing everyday life and healthcare contacts.                                                                                Conclusions                     Older adults discharged home after a fall may benefit from coordinated, person-centred follow- up that supports rehabilitation, recovery, and fall prevention. Despite variation in support needs, participants described a common need for clearer guidance and improved support structures, while also demonstrating considerable resilience and capacity for self-management.                                                           Clinical trial number                     Not applicable.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-08",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-09",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08387-6",
+        "doi": "10.1186/s12877-026-08387-6",
+        "url": "https://doi.org/10.1186/s12877-026-08387-6",
+        "title": "Nurse-administered symptom-burden screening and 12-month mortality in older adults with heart failure: a cohort study",
+        "authors": [
+          "Thanh Thi Nguyen",
+          "Thao Thi Phuong Nguyen"
+        ],
+        "abstract": "Abstract                                        Background                     Older adults with heart failure face significant symptoms and psychosocial burdens that routine cardiology care might overlook. We assessed whether Edmonton Symptom Assessment System (ESAS) and Integrated Palliative Care Outcome Scale (IPOS) scores can predict 12-month mortality and improve risk discrimination beyond clinical covariates in a hospital cohort from a low-resource setting.                                                           Methods                     We conducted an observational cohort study at the National Geriatric Hospital (Vietnam). Inpatients aged 60 years or older with chronic heart failure who met the eligibility criteria were approached in the order of admission (January 2021-December 2022), and ESAS (9 items, each scored 0–10) and IPOS (17 items) were completed within 48 h of admission by trained ward nurse-researchers. Vital status at 12 months was determined through medical records and structured follow-up calls. Cox proportional hazards models evaluated associations with mortality, adjusting for age, sex, heart-failure classification, New York Heart Association (NYHA) class, comorbidities, and financial strain. Primary analyses used predefined categorical cutoffs (ESAS &gt; 30; IPOS ≥ 20). Discrimination was further assessed with Harrell’s C-index and the 12-month area under the curve (AUC), and model fit was compared using Akaike and Bayesian information criteria. Calibration was also examined using a logistic analogue (Hosmer–Lemeshow).                                                           Results                                            Of 327 screened patients, 304 were enrolled (mean age 71.9 ± 8.8 years; 52% men); 65 deaths (21.4%) occurred within 12 months. ESAS and IPOS were strongly correlated, but there was no multicollinearity. High symptom burden (ESAS &gt; 30) independently predicted mortality (adjusted hazard ratio [aHR] 2.27; 95%CI 1.20–4.28), while high palliative-care needs (IPOS ≥ 20) were not associated (aHR: 1.04; 95%CI 0.47–2.30). Kaplan–Meier curves across ESAS–IPOS strata diverged. Including categorical patient-reported measures in the clinical model modestly improved discrimination and fit: Harrell’s C increased from 0.671 to 0.697 and 12-month AUC from 0.700 to 0.718 (                       p                        = 0.034), with acceptable calibration and lower information criteria.                                                                                Conclusions                     In hospitalized older adults with heart failure, a nurse-administered ESAS identified patients at independently higher 12-month mortality risk. IPOS, though clinically informative for care planning, added little prognostic information once symptom severity was considered. Brief, nurse-led symptom screening offers a feasible approach to risk stratification in resource-limited settings.                                                           Trial registration                     Not applicable.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-08",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-09",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08452-0",
+        "doi": "10.1186/s12877-026-08452-0",
+        "url": "https://doi.org/10.1186/s12877-026-08452-0",
+        "title": "Incidence and factors associated with unplanned hospital return within 6 months in frail older adults in Thailand",
+        "authors": [
+          "Patumporn Suraarunsumrit",
+          "Maytinee Srisubin",
+          "Sutisa Pitiyarn",
+          "Ponnapa Petchthai",
+          "Dariya Tantiameorn",
+          "Chaloemphon Thedpun",
+          "Sunit Jarungjitaree",
+          "Kotchamon Sukyoyot",
+          "Unchana Sura-amonrattana",
+          "Varalak Srinonprasert",
+          "Titima Wongviriyawong"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-08",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-09",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261492625",
+        "doi": "10.1177/13872877261492625",
+        "url": "https://doi.org/10.1177/13872877261492625",
+        "title": "Acculturation is associated with cognitive performance but not changes in cognition among middle-aged and older Hispanic/Latino adults: Findings from the HCHS/SOL and SOL-INCA",
+        "authors": [
+          "Ariana M. Stickel",
+          "Wassim Tarraf",
+          "Sayaka Kuwayama",
+          "Yijia Xue",
+          "Jordana Breton",
+          "Luis D. Medina",
+          "Alejandra Morlett Paredes",
+          "Linda C. Gallo",
+          "Jianwen Cai",
+          "Melissa Lamar",
+          "Amber Pirzada",
+          "Martha L. Daviglus",
+          "Carmen R. Isasi",
+          "Robert Kaplan",
+          "Sylvia Wassertheil-Smoller",
+          "Hector M. González"
+        ],
+        "abstract": "Background                     Hispanic/Latino adults are not a monolithic group. Individuals vary in a range of factors, including levels of acculturation (adoption of Anglo-American culture).                                                           Objective                     To investigate the relationships between acculturation with cognition, changes in cognition, and risk for mild cognitive impairment (MCI).                                                           Methods                                            We included Hispanic/Latino adults (unweighted                       n                        = 5976) from the Study of Latinos - Investigation of Neurocognitive Aging (SOL-INCA), a Hispanic Community Health Study/Study of Latinos ancillary study. Three acculturation measures were collected at Visit 1 (Short Acculturation Scale for Hispanics (SASH) – Social and Language subscales and the MESA Acculturation score). Participants were grouped into quartiles per measure with higher scores reflecting greater acculturation. Outcomes included cognition and MCI prevalence 7-years after Visit 1 and 7-year change in cognition from Visit 1 to 2. Survey linear regressions were performed to model the associations between acculturation measures and cognitive outcomes, controlling for sociodemographic factors.                                                                                Results                                            The lowest SASH Social and Language acculturation groups had lower global cognition scores than all other groups (all                       p                       -values&lt;0.01). The lowest MESA Acculturation score group had lower global cognition scores relative to those in the highest quartile (                       b                        = 0.10;                       SE                        = 0.04;                       p                        &lt; 0.05). However, there were no acculturation differences in cognitive change or MCI.                                                                                Conclusions                     Though low acculturation was associated with lower cognitive performance, it does not seem to be related to increased risk for cognitive decline or pathological cognitive aging (i.e., prevalent MCI).",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-10-08",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-09",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261492342",
+        "doi": "10.1177/13872877261492342",
+        "url": "https://doi.org/10.1177/13872877261492342",
+        "title": "Study on the global and national burden of Alzheimer's disease attributable to dietary fatty acids from 1990 to 2018: A combined analysis based on the global burden of disease and global dietary database",
+        "authors": [
+          "Liuhui Zhu",
+          "Jie Liu",
+          "Jianzhun Chen",
+          "Longfeng Yang",
+          "Shimei Li",
+          "Xinglong Yang"
+        ],
+        "abstract": "Background                     Despite the importance of fatty acids (FAs) for brain function, their association with the global burden of Alzheimer's disease (AD) remains unclear.                                                           Objective                     Using the Global Dietary Database and the Global Burden of Disease study (1990–2018), we examined global trends and projections of AD burden attributable to dietary saturated fatty acids (SFAs) and monounsaturated fatty acids (MUFAs).                                                           Methods                     We analyzed global SFA/MUFA intake and age-standardized incidence rate (ASIR), age-standardized mortality rate (ASMR), and age-standardized disability-adjusted life year rate (ASDR) of FA-attributable AD. Spearman correlation analysis assessed associations with the Socio-demographic Index (SDI). Projections were extended to 2040.                                                           Results                                            In 2018, SFA intake was highest in Australia and France, while MUFA intake was highest in Russia and Sweden. For attributable burden, from 1990 to 2018, SFA-attributable ASDR ranked highest annually, peaking in 2010 then declining; MUFA-attributable burden showed no significant variation. In 2018, ASIR, ASMR, and ASDR attributable to both FAs were highest in adults ≥80 years. Females had higher burdens than males, with approximately 2-fold higher SFA-attributable rates. High SFA burden concentrated in high-SDI countries, while high MUFA burden shifted from low-middle to middle-high SDI regions. ASIR of SFA-attributable AD correlated positively with SDI in 1990 (cor = 0.41,                       p                                               &lt;                        0.001) and 2018 (cor = 0.5,                       p                                               &lt;                        0.001); a similar correlation was observed for MUFAs. Under the assumption of 3% annual growth, SFA- and MUFA-attributable ASIR would reach 57.8 and 19.7 per 100,000 by 2040.                                                                                Conclusions                     This study links global SFA/MUFA intake to AD burden and projects future trends, supporting targeted prevention strategies.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-10-08",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-09",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261491983",
+        "doi": "10.1177/13872877261491983",
+        "url": "https://doi.org/10.1177/13872877261491983",
+        "title": "Assessing neuropsychiatric symptoms in context: Integrating standardized and ecological approaches for better care",
+        "authors": [
+          "Ana Rita Leal Ferreira",
+          "Lia Paula Nogueira Sousa Fernandes"
+        ],
+        "abstract": "Neuropsychiatric symptoms (NPS) are common, disabling, and burdensome core features of dementia that often dominate the disease presentation and trajectory. Despite their prevalence and clinical significance, the assessment of NPS remains challenging in clinical practice. Traditional standardized assessment instruments, while widely used, are limited by their reliance on caregivers' retrospective recall, single time-point measurements, lack of direct observation, and limited ability to capture the NPS dynamic, fluctuating and context-dependent nature. A critical caveat of standardized assessment instruments lies in the insufficient exploration of NPS underlying causes, underscoring the need to refine existing approaches to better assist clinicians in detection, diagnosis, and management.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-10-08",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-09",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261490812",
+        "doi": "10.1177/13872877261490812",
+        "url": "https://doi.org/10.1177/13872877261490812",
+        "title": "Screening patterns for cognitive dysfunction and influencing factors analysis for referral and training rate: Experience from a health management center",
+        "authors": [
+          "Jian Dong",
+          "Hongrui Ma",
+          "Min Deng",
+          "Rongfen Guo",
+          "Jing Zhao",
+          "Xi Chu"
+        ],
+        "abstract": "Background                     Implementing cognition health screening, risk assessment, and early intervention for cognitive impairment-related diseases among appropriate demographics holds significant importance in China.                                                           Objective                     This study aims to present a cognition health management model and to explore factors influencing referral and cognition training rates for participants enrolled in a health management center.                                                           Methods                     This cohort study examined 836 cases of potential cognitive dysfunction at a health management center in China from January to October 2023. Baseline characteristics, three-month follow-up data, and clinical outcomes were recorded. Bivariate logistic regression was employed to identify predictive factors for referral and cognition training rates.                                                           Results                     In this study, the referral and cognition training rates among participants were only 6.58% and 4.07%, respectively. The primary barriers identified were lack of awareness and accurate understanding of cognition health and training, often linked to lower levels of education. Comorbidities of cerebrovascular disease (adjusted OR: 0.277; 95%CI: 0.112–0.683, p = 0.005) and higher levels of fasting blood glucose upon admission (adjusted OR: 0.849; 95%CI: 0.746–0.955, p = 0.013) were associated with referral. A lower MoCA score on admission (adjusted OR: 0.856; 95%CI: 0.742–0.986, p = 0.032) was associated with receiving cognition training.                                                           Conclusions                     Targeted educational campaigns are essential to address low awareness of cognition health, particularly among those with lower education. Moreover, considering comorbidities and biochemical markers can enhance the prediction and implementation of referral and cognition training rates.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-10-08",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-09",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261490539",
+        "doi": "10.1177/13872877261490539",
+        "url": "https://doi.org/10.1177/13872877261490539",
+        "title": "Melatonin as a potential biomarker for subclinical epileptiform activity in Alzheimer's disease: An exploratory study",
+        "authors": [
+          "Amber Nous",
+          "Laura Seynaeve",
+          "Odile Feys",
+          "Vincent Wens",
+          "Xavier De Tiège",
+          "Pieter Van Mierlo",
+          "Amir Ghasemi Baroumand",
+          "Shana Mangelschots",
+          "Veronique Michiels",
+          "Sara De Witte",
+          "Mandy Melissa Jane Wittens",
+          "Maria Bjerke",
+          "Sarah Ceyssens",
+          "Marijke Gordijn",
+          "Sonia De Weerdt",
+          "Ann Van Eekchaut",
+          "Guy Nagels",
+          "Ilse Smolders",
+          "Sebastiaan Engelborghs"
+        ],
+        "abstract": "Background                     Melatonin levels are altered in elderly people and might become even more disrupted in Alzheimer's disease (AD) patients. An inverse correlation between cerebrospinal fluid melatonin levels and severity of AD neuropathology has been described. There is an increased prevalence of subclinical epileptiform activity (SEA) in AD. Baseline melatonin levels have been described to be lower in epilepsy patients as compared to controls, suggesting antiepileptic effects.                                                           Objective                     To compare melatonin levels between AD participants and controls, to evaluate melatonin's potential use as biomarker for disease stage in AD and to evaluate the link between melatonin levels and SEA in AD.                                                           Methods                                            AD subjects (                       n                        = 20) and healthy volunteers (                       n                        = 8) underwent a 24-h-electro-encephalography (EEG), during which multiple blood and saliva samples were taken. Melatonin levels were analysed using liquid chromatography-mass spectrometry (plasma) and radioimmunoassay (saliva). A subset of participants underwent 50-min resting magnetoencephalography and/or high-density-EEG to detect SEA.                                                                                Results                     Plasma melatonin levels were significantly lower in AD as compared to controls at 23:00PM. Melatonin levels were similar between patients with AD dementia, MCI due to AD and preclinical AD subjects. Plasma and saliva melatonin levels at 04:00AM and 01:00AM, respectively, were significantly higher in AD participants with SEA as compared to those without.                                                           Conclusions                     Night-time melatonin levels might serve as a potential biomarker to identify AD patients at risk for SEA, based on exploratory findings. Whether this increase could be a compensatory feedback mechanism against SEA or whether melatonin rather has pro-epileptic effects, remains to be elucidated by further research.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-10-08",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-09",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261493010",
+        "doi": "10.1177/13872877261493010",
+        "url": "https://doi.org/10.1177/13872877261493010",
+        "title": "Impact of dementia severity on efficacy of brexpiprazole for agitation in Alzheimer's dementia: A post hoc analysis of a randomized, double-blind, placebo-controlled study in Japan",
+        "authors": [
+          "Yu Nakamura",
+          "Yuta Seiyama",
+          "Koichi Shimizu",
+          "Yoshiyuki Shibasaki",
+          "Rikiya Toda",
+          "Norihiro Nakamichi",
+          "Jun Adachi",
+          "Naoki Hirota",
+          "Masami Nakai",
+          "Kaneyoshi Takahashi"
+        ],
+        "abstract": "Background                     The impact of dementia severity on the efficacy of brexpiprazole for agitation associated with Alzheimer's disease in Japanese patients remains unclear.                                                           Objective                     This post hoc analysis aimed to further examine the efficacy of brexpiprazole with respect to the severity of Alzheimer's dementia (AD), determined using Mini-Mental State Examination (MMSE) score, in a randomized, double-blind, placebo-controlled study conducted in Japanese patients with agitation in AD (AAD).                                                           Methods                     Data from Japanese patients with AAD who received brexpiprazole 1 mg/day or 2 mg/day, or placebo for 10 weeks were analyzed. Changes from baseline in Cohen-Mansfield Agitation Inventory (CMAI) total score were evaluated according to severity of dementia (mild-to-moderate AD: MMSE 11-22; severe AD: MMSE 1–10). Changes from baseline in Clinical Global Impression-Severity of Illness (CGI-S) score were similarly assessed.                                                           Results                     At Week 10, greater improvement was observed primarily with brexpiprazole compared with placebo, whereas efficacy in severe AD was limited with the 1 mg dose. Differences between brexpiprazole and placebo in the mean change from baseline in CMAI total score for mild-to-moderate and severe AD groups were −4.2 (p = 0.0306) and −2.9 (p = 0.2534) for brexpiprazole 1 mg, −7.0 (p = 0.0001) and −7.3 (p = 0.0024) for brexpiprazole 2 mg, respectively. Differences in CGI-S score were −0.3 (p = 0.0598) and −0.4 (p = 0.0762) in brexpiprazole 1 mg, −0.8 (p &lt; 0.0001) and −0.7 (p = 0.0002) in brexpiprazole 2 mg, respectively.                                                           Conclusions                     Brexpiprazole showed efficacy at the 2 mg dose in Japanese patients, supporting its effectiveness for AAD across AD severities; the effects of the 1 mg dose in severe AD were limited.                                                           ClinicalTrials.gov Identifier                     NCT03620981 (trial registry name: Brexpiprazole for the Treatment of Patients With Agitation Associated With Dementia of the Alzheimer's Type).                                            Available from                       https://www.clinicaltrials.gov/study/NCT03620981                       .",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-10-08",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-09",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261493063",
+        "doi": "10.1177/13872877261493063",
+        "url": "https://doi.org/10.1177/13872877261493063",
+        "title": "PET-based evaluation of short-term amyloid-β clearance and predictive factors in real-world Alzheimer's disease patients treated with lecanemab",
+        "authors": [
+          "Zhen Qiao",
+          "Xiaobin Zhao",
+          "Guihong Wang",
+          "Shen Li",
+          "Tenghong Lian",
+          "Lin Ai"
+        ],
+        "abstract": "Background                     Alzheimer's disease (AD) is a common progressive neurodegenerative disorder. Lecanemab, an anti-amyloid-β (Aβ) monoclonal antibody, is approved for AD treatment, but real-world efficacy and optimal PET application strategies remain incompletely defined.                                                           Objective                     To investigate lecanemab's Aβ clearance efficacy, identify predictors of response, and optimize PET application strategies.                                                           Methods                     A retrospective analysis of Aβ PET-positive AD patients treated with lecanemab for 6–8 months. Paired t-tests evaluated standardized uptake value ratios (SUVR) and cognitive changes; Cohen's Kappa assessed visual-quantitative agreement. Exploratory analyses included partial correlation, regression, and Fisher's exact test.                                                           Results                                            Thirty-eight patients were included. Statistically significant Centiloid (CL) reduction occurred post-treatment (mean difference = 29.39 ± 22.31, p &lt; 0.001), without Mini-Mental State Examination/Montreal Cognitive Assessment or tau PET changes. Twelve patients achieved a CL &lt; 24.1, and 5 were visually negative. Visual-quantitative agreement was fair to poor (positivity Kappa = 0.205; efficacy Kappa = 0.253). Baseline CL, treatment cycles, and SUVRtau were screened by univariate regression (p &lt; 0.05) and entered into a multivariate model (F = 13.693, p &lt; 0.001, adjusted R                       2                        = 0.507). Baseline CL (standardized-β = 0.594, p &lt; 0.001) and treatment cycles (standardized-β = 0.285, p = 0.022) were independent positive predictors; SUVRtau showed marginal negative association (standardized-β = −0.238, p = 0.052).                                                                                Conclusions                     Lecanemab was associated with statistically significant amyloid clearance. Baseline amyloid burden and treatment exposure predicted greater clearance; tau showed attenuating trend. Visual-quantitative discordance supports a hybrid PET pathway: visual screening for inclusivity, serial CL quantification for monitoring, and combined assessment for low-CL patients.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-10-08",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-09",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261493066",
+        "doi": "10.1177/13872877261493066",
+        "url": "https://doi.org/10.1177/13872877261493066",
+        "title": "Neuroanatomical correlates of the CDT-14: A voxel-based morphometry study exploring incremental information beyond conventional clock drawing scores",
+        "authors": [
+          "Yoichi Sawada",
+          "Toru Satoh",
+          "Hideaki Saba",
+          "Yoshiki Kato",
+          "Tomoko Kuwada",
+          "Sayoko Shima",
+          "Kana Murakami",
+          "Megumi Sasaki",
+          "Yudai Abe",
+          "Kaori Harano"
+        ],
+        "abstract": "Background                     The Clock Drawing Test (CDT) is widely used for cognitive screening but lacks unified scoring standards and neuroanatomical validation.                                                           Objective                     We examined the neuroanatomical correlates and incremental validity beyond conventional CDT scoring of CDT-14, a psychometrically refined 14-item system with three subfactors (Circle, Numbering, and Hand), using voxel-based morphometry (VBM).                                                           Methods                     We analyzed 985 participants from a heterogeneous memory-clinic cohort. Whole-brain VBM compared CDT-14 total and subfactor scores with three conventional scoring systems. Models adjusted for age, sex, education level, and total intracranial volume. Incremental validity was assessed after controlling for a principal-component-derived conventional composite score, with sensitivity analyses adjusting for white matter lesion volume (WMLV).                                                           Results                     CDT-14 was associated with gray matter volume (GMV) in distributed clock-drawing regions, including the right anterior hippocampus, parahippocampal gyrus, bilateral precuneus, and prefrontal regions. Primary incremental analyses identified additional associations in bilateral ventral temporal, right occipito-temporal, and dorsal anterior cingulate regions after accounting for conventional CDT performance. These associations were attenuated after WMLV adjustment, and no clusters survived FWE correction in the WMLV-adjusted incremental model. Subfactor analyses suggested partially distinct but overlapping patterns involving frontostriatal and cingulate regions for Circle, thalamic and limbic-related regions for Numbering, and hippocampal, parietal, and occipital regions for Hand.                                                           Conclusions                     CDT-14 showed cross-sectional GMV associations beyond conventional scoring in primary analyses. However, the incremental associations were not robust to WMLV adjustment at the FWE-corrected threshold and should be interpreted cautiously. Longitudinal, biomarker-informed, and externally validated studies are needed to establish predictive validity, disease specificity, and clinical utility.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-10-08",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-09",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261493172",
+        "doi": "10.1177/13872877261493172",
+        "url": "https://doi.org/10.1177/13872877261493172",
+        "title": "Diabetic foot ulcers as markers of systemic disease burden: Associations with cognitive impairment in type 2 diabetes—A case-control cross-sectional study",
+        "authors": [
+          "Niladri Dutta",
+          "Prithbijit Chatterjee",
+          "Gayatri Sreemantula",
+          "Peter Hobson"
+        ],
+        "abstract": "Background                     Type 2 diabetes mellitus (T2DM) confers increased risk of cognitive decline and Alzheimer's disease (AD), driven by chronic metabolic dysregulation, microvascular injury, and systemic inflammation. Diabetic foot ulcers (DFUs), a severe complication of T2DM, reflect advanced systemic burden, yet their neurocognitive consequences remain insufficiently characterized.                                                           Objective                     To evaluate domain-specific cognitive functioning in adults with DFUs compared with matched healthy controls using an AD-focused cognitive assessment battery, and to examine associations with depressive symptoms and health-related quality of life (HRQoL).                                                           Methods                     In this cross-sectional case–control study, 22 adults with T2DM and DFUs and 22 age- and gender-matched healthy controls completed the Addenbrooke's Cognitive Examination III, Trail Making Test, and Weigl Colour Form Sorting Test. Comorbidity burden, depressive symptoms (PHQ-9), and HRQoL (EQ-5D-5L) were recorded. Adjusted odds of domain-specific cognitive impairment were estimated using Generalized Linear Models.                                                           Results                     DFU participants showed significantly poorer performance across multiple cognitive domains, including verbal fluency, visuospatial ability, memory, and executive function. Independent neuropsychological tests corroborated slowed processing speed and reduced cognitive flexibility. DFU status was associated with more than a threefold increase in odds of impairment in fluency and visuospatial domains. The DFU participants also demonstrated markedly poorer HRQoL, higher depressive symptoms, and greater comorbidity burden.                                                           Conclusions                     DFUs are associated with a more severe and domain-specific neurocognitive profile than typically observed in T2DM alone, affecting functions highly relevant to early AD vulnerability. These findings suggest that DFUs may identify a subgroup at heightened risk of neurodegenerative trajectories, supporting the need for biomarker-informed longitudinal investigations.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-10-08",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-09",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261493980",
+        "doi": "10.1177/13872877261493980",
+        "url": "https://doi.org/10.1177/13872877261493980",
+        "title": "Temporal dysregulation of\n                    <i>PPARG-PRKAG2</i>\n                    co-localization in gray matter: Implications for cognitive decline and intervention targets in type 2 diabetes",
+        "authors": [
+          "Shelli R. Kesler",
+          "Kimberly A. Lewis",
+          "Heather Cuevas",
+          "Elena Flowers"
+        ],
+        "abstract": "Background                     Type 2 diabetes (T2DM) is associated with increased risk for neurodegeneration, including Alzheimer's disease.                                                           Objective                                            To determine the differences in gray matter                       PPARG                       and                       PRKAG2                       co-localization in T2DM compared to non-diabetic controls.                                                                                Methods                                            Neuroimaging was obtained for 1802 adults (66 ± 9 years, 47% male) of whom N = 271 had T2DM. We applied imaging transcriptomics to examine trajectories of                       PPARG                       and                       PRKAG2                       co-localization with gray matter volume.                                                                                Results                                            Gene co-localization with gray matter was higher in early stages but weakened in later stages among T2DM compared to controls (χ                       2                        = 13.82, p = 0.001). Co-localization was significantly associated with cognitive function in controls (F = 3.17, p &lt; 0.001) but not T2DM. Metformin use was associated with greater gene co-localization stability over time (χ                       2                        = 12.42, p = 0.006).                                                                                Conclusions                                            PPARG                       -mediated metabolic remodeling and                       PRKAG2                       /AMPK-driven energy sensing may act as neuroprotective mechanisms in response to both pathological (T2DM) and normative (aging) contexts. These processes appear to become dysregulated in T2DM, potentially resulting in cognitive decline and increased risk for dementia.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-10-08",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-09",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261493984",
+        "doi": "10.1177/13872877261493984",
+        "url": "https://doi.org/10.1177/13872877261493984",
+        "title": "Greater amyloid burden in cognitive networks in preclinical Alzheimer's disease",
+        "authors": [
+          "Sara A. Nolin",
+          "Stephanie Aghamoosa",
+          "William J. Rieter",
+          "Averi Jones",
+          "Paul J. Nietert",
+          "Andreana Benitez"
+        ],
+        "abstract": "Background                     In preclinical Alzheimer's disease (pAD), regional patterns of amyloid-β (Aβ) deposition are well characterized but have not been systematically compared across functional networks.                                                           Objective                     Determine how Aβ accumulation in functional networks (“network-amyloid burden” [NAB]) varies by age, network type (cognitive versus non-cognitive), and Aβ status (Aβ+/Aβ-), and relates to cognition.                                                           Methods                                            157 cognitively unimpaired adults (45–84 years; n = 28 Aβ+ per neuroradiological read) underwent brain MRI, amyloid PET (                       18                       F-florbetapir), and neuropsychological testing. NAB was calculated as the mean standard uptake value ratio within 7 networks categorized as cognitive (fronto-parietal, default mode, ventral and dorsal attention, limbic) or non-cognitive (somato-motor, visual). Linear mixed models tested how NAB varies across age, networks (by type and each separately), Aβ status, and their interactions, and relationships between NAB and cognition.                                                                                Results                     NAB increased with age, most prominently in fronto-parietal and default mode networks. NAB was higher in cognitive than non-cognitive networks, and this difference was more pronounced in Aβ+ individuals. NAB was not significantly associated with cognition.                                                           Conclusions                     Cognitive brain networks are more vulnerable to amyloid accumulation with aging and in pAD than non-cognitive networks. Cognitive NAB may be useful for early detection and as a target for intervention in pAD.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-10-08",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-09",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261494123",
+        "doi": "10.1177/13872877261494123",
+        "url": "https://doi.org/10.1177/13872877261494123",
+        "title": "Multisystem aging discordance and cognitive decline in Chinese older adults: A longitudinal study from CHARLS",
+        "authors": [
+          "Guanqun Hu",
+          "Ying Liu",
+          "Meiyun Zhang"
+        ],
+        "abstract": "Background                     Multisystem aging discordance may represent an early risk factor for cognitive decline, but prospective evidence in Chinese older adults is limited.                                                           Objective                     We constructed a blood-based Aging Discordance Index (ADI) and examined its 3-year association with cognitive function in a nationally representative Chinese cohort. ADI was derived from five routine biomarkers (creatinine, total cholesterol, C-reactive protein, mean corpuscular volume, and glycated hemoglobin).                                                           Methods                     Data were from the China Health and Retirement Longitudinal Study (CHARLS). ADI was calculated as the standard deviation of age-adjusted Z-scores. Cognitive function was assessed via orientation, calculation, drawing, and equated word recall in 2018 data. Survey-weighted linear regression adjusted for baseline cognition, sociodemographic, lifestyle, and clinical covariates.                                                           Results                     Among 1688 participants aged ≥60 years, higher ADI was independently associated with worse 3-year cognitive performance (fully adjusted β = -0.336, 95% CI: −0.598 to −0.075, p = 0.011) and greater cognitive decline (β = -0.326, 95% CI: −0.575 to −0.077, p = 0.010). To address potential bias due to loss to follow-up, we further applied linear mixed models (LMM) with random intercepts in an expanded sample of 2912 participants, which utilizes all available repeated measures. The ADI × time interaction remained significant (β = –0.346, 95% CI: −0.580 to −0.112, p = 0.004), confirming the robustness of the primary findings against attrition bias.                                                           Conclusions                     A simple blood-based index of multisystem aging discordance independently predicts cognitive decline in Chinese older adults. ADI may offer a practical, low-cost tool for early risk stratification in community settings.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-10-08",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-09",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261494130",
+        "doi": "10.1177/13872877261494130",
+        "url": "https://doi.org/10.1177/13872877261494130",
+        "title": "Association of stenosis and arterial remodeling with cerebral hemodynamics and cognition",
+        "authors": [
+          "Mervin Tee",
+          "Jose Gutierrez",
+          "Jiangbo Cui",
+          "Enli Chiang",
+          "Narayanaswamy Venketasubramanian",
+          "Christopher Chen",
+          "Jan Petr",
+          "Henk J.M.M. Mutsaerts",
+          "Saima Hilal"
+        ],
+        "abstract": "Background                     Associations between intracranial stenosis, arterial remodeling, cerebral hemodynamics, including cerebral blood flow (CBF) and arterial transit time (ATT), white matter hyperintensities (WMH), and cognition remain unclear.                                                           Objective                     This study investigates the relationships between MRA-derived vascular parameters, cerebral hemodynamics, WMH burden, and cognition. We hypothesized that greater stenosis or remodeling is associated with impaired hemodynamics, increased WMH burden, and poorer cognition.                                                           Methods                     Cross-sectional study of 452 memory clinic patients (median age 74 [IQR 68–78], 53% female) who underwent 3T MRI with time-of-flight MRA and pseudo-continuous ASL. Automated quantification derived global stenosis and brain arterial remodeling (BAR) scores. CBF and spatial coefficient of variation (sCoV) assessed hemodynamics; WMH volume from FLAIR; cognition from a validated neuropsychological battery. Structural equation modelling (SEM) evaluated associations, adjusting for demographics and cardiovascular risk factors.                                                           Results                     Higher sCoV was associated with higher BAR (β = 0.14, 95% CI:0.06–0.23). WMH was associated with stenosis (β = 0.20, CI:0.12–0.28) and BAR (β = 0.07, CI:0.001–0.140). Lower CBF (β = -0.26, CI:-0.36 to −0.15) and higher sCoV (β = 0.27, CI:0.17–0.36) were associated with greater WMH burden. Higher BAR was associated with better global cognition (β = 0.07, CI:0.00–0.14). SEM indicated indirect associations with cognition via WMH and CBF.                                                           Conclusions                     Vascular remodeling and stenosis are associated with cerebral hemodynamics, WMH, and cognition, with CBF and WMH as potential mediators, underscoring the importance of vascular health in Alzheimer's disease. These direct and indirect associations are not mutually exclusive: higher BAR was associated with better cognition directly, while also relating to poorer cognition indirectly through greater WMH burden and perfusion heterogeneity.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-10-08",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-09",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261494219",
+        "doi": "10.1177/13872877261494219",
+        "url": "https://doi.org/10.1177/13872877261494219",
+        "title": "A randomized pilot trial of non-flickering 40 Hz light stimulation: EEG activity and cognitive outcomes in cognitively normal older adults",
+        "authors": [
+          "Chia-Hsiung Cheng",
+          "Hsinjie Lu"
+        ],
+        "abstract": "Background                     Gamma-frequency (40 Hz) sensory stimulation is a promising non-pharmacological approach for modulating neural activity and cognitive function in aging and Alzheimer's disease. However, conventional flickering stimulation is often poorly tolerated, and evidence for non-flickering approaches remains limited.                                                           Objective                     To evaluate the neurophysiological and cognitive effects of 4-week (28-session) non-flickering 40 Hz light stimulation in cognitively normal older adults.                                                           Methods                     In this randomized, double-blind, active-controlled pilot trial, 33 cognitively normal older adults were assigned to receive either non-flickering 40 Hz light stimulation (n = 17) or a 70 Hz active-controlled condition (n = 16) over four weeks. Per-protocol analyses were conducted in 29 participants who completed the intervention. Resting-state electroencephalography (EEG) was acquired at baseline, immediately after the first intervention session, and after completion of the 4-week intervention. Neuropsychological assessments were performed at baseline and after the intervention. Prespecified primary outcomes were resting-state gamma-band power spectral density (PSD) and functional connectivity (FC).                                                           Results                     No significant between-group differences were observed in resting-state gamma-band PSD or FC following either one-session or 28-session intervention. Unadjusted secondary analyses suggested potential improvements in selected episodic memory measures in the 40 Hz group. Exploratory analyses further identified a positive association between improvements in visuospatial memory and increases in occipital–temporal FC. Both interventions were well tolerated.                                                           Conclusions                     A 28-session non-flickering 40 Hz light stimulation was well tolerated and may improve selected episodic memory measures in cognitively normal older adults. Although no measurable group-level EEG effects were observed, the exploratory cognitive findings warrant further investigation in larger randomized trials.                                            ClinicalTrial.gov (ID: NCT06715995)                       https://clinicaltrials.gov/expert-search?term=NCT06715995",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-10-08",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-09",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261487596",
+        "doi": "10.1177/13872877261487596",
+        "url": "https://doi.org/10.1177/13872877261487596",
+        "title": "Cerebrospinal fluid surfactant protein-G in neurodegenerative dementia: A comparative study with idiopathic normal-pressure hydrocephalus",
+        "authors": [
+          "Stefania Cattaldo",
+          "Federica Scarpina",
+          "Elisa Prina",
+          "Paolo Piterà",
+          "Alessandra Milesi",
+          "Erica Sabattini",
+          "Matteo Bigoni",
+          "Corrado Azzaro",
+          "Luca Guglielmo Pradotto",
+          "Alessandro Mauro",
+          "Lorenzo Priano"
+        ],
+        "abstract": "Background                     Surfactant protein G (SP-G) is a recently characterized protein potentially involved in cerebrospinal fluid (CSF) dynamics. Its role in human neurodegenerative dementia remains unknown.                                                           Objective                     To investigate the potential clinical relevance of CSF SP-G levels in neurodegenerative dementia (ND; including Alzheimer's disease [AD] and frontotemporal dementia [FTD]), idiopathic normal-pressure hydrocephalus (iNPH), vascular dementia (VaD), and clinical controls (CTR).                                                           Methods                     CSF SP-G levels were quantified in 94 individuals: 35 with ND (11 AD + 24 FTD), 19 with iNPH, 13 with VaD, and 27 CTR. Group differences were analyzed using ANOVA with post hoc tests. ANCOVA was performed to adjust for age.                                                           Results                     CSF SP-G levels differed significantly among groups in the primary analysis (ANOVA: F(3,90) = 3.862, p = 0.012), with higher levels in iNPH compared with ND (p = 0.012) and CTR (p = 0.026). No significant differences were observed between ND, VaD, and CTR groups. After adjustment for age, the group effect was no longer significant (F(3,89) = 2.253, p = 0.088).                                                           Conclusions                     This is the first study to investigate CSF SP-G levels in neurodegenerative dementia. Our findings suggest that SP-G is more closely related to altered CSF physiology in iNPH than to neurodegenerative pathology, although the influence of age indicates that these observations should be interpreted with caution. SP-G may represent a candidate marker of CSF homeostasis and fluid dynamics. Larger, age-matched studies integrating SP-G with established CSF biomarkers and neuroimaging are needed to clarify its diagnostic and pathophysiological significance.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-10-08",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-09",
         "fetched_from": "crossref"
       },
       {
@@ -66190,6 +67571,56 @@
         "fetched_from": "crossref"
       },
       {
+        "id": "doi:10.1016/j.socscimed.2026.119874",
+        "doi": "10.1016/j.socscimed.2026.119874",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.119874",
+        "title": "Unequal returns to effort? Gender differences in health status and lifestyle",
+        "authors": [
+          "Alexia Bigorne",
+          "Sandy Tubeuf"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-08",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.socscimed.2026.119910",
+        "doi": "10.1016/j.socscimed.2026.119910",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.119910",
+        "title": "Medicines, ‘Medication Work’ and Networks of Support in the Community Following Mental Health Hospital Discharge: A Qualitative Interview Study",
+        "authors": [
+          "Mark Jeffries",
+          "Fiona Naylor",
+          "Natasha Tyler",
+          "Catherine Robinson",
+          "Maria Panagioti",
+          "Richard N. Keers"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-08",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1016/s0140-6736(26)01552-7",
         "doi": "10.1016/s0140-6736(26)01552-7",
         "url": "https://doi.org/10.1016/s0140-6736(26)01552-7",
@@ -67044,6 +68475,29 @@
         "fetched_from": "crossref"
       },
       {
+        "id": "doi:10.1016/s0140-6736(26)01366-8",
+        "doi": "10.1016/s0140-6736(26)01366-8",
+        "url": "https://doi.org/10.1016/s0140-6736(26)01366-8",
+        "title": "Migraine",
+        "authors": [
+          "Cristina Tassorelli",
+          "Shuu-Jiun Wang",
+          "Patricia Pozo-Rosich",
+          "Messoud Ashina"
+        ],
+        "abstract": "",
+        "source": "The Lancet",
+        "issn": "0140-6736",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-08",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1002/alz.71919",
         "doi": "10.1002/alz.71919",
         "url": "https://doi.org/10.1002/alz.71919",
@@ -67680,79 +69134,6 @@
           "agingHealth"
         ],
         "firstSeen": "2026-10-07",
-        "fetched_from": "crossref"
-      },
-      {
-        "id": "doi:10.1016/j.socscimed.2026.119874",
-        "doi": "10.1016/j.socscimed.2026.119874",
-        "url": "https://doi.org/10.1016/j.socscimed.2026.119874",
-        "title": "Unequal returns to effort? Gender differences in health status and lifestyle",
-        "authors": [
-          "Alexia Bigorne",
-          "Sandy Tubeuf"
-        ],
-        "abstract": "",
-        "source": "Social Science &amp; Medicine",
-        "issn": "0277-9536",
-        "date": "2026-10-01",
-        "subjects": [],
-        "domains": [
-          "healthReform",
-          "elderCare",
-          "agingHealth",
-          "socialWork"
-        ],
-        "firstSeen": "2026-10-08",
-        "fetched_from": "crossref"
-      },
-      {
-        "id": "doi:10.1016/j.socscimed.2026.119910",
-        "doi": "10.1016/j.socscimed.2026.119910",
-        "url": "https://doi.org/10.1016/j.socscimed.2026.119910",
-        "title": "Medicines, ‘Medication Work’ and Networks of Support in the Community Following Mental Health Hospital Discharge: A Qualitative Interview Study",
-        "authors": [
-          "Mark Jeffries",
-          "Fiona Naylor",
-          "Natasha Tyler",
-          "Catherine Robinson",
-          "Maria Panagioti",
-          "Richard N. Keers"
-        ],
-        "abstract": "",
-        "source": "Social Science &amp; Medicine",
-        "issn": "0277-9536",
-        "date": "2026-10-01",
-        "subjects": [],
-        "domains": [
-          "healthReform",
-          "elderCare",
-          "agingHealth",
-          "socialWork"
-        ],
-        "firstSeen": "2026-10-08",
-        "fetched_from": "crossref"
-      },
-      {
-        "id": "doi:10.1016/s0140-6736(26)01366-8",
-        "doi": "10.1016/s0140-6736(26)01366-8",
-        "url": "https://doi.org/10.1016/s0140-6736(26)01366-8",
-        "title": "Migraine",
-        "authors": [
-          "Cristina Tassorelli",
-          "Shuu-Jiun Wang",
-          "Patricia Pozo-Rosich",
-          "Messoud Ashina"
-        ],
-        "abstract": "",
-        "source": "The Lancet",
-        "issn": "0140-6736",
-        "date": "2026-10-01",
-        "subjects": [],
-        "domains": [
-          "healthReform",
-          "agingHealth"
-        ],
-        "firstSeen": "2026-10-08",
         "fetched_from": "crossref"
       },
       {
@@ -77457,6 +78838,69 @@
     ],
     "socialWork": [
       {
+        "id": "doi:10.1007/s10896-026-01177-z",
+        "doi": "10.1007/s10896-026-01177-z",
+        "url": "https://doi.org/10.1007/s10896-026-01177-z",
+        "title": "Association Between Women’s Decision-Making Authority and Perceptions of Intimate Partner Violence in Bangladesh: Evidence from Bangladesh Demographic and Health Survey (BDHS)",
+        "authors": [
+          "Muhammad Khairul Alam",
+          "Md. Mojammel Haque Sakib",
+          "Atikur Rahman",
+          "Rifat Rejuan"
+        ],
+        "abstract": "",
+        "source": "Journal of Family Violence",
+        "issn": "0885-7482",
+        "date": "2026-10-09",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-09",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/bjsw/bcag212",
+        "doi": "10.1093/bjsw/bcag212",
+        "url": "https://doi.org/10.1093/bjsw/bcag212",
+        "title": "A randomised controlled trial of a ‘checklist’ intervention to mitigate confirmation bias and improve forecasting accuracy in social work",
+        "authors": [
+          "Melissa Meindl",
+          "David Wilkins"
+        ],
+        "abstract": "Abstract                   Social workers may be particularly at risk of cognitive biases because they make judgements and decisions under uncertain conditions, involving predicting future outcomes. Given the potential consequences, evidence is needed on whether bias mitigation tools improve forecasting accuracy in social work. This study tested the impact of a checklist intervention on social workers’ forecasting accuracy (Brier scores) and confirmation bias (Wason Selection Task scores) using vignettes from real referrals. In an online survey, 88 participants responded to baseline vignettes before being randomly allocated to a control or intervention group. The intervention group completed the checklist before responding to endline vignettes and the Wason Selection Task, while the control group accessed the checklist afterwards. The intervention group’s mean Brier score decreased (0.44 to 0.41), indicating improved forecasting accuracy, while the control group’s increased (0.44 to 0.45), indicating reduced forecasting accuracy. These differences were not statistically significant. Wason Selection Task scores were similar across groups, indicating that the checklist made no difference to confirmation bias. Despite its effectiveness in other fields, a brief online checklist may not be sufficient to improve forecasting accuracy or confirmation bias in social work. Future research should explore practice-embedded or supervisory approaches in real practice settings rather than online.",
+        "source": "The British Journal of Social Work",
+        "issn": "0045-3102",
+        "date": "2026-10-08",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-09",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/bjsw/bcag229",
+        "doi": "10.1093/bjsw/bcag229",
+        "url": "https://doi.org/10.1093/bjsw/bcag229",
+        "title": "The mindfulness-based social work and self-care programme: Initial roll out and expanded findings",
+        "authors": [
+          "Alan Maddock",
+          "Talal Althobity",
+          "Karen McGuigan"
+        ],
+        "abstract": "Abstract                   Stress and burnout can have serious negative effects on individual social workers and the organizations they work for. Preliminary evaluations of the Mindfulness-Based Social Work and Self-Care (MBSWSC) programme have found that it reduces stress, burnout, depression, and anxiety and improves the mental well-being of social workers. Building on this evidence, the programme is currently being rolled out to social workers across Northern Ireland. Using an effectiveness–implementation hybrid design, this study examined the feasibility and effectiveness of the wider implementation of the MBSWSC programme among social workers (n = 77). The programme significantly reduced stress, facets of burnout, depression, and anxiety, and increased mental well-being. Reductions were also observed in difficulties in emotion regulation, repetitive negative thinking, and external and internal shame, although no significant changes were found in perspective taking, empathic concern, or depersonalization. These findings provide initial indicators of effectiveness and demonstrate sensitivity in several theoretically relevant psychological processes that may function as candidate mechanisms of change. Feasibility indicators—specifically recruitment, retention, and participant engagement—were strong, suggesting that wider delivery is promising, although broader organizational and system-level feasibility requires further investigation.",
+        "source": "The British Journal of Social Work",
+        "issn": "0045-3102",
+        "date": "2026-10-08",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-09",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1093/bjsw/bcag243",
         "doi": "10.1093/bjsw/bcag243",
         "url": "https://doi.org/10.1093/bjsw/bcag243",
@@ -81522,6 +82966,56 @@
         "fetched_from": "crossref"
       },
       {
+        "id": "doi:10.1016/j.socscimed.2026.119874",
+        "doi": "10.1016/j.socscimed.2026.119874",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.119874",
+        "title": "Unequal returns to effort? Gender differences in health status and lifestyle",
+        "authors": [
+          "Alexia Bigorne",
+          "Sandy Tubeuf"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-08",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.socscimed.2026.119910",
+        "doi": "10.1016/j.socscimed.2026.119910",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.119910",
+        "title": "Medicines, ‘Medication Work’ and Networks of Support in the Community Following Mental Health Hospital Discharge: A Qualitative Interview Study",
+        "authors": [
+          "Mark Jeffries",
+          "Fiona Naylor",
+          "Natasha Tyler",
+          "Catherine Robinson",
+          "Maria Panagioti",
+          "Richard N. Keers"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-10-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-08",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1177/10497315261452377",
         "doi": "10.1177/10497315261452377",
         "url": "https://doi.org/10.1177/10497315261452377",
@@ -82656,56 +84150,6 @@
           "socialWork"
         ],
         "firstSeen": "2026-10-06",
-        "fetched_from": "crossref"
-      },
-      {
-        "id": "doi:10.1016/j.socscimed.2026.119874",
-        "doi": "10.1016/j.socscimed.2026.119874",
-        "url": "https://doi.org/10.1016/j.socscimed.2026.119874",
-        "title": "Unequal returns to effort? Gender differences in health status and lifestyle",
-        "authors": [
-          "Alexia Bigorne",
-          "Sandy Tubeuf"
-        ],
-        "abstract": "",
-        "source": "Social Science &amp; Medicine",
-        "issn": "0277-9536",
-        "date": "2026-10-01",
-        "subjects": [],
-        "domains": [
-          "healthReform",
-          "elderCare",
-          "agingHealth",
-          "socialWork"
-        ],
-        "firstSeen": "2026-10-08",
-        "fetched_from": "crossref"
-      },
-      {
-        "id": "doi:10.1016/j.socscimed.2026.119910",
-        "doi": "10.1016/j.socscimed.2026.119910",
-        "url": "https://doi.org/10.1016/j.socscimed.2026.119910",
-        "title": "Medicines, ‘Medication Work’ and Networks of Support in the Community Following Mental Health Hospital Discharge: A Qualitative Interview Study",
-        "authors": [
-          "Mark Jeffries",
-          "Fiona Naylor",
-          "Natasha Tyler",
-          "Catherine Robinson",
-          "Maria Panagioti",
-          "Richard N. Keers"
-        ],
-        "abstract": "",
-        "source": "Social Science &amp; Medicine",
-        "issn": "0277-9536",
-        "date": "2026-10-01",
-        "subjects": [],
-        "domains": [
-          "healthReform",
-          "elderCare",
-          "agingHealth",
-          "socialWork"
-        ],
-        "firstSeen": "2026-10-08",
         "fetched_from": "crossref"
       },
       {
@@ -84491,10 +85935,10 @@
   },
   "totals": {
     "socialSecurity": 1570,
-    "elderCare": 505,
-    "healthReform": 847,
-    "agingHealth": 722,
-    "socialWork": 311
+    "elderCare": 519,
+    "healthReform": 859,
+    "agingHealth": 751,
+    "socialWork": 314
   },
   "feeds_ok": 41
 }
