@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-09",
-  "fetched": "2026-10-09T07:38:04+00:00",
+  "date": "2026-10-10",
+  "fetched": "2026-10-10T07:24:33+00:00",
   "domains": {
     "socialSecurity": [
       {
@@ -24269,6 +24269,284 @@
         "fetched_from": "crossref"
       },
       {
+        "id": "doi:10.1093/gerona/glag247",
+        "doi": "10.1093/gerona/glag247",
+        "url": "https://doi.org/10.1093/gerona/glag247",
+        "title": "Intrinsic Capacity in a Nationally Representative US Population",
+        "authors": [
+          "Stephanie Denise M Sison",
+          "Lan Luo",
+          "Sunyoung Kim",
+          "Kevin Pritchard",
+          "Dae Hyun Kim",
+          "Sandra Shi"
+        ],
+        "abstract": "Abstract                                        Background                     Intrinsic capacity (IC) is defined by the World Health Organization as the sum of an individual’s physical and mental abilities that support health and well-being. While well validated internationally, it has not been operationalized and validated in a nationally representative US cohort.                                                           Methods                     Using data from 5,834 community-dwelling older adults from Round 12 (2022) of the National Health and Aging Trends Study (NHATS) survey, we identified measures related to IC domains (cognition, locomotion, vitality, psychological, sensory). We performed exploratory factor analysis (EFA), omega hierarchical reliability testing, and confirmatory factor analysis (CFA) using bi-factor and second-order structures. We also constructed the Integrated Care for Older People (ICOPE) screening tool. Descriptive statistics and regression models were used to examine the associations of IC and ICOPE scores with demographic and health characteristics. Age- and sex-specific reference centile curves were developed using empirical percentiles.                                                           Results                     EFA consistently supported a six-factor structure (vision and hearing were separate). Omega hierarchical analysis supported a strong general factor (ω = 0.92; ωₕ=0.72), and the bi-factor model demonstrated excellent fit. IC and ICOPE scores showed strong correlation (r = 0.71). Higher IC scores were associated with younger age, higher level of education, and income. Prevalence of comorbidities, frailty, ADL and IADL disability increased from the highest to the lowest IC and ICOPE quartiles. Reference centile curves demonstrated progressive age-related decline, with females showing lower IC scores than males.                                                           Conclusion                     We demonstrate IC operationalization in a nationally representative U.S. cohort and provide the first US-specific reference centile curves. The findings provide a foundation for future IC research in the US.",
+        "source": "The Journals of Gerontology, Series A: Biological Sciences and Medical Sciences",
+        "issn": "1079-5006",
+        "date": "2026-10-09",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "elderCare"
+        ],
+        "firstSeen": "2026-10-10",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70779",
+        "doi": "10.1111/jgs.70779",
+        "url": "https://doi.org/10.1111/jgs.70779",
+        "title": "Variation in High Value Care for Low Back Pain Among Older Adults Enrolled in Medicare Advantage Plans",
+        "authors": [
+          "Amit Kumar",
+          "Daniel Deutscher",
+          "Lin‐Na Chou",
+          "Julie M. Fritz"
+        ],
+        "abstract": "ABSTRACT                                        Importance                     Low back pain (LBP) is a major cause of disability and poor quality of life among older adults. Clinical guidelines recommend non‐pharmacological therapies, such as physical therapy (PT), as the first‐line treatment for high‐value care. Despite the fact that more than half of Medicare beneficiaries are enrolled in Medicare Advantage (MA), there is no knowledge about the patterns of high‐value LBP care within this population.                                                           Objective                     To characterize high‐ and low‐value LBP care among MA beneficiaries and identify factors associated with receipt of high‐value care.                                                           Method                     We conducted a retrospective cohort study using a 20% random sample of 2021 MA outpatient and carrier encounter data. Beneficiaries aged ≥ 66 years with a new LBP diagnosis between April 1 and September 30, 2021, were followed for 90 days. The study outcomes include high‐ and low‐value care, defined by the timing and receipt of physical therapy, imaging, and spinal injections.                                                           Results                     Among 181,980 beneficiaries with newly diagnosed LBP, 87,305 received additional care within 90 days. Of these, 21.6% received high‐value care and 78.4% received low‐value care. Imaging without PT was the most common low‐value care pattern, whereas PT alone was the most common high‐value care pattern. Older age, Hispanic ethnicity, multiple comorbidities, lower MA plan ratings, and index visits with surgeons or pain specialists were associated with lower odds of receiving high‐value care. County‐level variation was observed, with rural residence and greater neighborhood socioeconomic deprivation associated with lower receipt of high‐value care.                                                           Conclusions                     Most older adults enrolled in MA plans with LBP did not receive guideline‐concordant, high‐value care. Geographic and socioeconomic disparities highlight opportunities to improve equitable access to evidence‐based LBP management in older adults enrolled in MA plans.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-10-09",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-10",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70739",
+        "doi": "10.1111/jgs.70739",
+        "url": "https://doi.org/10.1111/jgs.70739",
+        "title": "Trends in Dispensing of Opioids and Benzodiazepines Among Older Adults Admitted for an Acute Hip Fracture Between 2008 and 2024 in Ontario, Canada",
+        "authors": [
+          "Anum Ali",
+          "Mina Tadrous",
+          "Chizaram Eje",
+          "Laleh Rashidian",
+          "Arrani Senthinathan",
+          "Cherry Chu",
+          "Kerry Kuluski",
+          "Sara J. T. Guilcher"
+        ],
+        "abstract": "ABSTRACT                                        Introduction                     Opioids and benzodiazepines (BZDs) are commonly prescribed for managing pain, anxiety, and sleep‐related problems following a hip fracture. Both opioids and BZDs carry risks of persistent dependence, falls, and mortality with long‐term use. Despite these risks, Canada lacks standardized prescribing guidelines for older adults with hip fracture. We examined population‐level trends in opioids and BZDs dispensing before hospitalization and up to 1‐year post‐discharge among older adults admitted for hip fractures in Ontario, Canada.                                                           Methods                     We conducted a retrospective cohort study using linked health administrative data from ICES, Ontario, Canada. The cohort included individuals aged 66 years and older, residing in Ontario, admitted for an acute hip fracture between April 1, 2008, and March 31, 2024, and who survived for at least 275 days in the following year. Our primary outcome was post‐discharge opioids and BZDs dispensed, defined as ≥ 1 prescription dispensed within 1–365 days following discharge. Secondary outcomes included pre‐hospitalization dispensing, concurrent dispensing, and morphine equivalent dose.                                                           Results                     A total of 114,055 eligible older adults were admitted with hip fractures between 2008 and 2024. Overall, BZDs dispensing declined from 33.7% in 2008 to 13.3% in 2024, while opioids dispensing peaked in 2015 at 55.8% and decreased to 44.6% in 2024. Hydromorphone and combination drug therapy were the most frequently dispensed opioid drug classes during pre‐hospitalization and post‐discharge periods following a hip fracture. Concurrent opioids and BZDs dispensed following a hip fracture decreased from 3.7% in 2008 to 1% in 2024. Among individuals with 90 days of continuous opioid dispensed, most received &lt; 50 mg average daily morphine equivalents.                                                           Conclusion                     We observed a substantial reduction in BZDs dispensing. However, opioids dispensing remained consistently high. These findings underscore the need for future research on initiatives to reduce opioids use in post‐fracture care, while recognizing that opioids remain an effective pain control drug.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-10-09",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-10",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70708",
+        "doi": "10.1111/jgs.70708",
+        "url": "https://doi.org/10.1111/jgs.70708",
+        "title": "Opioid Use Is Associated With Lower Health‐Related Quality of Life Among Community‐Dwelling Older Australians: A Cross‐Sectional Study From\n                    <scp>STAREE</scp>",
+        "authors": [
+          "Caroline Turlejski",
+          "Brayden Ng Gibson",
+          "Harvey Jia Wei Koh",
+          "Kendal Chidwick",
+          "Danijela Gasevic",
+          "Chris Moran",
+          "Ingrid Hopper",
+          "Mark R. Nelson",
+          "Christopher M. Reid",
+          "Andrea J. Curtis",
+          "Simone Spark",
+          "Zachary Flanagan",
+          "Rory Wolfe",
+          "Sophia Zoungas",
+          "Stella Talic"
+        ],
+        "abstract": "ABSTRACT                                        Background                     Prescribed opioid use among older adults may have a reciprocal negative association with health‐related quality of life (HrQoL), yet evidence on this relationship remains limited. This study evaluated the association between prescription opioid use and HrQoL in community‐dwelling older adults.                                                           Methods                     We conducted a secondary cross‐sectional analysis of baseline STAtins in Reducing Events in Elderly (STAREE) trial data, assessing the association between self‐reported prescribed opioid use and HrQoL, via the 36‐item Short Form Survey. Multivariable linear regression models assessed the association, with progressive adjustment for sociodemographic (Models 1 and 2), clinical (Model 3), and psychosocial factors (Model 4). Propensity score matching (PSM) was conducted to assess the robustness of the association.                                                           Findings                                            The cohort included 479 opioid users and 9492 non‐opioid users. users. In unadjusted analyses, opioid users had substantially lower mean HrQoL scores than non‐users (                       β                        = −14.30; 95% CI: −15.59, −13.02). Adjustment for confounders attenuated the association, but it remained statistically significant in the fully adjusted model (                       β                        = −7.58; 95% CI: −8.80, −6.35). Lower scores among opioid users were observed across all HrQoL domains (Physical Functioning, Social Functioning, Role Limitations, Vitality, Bodily Pain, General Health and Mental Health), with the largest differences in physical functioning (approximately 20–25 points lower).                                                                                Conclusion                     Opioid use is associated with significantly poorer HrQoL in community‐dwelling older adults, highlighting the importance of routinely assessing quality of life, functional status, and psychosocial factors among persons who use opioids.                                                           Trial Registration                     This study was approved by Monash Human Research Ethics Committee (ID: 21528)",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-10-09",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-10",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08419-1",
+        "doi": "10.1186/s12877-026-08419-1",
+        "url": "https://doi.org/10.1186/s12877-026-08419-1",
+        "title": "Where is the andragogy, geragogy, and heutagogy literature headed? a multidimensional text-mining analysis of adult and older adult education research",
+        "authors": [
+          "Ahmet Bozak",
+          "Abdulkadir Özkaya",
+          "Eray Selçuk",
+          "Tuncer Fidan",
+          "Ahmet Şahin"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-09",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-10",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08365-y",
+        "doi": "10.1186/s12877-026-08365-y",
+        "url": "https://doi.org/10.1186/s12877-026-08365-y",
+        "title": "The association between longitudinal social stress trajectories and all–cause mortality among older adults in China: a prospective cohort study",
+        "authors": [
+          "Yujing He",
+          "Jilong Huang",
+          "Chenchen Jia",
+          "Yiqi Li",
+          "Zhenyu Pan",
+          "Jin Yang",
+          "Shuan Rao"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-09",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-10",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08371-0",
+        "doi": "10.1186/s12877-026-08371-0",
+        "url": "https://doi.org/10.1186/s12877-026-08371-0",
+        "title": "Associated factors for dysphagia in Alzheimer’s patients: a retrospective nationwide inpatient database study",
+        "authors": [
+          "Qiongmei Chen",
+          "Haiwan Wu",
+          "Anyi Huang",
+          "Mengshu Xie",
+          "Yilong Shan",
+          "Meng Dai",
+          "Qiuping Ye",
+          "Zulin Dou",
+          "Hongmei Wen",
+          "Chao Li"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-09",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-10",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08382-x",
+        "doi": "10.1186/s12877-026-08382-x",
+        "url": "https://doi.org/10.1186/s12877-026-08382-x",
+        "title": "Development and validation of a nomogram to screen for oral frailty in older adults with dental implants",
+        "authors": [
+          "Hui Wang",
+          "Yu fan Cao",
+          "Jian Chen",
+          "Juan Chen",
+          "Hantang Sun",
+          "Weiyan Ge"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-09",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-10",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08462-y",
+        "doi": "10.1186/s12877-026-08462-y",
+        "url": "https://doi.org/10.1186/s12877-026-08462-y",
+        "title": "The relationship between medication knowledge and attitudes towards deprescribing among Chinese older patients with multimorbidity : a cross-sectional study",
+        "authors": [
+          "Shilong Zhang",
+          "Haipeng Wang"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-09",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-10",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08366-x",
+        "doi": "10.1186/s12877-026-08366-x",
+        "url": "https://doi.org/10.1186/s12877-026-08366-x",
+        "title": "Older adult emergency department visits due to self-harm before, during, and after the COVID-19 pandemic in South Korea: a 7-year retrospective study",
+        "authors": [
+          "Kwang Yul Jung"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-09",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-10",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08440-4",
+        "doi": "10.1186/s12877-026-08440-4",
+        "url": "https://doi.org/10.1186/s12877-026-08440-4",
+        "title": "Development and external validation of a model for predicting family resilience 6 months after stroke in older adults: a prospective cohort study",
+        "authors": [
+          "Chen Zhu",
+          "Xilin Zhang",
+          "Feiyang Sun",
+          "Jingyang Mu",
+          "Jinhua Zhang"
+        ],
+        "abstract": "Abstract                                        Background                     After stroke, families take long-term responsibility for rehabilitation and care, and family resilience is an important measure of family adaptation. Predicting later family resilience from information collected early during hospitalization may help assess family support needs and plan follow-up care. This study aimed to develop and conduct a preliminary external validation of a model for predicting family resilience 6 months after stroke in older adults.                                                           Methods                     We used a prospective two-cohort design. The development and independent external validation analyses included 310 and 102 older adults with stroke, respectively. Data were collected at baseline (T0), 1 month (T1), and 6 months after stroke (T2). Using 23 candidate predictors measured early during hospitalization (T0), we developed a least absolute shrinkage and selection operator (LASSO) linear regression model to predict the continuous score on the shortened Chinese version of the Family Resilience Assessment Scale (FRAS-C) at 6 months (T2). The model was internally validated using repeated nested 10-fold cross-validation and bootstrap resampling, and the final model was applied directly to the independent external cohort. Performance was assessed using the coefficient of determination (R²), root mean square error (RMSE), and calibration measures and compared with the baseline FRAS-C-only model.                                                           Results                     The final model included five predictors: baseline family resilience, self-care ability, social support, caregiver sex, and caregiver burden. In repeated nested cross-validation, the model yielded an R² of 0.555 (95% CI 0.499–0.603) and an RMSE of 2.959. In the external validation cohort, the R² was 0.409 (95% CI 0.269–0.508), the RMSE was 3.516, and the calibration slope was 1.165 (95% CI 0.897–1.429). Compared with the baseline FRAS-C-only model, the full model increased R² by 0.238 and reduced RMSE by 0.649 points in external validation.                                                           Conclusion                     The model, which included baseline family resilience, patient functional status, and family caregiving characteristics, predicted family resilience at 6 months and added predictive information beyond baseline family resilience alone. It retained predictive performance in the independent external cohort and may be used to support family assessment early during hospitalization and follow-up planning after discharge.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-09",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-10",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1186/s12877-026-08383-w",
         "doi": "10.1186/s12877-026-08383-w",
         "url": "https://doi.org/10.1186/s12877-026-08383-w",
@@ -37319,6 +37597,223 @@
           "healthReform"
         ],
         "firstSeen": "2026-09-26",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.20514",
+        "doi": "10.1001/jama.2026.20514",
+        "url": "https://doi.org/10.1001/jama.2026.20514",
+        "title": "Unapproved GLP-1 Drugs Retatrutide and Zenagamtide Sold Online Are No Bargain",
+        "authors": [
+          "Rita Rubin"
+        ],
+        "abstract": "This Medical News article discusses the reasons behind the burgeoning black market for 2 unapproved GLP-1 weight loss drugs and the potential risks associated with their use.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-09",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-10",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.20713",
+        "doi": "10.1001/jama.2026.20713",
+        "url": "https://doi.org/10.1001/jama.2026.20713",
+        "title": "Adults Are Using Cannabis Far More Frequently—What Are the Risks?",
+        "authors": [
+          "Samantha Anderer"
+        ],
+        "abstract": "This Medical News article discusses the increase in routine cannabis use among younger adults, which corresponds with a decrease in regular alcohol use.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-09",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-10",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.20017",
+        "doi": "10.1001/jama.2026.20017",
+        "url": "https://doi.org/10.1001/jama.2026.20017",
+        "title": "BORG Trend May Promote Alcohol-Related Harms Among College Students",
+        "authors": [
+          "Samantha Anderer"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-09",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-10",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.20016",
+        "doi": "10.1001/jama.2026.20016",
+        "url": "https://doi.org/10.1001/jama.2026.20016",
+        "title": "Population Living With HIV Projected to Age in Coming Years",
+        "authors": [
+          "Samantha Anderer"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-09",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-10",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.20018",
+        "doi": "10.1001/jama.2026.20018",
+        "url": "https://doi.org/10.1001/jama.2026.20018",
+        "title": "Disadvantaged Neighborhoods Associated With Poorer Brain Health",
+        "authors": [
+          "Samantha Anderer"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-09",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-10",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.20013",
+        "doi": "10.1001/jama.2026.20013",
+        "url": "https://doi.org/10.1001/jama.2026.20013",
+        "title": "FDA Authorizes First Continuous Ketone Monitor for Diabetes",
+        "authors": [
+          "Samantha Anderer"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-09",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-10",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.20014",
+        "doi": "10.1001/jama.2026.20014",
+        "url": "https://doi.org/10.1001/jama.2026.20014",
+        "title": "Whole Grain Intake Tied to Lower Cardiovascular Disease Risk Factors",
+        "authors": [
+          "Samantha Anderer"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-09",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-10",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.20015",
+        "doi": "10.1001/jama.2026.20015",
+        "url": "https://doi.org/10.1001/jama.2026.20015",
+        "title": "New Tool Kit Outlines Hormonal Options for Perimenopause",
+        "authors": [
+          "Samantha Anderer"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-09",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-10",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2025.16089",
+        "doi": "10.1001/jama.2025.16089",
+        "url": "https://doi.org/10.1001/jama.2025.16089",
+        "title": "JAMA Editors' Summary Podcast",
+        "authors": [],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-09",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-10",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1007/s40273-026-01673-6",
+        "doi": "10.1007/s40273-026-01673-6",
+        "url": "https://doi.org/10.1007/s40273-026-01673-6",
+        "title": "Methodological Challenges and Preferred Approaches for the Economic Evaluation of CAR T Therapies: Evidence Review and Expert Consensus from NICE Appraisals",
+        "authors": [
+          "Mehdi Yousefi",
+          "Amin Mehrabian",
+          "Maeve A. O’Reilly",
+          "Claire Roddie",
+          "Peter Auguste",
+          "Dawn Lee",
+          "Jo Parsons",
+          "Daniel Gallacher"
+        ],
+        "abstract": "",
+        "source": "PharmacoEconomics",
+        "issn": "1170-7690",
+        "date": "2026-10-09",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-10",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1007/s40273-026-01668-3",
+        "doi": "10.1007/s40273-026-01668-3",
+        "url": "https://doi.org/10.1007/s40273-026-01668-3",
+        "title": "Waiting for Trial Evidence or Using Real-World Evidence: Trade-Offs for Coverage with Evidence Development",
+        "authors": [
+          "Boshen Jiao",
+          "Yizhi Liang",
+          "Liyuan Tao",
+          "Zafar Zafari"
+        ],
+        "abstract": "",
+        "source": "PharmacoEconomics",
+        "issn": "1170-7690",
+        "date": "2026-10-09",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-10",
         "fetched_from": "crossref"
       },
       {
@@ -60076,6 +60571,517 @@
         "fetched_from": "crossref"
       },
       {
+        "id": "doi:10.1093/gerona/glag247",
+        "doi": "10.1093/gerona/glag247",
+        "url": "https://doi.org/10.1093/gerona/glag247",
+        "title": "Intrinsic Capacity in a Nationally Representative US Population",
+        "authors": [
+          "Stephanie Denise M Sison",
+          "Lan Luo",
+          "Sunyoung Kim",
+          "Kevin Pritchard",
+          "Dae Hyun Kim",
+          "Sandra Shi"
+        ],
+        "abstract": "Abstract                                        Background                     Intrinsic capacity (IC) is defined by the World Health Organization as the sum of an individual’s physical and mental abilities that support health and well-being. While well validated internationally, it has not been operationalized and validated in a nationally representative US cohort.                                                           Methods                     Using data from 5,834 community-dwelling older adults from Round 12 (2022) of the National Health and Aging Trends Study (NHATS) survey, we identified measures related to IC domains (cognition, locomotion, vitality, psychological, sensory). We performed exploratory factor analysis (EFA), omega hierarchical reliability testing, and confirmatory factor analysis (CFA) using bi-factor and second-order structures. We also constructed the Integrated Care for Older People (ICOPE) screening tool. Descriptive statistics and regression models were used to examine the associations of IC and ICOPE scores with demographic and health characteristics. Age- and sex-specific reference centile curves were developed using empirical percentiles.                                                           Results                     EFA consistently supported a six-factor structure (vision and hearing were separate). Omega hierarchical analysis supported a strong general factor (ω = 0.92; ωₕ=0.72), and the bi-factor model demonstrated excellent fit. IC and ICOPE scores showed strong correlation (r = 0.71). Higher IC scores were associated with younger age, higher level of education, and income. Prevalence of comorbidities, frailty, ADL and IADL disability increased from the highest to the lowest IC and ICOPE quartiles. Reference centile curves demonstrated progressive age-related decline, with females showing lower IC scores than males.                                                           Conclusion                     We demonstrate IC operationalization in a nationally representative U.S. cohort and provide the first US-specific reference centile curves. The findings provide a foundation for future IC research in the US.",
+        "source": "The Journals of Gerontology, Series A: Biological Sciences and Medical Sciences",
+        "issn": "1079-5006",
+        "date": "2026-10-09",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "elderCare"
+        ],
+        "firstSeen": "2026-10-10",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70779",
+        "doi": "10.1111/jgs.70779",
+        "url": "https://doi.org/10.1111/jgs.70779",
+        "title": "Variation in High Value Care for Low Back Pain Among Older Adults Enrolled in Medicare Advantage Plans",
+        "authors": [
+          "Amit Kumar",
+          "Daniel Deutscher",
+          "Lin‐Na Chou",
+          "Julie M. Fritz"
+        ],
+        "abstract": "ABSTRACT                                        Importance                     Low back pain (LBP) is a major cause of disability and poor quality of life among older adults. Clinical guidelines recommend non‐pharmacological therapies, such as physical therapy (PT), as the first‐line treatment for high‐value care. Despite the fact that more than half of Medicare beneficiaries are enrolled in Medicare Advantage (MA), there is no knowledge about the patterns of high‐value LBP care within this population.                                                           Objective                     To characterize high‐ and low‐value LBP care among MA beneficiaries and identify factors associated with receipt of high‐value care.                                                           Method                     We conducted a retrospective cohort study using a 20% random sample of 2021 MA outpatient and carrier encounter data. Beneficiaries aged ≥ 66 years with a new LBP diagnosis between April 1 and September 30, 2021, were followed for 90 days. The study outcomes include high‐ and low‐value care, defined by the timing and receipt of physical therapy, imaging, and spinal injections.                                                           Results                     Among 181,980 beneficiaries with newly diagnosed LBP, 87,305 received additional care within 90 days. Of these, 21.6% received high‐value care and 78.4% received low‐value care. Imaging without PT was the most common low‐value care pattern, whereas PT alone was the most common high‐value care pattern. Older age, Hispanic ethnicity, multiple comorbidities, lower MA plan ratings, and index visits with surgeons or pain specialists were associated with lower odds of receiving high‐value care. County‐level variation was observed, with rural residence and greater neighborhood socioeconomic deprivation associated with lower receipt of high‐value care.                                                           Conclusions                     Most older adults enrolled in MA plans with LBP did not receive guideline‐concordant, high‐value care. Geographic and socioeconomic disparities highlight opportunities to improve equitable access to evidence‐based LBP management in older adults enrolled in MA plans.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-10-09",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-10",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70739",
+        "doi": "10.1111/jgs.70739",
+        "url": "https://doi.org/10.1111/jgs.70739",
+        "title": "Trends in Dispensing of Opioids and Benzodiazepines Among Older Adults Admitted for an Acute Hip Fracture Between 2008 and 2024 in Ontario, Canada",
+        "authors": [
+          "Anum Ali",
+          "Mina Tadrous",
+          "Chizaram Eje",
+          "Laleh Rashidian",
+          "Arrani Senthinathan",
+          "Cherry Chu",
+          "Kerry Kuluski",
+          "Sara J. T. Guilcher"
+        ],
+        "abstract": "ABSTRACT                                        Introduction                     Opioids and benzodiazepines (BZDs) are commonly prescribed for managing pain, anxiety, and sleep‐related problems following a hip fracture. Both opioids and BZDs carry risks of persistent dependence, falls, and mortality with long‐term use. Despite these risks, Canada lacks standardized prescribing guidelines for older adults with hip fracture. We examined population‐level trends in opioids and BZDs dispensing before hospitalization and up to 1‐year post‐discharge among older adults admitted for hip fractures in Ontario, Canada.                                                           Methods                     We conducted a retrospective cohort study using linked health administrative data from ICES, Ontario, Canada. The cohort included individuals aged 66 years and older, residing in Ontario, admitted for an acute hip fracture between April 1, 2008, and March 31, 2024, and who survived for at least 275 days in the following year. Our primary outcome was post‐discharge opioids and BZDs dispensed, defined as ≥ 1 prescription dispensed within 1–365 days following discharge. Secondary outcomes included pre‐hospitalization dispensing, concurrent dispensing, and morphine equivalent dose.                                                           Results                     A total of 114,055 eligible older adults were admitted with hip fractures between 2008 and 2024. Overall, BZDs dispensing declined from 33.7% in 2008 to 13.3% in 2024, while opioids dispensing peaked in 2015 at 55.8% and decreased to 44.6% in 2024. Hydromorphone and combination drug therapy were the most frequently dispensed opioid drug classes during pre‐hospitalization and post‐discharge periods following a hip fracture. Concurrent opioids and BZDs dispensed following a hip fracture decreased from 3.7% in 2008 to 1% in 2024. Among individuals with 90 days of continuous opioid dispensed, most received &lt; 50 mg average daily morphine equivalents.                                                           Conclusion                     We observed a substantial reduction in BZDs dispensing. However, opioids dispensing remained consistently high. These findings underscore the need for future research on initiatives to reduce opioids use in post‐fracture care, while recognizing that opioids remain an effective pain control drug.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-10-09",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-10",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70708",
+        "doi": "10.1111/jgs.70708",
+        "url": "https://doi.org/10.1111/jgs.70708",
+        "title": "Opioid Use Is Associated With Lower Health‐Related Quality of Life Among Community‐Dwelling Older Australians: A Cross‐Sectional Study From\n                    <scp>STAREE</scp>",
+        "authors": [
+          "Caroline Turlejski",
+          "Brayden Ng Gibson",
+          "Harvey Jia Wei Koh",
+          "Kendal Chidwick",
+          "Danijela Gasevic",
+          "Chris Moran",
+          "Ingrid Hopper",
+          "Mark R. Nelson",
+          "Christopher M. Reid",
+          "Andrea J. Curtis",
+          "Simone Spark",
+          "Zachary Flanagan",
+          "Rory Wolfe",
+          "Sophia Zoungas",
+          "Stella Talic"
+        ],
+        "abstract": "ABSTRACT                                        Background                     Prescribed opioid use among older adults may have a reciprocal negative association with health‐related quality of life (HrQoL), yet evidence on this relationship remains limited. This study evaluated the association between prescription opioid use and HrQoL in community‐dwelling older adults.                                                           Methods                     We conducted a secondary cross‐sectional analysis of baseline STAtins in Reducing Events in Elderly (STAREE) trial data, assessing the association between self‐reported prescribed opioid use and HrQoL, via the 36‐item Short Form Survey. Multivariable linear regression models assessed the association, with progressive adjustment for sociodemographic (Models 1 and 2), clinical (Model 3), and psychosocial factors (Model 4). Propensity score matching (PSM) was conducted to assess the robustness of the association.                                                           Findings                                            The cohort included 479 opioid users and 9492 non‐opioid users. users. In unadjusted analyses, opioid users had substantially lower mean HrQoL scores than non‐users (                       β                        = −14.30; 95% CI: −15.59, −13.02). Adjustment for confounders attenuated the association, but it remained statistically significant in the fully adjusted model (                       β                        = −7.58; 95% CI: −8.80, −6.35). Lower scores among opioid users were observed across all HrQoL domains (Physical Functioning, Social Functioning, Role Limitations, Vitality, Bodily Pain, General Health and Mental Health), with the largest differences in physical functioning (approximately 20–25 points lower).                                                                                Conclusion                     Opioid use is associated with significantly poorer HrQoL in community‐dwelling older adults, highlighting the importance of routinely assessing quality of life, functional status, and psychosocial factors among persons who use opioids.                                                           Trial Registration                     This study was approved by Monash Human Research Ethics Committee (ID: 21528)",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-10-09",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-10",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08419-1",
+        "doi": "10.1186/s12877-026-08419-1",
+        "url": "https://doi.org/10.1186/s12877-026-08419-1",
+        "title": "Where is the andragogy, geragogy, and heutagogy literature headed? a multidimensional text-mining analysis of adult and older adult education research",
+        "authors": [
+          "Ahmet Bozak",
+          "Abdulkadir Özkaya",
+          "Eray Selçuk",
+          "Tuncer Fidan",
+          "Ahmet Şahin"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-09",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-10",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08365-y",
+        "doi": "10.1186/s12877-026-08365-y",
+        "url": "https://doi.org/10.1186/s12877-026-08365-y",
+        "title": "The association between longitudinal social stress trajectories and all–cause mortality among older adults in China: a prospective cohort study",
+        "authors": [
+          "Yujing He",
+          "Jilong Huang",
+          "Chenchen Jia",
+          "Yiqi Li",
+          "Zhenyu Pan",
+          "Jin Yang",
+          "Shuan Rao"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-09",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-10",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08371-0",
+        "doi": "10.1186/s12877-026-08371-0",
+        "url": "https://doi.org/10.1186/s12877-026-08371-0",
+        "title": "Associated factors for dysphagia in Alzheimer’s patients: a retrospective nationwide inpatient database study",
+        "authors": [
+          "Qiongmei Chen",
+          "Haiwan Wu",
+          "Anyi Huang",
+          "Mengshu Xie",
+          "Yilong Shan",
+          "Meng Dai",
+          "Qiuping Ye",
+          "Zulin Dou",
+          "Hongmei Wen",
+          "Chao Li"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-09",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-10",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08382-x",
+        "doi": "10.1186/s12877-026-08382-x",
+        "url": "https://doi.org/10.1186/s12877-026-08382-x",
+        "title": "Development and validation of a nomogram to screen for oral frailty in older adults with dental implants",
+        "authors": [
+          "Hui Wang",
+          "Yu fan Cao",
+          "Jian Chen",
+          "Juan Chen",
+          "Hantang Sun",
+          "Weiyan Ge"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-09",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-10",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08462-y",
+        "doi": "10.1186/s12877-026-08462-y",
+        "url": "https://doi.org/10.1186/s12877-026-08462-y",
+        "title": "The relationship between medication knowledge and attitudes towards deprescribing among Chinese older patients with multimorbidity : a cross-sectional study",
+        "authors": [
+          "Shilong Zhang",
+          "Haipeng Wang"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-09",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-10",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08366-x",
+        "doi": "10.1186/s12877-026-08366-x",
+        "url": "https://doi.org/10.1186/s12877-026-08366-x",
+        "title": "Older adult emergency department visits due to self-harm before, during, and after the COVID-19 pandemic in South Korea: a 7-year retrospective study",
+        "authors": [
+          "Kwang Yul Jung"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-09",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-10",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08440-4",
+        "doi": "10.1186/s12877-026-08440-4",
+        "url": "https://doi.org/10.1186/s12877-026-08440-4",
+        "title": "Development and external validation of a model for predicting family resilience 6 months after stroke in older adults: a prospective cohort study",
+        "authors": [
+          "Chen Zhu",
+          "Xilin Zhang",
+          "Feiyang Sun",
+          "Jingyang Mu",
+          "Jinhua Zhang"
+        ],
+        "abstract": "Abstract                                        Background                     After stroke, families take long-term responsibility for rehabilitation and care, and family resilience is an important measure of family adaptation. Predicting later family resilience from information collected early during hospitalization may help assess family support needs and plan follow-up care. This study aimed to develop and conduct a preliminary external validation of a model for predicting family resilience 6 months after stroke in older adults.                                                           Methods                     We used a prospective two-cohort design. The development and independent external validation analyses included 310 and 102 older adults with stroke, respectively. Data were collected at baseline (T0), 1 month (T1), and 6 months after stroke (T2). Using 23 candidate predictors measured early during hospitalization (T0), we developed a least absolute shrinkage and selection operator (LASSO) linear regression model to predict the continuous score on the shortened Chinese version of the Family Resilience Assessment Scale (FRAS-C) at 6 months (T2). The model was internally validated using repeated nested 10-fold cross-validation and bootstrap resampling, and the final model was applied directly to the independent external cohort. Performance was assessed using the coefficient of determination (R²), root mean square error (RMSE), and calibration measures and compared with the baseline FRAS-C-only model.                                                           Results                     The final model included five predictors: baseline family resilience, self-care ability, social support, caregiver sex, and caregiver burden. In repeated nested cross-validation, the model yielded an R² of 0.555 (95% CI 0.499–0.603) and an RMSE of 2.959. In the external validation cohort, the R² was 0.409 (95% CI 0.269–0.508), the RMSE was 3.516, and the calibration slope was 1.165 (95% CI 0.897–1.429). Compared with the baseline FRAS-C-only model, the full model increased R² by 0.238 and reduced RMSE by 0.649 points in external validation.                                                           Conclusion                     The model, which included baseline family resilience, patient functional status, and family caregiving characteristics, predicted family resilience at 6 months and added predictive information beyond baseline family resilience alone. It retained predictive performance in the independent external cohort and may be used to support family assessment early during hospitalization and follow-up planning after discharge.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-09",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-10",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261496550",
+        "doi": "10.1177/13872877261496550",
+        "url": "https://doi.org/10.1177/13872877261496550",
+        "title": "The Alzheimer's Association 2024 diagnostic criteria: Generalizability of supporting autopsy evidence",
+        "authors": [
+          "Gayatri Devi"
+        ],
+        "abstract": "The Alzheimer's Association 2024 (AA-2024) diagnostic criteria permit a biological diagnosis of Alzheimer's disease based on a positive amyloid biomarker alone. This commentary examines the three autopsy analyses underpinning that framework, focusing on their implications for generalizability. The supporting cohorts were enriched for Alzheimer's disease pathology and derived from selected brain-bank populations whose demographic and clinical characteristics differ from the community-dwelling older adults increasingly undergoing biomarker testing. Independent studies have also produced differing estimates of concurrent tau pathology among amyloid-positive asymptomatic individuals. These observations support further validation of biologic diagnostic criteria in representative aging cohorts before widespread application in routine clinical practice.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-10-09",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-10",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261495936",
+        "doi": "10.1177/13872877261495936",
+        "url": "https://doi.org/10.1177/13872877261495936",
+        "title": "Beyond the cerebrospinal fluid: Preclinical and clinical evidence on central nervous system penetration and functional activity of oral rapamycin (sirolimus)",
+        "authors": [
+          "Jeffrey M. Melin",
+          "Nancy A. Young",
+          "Joseph Camardo"
+        ],
+        "abstract": "Rapamycin, a potent mTORC1 inhibitor, is a leading candidate for treating age-related neurodegenerative disease. Numerous studies demonstrate beneficial effects in a variety of diseases that affect the brain. Yet a persistent belief among researchers is that rapamycin cannot penetrate brain tissue, citing as evidence its absence of detection in cerebrospinal fluid (CSF). This narrative review synthesizes clinical and preclinical evidence challenging this “CSF misconception.” In humans, direct tissue sampling in glioblastoma detects rapamycin in brain at mTORC1-inhibitory concentrations, while functional measures—tumor regression and seizure control in tuberous sclerosis complex, cerebral metabolic preservation on PET in Alzheimer's disease, increased cerebral blood flow in                     APOE4                     carriers, and prolonged antidepressant response—demonstrate incontrovertible activity in the brain. In mice, LC-MS/MS confirms dose-dependent brain accumulation, and rapamycin modulates mTORC1 signaling, autophagy, and synaptic, epigenetic, and inflammatory pathways. Rapamycin cannot be reliably detected in CSF because of four pharmacological factors—high lipophilicity with parenchymal sequestration, extreme red-cell and protein binding, P-glycoprotein efflux at the blood-CSF barrier, and assay insensitivity—none of which supports the contention that rapamycin fails to enter brain tissue. We flag the field's central gap: direct measurement of parent drug in intact human brain parenchyma at therapeutic doses is lacking. CSF concentration is a flawed proxy for rapamycin's CNS penetration. Alzheimer's disease and related dementias (ADRD) trials should instead track surrogate markers of mTORC1 inhibition, functional neuroimaging, clinical outcomes, and ADRD fluid biomarkers. These pharmacodynamics measurements are essential to the rational design and interpretation of prevention trials for the aging brain.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-10-09",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-10",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261497234",
+        "doi": "10.1177/13872877261497234",
+        "url": "https://doi.org/10.1177/13872877261497234",
+        "title": "Beyond WEIRD populations: Interpreting the gap between subjective cognitive complaints and objective impairment",
+        "authors": [
+          "Isabel Manica",
+          "Marcelo D. Mendonça"
+        ],
+        "abstract": "Subjective cognitive complaints (SCC) are shifting from a quasi-diagnostic marker to a multidimensional clinical signal. Leniz et al. use the semi-rural Chilean MAUCO cohort to extend this debate beyond Western-dominated settings. They show a subjective-objective discrepancy: baseline objective performance did not predict incident SCC, whereas benzodiazepine use, and depressive symptoms did, highlighting affective and iatrogenic influences. Yet SCC predicted incident cognitive impairment. We argue that these findings are better interpreted by a model of SCC with at least two-components: affective/iatrogenic and degeneration-related components. In resource-limited contexts, SCC may aid risk-enrichment while prompting medication and mood review.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-10-09",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-10",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261486732",
+        "doi": "10.1177/13872877261486732",
+        "url": "https://doi.org/10.1177/13872877261486732",
+        "title": "The impact of the COVID-19 pandemic on institutionalization and healthcare costs in memory clinic patients",
+        "authors": [
+          "Els D. Bakker",
+          "Pieter J. van der Veere",
+          "Martijn W. Heymans",
+          "Argonde C. van Harten",
+          "Wiesje M. van der Flier",
+          "Ingrid S. van Maurik"
+        ],
+        "abstract": "Background                     The COVID-19 pandemic disrupted healthcare services and daily routines, which may have particularly affected individuals with cognitive impairment or dementia who rely on continuity of care. However, the impact of these disruptions on institutionalization and healthcare costs remains largely unknown.                                                           Objective                     We investigated the impact of COVID-19-pandemic on institutionalization and healthcare costs in a mixed memory clinic population, compared to a well-balanced historical control group.                                                           Methods                     We included memory clinic patients from the Amsterdam Dementia Cohort: 1) n = 911 pandemic-patients (baseline: 2017–2018, follow-up: until 2021), and 2) n = 821 well-balanced historical controls (baseline: 2015–2016, follow-up: until 2019). Time to institutionalization was analyzed using restricted mean survival time (RMST), and healthcare costs using linear regression with spline knot at 2 years.                                                           Results                                            We found no difference for time until institutionalization between groups for all diagnoses together. Stratified for syndrome diagnosis, we found that pandemic-patients with dementia (RMST between group contrast (BGC)[95%-CI] = −0.241 year[−0.456 – −0.026], i.e., −2.9 months) and another diagnosis (RMST BGC[95%-CI] = −0.214 year[−0.407 – −0.021], i.e., −2.6 months) had shorter time to institutionalization. Total healthcare costs did not differ between groups (                       B                       [95%-CI] = 302.12 [−1229.17–1833.40],                       p                        = 0.699).                                                                                Conclusions                     In conclusion, we found no indications of a significantly decreased or increased healthcare consumption as a result of COVID-19 pandemic.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-10-09",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-10",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261489296",
+        "doi": "10.1177/13872877261489296",
+        "url": "https://doi.org/10.1177/13872877261489296",
+        "title": "Role of subcortical iron in Parkinson's disease, prodromal-depression, and dementia: Comparative links to anemias and osteoporosis",
+        "authors": [
+          "Jack T. Rogers",
+          "Asif Mirza Maroof",
+          "Sanjan S. Sarang",
+          "Gen Hamanaka",
+          "Changning Wang",
+          "Hyundae Cho",
+          "Tapan Parikh",
+          "Catherine M. Cahill"
+        ],
+        "abstract": "Three reports employing Mendelian randomization and quantitative susceptibility mapping from 41,581-patients in the UK biobank provide evidence to support that excess subcortical iron accumulation causally accelerates Parkinson's disease (PD). While subcortical iron was not a significant driver of Alzheimer's disease (AD), neural shrinkage and ferroptosis in grey matter featured in vascular dementia. Subcortical iron was changed in depression, anemia and osteoporosis patients. Since iron chelators were not beneficial to either AD or PD patients in clinical trials, we propose that translational control of the iron-homeostatic protein α-synuclein (iron importer) could therapeutically normalize subcortical iron during PD progression.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-10-09",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-10",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261490478",
+        "doi": "10.1177/13872877261490478",
+        "url": "https://doi.org/10.1177/13872877261490478",
+        "title": "Accelerated forgetting in memory clinic patients with subjective cognitive decline: Results from a 7-day follow-up long-term retrieval assessment",
+        "authors": [
+          "Ingo Frommann",
+          "Selina Vogel",
+          "Lena Jansen",
+          "Dix Meiberth",
+          "Ann-Katrin Schild",
+          "Frank Jessen",
+          "Susanne Zank",
+          "Anja Schneider",
+          "Cornelia McCormick",
+          "Michael Wagner"
+        ],
+        "abstract": "Background                     Subjective cognitive decline (SCD) is recognized as an early indicator of preclinical Alzheimer's disease (AD). However, individuals with SCD do not exhibit cognitive impairment on standard neuropsychological tests. Accelerated forgetting (AF) has been reported in individuals with preclinical AD and is characterized by intact learning and early retention but impaired retrieval after several days. Currently, AF is not captured by standard neuropsychological testing.                                                           Objective                     The present study investigated recall performance in memory clinic patients with SCD, without impairment on standard cognitive tests, during a 7-day follow-up telephone assessment for detecting AF.                                                           Methods                     One week after completing the neuropsychological assessment, participants underwent a structured telephone-based follow-up interview. This included various measures of verbal and visual memory. AF was operationalized as the rate of forgetting between initial recall and 7-day delayed recall.                                                           Results                     Data from 35 individuals with SCD, who showed no cognitive impairment on standard tests, and 54 healthy controls (HC) were analyzed. Although there were no significant differences between the groups in learning and short-delay memory performance, after seven days, the SCD group showed lower recall and a higher forgetting rate on the FCSRT-IR free and total recall measures compared to the HC group.                                                           Conclusions                     AF can be detected using a brief, telephone-based assessment in cognitively unimpaired participants with SCD. It could bridge the gap between subjective and objective memory decline. Further research is necessary to improve potential follow-up assessments in neuropsychological testing and to investigate the link between AF and AD biomarkers and memory decline.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-10-09",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-10",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261491987",
+        "doi": "10.1177/13872877261491987",
+        "url": "https://doi.org/10.1177/13872877261491987",
+        "title": "The problem with Alzheimer's disease",
+        "authors": [
+          "Amos D. Korczyn"
+        ],
+        "abstract": "Despite decades of intensive research, progress in treating late-onset Alzheimer's disease remains limited. A central problem may be conceptual: Alzheimer's disease may not be a single disease, but a heterogeneous syndrome arising from differing combinations of aging, genetic susceptibility, vascular injury, metabolic stress, inflammation, and other pathologies. Research has focused largely on biomarkers rather than the pathways leading to them. The dominance of amyloid- and tau-centered models, together with limited animal models, may constrain therapeutic progress. A more productive strategy may require an integrated, personalized approach targeting the relevant contributing and modifiable factors in each individual.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-10-09",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-10",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261492672",
+        "doi": "10.1177/13872877261492672",
+        "url": "https://doi.org/10.1177/13872877261492672",
+        "title": "Benzodiazepine use, incident dementia and Alzheimer's disease, and progression to severe dementia: A nationwide Korean cohort study",
+        "authors": [
+          "Hyunkee Kim",
+          "Jiyeong Kim",
+          "Hojin Choi",
+          "Young Seo Kim"
+        ],
+        "abstract": "Background                     The association between benzodiazepine (BZD) use and dementia risk remains controversial owing to conflicting observational findings and incomplete adjustment for confounders.                                                           Objective                     To examine the association between BZD use and incident dementia, including Alzheimer's disease (AD), and to determine whether BZD use accelerates progression to severe dementia, using nationwide claims data with detailed comorbidity adjustment.                                                           Methods                     We conducted a matched cohort study using Korean National Health Insurance Service data, comparing 132,805 BZD users with 132,805 age- and sex-matched controls. Incident dementia (AD [F00], vascular dementia [F01], and other subtypes) was defined by ≥3 diagnostic claims within one year, and severe cases by national special-registration codes. Hazard ratios (HRs) were estimated using Cox models adjusted for the Charlson Comorbidity Index (CCI) and clinical covariates.                                                           Results                     Dementia incidence was 382.4/100,000 person-years in BZD users versus 280.7 in controls. BZD users had higher multimorbidity (CCI ≥7: 42.5% versus 26.5%) and psychiatric comorbidity (e.g., anxiety disorders: 42.6% versus 2.7%). After full adjustment, the HR for overall dementia attenuated from 1.43 to 1.15 (95% CI, 1.09–1.22), with similar attenuation for AD and severe dementia. The risk of progression from dementia to severe dementia was not increased among BZD users (adjusted HR, 0.98; 95% CI, 0.84–1.14), with no dose- or duration-response observed.                                                           Conclusions                     BZD use showed only a modest association with incident dementia, largely attributable to the higher multimorbidity burden among users, and was not associated with accelerated progression to severe dementia.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-10-09",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-10",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261493174",
+        "doi": "10.1177/13872877261493174",
+        "url": "https://doi.org/10.1177/13872877261493174",
+        "title": "Association between urinary metabolomics and cognitive performance in Asians with type 2 diabetes",
+        "authors": [
+          "Serena Low",
+          "Huili Zheng",
+          "Angela Moh",
+          "Jian-Jun Liu",
+          "Sylvia Liu",
+          "Keven Ang",
+          "Ziliang Lim",
+          "Wern Ee Tang",
+          "Chee Fang Sum",
+          "Tavintharan Subramaniam",
+          "Su Chi Lim"
+        ],
+        "abstract": "Background                     There is an ongoing quest for novel biomarkers which may serve as therapeutic targets in cognitive impairment, alongside a growing appreciation of urinary metabolomics as a promising non-invasive approach to identify metabolic signature of Alzheimer's disease and other causes of dementia.                                                           Objective                     We studied whether urine metabolomics were associated with mild cognitive impairment (MCI) and cognitive performance in a diabetic milieu.                                                           Methods                     We implemented a cross-sectional study on 1053 patients who had Type 2 diabetes (T2D). Urinary metabolites were quantitated by nuclear magnetic resonance (NMR). We evaluated cognitive performance by administering Repeatable Battery for the Assessment of Neuropsychological Status (RBANS). Criteria for mild cognitive impairment (MCI) were met if patients scored &gt; 1.5 standard deviations (SDs) less than the mean RBANS score for total index or any of the cognitive domains.                                                           Results                     The average age was 65.1 ± 7.9. Four metabolites were associated with RBANS total score after multiple testing correction by Benjamini-Hochberg (BH) procedure in the adjusted analyses: sucrose (β = −1.17 (95%CI −1.71, −0.62)), 4-hydroxyhippurate (β = −0.92 (−1.42, −0.42)), trans-aconitate (β = −0.93 (−1.46, −0.40)), and tryptophan (β = −0.82 (−1.33, −0.32)). Sucrose was associated with MCI (OR = 2.19 (1.44, 3.32). Sucrose, trans-aconitate, 4-hydroxyhippurate, and 4-deoxythreonate were associated with delayed memory. Hypoxanthine, sucrose and tryptophan were related to visuo-spatial/constructional function.                                                           Conclusions                     Our study identified several urinary metabolites which were differentially linked to cognitive performance in T2D. Future investigations are warranted to confirm the findings.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-10-09",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-10",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261495587",
+        "doi": "10.1177/13872877261495587",
+        "url": "https://doi.org/10.1177/13872877261495587",
+        "title": "The ACOD1-itaconate axis in anti-neuroinflammation and protection against neurodegenerative diseases",
+        "authors": [
+          "Dahui Wang",
+          "Jensen G. Weedor",
+          "Natasha M. Weah",
+          "Stephane Koda",
+          "Cleopatra Martricia Quayon",
+          "Wei Pan",
+          "Yinghua Yu"
+        ],
+        "abstract": "Chronic neuroinflammation mediated by activated microglia constitutes a central pathogenic mechanism underlying neurodegenerative diseases, including Alzheimer's disease (AD), Parkinson's disease (PD), and multiple sclerosis (MS). Despite substantial progress in elucidating disease mechanisms, effective disease-modifying therapies remain elusive. Recent investigations have identified the aconitate decarboxylase 1 (ACOD1)-itaconate axis, a mitochondrial enzyme-metabolite pathway, as a critical immunometabolic checkpoint that regulates inflammation across diverse pathological contexts. This pathway exerts immunomodulatory effects through multiple mechanisms, including succinate dehydrogenase inhibition, nuclear factor erythroid 2-related factor 2 activation via Kelch-like ECH-associated protein 1 alkylation, and suppression of the NOD-like receptor protein 3 inflammasome. Emerging evidence has demonstrated that ACOD1-derived itaconate and its cell-permeable derivatives modulate neuroinflammation, preserve synaptic integrity, and ameliorate cognitive deficits in preclinical models of neurodegenerative diseases. This review critically synthesizes current evidence on the ACOD1-itaconate axis in central nervous system pathology, with particular emphasis on its roles in AD, PD, MS, and metabolic cognitive dysfunction. We further summarize the mechanistic insights and therapeutic potential of targeting this pathway in neuroinflammation-driven cognitive impairment. Additionally, this review uniquely integrates infection-induced and diet-induced cognitive impairment models and provides a critical perspective on translating this pathway from the bench to the bedside.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-10-09",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-10",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1186/s12877-026-08383-w",
         "doi": "10.1186/s12877-026-08383-w",
         "url": "https://doi.org/10.1186/s12877-026-08383-w",
@@ -78860,6 +79866,81 @@
         "fetched_from": "crossref"
       },
       {
+        "id": "doi:10.1093/bjsw/bcag241",
+        "doi": "10.1093/bjsw/bcag241",
+        "url": "https://doi.org/10.1093/bjsw/bcag241",
+        "title": "A qualitative exploration of online mental health peer support use in Northern Ireland and China: Implications for youth mental health social work",
+        "authors": [
+          "Shuting Yuan",
+          "Gavin Davidson",
+          "Jinyu Chen",
+          "Paul Best"
+        ],
+        "abstract": "Abstract                   The rising need and demand for mental health support are presenting challenges for mental health services including youth mental health social work. Online peer support is emerging as a promising pathway for effective support for young people facing mental health challenges. However, there is limited information about service users’ narratives of engagement and effectiveness of online peer support especially in relation to different cultural contexts. This study aimed to explore the user perspective on their experience of online peer support use with a focus on participation styles, motivations, barriers, and the evaluation of engagement. We conducted 25 semi-structured interviews (nine in Northern Ireland and 16 in China) with users who had experience of online peer support. The findings identified four themes as well as 22 subthemes and highlighted some considerations about the possible barriers and the different ways people may engage. Two of the subthemes primarily described benefits of online peer support, which have been identified as potentially used for promotion, prevention and intervention. Experiences of online mental health peer support were largely positive in Northern Ireland (NI) and China. This type of support may provide an important and relatively accessible component of mental health social work intervention.",
+        "source": "The British Journal of Social Work",
+        "issn": "0045-3102",
+        "date": "2026-10-09",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-10",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/bjsw/bcag248",
+        "doi": "10.1093/bjsw/bcag248",
+        "url": "https://doi.org/10.1093/bjsw/bcag248",
+        "title": "Family group conference provision across the lifespan of child welfare intervention: A mixed-method realist-informed evaluation comparing three stages of welfare concern",
+        "authors": [
+          "Lee Sobo-Allen",
+          "Lois Liao",
+          "Jonathan Scourfield",
+          "Felicity Smith",
+          "Sophie Wood",
+          "Melissa Meindl",
+          "Kar Man Au",
+          "Abigail Palmer",
+          "Rhiannon Evans",
+          "Fiona Lugg-Widger",
+          "Tarirai Lincoln Mahachi",
+          "Philip Pallmann",
+          "Stavros Petrou",
+          "Michael Robling",
+          "Elizabeth-Ann Schroeder",
+          "David Wilkins"
+        ],
+        "abstract": "Abstract                   Family group conferences (FGCs) in children’s services are convened meetings of family networks to make plans for a child who is in need or at risk. There remain gaps in evidence, including how variation in implementation context affects FGC experiences and outcomes. The Family Views and Context Study is part of a wider realist-informed evaluation (Family VOICE). It involved 380 individuals who had attended FGCs, from 155 families across the UK. Family members completed questionnaires at three time points, including standardized measures for self-efficacy, family functioning, adult well-being and child psychosocial health. FGC coordinators also completed questionnaires. This article focuses on one key aspect of variation in implementation context, namely the stage of child welfare concern. Three categories are compared: (1) early help and child in need; (2) child protection and edge of care; and (3) children in state care. In addition to questionnaires, a sub-group of participants (n = 25) took part in semi-structured interviews, purposively sampled for these three stages of concern. Quantitative comparisons found almost no significant differences between the three categories in family experiences or outcomes. Qualitative interviews suggested more similarities than differences in participant experiences, perceptions of FGC mechanisms, and intended outcomes, across the three categories.",
+        "source": "The British Journal of Social Work",
+        "issn": "0045-3102",
+        "date": "2026-10-09",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-10",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/bjsw/bcag249",
+        "doi": "10.1093/bjsw/bcag249",
+        "url": "https://doi.org/10.1093/bjsw/bcag249",
+        "title": "Addressing barriers to social work entry in the San Diego youth behavioral health workforce",
+        "authors": [
+          "Taylor A Geyton"
+        ],
+        "abstract": "Abstract                   This mixed-methods evaluation examined the preliminary feasibility and acceptability of the Expanding the Youth Behavioral Health Workforce (EYBHW) program, which supports social workers entering San Diego’s youth behavioral health system. EYBHW provides no-cost external clinical supervision for Associate Social Workers (ASWs) from Licensed Clinical Social Workers (LCSW) and financial stipends for Master of Social Work students (MSW-S) pursuing behavioral health careers. Quantitative survey data were collected from twenty-eight participants (eighteen ASWs, five MSW-Ss, five LCSWs) using adapted measures of supervisory alliance, job satisfaction, organizational climate, burnout, and licensure preparedness. Analyses included descriptive statistics, correlations, and within-group linear regression. Qualitative interviews and focus groups were analyzed using inductive thematic analysis. Exploratory regressions among ASWs yielded significant association between supervisory alliance and perceived preparedness for licensure (β ≈ .63), whereas associations for organizational climate, job satisfaction, and burnout were non-significant. Organizational climate yielded association with higher job satisfaction and lower burnout, and organizational support was associated with LCSW professional engagement. MSW-Ss reported high satisfaction and meaningful financial relief. Qualitative themes underscored external supervision as a safe, values-aligned space that mitigated systemic gaps and supported confidence, retention, and professional identity.",
+        "source": "The British Journal of Social Work",
+        "issn": "0045-3102",
+        "date": "2026-10-09",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-10",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1093/bjsw/bcag212",
         "doi": "10.1093/bjsw/bcag212",
         "url": "https://doi.org/10.1093/bjsw/bcag212",
@@ -85935,10 +87016,10 @@
   },
   "totals": {
     "socialSecurity": 1570,
-    "elderCare": 519,
-    "healthReform": 859,
-    "agingHealth": 751,
-    "socialWork": 314
+    "elderCare": 530,
+    "healthReform": 870,
+    "agingHealth": 772,
+    "socialWork": 317
   },
   "feeds_ok": 41
 }
