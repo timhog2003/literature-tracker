@@ -1,8 +1,70 @@
 {
-  "date": "2026-10-10",
-  "fetched": "2026-10-10T07:24:33+00:00",
+  "date": "2026-10-11",
+  "fetched": "2026-10-11T07:29:32+00:00",
   "domains": {
     "socialSecurity": [
+      {
+        "id": "doi:10.1111/1468-0009.70133",
+        "doi": "10.1111/1468-0009.70133",
+        "url": "https://doi.org/10.1111/1468-0009.70133",
+        "title": "Health Inequalities, Intersectionality, and Justice",
+        "authors": [
+          "ERIKA BLACKSHER"
+        ],
+        "abstract": "Policy Points                                                                                                                                         Population health science that uses large data sets to study health inequalities increasingly draws on intersectionality, the idea that overlapping forms of disadvantage shape health inequalities. This approach is essential to the pursuit of health equity because it provides a more complete and sound evidence base for population health policy.                                                                                         As this approach has gained traction, it has drifted from intersectionality's founding ideas about social power and justice.                                                                                         This Perspective develops a framework of justice for the field that consists of a multidimensional account of unjust power relations and an egalitarian standard to guide population health research and interventions.                                                                                                                                                                                        Context                     Research that examines multiple forms of marginalization simultaneously, referred to herein as quantitative intersectional analysis, is an important trend in population health science. This approach can identify otherwise hidden health inequalities and a fuller array of social drivers, creating a more complete evidence base for intervention. The practice of quantitative intersectional analysis, however, has strayed from intersectionality's founding ideas about interconnecting power relations and social justice. Some researchers have called for the rebuilding of those connections.                                                           Methods                     This Perspective interprets and adapt key features of Nancy Fraser's critical theory with the aim of developing a framework of justice and illustrating its value as an ethical resource for quantitative intersectional analysis and population health policy.                                                           Findings                     The proposed framework is well suited to quantitative intersectional analysis in three respects. First, it's critical vantage point foregrounds precisely the kinds of power relations and social structures that are well‐documented drivers of health inequalities, including maldistribution in economic relations, misrecognition in cultural relations, and misrepresentation in political relations. Second, the framework is adaptable and can be extended, as recommended here, to include care relations. Third, the framework articulates a positive standard of justice—participatory parity—that can be interpreted to provide both moral justification for the view that some health inequalities constitute health inequities and ethical guidance for population health policy.                                                           Conclusions                     The proposed framework of justice supports deep engagement with ideas about social power and justice in four ways. It expands the social categories and systems of inequality typically subject to analysis, enhances conceptual clarity and theorization about the nature of the harms under study, identifies health inequalities that merit investigation, and provides an ethical standard for population health policy that protects against the use of stigmatization as a policy tool and supports a broad and inclusive concept of health equity.",
+        "source": "The Milbank Quarterly",
+        "issn": "0887-378X",
+        "date": "2026-10-10",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "socialSecurity"
+        ],
+        "firstSeen": "2026-10-11",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/1468-0009.70135",
+        "doi": "10.1111/1468-0009.70135",
+        "url": "https://doi.org/10.1111/1468-0009.70135",
+        "title": "Child Health Challenges, Ecosystem Mismatches, and the Case for State‐Level Policy Innovation",
+        "authors": [
+          "NEAL HALFON",
+          "SHIRLEY RUSS"
+        ],
+        "abstract": "Policy Points                                                                                                                                         From 2011‐2023, US children's health deteriorated across &gt;170 indicators. Chronic conditions rose from 25.8% to 31%, risk of anxiety tripled, and autism and learning disability more than doubled.                                                                                         Policies based on biomedical models have failed to address these trends. Life course models regard health as a developmental process, with mismatches between children's physical, nutritional, and relational environments and the ones they are evolutionarily calibrated to expect as likely drivers of declining health.                                                                                         State policies can help to overcome mismatches and optimize developmental ecosystems. New Mexico is pioneering and testing an approach linking early childhood policy innovation with population‐level developmental measurement.                                                                                                                                                                                                             The health of US children has deteriorated significantly across multiple indicators with trends accelerating since 2007. From 2011‐2023, the prevalence of chronic conditions among 3‐19‐year‐olds rose from 25.8 to 31%, obesity rose from 17 to 20%, and autism and learning disabilities more than doubled. Rates of anxiety, loneliness, depression, early onset of menstruation and trouble sleeping all increased. Biomedically driven policy and practice have improved treatment of certain established medical conditions (e.g., childhood cancers and congenital heart disease), but failed to stem increasing mental health challenges, and neurodevelopmental disorders. Life course models point to fundamental changes in the early developmental ecosystem resulting in profound mismatches between the conditions children are evolutionarily primed and historically calibrated to expect and those they currently experience as primary drivers of these changes. The Industrial Revolution accelerated changes in children's physical, relational, and nutritional environments; temporal rhythms; and cognitive demands. The Digital Revolution further accelerated the speed and degree of change, potentially outpacing children's capacity for adaptive developmental responses. These multiple environmental changes do not act in isolation but interact in multilevel, dynamic, and complex ways to form the developmental ecosystems shaping children's developmental trajectories. In this paper we suggest a reorientation of child health policy and resulting interventions—expanding the focus beyond isolated social risks and behavioral deficits to address ecosystem‐level influences and shift population outcomes by altering health development trajectories. We also suggest a suite of actionable state‐level policy solutions geared to improve the configuration of these developmental ecosystems. We highlight state policy innovations such as New Mexico's comprehensive portfolio of early childhood policy changes and infrastructure upgrades along with ongoing population‐level measurement of children's health development to monitor policy impact.",
+        "source": "The Milbank Quarterly",
+        "issn": "0887-378X",
+        "date": "2026-10-10",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "socialSecurity"
+        ],
+        "firstSeen": "2026-10-11",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/1468-0009.70132",
+        "doi": "10.1111/1468-0009.70132",
+        "url": "https://doi.org/10.1111/1468-0009.70132",
+        "title": "State Labor Market Policies and Health",
+        "authors": [
+          "SCOTT W. ALLARD",
+          "HEATHER D. HILL"
+        ],
+        "abstract": "Policy Points                                                                                                                                         Starting in the 2000s, state governments began adopting labor market policies, including minimum wage laws, earned income tax credits, paid family and medical leave programs, paid sick leave mandates, and scheduling laws.                                                                                         Evidence suggests that labor market policies can improve earnings and job quality, and some are associated with improved worker health.                                                                                         States interested in evidence‐based policies for improving worker health should consider generous, refundable earned income tax credits; higher minimum wages tied to inflation; greater local government discretion to adopt labor market policies; and paid leave programs or mandates.                                                                                                                                                                                        Context                     State governments have begun to adopt labor market policies, including minimum wage laws, earned income tax credits, paid family and medical leave programs, paid sick leave mandates, and scheduling laws. The presence (or absence) of these laws can affect the health and well‐being of workers.                                                           Methods                     A review of the existing literature.                                                           Findings                     Emerging evidence indicates that state government actions to increase earnings for those in low‐wage jobs and to improve their job quality can lead to better health.                                                           Conclusions                     Encouraging findings in the literature strongly suggest that policymakers should continue to advance state‐level labor market policies to improve the health outcomes of workers, as well as support efforts by researchers to assess their impact on health.",
+        "source": "The Milbank Quarterly",
+        "issn": "0887-378X",
+        "date": "2026-10-10",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "socialSecurity"
+        ],
+        "firstSeen": "2026-10-11",
+        "fetched_from": "crossref"
+      },
       {
         "id": "doi:10.1111/jori.70081",
         "doi": "10.1111/jori.70081",
@@ -24222,6 +24284,334 @@
     ],
     "elderCare": [
       {
+        "id": "doi:10.1186/s12877-026-08485-5",
+        "doi": "10.1186/s12877-026-08485-5",
+        "url": "https://doi.org/10.1186/s12877-026-08485-5",
+        "title": "Changes in vision-related quality of life after cataract surgery and factors associated with preoperative VRQoL: a longitudinal study in older adults",
+        "authors": [
+          "Ghazaleh Ghasemzadeh",
+          "Fatemeh Sadat Izadi-Avanji",
+          "Mohammad-Sajjad Lotfi"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-11",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-11",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08476-6",
+        "doi": "10.1186/s12877-026-08476-6",
+        "url": "https://doi.org/10.1186/s12877-026-08476-6",
+        "title": "Bilateral lower extremity lymphedema-like swelling associated with a painless femoral trochanteric fracture in an older patient: a case report",
+        "authors": [
+          "Wei Li",
+          "Zhilin Liu",
+          "Yang Li",
+          "Yu Huang",
+          "Quankui Zhuang"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-11",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-11",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08473-9",
+        "doi": "10.1186/s12877-026-08473-9",
+        "url": "https://doi.org/10.1186/s12877-026-08473-9",
+        "title": "Urinary incontinence and its association with physical and sexual activity in older women: a population-based cross-sectional study",
+        "authors": [
+          "Maedeh Eslamizadeh",
+          "Seyed Reza Hosseini",
+          "Zahra Geraili Afra",
+          "Fereshteh Behmanesh",
+          "Ali Bijani"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-11",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-11",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08480-w",
+        "doi": "10.1186/s12877-026-08480-w",
+        "url": "https://doi.org/10.1186/s12877-026-08480-w",
+        "title": "Impact of live-in care workers on health and well-being of older people with long-term care needs and their primary informal care providers during the Covid-19 pandemic in Italy",
+        "authors": [
+          "Oliver Fisher",
+          "Paolo Fabbietti",
+          "Flavia Piccinini",
+          "Bernard A. Steinman",
+          "Giovanni Lamura"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-11",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-11",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70776",
+        "doi": "10.1111/jgs.70776",
+        "url": "https://doi.org/10.1111/jgs.70776",
+        "title": "Coprophagia in Moderately Severe Dementia: Comprehensive Geriatric Assessment, Interdisciplinary Management, and the\n                    <scp>5Ms</scp>",
+        "authors": [
+          "Erwin Martin Hernandez Ocampo",
+          "Bayron Valdes Casas"
+        ],
+        "abstract": "",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-10-10",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-11",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70752",
+        "doi": "10.1111/jgs.70752",
+        "url": "https://doi.org/10.1111/jgs.70752",
+        "title": "Readmission Risk Coming Home After Rehabilitation in a Skilled Nursing Home With Dementia",
+        "authors": [
+          "Jennifer L. Carnahan",
+          "Indrakshi Roy",
+          "James E. Slaven",
+          "Emily Fox Ludden",
+          "Wanzhu Tu",
+          "Daniel O. Clark",
+          "Christopher M. Callahan",
+          "Kathleen T. Unroe",
+          "Alexia M. Torke"
+        ],
+        "abstract": "ABSTRACT                                        Background                     Community dwelling people living with dementia (PLWD) are more likely to visit a skilled nursing home (SNH) after an acute hospital stay and have a high risk of readmission to the hospital. Staff in SNHs have familiarity with caring for PLWD that may mitigate readmissions, but dementia's role in readmissions for this high risk population remains unclear.                                                           Methods                     Using Health and Retirement Study data linked to Medicare claims between 2000 and 2019, this study aimed to investigate the role of dementia in hospital readmissions after a short rehabilitative stay (&lt; 100 days) in the nursing home. Event‐level data was analyzed for risk of 30‐day hospital readmission following SNH discharge to the community using first Generalized Estimating Equations to estimate individual variables' association with readmission and then constructing a regression model to estimate the risk of readmission to the hospital using adjusted odds ratios.                                                           Results                     There were 714 readmissions to the hospital out of 4527 discharges to the community following SNH stay (15.8%). A dementia diagnosis identified by Medicare claims, present for 42.2% of the population, was not associated with hospital readmission. Female sex, being married, and living in the Midwest or Western United States were associated with lower odds of readmission. Hospital or emergency department visits in the year prior to the index SNH admission and higher Charlson comorbidity scores were associated with higher odds of post‐SNH discharge 30‐day readmission.                                                           Conclusions                     A formal dementia diagnosis may serve as a signal to SNHs to provide enhanced support in their discharge processes. Intrinsic factors related to the patient's health status such as prior hospital use and comorbidity burden, in addition to social support factors such as marital status, play the greatest role in readmission risk. These characteristics should be recognized and mitigated by discharge planners, policy makers, and insurers making care coverage decisions.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-10-10",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-11",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08268-y",
+        "doi": "10.1186/s12877-026-08268-y",
+        "url": "https://doi.org/10.1186/s12877-026-08268-y",
+        "title": "HIV status concealment and long-term care vulnerability among older people living with HIV in China: a qualitative study",
+        "authors": [
+          "Leiwen Fu",
+          "Ke Liu",
+          "Bingyi Wang",
+          "Tian Tian",
+          "Yinghui Sun",
+          "Xiaojun Meng",
+          "Liang Li",
+          "Jian Du",
+          "Yang Liu",
+          "Huachun Zou"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-10",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-11",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08484-6",
+        "doi": "10.1186/s12877-026-08484-6",
+        "url": "https://doi.org/10.1186/s12877-026-08484-6",
+        "title": "Using machine learning and preoperative data to predict 30-day mortality after non-cardiac major surgeries in older patients",
+        "authors": [
+          "Min-Chuan Peng",
+          "Ching-Hui Shen",
+          "Pei-Fu Chen",
+          "Huan Hsu"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-10",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-11",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08495-3",
+        "doi": "10.1186/s12877-026-08495-3",
+        "url": "https://doi.org/10.1186/s12877-026-08495-3",
+        "title": "Admission lactate-to-albumin ratio in critically ill older adults: superior to its individual components but not additive to APACHE II — a retrospective cohort study",
+        "authors": [
+          "Seher Yanatma",
+          "Ahmet Düzgün"
+        ],
+        "abstract": "Abstract                                        Background                     Older adults constitute a growing and heterogeneous proportion of intensive care unit (ICU) admissions, and early risk stratification in this group remains difficult. The lactate-to-albumin ratio (LAR) is a composite biomarker that combines a marker of acute metabolic derangement with one of physiological reserve, and has shown prognostic value in several critical care settings. Its performance in geriatric ICU patients, and specifically whether it adds information to established severity scores, has not been established.                                                           Methods                     We conducted a retrospective, single-centre cohort study of consecutive patients aged ≥ 65 years admitted to the mixed medical–surgical ICU of a tertiary referral hospital in Türkiye between January 2024 and July 2025. LAR was calculated as serum lactate (mmol/L) divided by serum albumin (g/dL), from samples obtained within the first 6 h of ICU admission. The primary outcome was all-cause 28-day mortality. Discrimination was assessed by area under the receiver operating characteristic curve (AUC), and curves were compared using the DeLong test. Multivariable logistic regression assessed whether LAR was independently associated with mortality after adjustment for age, sex, Clinical Frailty Scale (CFS), SOFA, APACHE II and C-reactive protein (CRP).                                                           Results                                            Of 296 screened admissions, 294 were analysed; 98 patients (33.3%) died within 28 days. Non-survivors had higher admission LAR than survivors [1.37 (IQR 0.84–2.50) vs. 0.62 (IQR 0.46–0.99),                       p                        &lt; 0.001]. LAR discriminated 28-day mortality with an AUC of 0.793 (95% CI 0.740–0.846), significantly better than serum lactate alone (AUC 0.746; ΔAUC 0.047, 95% CI 0.021–0.074,                       p                        = 0.0005) and serum albumin alone (AUC 0.656; ΔAUC 0.137, 95% CI 0.061–0.213,                       p                        = 0.0004). APACHE II discriminated considerably better than LAR (AUC 0.924, 95% CI 0.893–0.955; ΔAUC 0.131, 95% CI 0.080–0.181,                       p                        &lt; 0.001). Adding LAR to APACHE II did not significantly improve discrimination (AUC 0.929 vs. 0.924; ΔAUC 0.006, 95% CI −0.0001 to 0.0115,                       p                        = 0.055; likelihood ratio test                       p                        = 0.098). On univariable analysis LAR was strongly associated with mortality (OR 2.17, 95% CI 1.63–2.88,                       p                        &lt; 0.001), but after full adjustment this association was no longer statistically significant (adjusted OR 1.29, 95% CI 1.00–1.66,                       p                        = 0.052). APACHE II (adjusted OR 1.36, 95% CI 1.21–1.52,                       p                        &lt; 0.001) and CRP (adjusted OR 1.06 per 10 mg/L, 95% CI 1.01–1.11,                       p                        = 0.015) remained independently associated with mortality.                                                                                Conclusions                     In critically ill older adults, admission LAR discriminates 28-day mortality better than either of its components alone and is strongly associated with mortality on unadjusted analysis. However, it did not add significant discriminatory information to the APACHE II score, and it was not independently associated with mortality after adjustment for illness severity. LAR may be useful as a rapidly available early indicator where a full severity score is not yet computable, but on these data it does not complement APACHE II.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-10",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-11",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08233-9",
+        "doi": "10.1186/s12877-026-08233-9",
+        "url": "https://doi.org/10.1186/s12877-026-08233-9",
+        "title": "Integrated county medical consortium nursing management for older adults with disabilities: a retrospective cohort study",
+        "authors": [
+          "Pinpin Lu",
+          "Yanli Xu",
+          "Shengkai Yang",
+          "Haiyan Chen",
+          "Hui Liang",
+          "Jinlin Li",
+          "Wei Chen"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-10",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-11",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08504-5",
+        "doi": "10.1186/s12877-026-08504-5",
+        "url": "https://doi.org/10.1186/s12877-026-08504-5",
+        "title": "Psychological symptom burden in older dermatology outpatients: clinical, social, and medication-related associations",
+        "authors": [
+          "Neslihan Cansel",
+          "Şule Gençoğlu"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-10",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-11",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08483-7",
+        "doi": "10.1186/s12877-026-08483-7",
+        "url": "https://doi.org/10.1186/s12877-026-08483-7",
+        "title": "Development and validation of a machine learning model for screening individuals at high risk of self-reported osteoporosis among community-dwelling older adults: a cross-sectional study",
+        "authors": [
+          "Yanqian Wu",
+          "Jianqian Chao",
+          "Leixia Wang",
+          "Gangrui Tan",
+          "Shengxuan Jin",
+          "Gaoling Wang"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-10",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-11",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08420-8",
+        "doi": "10.1186/s12877-026-08420-8",
+        "url": "https://doi.org/10.1186/s12877-026-08420-8",
+        "title": "Postoperative quality of recovery in older adults undergoing elective surgery (PQoRE study): a prospective cohort study protocol based on patient-reported outcome measures",
+        "authors": [
+          "Victor Morales-Ariza",
+          "Ekaterine Popova",
+          "Yuri Loaiza-Aldeán",
+          "Raquel Risco",
+          "Fernando Dana",
+          "Gonzalo Azparren-Cabezón",
+          "Sandra Beltrán de Heredia",
+          "Lluís Aguilera-Cuchillo",
+          "Patrícia Galán-Menéndez",
+          "Alejandra Farreras-Margenat",
+          "Gisela Myrella Hermenegildo-Chávez",
+          "David Paricio-Gómez",
+          "Marcos de Miguel",
+          "Pablo Carbonero-Lechuga",
+          "Marta Guiral-Raya",
+          "Ana Fervienza",
+          "MªMagdalena Ferrer-Dalmau Beltán",
+          "Helena Rama-Iglesias",
+          "Helena Rama-Iglesias",
+          "Sandra Aixut",
+          "Miriam de Nadal"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-10",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-11",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1186/s12877-026-08436-0",
         "doi": "10.1186/s12877-026-08436-0",
         "url": "https://doi.org/10.1186/s12877-026-08436-0",
@@ -37597,6 +37987,168 @@
           "healthReform"
         ],
         "firstSeen": "2026-09-26",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmicm2606144",
+        "doi": "10.1056/nejmicm2606144",
+        "url": "https://doi.org/10.1056/nejmicm2606144",
+        "title": "Flushing in Carcinoid Syndrome",
+        "authors": [
+          "N. Karthik",
+          "Ashu Rastogi"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-10-10",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-11",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmp2603604",
+        "doi": "10.1056/nejmp2603604",
+        "url": "https://doi.org/10.1056/nejmp2603604",
+        "title": "Who Counts as Infertile? A Missed Opportunity for Inclusion",
+        "authors": [
+          "Paula Amato",
+          "I. Glenn Cohen"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-10-10",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-11",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmp2608481",
+        "doi": "10.1056/nejmp2608481",
+        "url": "https://doi.org/10.1056/nejmp2608481",
+        "title": "Firearm-Related Discussions as an Age-Friendly Intervention",
+        "authors": [
+          "Lena K. Makaroun",
+          "Timothy W. Farrell",
+          "Marian E. Betz"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-10-10",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-11",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmp2608580",
+        "doi": "10.1056/nejmp2608580",
+        "url": "https://doi.org/10.1056/nejmp2608580",
+        "title": "Health-Related Social Needs among Older Adults — Addressing Mismeasurement",
+        "authors": [
+          "Mark A. Unruh",
+          "Joshua R. Vest"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-10-10",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-11",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmp2609409",
+        "doi": "10.1056/nejmp2609409",
+        "url": "https://doi.org/10.1056/nejmp2609409",
+        "title": "Not Available in Your Country",
+        "authors": [
+          "Christos P. Kotanidis"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-10-10",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-11",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/1468-0009.70133",
+        "doi": "10.1111/1468-0009.70133",
+        "url": "https://doi.org/10.1111/1468-0009.70133",
+        "title": "Health Inequalities, Intersectionality, and Justice",
+        "authors": [
+          "ERIKA BLACKSHER"
+        ],
+        "abstract": "Policy Points                                                                                                                                         Population health science that uses large data sets to study health inequalities increasingly draws on intersectionality, the idea that overlapping forms of disadvantage shape health inequalities. This approach is essential to the pursuit of health equity because it provides a more complete and sound evidence base for population health policy.                                                                                         As this approach has gained traction, it has drifted from intersectionality's founding ideas about social power and justice.                                                                                         This Perspective develops a framework of justice for the field that consists of a multidimensional account of unjust power relations and an egalitarian standard to guide population health research and interventions.                                                                                                                                                                                        Context                     Research that examines multiple forms of marginalization simultaneously, referred to herein as quantitative intersectional analysis, is an important trend in population health science. This approach can identify otherwise hidden health inequalities and a fuller array of social drivers, creating a more complete evidence base for intervention. The practice of quantitative intersectional analysis, however, has strayed from intersectionality's founding ideas about interconnecting power relations and social justice. Some researchers have called for the rebuilding of those connections.                                                           Methods                     This Perspective interprets and adapt key features of Nancy Fraser's critical theory with the aim of developing a framework of justice and illustrating its value as an ethical resource for quantitative intersectional analysis and population health policy.                                                           Findings                     The proposed framework is well suited to quantitative intersectional analysis in three respects. First, it's critical vantage point foregrounds precisely the kinds of power relations and social structures that are well‐documented drivers of health inequalities, including maldistribution in economic relations, misrecognition in cultural relations, and misrepresentation in political relations. Second, the framework is adaptable and can be extended, as recommended here, to include care relations. Third, the framework articulates a positive standard of justice—participatory parity—that can be interpreted to provide both moral justification for the view that some health inequalities constitute health inequities and ethical guidance for population health policy.                                                           Conclusions                     The proposed framework of justice supports deep engagement with ideas about social power and justice in four ways. It expands the social categories and systems of inequality typically subject to analysis, enhances conceptual clarity and theorization about the nature of the harms under study, identifies health inequalities that merit investigation, and provides an ethical standard for population health policy that protects against the use of stigmatization as a policy tool and supports a broad and inclusive concept of health equity.",
+        "source": "The Milbank Quarterly",
+        "issn": "0887-378X",
+        "date": "2026-10-10",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "socialSecurity"
+        ],
+        "firstSeen": "2026-10-11",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/1468-0009.70135",
+        "doi": "10.1111/1468-0009.70135",
+        "url": "https://doi.org/10.1111/1468-0009.70135",
+        "title": "Child Health Challenges, Ecosystem Mismatches, and the Case for State‐Level Policy Innovation",
+        "authors": [
+          "NEAL HALFON",
+          "SHIRLEY RUSS"
+        ],
+        "abstract": "Policy Points                                                                                                                                         From 2011‐2023, US children's health deteriorated across &gt;170 indicators. Chronic conditions rose from 25.8% to 31%, risk of anxiety tripled, and autism and learning disability more than doubled.                                                                                         Policies based on biomedical models have failed to address these trends. Life course models regard health as a developmental process, with mismatches between children's physical, nutritional, and relational environments and the ones they are evolutionarily calibrated to expect as likely drivers of declining health.                                                                                         State policies can help to overcome mismatches and optimize developmental ecosystems. New Mexico is pioneering and testing an approach linking early childhood policy innovation with population‐level developmental measurement.                                                                                                                                                                                                             The health of US children has deteriorated significantly across multiple indicators with trends accelerating since 2007. From 2011‐2023, the prevalence of chronic conditions among 3‐19‐year‐olds rose from 25.8 to 31%, obesity rose from 17 to 20%, and autism and learning disabilities more than doubled. Rates of anxiety, loneliness, depression, early onset of menstruation and trouble sleeping all increased. Biomedically driven policy and practice have improved treatment of certain established medical conditions (e.g., childhood cancers and congenital heart disease), but failed to stem increasing mental health challenges, and neurodevelopmental disorders. Life course models point to fundamental changes in the early developmental ecosystem resulting in profound mismatches between the conditions children are evolutionarily primed and historically calibrated to expect and those they currently experience as primary drivers of these changes. The Industrial Revolution accelerated changes in children's physical, relational, and nutritional environments; temporal rhythms; and cognitive demands. The Digital Revolution further accelerated the speed and degree of change, potentially outpacing children's capacity for adaptive developmental responses. These multiple environmental changes do not act in isolation but interact in multilevel, dynamic, and complex ways to form the developmental ecosystems shaping children's developmental trajectories. In this paper we suggest a reorientation of child health policy and resulting interventions—expanding the focus beyond isolated social risks and behavioral deficits to address ecosystem‐level influences and shift population outcomes by altering health development trajectories. We also suggest a suite of actionable state‐level policy solutions geared to improve the configuration of these developmental ecosystems. We highlight state policy innovations such as New Mexico's comprehensive portfolio of early childhood policy changes and infrastructure upgrades along with ongoing population‐level measurement of children's health development to monitor policy impact.",
+        "source": "The Milbank Quarterly",
+        "issn": "0887-378X",
+        "date": "2026-10-10",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "socialSecurity"
+        ],
+        "firstSeen": "2026-10-11",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/1468-0009.70132",
+        "doi": "10.1111/1468-0009.70132",
+        "url": "https://doi.org/10.1111/1468-0009.70132",
+        "title": "State Labor Market Policies and Health",
+        "authors": [
+          "SCOTT W. ALLARD",
+          "HEATHER D. HILL"
+        ],
+        "abstract": "Policy Points                                                                                                                                         Starting in the 2000s, state governments began adopting labor market policies, including minimum wage laws, earned income tax credits, paid family and medical leave programs, paid sick leave mandates, and scheduling laws.                                                                                         Evidence suggests that labor market policies can improve earnings and job quality, and some are associated with improved worker health.                                                                                         States interested in evidence‐based policies for improving worker health should consider generous, refundable earned income tax credits; higher minimum wages tied to inflation; greater local government discretion to adopt labor market policies; and paid leave programs or mandates.                                                                                                                                                                                        Context                     State governments have begun to adopt labor market policies, including minimum wage laws, earned income tax credits, paid family and medical leave programs, paid sick leave mandates, and scheduling laws. The presence (or absence) of these laws can affect the health and well‐being of workers.                                                           Methods                     A review of the existing literature.                                                           Findings                     Emerging evidence indicates that state government actions to increase earnings for those in low‐wage jobs and to improve their job quality can lead to better health.                                                           Conclusions                     Encouraging findings in the literature strongly suggest that policymakers should continue to advance state‐level labor market policies to improve the health outcomes of workers, as well as support efforts by researchers to assess their impact on health.",
+        "source": "The Milbank Quarterly",
+        "issn": "0887-378X",
+        "date": "2026-10-10",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "socialSecurity"
+        ],
+        "firstSeen": "2026-10-11",
         "fetched_from": "crossref"
       },
       {
@@ -60524,6 +61076,471 @@
         "fetched_from": "crossref"
       },
       {
+        "id": "doi:10.1186/s12877-026-08485-5",
+        "doi": "10.1186/s12877-026-08485-5",
+        "url": "https://doi.org/10.1186/s12877-026-08485-5",
+        "title": "Changes in vision-related quality of life after cataract surgery and factors associated with preoperative VRQoL: a longitudinal study in older adults",
+        "authors": [
+          "Ghazaleh Ghasemzadeh",
+          "Fatemeh Sadat Izadi-Avanji",
+          "Mohammad-Sajjad Lotfi"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-11",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-11",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08476-6",
+        "doi": "10.1186/s12877-026-08476-6",
+        "url": "https://doi.org/10.1186/s12877-026-08476-6",
+        "title": "Bilateral lower extremity lymphedema-like swelling associated with a painless femoral trochanteric fracture in an older patient: a case report",
+        "authors": [
+          "Wei Li",
+          "Zhilin Liu",
+          "Yang Li",
+          "Yu Huang",
+          "Quankui Zhuang"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-11",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-11",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08473-9",
+        "doi": "10.1186/s12877-026-08473-9",
+        "url": "https://doi.org/10.1186/s12877-026-08473-9",
+        "title": "Urinary incontinence and its association with physical and sexual activity in older women: a population-based cross-sectional study",
+        "authors": [
+          "Maedeh Eslamizadeh",
+          "Seyed Reza Hosseini",
+          "Zahra Geraili Afra",
+          "Fereshteh Behmanesh",
+          "Ali Bijani"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-11",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-11",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08480-w",
+        "doi": "10.1186/s12877-026-08480-w",
+        "url": "https://doi.org/10.1186/s12877-026-08480-w",
+        "title": "Impact of live-in care workers on health and well-being of older people with long-term care needs and their primary informal care providers during the Covid-19 pandemic in Italy",
+        "authors": [
+          "Oliver Fisher",
+          "Paolo Fabbietti",
+          "Flavia Piccinini",
+          "Bernard A. Steinman",
+          "Giovanni Lamura"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-11",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-11",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70776",
+        "doi": "10.1111/jgs.70776",
+        "url": "https://doi.org/10.1111/jgs.70776",
+        "title": "Coprophagia in Moderately Severe Dementia: Comprehensive Geriatric Assessment, Interdisciplinary Management, and the\n                    <scp>5Ms</scp>",
+        "authors": [
+          "Erwin Martin Hernandez Ocampo",
+          "Bayron Valdes Casas"
+        ],
+        "abstract": "",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-10-10",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-11",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70752",
+        "doi": "10.1111/jgs.70752",
+        "url": "https://doi.org/10.1111/jgs.70752",
+        "title": "Readmission Risk Coming Home After Rehabilitation in a Skilled Nursing Home With Dementia",
+        "authors": [
+          "Jennifer L. Carnahan",
+          "Indrakshi Roy",
+          "James E. Slaven",
+          "Emily Fox Ludden",
+          "Wanzhu Tu",
+          "Daniel O. Clark",
+          "Christopher M. Callahan",
+          "Kathleen T. Unroe",
+          "Alexia M. Torke"
+        ],
+        "abstract": "ABSTRACT                                        Background                     Community dwelling people living with dementia (PLWD) are more likely to visit a skilled nursing home (SNH) after an acute hospital stay and have a high risk of readmission to the hospital. Staff in SNHs have familiarity with caring for PLWD that may mitigate readmissions, but dementia's role in readmissions for this high risk population remains unclear.                                                           Methods                     Using Health and Retirement Study data linked to Medicare claims between 2000 and 2019, this study aimed to investigate the role of dementia in hospital readmissions after a short rehabilitative stay (&lt; 100 days) in the nursing home. Event‐level data was analyzed for risk of 30‐day hospital readmission following SNH discharge to the community using first Generalized Estimating Equations to estimate individual variables' association with readmission and then constructing a regression model to estimate the risk of readmission to the hospital using adjusted odds ratios.                                                           Results                     There were 714 readmissions to the hospital out of 4527 discharges to the community following SNH stay (15.8%). A dementia diagnosis identified by Medicare claims, present for 42.2% of the population, was not associated with hospital readmission. Female sex, being married, and living in the Midwest or Western United States were associated with lower odds of readmission. Hospital or emergency department visits in the year prior to the index SNH admission and higher Charlson comorbidity scores were associated with higher odds of post‐SNH discharge 30‐day readmission.                                                           Conclusions                     A formal dementia diagnosis may serve as a signal to SNHs to provide enhanced support in their discharge processes. Intrinsic factors related to the patient's health status such as prior hospital use and comorbidity burden, in addition to social support factors such as marital status, play the greatest role in readmission risk. These characteristics should be recognized and mitigated by discharge planners, policy makers, and insurers making care coverage decisions.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-10-10",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-11",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08268-y",
+        "doi": "10.1186/s12877-026-08268-y",
+        "url": "https://doi.org/10.1186/s12877-026-08268-y",
+        "title": "HIV status concealment and long-term care vulnerability among older people living with HIV in China: a qualitative study",
+        "authors": [
+          "Leiwen Fu",
+          "Ke Liu",
+          "Bingyi Wang",
+          "Tian Tian",
+          "Yinghui Sun",
+          "Xiaojun Meng",
+          "Liang Li",
+          "Jian Du",
+          "Yang Liu",
+          "Huachun Zou"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-10",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-11",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08484-6",
+        "doi": "10.1186/s12877-026-08484-6",
+        "url": "https://doi.org/10.1186/s12877-026-08484-6",
+        "title": "Using machine learning and preoperative data to predict 30-day mortality after non-cardiac major surgeries in older patients",
+        "authors": [
+          "Min-Chuan Peng",
+          "Ching-Hui Shen",
+          "Pei-Fu Chen",
+          "Huan Hsu"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-10",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-11",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08495-3",
+        "doi": "10.1186/s12877-026-08495-3",
+        "url": "https://doi.org/10.1186/s12877-026-08495-3",
+        "title": "Admission lactate-to-albumin ratio in critically ill older adults: superior to its individual components but not additive to APACHE II — a retrospective cohort study",
+        "authors": [
+          "Seher Yanatma",
+          "Ahmet Düzgün"
+        ],
+        "abstract": "Abstract                                        Background                     Older adults constitute a growing and heterogeneous proportion of intensive care unit (ICU) admissions, and early risk stratification in this group remains difficult. The lactate-to-albumin ratio (LAR) is a composite biomarker that combines a marker of acute metabolic derangement with one of physiological reserve, and has shown prognostic value in several critical care settings. Its performance in geriatric ICU patients, and specifically whether it adds information to established severity scores, has not been established.                                                           Methods                     We conducted a retrospective, single-centre cohort study of consecutive patients aged ≥ 65 years admitted to the mixed medical–surgical ICU of a tertiary referral hospital in Türkiye between January 2024 and July 2025. LAR was calculated as serum lactate (mmol/L) divided by serum albumin (g/dL), from samples obtained within the first 6 h of ICU admission. The primary outcome was all-cause 28-day mortality. Discrimination was assessed by area under the receiver operating characteristic curve (AUC), and curves were compared using the DeLong test. Multivariable logistic regression assessed whether LAR was independently associated with mortality after adjustment for age, sex, Clinical Frailty Scale (CFS), SOFA, APACHE II and C-reactive protein (CRP).                                                           Results                                            Of 296 screened admissions, 294 were analysed; 98 patients (33.3%) died within 28 days. Non-survivors had higher admission LAR than survivors [1.37 (IQR 0.84–2.50) vs. 0.62 (IQR 0.46–0.99),                       p                        &lt; 0.001]. LAR discriminated 28-day mortality with an AUC of 0.793 (95% CI 0.740–0.846), significantly better than serum lactate alone (AUC 0.746; ΔAUC 0.047, 95% CI 0.021–0.074,                       p                        = 0.0005) and serum albumin alone (AUC 0.656; ΔAUC 0.137, 95% CI 0.061–0.213,                       p                        = 0.0004). APACHE II discriminated considerably better than LAR (AUC 0.924, 95% CI 0.893–0.955; ΔAUC 0.131, 95% CI 0.080–0.181,                       p                        &lt; 0.001). Adding LAR to APACHE II did not significantly improve discrimination (AUC 0.929 vs. 0.924; ΔAUC 0.006, 95% CI −0.0001 to 0.0115,                       p                        = 0.055; likelihood ratio test                       p                        = 0.098). On univariable analysis LAR was strongly associated with mortality (OR 2.17, 95% CI 1.63–2.88,                       p                        &lt; 0.001), but after full adjustment this association was no longer statistically significant (adjusted OR 1.29, 95% CI 1.00–1.66,                       p                        = 0.052). APACHE II (adjusted OR 1.36, 95% CI 1.21–1.52,                       p                        &lt; 0.001) and CRP (adjusted OR 1.06 per 10 mg/L, 95% CI 1.01–1.11,                       p                        = 0.015) remained independently associated with mortality.                                                                                Conclusions                     In critically ill older adults, admission LAR discriminates 28-day mortality better than either of its components alone and is strongly associated with mortality on unadjusted analysis. However, it did not add significant discriminatory information to the APACHE II score, and it was not independently associated with mortality after adjustment for illness severity. LAR may be useful as a rapidly available early indicator where a full severity score is not yet computable, but on these data it does not complement APACHE II.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-10",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-11",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08233-9",
+        "doi": "10.1186/s12877-026-08233-9",
+        "url": "https://doi.org/10.1186/s12877-026-08233-9",
+        "title": "Integrated county medical consortium nursing management for older adults with disabilities: a retrospective cohort study",
+        "authors": [
+          "Pinpin Lu",
+          "Yanli Xu",
+          "Shengkai Yang",
+          "Haiyan Chen",
+          "Hui Liang",
+          "Jinlin Li",
+          "Wei Chen"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-10",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-11",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08504-5",
+        "doi": "10.1186/s12877-026-08504-5",
+        "url": "https://doi.org/10.1186/s12877-026-08504-5",
+        "title": "Psychological symptom burden in older dermatology outpatients: clinical, social, and medication-related associations",
+        "authors": [
+          "Neslihan Cansel",
+          "Şule Gençoğlu"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-10",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-11",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08483-7",
+        "doi": "10.1186/s12877-026-08483-7",
+        "url": "https://doi.org/10.1186/s12877-026-08483-7",
+        "title": "Development and validation of a machine learning model for screening individuals at high risk of self-reported osteoporosis among community-dwelling older adults: a cross-sectional study",
+        "authors": [
+          "Yanqian Wu",
+          "Jianqian Chao",
+          "Leixia Wang",
+          "Gangrui Tan",
+          "Shengxuan Jin",
+          "Gaoling Wang"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-10",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-11",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08420-8",
+        "doi": "10.1186/s12877-026-08420-8",
+        "url": "https://doi.org/10.1186/s12877-026-08420-8",
+        "title": "Postoperative quality of recovery in older adults undergoing elective surgery (PQoRE study): a prospective cohort study protocol based on patient-reported outcome measures",
+        "authors": [
+          "Victor Morales-Ariza",
+          "Ekaterine Popova",
+          "Yuri Loaiza-Aldeán",
+          "Raquel Risco",
+          "Fernando Dana",
+          "Gonzalo Azparren-Cabezón",
+          "Sandra Beltrán de Heredia",
+          "Lluís Aguilera-Cuchillo",
+          "Patrícia Galán-Menéndez",
+          "Alejandra Farreras-Margenat",
+          "Gisela Myrella Hermenegildo-Chávez",
+          "David Paricio-Gómez",
+          "Marcos de Miguel",
+          "Pablo Carbonero-Lechuga",
+          "Marta Guiral-Raya",
+          "Ana Fervienza",
+          "MªMagdalena Ferrer-Dalmau Beltán",
+          "Helena Rama-Iglesias",
+          "Helena Rama-Iglesias",
+          "Sandra Aixut",
+          "Miriam de Nadal"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-10",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-11",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261493065",
+        "doi": "10.1177/13872877261493065",
+        "url": "https://doi.org/10.1177/13872877261493065",
+        "title": "Prevalence and impact of cerebral small vessel lesions in mild cognitive impairment and mild dementia due to Alzheimer's disease patients in memory clinic: Preparation for anti-amyloid therapy in Thailand",
+        "authors": [
+          "Thachamai Smitasiri",
+          "Thanakit Pongpitakmetha",
+          "Sekh Thanprasertsuk",
+          "Yuttachai Likitjaroen"
+        ],
+        "abstract": "Background                     Alzheimer's disease (AD) raises global concern with its impact on daily living. Anti-amyloid therapy (AAT) are specific treatments used in mild cognitive impairment (MCI) and mild dementia stage of AD (mild AD). Severe cerebral small vessel disease (SVD) lesions such as microbleeds, superficial siderosis, lacunes, white matter hyperintensities are listed as exclusions criteria for AAT. In Thailand, there is no prevalence study of SVD lesions specifically in these patient groups.                                                           Objective                     The purpose of this study is to report the prevalence of SVD burdens which are excluded in AAT, in MCI and mild AD patients in Thailand.                                                           Methods                     The study was carried out at Memory Clinic in King Chulalongkorn Memorial Hospital. Patients with amnestic MCI and mild AD were diagnosed using clinical criteria, cognitive tests and brain MRI. Visual rating scales were used to evaluate SVD burden based on STRIVE-2 criteria. Baseline characteristics and cognitive tests were retrieved from electronic medical records.                                                           Results                     The study involving 102 patients, 73.5% had MCI, and 26.5% had mild AD. Twenty-one individuals (20.6%) had either more than 4 microbleeds, more than 2 lacunes, or Fazekas score of 3. There was no evidence of superficial siderosis. Individuals without microbleeds had a higher TMSE score (25.4 versus 23.5; p = 0.009).                                                           Conclusions                     Among patients with MCI and mild AD, 20.6% met the exclusion criteria for AAT, in part of SVD lesions. These findings provide important information for evaluating the cost-effectiveness of AAT, which become a treatment option for Thai AD patients.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-10-10",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-11",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261491995",
+        "doi": "10.1177/13872877261491995",
+        "url": "https://doi.org/10.1177/13872877261491995",
+        "title": "Interaction of physical fitness and resting state functional connectivity on global cognitive function in older adults with mild cognitive impairment",
+        "authors": [
+          "Yi Gu",
+          "Teresa Liu-Ambrose",
+          "Ryan S. Falck",
+          "Lindsay S. Nagamatsu",
+          "Roger C. Tam",
+          "Ging-Yuek Robin Hsiung",
+          "Lisanne ten Brinke",
+          "Alexis Bullock",
+          "Sofia Grant",
+          "Chun Liang Hsu"
+        ],
+        "abstract": "Background                     Mild cognitive impairment (MCI) represents a prodromal stage of Alzheimer's disease. Physical fitness, including cardiorespiratory fitness and muscular strength, is associated with cognitive function in older adults. Resting-state functional connectivity (rsFC) is also linked to cognitive function; however, whether physical fitness modifies the association between rsFC and cognitive function remains unclear.                                                           Objective                     To examine associations of cardiorespiratory fitness and muscular strength with rsFC and their interaction on global cognitive function in older adults with MCI.                                                           Methods                     A cross-sectional study of 95 older adults with MCI. Cardiorespiratory fitness was estimated by the 400-m walk; muscular strength was indexed using grip strength measured by hand dynamometer. Global cognitive function was indexed by the 13-item Alzheimer's Disease Assessment Scale-Cognitive (ADAS-Cog-13). Using the Yeo 7-network atlas, we computed rsFC within and between seven canonical networks. Significant rsFC-fitness associations were entered into moderation analyses (X = rsFC, Y = ADAS-Cog-13) with cardiorespiratory fitness or grip strength as moderator, adjusted for covariates. Simple slopes were examined at ±1 SD from the mean of moderator.                                                           Results                                            Participants had a mean age of 73.49 years, and 53.7% were female. Cardiorespiratory fitness interacted with rsFC in relation to ADAS-Cog-13, whereas grip strength did not. Specifically, greater limbic-visual (standardized                       b                        = −0.22,                       p                        = 0.009), limbic-somatomotor (                       b                        = −0.20,                       p                        = 0.049), and limbic-ventral attention (                       b                        = −0.19,                       p                        = 0.020) rsFC were associated with better global cognitive function among individuals with higher cardiorespiratory fitness.                                                                                Conclusions                     Higher between-network rsFC is generally associated with worse cognitive function. Thus, higher cardiorespiratory fitness may attenuate the negative association between higher between-network rsFC and global cognitive function in MCI.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-10-10",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-11",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261492561",
+        "doi": "10.1177/13872877261492561",
+        "url": "https://doi.org/10.1177/13872877261492561",
+        "title": "High-intensity transcranial alternating current stimulation improves sleep quality in patients with mild Alzheimer's disease: Findings from the TRANSFORM-AD study",
+        "authors": [
+          "Yuchen Qiao",
+          "Hong Chen",
+          "Kaiting Fan",
+          "Xuan Yang",
+          "Yueyi Yu",
+          "Rui Wang",
+          "Yi Xing",
+          "Yi Tang"
+        ],
+        "abstract": "Background                     High-intensity transcranial alternating current stimulation (Hi-tACS) has shown beneficial effects on cognitive function in Alzheimer's disease (AD). However, data on the effects of hi-tACS on sleep quality and emotional state in patients with AD are still limited.                                                           Objective                     This study aimed to investigate the influences of hi-tACS on sleep quality and emotional state in AD.                                                           Methods                     The TRANSFORM-AD study was a double-blind, randomized-controlled trial that enrolled individuals with mild AD. Participants were randomized to receive hi-tACS group or sham stimulation group, and underwent 30 one-hour sessions of either 40 Hz tACS or sham stimulation over consecutive 15 consecutive days. Pittsburgh sleep quality index (PSQI), Hamilton anxiety Rating Scale (HAMA), Hamilton depression Rating Scale (HAMD) and Quality of life in Alzheimer's Disease scale (QOL-AD) were evaluated at baseline, and the end of the intervention.                                                           Results                     Among 43 participants with complete baseline and post-intervention assessments, Hi-tACS reduced post-intervention PSQI scores compared with sham after adjustment for baseline PSQI (adjusted mean difference, −2.34 points; 95% CI, −3.63 to −1.05; p &lt; 0.001). Baseline-adjusted effects for HAMA (−1.43; 95% CI, −2.89 to 0.02), HAMD (0.44; 95% CI, −1.28 to 2.15), and QOL-AD (2.07; 95% CI, −1.57 to 5.70) were imprecise and included the null.                                                           Conclusion                     Hi-tACS improved subjective sleep quality in patients with mild AD. The present secondary analysis did not provide conclusive evidence of effects on anxiety, depression, or quality of life; these exploratory outcomes require confirmation in larger, adequately powered trials.                                            Trial registration:                       ClinicalTrials.gov, NCT 03920826.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-10-10",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-11",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261494159",
+        "doi": "10.1177/13872877261494159",
+        "url": "https://doi.org/10.1177/13872877261494159",
+        "title": "Baseline and longitudinal trajectories of peak expiratory flow in relation to incident cognitive impairment among older adults: Evidence from CHARLS",
+        "authors": [
+          "Peijian Wang",
+          "Lijun Ge",
+          "Beiyao Gao",
+          "Shan Jiang",
+          "Siyuan Wang"
+        ],
+        "abstract": "Background                     Previous studies, including CHARLS analyses, have linked lower peak expiratory flow (PEF) with cognitive decline. Evidence regarding incident score-based cognitive impairment, longitudinal PEF patterns, and incremental prediction remains limited.                                                           Objective                     To examine associations of baseline PEF and exploratory PEF trajectories with incident score-based cognitive impairment and evaluate the incremental predictive value of PEF.                                                           Methods                     The primary analysis included 2604 CHARLS participants aged ≥60 years without score-based cognitive impairment at baseline. Cognitive impairment was defined as a global cognitive score ≥1 SD below the wave- and age-specific mean and was not a clinical diagnosis of mild cognitive impairment or dementia. Cox models, sensitivity analyses, prediction analyses, and exploratory trajectory modeling were performed.                                                           Results                     Over a median follow-up of 9.0 years, 636 participants developed score-based cognitive impairment. Each 1-SD increase in PEF was associated with lower risk in fully adjusted models (HR = 0.801, 95% CI 0.728–0.880) and after adjustment for baseline cognition (HR = 0.846, 95% CI 0.768–0.930). Nine-year cumulative incidence decreased from 35.6% to 16.6% across PEF quartiles. Adding PEF modestly improved 9-year AUC (ΔAUC = 0.011, p = 0.042). In the exploratory trajectory analysis, the moderate PEF group was not significantly associated with risk versus the high group (HR = 1.294, 95% CI 0.860–1.948), whereas the low PEF group had higher risk (HR = 1.817, 95% CI 1.172–2.817), with no clear graded pattern.                                                           Conclusions                     Lower baseline PEF was associated with wave-specific score-based cognitive impairment, but not under stricter definitions requiring subsequent confirmation with wave-specific or fixed thresholds. PEF trajectories were exploratory, and incremental predictive value was limited.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-10-10",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-11",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261496533",
+        "doi": "10.1177/13872877261496533",
+        "url": "https://doi.org/10.1177/13872877261496533",
+        "title": "Noise or clearance? Reframing plasma amyloid-β variability in Alzheimer's disease as a measurable clearance signal",
+        "authors": [
+          "Soufiane Ben Brik"
+        ],
+        "abstract": "Plasma biomarkers, and the amyloid-β 42/40 ratio in particular, are increasingly used to stage Alzheimer's disease and to stratify and monitor clinical trials, on the tacit assumption that a single measurement reflects a stable, steady-state level of pathology. A recent micro-longitudinal study that sampled plasma weekly for five weeks in people with Alzheimer's disease challenged that assumption, reporting that most participants varied by more than half in the amyloid-β 42/40 ratio over that short window. The reflexive response is to treat such movement as measurement noise to be averaged away. Here I argue that a meaningful part of it is unlikely to be noise. In healthy adults the same ratio is among the most stable plasma analytes, so instability concentrated in disease is difficult to attribute to the assay alone. Brain-to-blood clearance of amyloid-β is itself dynamic over days, rising with sleep and falling with fragmentation, apnoea, poor cerebral perfusion, autonomic dysregulation, and sedating or anticholinergic drugs. An instantaneous plasma value therefore partly reports the clearance state of the preceding night. This clearance account is kept distinct from analytical and pre-analytical variance, and from oligomeric amyloid-β dynamics, which are considered separately. The practical problem is not the variance itself but that we measure the molecule without measuring the physiological state that moves it. I propose that an inexpensive, repeatable, bedside index of that state, illustrated here with the Systemic BenBrik Geriatric Score, could be recorded alongside each plasma draw and modelled as a covariate, converting nuisance variance into interpretable signal. The prediction is falsifiable, and a validation design is outlined. This is a hypothesis, not a validated result; the illustrative index used here, the Systemic BenBrik Geriatric Score, is not a validated measure.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-10-10",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-11",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261496918",
+        "doi": "10.1177/13872877261496918",
+        "url": "https://doi.org/10.1177/13872877261496918",
+        "title": "Single-cell gene networks nominate\n                    <i>IKZF1</i>\n                    as an Alzheimer's disease microglial regulator",
+        "authors": [
+          "Çağrı Özkurt"
+        ],
+        "abstract": "Background                     Microglia drive neuroinflammation in Alzheimer's disease (AD), yet no approved therapy targets this compartment. Human genome-wide association studies consistently implicate innate immune loci in AD risk, establishing microglial transcriptional programs as therapeutically relevant but pharmacologically underexploited targets.                                                           Objective                     We sought to identify transcription factors (TFs) governing microglial state transitions computationally and to nominate structurally tractable drug repurposing candidates.                                                           Methods                     We applied trajectory inference (PAGA), pseudobulk DESeq2, pySCENIC gene regulatory network (GRN) inference, CellChat, and virtual screening of 1962 approved compounds to 236,002 microglial nuclei from 84 donors (SEA-AD atlas).                                                           Results                                            IKZF1                       was the sole target TF retained under cisTarget v10 motif constraints, with peak regulon activity in LateAD-DAM (pseudotime ρ = + 0.309) and replication in an independent bulk cohort (GSE95587; adjusted p = 0.004). CellChat identified SLIT2→ROBO2 from multiple neuron subtypes (predominantly inhibitory interneurons) as the top predicted pathway to microglia. Tafamidis (→IRF8) and diflunisal (→PPARG) were top virtual screening hits; all evaluated compounds failed the pre-specified selectivity threshold.                                                                                Conclusions                                            IKZF1                       is prioritized as a candidate late-disease microglial TF, supported by six convergent evidence dimensions including independent bulk replication. Tafamidis and diflunisal are low-confidence repurposing hypotheses requiring experimental validation.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-10-10",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-11",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1186/s12877-026-08436-0",
         "doi": "10.1186/s12877-026-08436-0",
         "url": "https://doi.org/10.1186/s12877-026-08436-0",
@@ -79844,6 +80861,26 @@
     ],
     "socialWork": [
       {
+        "id": "doi:10.1093/bjsw/bcag240",
+        "doi": "10.1093/bjsw/bcag240",
+        "url": "https://doi.org/10.1093/bjsw/bcag240",
+        "title": "‘Scared out of the profession’: The frequency with which threats, abuse, violence and intimidation are experienced by England’s child protection social workers and practitioners’ perceptions of how these experiences influence workforce retention",
+        "authors": [
+          "Ciarán Murphy",
+          "Jermaine Ravalier"
+        ],
+        "abstract": "Abstract                   England’s child protection teams are in a state of crisis, characterized by record sickness, vacancy and agency rates, having a detrimental impact on the safety of children in receipt of child protection services. The UK government asserts that they are committed to understanding the challenges facing the workforce and have called for more research to elucidate the lived experience of frontline social workers. This paper reports on findings from an online survey of 207 current and former child protection social workers in England. Findings demonstrated that threats, abuse, violence and intimidation (TAVI) were commonplace. Every participant reported experiencing at least one form of occupational abuse, with verbal abuse (99%), intimidation (99%) and threats of harm (97%) being the most frequently reported. Participants also described these experiences as negatively influencing their wellbeing and willingness to remain in child protection practice. Implications include the need to improve both local and national policy initiatives that seek to enhance the sense of safety amongst social workers delivering child protection services (including in the context of media reporting and political commentary). Moreover, to hold to account those who are found to engage in threatening, intimidating, or violent behaviour towards these workers.",
+        "source": "The British Journal of Social Work",
+        "issn": "0045-3102",
+        "date": "2026-10-10",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-11",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1007/s10896-026-01177-z",
         "doi": "10.1007/s10896-026-01177-z",
         "url": "https://doi.org/10.1007/s10896-026-01177-z",
@@ -87015,11 +88052,11 @@
     ]
   },
   "totals": {
-    "socialSecurity": 1570,
-    "elderCare": 530,
-    "healthReform": 870,
-    "agingHealth": 772,
-    "socialWork": 317
+    "socialSecurity": 1573,
+    "elderCare": 543,
+    "healthReform": 878,
+    "agingHealth": 791,
+    "socialWork": 318
   },
   "feeds_ok": 41
 }
