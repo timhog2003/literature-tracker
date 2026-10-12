@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-11",
-  "fetched": "2026-10-11T07:29:32+00:00",
+  "date": "2026-10-12",
+  "fetched": "2026-10-12T07:37:29+00:00",
   "domains": {
     "socialSecurity": [
       {
@@ -24284,6 +24284,57 @@
     ],
     "elderCare": [
       {
+        "id": "doi:10.1186/s12877-026-08428-0",
+        "doi": "10.1186/s12877-026-08428-0",
+        "url": "https://doi.org/10.1186/s12877-026-08428-0",
+        "title": "Differential associations of aging attitude risk with depression, anxiety, and suicide-related risk among older Chinese adults: a network analysis and GGMNIRA-based simulated intervention study",
+        "authors": [
+          "Xinjie Tan",
+          "Yuchen Fu",
+          "Anqi Cheng",
+          "Yisong Yao",
+          "Wenle Zhang"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-12",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-12",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08374-x",
+        "doi": "10.1186/s12877-026-08374-x",
+        "url": "https://doi.org/10.1186/s12877-026-08374-x",
+        "title": "Factors affecting the decline of intrinsic capacity of older adults in Chinese communities: a systematic review and meta-analysis",
+        "authors": [
+          "Yuan Zhao",
+          "Songye Zhao",
+          "Le Guo",
+          "Gan Li",
+          "Ying Tan",
+          "Jinjiao Yang",
+          "Binghua Lan",
+          "Yunpeng Su"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-12",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-12",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1186/s12877-026-08485-5",
         "doi": "10.1186/s12877-026-08485-5",
         "url": "https://doi.org/10.1186/s12877-026-08485-5",
@@ -24375,6 +24426,65 @@
           "agingHealth"
         ],
         "firstSeen": "2026-10-11",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70762",
+        "doi": "10.1111/jgs.70762",
+        "url": "https://doi.org/10.1111/jgs.70762",
+        "title": "Association Between Interhospital Transfer, Readmission, and Inpatient Mortality Among Older Adults",
+        "authors": [
+          "Rachel A. Hadler",
+          "Sara Nahon",
+          "David W. Boorman",
+          "Dio Kavalieratos",
+          "Rebecca A. Aslakson",
+          "Sara Turbow"
+        ],
+        "abstract": "ABSTRACT                                        Background                     Interhospital transfer (IHT) is a key strategy for providing access to specialty care; however, it is associated with multiple adverse outcomes, including prolonged length of stay, increased risk of inpatient mortality, and reduced rates of discharge home, particularly among older adults. We hypothesized that older patients who experience IHT would have a higher rate of acute‐care hospital readmissions compared to older adults who do not experience IHT.                                                           Methods                     We used the Healthcare Cost and Utilization Project's 2019 National Readmissions Database to identify adults 65+ who had and had not undergone IHT. We used unadjusted and adjusted logistic regression stratified by region, clustered by hospital and weighted by individual to measure the association between IHT and the odds of readmission and in‐hospital mortality.                                                           Results                                            Of the 11,836,556 older adults included in the weighted analysis, 0.9% experienced IHT. After adjusting for confounders including mortality risk, risk of readmission, admitting service, insurer, procedure characteristics, and others, IHT was associated with increased readmission rates (AOR 1.09, 95% CI: 1.01–1.18) and with increased risk of in‐hospital mortality (AOR 1.91, 95% CI: 1.81–2.02). In a sensitivity analysis, odds of readmission within 30 days were 29% higher for older adults who had undergone IHT compared to those who had not (AOR 1.29, 95% CI: 1.19–1.40). All comparisons are                       p                        &lt; 0.001.                                                                                Conclusion                     IHT is associated with increased readmission and mortality risk among older adults. These findings add to a burgeoning evidence base suggesting that IHT is associated with many long‐term risks to older adults. Further research is needed to characterize the underlying drivers of these findings and to develop evidence‐based practices to improve IHT processes for older adults.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-10-11",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-12",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70721",
+        "doi": "10.1111/jgs.70721",
+        "url": "https://doi.org/10.1111/jgs.70721",
+        "title": "A Community's Voice: Community Advisory Boards in\n                    <scp>ADRD</scp>\n                    Biomarker Research Among Older Black Women",
+        "authors": [
+          "Michelle L. Jackson",
+          "Seth Sangalang",
+          "Nadine C. Heyworth",
+          "Joy Stradford",
+          "Cozzette Lyons‐Jones",
+          "Tia Delaney‐Stewart",
+          "Asoniti Foster",
+          "Patricia Williams",
+          "Thelma Harris",
+          "Wendy McKinney",
+          "Catherine Baker",
+          "April D. Thames",
+          "Marc Norman",
+          "Erin E. Sundermann",
+          "Sarah J. Banks"
+        ],
+        "abstract": "ABSTRACT                   Alzheimer's Disease and Related Dementias (ADRD) disproportionately affect Black/African American (BAA) women, yet this afflicted population remains underrepresented in ADRD biomarker research. As ADRD blood‐based biomarkers become increasingly available, research must prioritize equity and inclusivity to determine their diagnostic specificity in minoritized groups. Community Advisory Boards (CABs) are pivotal in ensuring culturally responsive and community‐engaged research. This article outlines the formation, operation, and maintenance of the Black Women: Inflammation and Tau Study (BWITS) CAB, which has played a crucial role in guiding the BWITS Research Team by refining research protocols and safeguarding the cultural contexts of the communities it represents. Motivated by a commitment to the BAA community, we advocate for a transformative shift in ADRD research on minoritized populations, emphasizing the need for CAB input to ensure accountability and the implementation of culturally responsive methods, benefiting both the scientific and target communities.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-10-11",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-12",
         "fetched_from": "crossref"
       },
       {
@@ -37990,6 +38100,68 @@
         "fetched_from": "crossref"
       },
       {
+        "id": "doi:10.1111/1468-0009.70133",
+        "doi": "10.1111/1468-0009.70133",
+        "url": "https://doi.org/10.1111/1468-0009.70133",
+        "title": "Health Inequalities, Intersectionality, and Justice",
+        "authors": [
+          "ERIKA BLACKSHER"
+        ],
+        "abstract": "Policy Points                                                                                                                                         Population health science that uses large data sets to study health inequalities increasingly draws on intersectionality, the idea that overlapping forms of disadvantage shape health inequalities. This approach is essential to the pursuit of health equity because it provides a more complete and sound evidence base for population health policy.                                                                                         As this approach has gained traction, it has drifted from intersectionality's founding ideas about social power and justice.                                                                                         This Perspective develops a framework of justice for the field that consists of a multidimensional account of unjust power relations and an egalitarian standard to guide population health research and interventions.                                                                                                                                                                                        Context                     Research that examines multiple forms of marginalization simultaneously, referred to herein as quantitative intersectional analysis, is an important trend in population health science. This approach can identify otherwise hidden health inequalities and a fuller array of social drivers, creating a more complete evidence base for intervention. The practice of quantitative intersectional analysis, however, has strayed from intersectionality's founding ideas about interconnecting power relations and social justice. Some researchers have called for the rebuilding of those connections.                                                           Methods                     This Perspective interprets and adapt key features of Nancy Fraser's critical theory with the aim of developing a framework of justice and illustrating its value as an ethical resource for quantitative intersectional analysis and population health policy.                                                           Findings                     The proposed framework is well suited to quantitative intersectional analysis in three respects. First, it's critical vantage point foregrounds precisely the kinds of power relations and social structures that are well‐documented drivers of health inequalities, including maldistribution in economic relations, misrecognition in cultural relations, and misrepresentation in political relations. Second, the framework is adaptable and can be extended, as recommended here, to include care relations. Third, the framework articulates a positive standard of justice—participatory parity—that can be interpreted to provide both moral justification for the view that some health inequalities constitute health inequities and ethical guidance for population health policy.                                                           Conclusions                     The proposed framework of justice supports deep engagement with ideas about social power and justice in four ways. It expands the social categories and systems of inequality typically subject to analysis, enhances conceptual clarity and theorization about the nature of the harms under study, identifies health inequalities that merit investigation, and provides an ethical standard for population health policy that protects against the use of stigmatization as a policy tool and supports a broad and inclusive concept of health equity.",
+        "source": "The Milbank Quarterly",
+        "issn": "0887-378X",
+        "date": "2026-10-10",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "socialSecurity"
+        ],
+        "firstSeen": "2026-10-11",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/1468-0009.70135",
+        "doi": "10.1111/1468-0009.70135",
+        "url": "https://doi.org/10.1111/1468-0009.70135",
+        "title": "Child Health Challenges, Ecosystem Mismatches, and the Case for State‐Level Policy Innovation",
+        "authors": [
+          "NEAL HALFON",
+          "SHIRLEY RUSS"
+        ],
+        "abstract": "Policy Points                                                                                                                                         From 2011‐2023, US children's health deteriorated across &gt;170 indicators. Chronic conditions rose from 25.8% to 31%, risk of anxiety tripled, and autism and learning disability more than doubled.                                                                                         Policies based on biomedical models have failed to address these trends. Life course models regard health as a developmental process, with mismatches between children's physical, nutritional, and relational environments and the ones they are evolutionarily calibrated to expect as likely drivers of declining health.                                                                                         State policies can help to overcome mismatches and optimize developmental ecosystems. New Mexico is pioneering and testing an approach linking early childhood policy innovation with population‐level developmental measurement.                                                                                                                                                                                                             The health of US children has deteriorated significantly across multiple indicators with trends accelerating since 2007. From 2011‐2023, the prevalence of chronic conditions among 3‐19‐year‐olds rose from 25.8 to 31%, obesity rose from 17 to 20%, and autism and learning disabilities more than doubled. Rates of anxiety, loneliness, depression, early onset of menstruation and trouble sleeping all increased. Biomedically driven policy and practice have improved treatment of certain established medical conditions (e.g., childhood cancers and congenital heart disease), but failed to stem increasing mental health challenges, and neurodevelopmental disorders. Life course models point to fundamental changes in the early developmental ecosystem resulting in profound mismatches between the conditions children are evolutionarily primed and historically calibrated to expect and those they currently experience as primary drivers of these changes. The Industrial Revolution accelerated changes in children's physical, relational, and nutritional environments; temporal rhythms; and cognitive demands. The Digital Revolution further accelerated the speed and degree of change, potentially outpacing children's capacity for adaptive developmental responses. These multiple environmental changes do not act in isolation but interact in multilevel, dynamic, and complex ways to form the developmental ecosystems shaping children's developmental trajectories. In this paper we suggest a reorientation of child health policy and resulting interventions—expanding the focus beyond isolated social risks and behavioral deficits to address ecosystem‐level influences and shift population outcomes by altering health development trajectories. We also suggest a suite of actionable state‐level policy solutions geared to improve the configuration of these developmental ecosystems. We highlight state policy innovations such as New Mexico's comprehensive portfolio of early childhood policy changes and infrastructure upgrades along with ongoing population‐level measurement of children's health development to monitor policy impact.",
+        "source": "The Milbank Quarterly",
+        "issn": "0887-378X",
+        "date": "2026-10-10",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "socialSecurity"
+        ],
+        "firstSeen": "2026-10-11",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/1468-0009.70132",
+        "doi": "10.1111/1468-0009.70132",
+        "url": "https://doi.org/10.1111/1468-0009.70132",
+        "title": "State Labor Market Policies and Health",
+        "authors": [
+          "SCOTT W. ALLARD",
+          "HEATHER D. HILL"
+        ],
+        "abstract": "Policy Points                                                                                                                                         Starting in the 2000s, state governments began adopting labor market policies, including minimum wage laws, earned income tax credits, paid family and medical leave programs, paid sick leave mandates, and scheduling laws.                                                                                         Evidence suggests that labor market policies can improve earnings and job quality, and some are associated with improved worker health.                                                                                         States interested in evidence‐based policies for improving worker health should consider generous, refundable earned income tax credits; higher minimum wages tied to inflation; greater local government discretion to adopt labor market policies; and paid leave programs or mandates.                                                                                                                                                                                        Context                     State governments have begun to adopt labor market policies, including minimum wage laws, earned income tax credits, paid family and medical leave programs, paid sick leave mandates, and scheduling laws. The presence (or absence) of these laws can affect the health and well‐being of workers.                                                           Methods                     A review of the existing literature.                                                           Findings                     Emerging evidence indicates that state government actions to increase earnings for those in low‐wage jobs and to improve their job quality can lead to better health.                                                           Conclusions                     Encouraging findings in the literature strongly suggest that policymakers should continue to advance state‐level labor market policies to improve the health outcomes of workers, as well as support efforts by researchers to assess their impact on health.",
+        "source": "The Milbank Quarterly",
+        "issn": "0887-378X",
+        "date": "2026-10-10",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "socialSecurity"
+        ],
+        "firstSeen": "2026-10-11",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1056/nejmicm2606144",
         "doi": "10.1056/nejmicm2606144",
         "url": "https://doi.org/10.1056/nejmicm2606144",
@@ -38085,68 +38257,6 @@
         "subjects": [],
         "domains": [
           "healthReform"
-        ],
-        "firstSeen": "2026-10-11",
-        "fetched_from": "crossref"
-      },
-      {
-        "id": "doi:10.1111/1468-0009.70133",
-        "doi": "10.1111/1468-0009.70133",
-        "url": "https://doi.org/10.1111/1468-0009.70133",
-        "title": "Health Inequalities, Intersectionality, and Justice",
-        "authors": [
-          "ERIKA BLACKSHER"
-        ],
-        "abstract": "Policy Points                                                                                                                                         Population health science that uses large data sets to study health inequalities increasingly draws on intersectionality, the idea that overlapping forms of disadvantage shape health inequalities. This approach is essential to the pursuit of health equity because it provides a more complete and sound evidence base for population health policy.                                                                                         As this approach has gained traction, it has drifted from intersectionality's founding ideas about social power and justice.                                                                                         This Perspective develops a framework of justice for the field that consists of a multidimensional account of unjust power relations and an egalitarian standard to guide population health research and interventions.                                                                                                                                                                                        Context                     Research that examines multiple forms of marginalization simultaneously, referred to herein as quantitative intersectional analysis, is an important trend in population health science. This approach can identify otherwise hidden health inequalities and a fuller array of social drivers, creating a more complete evidence base for intervention. The practice of quantitative intersectional analysis, however, has strayed from intersectionality's founding ideas about interconnecting power relations and social justice. Some researchers have called for the rebuilding of those connections.                                                           Methods                     This Perspective interprets and adapt key features of Nancy Fraser's critical theory with the aim of developing a framework of justice and illustrating its value as an ethical resource for quantitative intersectional analysis and population health policy.                                                           Findings                     The proposed framework is well suited to quantitative intersectional analysis in three respects. First, it's critical vantage point foregrounds precisely the kinds of power relations and social structures that are well‐documented drivers of health inequalities, including maldistribution in economic relations, misrecognition in cultural relations, and misrepresentation in political relations. Second, the framework is adaptable and can be extended, as recommended here, to include care relations. Third, the framework articulates a positive standard of justice—participatory parity—that can be interpreted to provide both moral justification for the view that some health inequalities constitute health inequities and ethical guidance for population health policy.                                                           Conclusions                     The proposed framework of justice supports deep engagement with ideas about social power and justice in four ways. It expands the social categories and systems of inequality typically subject to analysis, enhances conceptual clarity and theorization about the nature of the harms under study, identifies health inequalities that merit investigation, and provides an ethical standard for population health policy that protects against the use of stigmatization as a policy tool and supports a broad and inclusive concept of health equity.",
-        "source": "The Milbank Quarterly",
-        "issn": "0887-378X",
-        "date": "2026-10-10",
-        "subjects": [],
-        "domains": [
-          "healthReform",
-          "socialSecurity"
-        ],
-        "firstSeen": "2026-10-11",
-        "fetched_from": "crossref"
-      },
-      {
-        "id": "doi:10.1111/1468-0009.70135",
-        "doi": "10.1111/1468-0009.70135",
-        "url": "https://doi.org/10.1111/1468-0009.70135",
-        "title": "Child Health Challenges, Ecosystem Mismatches, and the Case for State‐Level Policy Innovation",
-        "authors": [
-          "NEAL HALFON",
-          "SHIRLEY RUSS"
-        ],
-        "abstract": "Policy Points                                                                                                                                         From 2011‐2023, US children's health deteriorated across &gt;170 indicators. Chronic conditions rose from 25.8% to 31%, risk of anxiety tripled, and autism and learning disability more than doubled.                                                                                         Policies based on biomedical models have failed to address these trends. Life course models regard health as a developmental process, with mismatches between children's physical, nutritional, and relational environments and the ones they are evolutionarily calibrated to expect as likely drivers of declining health.                                                                                         State policies can help to overcome mismatches and optimize developmental ecosystems. New Mexico is pioneering and testing an approach linking early childhood policy innovation with population‐level developmental measurement.                                                                                                                                                                                                             The health of US children has deteriorated significantly across multiple indicators with trends accelerating since 2007. From 2011‐2023, the prevalence of chronic conditions among 3‐19‐year‐olds rose from 25.8 to 31%, obesity rose from 17 to 20%, and autism and learning disabilities more than doubled. Rates of anxiety, loneliness, depression, early onset of menstruation and trouble sleeping all increased. Biomedically driven policy and practice have improved treatment of certain established medical conditions (e.g., childhood cancers and congenital heart disease), but failed to stem increasing mental health challenges, and neurodevelopmental disorders. Life course models point to fundamental changes in the early developmental ecosystem resulting in profound mismatches between the conditions children are evolutionarily primed and historically calibrated to expect and those they currently experience as primary drivers of these changes. The Industrial Revolution accelerated changes in children's physical, relational, and nutritional environments; temporal rhythms; and cognitive demands. The Digital Revolution further accelerated the speed and degree of change, potentially outpacing children's capacity for adaptive developmental responses. These multiple environmental changes do not act in isolation but interact in multilevel, dynamic, and complex ways to form the developmental ecosystems shaping children's developmental trajectories. In this paper we suggest a reorientation of child health policy and resulting interventions—expanding the focus beyond isolated social risks and behavioral deficits to address ecosystem‐level influences and shift population outcomes by altering health development trajectories. We also suggest a suite of actionable state‐level policy solutions geared to improve the configuration of these developmental ecosystems. We highlight state policy innovations such as New Mexico's comprehensive portfolio of early childhood policy changes and infrastructure upgrades along with ongoing population‐level measurement of children's health development to monitor policy impact.",
-        "source": "The Milbank Quarterly",
-        "issn": "0887-378X",
-        "date": "2026-10-10",
-        "subjects": [],
-        "domains": [
-          "healthReform",
-          "socialSecurity"
-        ],
-        "firstSeen": "2026-10-11",
-        "fetched_from": "crossref"
-      },
-      {
-        "id": "doi:10.1111/1468-0009.70132",
-        "doi": "10.1111/1468-0009.70132",
-        "url": "https://doi.org/10.1111/1468-0009.70132",
-        "title": "State Labor Market Policies and Health",
-        "authors": [
-          "SCOTT W. ALLARD",
-          "HEATHER D. HILL"
-        ],
-        "abstract": "Policy Points                                                                                                                                         Starting in the 2000s, state governments began adopting labor market policies, including minimum wage laws, earned income tax credits, paid family and medical leave programs, paid sick leave mandates, and scheduling laws.                                                                                         Evidence suggests that labor market policies can improve earnings and job quality, and some are associated with improved worker health.                                                                                         States interested in evidence‐based policies for improving worker health should consider generous, refundable earned income tax credits; higher minimum wages tied to inflation; greater local government discretion to adopt labor market policies; and paid leave programs or mandates.                                                                                                                                                                                        Context                     State governments have begun to adopt labor market policies, including minimum wage laws, earned income tax credits, paid family and medical leave programs, paid sick leave mandates, and scheduling laws. The presence (or absence) of these laws can affect the health and well‐being of workers.                                                           Methods                     A review of the existing literature.                                                           Findings                     Emerging evidence indicates that state government actions to increase earnings for those in low‐wage jobs and to improve their job quality can lead to better health.                                                           Conclusions                     Encouraging findings in the literature strongly suggest that policymakers should continue to advance state‐level labor market policies to improve the health outcomes of workers, as well as support efforts by researchers to assess their impact on health.",
-        "source": "The Milbank Quarterly",
-        "issn": "0887-378X",
-        "date": "2026-10-10",
-        "subjects": [],
-        "domains": [
-          "healthReform",
-          "socialSecurity"
         ],
         "firstSeen": "2026-10-11",
         "fetched_from": "crossref"
@@ -61076,6 +61186,57 @@
         "fetched_from": "crossref"
       },
       {
+        "id": "doi:10.1186/s12877-026-08428-0",
+        "doi": "10.1186/s12877-026-08428-0",
+        "url": "https://doi.org/10.1186/s12877-026-08428-0",
+        "title": "Differential associations of aging attitude risk with depression, anxiety, and suicide-related risk among older Chinese adults: a network analysis and GGMNIRA-based simulated intervention study",
+        "authors": [
+          "Xinjie Tan",
+          "Yuchen Fu",
+          "Anqi Cheng",
+          "Yisong Yao",
+          "Wenle Zhang"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-12",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-12",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08374-x",
+        "doi": "10.1186/s12877-026-08374-x",
+        "url": "https://doi.org/10.1186/s12877-026-08374-x",
+        "title": "Factors affecting the decline of intrinsic capacity of older adults in Chinese communities: a systematic review and meta-analysis",
+        "authors": [
+          "Yuan Zhao",
+          "Songye Zhao",
+          "Le Guo",
+          "Gan Li",
+          "Ying Tan",
+          "Jinjiao Yang",
+          "Binghua Lan",
+          "Yunpeng Su"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-12",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-12",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1186/s12877-026-08485-5",
         "doi": "10.1186/s12877-026-08485-5",
         "url": "https://doi.org/10.1186/s12877-026-08485-5",
@@ -61167,6 +61328,65 @@
           "agingHealth"
         ],
         "firstSeen": "2026-10-11",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70762",
+        "doi": "10.1111/jgs.70762",
+        "url": "https://doi.org/10.1111/jgs.70762",
+        "title": "Association Between Interhospital Transfer, Readmission, and Inpatient Mortality Among Older Adults",
+        "authors": [
+          "Rachel A. Hadler",
+          "Sara Nahon",
+          "David W. Boorman",
+          "Dio Kavalieratos",
+          "Rebecca A. Aslakson",
+          "Sara Turbow"
+        ],
+        "abstract": "ABSTRACT                                        Background                     Interhospital transfer (IHT) is a key strategy for providing access to specialty care; however, it is associated with multiple adverse outcomes, including prolonged length of stay, increased risk of inpatient mortality, and reduced rates of discharge home, particularly among older adults. We hypothesized that older patients who experience IHT would have a higher rate of acute‐care hospital readmissions compared to older adults who do not experience IHT.                                                           Methods                     We used the Healthcare Cost and Utilization Project's 2019 National Readmissions Database to identify adults 65+ who had and had not undergone IHT. We used unadjusted and adjusted logistic regression stratified by region, clustered by hospital and weighted by individual to measure the association between IHT and the odds of readmission and in‐hospital mortality.                                                           Results                                            Of the 11,836,556 older adults included in the weighted analysis, 0.9% experienced IHT. After adjusting for confounders including mortality risk, risk of readmission, admitting service, insurer, procedure characteristics, and others, IHT was associated with increased readmission rates (AOR 1.09, 95% CI: 1.01–1.18) and with increased risk of in‐hospital mortality (AOR 1.91, 95% CI: 1.81–2.02). In a sensitivity analysis, odds of readmission within 30 days were 29% higher for older adults who had undergone IHT compared to those who had not (AOR 1.29, 95% CI: 1.19–1.40). All comparisons are                       p                        &lt; 0.001.                                                                                Conclusion                     IHT is associated with increased readmission and mortality risk among older adults. These findings add to a burgeoning evidence base suggesting that IHT is associated with many long‐term risks to older adults. Further research is needed to characterize the underlying drivers of these findings and to develop evidence‐based practices to improve IHT processes for older adults.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-10-11",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-12",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70721",
+        "doi": "10.1111/jgs.70721",
+        "url": "https://doi.org/10.1111/jgs.70721",
+        "title": "A Community's Voice: Community Advisory Boards in\n                    <scp>ADRD</scp>\n                    Biomarker Research Among Older Black Women",
+        "authors": [
+          "Michelle L. Jackson",
+          "Seth Sangalang",
+          "Nadine C. Heyworth",
+          "Joy Stradford",
+          "Cozzette Lyons‐Jones",
+          "Tia Delaney‐Stewart",
+          "Asoniti Foster",
+          "Patricia Williams",
+          "Thelma Harris",
+          "Wendy McKinney",
+          "Catherine Baker",
+          "April D. Thames",
+          "Marc Norman",
+          "Erin E. Sundermann",
+          "Sarah J. Banks"
+        ],
+        "abstract": "ABSTRACT                   Alzheimer's Disease and Related Dementias (ADRD) disproportionately affect Black/African American (BAA) women, yet this afflicted population remains underrepresented in ADRD biomarker research. As ADRD blood‐based biomarkers become increasingly available, research must prioritize equity and inclusivity to determine their diagnostic specificity in minoritized groups. Community Advisory Boards (CABs) are pivotal in ensuring culturally responsive and community‐engaged research. This article outlines the formation, operation, and maintenance of the Black Women: Inflammation and Tau Study (BWITS) CAB, which has played a crucial role in guiding the BWITS Research Team by refining research protocols and safeguarding the cultural contexts of the communities it represents. Motivated by a commitment to the BAA community, we advocate for a transformative shift in ADRD research on minoritized populations, emphasizing the need for CAB input to ensure accountability and the implementation of culturally responsive methods, benefiting both the scientific and target communities.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-10-11",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-12",
         "fetched_from": "crossref"
       },
       {
@@ -88053,9 +88273,9 @@
   },
   "totals": {
     "socialSecurity": 1573,
-    "elderCare": 543,
+    "elderCare": 547,
     "healthReform": 878,
-    "agingHealth": 791,
+    "agingHealth": 795,
     "socialWork": 318
   },
   "feeds_ok": 41
