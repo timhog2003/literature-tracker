@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-12",
-  "fetched": "2026-10-12T07:37:29+00:00",
+  "date": "2026-10-13",
+  "fetched": "2026-10-13T07:56:51+00:00",
   "domains": {
     "socialSecurity": [
       {
@@ -24284,6 +24284,142 @@
     ],
     "elderCare": [
       {
+        "id": "doi:10.1186/s12877-026-07819-7",
+        "doi": "10.1186/s12877-026-07819-7",
+        "url": "https://doi.org/10.1186/s12877-026-07819-7",
+        "title": "Consumer preferences for hearing health care information and services as described by older adults surveyed in Australia, Canada, England, and the United States",
+        "authors": [
+          "F. Alnafjan",
+          "A. C. Davis",
+          "M. L. Lee",
+          "C. M. McMahon",
+          "A. H. Mokdad",
+          "C. L. Mosley",
+          "M. K. Pichora-Fuller",
+          "K. L. Tremblay"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-13",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-13",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08490-8",
+        "doi": "10.1186/s12877-026-08490-8",
+        "url": "https://doi.org/10.1186/s12877-026-08490-8",
+        "title": "Sagittal imbalance and incident long-term care needs in older adults: the locomotive syndrome and health outcomes in the Aizu Cohort Study (LOHAS)",
+        "authors": [
+          "Kazuyuki Watanabe",
+          "Koji Otani",
+          "Miho Sekiguchi",
+          "Takuya Nikaido",
+          "Kinshi Kato",
+          "Hiroshi Kobayashi",
+          "Yoichi Kaneuchi",
+          "Takuya Kameda",
+          "Michiyuki Hakozaki",
+          "Shoji Yabuki",
+          "Shin-ichi Konno",
+          "Yoshihiro Matsumoto"
+        ],
+        "abstract": "Abstract                                        Background                     Sagittal imbalance in older adults causes impairments in standing and gait, leading to mobility limitations (defined as “locomotive syndrome” in Japan), which are risk factors for future long-term care needs. This study aimed to investigate whether sagittal imbalance is a risk factor for long-term care needs in older adults.                                                           Methods                     This prospective cohort study included 552 participants from the 2010 Locomotive Syndrome and Health Outcomes in Aizu Cohort Study (LOHAS). The primary outcome was incident long-term care need, defined as a new certification in the national insurance system during a 5-year follow-up. Sagittal vertical axis (SVA) was measured on a standing whole-spine lateral radiograph. Bodily pain (SF-12) and physical function (3-m timed up and go [TUG] test) were assessed. Association between SVA and incident long-term care needs was evaluated using the Cox proportional hazards model, and hazard ratios (HRs) and 95% confidence intervals [CIs] were calculated, with adjustment for age, sex, pain, TUG, heart disease, and depression.                                                           Results                     During the 5-year follow-up, 63 (11.4%) participants obtained new care needs certification. By SVA categories, incident care needs were observed in 9.1%, 12.7%, and 31.0% of participants in the SVA &lt; 40, 40–95, and &gt; 95 mm groups, respectively. The adjusted HRs [95% CI] for the SVA &gt; 95 mm group were 2.72 [1.26–5.88] versus the SVA &lt; 40 mm group; and 2.13 [0.97–4.70] versus the SVA 40–95 group.                                                           Conclusion                     Severe sagittal imbalance was associated with an increased risk of incident long-term care needs in older adults.                                                           Clinical trial number                     not applicable.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-13",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-13",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08451-1",
+        "doi": "10.1186/s12877-026-08451-1",
+        "url": "https://doi.org/10.1186/s12877-026-08451-1",
+        "title": "Efficacy and safety of fluoroquinolone-containing regimens in pulmonary tuberculosis patients aged 70 years and above: a retrospective study",
+        "authors": [
+          "Zhengshu Ye",
+          "Yun Zhang",
+          "Guirong Wang",
+          "Jiachang Zhang",
+          "Ying Wang",
+          "Xiali Lv",
+          "Xinting Yang"
+        ],
+        "abstract": "Abstract                                        Background                     Older patients aged 70 years and above exhibit immunosenescence, increased comorbidity burden, and high susceptibility to adverse drug reactions. The standard HRZE regimen remains controversial in this population due to the considerable toxicity of pyrazinamide (PZA). This study aimed to evaluate the efficacy and safety of fluoroquinolone (FQ)-containing triple or quadruple regimens compared with conventional standard HR(L2)ZE or HR(L2)E regimens in older pulmonary tuberculosis (PTB) patients, so as to provide evidence for individualized treatment strategies in older adults.                                                           Methods                     A total of 184 newly diagnosed PTB patients aged ≥ 70 years were enrolled in this single-center retrospective study in 2023. Patients were divided into four groups according to initial anti-tuberculosis regimens: standard HR(L2)ZE quadruple therapy group, HR(L2)E triple therapy group, FQ-containing quadruple group, and FQ-containing triple group. Treatment outcomes and adverse event rates were compared among groups. Multivariate logistic regression was performed to identify independent risk factors for treatment failure and adverse events. Propensity score matching (PSM) was further performed between the standard HR(L2)ZE and FQ-containing quadruple groups to minimize baseline selection bias.                                                           Results                                            Significant differences in treatment success rates and overall adverse event rates were observed among the four groups (                       P                        &lt; 0.001). Compared with the standard HR(L2)ZE regimen, both FQ-containing triple and quadruple regimens achieved significantly higher treatment success rates and lower risks of treatment failure and adverse events. After adjusting for age, gender, sputum smear status, and serum albumin level, FQ- containing triple and quadruple regimens remained independently associated with improved clinical safety and efficacy. In the PSM analysis, which specifically compared the HR(L2)ZE and FQ-containing quadruple groups, HR(L2)ZE therapy was associated with a significantly higher risk of adverse events (OR = 16.87, 95% CI: 4.85–70.33,                       P                        &lt; 0.001).                                                                                Conclusion                     For PTB patients aged 70 years and older, the conventional HR(L2)ZE standard regimen is associated with high toxicity and limited clinical applicability. FQ-containing triple and quadruple regimens were associated with more favorable treatment outcomes, while PZA omission was associated with a lower risk of adverse events. Individualized therapeutic strategies with prudent PZA use and rational selection of fluoroquinolone-containing regimens may be considered for older patients. Given the retrospective observational design and potential selection bias, the observed associations should not be interpreted as causal relationships and require confirmation in prospective multicenter studies.                                                           Trial registration                     Not applicable.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-13",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-13",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08385-8",
+        "doi": "10.1186/s12877-026-08385-8",
+        "url": "https://doi.org/10.1186/s12877-026-08385-8",
+        "title": "Frailty and outcome after hospital admissions in two populations aged 80 years and above in 2012 and 2022 using the Hospital Frailty Risk Score",
+        "authors": [
+          "Hans Flaatten",
+          "Johannes Kolnes",
+          "Birger Skilbrei",
+          "Erlend Hodneland"
+        ],
+        "abstract": "Abstract                                        Purpose                     To study outcomes in two cohorts of patients ≥ 80 years admitted to a tertiary hospital in Bergen Norway in 2012 and 2022.                                                           Methods                     This retrospective observational study compared two separate calendar-year cohorts of patients aged ≥ 80 years hospitalized in 2012 and 2022. Frailty was assessed using the ICD-10-based Hospital Frailty Risk Score (HFRS). Outcomes included hospital length of stay, 30-day readmission, hospital mortality, and one-year survival after last admission. Survival was analyzed using Kaplan–Meier curves and Cox regression models.                                                           Results                     There was an increase in patient admissions from 5112 (2012] to 6232 (2022] with a female majority. Half of both cohorts were classified as frail [HFRS &gt; 15], with no significant sex difference. Non- frail patients had the highest one-year survival [87%] compared to 69% in the high frailty group. A higher mortality was found in frail males [65%] compared with females and in the age group ≥ 90 years. The combination of high frailty risk [HFRS &gt; 15], age ≥ 90 years and male had the lowest survival of all sub-group analyzed [60%].                                                           Conclusion                     Higher HFRS was associated with worse clinical outcomes. The HFRS was able to identify vulnerable patient groups with significantly increased mortality, but there was no increase in frailty over the 10-year period in the two cohorts.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-13",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-13",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08338-1",
+        "doi": "10.1186/s12877-026-08338-1",
+        "url": "https://doi.org/10.1186/s12877-026-08338-1",
+        "title": "Identifying kinesiophobia subgroups using latent profile analysis and persona development in frail older patients with cardiovascular disease: a mixed methods study",
+        "authors": [
+          "Huina Zou",
+          "Xinglin Zheng",
+          "Peihuang Dong",
+          "Linjing Wu",
+          "Mingxin Yang",
+          "Qianlin Zhang",
+          "Kaixin Li",
+          "Feng Tian",
+          "Shiqi Chen",
+          "Yuan Chen"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-13",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-13",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1186/s12877-026-08428-0",
         "doi": "10.1186/s12877-026-08428-0",
         "url": "https://doi.org/10.1186/s12877-026-08428-0",
@@ -24332,6 +24468,350 @@
           "agingHealth"
         ],
         "firstSeen": "2026-10-12",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70744",
+        "doi": "10.1111/jgs.70744",
+        "url": "https://doi.org/10.1111/jgs.70744",
+        "title": "Comment on “Implications of Missing Data Mechanisms in Randomized Controlled Trials”",
+        "authors": [
+          "Guiping Huang",
+          "Yihua Yu"
+        ],
+        "abstract": "",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-10-12",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-13",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70778",
+        "doi": "10.1111/jgs.70778",
+        "url": "https://doi.org/10.1111/jgs.70778",
+        "title": "Appetite Loss, Inflammation, and Incident Functional Loss Among Community‐Dwelling Older Adults",
+        "authors": [
+          "Germine Soliman",
+          "Xiaomin Lu",
+          "Emil Coman",
+          "Zeyu Hu",
+          "Berno Diniz",
+          "Anne B. Newman",
+          "Eleanor Simonsick",
+          "Shanshan Yao",
+          "George A. Kuchel",
+          "Lisa C. Barry"
+        ],
+        "abstract": "ABSTRACT                                        Background                     Aging is associated with both reduced appetite and increased inflammation. Whether and how these factors contribute to or exacerbate functional decline in older adults is unclear.                                                           Methods                     Data from 3073 men and women aged 70–79 years participating in the Health, Aging, and Body Composition (Health ABC) with reported appetite (good or poor) and inflammatory markers (Interleukin (IL)‐6, tumor necrosis factor (TNF)‐α and C‐reactive protein (CRP)) at baseline were followed for up to 6 years to determine if they developed Persistent Lower Extremity Limitation (PLL), defined as two consecutive reports of difficulty walking a quarter mile and/or climbing 10 steps without resting 6 months apart, using Fine‐Gray Proportional hazards models adjusted for demographics, chronic diseases, anxiety, depression, medications, and sensory factors.                                                           Results                                            A total of 388 (12.6%) participants reported impaired appetite. These individuals were mainly female (59%), Black (54%), with a mean age of 73.9 (±3) years. Those with impaired appetite vs. good appetite were more likely to develop PLL (64% vs. 47%;                       p                        &lt; 0.001) and had higher IL‐6, TNF‐α, and CRP levels (                       p                        &lt; 0.001 for each). Cumulative incidence curves showed that 40% and 20% of those with impaired and good appetite, respectively, developed PLL by 18 months. Subjects with impaired appetite experienced a higher risk of developing PLL (hazard ratio, adjusted = 1.44; 95% CI = 1.2, 1.7), as did those with elevated inflammatory markers. Cumulative incidence curves indicated that individuals with impaired appetite and elevated CRP, IL‐6, and TNF‐α experienced the fastest onset of functional loss, reaching 50% at around 12 months, and nearly all had mobility limitations by 32 months.                                                                                Conclusion                     Impaired appetite and increased inflammatory biomarkers are independently linked to mobility loss. Appetite impairment might signal early nutritional and supportive care needs, but inflammation‐targeted interventions require further study.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-10-12",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-13",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70783",
+        "doi": "10.1111/jgs.70783",
+        "url": "https://doi.org/10.1111/jgs.70783",
+        "title": "Caregivers in a Haystack? Informatics‐Driven Clinical Trial Enrollment of Dementia Caregivers at Medical Visits",
+        "authors": [
+          "Eva S. Ren",
+          "Jennifer A. Makelarski",
+          "Delaney A. Romanchick",
+          "Veera Anand",
+          "Victoria A. Winslow",
+          "Emily M. Abramsohn",
+          "MariaDelSol De Ornelas",
+          "Elbert S. Huang",
+          "Katherine Thompson",
+          "Soo Borson",
+          "Julie Johnson",
+          "Stacy T. Lindau"
+        ],
+        "abstract": "ABSTRACT                                        Background                     Caregiving status is not routinely documented during clinical care, rendering caregivers difficult to identify for research and supportive interventions. We describe two informatics‐based strategies for identifying dementia caregivers at their own or their care recipient's point of care (POC).                                                           Methods                     The CommunityRx‐Dementia trial was conducted at a U.S. urban academic medical center serving a predominantly Black population. Eligible participants were caregivers of a patient with dementia recruited mainly by: (1) fee‐based queries of the clinical research data warehouse (CRDW) that identified patients with dementia and their listed contacts (potential caregivers) (August 2020–November 2022) or (2) no‐cost self‐service query using an electronic health record (EHR)‐integrated cohort discovery tool that identified patients with dementia (June 2020). For CRDW lists, probabilistic matching was used to identify contacts who were also patients at the study site. An EHR dashboard displayed medical visits of patients with dementia (identified from both strategies) and their contacts (from CRDW only) to recruit at the POC.                                                           Results                                            A recruitment list of 8185 patients with dementia was created: 6282 from five CRDW queries and 1883 from one self‐service EHR query, 20 from self‐ and clinician referrals. Target enrollment (                       N                        = 344) was reached in 27 months; 321 caregivers from CRDW contacts, 19 from self‐service query contacts, 4 from clinician referrals. Enrollment rates were 66% (321/488) of eligible caregivers from CRDW and 48% (19/40) from self‐service query. Seventeen percent of all enrolled caregivers were recruited from their own visit (28% internal medicine, 11% ophthalmology, 9% geriatrics, 5% hematology/oncology, 47% all other eligible clinics).                                                                                Conclusions                     A large dementia caregiver trial achieved recruitment goals using two replicable informatics‐based strategies. The CRDW strategy involved no manual EHR abstraction and enabled direct recruitment of dementia caregivers at their own medical visits at relatively low cost.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-10-12",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-13",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70756",
+        "doi": "10.1111/jgs.70756",
+        "url": "https://doi.org/10.1111/jgs.70756",
+        "title": "Effect of Recognition of Hearing Loss Among Care Recipients on Caregiver Reported Care Outcomes",
+        "authors": [
+          "Gianna Rodriguez",
+          "Wuyang Zhang",
+          "Emmanuel E. Garcia Morales",
+          "Nicholas S. Reed",
+          "Danielle S. Powell"
+        ],
+        "abstract": "ABSTRACT                                        Background                     Hearing loss (HL) is common in older adults, but many do not recognize how it affects communication. This lack of recognition may limit caregivers' ability to provide effective support, since communication is central to caregiving. This study examined whether care recipients' HL recognition is associated with caregiver burden and psychosocial well‐being.                                                           Methods                     We used the Round 13 (2023) data from NHATS and NSOC, including 1480 caregivers assisting 960 older adults. HL status was classified as: unrecognized HL (audiometric HL without self‐reported difficulty), recognized HL (audiometric HL with self‐reported difficulty or hearing aid use), and no HL (normal audiometry). Caregiver outcomes included emotional, financial, and physical burden; relationship quality; PHQ‐4 well‐being; and restrictions in leisure and social activities. We further examined differences by HL severity and hearing aid use.                                                           Results                     Among caregivers, 47% supported older adults with unrecognized HL, 34% recognized HL, and 19% had no HL. Compared with caregivers of older adults without HL, caregivers of those with unrecognized HL were more likely to report depressive symptoms, including little interest or pleasure in doing things (OR 1.85; 95% CI: 1.19–2.87) and feeling down or depressed (OR 2.07; 95% CI: 1.31–3.25). A trend toward fewer depressive symptoms was observed among caregivers of individuals with managed HL, though it was not statistically significant. No differences were found in caregiving burden, relationship quality, or activity restriction.                                                           Conclusion                     Despite expectations otherwise, associations between HL recognition and caregiver well‐being were modest, suggesting current measures may not fully capture the communication challenges shaping caregiving experiences.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-10-12",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-13",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70790",
+        "doi": "10.1111/jgs.70790",
+        "url": "https://doi.org/10.1111/jgs.70790",
+        "title": "The Last Lesson: What Ms. E Taught Me About Living Fully",
+        "authors": [
+          "Karen Bensinger"
+        ],
+        "abstract": "",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-10-12",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-13",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08421-7",
+        "doi": "10.1186/s12877-026-08421-7",
+        "url": "https://doi.org/10.1186/s12877-026-08421-7",
+        "title": "Longitudinal changes in the gut microbiome following a multidomain lifestyle intervention in older adults at risk of dementia: an exploratory sub-study of the SUPERBRAIN trial",
+        "authors": [
+          "Cindy W. Yoon",
+          "Woorim Kang",
+          "Jae-Yun Lee",
+          "Hojun Sung",
+          "Hyun-Seok Oh",
+          "Dong-Wook Hyun",
+          "Jee Hyang Jeong",
+          "Hae Ri Na",
+          "So Young Moon",
+          "Chang Hyung Hong",
+          "Yoo Kyoung Park",
+          "Seong Hye Choi"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-12",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-13",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08477-5",
+        "doi": "10.1186/s12877-026-08477-5",
+        "url": "https://doi.org/10.1186/s12877-026-08477-5",
+        "title": "Handgrip strength for predicting incident ADL disability in older adults with arthritis: a multi-cohort external validation study",
+        "authors": [
+          "Chen Yu",
+          "Zebin Wang",
+          "Gang Gao"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-12",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-13",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08463-x",
+        "doi": "10.1186/s12877-026-08463-x",
+        "url": "https://doi.org/10.1186/s12877-026-08463-x",
+        "title": "Material neighbourhood resources, formal community service resources, and depression in older adults: a systematic review",
+        "authors": [
+          "Hongxiu Chen",
+          "Wichai Eungpinichpong",
+          "Somkiat Asawaphureekorn",
+          "Kesinee Saranrittichai",
+          "Yuan Xie",
+          "Xingze Wang"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-12",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-13",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08431-5",
+        "doi": "10.1186/s12877-026-08431-5",
+        "url": "https://doi.org/10.1186/s12877-026-08431-5",
+        "title": "Multidimensional social determinants of health profiles and incident severe disability and recovery among older Chinese adults: a longitudinal CHARLS study",
+        "authors": [
+          "Yuyan Wu",
+          "Xufeng Wu",
+          "Aihong Pan",
+          "Chaoliang Tang"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-12",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-13",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08488-2",
+        "doi": "10.1186/s12877-026-08488-2",
+        "url": "https://doi.org/10.1186/s12877-026-08488-2",
+        "title": "Associations of 24-hour movement behaviors with functional disability in Chinese community-dwelling older adults: a compositional isotemporal substitution analysis",
+        "authors": [
+          "Qingyun Ding",
+          "Junquan Huo",
+          "Zihao Huang",
+          "Shiqiang Wang",
+          "Dan Li",
+          "Yixuan Liang",
+          "Shenghui Deng"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-12",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-13",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08496-2",
+        "doi": "10.1186/s12877-026-08496-2",
+        "url": "https://doi.org/10.1186/s12877-026-08496-2",
+        "title": "Densitometric heterogeneity and unstable intertrochanteric fracture morphology in older adults: a retrospective cohort study",
+        "authors": [
+          "Muhammed Kazez",
+          "Mustafa Yalın"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-12",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-13",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08465-9",
+        "doi": "10.1186/s12877-026-08465-9",
+        "url": "https://doi.org/10.1186/s12877-026-08465-9",
+        "title": "Association of respiratory muscle strength with pre-frailty and overall functional status in community-dwelling Japanese older adults: a cross-sectional study",
+        "authors": [
+          "Toshimi Sato",
+          "Noa Haniuda",
+          "Masayuki Hoshi",
+          "Tatsuya Nakanowatari",
+          "Maki Ogasawara",
+          "Yuko Horikoshi",
+          "Toshimasa Sone",
+          "Shoji Yabuki",
+          "Yoshitaka Shiba"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-12",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-13",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08472-w",
+        "doi": "10.1186/s12877-026-08472-w",
+        "url": "https://doi.org/10.1186/s12877-026-08472-w",
+        "title": "Measuring resident preferences in nursing homes: development and validation of the preferences for residential care scale-resident version among residents without cognitive impairment",
+        "authors": [
+          "Chiu-Yueh Hsiao",
+          "Hui-Wen Chen",
+          "Chi-Rong Li",
+          "Yun-Fang Tsai"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-12",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-13",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08475-7",
+        "doi": "10.1186/s12877-026-08475-7",
+        "url": "https://doi.org/10.1186/s12877-026-08475-7",
+        "title": "Interpolated glycemic–blood-pressure favorable-range time and incident survey-reported cardiovascular disease in older adults with dysglycemia: a CKM-informed landmark study across three aging cohorts",
+        "authors": [
+          "Mingzhe Xia"
+        ],
+        "abstract": "Abstract                                        Background                     Longitudinal glycemic and blood-pressure profiles may provide information not captured by single measurements, but sparse biomarker waves complicate their interpretation in older adults.                                                           Methods                     We conducted a landmark analysis of adults aged 60 years or older with dysglycemia in CHARLS, ELSA, and HRS who had two paired HbA1c and systolic blood pressure (SBP) assessments. Cohort-specific Cox models related pre-landmark interpolated joint favorable-range time to post-landmark survey-reported heart disease or stroke, and estimates were pooled using random-effects meta-analysis.                                                           Results                                            The analytic sample included 5,662 participants and 1,330 post-landmark composite events. In the primary overall-association Model 2, each 10-percentage-point higher interpolated glycemic–blood-pressure favorable-range time (GB-TTR) was associated with a pooled hazard ratio (HR) of 0.987 (95% CI 0.972–1.001;                       p                        = 0.075). The secondary component-adjusted incremental Model 3 estimate was 0.993 (95% CI 0.976–1.010;                       p                        = 0.403).                                                                                Conclusions                     Higher pre-landmark interpolated GB-TTR was not robustly associated with lower post-landmark survey-reported cardiovascular disease. This two-wave interpolated phenotype is descriptive and should not be interpreted as a treatment target, causal effect, or validated risk-stratification measure.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-12",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-13",
         "fetched_from": "crossref"
       },
       {
@@ -24485,6 +24965,35 @@
           "agingHealth"
         ],
         "firstSeen": "2026-10-12",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70742",
+        "doi": "10.1111/jgs.70742",
+        "url": "https://doi.org/10.1111/jgs.70742",
+        "title": "Reply to: “Vitamin D and Risk of Falls: A Multidisciplinary Intervention”",
+        "authors": [
+          "Toni Rikkonen",
+          "Sari Hantunen",
+          "Heikki Kröger",
+          "Christel Lamberg‐Allardt",
+          "JoAnn E. Manson",
+          "Tarja Nurmi",
+          "Marjo Tuppurainen",
+          "Ari Voutilainen",
+          "Tomi‐Pekka Tuomainen",
+          "Jyrki K. Virtanen"
+        ],
+        "abstract": "",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-10-11",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-13",
         "fetched_from": "crossref"
       },
       {
@@ -38097,6 +38606,217 @@
           "healthReform"
         ],
         "firstSeen": "2026-09-26",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag252",
+        "doi": "10.1093/aje/kwag252",
+        "url": "https://doi.org/10.1093/aje/kwag252",
+        "title": "Racial discrimination and preterm birth subtype among a prospective cohort of nulliparous Black women in the United States, 2010-2013",
+        "authors": [
+          "Ashley S Judge",
+          "Collette N Ncube",
+          "Erika T Beidelman",
+          "Tera Howard",
+          "Kelli Ryckman",
+          "Christina Ludema"
+        ],
+        "abstract": "Abstract                   Racial discrimination has been associated with an increased risk of preterm birth (PTB) among Black women. Few studies have examined whether this association differs by clinical presentation of PTB. We examined the association between racial discrimination and PTB subtype using data from a 2010-2013 clinic-based prospective cohort study of nulliparous women among women who self-reported Black race. Lifetime racial discrimination was measured with the revised Experiences of Discrimination scale. We used inverse probability of exposure and post-stratification weights with the cumulative incidence function to estimate associations between racial discrimination and spontaneous PTB and indicated PTB within a competing risk framework. We estimated standard errors via bootstrapping. We stratified by education and age group to examine effect modification. Compared to none, racial discrimination in ≥3 situations was associated with 1.66 (95% CI, 0.72, 3.82) times the risk of spontaneous PTB and 0.37 (95% CI, 0.15, 0.93) times the risk of indicated PTB. Point estimates between racial discrimination and spontaneous PTB were strongest among women with some college education and ≥20 year-olds. Future studies should consider clinical subtype in assessments of the association between racism and preterm birth and include in the study design late prenatal care initiators.",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-10-13",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-13",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag254",
+        "doi": "10.1093/aje/kwag254",
+        "url": "https://doi.org/10.1093/aje/kwag254",
+        "title": "Estimate Optimal Dynamic Treatment Regimes with Partial Compatibility: An Application to data from a TREAT Asia HIV Observational Database (TAHOD) site in Pune, India",
+        "authors": [
+          "Chloe Si",
+          "David A Stephens",
+          "Erica E M Moodie",
+          "Ivan Marbaniang",
+          "Vidya Mave",
+          "Haridas Prasad"
+        ],
+        "abstract": "Abstract                   Dynamic treatment regimes (DTRs) formalize sequences of treatment decision rules that adapt to a patient’s evolving clinical status. In observational studies, estimation of the value of a DTR (i.e., the expected population-outcome of a treatment strategy) using inverse probability weighting (IPW) and augmented IPW can be unstable when strict regime compatibility yields few valid participant trajectories, leading to highly variable weights and noisy estimates. In this paper, we introduce two adaptive weighting frameworks: generalized compatibility weighting (GCW) and bootstrap compatibility windowing (BCW), that allow near-compatible trajectories to contribute information in limited samples, with diminishing information-borrowing in larger samples. We illustrate how these estimators reduce noise in estimation and stabilize empirical optimal treatment threshold identification. Using data from adults living with HIV in one site of the TREAT Asia HIV Observational Database in India observed from 2013-2024, we evaluate clinically interpretable threshold-based decision rules based on baseline CD4 count and weight. In this application, GCW and BCW produced more stable estimated regime values than standard IPW-based approaches, with reduced variability across candidate thresholds and more reliable identification of empirically optimal treatment rules. These methods provide practical tools for improving treatment rule evaluation in observational studies.",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-10-13",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-13",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag258",
+        "doi": "10.1093/aje/kwag258",
+        "url": "https://doi.org/10.1093/aje/kwag258",
+        "title": "A Law of Iterated Expectation Primer for Causal Inference",
+        "authors": [
+          "Ashley I Naimi",
+          "Razieh Nabi",
+          "Lindsay J Collin",
+          "Zhaohua Zeng",
+          "Paul N Zivich",
+          "Stephen R Cole"
+        ],
+        "abstract": "Abstract                   The g-formula is a foundational tool for identifying causal effects in observational data. This tool is based on the law of iterated expectation, a key mathematical identity in statistics. However, the notation with which the law of iterated expectation and the g-formula is expressed can be opaque to those with little background in statistics. We provide a primer introducing the law of iterated expectation, the integration notation used to express it, and its role for causal effect identification via the g-formula. Combined with the assumptions of causal consistency, positivity, and conditional exchangeability, the law of iterated expectation yields a causal standardization formula (the g-formula) in two nonparametrically equivalent forms: a non-iterative conditional expectation (NICE) form involving a single weighted average of conditional outcome means, and an iterative conditional expectation (ICE) form involving nested expectations. We illustrate both forms using three progressively complex numerical examples: a time-fixed example with a single binary confounder, a time-fixed example with discrete and continuous confounders, and a time-varying example with two timepoints. We provide clarity on what the law of iterated expectation is, how it is related to the g-formula, and how to gain intuition of its mathematical formulations in actual data examples that can be generalized to a range of settings.",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-10-13",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-13",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.16385",
+        "doi": "10.1001/jama.2026.16385",
+        "url": "https://doi.org/10.1001/jama.2026.16385",
+        "title": "Gastric Residual Volume Assessment in Children",
+        "authors": [
+          "Sascha C. A. T. Verbruggen",
+          "Rogier C. J. de Jonge",
+          "Koen F. M. Joosten"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-12",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-13",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.16388",
+        "doi": "10.1001/jama.2026.16388",
+        "url": "https://doi.org/10.1001/jama.2026.16388",
+        "title": "Gastric Residual Volume Assessment in Children—Reply",
+        "authors": [
+          "Lyvonne N. Tume",
+          "Mark J. Peters",
+          "David A. Harrison"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-12",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-13",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.21693",
+        "doi": "10.1001/jama.2026.21693",
+        "url": "https://doi.org/10.1001/jama.2026.21693",
+        "title": "Error in Author Name",
+        "authors": [],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-12",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-13",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.19424",
+        "doi": "10.1001/jama.2026.19424",
+        "url": "https://doi.org/10.1001/jama.2026.19424",
+        "title": "As Organ Supply Expands, Equity Must Be Reimagined",
+        "authors": [
+          "Lisa B. VanWagner",
+          "John Bucuvalas",
+          "David S. Goldberg",
+          "Ali Zarrinpar"
+        ],
+        "abstract": "This Viewpoint discusses aspects of the organ transplant waiting list, transplant technology, and the expansion of graft availability.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-12",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-13",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.17403",
+        "doi": "10.1001/jama.2026.17403",
+        "url": "https://doi.org/10.1001/jama.2026.17403",
+        "title": "Development and Validation of an Adult Medical Urgency Score for US Donor Heart Allocation",
+        "authors": [
+          "Grace R. Lyden",
+          "Molly White",
+          "Daniel J. Ahn",
+          "JonDavid Menteer",
+          "Richard C. Daly",
+          "Nikhil Narang",
+          "Kiran K. Khush",
+          "Carine Jasseron",
+          "Richard Dorent",
+          "Maria Masotti",
+          "Nicholas L. Wood",
+          "Monica M. Colvin",
+          "Sommer E. Gentry",
+          "William F. Parker"
+        ],
+        "abstract": "Importance                     One in 5 heart transplant candidates in the US die or are delisted without transplant. Donor hearts are currently allocated by a 6-status therapy-based system criticized for limited risk stratification and susceptibility to gaming.                                                           Objective                     To develop a new heart allocation policy based on an objective medical urgency score that ranks candidates based on the interaction between physiology and mechanical circulatory support.                                                           Design, Setting, and Participants                     Registry-based observational study using data from the US organ transplant system. All adult (aged ≥18 years) heart transplant candidates from January 2019 to August 2025 were included, split into training (2019-2023), validation (2023-2024), and test (2024-2025) datasets.                                                           Main Outcomes and Measures                     A marginal structural model of 6-week mortality without transplant was estimated (the US Candidate Risk Score [US-CRS]). Eight models were compared in held-out data by weighted time-dependent area under the curve (AUC) and calibration by status. Finally, US-CRS was converted into an allocation policy and a match-run simulation of waitlist reordering was performed compared with the current 6-status system.                                                           Results                     Adult heart transplant candidates were partitioned into consecutive training (n = 21 859), validation (n = 7897), and test (n = 8256) datasets (mean [SD] age, 53 [13] years; 74% male). The chosen US-CRS model included 5 laboratory values and 4 therapeutic devices (durable left ventricular assist device, intra-aortic balloon pump, microaxial flow pump, and advanced mechanical circulatory support). In test-set cross-sections of candidates actively waiting on the same calendar date, US-CRS had similar or significantly higher time-dependent AUC than the current 6-status system (mean AUC, 0.807 vs 0.693, respectively) and acceptable calibration by status, especially for candidates who received their status by exception. In match-run analysis (n = 45 530 donor hearts), a US-CRS–based system led to 67% of transplant recipients moving down in rank order and increased observed 6-week transplant-censored mortality for the first candidate on the match run from 11.2% (95% CI, 10.1%-12.5%) under the current system to 15.7% (95% CI, 13.9%-17.6%) under the US-CRS–based system.                                                           Conclusions and Relevance                     In this registry-based study of US heart transplant candidates, a US-CRS–based allocation system prioritized sicker candidates with higher mortality without transplant compared with the current medical urgency statuses.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-12",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-13",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.17622",
+        "doi": "10.1001/jama.2026.17622",
+        "url": "https://doi.org/10.1001/jama.2026.17622",
+        "title": "Heart Transplant for Advanced Heart Failure",
+        "authors": [
+          "Kaushik Amancherla",
+          "Ravi Shah",
+          "Ashish S. Shah",
+          "Kelly H. Schlendorf",
+          "JoAnn Lindenfeld"
+        ],
+        "abstract": "Importance                     Heart failure affects more than 6 million US adults; approximately 4% to 5% progress to advanced disease despite optimal therapy. Heart transplant is a class I guideline-recommended therapy for select individuals with advanced heart failure.                                                           Observations                     Early referral for heart transplant is guided by the “I NEED HELP” mnemonic, a tool that identifies patients with advanced heart failure based on criteria such as use of inotropes, persistent symptoms (New York Heart Association class III or IV), end-organ dysfunction, left ventricular ejection fraction, defibrillator shocks, hospitalizations for heart failure, persistent edema or escalating use of diuretics, and low blood pressure. Each criterion is associated with higher risk of death or first heart failure hospitalization over a median follow-up of 260 days (adjusted hazard ratio, 1.19 [95% CI, 1.11-1.27] for each additional criterion). Typical absolute contraindications to heart transplant include active systemic infection, malignancy with limited life expectancy, severe and irreversible end-organ dysfunction (eg, cirrhosis, severe pulmonary hypertension), active substance use, major untreated psychiatric illness, inadequate social support, and severe frailty. Approximately 4600 heart transplants are performed annually in the US. The mortality rate was 8.5 deaths/100 patient-years for adults on the transplant waiting list in 2023. Leading causes of early death after transplant include primary graft dysfunction (39.5%), multiorgan failure (18.5%), and infection (13.9%). Among adults, contemporary survival rates after heart transplant are 91.5% at 1 year and 80.3% at 5 years. Lifelong maintenance immunosuppression typically combines a calcineurin inhibitor, antiproliferative agents (typically mycophenolate mofetil or azathioprine) and corticosteroids, with selective use of induction therapy (intensive immunosuppression immediately after transplant). Acute rejection requiring treatment occurs in 20% to 25% of recipients within a year, and may be treated with high-dose corticosteroids, antithymocyte globulin, and B-cell–targeted therapies (such as rituximab or bortezomib). Rejection surveillance with endomyocardial biopsies of the right ventricular septum is performed 5 to 10 times within the first year after transplant. Cardiac allograft vasculopathy (chronic rejection that causes diffuse coronary narrowing) affects 29% of heart transplant recipients within 5 years and 46.8% by 10 years and is the leading cause of late mortality. Cardiac allograft vasculopathy is treated with statins, mechanistic target of rapamycin inhibitors (such as sirolimus or everolimus), and retransplant for severe cases. Infections (62.5% are bacterial, 30.0% are viral, 6.7% are fungal, and 0.8% are parasitic) and malignancy (10.7% within 5 years after heart transplant) are other leading causes of late mortality.                                                           Conclusions and Relevance                     Heart transplant is the definitive therapy for carefully selected patients with advanced heart failure despite receiving optimal, guideline-directed therapy. After heart transplant, lifelong multidisciplinary care is necessary to manage immunosuppression, prevent and treat rejection and cardiac allograft vasculopathy, and monitor for infection and malignancy.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-12",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-13",
         "fetched_from": "crossref"
       },
       {
@@ -61186,6 +61906,217 @@
         "fetched_from": "crossref"
       },
       {
+        "id": "doi:10.1186/s12877-026-07819-7",
+        "doi": "10.1186/s12877-026-07819-7",
+        "url": "https://doi.org/10.1186/s12877-026-07819-7",
+        "title": "Consumer preferences for hearing health care information and services as described by older adults surveyed in Australia, Canada, England, and the United States",
+        "authors": [
+          "F. Alnafjan",
+          "A. C. Davis",
+          "M. L. Lee",
+          "C. M. McMahon",
+          "A. H. Mokdad",
+          "C. L. Mosley",
+          "M. K. Pichora-Fuller",
+          "K. L. Tremblay"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-13",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-13",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08490-8",
+        "doi": "10.1186/s12877-026-08490-8",
+        "url": "https://doi.org/10.1186/s12877-026-08490-8",
+        "title": "Sagittal imbalance and incident long-term care needs in older adults: the locomotive syndrome and health outcomes in the Aizu Cohort Study (LOHAS)",
+        "authors": [
+          "Kazuyuki Watanabe",
+          "Koji Otani",
+          "Miho Sekiguchi",
+          "Takuya Nikaido",
+          "Kinshi Kato",
+          "Hiroshi Kobayashi",
+          "Yoichi Kaneuchi",
+          "Takuya Kameda",
+          "Michiyuki Hakozaki",
+          "Shoji Yabuki",
+          "Shin-ichi Konno",
+          "Yoshihiro Matsumoto"
+        ],
+        "abstract": "Abstract                                        Background                     Sagittal imbalance in older adults causes impairments in standing and gait, leading to mobility limitations (defined as “locomotive syndrome” in Japan), which are risk factors for future long-term care needs. This study aimed to investigate whether sagittal imbalance is a risk factor for long-term care needs in older adults.                                                           Methods                     This prospective cohort study included 552 participants from the 2010 Locomotive Syndrome and Health Outcomes in Aizu Cohort Study (LOHAS). The primary outcome was incident long-term care need, defined as a new certification in the national insurance system during a 5-year follow-up. Sagittal vertical axis (SVA) was measured on a standing whole-spine lateral radiograph. Bodily pain (SF-12) and physical function (3-m timed up and go [TUG] test) were assessed. Association between SVA and incident long-term care needs was evaluated using the Cox proportional hazards model, and hazard ratios (HRs) and 95% confidence intervals [CIs] were calculated, with adjustment for age, sex, pain, TUG, heart disease, and depression.                                                           Results                     During the 5-year follow-up, 63 (11.4%) participants obtained new care needs certification. By SVA categories, incident care needs were observed in 9.1%, 12.7%, and 31.0% of participants in the SVA &lt; 40, 40–95, and &gt; 95 mm groups, respectively. The adjusted HRs [95% CI] for the SVA &gt; 95 mm group were 2.72 [1.26–5.88] versus the SVA &lt; 40 mm group; and 2.13 [0.97–4.70] versus the SVA 40–95 group.                                                           Conclusion                     Severe sagittal imbalance was associated with an increased risk of incident long-term care needs in older adults.                                                           Clinical trial number                     not applicable.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-13",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-13",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08451-1",
+        "doi": "10.1186/s12877-026-08451-1",
+        "url": "https://doi.org/10.1186/s12877-026-08451-1",
+        "title": "Efficacy and safety of fluoroquinolone-containing regimens in pulmonary tuberculosis patients aged 70 years and above: a retrospective study",
+        "authors": [
+          "Zhengshu Ye",
+          "Yun Zhang",
+          "Guirong Wang",
+          "Jiachang Zhang",
+          "Ying Wang",
+          "Xiali Lv",
+          "Xinting Yang"
+        ],
+        "abstract": "Abstract                                        Background                     Older patients aged 70 years and above exhibit immunosenescence, increased comorbidity burden, and high susceptibility to adverse drug reactions. The standard HRZE regimen remains controversial in this population due to the considerable toxicity of pyrazinamide (PZA). This study aimed to evaluate the efficacy and safety of fluoroquinolone (FQ)-containing triple or quadruple regimens compared with conventional standard HR(L2)ZE or HR(L2)E regimens in older pulmonary tuberculosis (PTB) patients, so as to provide evidence for individualized treatment strategies in older adults.                                                           Methods                     A total of 184 newly diagnosed PTB patients aged ≥ 70 years were enrolled in this single-center retrospective study in 2023. Patients were divided into four groups according to initial anti-tuberculosis regimens: standard HR(L2)ZE quadruple therapy group, HR(L2)E triple therapy group, FQ-containing quadruple group, and FQ-containing triple group. Treatment outcomes and adverse event rates were compared among groups. Multivariate logistic regression was performed to identify independent risk factors for treatment failure and adverse events. Propensity score matching (PSM) was further performed between the standard HR(L2)ZE and FQ-containing quadruple groups to minimize baseline selection bias.                                                           Results                                            Significant differences in treatment success rates and overall adverse event rates were observed among the four groups (                       P                        &lt; 0.001). Compared with the standard HR(L2)ZE regimen, both FQ-containing triple and quadruple regimens achieved significantly higher treatment success rates and lower risks of treatment failure and adverse events. After adjusting for age, gender, sputum smear status, and serum albumin level, FQ- containing triple and quadruple regimens remained independently associated with improved clinical safety and efficacy. In the PSM analysis, which specifically compared the HR(L2)ZE and FQ-containing quadruple groups, HR(L2)ZE therapy was associated with a significantly higher risk of adverse events (OR = 16.87, 95% CI: 4.85–70.33,                       P                        &lt; 0.001).                                                                                Conclusion                     For PTB patients aged 70 years and older, the conventional HR(L2)ZE standard regimen is associated with high toxicity and limited clinical applicability. FQ-containing triple and quadruple regimens were associated with more favorable treatment outcomes, while PZA omission was associated with a lower risk of adverse events. Individualized therapeutic strategies with prudent PZA use and rational selection of fluoroquinolone-containing regimens may be considered for older patients. Given the retrospective observational design and potential selection bias, the observed associations should not be interpreted as causal relationships and require confirmation in prospective multicenter studies.                                                           Trial registration                     Not applicable.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-13",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-13",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08385-8",
+        "doi": "10.1186/s12877-026-08385-8",
+        "url": "https://doi.org/10.1186/s12877-026-08385-8",
+        "title": "Frailty and outcome after hospital admissions in two populations aged 80 years and above in 2012 and 2022 using the Hospital Frailty Risk Score",
+        "authors": [
+          "Hans Flaatten",
+          "Johannes Kolnes",
+          "Birger Skilbrei",
+          "Erlend Hodneland"
+        ],
+        "abstract": "Abstract                                        Purpose                     To study outcomes in two cohorts of patients ≥ 80 years admitted to a tertiary hospital in Bergen Norway in 2012 and 2022.                                                           Methods                     This retrospective observational study compared two separate calendar-year cohorts of patients aged ≥ 80 years hospitalized in 2012 and 2022. Frailty was assessed using the ICD-10-based Hospital Frailty Risk Score (HFRS). Outcomes included hospital length of stay, 30-day readmission, hospital mortality, and one-year survival after last admission. Survival was analyzed using Kaplan–Meier curves and Cox regression models.                                                           Results                     There was an increase in patient admissions from 5112 (2012] to 6232 (2022] with a female majority. Half of both cohorts were classified as frail [HFRS &gt; 15], with no significant sex difference. Non- frail patients had the highest one-year survival [87%] compared to 69% in the high frailty group. A higher mortality was found in frail males [65%] compared with females and in the age group ≥ 90 years. The combination of high frailty risk [HFRS &gt; 15], age ≥ 90 years and male had the lowest survival of all sub-group analyzed [60%].                                                           Conclusion                     Higher HFRS was associated with worse clinical outcomes. The HFRS was able to identify vulnerable patient groups with significantly increased mortality, but there was no increase in frailty over the 10-year period in the two cohorts.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-13",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-13",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08338-1",
+        "doi": "10.1186/s12877-026-08338-1",
+        "url": "https://doi.org/10.1186/s12877-026-08338-1",
+        "title": "Identifying kinesiophobia subgroups using latent profile analysis and persona development in frail older patients with cardiovascular disease: a mixed methods study",
+        "authors": [
+          "Huina Zou",
+          "Xinglin Zheng",
+          "Peihuang Dong",
+          "Linjing Wu",
+          "Mingxin Yang",
+          "Qianlin Zhang",
+          "Kaixin Li",
+          "Feng Tian",
+          "Shiqi Chen",
+          "Yuan Chen"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-13",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-13",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag252",
+        "doi": "10.1093/aje/kwag252",
+        "url": "https://doi.org/10.1093/aje/kwag252",
+        "title": "Racial discrimination and preterm birth subtype among a prospective cohort of nulliparous Black women in the United States, 2010-2013",
+        "authors": [
+          "Ashley S Judge",
+          "Collette N Ncube",
+          "Erika T Beidelman",
+          "Tera Howard",
+          "Kelli Ryckman",
+          "Christina Ludema"
+        ],
+        "abstract": "Abstract                   Racial discrimination has been associated with an increased risk of preterm birth (PTB) among Black women. Few studies have examined whether this association differs by clinical presentation of PTB. We examined the association between racial discrimination and PTB subtype using data from a 2010-2013 clinic-based prospective cohort study of nulliparous women among women who self-reported Black race. Lifetime racial discrimination was measured with the revised Experiences of Discrimination scale. We used inverse probability of exposure and post-stratification weights with the cumulative incidence function to estimate associations between racial discrimination and spontaneous PTB and indicated PTB within a competing risk framework. We estimated standard errors via bootstrapping. We stratified by education and age group to examine effect modification. Compared to none, racial discrimination in ≥3 situations was associated with 1.66 (95% CI, 0.72, 3.82) times the risk of spontaneous PTB and 0.37 (95% CI, 0.15, 0.93) times the risk of indicated PTB. Point estimates between racial discrimination and spontaneous PTB were strongest among women with some college education and ≥20 year-olds. Future studies should consider clinical subtype in assessments of the association between racism and preterm birth and include in the study design late prenatal care initiators.",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-10-13",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-13",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag254",
+        "doi": "10.1093/aje/kwag254",
+        "url": "https://doi.org/10.1093/aje/kwag254",
+        "title": "Estimate Optimal Dynamic Treatment Regimes with Partial Compatibility: An Application to data from a TREAT Asia HIV Observational Database (TAHOD) site in Pune, India",
+        "authors": [
+          "Chloe Si",
+          "David A Stephens",
+          "Erica E M Moodie",
+          "Ivan Marbaniang",
+          "Vidya Mave",
+          "Haridas Prasad"
+        ],
+        "abstract": "Abstract                   Dynamic treatment regimes (DTRs) formalize sequences of treatment decision rules that adapt to a patient’s evolving clinical status. In observational studies, estimation of the value of a DTR (i.e., the expected population-outcome of a treatment strategy) using inverse probability weighting (IPW) and augmented IPW can be unstable when strict regime compatibility yields few valid participant trajectories, leading to highly variable weights and noisy estimates. In this paper, we introduce two adaptive weighting frameworks: generalized compatibility weighting (GCW) and bootstrap compatibility windowing (BCW), that allow near-compatible trajectories to contribute information in limited samples, with diminishing information-borrowing in larger samples. We illustrate how these estimators reduce noise in estimation and stabilize empirical optimal treatment threshold identification. Using data from adults living with HIV in one site of the TREAT Asia HIV Observational Database in India observed from 2013-2024, we evaluate clinically interpretable threshold-based decision rules based on baseline CD4 count and weight. In this application, GCW and BCW produced more stable estimated regime values than standard IPW-based approaches, with reduced variability across candidate thresholds and more reliable identification of empirically optimal treatment rules. These methods provide practical tools for improving treatment rule evaluation in observational studies.",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-10-13",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-13",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag258",
+        "doi": "10.1093/aje/kwag258",
+        "url": "https://doi.org/10.1093/aje/kwag258",
+        "title": "A Law of Iterated Expectation Primer for Causal Inference",
+        "authors": [
+          "Ashley I Naimi",
+          "Razieh Nabi",
+          "Lindsay J Collin",
+          "Zhaohua Zeng",
+          "Paul N Zivich",
+          "Stephen R Cole"
+        ],
+        "abstract": "Abstract                   The g-formula is a foundational tool for identifying causal effects in observational data. This tool is based on the law of iterated expectation, a key mathematical identity in statistics. However, the notation with which the law of iterated expectation and the g-formula is expressed can be opaque to those with little background in statistics. We provide a primer introducing the law of iterated expectation, the integration notation used to express it, and its role for causal effect identification via the g-formula. Combined with the assumptions of causal consistency, positivity, and conditional exchangeability, the law of iterated expectation yields a causal standardization formula (the g-formula) in two nonparametrically equivalent forms: a non-iterative conditional expectation (NICE) form involving a single weighted average of conditional outcome means, and an iterative conditional expectation (ICE) form involving nested expectations. We illustrate both forms using three progressively complex numerical examples: a time-fixed example with a single binary confounder, a time-fixed example with discrete and continuous confounders, and a time-varying example with two timepoints. We provide clarity on what the law of iterated expectation is, how it is related to the g-formula, and how to gain intuition of its mathematical formulations in actual data examples that can be generalized to a range of settings.",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-10-13",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-13",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1186/s12877-026-08428-0",
         "doi": "10.1186/s12877-026-08428-0",
         "url": "https://doi.org/10.1186/s12877-026-08428-0",
@@ -61234,6 +62165,377 @@
           "agingHealth"
         ],
         "firstSeen": "2026-10-12",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70744",
+        "doi": "10.1111/jgs.70744",
+        "url": "https://doi.org/10.1111/jgs.70744",
+        "title": "Comment on “Implications of Missing Data Mechanisms in Randomized Controlled Trials”",
+        "authors": [
+          "Guiping Huang",
+          "Yihua Yu"
+        ],
+        "abstract": "",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-10-12",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-13",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70778",
+        "doi": "10.1111/jgs.70778",
+        "url": "https://doi.org/10.1111/jgs.70778",
+        "title": "Appetite Loss, Inflammation, and Incident Functional Loss Among Community‐Dwelling Older Adults",
+        "authors": [
+          "Germine Soliman",
+          "Xiaomin Lu",
+          "Emil Coman",
+          "Zeyu Hu",
+          "Berno Diniz",
+          "Anne B. Newman",
+          "Eleanor Simonsick",
+          "Shanshan Yao",
+          "George A. Kuchel",
+          "Lisa C. Barry"
+        ],
+        "abstract": "ABSTRACT                                        Background                     Aging is associated with both reduced appetite and increased inflammation. Whether and how these factors contribute to or exacerbate functional decline in older adults is unclear.                                                           Methods                     Data from 3073 men and women aged 70–79 years participating in the Health, Aging, and Body Composition (Health ABC) with reported appetite (good or poor) and inflammatory markers (Interleukin (IL)‐6, tumor necrosis factor (TNF)‐α and C‐reactive protein (CRP)) at baseline were followed for up to 6 years to determine if they developed Persistent Lower Extremity Limitation (PLL), defined as two consecutive reports of difficulty walking a quarter mile and/or climbing 10 steps without resting 6 months apart, using Fine‐Gray Proportional hazards models adjusted for demographics, chronic diseases, anxiety, depression, medications, and sensory factors.                                                           Results                                            A total of 388 (12.6%) participants reported impaired appetite. These individuals were mainly female (59%), Black (54%), with a mean age of 73.9 (±3) years. Those with impaired appetite vs. good appetite were more likely to develop PLL (64% vs. 47%;                       p                        &lt; 0.001) and had higher IL‐6, TNF‐α, and CRP levels (                       p                        &lt; 0.001 for each). Cumulative incidence curves showed that 40% and 20% of those with impaired and good appetite, respectively, developed PLL by 18 months. Subjects with impaired appetite experienced a higher risk of developing PLL (hazard ratio, adjusted = 1.44; 95% CI = 1.2, 1.7), as did those with elevated inflammatory markers. Cumulative incidence curves indicated that individuals with impaired appetite and elevated CRP, IL‐6, and TNF‐α experienced the fastest onset of functional loss, reaching 50% at around 12 months, and nearly all had mobility limitations by 32 months.                                                                                Conclusion                     Impaired appetite and increased inflammatory biomarkers are independently linked to mobility loss. Appetite impairment might signal early nutritional and supportive care needs, but inflammation‐targeted interventions require further study.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-10-12",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-13",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70783",
+        "doi": "10.1111/jgs.70783",
+        "url": "https://doi.org/10.1111/jgs.70783",
+        "title": "Caregivers in a Haystack? Informatics‐Driven Clinical Trial Enrollment of Dementia Caregivers at Medical Visits",
+        "authors": [
+          "Eva S. Ren",
+          "Jennifer A. Makelarski",
+          "Delaney A. Romanchick",
+          "Veera Anand",
+          "Victoria A. Winslow",
+          "Emily M. Abramsohn",
+          "MariaDelSol De Ornelas",
+          "Elbert S. Huang",
+          "Katherine Thompson",
+          "Soo Borson",
+          "Julie Johnson",
+          "Stacy T. Lindau"
+        ],
+        "abstract": "ABSTRACT                                        Background                     Caregiving status is not routinely documented during clinical care, rendering caregivers difficult to identify for research and supportive interventions. We describe two informatics‐based strategies for identifying dementia caregivers at their own or their care recipient's point of care (POC).                                                           Methods                     The CommunityRx‐Dementia trial was conducted at a U.S. urban academic medical center serving a predominantly Black population. Eligible participants were caregivers of a patient with dementia recruited mainly by: (1) fee‐based queries of the clinical research data warehouse (CRDW) that identified patients with dementia and their listed contacts (potential caregivers) (August 2020–November 2022) or (2) no‐cost self‐service query using an electronic health record (EHR)‐integrated cohort discovery tool that identified patients with dementia (June 2020). For CRDW lists, probabilistic matching was used to identify contacts who were also patients at the study site. An EHR dashboard displayed medical visits of patients with dementia (identified from both strategies) and their contacts (from CRDW only) to recruit at the POC.                                                           Results                                            A recruitment list of 8185 patients with dementia was created: 6282 from five CRDW queries and 1883 from one self‐service EHR query, 20 from self‐ and clinician referrals. Target enrollment (                       N                        = 344) was reached in 27 months; 321 caregivers from CRDW contacts, 19 from self‐service query contacts, 4 from clinician referrals. Enrollment rates were 66% (321/488) of eligible caregivers from CRDW and 48% (19/40) from self‐service query. Seventeen percent of all enrolled caregivers were recruited from their own visit (28% internal medicine, 11% ophthalmology, 9% geriatrics, 5% hematology/oncology, 47% all other eligible clinics).                                                                                Conclusions                     A large dementia caregiver trial achieved recruitment goals using two replicable informatics‐based strategies. The CRDW strategy involved no manual EHR abstraction and enabled direct recruitment of dementia caregivers at their own medical visits at relatively low cost.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-10-12",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-13",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70756",
+        "doi": "10.1111/jgs.70756",
+        "url": "https://doi.org/10.1111/jgs.70756",
+        "title": "Effect of Recognition of Hearing Loss Among Care Recipients on Caregiver Reported Care Outcomes",
+        "authors": [
+          "Gianna Rodriguez",
+          "Wuyang Zhang",
+          "Emmanuel E. Garcia Morales",
+          "Nicholas S. Reed",
+          "Danielle S. Powell"
+        ],
+        "abstract": "ABSTRACT                                        Background                     Hearing loss (HL) is common in older adults, but many do not recognize how it affects communication. This lack of recognition may limit caregivers' ability to provide effective support, since communication is central to caregiving. This study examined whether care recipients' HL recognition is associated with caregiver burden and psychosocial well‐being.                                                           Methods                     We used the Round 13 (2023) data from NHATS and NSOC, including 1480 caregivers assisting 960 older adults. HL status was classified as: unrecognized HL (audiometric HL without self‐reported difficulty), recognized HL (audiometric HL with self‐reported difficulty or hearing aid use), and no HL (normal audiometry). Caregiver outcomes included emotional, financial, and physical burden; relationship quality; PHQ‐4 well‐being; and restrictions in leisure and social activities. We further examined differences by HL severity and hearing aid use.                                                           Results                     Among caregivers, 47% supported older adults with unrecognized HL, 34% recognized HL, and 19% had no HL. Compared with caregivers of older adults without HL, caregivers of those with unrecognized HL were more likely to report depressive symptoms, including little interest or pleasure in doing things (OR 1.85; 95% CI: 1.19–2.87) and feeling down or depressed (OR 2.07; 95% CI: 1.31–3.25). A trend toward fewer depressive symptoms was observed among caregivers of individuals with managed HL, though it was not statistically significant. No differences were found in caregiving burden, relationship quality, or activity restriction.                                                           Conclusion                     Despite expectations otherwise, associations between HL recognition and caregiver well‐being were modest, suggesting current measures may not fully capture the communication challenges shaping caregiving experiences.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-10-12",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-13",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70790",
+        "doi": "10.1111/jgs.70790",
+        "url": "https://doi.org/10.1111/jgs.70790",
+        "title": "The Last Lesson: What Ms. E Taught Me About Living Fully",
+        "authors": [
+          "Karen Bensinger"
+        ],
+        "abstract": "",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-10-12",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-13",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08421-7",
+        "doi": "10.1186/s12877-026-08421-7",
+        "url": "https://doi.org/10.1186/s12877-026-08421-7",
+        "title": "Longitudinal changes in the gut microbiome following a multidomain lifestyle intervention in older adults at risk of dementia: an exploratory sub-study of the SUPERBRAIN trial",
+        "authors": [
+          "Cindy W. Yoon",
+          "Woorim Kang",
+          "Jae-Yun Lee",
+          "Hojun Sung",
+          "Hyun-Seok Oh",
+          "Dong-Wook Hyun",
+          "Jee Hyang Jeong",
+          "Hae Ri Na",
+          "So Young Moon",
+          "Chang Hyung Hong",
+          "Yoo Kyoung Park",
+          "Seong Hye Choi"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-12",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-13",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08477-5",
+        "doi": "10.1186/s12877-026-08477-5",
+        "url": "https://doi.org/10.1186/s12877-026-08477-5",
+        "title": "Handgrip strength for predicting incident ADL disability in older adults with arthritis: a multi-cohort external validation study",
+        "authors": [
+          "Chen Yu",
+          "Zebin Wang",
+          "Gang Gao"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-12",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-13",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08463-x",
+        "doi": "10.1186/s12877-026-08463-x",
+        "url": "https://doi.org/10.1186/s12877-026-08463-x",
+        "title": "Material neighbourhood resources, formal community service resources, and depression in older adults: a systematic review",
+        "authors": [
+          "Hongxiu Chen",
+          "Wichai Eungpinichpong",
+          "Somkiat Asawaphureekorn",
+          "Kesinee Saranrittichai",
+          "Yuan Xie",
+          "Xingze Wang"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-12",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-13",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08431-5",
+        "doi": "10.1186/s12877-026-08431-5",
+        "url": "https://doi.org/10.1186/s12877-026-08431-5",
+        "title": "Multidimensional social determinants of health profiles and incident severe disability and recovery among older Chinese adults: a longitudinal CHARLS study",
+        "authors": [
+          "Yuyan Wu",
+          "Xufeng Wu",
+          "Aihong Pan",
+          "Chaoliang Tang"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-12",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-13",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08488-2",
+        "doi": "10.1186/s12877-026-08488-2",
+        "url": "https://doi.org/10.1186/s12877-026-08488-2",
+        "title": "Associations of 24-hour movement behaviors with functional disability in Chinese community-dwelling older adults: a compositional isotemporal substitution analysis",
+        "authors": [
+          "Qingyun Ding",
+          "Junquan Huo",
+          "Zihao Huang",
+          "Shiqiang Wang",
+          "Dan Li",
+          "Yixuan Liang",
+          "Shenghui Deng"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-12",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-13",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08496-2",
+        "doi": "10.1186/s12877-026-08496-2",
+        "url": "https://doi.org/10.1186/s12877-026-08496-2",
+        "title": "Densitometric heterogeneity and unstable intertrochanteric fracture morphology in older adults: a retrospective cohort study",
+        "authors": [
+          "Muhammed Kazez",
+          "Mustafa Yalın"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-12",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-13",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08465-9",
+        "doi": "10.1186/s12877-026-08465-9",
+        "url": "https://doi.org/10.1186/s12877-026-08465-9",
+        "title": "Association of respiratory muscle strength with pre-frailty and overall functional status in community-dwelling Japanese older adults: a cross-sectional study",
+        "authors": [
+          "Toshimi Sato",
+          "Noa Haniuda",
+          "Masayuki Hoshi",
+          "Tatsuya Nakanowatari",
+          "Maki Ogasawara",
+          "Yuko Horikoshi",
+          "Toshimasa Sone",
+          "Shoji Yabuki",
+          "Yoshitaka Shiba"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-12",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-13",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08472-w",
+        "doi": "10.1186/s12877-026-08472-w",
+        "url": "https://doi.org/10.1186/s12877-026-08472-w",
+        "title": "Measuring resident preferences in nursing homes: development and validation of the preferences for residential care scale-resident version among residents without cognitive impairment",
+        "authors": [
+          "Chiu-Yueh Hsiao",
+          "Hui-Wen Chen",
+          "Chi-Rong Li",
+          "Yun-Fang Tsai"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-12",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-13",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08475-7",
+        "doi": "10.1186/s12877-026-08475-7",
+        "url": "https://doi.org/10.1186/s12877-026-08475-7",
+        "title": "Interpolated glycemic–blood-pressure favorable-range time and incident survey-reported cardiovascular disease in older adults with dysglycemia: a CKM-informed landmark study across three aging cohorts",
+        "authors": [
+          "Mingzhe Xia"
+        ],
+        "abstract": "Abstract                                        Background                     Longitudinal glycemic and blood-pressure profiles may provide information not captured by single measurements, but sparse biomarker waves complicate their interpretation in older adults.                                                           Methods                     We conducted a landmark analysis of adults aged 60 years or older with dysglycemia in CHARLS, ELSA, and HRS who had two paired HbA1c and systolic blood pressure (SBP) assessments. Cohort-specific Cox models related pre-landmark interpolated joint favorable-range time to post-landmark survey-reported heart disease or stroke, and estimates were pooled using random-effects meta-analysis.                                                           Results                                            The analytic sample included 5,662 participants and 1,330 post-landmark composite events. In the primary overall-association Model 2, each 10-percentage-point higher interpolated glycemic–blood-pressure favorable-range time (GB-TTR) was associated with a pooled hazard ratio (HR) of 0.987 (95% CI 0.972–1.001;                       p                        = 0.075). The secondary component-adjusted incremental Model 3 estimate was 0.993 (95% CI 0.976–1.010;                       p                        = 0.403).                                                                                Conclusions                     Higher pre-landmark interpolated GB-TTR was not robustly associated with lower post-landmark survey-reported cardiovascular disease. This two-wave interpolated phenotype is descriptive and should not be interpreted as a treatment target, causal effect, or validated risk-stratification measure.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-12",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-13",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261494606",
+        "doi": "10.1177/13872877261494606",
+        "url": "https://doi.org/10.1177/13872877261494606",
+        "title": "Psychological impact of the use of blood-based biomarkers for mild cognitive impairment in primary care",
+        "authors": [
+          "Takuya Ataka",
+          "Noriyuki Kimura",
+          "Temmei Ito",
+          "Naoki Kaneko",
+          "Teruaki Masuda",
+          "Tsukasa Takeuchi",
+          "Takehiko Miyagawa",
+          "Shinichi Iwamoto",
+          "Etsuro Matsubara"
+        ],
+        "abstract": "Background                     Blood-based biomarker testing in primary care could contribute to the early diagnosis of Alzheimer's disease. The usefulness of using blood-based biomarker in the primary care has evaluated, but their psychological impact has not been examined.                                                           Objective                     The primary objective of this study is to investigate the psychological impact of disclosing results to patients and evaluate the changes in confidence of diagnoses by physicians. As a secondary objective, we compare the psychological impact with positron emission tomography.                                                           Methods                     This study included adults aged ≥50 years with suspected mild cognitive impairment or mild dementia. In total, 97 were analyzed in this study. All participants underwent blood-based biomarker testing and the results were disclosed by primary care physicians or specialists. Psychological impact was measured using the Impact of Event Scale–Revised 1 week after disclosure. Physician diagnostic confidence, changes in diagnosis and management actions were also recorded.                                                           Results                     Nineteen participants had negative blood-based biomarker results but positive PET results. The Impact of Event Scale–Revised scores were low after blood-based biomarker disclosure and did not differ by health care provider. Blood-based biomarker results prompted changes in diagnosis in 41.9% of cases. The diagnostic confidence increased after disclosure of the blood-based biomarker. Physicians reported a moderate/strong impact on management in 81.5% of cases after the disclosure of blood-based biomarkers.                                                           Conclusions                     In this study, blood-based biomarker result disclosure to patients with mild cognitive impairment had minimal short-term psychological burden and informed clinical decisions. These findings support the integration of blood-based biomarker testing into dementia care.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-10-12",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-13",
         "fetched_from": "crossref"
       },
       {
@@ -61387,6 +62689,35 @@
           "agingHealth"
         ],
         "firstSeen": "2026-10-12",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70742",
+        "doi": "10.1111/jgs.70742",
+        "url": "https://doi.org/10.1111/jgs.70742",
+        "title": "Reply to: “Vitamin D and Risk of Falls: A Multidisciplinary Intervention”",
+        "authors": [
+          "Toni Rikkonen",
+          "Sari Hantunen",
+          "Heikki Kröger",
+          "Christel Lamberg‐Allardt",
+          "JoAnn E. Manson",
+          "Tarja Nurmi",
+          "Marjo Tuppurainen",
+          "Ari Voutilainen",
+          "Tomi‐Pekka Tuomainen",
+          "Jyrki K. Virtanen"
+        ],
+        "abstract": "",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-10-11",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-13",
         "fetched_from": "crossref"
       },
       {
@@ -81081,6 +82412,50 @@
     ],
     "socialWork": [
       {
+        "id": "doi:10.1177/14680173261478708",
+        "doi": "10.1177/14680173261478708",
+        "url": "https://doi.org/10.1177/14680173261478708",
+        "title": "Book Review:\n                    <i>Innovations in Acceptance and Commitment Therapy (ACT) for Acquired Brain Injury</i>\n                    by Coates, Richard CoatesRichard (ed.), Innovations in Acceptance and Commitment Therapy (ACT) for Acquired Brain Injury. London: Routledge, 2025; 280 pp. (including index), ISBN 978-1-032-19372-2, £120.00 (hbk).",
+        "authors": [
+          "Jose A. Lopez",
+          "Thomas W. Starkey"
+        ],
+        "abstract": "",
+        "source": "Journal of Social Work",
+        "issn": "1468-0173",
+        "date": "2026-10-12",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-13",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1007/s10896-026-01155-5",
+        "doi": "10.1007/s10896-026-01155-5",
+        "url": "https://doi.org/10.1007/s10896-026-01155-5",
+        "title": "Prevalence of Mental Disorders Associated with Intimate Partner Violence Victimisation by Gender, Sexuality, and Child Maltreatment History",
+        "authors": [
+          "Tasha Beaton",
+          "Daryl J. Higgins",
+          "Ben Mathews",
+          "Kelsey L. Hegarty",
+          "James G. Scott",
+          "Megan L. Willis"
+        ],
+        "abstract": "Abstract                                        Purpose                     Intimate partner violence (IPV) is prevalent and associated with adverse mental health outcomes. This analysis reports national prevalence estimates of mental disorders among Australian adults who have experienced lifetime IPV victimization, by gender, sexuality, and child maltreatment history.                                                           Methods                                            Using data from the nationally representative Australian Child Maltreatment Study (                       N                        = 7022, aged 16 years and older), prevalence was calculated for five mental disorder categories (i.e., major depressive disorder, generalized anxiety disorder, post-traumatic stress disorder, alcohol use disorder, any mental disorder) by type of IPV victimization (i.e., no IPV, any IPV, psychological, physical, sexual, multitype).                                                                                Results                                            Any IPV victimization was associated with significantly higher prevalence of any mental disorder (55.3%), generalized anxiety disorder (18.5%), alcohol use disorder (28.5%), major depressive disorder (28.1%) and post-traumatic stress disorder (10%) compared to those without a history of IPV. Prevalence was generally consistent across different types of IPV victimization. Bisexual individuals (                       n                        = 375) exhibited higher prevalence of mental disorders compared to heterosexual individuals, across all forms of IPV, while participants with diverse gender identities (                       n                        = 88) showed elevated rates of generalized anxiety disorder and post-traumatic stress disorder, compared to women and men. Child maltreatment history further amplified prevalence, with multi-type child maltreatment associated with elevated prevalence across the different forms of IPV victimization. Logistic regression analyses indicated IPV victimization was associated with increased odds of mental disorders, with the strongest associations observed for post-traumatic stress disorder across IPV types (ORs = 3.2–6.0).                                                                                Conclusions                     Findings suggest that early adversity (child maltreatment) and later-life adversities (IPV victimization) contribute cumulatively to the risk of mental disorders, with heightened risk evident for diverse genders and sexualities. These findings highlight the substantial public health burden associated with mental health disorders among IPV victims and the need for increased attention to prevention and early intervention efforts, including improved screening for IPV within healthcare settings and accessible, trauma-informed mental health support for IPV victims, including sexuality and diverse gender populations at elevated risk.",
+        "source": "Journal of Family Violence",
+        "issn": "0885-7482",
+        "date": "2026-10-12",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-13",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1093/bjsw/bcag240",
         "doi": "10.1093/bjsw/bcag240",
         "url": "https://doi.org/10.1093/bjsw/bcag240",
@@ -88273,10 +89648,10 @@
   },
   "totals": {
     "socialSecurity": 1573,
-    "elderCare": 547,
-    "healthReform": 878,
-    "agingHealth": 795,
-    "socialWork": 318
+    "elderCare": 567,
+    "healthReform": 887,
+    "agingHealth": 819,
+    "socialWork": 320
   },
   "feeds_ok": 41
 }
