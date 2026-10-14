@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-13",
-  "fetched": "2026-10-13T07:56:51+00:00",
+  "date": "2026-10-14",
+  "fetched": "2026-10-14T06:23:01+00:00",
   "domains": {
     "socialSecurity": [
       {
@@ -24420,6 +24420,372 @@
         "fetched_from": "crossref"
       },
       {
+        "id": "doi:10.1111/jgs.70684",
+        "doi": "10.1111/jgs.70684",
+        "url": "https://doi.org/10.1111/jgs.70684",
+        "title": "Low‐Intensity Social Care for Dementia Caregivers: A Randomized Trial",
+        "authors": [
+          "Jennifer A. Makelarski",
+          "Kristen E. Wroblewski",
+          "Victoria A. Winslow",
+          "Emily M. Abramsohn",
+          "Soo Borson",
+          "Delaney A. Romanchick",
+          "Dena Schulman‐Green",
+          "Katherine Thompson",
+          "Elbert S. Huang",
+          "Stacy Tessler Lindau"
+        ],
+        "abstract": "ABSTRACT                                        Background                     Resource needs increase strain among dementia caregivers. We tested the impact of CommunityRx‐Dementia, a low‐intensity resource referral intervention that provides education about common resource needs, a personalized list of nearby resources, and navigation support via a navigator and online resource finder.                                                           Methods                     We conducted a single‐blind RCT comparing usual care (control) versus usual care plus CommunityRx‐Dementia (intervention). We enrolled (12/2020–2/2024) English‐speaking dementia caregivers agreeing to receive text messages who lived in a 62 ZIP code geography around an urban academic medical center. We assessed caregiver self‐efficacy (primary, 12 months), loneliness, need for help and self‐reported hospitalizations and emergency department (ED) visits (other pre‐specified outcomes). Pre‐planned, main analyses included participants with ≥ 1 baseline health‐related social risk (HRSRs); post hoc analyses included caregivers without baseline HRSRs.                                                           Results                                            Caregivers with HRSRs (                       n                        = 133) were predominantly female (84%) and Black (79%); 52% had household income &lt; $50 K/year; 94% texted a navigator and 31% requested additional resource information. Caregiver self‐efficacy (range 1–5, intervention = 3.5; control = 3.5, odds ratio [OR]: 0.80, 95% CI: 0.30, 2.09) and rates of loneliness (intervention = 41%; control = 50%; OR: 0.62, 95% CI: 0.24, 1.59), needing help (23% = intervention, 34% = control; OR: 0.80, 95% CI: 0.30, 2.11) and hospitalization (intervention = 0.1, control = 0.2; IRR: 0.42, 95% CI: 0.14, 1.30) were similar at 12 months, but ED utilization was lower in the intervention group (0.3 vs. 0.7, IRR: 0.41, 95% CI: 0.19, 0.90). Caregivers without HRSRs (                       n                        = 210) were mainly female (75%) and Black (82%); 25% had household income &lt; $50 K/year; 95% texted a navigator and 39% requested additional resource information. Self‐efficacy, loneliness, hospitalizations, and ED utilization were similar between arms at 12 months, but odds of needing help were 0.31 (95% CI: 0.12, 0.83) for the intervention group.                                                                                Conclusions                     A low‐intensity social care intervention aimed at dementia caregivers did not improve self‐efficacy at 12 months but reduced emergency care utilization among those with HRSRs.                                                           Trial Registration                                            ClinicalTrials.gov                       , Registered 10/29/19, Identifier:                       NCT04146545",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-10-13",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-14",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08482-8",
+        "doi": "10.1186/s12877-026-08482-8",
+        "url": "https://doi.org/10.1186/s12877-026-08482-8",
+        "title": "Association of dysphagia with physical performance and fall risk in frail older adults",
+        "authors": [
+          "Hsi-Yu Huang",
+          "Chiu-Chen Lin",
+          "Ji-Ze Hsu",
+          "Sheng-Lun Kao"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-13",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-14",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08393-8",
+        "doi": "10.1186/s12877-026-08393-8",
+        "url": "https://doi.org/10.1186/s12877-026-08393-8",
+        "title": "Credibility and strength of evidence for exercise, nutritional, and combined interventions on muscle function and physical performance in older adults: an umbrella review of meta-analyses of randomized controlled trials",
+        "authors": [
+          "Qiuping Huang",
+          "Jingzhi Zhu",
+          "Chulin Chen",
+          "Huiling Cai",
+          "Yao Hu",
+          "Jinyue Huang",
+          "Yirui Chen",
+          "Hairong Cai"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-13",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-14",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08388-5",
+        "doi": "10.1186/s12877-026-08388-5",
+        "url": "https://doi.org/10.1186/s12877-026-08388-5",
+        "title": "Trajectories of loneliness and the association of the risk of frailty among older adults: insights from a national cohort study",
+        "authors": [
+          "Chuangsen Fang",
+          "Yakun Shao",
+          "Ao Li",
+          "Yanming Li"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-13",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-14",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08457-9",
+        "doi": "10.1186/s12877-026-08457-9",
+        "url": "https://doi.org/10.1186/s12877-026-08457-9",
+        "title": "Real-world evidence on the management and outcomes of glioblastoma in elderly patients: a monocentric retrospective analysis",
+        "authors": [
+          "Jörg Andreas Müller",
+          "Ian Schirrwagen",
+          "Clara Pitzschel",
+          "Daniel Medenwald",
+          "Dirk Vordermark"
+        ],
+        "abstract": "Abstract                                        Background                     Glioblastoma (GBM) carries a poor prognosis, and older patients and those with impaired performance status are often underrepresented in randomized trials. This study evaluated real-world treatment patterns, survival outcomes, and factors associated with outcome in older patients with GBM.                                                           Methods                     We retrospectively analyzed 63 patients aged ≥ 65 years with a diagnosis of GBM managed at a single-center radiation oncology department between 2014 and 2023. Overall survival (OS) and progression-free survival (PFS) were calculated from diagnosis. Multivariable Cox models included age, sex, Karnofsky Performance Status (KPS), radiologically confirmed gross total resection (GTR), and temozolomide (TMZ) administration as clinically prespecified covariates. Complete-case analyses were performed. Proportional hazards assumptions were assessed using Schoenfeld residuals, with additional time-varying and exploratory sensitivity analyses addressing diagnostic classification, treatment selection, concomitant TMZ exposure, and treatment timing.                                                           Results                                            Median OS was 7.0 months (95% CI 5.3–14.4) and median PFS was 5.3 months (95% CI 3.9–7.8). In the multivariable OS model (                       n                        = 56; 50 deaths), increasing age was associated with higher mortality (HR 1.09, 95% CI 1.02–1.17;                       p                        = 0.011), whereas female sex was associated with a lower hazard of death (HR 0.45, 95% CI 0.23–0.91;                       p                        = 0.025). Omission of TMZ was associated with higher mortality (HR 2.26, 95% CI 1.16–4.41;                       p                        = 0.017), while GTR showed a directionally favorable association that did not reach conventional statistical significance (HR 0.52, 95% CI 0.27–1.01;                       p                        = 0.054). In the PFS model (                       n                        = 56; 53 events), increasing age (HR 1.07, 95% CI 1.01–1.14;                       p                        = 0.027) and omission of TMZ (HR 2.34, 95% CI 1.20–4.55;                       p                        = 0.013) were associated with higher hazards, whereas female sex (HR 0.45, 95% CI 0.23–0.89;                       p                        = 0.022) and higher KPS (HR 0.98, 95% CI 0.96–1.00;                       p                        = 0.039) were associated with lower hazards. Resection status violated the proportional hazards assumption for PFS; time-varying analysis indicated an early favorable association of GTR that attenuated over time. Sensitivity analyses based on concomitant TMZ exposure and survival measured from radiotherapy initiation yielded similar associations.                                                                                Conclusions                     Survival remained limited in this real-world cohort of older patients with GBM. Age, sex, performance status, resection status, and TMZ administration showed varying associations with outcome, with TMZ showing the most consistent association across analyses. Given the small retrospective cohort and substantial treatment selection, these findings should be considered hypothesis-generating rather than causal.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-13",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-14",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08493-5",
+        "doi": "10.1186/s12877-026-08493-5",
+        "url": "https://doi.org/10.1186/s12877-026-08493-5",
+        "title": "Effects of multicomponent exercise combined with nutritional intervention on global cognitive function and depressive symptoms in older adults: a systematic review and meta-analysis",
+        "authors": [
+          "Wenhua Zhang",
+          "Xun Li",
+          "Jiecai Zheng",
+          "Dianbo Zhang"
+        ],
+        "abstract": "Abstract                                        Objective                     To systematically evaluate the effects of multicomponent exercise (ME) combined with nutritional intervention on global cognitive function and depressive symptoms in older adults.                                                           Methods                     A systematic search was conducted in PubMed, Embase, Web of Science, and Cochrane Library for randomized controlled trials (RCTs) published from inception to June 30, 2026. Participants were older adults aged ≥ 60 years. Interventions were required to include both ME and nutritional intervention. Primary outcomes were global cognitive function and depressive symptoms. Hedges‘ g was used as the effect size measure, and a random-effects model was prespecified as the primary model for all pooled analyses. Subgroup analyses and sensitivity analyses were also performed.                                                           Results                                            A total of 9 RCTs involving 1,814 participants were included. Of these, 7 studies contributed data on global cognitive function and 5 studies contributed data on depressive symptoms. Meta-analysis showed that ME combined with nutritional intervention may improve global cognitive function (                       g                        = 0.31, 95% CI: 0.08 ~ 0.54) and depressive symptoms (                       g                       = -0.51, 95% CI: -0.93~-0.09) in older adults, but moderate-to-high heterogeneity was observed in both global cognitive function (                       I²                       = 68.54%) and depressive symptoms (                       I²                       = 63.54%) analyses. Subgroup analyses showed no statistically significant between-subgroup differences by nutrition type, baseline cognitive status, or exercise modality (                       P                        &gt; 0.05), and only intervention duration showed a significant subgroup difference for global cognitive function (                       P                        &lt; 0.001).                                                                                Conclusion                     ME combined with nutritional intervention may have a small beneficial effect on global cognitive function and depressive symptoms in older adults. However, the current evidence is limited by the small number of included studies, moderate-to-high heterogeneity, underpowered subgroup analyses, and potential publication bias. The trim-and-fill-adjusted estimates for both global cognitive function and depressive symptoms were attenuated, and their 95% confidence intervals crossed zero, indicating sensitivity to potential publication bias. These conclusions should be regarded as exploratory and interpreted with caution. Future high-quality RCTs with larger sample sizes, longer follow-up periods, and standardized intervention protocols are needed for validation.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-13",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-14",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08461-z",
+        "doi": "10.1186/s12877-026-08461-z",
+        "url": "https://doi.org/10.1186/s12877-026-08461-z",
+        "title": "Isotemporal substitution in 24-hour movement behaviors and frailty risk in older adults: a compositional data analysis",
+        "authors": [
+          "Xingcan Zhou",
+          "Shiqiang Wang",
+          "Xiangqin Peng",
+          "Fu Yuan",
+          "Xuan Tang",
+          "Dan Li"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-13",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-14",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08357-y",
+        "doi": "10.1186/s12877-026-08357-y",
+        "url": "https://doi.org/10.1186/s12877-026-08357-y",
+        "title": "Subjective sleep regularity, frailty, and self-reported health loss in later life: evidence from a multisite study of older adults in China",
+        "authors": [
+          "Heng Dong",
+          "Jia Song",
+          "Shangfeng Tang",
+          "Min Zhang"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-13",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-14",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08479-3",
+        "doi": "10.1186/s12877-026-08479-3",
+        "url": "https://doi.org/10.1186/s12877-026-08479-3",
+        "title": "Differences in disability-free life expectancy among Chinese older adults by combined body mass index and waist circumference categories",
+        "authors": [
+          "Yiru Jiang",
+          "Shimin Su",
+          "Weiqiang Su",
+          "Qian Wang",
+          "Huiling Dong",
+          "Tingting Xu",
+          "Bingyi Wu",
+          "Yu Bi"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-13",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-14",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08481-9",
+        "doi": "10.1186/s12877-026-08481-9",
+        "url": "https://doi.org/10.1186/s12877-026-08481-9",
+        "title": "Effects of exercise interventions on health-related quality of life in healthy older adults: a systematic review and meta-analysis of randomized controlled trials",
+        "authors": [
+          "Shuaijie Zhang",
+          "Pengtao Lu",
+          "Yusha Gu"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-13",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-14",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08501-8",
+        "doi": "10.1186/s12877-026-08501-8",
+        "url": "https://doi.org/10.1186/s12877-026-08501-8",
+        "title": "Mindfulness and psychological well-being in older adults: the effect of reminiscence therapy",
+        "authors": [
+          "Meltem Çapar Çiftci",
+          "Güzel Nur Yildiz"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-13",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-14",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08505-4",
+        "doi": "10.1186/s12877-026-08505-4",
+        "url": "https://doi.org/10.1186/s12877-026-08505-4",
+        "title": "Health literacy networks among older adults: central components and network differences by age and sex",
+        "authors": [
+          "Mi-So Shim",
+          "Somyee Min",
+          "Jaesin Sa",
+          "Sookyung Kim"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-13",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-14",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08433-3",
+        "doi": "10.1186/s12877-026-08433-3",
+        "url": "https://doi.org/10.1186/s12877-026-08433-3",
+        "title": "Joint cognitive–depression trajectories during aging and risk of new-onset cancer: cross-national evidence from three population-based cohorts",
+        "authors": [
+          "Wenyan Dong",
+          "Wei Yan",
+          "Yi Li",
+          "Lixin Zhao",
+          "Jinsong Wu",
+          "Mengshuang Xie",
+          "Wei Wang"
+        ],
+        "abstract": "Abstract                                        Background                     Cognitive decline and depressive symptoms commonly co-occur during aging and may jointly influence cancer risk through chronic inflammation, neuroendocrine dysregulation, and adverse behavioral changes. However, longitudinal evidence on synchronized cognitive–depression trajectories and new-onset cancer remains limited across diverse populations. This study investigated the association between joint cognitive–depression trajectories and new-onset cancer risk using three nationally representative cohorts, while further exploring the consistency of predictor importance using complementary machine learning approaches.                                                           Methods                                            Adults aged ≥ 65 years from HRS (                       n                        = 7,077), ELSA (                       n                        = 3,879), and CHARLS (                       n                        = 3,549) who were cancer-free at baseline and had at least three repeated assessments of cognition and depressive symptoms were included. Group-based trajectory modeling identified synchronized cognitive–depression trajectories. Cox proportional hazards models examined associations with new-onset cancer, with Fine–Gray competing risk models, discrete-time logistic regression, and subgroup analyses assessing robustness. Seven machine learning models were developed following LASSO and Boruta feature selection, with SHAP, calibration curves, and decision curve analysis used for interpretation and model evaluation.                                                                                Results                     Over median follow-up periods of 10, 6, and 8 years, 1,187, 310, and 100 new-onset cancer cases were identified in HRS, ELSA, and CHARLS, respectively. Two trajectory groups were consistently identified: High Cognition and Low CESD, and Low Cognition and High CESD. Compared with the favorable trajectory, the adverse trajectory was associated with significantly increased new-onset cancer risk in HRS (HR = 1.23, 95% CI: 1.05–1.45), ELSA (HR = 2.05, 95% CI: 1.57–2.67), and CHARLS (HR = 1.61, 95% CI: 1.03–2.52). Findings were robust across multiple models. CatBoost demonstrated the best predictive performance, and cognitive–depression trajectory was consistently identified as a key predictor.                                                           Conclusions                     Synchronized cognitive decline and worsening depressive symptoms were significantly associated with elevated new-onset cancer risk across three countries. Joint cognitive–depression trajectories may represent a potential behavioral–psychological indicator associated with cancer risk among older adults; however, their clinical utility for individual-level risk stratification or cancer prevention requires further prospective validation.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-13",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-14",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08486-4",
+        "doi": "10.1186/s12877-026-08486-4",
+        "url": "https://doi.org/10.1186/s12877-026-08486-4",
+        "title": "Association of the C-reactive protein-triglyceride glucose index with motoric cognitive risk syndrome in Chinese older adults: a cross-sectional study",
+        "authors": [
+          "Liping Chen",
+          "Ting Xiao",
+          "Ye Ruan",
+          "Wancheng Zhang",
+          "Dingchang Wu"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-13",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-14",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08454-y",
+        "doi": "10.1186/s12877-026-08454-y",
+        "url": "https://doi.org/10.1186/s12877-026-08454-y",
+        "title": "Osteosarcopenic obesity across adiposity definitions: prevalence and functional vulnerability in community-dwelling Chinese older adults",
+        "authors": [
+          "Haiyan Yu",
+          "Shugang Li",
+          "Jiandong Zhou",
+          "Haolin Pu",
+          "Mingyuan Fu",
+          "Bofeng Lu",
+          "Hao Wu"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-13",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-14",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1186/s12877-026-08428-0",
         "doi": "10.1186/s12877-026-08428-0",
         "url": "https://doi.org/10.1186/s12877-026-08428-0",
@@ -38609,6 +38975,63 @@
         "fetched_from": "crossref"
       },
       {
+        "id": "doi:10.1093/aje/kwag255",
+        "doi": "10.1093/aje/kwag255",
+        "url": "https://doi.org/10.1093/aje/kwag255",
+        "title": "The effect of hypothetical interventions to limit weight gain on incident type 2 diabetes mellitus among people with HIV initiating antiretroviral therapy in the United States, 2012-2021",
+        "authors": [
+          "Catherine R Lesko",
+          "Katherine Kurgansky",
+          "Elizabeth Humes",
+          "Parastu Kasaie",
+          "Emily P Hyle",
+          "Jennifer O Lam",
+          "Sita Lujintanon",
+          "Anna Rubtsova",
+          "Michael Horberg",
+          "Sean X Leng",
+          "Raynell Lang",
+          "Anthony T Fojo",
+          "Vincent C Marconi",
+          "Thibaut Davy-Mendez",
+          "Keri N Althoff"
+        ],
+        "abstract": "Abstract                   Among people with HIV (PWH), initiating antiretroviral therapy (ART) is associated with weight gain that might increase the risk of cardiometabolic outcomes. We estimated the effect of hypothetical interventions to restrict increases in body mass index (BMI) in the two years after ART initiation on the 7-year risk of incident type-2 diabetes mellitus (T2DM) among PWH in the North American AIDS Cohort Collaboration on Research and Design (NA-ACCORD) clinical cohorts using the parametric extended g-formula. Among 13,822 normal weight or overweight PWH (BMI ≥18.5 and ≤29.9 kg/m2) who initiated ART between 2012-2021, the 7-year risk of T2DM was 5.6% (95% confidence interval [CI]: 4.8%, 6.3%). Compared to no intervention on BMI, if BMI increase during the first 2 years was capped at 5% of baseline BMI, the risk ratio (RR) for T2DM risk was 0.94 (95% CI, 0.86, 1.03); if BMI was capped at 29.9 kg/m2, RR=0.88 (95% CI, 0.80, 0.97); and if PWH were prevented from gaining any weight over the first 2 years, RR=0.81 (95% CI, 0.72, 0.92). These results provide preliminary evidence to promote studies of real weight maintenance interventions among PWH initiating ART.",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-10-14",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-14",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag256",
+        "doi": "10.1093/aje/kwag256",
+        "url": "https://doi.org/10.1093/aje/kwag256",
+        "title": "Those Confounded Examples",
+        "authors": [
+          "Stephen R Cole",
+          "Ashley I Naimi",
+          "Paul N Zivich",
+          "Jess K Edwards"
+        ],
+        "abstract": "",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-10-14",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-14",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1093/aje/kwag252",
         "doi": "10.1093/aje/kwag252",
         "url": "https://doi.org/10.1093/aje/kwag252",
@@ -38681,6 +39104,491 @@
           "healthReform"
         ],
         "firstSeen": "2026-10-13",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.13058",
+        "doi": "10.1001/jama.2026.13058",
+        "url": "https://doi.org/10.1001/jama.2026.13058",
+        "title": "Clinicopathologic Evaluation of Amyloid Clearance in Alzheimer Disease",
+        "authors": [
+          "Christopher A. Brown",
+          "John L. Robinson",
+          "Sandhitsu R. Das",
+          "Emily McGrew",
+          "EunRan Suh",
+          "Viviana M. Van Deerlin",
+          "David J. Irwin",
+          "Ilya M. Nasrallah",
+          "Dawn Mechanic-Hamilton",
+          "Paul A. Yushkevich",
+          "David A. Wolk",
+          "Edward B. Lee"
+        ],
+        "abstract": "Importance                     The long-term efficacy of amyloid-targeting therapies hinges on their ability to slow downstream neuropathologic change, but little is known about the influence of amyloid clearance on tau pathology and neurodegeneration.                                                           Objective                     To determine the postmortem and in vivo association between amyloid levels and downstream neuropathology after treatment with aducanumab in a patient with patchy areas showing minimal residual amyloid levels.                                                           Design, Setting, and Participants                                            This clinicopathologic case report from a single academic memory center includes a male carrier of the p.R47H                       TREM2                       variant, which is associated with a higher risk of Alzheimer disease, who was in his 50s, had mild cognitive impairment, and received aducanumab while participating in a randomized clinical trial. Fourteen untreated controls, who were matched by age or presence of the                       TREM2                       variant, also are included.                                                                                Exposures                                            The male carrier of the p.R47H                       TREM2                       variant had received 30 doses of aducanumab (cumulative dose of 280 mg/kg) over 4.5 years.                                                                                Main Outcomes and Measures                     Neuropathologic evaluation at autopsy, positron emission tomography to measure standardized uptake value ratio as a measure of amyloid and tau levels, and magnetic resonance imaging to determine longitudinal change in cortical thickness.                                                           Results                                            Four years after receiving the final dose of aducanumab, the patient died. An autopsy showed variable levels of amyloid pathology, including brain regions with very low levels of amyloid juxtaposed with brain regions that had typically high levels of amyloid in the deep cortical layers and only low levels of amyloid in the superficial cortical layers. Compared with the brain regions of the untreated controls, the brain regions of the patient after treatment with aducanumab showed low levels of amyloid that were preferentially found in the gyral crests, were associated with less tau pathology at autopsy, and were associated with slower longitudinal atrophy on in vivo magnetic resonance imaging (β = −0.50 [95% CI, −0.62 to −0.37];                       t                        = −7.96 and                       P                        &amp;amp;lt; .001). In contrast, the patient’s brain regions with high amyloid burden were preferentially found in the sulcal depths and had similar levels of tau pathology as seen at autopsy in the untreated controls.                                                                                Conclusions and Relevance                     In this case report, areas of extensive amyloid clearance after amyloid-targeting therapy were associated with less downstream neuropathologic change. In addition, amyloid clearance appears to preferentially occur in the gyral crests. Future studies should evaluate the differential mechanisms involved in amyloid clearance from superficial and deep cortical layers and in gyri and sulci because extensive amyloid clearance may be necessary to achieve downstream neuropathologic benefit after removal of amyloid.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-13",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-14",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.6083",
+        "doi": "10.1001/jama.2026.6083",
+        "url": "https://doi.org/10.1001/jama.2026.6083",
+        "title": "Communicating With Patients About Physical Activity",
+        "authors": [
+          "Julie Midtgaard",
+          "Søren T. Skou",
+          "Alessio Bricca"
+        ],
+        "abstract": "This JAMA Insights discusses suggested methods for communicating about and promoting physical activity among patients with chronic medical conditions and how to tailor these conversations to individual patient needs.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-13",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-14",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.13621",
+        "doi": "10.1001/jama.2026.13621",
+        "url": "https://doi.org/10.1001/jama.2026.13621",
+        "title": "Cold and Room-Temperature Platelets in Cardiac Surgery",
+        "authors": [],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-13",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-14",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.13885",
+        "doi": "10.1001/jama.2026.13885",
+        "url": "https://doi.org/10.1001/jama.2026.13885",
+        "title": "A World With Platelets Stored Cold for 21 Days",
+        "authors": [
+          "Aaron Stansbury Hess"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-13",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-14",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.13328",
+        "doi": "10.1001/jama.2026.13328",
+        "url": "https://doi.org/10.1001/jama.2026.13328",
+        "title": "Cold and Room-Temperature Platelets in Cardiac Surgery",
+        "authors": [
+          "Philip C. Spinella",
+          "Nicole D. Zantek",
+          "John M. VanBuren",
+          "Susan C. Nicolson",
+          "Ashish K. Khanna",
+          "Allan M. Klompas",
+          "Michael L. Boisen",
+          "Tiffany M. Williams",
+          "Matthew Monteleone",
+          "Dalia A. Bashir",
+          "Warren Pavey",
+          "Bradford B. Smith",
+          "M. Iqbal Ahmed",
+          "Robert A. Niebler",
+          "Eric Jeng",
+          "Brigid C. Flynn",
+          "Ravi V. Joshi",
+          "James F. Preuss",
+          "Dheeraj Goswami",
+          "Chisa Yamada",
+          "Choy Lewis",
+          "Claudia S. Cohn",
+          "Hlaing Tint",
+          "Jenny Kwak",
+          "Neel Sodha",
+          "Eric R. Simon",
+          "Philbert Y. Van",
+          "Philip E. Greilich",
+          "Frank V. McL. Booth",
+          "Camille P. Carter",
+          "Anastazia Keegan",
+          "Andrew P. Cap",
+          "James Matuk",
+          "Anna McGlothlin",
+          "Nicholas S. Berry",
+          "Roger J. Lewis",
+          "Marie E. Steiner",
+          "Paula Hu",
+          "Jaleah Hawkins",
+          "David R. Jobes",
+          "Emmanuel A. Fadeyi",
+          "Abigail M.A. Reynolds",
+          "Carter G. Bell",
+          "Mark M. Smith",
+          "Manish J. Gandhi",
+          "Beth Montonye",
+          "Alesia Kaplan",
+          "Derek Serna-Gallegos",
+          "Ibrahim Sultan",
+          "Stephanie Kinney",
+          "Kathleen Molony",
+          "Lisa Hensch",
+          "Ashraf Resheidat",
+          "Martine Malivers",
+          "Rebbecca Hahn",
+          "Annette Le Viellez",
+          "Dominic Pepperell",
+          "Qun Lu",
+          "Frank X. Downey",
+          "Kayla N. Haeger",
+          "Sirine A. Baltagi",
+          "Robert D.B. Jaquiss",
+          "Daniel K. Noland",
+          "Regina Cole",
+          "Aspen Duffin",
+          "John P. Scott",
+          "Long Zeng",
+          "Angie Ballew",
+          "Christopher Webb",
+          "Michael Jessen",
+          "Erryn Hopson",
+          "Peri Mickle",
+          "Simon Kavanagh",
+          "Shannon Matzelle",
+          "Liz Crowe",
+          "Colleen Mennie",
+          "Robertson Davenport",
+          "Therese Chlebeck",
+          "Emmy Zenk",
+          "Daniel T. Lotz",
+          "Warren Choi",
+          "Rhonda Hobbs",
+          "Amanda Baptise",
+          "Phillip DeChristopher",
+          "Nancy Schoenecker",
+          "Dianna Rodheim",
+          "Joseph Connor",
+          "Daniel J. Griese",
+          "Erin McGuire",
+          "Mandy VanSandt",
+          "Valerie Sera",
+          "Justine O’Donovan",
+          "Denese Marks",
+          "Lacey Johnson",
+          "Kert Viele",
+          "Jill M. Cholette",
+          "Jerrold H. Levy",
+          "Frank Selke",
+          "Toby Silverman",
+          "Susan Shea",
+          "Mark Yazer",
+          "Pampee Young",
+          "Paul Ness",
+          "Geir Strandenes",
+          "J. Michael Dean",
+          "Beth Shaz",
+          "James Stubbs"
+        ],
+        "abstract": "Importance                     Patients undergoing cardiac surgery with cardiopulmonary bypass often require platelet transfusions for bleeding. Platelets are routinely stored at room temperature (20-24 °C) for up to 5 to 7 days; however, cold storage (1-6 °C) may allow for increased storage duration without loss of hemostatic function.                                                           Objective                     To determine the maximum cold-storage duration, up to 21 days, for which cold-stored platelets (CSPs) are noninferior or superior in hemostatic efficacy to room-temperature platelets (RTPs) when transfused in actively bleeding patients undergoing cardiac surgery with cardiopulmonary bypass.                                                           Design, Setting, and Participants                     A phase 3, multicenter, randomized, partially blinded, adaptive, noninferiority, storage duration–ranging trial conducted in pediatric and adult patients undergoing cardiac surgery with planned cardiopulmonary bypass at 27 sites in the US and Australia from December 2021 to March 2025. Statistical analysis was conducted from September 9 to October 3, 2025.                                                           Intervention                     Patients were randomized 2:1 to receive CSPs with a maximum of 21 days of storage vs RTPs with a maximum of 7 days of storage.                                                           Main Outcomes and Measures                     The primary outcome was a hemostatic efficacy score with values ranging from 1 to 5 and higher values indicating greater bleeding. The noninferiority margin was 1 point. The success criterion was met if at least 1 cold-storage duration of 7 days or more had a posterior probability of noninferiority of at least 97.5%. The secondary outcome was 24-hour chest tube output.                                                           Results                     Of the 1000 patients who underwent platelet transfusion, 989 were included in the primary analysis (650 CSPs and 339 RTPs). The cohort had a mean (SD) age of 42.1 (30.1) years and 67.8% were male. CSPs were noninferior to RTPs for the primary outcome, with a probability of greater than 99.9% for all cold-storage durations. Pooled across storage durations, CSPs had a mean difference from RTPs of 0.09 (95% credible interval, −0.06 to 0.23). Median (IQR) chest tube output at 24 hours (8.9 mL/kg [5.2-15.4] for CSPs vs 8.4 mL/kg [5.5-15.9] for RTPs; difference in medians, 0.4 [95% CI, −1.0 to 1.5]) was not statistically different between study groups. In a post hoc analysis, as all storage durations were noninferior, considering the CSPs as a single group, the hemostatic efficacy score was similar between both groups: mean (SD) of 3.08 (1.15) CSPs vs 2.99 (1.10) RTPs. There were no differences in venous or arterial thrombotic events, transfusion-associated adverse events, acute respiratory distress syndrome, kidney failure, septic shock, and mortality between the study groups, except for increased reexploration rates in the CSP group.                                                           Conclusions and Relevance                     For patients undergoing cardiac surgery, CSPs stored up to 21 days are noninferior to RTPs for the control of active surgical bleeding. Use of CSPs may allow for increased availability of platelets by reducing wastage and shortages and may allow for incorporation of platelets into inventory at locations where platelets cannot be maintained due to the 5- to 7-day shelf life of RTPs.                                                           Trial Registration                                            ClinicalTrials.gov Identifier:                       NCT04834414",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-13",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-14",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.14849",
+        "doi": "10.1001/jama.2026.14849",
+        "url": "https://doi.org/10.1001/jama.2026.14849",
+        "title": "Arginine Treatment and Sickle Cell Disease Pain—A Great STArT, but a Hard End Point",
+        "authors": [
+          "Shaniqua J. Anum",
+          "Julie Kanter"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-13",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-14",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.14190",
+        "doi": "10.1001/jama.2026.14190",
+        "url": "https://doi.org/10.1001/jama.2026.14190",
+        "title": "Daily Zinc Supplementation for Infection Prevention in Children With Sickle Cell Anemia",
+        "authors": [
+          "Ruth Namazzi",
+          "Kagan A. Mellencamp",
+          "Irene Bagala",
+          "Andrea L. Conroy",
+          "Charles Kato",
+          "Isaac Birungi",
+          "Priscilla Kasembo",
+          "Gloria Kyarisiima",
+          "Emmanuel Tenywa",
+          "Jie Ren",
+          "Michael J. Goings",
+          "Sarah E. Cusick",
+          "Chandy C. John"
+        ],
+        "abstract": "Importance                     Despite existing prevention strategies, infections remain a major cause of morbidity and mortality in children in Africa with sickle cell anemia.                                                           Objective                     To determine the safety and effectiveness of daily zinc supplementation to prevent all-cause infection in children with sickle cell anemia in Uganda.                                                           Design, Setting, and Participants                     A randomized, double-blind, placebo-controlled trial of children aged 1.00 to 4.99 years with sickle cell anemia at Jinja Regional Referral Hospital in Jinja, Uganda, from February 10, 2025, to April 30, 2025, with 6 months of follow-up through November 7, 2025.                                                           Interventions                     Participants received zinc sulfate at 20 mg daily or placebo daily for 6 months.                                                           Main Outcomes and Measures                     The primary outcome was all-cause infections per 100 person-years, using standardized clinical criteria to define infections.                                                           Results                     Among 118 children screened for eligibility, 100 were randomly assigned to receive zinc supplementation (n = 50) or placebo (n = 50) (mean [SD] age, 36.0 [13.2] months; 45 female [45%]). At enrollment, 45 participants (45%) were receiving hydroxyurea therapy. All participants initiated or continued receiving hydroxyurea after enrollment. During the 6-month follow-up, there was complete ascertainment for all participants and no loss to follow-up. There were 80 all-cause infections in the zinc group and 124 in the placebo group, corresponding to a significantly lower infection rate in the zinc group than the placebo group (305.7 [95% CI, 242.4-380.4] infections per 100 person-years vs 480.7 [95% CI, 399.8-573.1] infections per 100 person-years; rate difference, −176.0 [95% CI, −300.8 to −51.3]; incidence rate ratio after adjustment for baseline age, sex, and hydroxyurea use, 0.62 [95% CI, 0.45-0.86]). No adverse events requiring discontinuation of the study intervention were observed in either group.                                                           Conclusions and Relevance                     Zinc supplementation at 20 mg per day reduced all-cause infection in children with sickle cell anemia younger than 5 years in Uganda. Multisite clinical trials are needed to validate these findings and to assess effectiveness in older children.                                                           Trial Registration                                            ClinicalTrials.gov Identifier:                       NCT06561061",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-13",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-14",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.13612",
+        "doi": "10.1001/jama.2026.13612",
+        "url": "https://doi.org/10.1001/jama.2026.13612",
+        "title": "Arginine Therapy for Sickle Cell Disease Acute Pain Episodes",
+        "authors": [],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-13",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-14",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.13459",
+        "doi": "10.1001/jama.2026.13459",
+        "url": "https://doi.org/10.1001/jama.2026.13459",
+        "title": "What Is Alcohol-Related Liver Disease?",
+        "authors": [
+          "Kristin L. Walter"
+        ],
+        "abstract": "This JAMA Patient Page describes who is at risk, the symptoms, diagnosis and treatment, and prognosis for patients with alcohol-related liver disease.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-13",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-14",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.13310",
+        "doi": "10.1001/jama.2026.13310",
+        "url": "https://doi.org/10.1001/jama.2026.13310",
+        "title": "Arginine Therapy for Sickle Cell Disease Acute Pain Episodes",
+        "authors": [
+          "Claudia R. Morris",
+          "Dunia Hatabah",
+          "Rawan Korman",
+          "Fahd A. Ahmad",
+          "Gladstone Airewele",
+          "Bolanle Akinsola",
+          "Noor Alzraikat",
+          "Nitya Bakshi",
+          "David C. Brousseau",
+          "Kathleen Brown",
+          "Andrew D. Campbell",
+          "T. Charles Casper",
+          "Todd P. Chang",
+          "Corrie E. Chumpitazi",
+          "Daniel Cohen",
+          "Keli D. Coleman",
+          "Laura Covelo",
+          "Andrea T. Cruz",
+          "Christopher Denton",
+          "Angela M. Ellison",
+          "Melanie Fields",
+          "Hailey Jensen",
+          "Sara Leibovich",
+          "Chris A. Rees",
+          "Allison Remiker",
+          "Nidhi Singh",
+          "Alexis Thompson",
+          "Elliott Vichinsky",
+          "Anthony Villella",
+          "Hagar Wilkinson",
+          "Bridget Wynn",
+          "Carlton Dampier"
+        ],
+        "abstract": "Importance                     Acute pain episodes are the leading cause of emergency department visits and hospitalizations for patients with sickle cell disease (SCD), yet US Food and Drug Administration–approved drugs for acute pain episodes are lacking. During acute pain episodes, patients develop acute arginine deficiency associated with longer time to crisis resolution and greater total parenteral opioid use. Multiple single-center, phase 2 randomized clinical trials have shown that arginine is safe, is opioid sparing, improves cardiopulmonary function, and reduces length of hospital stay.                                                           Objective                     To determine the efficacy and safety of intravenous arginine for SCD acute pain episodes.                                                           Design, Setting, and Participants                     Prospective, phase 3, double-blind randomized clinical trial conducted between June 21, 2021, and June 13, 2024, in 10 US children’s hospitals enrolling patients aged 3 to 21 years presenting to the emergency department with SCD acute pain episodes requiring parenteral opioids.                                                           Interventions                     Patients were randomized to receive intravenous arginine (200 mg/kg followed by 100 mg/kg every 8 hours until discharge; n = 129) or saline placebo (n = 142).                                                           Main Outcomes and Measures                     The primary outcome was time to crisis resolution, defined as hours from initial study drug delivery to last intravenous opioid dose. Secondary outcomes included total parenteral opioid use (intravenous morphine equivalents in milligrams per kilogram from first study drug dose to last intravenous opioid dose), pain scores, and patient-reported outcomes.                                                           Results                     Of 274 randomized participants, 271 received study drug; the mean age was 14.3 years (SD, 4.3 years), 51% were male, and 92% were Black. The trial was halted early for futility, as time to crisis resolution was similar in those receiving arginine vs placebo (median, 60.8 hours [IQR, 34.8-109.0 hours] vs 65.8 hours [IQR, 31.1-111.1 hours], respectively; absolute difference, 7.2 hours; 95% CI, −21.6 to 35.9 hours). No significant differences were seen in total parenteral opioid use, pain scores, patient-reported outcomes, or safety events.                                                           Conclusions and Relevance                     Arginine therapy did not shorten time to crisis resolution compared with placebo among children and young adults with SCD acute pain episodes.                                                           Trial Registration                                            ClinicalTrials.gov Identifier:                       NCT04839354",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-13",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-14",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.15889",
+        "doi": "10.1001/jama.2026.15889",
+        "url": "https://doi.org/10.1001/jama.2026.15889",
+        "title": "Daily Zinc Supplementation for Infection Prevention in Children With Sickle Cell Anemia",
+        "authors": [],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-13",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-14",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.13859",
+        "doi": "10.1001/jama.2026.13859",
+        "url": "https://doi.org/10.1001/jama.2026.13859",
+        "title": "Tucidinostat Plus R-CHOP for Large B-Cell Lymphoma",
+        "authors": [
+          "Stephanie Armbruster",
+          "Tyler M. Seibert",
+          "Lee-Jen Wei"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-13",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-14",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.13862",
+        "doi": "10.1001/jama.2026.13862",
+        "url": "https://doi.org/10.1001/jama.2026.13862",
+        "title": "Tucidinostat Plus R-CHOP for Large B-Cell Lymphoma—Reply",
+        "authors": [
+          "Peng-Peng Xu",
+          "Bo Chen",
+          "Wei-Li Zhao"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-13",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-14",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.14029",
+        "doi": "10.1001/jama.2026.14029",
+        "url": "https://doi.org/10.1001/jama.2026.14029",
+        "title": "Digoxin for Symptomatic Rheumatic Heart Disease",
+        "authors": [
+          "Qingqing Zhu",
+          "Sibo Wang"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-13",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-14",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.14032",
+        "doi": "10.1001/jama.2026.14032",
+        "url": "https://doi.org/10.1001/jama.2026.14032",
+        "title": "Digoxin for Symptomatic Rheumatic Heart Disease",
+        "authors": [
+          "Youyi Lu",
+          "Lin Li",
+          "Qi Li"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-13",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-14",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.14035",
+        "doi": "10.1001/jama.2026.14035",
+        "url": "https://doi.org/10.1001/jama.2026.14035",
+        "title": "Digoxin for Symptomatic Rheumatic Heart Disease—Reply",
+        "authors": [
+          "Ganesan Karthikeyan"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-13",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-14",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2025.16064",
+        "doi": "10.1001/jama.2025.16064",
+        "url": "https://doi.org/10.1001/jama.2025.16064",
+        "title": "JAMA",
+        "authors": [],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-13",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-14",
         "fetched_from": "crossref"
       },
       {
@@ -61906,6 +62814,63 @@
         "fetched_from": "crossref"
       },
       {
+        "id": "doi:10.1093/aje/kwag255",
+        "doi": "10.1093/aje/kwag255",
+        "url": "https://doi.org/10.1093/aje/kwag255",
+        "title": "The effect of hypothetical interventions to limit weight gain on incident type 2 diabetes mellitus among people with HIV initiating antiretroviral therapy in the United States, 2012-2021",
+        "authors": [
+          "Catherine R Lesko",
+          "Katherine Kurgansky",
+          "Elizabeth Humes",
+          "Parastu Kasaie",
+          "Emily P Hyle",
+          "Jennifer O Lam",
+          "Sita Lujintanon",
+          "Anna Rubtsova",
+          "Michael Horberg",
+          "Sean X Leng",
+          "Raynell Lang",
+          "Anthony T Fojo",
+          "Vincent C Marconi",
+          "Thibaut Davy-Mendez",
+          "Keri N Althoff"
+        ],
+        "abstract": "Abstract                   Among people with HIV (PWH), initiating antiretroviral therapy (ART) is associated with weight gain that might increase the risk of cardiometabolic outcomes. We estimated the effect of hypothetical interventions to restrict increases in body mass index (BMI) in the two years after ART initiation on the 7-year risk of incident type-2 diabetes mellitus (T2DM) among PWH in the North American AIDS Cohort Collaboration on Research and Design (NA-ACCORD) clinical cohorts using the parametric extended g-formula. Among 13,822 normal weight or overweight PWH (BMI ≥18.5 and ≤29.9 kg/m2) who initiated ART between 2012-2021, the 7-year risk of T2DM was 5.6% (95% confidence interval [CI]: 4.8%, 6.3%). Compared to no intervention on BMI, if BMI increase during the first 2 years was capped at 5% of baseline BMI, the risk ratio (RR) for T2DM risk was 0.94 (95% CI, 0.86, 1.03); if BMI was capped at 29.9 kg/m2, RR=0.88 (95% CI, 0.80, 0.97); and if PWH were prevented from gaining any weight over the first 2 years, RR=0.81 (95% CI, 0.72, 0.92). These results provide preliminary evidence to promote studies of real weight maintenance interventions among PWH initiating ART.",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-10-14",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-14",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag256",
+        "doi": "10.1093/aje/kwag256",
+        "url": "https://doi.org/10.1093/aje/kwag256",
+        "title": "Those Confounded Examples",
+        "authors": [
+          "Stephen R Cole",
+          "Ashley I Naimi",
+          "Paul N Zivich",
+          "Jess K Edwards"
+        ],
+        "abstract": "",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-10-14",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-14",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1186/s12877-026-07819-7",
         "doi": "10.1186/s12877-026-07819-7",
         "url": "https://doi.org/10.1186/s12877-026-07819-7",
@@ -62114,6 +63079,569 @@
           "healthReform"
         ],
         "firstSeen": "2026-10-13",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70684",
+        "doi": "10.1111/jgs.70684",
+        "url": "https://doi.org/10.1111/jgs.70684",
+        "title": "Low‐Intensity Social Care for Dementia Caregivers: A Randomized Trial",
+        "authors": [
+          "Jennifer A. Makelarski",
+          "Kristen E. Wroblewski",
+          "Victoria A. Winslow",
+          "Emily M. Abramsohn",
+          "Soo Borson",
+          "Delaney A. Romanchick",
+          "Dena Schulman‐Green",
+          "Katherine Thompson",
+          "Elbert S. Huang",
+          "Stacy Tessler Lindau"
+        ],
+        "abstract": "ABSTRACT                                        Background                     Resource needs increase strain among dementia caregivers. We tested the impact of CommunityRx‐Dementia, a low‐intensity resource referral intervention that provides education about common resource needs, a personalized list of nearby resources, and navigation support via a navigator and online resource finder.                                                           Methods                     We conducted a single‐blind RCT comparing usual care (control) versus usual care plus CommunityRx‐Dementia (intervention). We enrolled (12/2020–2/2024) English‐speaking dementia caregivers agreeing to receive text messages who lived in a 62 ZIP code geography around an urban academic medical center. We assessed caregiver self‐efficacy (primary, 12 months), loneliness, need for help and self‐reported hospitalizations and emergency department (ED) visits (other pre‐specified outcomes). Pre‐planned, main analyses included participants with ≥ 1 baseline health‐related social risk (HRSRs); post hoc analyses included caregivers without baseline HRSRs.                                                           Results                                            Caregivers with HRSRs (                       n                        = 133) were predominantly female (84%) and Black (79%); 52% had household income &lt; $50 K/year; 94% texted a navigator and 31% requested additional resource information. Caregiver self‐efficacy (range 1–5, intervention = 3.5; control = 3.5, odds ratio [OR]: 0.80, 95% CI: 0.30, 2.09) and rates of loneliness (intervention = 41%; control = 50%; OR: 0.62, 95% CI: 0.24, 1.59), needing help (23% = intervention, 34% = control; OR: 0.80, 95% CI: 0.30, 2.11) and hospitalization (intervention = 0.1, control = 0.2; IRR: 0.42, 95% CI: 0.14, 1.30) were similar at 12 months, but ED utilization was lower in the intervention group (0.3 vs. 0.7, IRR: 0.41, 95% CI: 0.19, 0.90). Caregivers without HRSRs (                       n                        = 210) were mainly female (75%) and Black (82%); 25% had household income &lt; $50 K/year; 95% texted a navigator and 39% requested additional resource information. Self‐efficacy, loneliness, hospitalizations, and ED utilization were similar between arms at 12 months, but odds of needing help were 0.31 (95% CI: 0.12, 0.83) for the intervention group.                                                                                Conclusions                     A low‐intensity social care intervention aimed at dementia caregivers did not improve self‐efficacy at 12 months but reduced emergency care utilization among those with HRSRs.                                                           Trial Registration                                            ClinicalTrials.gov                       , Registered 10/29/19, Identifier:                       NCT04146545",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-10-13",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-14",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08482-8",
+        "doi": "10.1186/s12877-026-08482-8",
+        "url": "https://doi.org/10.1186/s12877-026-08482-8",
+        "title": "Association of dysphagia with physical performance and fall risk in frail older adults",
+        "authors": [
+          "Hsi-Yu Huang",
+          "Chiu-Chen Lin",
+          "Ji-Ze Hsu",
+          "Sheng-Lun Kao"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-13",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-14",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08393-8",
+        "doi": "10.1186/s12877-026-08393-8",
+        "url": "https://doi.org/10.1186/s12877-026-08393-8",
+        "title": "Credibility and strength of evidence for exercise, nutritional, and combined interventions on muscle function and physical performance in older adults: an umbrella review of meta-analyses of randomized controlled trials",
+        "authors": [
+          "Qiuping Huang",
+          "Jingzhi Zhu",
+          "Chulin Chen",
+          "Huiling Cai",
+          "Yao Hu",
+          "Jinyue Huang",
+          "Yirui Chen",
+          "Hairong Cai"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-13",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-14",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08388-5",
+        "doi": "10.1186/s12877-026-08388-5",
+        "url": "https://doi.org/10.1186/s12877-026-08388-5",
+        "title": "Trajectories of loneliness and the association of the risk of frailty among older adults: insights from a national cohort study",
+        "authors": [
+          "Chuangsen Fang",
+          "Yakun Shao",
+          "Ao Li",
+          "Yanming Li"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-13",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-14",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08457-9",
+        "doi": "10.1186/s12877-026-08457-9",
+        "url": "https://doi.org/10.1186/s12877-026-08457-9",
+        "title": "Real-world evidence on the management and outcomes of glioblastoma in elderly patients: a monocentric retrospective analysis",
+        "authors": [
+          "Jörg Andreas Müller",
+          "Ian Schirrwagen",
+          "Clara Pitzschel",
+          "Daniel Medenwald",
+          "Dirk Vordermark"
+        ],
+        "abstract": "Abstract                                        Background                     Glioblastoma (GBM) carries a poor prognosis, and older patients and those with impaired performance status are often underrepresented in randomized trials. This study evaluated real-world treatment patterns, survival outcomes, and factors associated with outcome in older patients with GBM.                                                           Methods                     We retrospectively analyzed 63 patients aged ≥ 65 years with a diagnosis of GBM managed at a single-center radiation oncology department between 2014 and 2023. Overall survival (OS) and progression-free survival (PFS) were calculated from diagnosis. Multivariable Cox models included age, sex, Karnofsky Performance Status (KPS), radiologically confirmed gross total resection (GTR), and temozolomide (TMZ) administration as clinically prespecified covariates. Complete-case analyses were performed. Proportional hazards assumptions were assessed using Schoenfeld residuals, with additional time-varying and exploratory sensitivity analyses addressing diagnostic classification, treatment selection, concomitant TMZ exposure, and treatment timing.                                                           Results                                            Median OS was 7.0 months (95% CI 5.3–14.4) and median PFS was 5.3 months (95% CI 3.9–7.8). In the multivariable OS model (                       n                        = 56; 50 deaths), increasing age was associated with higher mortality (HR 1.09, 95% CI 1.02–1.17;                       p                        = 0.011), whereas female sex was associated with a lower hazard of death (HR 0.45, 95% CI 0.23–0.91;                       p                        = 0.025). Omission of TMZ was associated with higher mortality (HR 2.26, 95% CI 1.16–4.41;                       p                        = 0.017), while GTR showed a directionally favorable association that did not reach conventional statistical significance (HR 0.52, 95% CI 0.27–1.01;                       p                        = 0.054). In the PFS model (                       n                        = 56; 53 events), increasing age (HR 1.07, 95% CI 1.01–1.14;                       p                        = 0.027) and omission of TMZ (HR 2.34, 95% CI 1.20–4.55;                       p                        = 0.013) were associated with higher hazards, whereas female sex (HR 0.45, 95% CI 0.23–0.89;                       p                        = 0.022) and higher KPS (HR 0.98, 95% CI 0.96–1.00;                       p                        = 0.039) were associated with lower hazards. Resection status violated the proportional hazards assumption for PFS; time-varying analysis indicated an early favorable association of GTR that attenuated over time. Sensitivity analyses based on concomitant TMZ exposure and survival measured from radiotherapy initiation yielded similar associations.                                                                                Conclusions                     Survival remained limited in this real-world cohort of older patients with GBM. Age, sex, performance status, resection status, and TMZ administration showed varying associations with outcome, with TMZ showing the most consistent association across analyses. Given the small retrospective cohort and substantial treatment selection, these findings should be considered hypothesis-generating rather than causal.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-13",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-14",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08493-5",
+        "doi": "10.1186/s12877-026-08493-5",
+        "url": "https://doi.org/10.1186/s12877-026-08493-5",
+        "title": "Effects of multicomponent exercise combined with nutritional intervention on global cognitive function and depressive symptoms in older adults: a systematic review and meta-analysis",
+        "authors": [
+          "Wenhua Zhang",
+          "Xun Li",
+          "Jiecai Zheng",
+          "Dianbo Zhang"
+        ],
+        "abstract": "Abstract                                        Objective                     To systematically evaluate the effects of multicomponent exercise (ME) combined with nutritional intervention on global cognitive function and depressive symptoms in older adults.                                                           Methods                     A systematic search was conducted in PubMed, Embase, Web of Science, and Cochrane Library for randomized controlled trials (RCTs) published from inception to June 30, 2026. Participants were older adults aged ≥ 60 years. Interventions were required to include both ME and nutritional intervention. Primary outcomes were global cognitive function and depressive symptoms. Hedges‘ g was used as the effect size measure, and a random-effects model was prespecified as the primary model for all pooled analyses. Subgroup analyses and sensitivity analyses were also performed.                                                           Results                                            A total of 9 RCTs involving 1,814 participants were included. Of these, 7 studies contributed data on global cognitive function and 5 studies contributed data on depressive symptoms. Meta-analysis showed that ME combined with nutritional intervention may improve global cognitive function (                       g                        = 0.31, 95% CI: 0.08 ~ 0.54) and depressive symptoms (                       g                       = -0.51, 95% CI: -0.93~-0.09) in older adults, but moderate-to-high heterogeneity was observed in both global cognitive function (                       I²                       = 68.54%) and depressive symptoms (                       I²                       = 63.54%) analyses. Subgroup analyses showed no statistically significant between-subgroup differences by nutrition type, baseline cognitive status, or exercise modality (                       P                        &gt; 0.05), and only intervention duration showed a significant subgroup difference for global cognitive function (                       P                        &lt; 0.001).                                                                                Conclusion                     ME combined with nutritional intervention may have a small beneficial effect on global cognitive function and depressive symptoms in older adults. However, the current evidence is limited by the small number of included studies, moderate-to-high heterogeneity, underpowered subgroup analyses, and potential publication bias. The trim-and-fill-adjusted estimates for both global cognitive function and depressive symptoms were attenuated, and their 95% confidence intervals crossed zero, indicating sensitivity to potential publication bias. These conclusions should be regarded as exploratory and interpreted with caution. Future high-quality RCTs with larger sample sizes, longer follow-up periods, and standardized intervention protocols are needed for validation.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-13",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-14",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08461-z",
+        "doi": "10.1186/s12877-026-08461-z",
+        "url": "https://doi.org/10.1186/s12877-026-08461-z",
+        "title": "Isotemporal substitution in 24-hour movement behaviors and frailty risk in older adults: a compositional data analysis",
+        "authors": [
+          "Xingcan Zhou",
+          "Shiqiang Wang",
+          "Xiangqin Peng",
+          "Fu Yuan",
+          "Xuan Tang",
+          "Dan Li"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-13",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-14",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08357-y",
+        "doi": "10.1186/s12877-026-08357-y",
+        "url": "https://doi.org/10.1186/s12877-026-08357-y",
+        "title": "Subjective sleep regularity, frailty, and self-reported health loss in later life: evidence from a multisite study of older adults in China",
+        "authors": [
+          "Heng Dong",
+          "Jia Song",
+          "Shangfeng Tang",
+          "Min Zhang"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-13",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-14",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08479-3",
+        "doi": "10.1186/s12877-026-08479-3",
+        "url": "https://doi.org/10.1186/s12877-026-08479-3",
+        "title": "Differences in disability-free life expectancy among Chinese older adults by combined body mass index and waist circumference categories",
+        "authors": [
+          "Yiru Jiang",
+          "Shimin Su",
+          "Weiqiang Su",
+          "Qian Wang",
+          "Huiling Dong",
+          "Tingting Xu",
+          "Bingyi Wu",
+          "Yu Bi"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-13",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-14",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08481-9",
+        "doi": "10.1186/s12877-026-08481-9",
+        "url": "https://doi.org/10.1186/s12877-026-08481-9",
+        "title": "Effects of exercise interventions on health-related quality of life in healthy older adults: a systematic review and meta-analysis of randomized controlled trials",
+        "authors": [
+          "Shuaijie Zhang",
+          "Pengtao Lu",
+          "Yusha Gu"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-13",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-14",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08501-8",
+        "doi": "10.1186/s12877-026-08501-8",
+        "url": "https://doi.org/10.1186/s12877-026-08501-8",
+        "title": "Mindfulness and psychological well-being in older adults: the effect of reminiscence therapy",
+        "authors": [
+          "Meltem Çapar Çiftci",
+          "Güzel Nur Yildiz"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-13",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-14",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08505-4",
+        "doi": "10.1186/s12877-026-08505-4",
+        "url": "https://doi.org/10.1186/s12877-026-08505-4",
+        "title": "Health literacy networks among older adults: central components and network differences by age and sex",
+        "authors": [
+          "Mi-So Shim",
+          "Somyee Min",
+          "Jaesin Sa",
+          "Sookyung Kim"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-13",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-14",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08433-3",
+        "doi": "10.1186/s12877-026-08433-3",
+        "url": "https://doi.org/10.1186/s12877-026-08433-3",
+        "title": "Joint cognitive–depression trajectories during aging and risk of new-onset cancer: cross-national evidence from three population-based cohorts",
+        "authors": [
+          "Wenyan Dong",
+          "Wei Yan",
+          "Yi Li",
+          "Lixin Zhao",
+          "Jinsong Wu",
+          "Mengshuang Xie",
+          "Wei Wang"
+        ],
+        "abstract": "Abstract                                        Background                     Cognitive decline and depressive symptoms commonly co-occur during aging and may jointly influence cancer risk through chronic inflammation, neuroendocrine dysregulation, and adverse behavioral changes. However, longitudinal evidence on synchronized cognitive–depression trajectories and new-onset cancer remains limited across diverse populations. This study investigated the association between joint cognitive–depression trajectories and new-onset cancer risk using three nationally representative cohorts, while further exploring the consistency of predictor importance using complementary machine learning approaches.                                                           Methods                                            Adults aged ≥ 65 years from HRS (                       n                        = 7,077), ELSA (                       n                        = 3,879), and CHARLS (                       n                        = 3,549) who were cancer-free at baseline and had at least three repeated assessments of cognition and depressive symptoms were included. Group-based trajectory modeling identified synchronized cognitive–depression trajectories. Cox proportional hazards models examined associations with new-onset cancer, with Fine–Gray competing risk models, discrete-time logistic regression, and subgroup analyses assessing robustness. Seven machine learning models were developed following LASSO and Boruta feature selection, with SHAP, calibration curves, and decision curve analysis used for interpretation and model evaluation.                                                                                Results                     Over median follow-up periods of 10, 6, and 8 years, 1,187, 310, and 100 new-onset cancer cases were identified in HRS, ELSA, and CHARLS, respectively. Two trajectory groups were consistently identified: High Cognition and Low CESD, and Low Cognition and High CESD. Compared with the favorable trajectory, the adverse trajectory was associated with significantly increased new-onset cancer risk in HRS (HR = 1.23, 95% CI: 1.05–1.45), ELSA (HR = 2.05, 95% CI: 1.57–2.67), and CHARLS (HR = 1.61, 95% CI: 1.03–2.52). Findings were robust across multiple models. CatBoost demonstrated the best predictive performance, and cognitive–depression trajectory was consistently identified as a key predictor.                                                           Conclusions                     Synchronized cognitive decline and worsening depressive symptoms were significantly associated with elevated new-onset cancer risk across three countries. Joint cognitive–depression trajectories may represent a potential behavioral–psychological indicator associated with cancer risk among older adults; however, their clinical utility for individual-level risk stratification or cancer prevention requires further prospective validation.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-13",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-14",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08486-4",
+        "doi": "10.1186/s12877-026-08486-4",
+        "url": "https://doi.org/10.1186/s12877-026-08486-4",
+        "title": "Association of the C-reactive protein-triglyceride glucose index with motoric cognitive risk syndrome in Chinese older adults: a cross-sectional study",
+        "authors": [
+          "Liping Chen",
+          "Ting Xiao",
+          "Ye Ruan",
+          "Wancheng Zhang",
+          "Dingchang Wu"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-13",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-14",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08454-y",
+        "doi": "10.1186/s12877-026-08454-y",
+        "url": "https://doi.org/10.1186/s12877-026-08454-y",
+        "title": "Osteosarcopenic obesity across adiposity definitions: prevalence and functional vulnerability in community-dwelling Chinese older adults",
+        "authors": [
+          "Haiyan Yu",
+          "Shugang Li",
+          "Jiandong Zhou",
+          "Haolin Pu",
+          "Mingyuan Fu",
+          "Bofeng Lu",
+          "Hao Wu"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-13",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-14",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261497407",
+        "doi": "10.1177/13872877261497407",
+        "url": "https://doi.org/10.1177/13872877261497407",
+        "title": "Integrative analysis of Alzheimer's disease molecular networks with circadian regulators for prioritization of drug repurposing candidates",
+        "authors": [
+          "Alexandros Zantis",
+          "Elisa Uliassi",
+          "Chiara Pallara",
+          "Xinzhong Li"
+        ],
+        "abstract": "Background                     Alzheimer's disease (AD) is a multifactorial neurodegenerative disorder characterized by complex molecular mechanisms. Growing evidence indicates that circadian rhythm disruption contributes to disease progression and interacts with pathogenic pathways. Although multi-omics resources, compound perturbation profiles, and pharmacological bioactivity data are increasingly available, their integrative use for drug repurposing prioritization in AD, particularly with explicit consideration of circadian rhythm, remains limited.                                                           Objective                     This study aimed to prioritize drug repurposing candidates for AD, by integrating heterogeneous biological and pharmacological data.                                                           Methods                     We applied an integrative, systems-level computational analysis to prioritize drug repurposing and repositioning candidates for AD by combining network-based gene prioritization, functional transcriptomic similarity analysis, and target-level bioactivity prediction. Disease-associated molecular modules were identified within the human protein-protein interaction network, with circadian rhythm regulators incorporated as an additional disease relevant biological context. These modules were represented using functional gene embeddings to rank compound perturbation signatures. Candidate compounds were subsequently refined through ligand-based bioactivity prediction across AD associated targets to support polypharmacological prioritization.                                                           Results                     The analysis prioritized compounds supported by convergent network-level disease relevance, transcriptomic similarity, and predicted target engagement. Several drugs previously investigated in dementia-related clinical trials were recovered. Novel repositioning candidates, including PF-562271, MGCD-265, and BMS-777607, were identified, converging on focal adhesion kinase (FAK), PI3K–AKT, and receptor tyrosine kinase (RTK) signaling pathways enriched in AD-associated genes and implicated in circadian regulation and neuroinflammation.                                                           Conclusions                     This integrative analysis identifies mechanistically coherent repurposing candidates, associated with circadian and inflammatory pathways, supporting systems-based strategies for therapeutic prioritization in complex neurodegenerative diseases.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-10-13",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-14",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261495937",
+        "doi": "10.1177/13872877261495937",
+        "url": "https://doi.org/10.1177/13872877261495937",
+        "title": "Emerging hydrogel platforms for disease modeling, diagnosis, and imaging of Alzheimer's disease",
+        "authors": [
+          "Travis D. Truong",
+          "Huachen Shi",
+          "Claudia Pena",
+          "Baskaran Chinnappan",
+          "Esha Savani",
+          "Amanpreet Cheema",
+          "Naushira Pandya",
+          "Nancy G. Klimas",
+          "Theoharis C. Theoharides",
+          "Duraisamy Kempuraj"
+        ],
+        "abstract": "Alzheimer's disease (AD) is a progressive neurodegenerative disease characterized by the presence of amyloid plaques, neurofibrillary tangles, neurodegeneration, cognitive decline, and dementia. The exact pathogenesis is not well understood, as appropriate pathological and therapeutically relevant disease models remain limited. Hydrogels are hydrophilic, three-dimensional (3D) polymer networks composed of synthetic or natural materials and have diverse neuroscience applications, including drug delivery, tissue engineering, and regenerative medicine. Currently, hydrogel in vitro platforms are becoming increasingly explored for AD pathogenesis, as brain extracellular matrix–mimicking biodegradable components, for delivery of growth factors for neurons and other brain cells, AD-specific peptide release, engineered multi-region brain organoids, and therapeutic drug delivery. Beyond disease modeling, hydrogels are being used to evaluate emerging AD diagnostic and therapeutic strategies, such as biomarker sensing and the integration of imaging. Recent AD diagnostic platforms have leveraged hydrogels as biomolecule-capture matrices and signal-transduction elements to detect AD-associated biomarkers via minimally invasive or implantable systems. Hydrogels have also been harnessed in magnetic resonance imaging, ultrasound, computed tomography, and positron emission tomography imaging modalities to support imageable vehicles for therapeutic delivery. Such platforms hold promise for bridging physiologically relevant neurobiological investigation with more accessible, efficient clinical tools for AD. This review highlights recent advances in hydrogel-based disease models, diagnostic tools, and imaging technologies and their potential to integrate with brain organoids, artificial intelligence, and 3D printing to enhance mechanistic and translational applications for AD.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-10-13",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-14",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261495145",
+        "doi": "10.1177/13872877261495145",
+        "url": "https://doi.org/10.1177/13872877261495145",
+        "title": "A scoping review on the time to diagnosis, early symptoms, and the barriers and facilitators of diagnosis in young-onset dementia",
+        "authors": [
+          "Charles David",
+          "Stevie Hendriks",
+          "Line Damsgaard",
+          "Sebastian Köhler",
+          "Marjolein de Vugt"
+        ],
+        "abstract": "Background                     Young-onset dementia (YOD) occurs when symptoms start before age 65 and affects about 3.9 million people globally. Variability in first symptoms, the young age, and prevalent non-cognitive symptoms pose challenges in recognizing YOD, leading to diagnostic delays. Better awareness and recognition of warning signs in primary care is essential for early YOD diagnosis, facilitating access to appropriate services and informal care arrangements.                                                           Objective                     To gain insights into the prediagnostic phase of YOD by exploring literature on early symptoms and factors influencing a timely diagnosis.                                                           Methods                     A literature search was conducted across PubMed, Embase, Web of Science, and PsycInfo. Two independent reviewers screened 5862 titles and abstracts and assessed 790 full texts. Data extraction used a standardized form, including time to diagnosis, early symptoms, barriers, and facilitators to YOD diagnosis. Review reporting followed PRISMA-ScR guidelines. Focus group discussions with people with YOD, caregivers, and healthcare professionals (HCPs) contextualized the review findings.                                                           Results                     We included 225 studies. Time to diagnosis ranged from 4 months to 15 years across dementia subtypes. Early symptoms included memory problems, language difficulties, disorientation, personality changes, delusions, hallucinations, apathy, and depression. HCPs, people with YOD, and their caregivers often lacked awareness of YOD, which hindered diagnosis. However, persistence in seeking medical care, YOD-related services, and couples’ agreements to seek professional help were essential facilitators.                                                           Conclusions                     Early signs of YOD include cognitive, behavioral, and affective symptoms. Lack of YOD awareness hinders diagnosis, highlighting the need to raise awareness among HCPs and the community to promote early identification.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-10-13",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-14",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261495962",
+        "doi": "10.1177/13872877261495962",
+        "url": "https://doi.org/10.1177/13872877261495962",
+        "title": "The ferroptosis-lipid metabolism-neuroinflammation axis in Alzheimer's disease: A review of mechanistic interplay and therapeutic implications",
+        "authors": [
+          "Tao Zhu",
+          "Xu Deng",
+          "Jia Lu",
+          "Xing Zhou",
+          "Yu Wang",
+          "Dandan Xu",
+          "Jian Song",
+          "Xixiang Xie",
+          "Chunxia Chen"
+        ],
+        "abstract": "Alzheimer's disease (AD) involves multiple pathological pathways, with ferroptosis and lipid metabolic dysregulation forming a coupled mechanism across the disease course, and neuroinflammation acting as a key mediator. While existing reviews often focus on isolated processes, they frequently lack an integrative analysis of the “ferroptosis–lipid–neuroinflammation axis” as a systemic pathological core. This review specifically addresses this gap by proposing a unified mechanistic framework for neuronal injury, synaptic dysfunction, and immunometabolic remodeling in AD, centered on this tripartite axis. We comprehensively summarize how key pathways involving glutathione peroxidase 4 (GPX4), ferroptosis suppressor protein 1 (FSP1), coenzyme Q10 (CoQ10), the cystine/glutamate antiporter system Xc                     −                     , solute carrier family 7 member 11 (SLC7A11), AMP-activated protein kinase (AMPK), nuclear factor erythroid 2-related factor 2 (NRF2), and N6-methyladenosine (m                     6                     A) regulation shape neuroinflammation within this context. Furthermore, we explore how advanced methodologies, including spatial omics, single-cell transcriptomics, organoid models, and engineered exosome methods, are instrumental in elucidating regional specificity, optimal intervention windows, and targeted delivery strategies for modulating this iron-lipid-inflammation interplay. This axis functions as a pathological amplifier, linking metabolic, oxidative, immune, and structural dysfunctions. Its systemic reprogramming offers a new paradigm for AD subtyping, biomarker discovery, and multitarget interventions, thereby overcoming the limitations of traditional amyloid-β/tau-centric approaches. This review integrates literature published up to the submission date, ensuring the inclusion of the latest mechanistic insights and translational advances in the ferroptosis–lipid metabolism–neuroinflammation axis.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-10-13",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-14",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261496419",
+        "doi": "10.1177/13872877261496419",
+        "url": "https://doi.org/10.1177/13872877261496419",
+        "title": "Education as a proxy for cognitive reserve, and its moderating role in the amyloid–cognition relationship across the Alzheimer's disease continuum: A systematic review and meta-analysis",
+        "authors": [
+          "Yuan Yang",
+          "Yun Zhang",
+          "Jaymie R. Meliker",
+          "Lauren L. Richmond",
+          "Dylan M. Smith",
+          "Sean A.P. Clouston"
+        ],
+        "abstract": "Background                     Educational achievement is widely used as a proxy for cognitive reserve—the capacity to sustain cognition despite accumulating neuropathology. Nevertheless, the impact of education on the neuropathology-cognition association has not been assessed in a meta-analytical manner.                                                           Objective                     To meta-analyze studies reporting an education × neuropathology interaction term on cognition by pathology, and to determine whether the interaction effect differs by cognitive domains, age, participants’ cognitive diagnosis, and gender.                                                           Methods                     Following PRISMA guidelines, we searched PubMed, EMBASE, PsycINFO, and Web of Science through March 2026. Seventeen cross-sectional articles contributing 82 effect sizes were pooled using random-effects models with robust variance estimation across four pathology classes (amyloid, phosphorylated tau [pTau], vascular, and structural). All analyses were corrected for multiple comparisons using the Benjamini–Hochberg false-discovery rate (FDR).                                                           Results                     Higher education significantly attenuated the amyloid–cognition association (r = 0.114, adjusted-p = 0.012), a trend concentrated in the global cognitive domain (r = 0.108, adjusted-p = 0.060) and in studies with mixed cognitively unimpaired and cognitively impaired participants (r = 0.130, adjusted-p = 0.020). No significant interaction was found for pTau, vascular, or structural pathology (all adjusted-p &gt; 0.100). Funnel plot and Egger's regression showed no evidence of publication bias.                                                           Conclusions                     Education moderated the amyloid–cognition association across the Alzheimer's disease continuum in full-spectrum (mixed-diagnosis) samples. Confirmation in adequately powered, longitudinal designs is warranted.                     PROSPERO Registration: CRD42023390544.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-10-13",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-14",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261496469",
+        "doi": "10.1177/13872877261496469",
+        "url": "https://doi.org/10.1177/13872877261496469",
+        "title": "Effects of aerobic exercise on learning and memory function and inflammatory markers in animal models of Alzheimer's disease: A meta-analysis",
+        "authors": [
+          "Rumeng Liu",
+          "Jiping Chen",
+          "Shuan Xue",
+          "Yanfeng Dong",
+          "Xiangli Xue"
+        ],
+        "abstract": "Background                     Alzheimer's disease (AD) is a progressive neurodegenerative disorder and the leading cause of dementia worldwide. Aerobic exercise (AE) may improve learning and memory function and modulate neuroinflammation in AD animal models, although evidence remains inconsistent.                                                           Objective                     To evaluate the effects of AE on learning and memory function and hippocampal inflammatory cytokines in AD animal models.                                                           Methods                     This systematic review and meta-analysis followed the PRISMA statement. We searched PubMed, Scopus, Embase, Web of Science, and the Cochrane Library, and included 19 animal studies. We used random-effects models to calculate standardized mean differences (SMD). We conducted subgroup analyses by AD modeling methods, exercise modality, AD pathological stage, and intervention duration. We also evaluated oxidative stress-related markers reported in the included studies as supplementary outcomes.                                                           Results                     AE significantly improved spatial memory (platform crossings, SMD = 1.82), spatial learning (escape latency, SMD = −1.48), and recognition memory (novel object recognition, SMD = 2.80). AE reduced hippocampal interleukin-1β (IL-1β) levels (SMD = −3.17); AE showed a trend toward reducing tumor necrosis factor-α (TNF-α) levels, but the effect did not reach statistical significance (SMD = −1.20, 95% CI: −2.44 to 0.04). Supplementary analyses showed that AE increased superoxide dismutase (SOD) activity (SMD = 2.05) and reduced malondialdehyde (MDA) content (SMD = −3.20). Moderate-to-high heterogeneity was observed across studies.                                                           Conclusions                     AE improves learning and memory function and modulates hippocampal inflammation in AD animal models, particularly IL-1β. Supplementary analyses suggest potential benefits for oxidative stress, with increased SOD and reduced MDA.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-10-13",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-14",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261497235",
+        "doi": "10.1177/13872877261497235",
+        "url": "https://doi.org/10.1177/13872877261497235",
+        "title": "Intermittent hypoxia training alleviates cerebral hypoperfusion and amyloid-β deposition in a mixed dementia model established by bilateral common carotid artery stenosis in early-stage 5xFAD mice",
+        "authors": [
+          "Chenchen Lv",
+          "Qi Luo",
+          "Feiyang Jin",
+          "Qianqian Shao",
+          "Yunjie Qiu",
+          "Junjun Ni",
+          "Jia Liu",
+          "Hong Qing",
+          "Zhenzhen Quan"
+        ],
+        "abstract": "Background                     Alzheimer's disease (AD) is the most common form of dementia and often coexists with vascular pathology in clinical settings, resulting in mixed dementia with more severe symptoms and more rapid progression.                                                           Objective                     To investigate whether chronic cerebral hypoperfusion aggravates early AD-related pathology, we established a mixed dementia-like model by inducing bilateral common carotid artery stenosis (BCAS) in early-stage 5xFAD mice and evaluated the effects of intermittent hypoxia treatment (IHT).                                                           Methods                     Early-stage 5xFAD mice were subjected to BCAS to induce chronic cerebral hypoperfusion. Cognitive performance, cerebral perfusion, amyloid-β (Aβ) deposition, glial reactivity, tight-junction transcripts, and perivascular astrocyte–vascular organization were assessed. The therapeutic effects of IHT were then evaluated in this mixed dementia-like model.                                                           Results                     BCAS-induced hypoperfusion aggravated cognitive impairment in early-stage 5xFAD mice and accelerated pathological changes, including increased Aβ burden and stronger glial reactivity. These changes were accompanied by altered tight-junction transcripts and impaired perivascular astrocyte–vascular organization. IHT mitigated several features of the mixed dementia phenotype, including cerebral hypoperfusion, Aβ accumulation, glial reactivity, and altered perivascular AQP4/CD31 organization, while partially improving cognitive performance.                                                           Conclusions                     Chronic cerebral hypoperfusion can exacerbate early AD-related pathological and cognitive changes. IHT may alleviate mixed dementia-like phenotypes by improving cerebral perfusion, with accompanying changes in perivascular AQP4/CD31 organization and tight-junction transcripts.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-10-13",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-14",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261497298",
+        "doi": "10.1177/13872877261497298",
+        "url": "https://doi.org/10.1177/13872877261497298",
+        "title": "Gamma transcranial alternating current stimulation prevents scopolamine-induced damage to EEG activity and spatial memory",
+        "authors": [
+          "Yuan Yuan",
+          "Shu Xing",
+          "Ping Ren",
+          "Zhuangfei Chen",
+          "Yu Fu"
+        ],
+        "abstract": "Background                     Dementia is a serious public health concern, primarily caused by Alzheimer's disease (AD). Transcranial alternating current stimulation (tACS) can improve cognitive function by modulating neural oscillations. While tACS shows therapeutic potential for dementia, its preventive effects remain unknown. Because tACS has long-lasting modulatory effects, we propose that these offline effects may help prevent dementia.                                                           Objective                     This study aims to determine whether pre-administered 40 Hz tACS prevents scopolamine-induced impairment of electroencephalogram (EEG) activity and spatial cognition. Scopolamine induces cholinergic dysfunction in animal models, mimicking AD-related behavioral and EEG abnormalities.                                                           Methods                     Scopolamine (3 mg/kg, i.p.) was administered to induce a mouse model of dementia. Prior to induction, tACS targeting the prefrontal cortex (PFC) and/or hippocampus (Hip) was performed for five days (40 Hz, 300 μA, 20 min/day). EEG activity was recorded from the PFC and Hip during spontaneous and task-related (Y-maze) states. In addition, spatial memory was evaluated using the Barnes maze test, and general activity including locomotion and anxiety was evaluated using the open field test.                                                           Results                     Scopolamine reduced spontaneous EEG activity in gamma frequency band and task-related PFC EEG activity across multiple frequency bands. Prior Hip tACS prevented these EEG reductions. Behaviorally, scopolamine induced spatial memory deficits and increased locomotion and anxiety-like behaviors. Notably, dual-site tACS reversed memory impairment and PFC tACS reduced locomotion. In addition, tACS had little effect on anxiety.                                                           Conclusions                     Prior gamma tACS exerts region-specific protection against scopolamine-induced EEG and behavioral impairments, providing first evidence for its potential as a preventive strategy for dementia-related deficits.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-10-13",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-14",
         "fetched_from": "crossref"
       },
       {
@@ -82412,6 +83940,29 @@
     ],
     "socialWork": [
       {
+        "id": "doi:10.1007/s10896-026-01198-8",
+        "doi": "10.1007/s10896-026-01198-8",
+        "url": "https://doi.org/10.1007/s10896-026-01198-8",
+        "title": "The National Spousal Abuse Prevention Program in the Primary Health Care System of Iran: Strengths and Weaknesses from the Service Providers’ Perspectives. A Qualitative Study",
+        "authors": [
+          "Arghavan Haj-sheykholeslami",
+          "Narjes Khalili",
+          "Arash Tehrani-Banihashemi",
+          "Ahmad Hajebi",
+          "Marzieh Nojomi"
+        ],
+        "abstract": "",
+        "source": "Journal of Family Violence",
+        "issn": "0885-7482",
+        "date": "2026-10-13",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-14",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1177/14680173261478708",
         "doi": "10.1177/14680173261478708",
         "url": "https://doi.org/10.1177/14680173261478708",
@@ -89648,10 +91199,10 @@
   },
   "totals": {
     "socialSecurity": 1573,
-    "elderCare": 567,
-    "healthReform": 887,
-    "agingHealth": 819,
-    "socialWork": 320
+    "elderCare": 582,
+    "healthReform": 906,
+    "agingHealth": 844,
+    "socialWork": 321
   },
   "feeds_ok": 41
 }
