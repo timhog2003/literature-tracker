@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-15",
-  "fetched": "2026-10-15T06:05:09+00:00",
+  "date": "2026-10-16",
+  "fetched": "2026-10-16T06:02:19+00:00",
   "domains": {
     "socialSecurity": [
       {
@@ -24284,6 +24284,282 @@
     ],
     "elderCare": [
       {
+        "id": "doi:10.1186/s12877-026-08274-0",
+        "doi": "10.1186/s12877-026-08274-0",
+        "url": "https://doi.org/10.1186/s12877-026-08274-0",
+        "title": "Age-associated differences in lower-extremity muscle mass, force, and power in older adults: a cross-sectional analysis of sex differences",
+        "authors": [
+          "Elodie Piche",
+          "Raphael Zory",
+          "Emeline Michel",
+          "Olivier Guerin",
+          "Serge S. Colson",
+          "Frederic Chorin"
+        ],
+        "abstract": "Abstract                                        Background                     The decline in musculoskeletal function with aging is a key contributor to mobility impairments and loss of independence. While sarcopenia and dynapenia are well described, recent evidence highlights muscle power as a more sensitive indicator of functional deterioration.                                                           Aims                     This study aimed to compare age-associated differences in muscle mass, force, and lower-limb muscle power in older adults over different assessment methods, while accounting for sex-related differences.                                                           Methods                     Three hundred nineteen community-dwelling adults aged 60–97 years were assessed for muscle mass (DXA-derived lean mass, appendicular skeletal muscle mass index), muscle force (handgrip force, knee extension maximal isometric contraction), muscle moments and angular velocity (isokinetic dynamometry), and lower-limb muscle power (isokinetic testing and sit-to-stand power). Associations with age and sex were examined using regression models and ANOVA.                                                           Results                                            Lower-limb muscle power showed a stronger negative association with age than muscle force or mass (β = − 0.433 vs. − 0.303 and − 0.119, respectively;                       p                        &lt; 0.001). However, the present study could not determine whether muscle power begins to decline earlier than muscle force or mass. For several variables, age associations were stronger in males than in females, most consistently for lower-limb power, although these interactions were not systematically reproduced in age-stratified analyses. The strongest negative age associations were observed between 71 and 80 years, whereas fewer significant associations (only for handgrip) were observed after age 80.                                                                                Conclusions                     Lower-limb muscle power appeared more sensitive to age-associated differences than muscle force or mass, supporting its role as a key biomarker of neuromuscular aging. This study also highlights that sex may contribute to variability in age-associated patterns of muscle power, raising questions about the universality of its definition that warrant further confirmation. These findings emphasize the clinical importance of including power assessments in strategies to preserve independence in older adults.                                                           Trial registration                                            ClinicalTrials.gov, NCT05343286,                       https://clinicaltrials.gov/ct2/show/NCT05343286                       .",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-16",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-16",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70771",
+        "doi": "10.1111/jgs.70771",
+        "url": "https://doi.org/10.1111/jgs.70771",
+        "title": "A Modified Delphi Process to Identify Clinical and Research Priorities for Aging Transgender Adults",
+        "authors": [
+          "Megan Lau",
+          "Jill Blumenthal",
+          "Maile Young Karris"
+        ],
+        "abstract": "ABSTRACT                                        Background                     Aging transgender adults experience unique medical and social challenges, but limited data exist regarding healthcare needs and priorities. Identifying these can help guide transgender‐informed, patient‐centered care and aging research.                                                           Methods                     We employed a modified, two‐round Delphi method with a consensus committee to identify clinical and research priorities for aging transgender adults. Expert panelists with experience in transgender, geriatric, and/or HIV care and research rated 15 clinical and 7 research topics using a 5‐point Likert scale. Consensus was defined as &gt; 80% of expert panelists ranking a topic as “Very important” or “Extremely important.” Following Round 1, a consensus committee of older transgender adults reviewed topics and write‐in suggestions and could elevate, reinstate, or add priorities by unanimous agreement. Topics selected by the committee advanced to Round 2 for expert panel ranking, followed by consensus committee review.                                                           Results                     Forty‐eight expert panelists completed Round 1, and 31 completed Round 2. After Round 1, 11 clinical and 3 research topics reached consensus. Following consensus committee review, 10 clinical and 6 research priorities advanced to Round 2. After final review, the highest‐ranked clinical priorities were “Provider knowledge on the unique needs of older transgender adults,” “Evaluation of social isolation, loneliness, and social support networks,” and “Provider/clinic knowledge of social, legal, financial, and mental health resources for transgender persons.” The highest‐ranked research priorities were “Clinical implications of long‐term gender‐affirming hormone therapy and hormone cessation,” “Biologic mechanisms of hormone therapy on aging and aging outcomes,” and “Health, social, and structural needs of older transgender persons.”                                                           Conclusions                     Using a community‐engaged modified Delphi approach, this study identified key clinical and research priorities for older transgender adults. Findings highlight the importance of provider knowledge, social support, and addressing knowledge gaps in gender‐affirming care and aging. These results provide direction for future research and best practice guidelines for this population.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-10-15",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-16",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70789",
+        "doi": "10.1111/jgs.70789",
+        "url": "https://doi.org/10.1111/jgs.70789",
+        "title": "Impact of Limited English Proficiency on Glaucoma Outcomes, Access to Eye Care, and Health Literacy in the\n                    <scp>NIH</scp>\n                    All of Us Database",
+        "authors": [
+          "Ahmad Santina",
+          "Vicki Liu",
+          "Allan I. Puran",
+          "Timothy Banh",
+          "Fei Yu",
+          "Victoria L. Tseng",
+          "Anne L. Coleman"
+        ],
+        "abstract": "ABSTRACT                                        Background                     To explore the associations between limited English proficiency and glaucoma outcomes, access to eye care, and health literacy in a national database.                                                           Methods                     This cross‐sectional study included participants in the NIH All of Us Research Program with available health records and responses to surveys about language. Main Outcome Measures included glaucoma prevalence, severity, and surgical history as well as access to eye care and health literacy measures. Logistic regression analyses of associations between self‐reported English proficiency and outcomes, adjusting for other demographic and socioeconomic characteristics, were conducted.                                                           Results                     Of 79,635 individuals in the study population, 1268 (1.6%) had low English proficiency (LEP) and 3296 (4.1%) had a glaucoma diagnosis. Compared to those with high English proficiency (HEP), individuals with glaucoma with LEP had a higher likelihood of incisional glaucoma surgery (aOR = 4.79, 95% CI = 1.03–22.22). Those with LEP were more likely to understand health information only “some or none of the time” as opposed to “always” (aOR = 6.36, 95% CI = 1.17–34.57) and experience problems learning about medical conditions “sometimes or occasionally” as opposed to “never” (aOR = 3.18, 95% CI = 1.22–8.34). No statistically significant associations between LEP and glaucoma prevalence, severity, or eye care access were observed in adjusted analyses.                                                           Conclusions                     Among individuals with glaucoma, those with LEP had a higher likelihood of undergoing incisional glaucoma surgery. Although LEP does not cause increased surgery, this correlation suggests that the decision to operate and its acceptance by the patient are more likely in individuals with LEP. Future studies on improving health literacy may reduce this association.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-10-15",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-16",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08444-0",
+        "doi": "10.1186/s12877-026-08444-0",
+        "url": "https://doi.org/10.1186/s12877-026-08444-0",
+        "title": "Functional–behavioral profiles and clinical characteristics among hospitalized patients with Alzheimer’s disease: a real-world clustering analysis",
+        "authors": [
+          "Wenyan Jie",
+          "Xi Yu",
+          "Jingying Wu",
+          "Yuanyuan Xu",
+          "Caiping He",
+          "Yuting Fan",
+          "Yongjun Wang",
+          "Haiqiang Wu"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-15",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-16",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08437-z",
+        "doi": "10.1186/s12877-026-08437-z",
+        "url": "https://doi.org/10.1186/s12877-026-08437-z",
+        "title": "Association between selected disease combinations and suspected dementia: a community-based cross-sectional study",
+        "authors": [
+          "Ruotong Wei",
+          "Zimeng Xu",
+          "Jiahui Ni",
+          "Yanfei Cao",
+          "Tian Chen",
+          "Feng Zhang",
+          "Xiaoling Zhu"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-15",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-16",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08442-2",
+        "doi": "10.1186/s12877-026-08442-2",
+        "url": "https://doi.org/10.1186/s12877-026-08442-2",
+        "title": "Clusters of home- and community- based service use and association with quality of life in older adults with and without dementia",
+        "authors": [
+          "Eric Jutkowitz",
+          "Romil R. Parikh",
+          "Jack M. Wolf",
+          "Yinfei Duan",
+          "Benjamin W. Langworthy",
+          "Tetyana P. Shippee"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-15",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-16",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08512-5",
+        "doi": "10.1186/s12877-026-08512-5",
+        "url": "https://doi.org/10.1186/s12877-026-08512-5",
+        "title": "Sarcopenia and sonographic hepatic steatosis in older adults: associations with non-invasive fibrosis risk indices",
+        "authors": [
+          "Hulusi Can Karpuzcu",
+          "Çağdaş Erdoğan"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-15",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-16",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08467-7",
+        "doi": "10.1186/s12877-026-08467-7",
+        "url": "https://doi.org/10.1186/s12877-026-08467-7",
+        "title": "Comparative evaluation of COVID-19 public health interventions and management in older populations: a scoping review and swot analysis of Cameroon and the United States",
+        "authors": [
+          "Clinton Kwemu Njakoi",
+          "Carine Njwengba Owajege",
+          "Frankline Sevidzem Wirsiy"
+        ],
+        "abstract": "Abstract                                        Background                     The COVID-19 pandemic disproportionately affected older adults (aged 65 years and older) due to age-related physiological vulnerabilities and forced social isolation. This study systematically evaluates the public health response and management strategies executed for older populations across two highly contrasting macroeconomic and governance structures: Cameroon, a Lower-Middle Income Country (LMIC), and the United States, a High-Income Country (HIC).                                                           Methods                     A scoping review and structured SWOT (Strengths, Weaknesses, Opportunities, and Threats) analysis were conducted in strict accordance with the PRISMA-ScR guidelines. We systematically queried PubMed/MEDLINE, Scopus, and African Journals Online (AJOL) for peer-reviewed literature, legal acts, and official institutional frameworks published between January 2020 and February 2026.                                                           Results                     Twenty-two unique sources met all predefined inclusion criteria. Cameroon’s operational response drew heavily from highly decentralized, resilient community/kinship networks and immediate, government-mandated financial cushions, such as a 20% expansion in state pensions. However, these baseline mitigation efforts were severely restricted by deep structural healthcare weaknesses, a 73% fear-driven clinical avoidance rate, extreme diagnostic deficits (10.02 tests per 1,000 population), and resource constraints inside active conflict zones. Conversely, the United States leveraged massive technological capital, real-time molecular surveillance networks, and rapid mRNA vaccine rollouts that effectively averted an estimated 92% of potential deaths among older adults’ post-implementation, alongside a massive expansion of telehealth serving 59% of isolated seniors. Nevertheless, the United States response suffered from profound, catastrophic infection control failures within long-term care facilities, intense socio-political policy polarization and deep-seated institutionalized racial health inequities.                                                           Conclusion                     Future global pandemic preparedness frameworks must systematically integrate targeted “healthy aging” strategies directly into statutory national health policy architectures. This study demonstrates that isolated country analyses mask systemic vulnerabilities: HICs fail due to decentralization and polarization despite high GDP, while LMICs can innovate social resilience but remain strictly bottle-necked by material supply chains. Global preparedness metrics must abandon static spending indices in favor of structural equity and operational flexibility frameworks.                                                           Trial Registration                     Clinical trial number: not applicable.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-15",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-16",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08494-4",
+        "doi": "10.1186/s12877-026-08494-4",
+        "url": "https://doi.org/10.1186/s12877-026-08494-4",
+        "title": "Two-assessment patterns of past-year hospitalization reporting and subsequent functional deterioration and mortality among older adults in China: a two-window longitudinal prognostic factor study",
+        "authors": [
+          "Siwei Zhang",
+          "Hongyu Yu"
+        ],
+        "abstract": "Abstract                                        Background                     Past-year hospitalization reports may identify older adults with adverse subsequent prognosis, but two assessments do not continuously observe hospital use and their incremental information beyond one-wave reporting is uncertain.                                                           Methods                     We analysed two three-wave windows of the China Health and Retirement Longitudinal Study (CHARLS): 2011 (Wave 1) and 2013 (Wave 2) hospitalization reports with 2015 (Wave 3) outcomes, and 2013 (Wave 2) and 2015 (Wave 3) reports with 2018 (Wave 4) outcomes. Patterns were 00 (neither assessment), 01 (second only), 10 (first only) and 11 (both). The prespecified primary analysis compared 11 with 00 for survivor-conditional ADL deterioration (increase ≥1) among participants with observed outcome-assessment ADL. Modified Poisson models used community-clustered robust covariance and 50 multiply imputed datasets. Four-pattern, one-wave, mortality, composite, sequential complete-covariate, cognition missing-not-at-random (MNAR), and inverse-probability-of-censoring weighting (IPCW) analyses were also examined.                                                           Results                     ADL deterioration occurred in 932/4,365 observed survivors in Window 1 and 961/4,911 in Window 2. Adjusted RRs for 11 versus 00 were 1.230 (95% CI 1.007–1.502) and 1.094 (0.906–1.320), respectively. RRs for 11 versus pooled 01 + 10 were 1.229 (1.000–1.511) and 1.019 (0.845–1.228). Mortality RRs were 1.461 (0.986–2.166) and 1.482 (1.187–1.849), and death-or-deterioration RRs were 1.240 (1.054–1.459) and 1.166 (1.031–1.319). In fixed complete-covariate sequential analyses, 11-versus-00 point estimates moved markedly toward or below the null after multidimensional health adjustment, with wide confidence intervals. Cognition MNAR estimates changed little; IPCW point estimates were similar in magnitude (Window 1 RR 1.222, 95% CI 0.999–1.494; Window 2 RR 1.092, 0.905–1.317).                                                           Conclusions                     The 11 pattern marked less favorable prognosis relative to 00, but the survivor-conditional functional association varied across calendar windows and analytic strategies, and two reports did not consistently distinguish risk from one-wave reporting. These related within-cohort windows do not constitute independent replication. Results support cautious prognostic interpretation, not a causal effect, verified recurrent-admission measure or stand-alone screening rule.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-15",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-16",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08464-w",
+        "doi": "10.1186/s12877-026-08464-w",
+        "url": "https://doi.org/10.1186/s12877-026-08464-w",
+        "title": "Factors influencing frailty in older persons with vision impairment visiting the outpatient department: a cross-sectional study",
+        "authors": [
+          "Phicharat Nuairaksa",
+          "Prangtip Chayaput",
+          "Virapun Wirojratana",
+          "Suksri Chotikavanich Sunthornyothin"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-15",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-16",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08492-6",
+        "doi": "10.1186/s12877-026-08492-6",
+        "url": "https://doi.org/10.1186/s12877-026-08492-6",
+        "title": "Body weight following a multidomain lifestyle intervention in older adults at risk of dementia – A post-hoc analysis of the AgeWell.de-trial",
+        "authors": [
+          "Andrea E. Zülke",
+          "Adrian Schultz",
+          "Melanie Luppa",
+          "Solveig Weise",
+          "Alexander Bauer",
+          "Juliane Döhring",
+          "Carmen Wolf",
+          "Robert Philipp Kosilek",
+          "Jan Ziegler",
+          "Christian Brettschneider",
+          "Thomas Frese",
+          "Hanna Kaduszkiewicz",
+          "Jochen Gensichen",
+          "Wolfgang Hoffmann",
+          "Hans-Helmut König",
+          "Birgitt Wiese",
+          "David Czock",
+          "Jochen René Thyrian",
+          "Steffi G. Riedel-Heller"
+        ],
+        "abstract": "Abstract                                        Background                     Lifestyle interventions provide a promising approach to address higher body weight as a risk factor for dementia.                                                           Objective                     The AgeWell.de-trial was primarily designed to preserve cognitive function and reduce dementia risk. In this post-hoc analysis, we investigated body weight following the multidomain intervention among older adults with overweight or obesity, as well as the role of motivation and confidence regarding weight loss.                                                           Methods                     Analyses used data from the cluster-randomized AgeWell.de-trial, testing a multidomain intervention (dietary counselling, enhancement of physical, social and cognitive activity, medication review, intervention for cardiovascular risk factors, depressive symptoms/grief, if applicable) over 24 months in adults aged 60 to 77 years at risk for dementia. Associations between intervention allocation and body weight at follow-up were analyzed using linear regression, controlling for covariates, based on multiply imputed data.                                                           Results                                            The sample included                       n                        = 678 participants with a BMI ≥ 25 kg/m², mean age (SD): 68.9 (4.8), 52.1% female. Group allocation was not associated with body weight at 24-month follow-up (b (unstandardized regression coefficient) = -0.30, 95% CI: -0.51; 1.11). Older age (b = -0.14, 95% CI: -0.25; -0.03) and a high level of education (b = -1.28, 95% CI: -2.55; 0.00) were linked to lower body weight at follow-up, while higher baseline body weight predicted higher body weight at follow-up (b = 0.95, 95% CI: 0.91; 0.98). Levels of motivation and confidence regarding weight loss remained high but stable in both groups, regardless of group allocation.                                                                                Conclusions                     In this post-hoc analysis, group allocation was not associated with lower body weight at follow-up. Despite high levels of motivation and confidence regarding weight loss and favorable changes in diet and physical activity in the intervention group, these changes did not translate into measurable weight loss.                                                           Trial registration                     AgeWell.de was prospectively registered in the German Clinical Trials Register on December 7th, 2017 (DRKS trial identifier DRKS00013555).",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-15",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-16",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1111/jgs.70784",
         "doi": "10.1111/jgs.70784",
         "url": "https://doi.org/10.1111/jgs.70784",
@@ -39813,6 +40089,317 @@
           "healthReform"
         ],
         "firstSeen": "2026-10-15",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.16754",
+        "doi": "10.1001/jama.2026.16754",
+        "url": "https://doi.org/10.1001/jama.2026.16754",
+        "title": "Lifestyle and Metformin Interventions and Risk of Multimorbidity in Individuals With Prediabetes—In Reply",
+        "authors": [
+          "Marcel E. Salive",
+          "Ashley H. Tjaden",
+          "Elizabeth M. Venditti"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-15",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-16",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.19794",
+        "doi": "10.1001/jama.2026.19794",
+        "url": "https://doi.org/10.1001/jama.2026.19794",
+        "title": "Testosterone Screening Thresholds in Active-Duty US Male Service Members",
+        "authors": [
+          "Stephen R. Hennigar",
+          "Steven B. Heymsfield",
+          "Asma S. Bukhari",
+          "Harris R. Lieberman",
+          "Claire E. Berryman"
+        ],
+        "abstract": "This Research Letter estimates US Army–wide prevalence of healthy active-duty men aged 19 to 39 years with testosterone concentrations below the lower limit of normal.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-15",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-16",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.16620",
+        "doi": "10.1001/jama.2026.16620",
+        "url": "https://doi.org/10.1001/jama.2026.16620",
+        "title": "Treatment Discontinuation of Blood Pressure–Lowering Drugs—Reply",
+        "authors": [
+          "Nelson Wang",
+          "Abdul Salam",
+          "Anthony Rodgers"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-15",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-16",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.16751",
+        "doi": "10.1001/jama.2026.16751",
+        "url": "https://doi.org/10.1001/jama.2026.16751",
+        "title": "Lifestyle and Metformin Interventions and Risk of Multimorbidity in Individuals With Prediabetes",
+        "authors": [
+          "William J. McCarthy",
+          "Frederick Ferguson",
+          "Lillian Gelberg"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-15",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-16",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.18140",
+        "doi": "10.1001/jama.2026.18140",
+        "url": "https://doi.org/10.1001/jama.2026.18140",
+        "title": "FDA’s Testosterone Label Changes",
+        "authors": [
+          "Shalender Bhasin",
+          "Richard J. Auchus",
+          "Alvin M. Matsumoto"
+        ],
+        "abstract": "This Perspective discusses US Food and Drug Administration (FDA) updates to testosterone product labeling and their implications for prescribing practice.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-15",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-16",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.20732",
+        "doi": "10.1001/jama.2026.20732",
+        "url": "https://doi.org/10.1001/jama.2026.20732",
+        "title": "See One",
+        "authors": [
+          "Adelaide H. McClintock"
+        ],
+        "abstract": "In this narrative medicine essay, a physician discusses how someone close to her needing medical attention helped her understand the shock and helplessness that friends and family members feel when a loved one is hospitalized.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-15",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-16",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2025.16098",
+        "doi": "10.1001/jama.2025.16098",
+        "url": "https://doi.org/10.1001/jama.2025.16098",
+        "title": "Word Origins",
+        "authors": [],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-15",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-16",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.16617",
+        "doi": "10.1001/jama.2026.16617",
+        "url": "https://doi.org/10.1001/jama.2026.16617",
+        "title": "Treatment Discontinuation of Blood Pressure–Lowering Drugs",
+        "authors": [
+          "Wentao Wu",
+          "Shuohao Wang",
+          "Xia Gao"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-15",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-16",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.19796",
+        "doi": "10.1001/jama.2026.19796",
+        "url": "https://doi.org/10.1001/jama.2026.19796",
+        "title": "Over-the-Counter Hearing Aids 4 Years Later",
+        "authors": [
+          "Kathryn A. Phillips",
+          "Christine K. Cassel"
+        ],
+        "abstract": "This Viewpoint discusses over-the-counter hearing aids following their authorization in 2022, highlighting the importance of clinical and policy initiatives for improving uptake and implementation.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-15",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-16",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.21868",
+        "doi": "10.1001/jama.2026.21868",
+        "url": "https://doi.org/10.1001/jama.2026.21868",
+        "title": "Clinician Use of an Artificial Intelligence–Enabled Clinical Information Platform",
+        "authors": [
+          "Vishal R. Patel",
+          "Samuel G. Finlayson",
+          "Michael Liu-Hass",
+          "Mondira Ray",
+          "Jesse Burk-Rafel",
+          "Travis I. Zack",
+          "Anupam B. Jena"
+        ],
+        "abstract": "Importance                     Despite growing interest in the use of artificial intelligence (AI) in medicine, empirical evidence on how clinicians use these tools is limited.                                                           Objective                     To characterize clinician use of an AI-enabled clinical information platform, the distribution of use across the clinical workforce, and the purpose of submitted queries.                                                           Design, Setting, and Participants                     This cross-sectional study analyzed clinicians with National Provider Identifier–verified accounts of a commonly used AI-enabled clinical information platform, OpenEvidence, from January 1, 2024, through June 30, 2026. A large language model was used to classify the clinical purpose and topic areas of a stratified random sample of 38.8 million queries.                                                           Main Outcomes and Measures                     The number of active users and clinical queries, the share of queries relative to representation in the national workforce, and the clinical purpose and topic of queries were examined.                                                           Results                     Overall, 952 008 clinicians (58.5% female), including 556 200 physicians, submitted 271 million queries during the 2.5-year study period. Monthly active users increased from 355 in January 2024 to 703 265 in June 2026, and average monthly queries per active user rose from 18.0 to 39.5. Nurse practitioners (44.5) and physician assistants (44.5) submitted more queries per active user-month than physicians (37.1). A higher share of queries relative to the national workforce was submitted by physicians within a decade of graduation (use ratio, 2.54) and residents and fellows (1.84). Use was also higher than average among physicians specializing in oncology and hematology (use ratio, 2.00), internal medicine (1.88), and family medicine (1.80), but lower in procedural and diagnostic specialties (ophthalmology, 0.23; radiology, 0.24; orthopedics, 0.24). Most queries addressed clinical decision-making (51.9%), particularly treatment and management (33.1%), whereas diagnosis accounted for 13.9% of queries. Queries addressing topics outside physicians’ own specialties ranged from 35% among oncologists and hematologists to 88% among emergency department physicians.                                                           Conclusions and Relevance                     Over 2.5 years, more than 950 000 US clinicians submitted greater than 270 million queries to an AI-enabled clinical information platform. Use varied across clinician types, specialties, and career stages and was frequently for treatment decisions rather than diagnostic tasks.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-15",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-16",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.21894",
+        "doi": "10.1001/jama.2026.21894",
+        "url": "https://doi.org/10.1001/jama.2026.21894",
+        "title": "Engaging With Medical Evidence in the Age of AI",
+        "authors": [
+          "Rohan Khera",
+          "Kirsten Bibbins-Domingo",
+          "Joseph S. Ross"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-15",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-16",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.22425",
+        "doi": "10.1001/jama.2026.22425",
+        "url": "https://doi.org/10.1001/jama.2026.22425",
+        "title": "Announcing\n                    <i>JAMA AI</i>\n                    —A New Journal From the JAMA Network",
+        "authors": [
+          "Roy H. Perlis",
+          "Annette Flanagin",
+          "Kirsten Bibbins-Domingo"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-15",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-16",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1007/s40273-026-01678-1",
+        "doi": "10.1007/s40273-026-01678-1",
+        "url": "https://doi.org/10.1007/s40273-026-01678-1",
+        "title": "The Opportunity Cost of Funding High-Cost Biologics in the Context of Inequitable Access to the Fundamentals of Care: An External Assessment Group Perspective",
+        "authors": [
+          "Julia Whitehall",
+          "Louise Tanner",
+          "Nawaraj Bhattarai",
+          "Sonia Garcia Gonzalez-Moral",
+          "Lakshmi Jayachandran",
+          "Sheila A. Wallace",
+          "Kate Lanyi",
+          "Oleta Williams",
+          "Ryan P. W. Kenny",
+          "Asra Asgharzadeh",
+          "Ian Clifton",
+          "Gurdeep S. Sagoo",
+          "Gill Norman",
+          "Katie H. Thomson"
+        ],
+        "abstract": "",
+        "source": "PharmacoEconomics",
+        "issn": "1170-7690",
+        "date": "2026-10-15",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-16",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag260",
+        "doi": "10.1093/aje/kwag260",
+        "url": "https://doi.org/10.1093/aje/kwag260",
+        "title": "Classification Matters: Divergent Estimates of Dementia Risk Factors in the Health and Retirement Study",
+        "authors": [
+          "Gina E Nam",
+          "Junxian Liu",
+          "Suhani Amin",
+          "Karla Renata Flores Romero",
+          "Zachary J Kunicki",
+          "M Maria Glymour",
+          "Kaitlin Casaletto",
+          "Jacqueline M Torres",
+          "Eleanor Hayes-Larson"
+        ],
+        "abstract": "Abstract                   Clinical dementia diagnosis requires substantial expertise and is complex and costly. Therefore, large population-based studies often lack gold-standard longitudinal diagnoses and instead use classification algorithms employing cognitive, functional, and health-related measures to identify dementia. We evaluated whether algorithm choice affects conclusions regarding dementia risk in the nationally representative Health and Retirement Study (HRS; 2010-2020). We constructed four algorithm-specific samples of participants age 70+ without dementia in 2010: Langa-Weir (n=6,498), Hudomiet (n=6,556), Expert (n=5,751), and Wu (n=5,935). Participants were followed until first dementia classification, death, or censoring. We estimated dementia incidence rates (IRs) and used adjusted Cox models to estimate hazard ratios (HRs) for known risk factors. Dementia IRs per 1000 person-years meaningfully varied across algorithms, from 26.5 (95% CI 24.5–28.5, Hudomiet) to 62.8 (59.9–65.8, Expert). Sociodemographic risk factor associations also varied substantially. HRs for education (&amp;lt; vs. ≥high school) ranged from 1.36 (1.19–1.54, Hudomiet) to 2.22 (1.98–2.50, Langa-Weir), and HRs non-Hispanic Black vs. non-Hispanic White ranged from 1.86 (1.53–2.27, Expert) to 2.74 (2.40–3.12, Langa-Weir). Differences were less pronounced for health-related risk factors. In the absence of gold standard longitudinal diagnosis in HRS, researchers should examine the robustness of findings across multiple algorithms.",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-10-15",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-16",
         "fetched_from": "crossref"
       },
       {
@@ -65114,60 +65701,338 @@
         "fetched_from": "crossref"
       },
       {
-        "id": "doi:10.1093/aje/kwag255",
-        "doi": "10.1093/aje/kwag255",
-        "url": "https://doi.org/10.1093/aje/kwag255",
-        "title": "The effect of hypothetical interventions to limit weight gain on incident type 2 diabetes mellitus among people with HIV initiating antiretroviral therapy in the United States, 2012-2021",
+        "id": "doi:10.1186/s12877-026-08274-0",
+        "doi": "10.1186/s12877-026-08274-0",
+        "url": "https://doi.org/10.1186/s12877-026-08274-0",
+        "title": "Age-associated differences in lower-extremity muscle mass, force, and power in older adults: a cross-sectional analysis of sex differences",
         "authors": [
-          "Catherine R Lesko",
-          "Katherine Kurgansky",
-          "Elizabeth Humes",
-          "Parastu Kasaie",
-          "Emily P Hyle",
-          "Jennifer O Lam",
-          "Sita Lujintanon",
-          "Anna Rubtsova",
-          "Michael Horberg",
-          "Sean X Leng",
-          "Raynell Lang",
-          "Anthony T Fojo",
-          "Vincent C Marconi",
-          "Thibaut Davy-Mendez",
-          "Keri N Althoff"
+          "Elodie Piche",
+          "Raphael Zory",
+          "Emeline Michel",
+          "Olivier Guerin",
+          "Serge S. Colson",
+          "Frederic Chorin"
         ],
-        "abstract": "Abstract                   Among people with HIV (PWH), initiating antiretroviral therapy (ART) is associated with weight gain that might increase the risk of cardiometabolic outcomes. We estimated the effect of hypothetical interventions to restrict increases in body mass index (BMI) in the two years after ART initiation on the 7-year risk of incident type-2 diabetes mellitus (T2DM) among PWH in the North American AIDS Cohort Collaboration on Research and Design (NA-ACCORD) clinical cohorts using the parametric extended g-formula. Among 13,822 normal weight or overweight PWH (BMI ≥18.5 and ≤29.9 kg/m2) who initiated ART between 2012-2021, the 7-year risk of T2DM was 5.6% (95% confidence interval [CI]: 4.8%, 6.3%). Compared to no intervention on BMI, if BMI increase during the first 2 years was capped at 5% of baseline BMI, the risk ratio (RR) for T2DM risk was 0.94 (95% CI, 0.86, 1.03); if BMI was capped at 29.9 kg/m2, RR=0.88 (95% CI, 0.80, 0.97); and if PWH were prevented from gaining any weight over the first 2 years, RR=0.81 (95% CI, 0.72, 0.92). These results provide preliminary evidence to promote studies of real weight maintenance interventions among PWH initiating ART.",
-        "source": "American Journal of Epidemiology",
-        "issn": "0002-9262",
-        "date": "2026-10-14",
+        "abstract": "Abstract                                        Background                     The decline in musculoskeletal function with aging is a key contributor to mobility impairments and loss of independence. While sarcopenia and dynapenia are well described, recent evidence highlights muscle power as a more sensitive indicator of functional deterioration.                                                           Aims                     This study aimed to compare age-associated differences in muscle mass, force, and lower-limb muscle power in older adults over different assessment methods, while accounting for sex-related differences.                                                           Methods                     Three hundred nineteen community-dwelling adults aged 60–97 years were assessed for muscle mass (DXA-derived lean mass, appendicular skeletal muscle mass index), muscle force (handgrip force, knee extension maximal isometric contraction), muscle moments and angular velocity (isokinetic dynamometry), and lower-limb muscle power (isokinetic testing and sit-to-stand power). Associations with age and sex were examined using regression models and ANOVA.                                                           Results                                            Lower-limb muscle power showed a stronger negative association with age than muscle force or mass (β = − 0.433 vs. − 0.303 and − 0.119, respectively;                       p                        &lt; 0.001). However, the present study could not determine whether muscle power begins to decline earlier than muscle force or mass. For several variables, age associations were stronger in males than in females, most consistently for lower-limb power, although these interactions were not systematically reproduced in age-stratified analyses. The strongest negative age associations were observed between 71 and 80 years, whereas fewer significant associations (only for handgrip) were observed after age 80.                                                                                Conclusions                     Lower-limb muscle power appeared more sensitive to age-associated differences than muscle force or mass, supporting its role as a key biomarker of neuromuscular aging. This study also highlights that sex may contribute to variability in age-associated patterns of muscle power, raising questions about the universality of its definition that warrant further confirmation. These findings emphasize the clinical importance of including power assessments in strategies to preserve independence in older adults.                                                           Trial registration                                            ClinicalTrials.gov, NCT05343286,                       https://clinicaltrials.gov/ct2/show/NCT05343286                       .",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-16",
         "subjects": [],
         "domains": [
-          "agingHealth",
-          "healthReform"
+          "elderCare",
+          "agingHealth"
         ],
-        "firstSeen": "2026-10-14",
+        "firstSeen": "2026-10-16",
         "fetched_from": "crossref"
       },
       {
-        "id": "doi:10.1093/aje/kwag256",
-        "doi": "10.1093/aje/kwag256",
-        "url": "https://doi.org/10.1093/aje/kwag256",
-        "title": "Those Confounded Examples",
+        "id": "doi:10.1111/jgs.70771",
+        "doi": "10.1111/jgs.70771",
+        "url": "https://doi.org/10.1111/jgs.70771",
+        "title": "A Modified Delphi Process to Identify Clinical and Research Priorities for Aging Transgender Adults",
         "authors": [
-          "Stephen R Cole",
-          "Ashley I Naimi",
-          "Paul N Zivich",
-          "Jess K Edwards"
+          "Megan Lau",
+          "Jill Blumenthal",
+          "Maile Young Karris"
+        ],
+        "abstract": "ABSTRACT                                        Background                     Aging transgender adults experience unique medical and social challenges, but limited data exist regarding healthcare needs and priorities. Identifying these can help guide transgender‐informed, patient‐centered care and aging research.                                                           Methods                     We employed a modified, two‐round Delphi method with a consensus committee to identify clinical and research priorities for aging transgender adults. Expert panelists with experience in transgender, geriatric, and/or HIV care and research rated 15 clinical and 7 research topics using a 5‐point Likert scale. Consensus was defined as &gt; 80% of expert panelists ranking a topic as “Very important” or “Extremely important.” Following Round 1, a consensus committee of older transgender adults reviewed topics and write‐in suggestions and could elevate, reinstate, or add priorities by unanimous agreement. Topics selected by the committee advanced to Round 2 for expert panel ranking, followed by consensus committee review.                                                           Results                     Forty‐eight expert panelists completed Round 1, and 31 completed Round 2. After Round 1, 11 clinical and 3 research topics reached consensus. Following consensus committee review, 10 clinical and 6 research priorities advanced to Round 2. After final review, the highest‐ranked clinical priorities were “Provider knowledge on the unique needs of older transgender adults,” “Evaluation of social isolation, loneliness, and social support networks,” and “Provider/clinic knowledge of social, legal, financial, and mental health resources for transgender persons.” The highest‐ranked research priorities were “Clinical implications of long‐term gender‐affirming hormone therapy and hormone cessation,” “Biologic mechanisms of hormone therapy on aging and aging outcomes,” and “Health, social, and structural needs of older transgender persons.”                                                           Conclusions                     Using a community‐engaged modified Delphi approach, this study identified key clinical and research priorities for older transgender adults. Findings highlight the importance of provider knowledge, social support, and addressing knowledge gaps in gender‐affirming care and aging. These results provide direction for future research and best practice guidelines for this population.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-10-15",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-16",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70789",
+        "doi": "10.1111/jgs.70789",
+        "url": "https://doi.org/10.1111/jgs.70789",
+        "title": "Impact of Limited English Proficiency on Glaucoma Outcomes, Access to Eye Care, and Health Literacy in the\n                    <scp>NIH</scp>\n                    All of Us Database",
+        "authors": [
+          "Ahmad Santina",
+          "Vicki Liu",
+          "Allan I. Puran",
+          "Timothy Banh",
+          "Fei Yu",
+          "Victoria L. Tseng",
+          "Anne L. Coleman"
+        ],
+        "abstract": "ABSTRACT                                        Background                     To explore the associations between limited English proficiency and glaucoma outcomes, access to eye care, and health literacy in a national database.                                                           Methods                     This cross‐sectional study included participants in the NIH All of Us Research Program with available health records and responses to surveys about language. Main Outcome Measures included glaucoma prevalence, severity, and surgical history as well as access to eye care and health literacy measures. Logistic regression analyses of associations between self‐reported English proficiency and outcomes, adjusting for other demographic and socioeconomic characteristics, were conducted.                                                           Results                     Of 79,635 individuals in the study population, 1268 (1.6%) had low English proficiency (LEP) and 3296 (4.1%) had a glaucoma diagnosis. Compared to those with high English proficiency (HEP), individuals with glaucoma with LEP had a higher likelihood of incisional glaucoma surgery (aOR = 4.79, 95% CI = 1.03–22.22). Those with LEP were more likely to understand health information only “some or none of the time” as opposed to “always” (aOR = 6.36, 95% CI = 1.17–34.57) and experience problems learning about medical conditions “sometimes or occasionally” as opposed to “never” (aOR = 3.18, 95% CI = 1.22–8.34). No statistically significant associations between LEP and glaucoma prevalence, severity, or eye care access were observed in adjusted analyses.                                                           Conclusions                     Among individuals with glaucoma, those with LEP had a higher likelihood of undergoing incisional glaucoma surgery. Although LEP does not cause increased surgery, this correlation suggests that the decision to operate and its acceptance by the patient are more likely in individuals with LEP. Future studies on improving health literacy may reduce this association.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-10-15",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-16",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08444-0",
+        "doi": "10.1186/s12877-026-08444-0",
+        "url": "https://doi.org/10.1186/s12877-026-08444-0",
+        "title": "Functional–behavioral profiles and clinical characteristics among hospitalized patients with Alzheimer’s disease: a real-world clustering analysis",
+        "authors": [
+          "Wenyan Jie",
+          "Xi Yu",
+          "Jingying Wu",
+          "Yuanyuan Xu",
+          "Caiping He",
+          "Yuting Fan",
+          "Yongjun Wang",
+          "Haiqiang Wu"
         ],
         "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-15",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-16",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08437-z",
+        "doi": "10.1186/s12877-026-08437-z",
+        "url": "https://doi.org/10.1186/s12877-026-08437-z",
+        "title": "Association between selected disease combinations and suspected dementia: a community-based cross-sectional study",
+        "authors": [
+          "Ruotong Wei",
+          "Zimeng Xu",
+          "Jiahui Ni",
+          "Yanfei Cao",
+          "Tian Chen",
+          "Feng Zhang",
+          "Xiaoling Zhu"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-15",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-16",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08442-2",
+        "doi": "10.1186/s12877-026-08442-2",
+        "url": "https://doi.org/10.1186/s12877-026-08442-2",
+        "title": "Clusters of home- and community- based service use and association with quality of life in older adults with and without dementia",
+        "authors": [
+          "Eric Jutkowitz",
+          "Romil R. Parikh",
+          "Jack M. Wolf",
+          "Yinfei Duan",
+          "Benjamin W. Langworthy",
+          "Tetyana P. Shippee"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-15",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-16",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08512-5",
+        "doi": "10.1186/s12877-026-08512-5",
+        "url": "https://doi.org/10.1186/s12877-026-08512-5",
+        "title": "Sarcopenia and sonographic hepatic steatosis in older adults: associations with non-invasive fibrosis risk indices",
+        "authors": [
+          "Hulusi Can Karpuzcu",
+          "Çağdaş Erdoğan"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-15",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-16",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08467-7",
+        "doi": "10.1186/s12877-026-08467-7",
+        "url": "https://doi.org/10.1186/s12877-026-08467-7",
+        "title": "Comparative evaluation of COVID-19 public health interventions and management in older populations: a scoping review and swot analysis of Cameroon and the United States",
+        "authors": [
+          "Clinton Kwemu Njakoi",
+          "Carine Njwengba Owajege",
+          "Frankline Sevidzem Wirsiy"
+        ],
+        "abstract": "Abstract                                        Background                     The COVID-19 pandemic disproportionately affected older adults (aged 65 years and older) due to age-related physiological vulnerabilities and forced social isolation. This study systematically evaluates the public health response and management strategies executed for older populations across two highly contrasting macroeconomic and governance structures: Cameroon, a Lower-Middle Income Country (LMIC), and the United States, a High-Income Country (HIC).                                                           Methods                     A scoping review and structured SWOT (Strengths, Weaknesses, Opportunities, and Threats) analysis were conducted in strict accordance with the PRISMA-ScR guidelines. We systematically queried PubMed/MEDLINE, Scopus, and African Journals Online (AJOL) for peer-reviewed literature, legal acts, and official institutional frameworks published between January 2020 and February 2026.                                                           Results                     Twenty-two unique sources met all predefined inclusion criteria. Cameroon’s operational response drew heavily from highly decentralized, resilient community/kinship networks and immediate, government-mandated financial cushions, such as a 20% expansion in state pensions. However, these baseline mitigation efforts were severely restricted by deep structural healthcare weaknesses, a 73% fear-driven clinical avoidance rate, extreme diagnostic deficits (10.02 tests per 1,000 population), and resource constraints inside active conflict zones. Conversely, the United States leveraged massive technological capital, real-time molecular surveillance networks, and rapid mRNA vaccine rollouts that effectively averted an estimated 92% of potential deaths among older adults’ post-implementation, alongside a massive expansion of telehealth serving 59% of isolated seniors. Nevertheless, the United States response suffered from profound, catastrophic infection control failures within long-term care facilities, intense socio-political policy polarization and deep-seated institutionalized racial health inequities.                                                           Conclusion                     Future global pandemic preparedness frameworks must systematically integrate targeted “healthy aging” strategies directly into statutory national health policy architectures. This study demonstrates that isolated country analyses mask systemic vulnerabilities: HICs fail due to decentralization and polarization despite high GDP, while LMICs can innovate social resilience but remain strictly bottle-necked by material supply chains. Global preparedness metrics must abandon static spending indices in favor of structural equity and operational flexibility frameworks.                                                           Trial Registration                     Clinical trial number: not applicable.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-15",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-16",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08494-4",
+        "doi": "10.1186/s12877-026-08494-4",
+        "url": "https://doi.org/10.1186/s12877-026-08494-4",
+        "title": "Two-assessment patterns of past-year hospitalization reporting and subsequent functional deterioration and mortality among older adults in China: a two-window longitudinal prognostic factor study",
+        "authors": [
+          "Siwei Zhang",
+          "Hongyu Yu"
+        ],
+        "abstract": "Abstract                                        Background                     Past-year hospitalization reports may identify older adults with adverse subsequent prognosis, but two assessments do not continuously observe hospital use and their incremental information beyond one-wave reporting is uncertain.                                                           Methods                     We analysed two three-wave windows of the China Health and Retirement Longitudinal Study (CHARLS): 2011 (Wave 1) and 2013 (Wave 2) hospitalization reports with 2015 (Wave 3) outcomes, and 2013 (Wave 2) and 2015 (Wave 3) reports with 2018 (Wave 4) outcomes. Patterns were 00 (neither assessment), 01 (second only), 10 (first only) and 11 (both). The prespecified primary analysis compared 11 with 00 for survivor-conditional ADL deterioration (increase ≥1) among participants with observed outcome-assessment ADL. Modified Poisson models used community-clustered robust covariance and 50 multiply imputed datasets. Four-pattern, one-wave, mortality, composite, sequential complete-covariate, cognition missing-not-at-random (MNAR), and inverse-probability-of-censoring weighting (IPCW) analyses were also examined.                                                           Results                     ADL deterioration occurred in 932/4,365 observed survivors in Window 1 and 961/4,911 in Window 2. Adjusted RRs for 11 versus 00 were 1.230 (95% CI 1.007–1.502) and 1.094 (0.906–1.320), respectively. RRs for 11 versus pooled 01 + 10 were 1.229 (1.000–1.511) and 1.019 (0.845–1.228). Mortality RRs were 1.461 (0.986–2.166) and 1.482 (1.187–1.849), and death-or-deterioration RRs were 1.240 (1.054–1.459) and 1.166 (1.031–1.319). In fixed complete-covariate sequential analyses, 11-versus-00 point estimates moved markedly toward or below the null after multidimensional health adjustment, with wide confidence intervals. Cognition MNAR estimates changed little; IPCW point estimates were similar in magnitude (Window 1 RR 1.222, 95% CI 0.999–1.494; Window 2 RR 1.092, 0.905–1.317).                                                           Conclusions                     The 11 pattern marked less favorable prognosis relative to 00, but the survivor-conditional functional association varied across calendar windows and analytic strategies, and two reports did not consistently distinguish risk from one-wave reporting. These related within-cohort windows do not constitute independent replication. Results support cautious prognostic interpretation, not a causal effect, verified recurrent-admission measure or stand-alone screening rule.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-15",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-16",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08464-w",
+        "doi": "10.1186/s12877-026-08464-w",
+        "url": "https://doi.org/10.1186/s12877-026-08464-w",
+        "title": "Factors influencing frailty in older persons with vision impairment visiting the outpatient department: a cross-sectional study",
+        "authors": [
+          "Phicharat Nuairaksa",
+          "Prangtip Chayaput",
+          "Virapun Wirojratana",
+          "Suksri Chotikavanich Sunthornyothin"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-15",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-16",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08492-6",
+        "doi": "10.1186/s12877-026-08492-6",
+        "url": "https://doi.org/10.1186/s12877-026-08492-6",
+        "title": "Body weight following a multidomain lifestyle intervention in older adults at risk of dementia – A post-hoc analysis of the AgeWell.de-trial",
+        "authors": [
+          "Andrea E. Zülke",
+          "Adrian Schultz",
+          "Melanie Luppa",
+          "Solveig Weise",
+          "Alexander Bauer",
+          "Juliane Döhring",
+          "Carmen Wolf",
+          "Robert Philipp Kosilek",
+          "Jan Ziegler",
+          "Christian Brettschneider",
+          "Thomas Frese",
+          "Hanna Kaduszkiewicz",
+          "Jochen Gensichen",
+          "Wolfgang Hoffmann",
+          "Hans-Helmut König",
+          "Birgitt Wiese",
+          "David Czock",
+          "Jochen René Thyrian",
+          "Steffi G. Riedel-Heller"
+        ],
+        "abstract": "Abstract                                        Background                     Lifestyle interventions provide a promising approach to address higher body weight as a risk factor for dementia.                                                           Objective                     The AgeWell.de-trial was primarily designed to preserve cognitive function and reduce dementia risk. In this post-hoc analysis, we investigated body weight following the multidomain intervention among older adults with overweight or obesity, as well as the role of motivation and confidence regarding weight loss.                                                           Methods                     Analyses used data from the cluster-randomized AgeWell.de-trial, testing a multidomain intervention (dietary counselling, enhancement of physical, social and cognitive activity, medication review, intervention for cardiovascular risk factors, depressive symptoms/grief, if applicable) over 24 months in adults aged 60 to 77 years at risk for dementia. Associations between intervention allocation and body weight at follow-up were analyzed using linear regression, controlling for covariates, based on multiply imputed data.                                                           Results                                            The sample included                       n                        = 678 participants with a BMI ≥ 25 kg/m², mean age (SD): 68.9 (4.8), 52.1% female. Group allocation was not associated with body weight at 24-month follow-up (b (unstandardized regression coefficient) = -0.30, 95% CI: -0.51; 1.11). Older age (b = -0.14, 95% CI: -0.25; -0.03) and a high level of education (b = -1.28, 95% CI: -2.55; 0.00) were linked to lower body weight at follow-up, while higher baseline body weight predicted higher body weight at follow-up (b = 0.95, 95% CI: 0.91; 0.98). Levels of motivation and confidence regarding weight loss remained high but stable in both groups, regardless of group allocation.                                                                                Conclusions                     In this post-hoc analysis, group allocation was not associated with lower body weight at follow-up. Despite high levels of motivation and confidence regarding weight loss and favorable changes in diet and physical activity in the intervention group, these changes did not translate into measurable weight loss.                                                           Trial registration                     AgeWell.de was prospectively registered in the German Clinical Trials Register on December 7th, 2017 (DRKS trial identifier DRKS00013555).",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-15",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-16",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag260",
+        "doi": "10.1093/aje/kwag260",
+        "url": "https://doi.org/10.1093/aje/kwag260",
+        "title": "Classification Matters: Divergent Estimates of Dementia Risk Factors in the Health and Retirement Study",
+        "authors": [
+          "Gina E Nam",
+          "Junxian Liu",
+          "Suhani Amin",
+          "Karla Renata Flores Romero",
+          "Zachary J Kunicki",
+          "M Maria Glymour",
+          "Kaitlin Casaletto",
+          "Jacqueline M Torres",
+          "Eleanor Hayes-Larson"
+        ],
+        "abstract": "Abstract                   Clinical dementia diagnosis requires substantial expertise and is complex and costly. Therefore, large population-based studies often lack gold-standard longitudinal diagnoses and instead use classification algorithms employing cognitive, functional, and health-related measures to identify dementia. We evaluated whether algorithm choice affects conclusions regarding dementia risk in the nationally representative Health and Retirement Study (HRS; 2010-2020). We constructed four algorithm-specific samples of participants age 70+ without dementia in 2010: Langa-Weir (n=6,498), Hudomiet (n=6,556), Expert (n=5,751), and Wu (n=5,935). Participants were followed until first dementia classification, death, or censoring. We estimated dementia incidence rates (IRs) and used adjusted Cox models to estimate hazard ratios (HRs) for known risk factors. Dementia IRs per 1000 person-years meaningfully varied across algorithms, from 26.5 (95% CI 24.5–28.5, Hudomiet) to 62.8 (59.9–65.8, Expert). Sociodemographic risk factor associations also varied substantially. HRs for education (&amp;lt; vs. ≥high school) ranged from 1.36 (1.19–1.54, Hudomiet) to 2.22 (1.98–2.50, Langa-Weir), and HRs non-Hispanic Black vs. non-Hispanic White ranged from 1.86 (1.53–2.27, Expert) to 2.74 (2.40–3.12, Langa-Weir). Differences were less pronounced for health-related risk factors. In the absence of gold standard longitudinal diagnosis in HRS, researchers should examine the robustness of findings across multiple algorithms.",
         "source": "American Journal of Epidemiology",
         "issn": "0002-9262",
-        "date": "2026-10-14",
+        "date": "2026-10-15",
         "subjects": [],
         "domains": [
           "agingHealth",
           "healthReform"
         ],
-        "firstSeen": "2026-10-14",
+        "firstSeen": "2026-10-16",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261486301",
+        "doi": "10.1177/13872877261486301",
+        "url": "https://doi.org/10.1177/13872877261486301",
+        "title": "Effective identification of cognitive impairment in primary care assisted by tablet-based digital cognitive testing",
+        "authors": [
+          "Alexander Hanke",
+          "Cornelia McCormick",
+          "Carolin Rosendahl",
+          "Judith Tillmann",
+          "Kristin Rolke",
+          "Florian Schweizer",
+          "Leon Nissen",
+          "Lara Reimer",
+          "Stephan Jonas",
+          "Philipp Schaper",
+          "Jochen René Thyrian",
+          "Klaus Weckbecker",
+          "Michael Wagner"
+        ],
+        "abstract": "Background                     Timely recognition of cognitive impairment and Alzheimer's disease (AD) is crucial for providing appropriate care to elderly individuals affected by these conditions. Digital short tests may help general practitioners (GPs) make more targeted referrals to specialists.                                                           Objective                     We studied the real-world effectiveness of a referral pathway including the digital Montreal Cognitive Assessment (MoCA Duo), administered by medical assistants (MAs) in general practitioner (GP) offices, to identify mild or major neurocognitive impairment. Ancillary studies examined the procedure's feasibility, usability, and barriers in the care pathway.                                                           Methods                     Ten GPs participated, one or two MAs per practice administered the MoCA Duo to patients with cognitive concerns. Patients with likely or questionable impairment were offered a referral to a memory clinic (MC) if deemed clinically appropriate. At the MC, patients received a comprehensive neuropsychological examination and a geriatric assessment.                                                           Results                     Of the 299 patients tested in GP practices (mean age: 73; 65% female), 100 achieved MoCA Duo scores in the presumably unimpaired range. 93 patients (46.73%) scoring below 27 points were referred to the MC; of those, 66 attended an appointment. 40 patients had major cognitive impairment, including 9 diagnosed with AD or vascular dementia, and 15 had mild cognitive impairment (MCI). 83.33% of patients who screened positive on the MoCA Duo at the GP practice and were assessed at the MC had at least MCI.                                                           Conclusions                     Digital tests administered by MAs can help to effectively screen for cognitive impairment in primary care, supporting targeted referrals of patients with likely cognitive impairment.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-10-15",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-16",
         "fetched_from": "crossref"
       },
       {
@@ -65578,6 +66443,63 @@
           "agingHealth"
         ],
         "firstSeen": "2026-10-15",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag255",
+        "doi": "10.1093/aje/kwag255",
+        "url": "https://doi.org/10.1093/aje/kwag255",
+        "title": "The effect of hypothetical interventions to limit weight gain on incident type 2 diabetes mellitus among people with HIV initiating antiretroviral therapy in the United States, 2012-2021",
+        "authors": [
+          "Catherine R Lesko",
+          "Katherine Kurgansky",
+          "Elizabeth Humes",
+          "Parastu Kasaie",
+          "Emily P Hyle",
+          "Jennifer O Lam",
+          "Sita Lujintanon",
+          "Anna Rubtsova",
+          "Michael Horberg",
+          "Sean X Leng",
+          "Raynell Lang",
+          "Anthony T Fojo",
+          "Vincent C Marconi",
+          "Thibaut Davy-Mendez",
+          "Keri N Althoff"
+        ],
+        "abstract": "Abstract                   Among people with HIV (PWH), initiating antiretroviral therapy (ART) is associated with weight gain that might increase the risk of cardiometabolic outcomes. We estimated the effect of hypothetical interventions to restrict increases in body mass index (BMI) in the two years after ART initiation on the 7-year risk of incident type-2 diabetes mellitus (T2DM) among PWH in the North American AIDS Cohort Collaboration on Research and Design (NA-ACCORD) clinical cohorts using the parametric extended g-formula. Among 13,822 normal weight or overweight PWH (BMI ≥18.5 and ≤29.9 kg/m2) who initiated ART between 2012-2021, the 7-year risk of T2DM was 5.6% (95% confidence interval [CI]: 4.8%, 6.3%). Compared to no intervention on BMI, if BMI increase during the first 2 years was capped at 5% of baseline BMI, the risk ratio (RR) for T2DM risk was 0.94 (95% CI, 0.86, 1.03); if BMI was capped at 29.9 kg/m2, RR=0.88 (95% CI, 0.80, 0.97); and if PWH were prevented from gaining any weight over the first 2 years, RR=0.81 (95% CI, 0.72, 0.92). These results provide preliminary evidence to promote studies of real weight maintenance interventions among PWH initiating ART.",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-10-14",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-14",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag256",
+        "doi": "10.1093/aje/kwag256",
+        "url": "https://doi.org/10.1093/aje/kwag256",
+        "title": "Those Confounded Examples",
+        "authors": [
+          "Stephen R Cole",
+          "Ashley I Naimi",
+          "Paul N Zivich",
+          "Jess K Edwards"
+        ],
+        "abstract": "",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-10-14",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-14",
         "fetched_from": "crossref"
       },
       {
@@ -66255,6 +67177,24 @@
         "fetched_from": "crossref"
       },
       {
+        "id": "doi:10.1093/aje/kwag251",
+        "doi": "10.1093/aje/kwag251",
+        "url": "https://doi.org/10.1093/aje/kwag251",
+        "title": "Correction to: Simple graphical rules for assessing selection bias in general-population and selected-sample treatment effects",
+        "authors": [],
+        "abstract": "",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-10-13",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-15",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1177/13872877261497407",
         "doi": "10.1177/13872877261497407",
         "url": "https://doi.org/10.1177/13872877261497407",
@@ -66449,24 +67389,6 @@
           "agingHealth"
         ],
         "firstSeen": "2026-10-14",
-        "fetched_from": "crossref"
-      },
-      {
-        "id": "doi:10.1093/aje/kwag251",
-        "doi": "10.1093/aje/kwag251",
-        "url": "https://doi.org/10.1093/aje/kwag251",
-        "title": "Correction to: Simple graphical rules for assessing selection bias in general-population and selected-sample treatment effects",
-        "authors": [],
-        "abstract": "",
-        "source": "American Journal of Epidemiology",
-        "issn": "0002-9262",
-        "date": "2026-10-13",
-        "subjects": [],
-        "domains": [
-          "agingHealth",
-          "healthReform"
-        ],
-        "firstSeen": "2026-10-15",
         "fetched_from": "crossref"
       },
       {
@@ -86765,6 +87687,25 @@
     ],
     "socialWork": [
       {
+        "id": "doi:10.1177/14680173261498702",
+        "doi": "10.1177/14680173261498702",
+        "url": "https://doi.org/10.1177/14680173261498702",
+        "title": "Book Review:\n                    <i>Psychodynamic and cognitive behavioral theory and practice: Talking across the divide</i>\n                    by Terry B. Northcut and Shveta Kumaria TerryNorthcut B.KumariaShveta, Psychodynamic and cognitive behavioral theory and practice: Talking across the divide,NY, USA, Oxford University Press, 2025, 217 pp. including index, $54.95 (pbk) / $31.72 (ebk), ISBN: 978-0197508411",
+        "authors": [
+          "Tabashshum Jahan Islam"
+        ],
+        "abstract": "",
+        "source": "Journal of Social Work",
+        "issn": "1468-0173",
+        "date": "2026-10-15",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-16",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1093/bjsw/bcag252",
         "doi": "10.1093/bjsw/bcag252",
         "url": "https://doi.org/10.1093/bjsw/bcag252",
@@ -94044,10 +94985,10 @@
   },
   "totals": {
     "socialSecurity": 1573,
-    "elderCare": 598,
-    "healthReform": 944,
-    "agingHealth": 865,
-    "socialWork": 322
+    "elderCare": 609,
+    "healthReform": 958,
+    "agingHealth": 878,
+    "socialWork": 323
   },
   "feeds_ok": 41
 }
