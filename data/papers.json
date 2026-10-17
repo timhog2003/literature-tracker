@@ -1,8 +1,32 @@
 {
-  "date": "2026-10-16",
-  "fetched": "2026-10-16T06:02:19+00:00",
+  "date": "2026-10-17",
+  "fetched": "2026-10-17T05:48:44+00:00",
   "domains": {
     "socialSecurity": [
+      {
+        "id": "doi:10.1215/00703370-12863652",
+        "doi": "10.1215/00703370-12863652",
+        "url": "https://doi.org/10.1215/00703370-12863652",
+        "title": "U.S. State Policy Contexts, County Economic Contexts, and Working-Age Mortality",
+        "authors": [
+          "Iliya Gutin",
+          "Jennifer Karas Montez",
+          "Shannon Monnat",
+          "Emily Wiemers",
+          "Douglas Wolf"
+        ],
+        "abstract": "Highlights                   Jointly modeling state and county contexts reveals synergistic, not independent, mortality associations. Lowest mortality is observed in economically secure counties within liberal-policy states. For males, extreme county economic insecurity yields high mortality regardless of state policy. For males, high labor force participation raises mortality in conservative state contexts. For females, liberal state policies buffer both county economic and labor disadvantages.",
+        "source": "Demography",
+        "issn": "0070-3370",
+        "date": "2026-10-16",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "socialSecurity"
+        ],
+        "firstSeen": "2026-10-17",
+        "fetched_from": "crossref"
+      },
       {
         "id": "doi:10.1111/1468-0009.70133",
         "doi": "10.1111/1468-0009.70133",
@@ -24284,6 +24308,32 @@
     ],
     "elderCare": [
       {
+        "id": "doi:10.1186/s12877-026-08506-3",
+        "doi": "10.1186/s12877-026-08506-3",
+        "url": "https://doi.org/10.1186/s12877-026-08506-3",
+        "title": "Hukou moderation of resilience-related resources and psychological status in older adults: a wenzhou study",
+        "authors": [
+          "Xuan-Yu Chen",
+          "Jiaqi Zheng",
+          "Xican Yin",
+          "Halen Maclaren",
+          "Tingting Jin",
+          "Yinjia Zheng",
+          "Huihe Zhang"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-17",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-17",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1186/s12877-026-08274-0",
         "doi": "10.1186/s12877-026-08274-0",
         "url": "https://doi.org/10.1186/s12877-026-08274-0",
@@ -24306,6 +24356,260 @@
           "agingHealth"
         ],
         "firstSeen": "2026-10-16",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08376-9",
+        "doi": "10.1186/s12877-026-08376-9",
+        "url": "https://doi.org/10.1186/s12877-026-08376-9",
+        "title": "Retraction Note: Levothyroxine for subclinical hypothyroidism in older adults: no evidence of benefit on quality of life or cardiovascular outcomes: a systematic review",
+        "authors": [
+          "Juan Rodrigo Tuesta-Nole",
+          "Marlon Eduardo Sotomayor Serruto",
+          "Laura Alicia Paredes Román",
+          "María De Los Ángeles Llamo Barboza",
+          "Monika Alejandra Velarde Chujutalli",
+          "Justo Eduardo Correa Vega"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-16",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08352-3",
+        "doi": "10.1186/s12877-026-08352-3",
+        "url": "https://doi.org/10.1186/s12877-026-08352-3",
+        "title": "Modality-specific, deficit-targeted exercise prescriptions for physical function in sarcopenia and frailty: a network meta-analysis",
+        "authors": [
+          "Kai Wang",
+          "Ting-Fu Lai",
+          "Eun-Seon Noh",
+          "Jiwon Yang",
+          "Choongsik Min",
+          "Seongryu Bae",
+          "Hyuntae Park"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-16",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08487-3",
+        "doi": "10.1186/s12877-026-08487-3",
+        "url": "https://doi.org/10.1186/s12877-026-08487-3",
+        "title": "Effects of resistance training intensity and a dietary protein intervention on psychosocial outcomes, executive function, and quality of life in frail community-dwelling older adults",
+        "authors": [
+          "Mohammed Benali",
+          "Esmée J.M. Biersteker",
+          "Jantine van den Helder",
+          "Jos Twisk",
+          "Peter J.M. Weijs",
+          "Josje D. Schoufour",
+          "Michael Tieland"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-16",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08524-1",
+        "doi": "10.1186/s12877-026-08524-1",
+        "url": "https://doi.org/10.1186/s12877-026-08524-1",
+        "title": "Navigating a new era of disease-modifying therapy: experiences, treatment preferences, and unmet expectations of family caregivers of Alzheimer’s patients receiving lecanemab in China",
+        "authors": [
+          "Yuhui Wang",
+          "Yan Liang",
+          "Xiaojiang Yi",
+          "Yunrui Zhang",
+          "Jing Huang",
+          "Xiaoshuang Lu",
+          "Cheng li",
+          "Dezhi Chen"
+        ],
+        "abstract": "Abstract                                        Introduction                     As one of the newest disease-modifying therapies for early Alzheimer’s disease, lecanemab has attracted widespread research interest in various clinical settings around the world. However, there is currently insufficient understanding of patients’ and family caregivers’ real-world treatment experiences.                                                           Methods                     This study employed an exploratory qualitative research design and conducted semi-structured in-depth interviews with family caregivers of patients with early AD who are currently receiving lecanemab treatment.                                                           Results                     Three themes emerged: (1) Experiences and Attitudes Toward Lecanemab Treatment; (2) The Multiple Practical Challenges of Treatment Costs, Informed Decision-Making, and Efficacy Assessment; (3) Strategies for Future Improvements.                                                           Discussion                     Given the current state of healthcare in China, families of Alzheimer’s patients still have high hopes for lecanemab treatment. Although some patients report that it has slowed the rate of cognitive decline, factors such as high costs and significant side effects make treatment decisions extremely complex.                                                           Impact                     These findings provide valuable real-world insights into the use of Lecanemab in Chinese Alzheimer’s patients, thereby informing and improving the design of future clinical studies.                                                           Reporting method                     This study adhered to the COREQ guideline.                                                           Public contributions                     No paper or public contribution.                                                           Clinical trial number                     not applicable.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-16",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08478-4",
+        "doi": "10.1186/s12877-026-08478-4",
+        "url": "https://doi.org/10.1186/s12877-026-08478-4",
+        "title": "Determinants of older adults’ adoption and use of smart elderly care services: a qualitative meta-synthesis",
+        "authors": [
+          "Xinyi Wang",
+          "Muzi Chen",
+          "Yi Shen",
+          "Xiuyue Qiu"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-16",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08447-x",
+        "doi": "10.1186/s12877-026-08447-x",
+        "url": "https://doi.org/10.1186/s12877-026-08447-x",
+        "title": "Sources of enjoyment in life and frailty among community-dwelling older adults: cross-sectional and longitudinal associations",
+        "authors": [
+          "Miyuki Yokoro-Hisanari",
+          "Naoto Otaki",
+          "Tomomi Imamura",
+          "Norikazu Tanino",
+          "Keisuke Fukuo"
+        ],
+        "abstract": "Abstract                                        Objectives                     Although greater life enjoyment is associated with a lower risk of frailty, little is known about the association between sources of life enjoyment and frailty. This study investigated the associations between the variety and types of sources of enjoyment in life (“enjoyment sources”) and frailty among community-dwelling older adults.                                                           Methods                     Cross-sectional and longitudinal analyses were conducted using data from a community-based cohort study in Japan. In 2020, questionnaires were mailed to 4,996 randomly selected adults aged ≥65 years, and 2,764 responded. Follow-up questionnaires were sent to 1,635 consenting participants in 2023, with 904 responses obtained. Frailty was assessed using a 5-item self-report questionnaire at baseline and follow-up. Enjoyment sources were assessed through yes/no and open-ended questions at baseline and categorized using content analysis. The number of identified categories was counted, and participants were classified into no-source, single-source, and multiple-source groups.                                                           Results                     The cross-sectional analysis included 2,361 participants, and the prevalence of frailty was 26.6%, 16.7%, and 11.3% in the no-source, single-source, and multiple-source groups, respectively. Cross-sectional analyses showed that a greater variety of enjoyment sources was associated with lower odds of both prefrailty and frailty. In the 3-year longitudinal analysis, 688 participants were included. Among them, incident frailty occurred in 20.2%, 11.1%, and 10.0% of participants in the no-source, single-source, and multiple-source groups, respectively. The variety of enjoyment sources was associated with lower odds of incident frailty in both crude and basic adjusted models. The odds ratios for the single-source and multiple-source groups were similar. Exploratory analysis of the 10 most frequently reported enjoyment sources showed that books, sports, friends, foods, and singing/playing musical instruments showed inverse trends with frailty, whereas media consumption showed a positive trend with frailty in unadjusted cross-sectional trend tests.                                                           Discussion                     Having one or more enjoyment sources was associated with lower odds of frailty among community-dwelling older adults in both cross-sectional and 3-year longitudinal analyses. The exploratory analysis also suggested that the associations between specific types of enjoyment sources and frailty may differ.                                                           Clinical trial number                     Not applicable.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-16",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08511-6",
+        "doi": "10.1186/s12877-026-08511-6",
+        "url": "https://doi.org/10.1186/s12877-026-08511-6",
+        "title": "Effect of psychosocial interventions for community- dwelling older adults on their mental health and quality of life",
+        "authors": [
+          "Radka Bužgová",
+          "Radka Kozáková",
+          "Katka Bobčíková",
+          "Renáta Zeleníková",
+          "Jiřina Hosáková"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-16",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08456-w",
+        "doi": "10.1186/s12877-026-08456-w",
+        "url": "https://doi.org/10.1186/s12877-026-08456-w",
+        "title": "Probable sarcopenia, depressive symptoms, and nutritional status as independent predictors of dysphagia risk in community-dwelling older adults",
+        "authors": [
+          "Volkan Atmis",
+          "Fatma Sena Dost",
+          "Oguzcan Gumuscubuk",
+          "Helin Yesin",
+          "Aslı Araz Güngör",
+          "Ahmet Turan Isik"
+        ],
+        "abstract": "Abstract                                        Background                     Dysphagia is a critical geriatric syndrome associated with an increased risk of aspiration pneumonia, malnutrition, and mortality in older adults. The aim of this study was to evaluate the associations between Comprehensive Geriatric Assessment (CGA) parameters and dysphagia risk (Eating Assessment Tool-10 (EAT-10) ≥ 3) in community-dwelling older adults.                                                           Methods                     This cross-sectional study included 468 community-dwelling older adults presenting to a geriatric outpatient clinic. Participants with severe cognitive impairment, Parkinson’s disease, those residing in a nursing home, and those with an acute medical condition were excluded from the study. Dysphagia risk was assessed using the EAT-10; probable sarcopenia was defined according to the European Working Group on Sarcopenia in Older People 2019 (EWGSOP2) criteria; depressive symptoms were evaluated with the Geriatric Depression Scale-15 (GDS-15); and nutritional status was assessed using the Mini Nutritional Assessment–Short Form (MNA-SF). Independent risk factors were identified using multivariate logistic regression analysis.                                                           Results                                            In the final multivariate regression model, the presence of probable sarcopenia (OR = 2.654, 95% CI: 1.184–5.947,                       p                        = 0.018) and higher GDS-15 scores (OR = 1.155, 95% CI: 1.063–1.255,                       p                        = 0.001) were independently and significantly associated with dysphagia risk. In contrast, a one-point increase in the MNA-SF score (indicating better nutritional status), when treated as a continuous variable, was an independent protective factor against dysphagia risk (OR = 0.684, 95% CI: 0.521–0.897,                       p                        = 0.006).                                                                                Conclusions                     In community-dwelling older adults, probable sarcopenia and depressive symptoms significantly increase the dysphagia risk, whereas good nutritional status plays a protective role. Prior to the development of dysphagia and its associated complications, optimizing muscle strength, mood, and nutritional status in outpatient settings is of importance for maintaining swallowing safety.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-16",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08503-6",
+        "doi": "10.1186/s12877-026-08503-6",
+        "url": "https://doi.org/10.1186/s12877-026-08503-6",
+        "title": "Diagnostic performance of calculated serum osmolarity versus clinical impression for identifying dehydration in older hospitalized patients",
+        "authors": [
+          "Maryam Pourhassan",
+          "Lukas Funk",
+          "Maria Schnepper",
+          "Isabel Levermann",
+          "Baigang Wang",
+          "Chantal Giehl",
+          "Ulrike Trampisch",
+          "Rainer Wirth"
+        ],
+        "abstract": "Abstract                                        Objectives                     This study aimed to evaluate the diagnostic performance and agreement of calculated serum osmolarity for identifying dehydration in older hospitalized patients, using clinical impression of dehydration as the reference standard, and to examine glucose levels across concordant and discordant classification groups.                                                           Design and setting                     This prospective, observational study was conducted in a geriatric acute care unit.                                                           Participants                     The study included 455 older hospitalized patients with a mean age of 82.2 ± 6.8 years and 70% were female.                                                           Measurements                     Clinical impression of dehydration (dehydration vs. no dehydration [normal hydration + hyperhydration]) was judged and recorded by the attending physician within 24 h of admission. Calculated serum osmolarity was derived from routine laboratory values and classified as high (≥ 295 mOsmol/l) or normal (&lt; 295 mOsmol/l). Diagnostic accuracy (sensitivity, specificity, predictive values, accuracy) and agreement (Cohen’s κ) were calculated. Glucose was compared between concordant/discordant groups.                                                           Results                                            Clinically, 23% of patients were classified as dehydrated. High calculated osmolarity occurred in 38%. Using the ≥ 295 mOsmol/l cut-off, sensitivity was 48.6% and specificity 65.1%; positive and negative predictive values were 29.7% and 80.7%, respectively, and accuracy was 61.3%. Agreement beyond chance was poor (κ = 0.112). Mean glucose was higher in osmolarity-positive groups, including false positives (all                       p                        &lt; 0.001 for planned pairwise comparisons).                                                                                Conclusion                     In older hospitalized patients, calculated serum osmolarity (≥ 295 mOsmol/l) showed limited agreement with clinical dehydration assessment with frequent osmolarity-positive classifications in clinically non-dehydrated patients. These findings support cautious clinical interpretation of calculated osmolarity in acute care, particularly when glucose is elevated.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-16",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08509-0",
+        "doi": "10.1186/s12877-026-08509-0",
+        "url": "https://doi.org/10.1186/s12877-026-08509-0",
+        "title": "Frailty status, functional recovery and survival trajectories following neurocritical illness in older adults: a retrospective cohort study",
+        "authors": [
+          "Vincent Legros",
+          "Barbara Bournel",
+          "Rachid Mahmoudi",
+          "Thierry Floch",
+          "Antoine Bouquet",
+          "Zoubir Djerada",
+          "Jeanne Bouvet",
+          "Pierre-Antoine Seube-remy"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-16",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-17",
         "fetched_from": "crossref"
       },
       {
@@ -39658,6 +39962,198 @@
           "healthReform"
         ],
         "firstSeen": "2026-09-26",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.20021",
+        "doi": "10.1001/jama.2026.20021",
+        "url": "https://doi.org/10.1001/jama.2026.20021",
+        "title": "Global Life Expectancy Rebounds, Noncommunicable Disease Threat Increases",
+        "authors": [
+          "Samantha Anderer"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-16",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.20022",
+        "doi": "10.1001/jama.2026.20022",
+        "url": "https://doi.org/10.1001/jama.2026.20022",
+        "title": "US Cancer Mortality Declines, Driven by Lung Cancer",
+        "authors": [
+          "Samantha Anderer"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-16",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.20019",
+        "doi": "10.1001/jama.2026.20019",
+        "url": "https://doi.org/10.1001/jama.2026.20019",
+        "title": "Demand for Vaccination Increases Amid Pennsylvania Measles Outbreak",
+        "authors": [
+          "Sari Richmond"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-16",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.20020",
+        "doi": "10.1001/jama.2026.20020",
+        "url": "https://doi.org/10.1001/jama.2026.20020",
+        "title": "FDA Approves a Second Weekly Basal Insulin Option for Type 2 Diabetes",
+        "authors": [
+          "Samantha Anderer"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-16",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.20023",
+        "doi": "10.1001/jama.2026.20023",
+        "url": "https://doi.org/10.1001/jama.2026.20023",
+        "title": "WHO Broadens Guidance for Recommended Contraceptives",
+        "authors": [
+          "Samantha Anderer"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-16",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.20002",
+        "doi": "10.1001/jama.2026.20002",
+        "url": "https://doi.org/10.1001/jama.2026.20002",
+        "title": "Lp(a)-Reducing Agent Pelacarsen Misses the Mark in Phase 3—Now What?",
+        "authors": [
+          "Jennifer Abbasi"
+        ],
+        "abstract": "This Medical News article discusses the top-line results from the Lp(a)HORIZON trial, which investigated lipoprotein(a) lowering to reduce major adverse cardiovascular events.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-16",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.19504",
+        "doi": "10.1001/jama.2026.19504",
+        "url": "https://doi.org/10.1001/jama.2026.19504",
+        "title": "Inside the Growing Crisis of Primary Care",
+        "authors": [
+          "Eli Cahan"
+        ],
+        "abstract": "This Medical News article discusses the US primary care shortage and efforts to address it via new training pathways, expanded opportunities for international graduates, and physician reimbursement changes.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-16",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.20024",
+        "doi": "10.1001/jama.2026.20024",
+        "url": "https://doi.org/10.1001/jama.2026.20024",
+        "title": "Fasting Duration Minimally Affects Most Routine Laboratory Tests",
+        "authors": [
+          "Samantha Anderer"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-16",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2025.16097",
+        "doi": "10.1001/jama.2025.16097",
+        "url": "https://doi.org/10.1001/jama.2025.16097",
+        "title": "JAMA Editors' Summary Podcast",
+        "authors": [],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-16",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag262",
+        "doi": "10.1093/aje/kwag262",
+        "url": "https://doi.org/10.1093/aje/kwag262",
+        "title": "A Bayesian Approach to Estimating Changes in Small Area Life Expectancy Disparities in Philadelphia",
+        "authors": [
+          "Giancarlo Anfuso",
+          "Harrison Quick",
+          "Alina Schnake-Mahl",
+          "Usama Bilal"
+        ],
+        "abstract": "Abstract                   There is substantial geographic variation in life expectancy (LE). The COVID-19 pandemic caused a mortality crisis, but it is unclear how small-area variations in LE changed during the pandemic. We estimated gender-specific LE by census tract in Philadelphia, Pennsylvania (2017–2019 and 2020–2022), and compared disparities in LE at birth before and during the pandemic. To account for small counts, we employed a Bayesian Poisson model borrowing strength from neighboring census tracts by using conditional autoregressive priors, and from known age-specific mortality patterns by using an adaptation of the TOPALS (tool for projecting age patterns using linear splines) method. We then summarized LE and computed total and income-based disparities in LE by period. The median [10th–90th percentile] change in LE during the pandemic was −2.10 [−5.39 to 0.40] and −1.37 [−3.23 to 0.39] years for men and women, respectively. Declines were concentrated in the same areas that had lower LE at baseline. We found widening disparities due to a steeper decline in LE in lower-income areas during the pandemic. Our study leveraged Bayesian models to produce reliable local-level estimates in small areas, highlighting the disparate impacts that the pandemic had on population health.",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-10-16",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-17",
         "fetched_from": "crossref"
       },
       {
@@ -65701,6 +66197,32 @@
         "fetched_from": "crossref"
       },
       {
+        "id": "doi:10.1186/s12877-026-08506-3",
+        "doi": "10.1186/s12877-026-08506-3",
+        "url": "https://doi.org/10.1186/s12877-026-08506-3",
+        "title": "Hukou moderation of resilience-related resources and psychological status in older adults: a wenzhou study",
+        "authors": [
+          "Xuan-Yu Chen",
+          "Jiaqi Zheng",
+          "Xican Yin",
+          "Halen Maclaren",
+          "Tingting Jin",
+          "Yinjia Zheng",
+          "Huihe Zhang"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-17",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-17",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1186/s12877-026-08274-0",
         "doi": "10.1186/s12877-026-08274-0",
         "url": "https://doi.org/10.1186/s12877-026-08274-0",
@@ -65723,6 +66245,584 @@
           "agingHealth"
         ],
         "firstSeen": "2026-10-16",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08376-9",
+        "doi": "10.1186/s12877-026-08376-9",
+        "url": "https://doi.org/10.1186/s12877-026-08376-9",
+        "title": "Retraction Note: Levothyroxine for subclinical hypothyroidism in older adults: no evidence of benefit on quality of life or cardiovascular outcomes: a systematic review",
+        "authors": [
+          "Juan Rodrigo Tuesta-Nole",
+          "Marlon Eduardo Sotomayor Serruto",
+          "Laura Alicia Paredes Román",
+          "María De Los Ángeles Llamo Barboza",
+          "Monika Alejandra Velarde Chujutalli",
+          "Justo Eduardo Correa Vega"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-16",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08352-3",
+        "doi": "10.1186/s12877-026-08352-3",
+        "url": "https://doi.org/10.1186/s12877-026-08352-3",
+        "title": "Modality-specific, deficit-targeted exercise prescriptions for physical function in sarcopenia and frailty: a network meta-analysis",
+        "authors": [
+          "Kai Wang",
+          "Ting-Fu Lai",
+          "Eun-Seon Noh",
+          "Jiwon Yang",
+          "Choongsik Min",
+          "Seongryu Bae",
+          "Hyuntae Park"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-16",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08487-3",
+        "doi": "10.1186/s12877-026-08487-3",
+        "url": "https://doi.org/10.1186/s12877-026-08487-3",
+        "title": "Effects of resistance training intensity and a dietary protein intervention on psychosocial outcomes, executive function, and quality of life in frail community-dwelling older adults",
+        "authors": [
+          "Mohammed Benali",
+          "Esmée J.M. Biersteker",
+          "Jantine van den Helder",
+          "Jos Twisk",
+          "Peter J.M. Weijs",
+          "Josje D. Schoufour",
+          "Michael Tieland"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-16",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08524-1",
+        "doi": "10.1186/s12877-026-08524-1",
+        "url": "https://doi.org/10.1186/s12877-026-08524-1",
+        "title": "Navigating a new era of disease-modifying therapy: experiences, treatment preferences, and unmet expectations of family caregivers of Alzheimer’s patients receiving lecanemab in China",
+        "authors": [
+          "Yuhui Wang",
+          "Yan Liang",
+          "Xiaojiang Yi",
+          "Yunrui Zhang",
+          "Jing Huang",
+          "Xiaoshuang Lu",
+          "Cheng li",
+          "Dezhi Chen"
+        ],
+        "abstract": "Abstract                                        Introduction                     As one of the newest disease-modifying therapies for early Alzheimer’s disease, lecanemab has attracted widespread research interest in various clinical settings around the world. However, there is currently insufficient understanding of patients’ and family caregivers’ real-world treatment experiences.                                                           Methods                     This study employed an exploratory qualitative research design and conducted semi-structured in-depth interviews with family caregivers of patients with early AD who are currently receiving lecanemab treatment.                                                           Results                     Three themes emerged: (1) Experiences and Attitudes Toward Lecanemab Treatment; (2) The Multiple Practical Challenges of Treatment Costs, Informed Decision-Making, and Efficacy Assessment; (3) Strategies for Future Improvements.                                                           Discussion                     Given the current state of healthcare in China, families of Alzheimer’s patients still have high hopes for lecanemab treatment. Although some patients report that it has slowed the rate of cognitive decline, factors such as high costs and significant side effects make treatment decisions extremely complex.                                                           Impact                     These findings provide valuable real-world insights into the use of Lecanemab in Chinese Alzheimer’s patients, thereby informing and improving the design of future clinical studies.                                                           Reporting method                     This study adhered to the COREQ guideline.                                                           Public contributions                     No paper or public contribution.                                                           Clinical trial number                     not applicable.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-16",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08478-4",
+        "doi": "10.1186/s12877-026-08478-4",
+        "url": "https://doi.org/10.1186/s12877-026-08478-4",
+        "title": "Determinants of older adults’ adoption and use of smart elderly care services: a qualitative meta-synthesis",
+        "authors": [
+          "Xinyi Wang",
+          "Muzi Chen",
+          "Yi Shen",
+          "Xiuyue Qiu"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-16",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08447-x",
+        "doi": "10.1186/s12877-026-08447-x",
+        "url": "https://doi.org/10.1186/s12877-026-08447-x",
+        "title": "Sources of enjoyment in life and frailty among community-dwelling older adults: cross-sectional and longitudinal associations",
+        "authors": [
+          "Miyuki Yokoro-Hisanari",
+          "Naoto Otaki",
+          "Tomomi Imamura",
+          "Norikazu Tanino",
+          "Keisuke Fukuo"
+        ],
+        "abstract": "Abstract                                        Objectives                     Although greater life enjoyment is associated with a lower risk of frailty, little is known about the association between sources of life enjoyment and frailty. This study investigated the associations between the variety and types of sources of enjoyment in life (“enjoyment sources”) and frailty among community-dwelling older adults.                                                           Methods                     Cross-sectional and longitudinal analyses were conducted using data from a community-based cohort study in Japan. In 2020, questionnaires were mailed to 4,996 randomly selected adults aged ≥65 years, and 2,764 responded. Follow-up questionnaires were sent to 1,635 consenting participants in 2023, with 904 responses obtained. Frailty was assessed using a 5-item self-report questionnaire at baseline and follow-up. Enjoyment sources were assessed through yes/no and open-ended questions at baseline and categorized using content analysis. The number of identified categories was counted, and participants were classified into no-source, single-source, and multiple-source groups.                                                           Results                     The cross-sectional analysis included 2,361 participants, and the prevalence of frailty was 26.6%, 16.7%, and 11.3% in the no-source, single-source, and multiple-source groups, respectively. Cross-sectional analyses showed that a greater variety of enjoyment sources was associated with lower odds of both prefrailty and frailty. In the 3-year longitudinal analysis, 688 participants were included. Among them, incident frailty occurred in 20.2%, 11.1%, and 10.0% of participants in the no-source, single-source, and multiple-source groups, respectively. The variety of enjoyment sources was associated with lower odds of incident frailty in both crude and basic adjusted models. The odds ratios for the single-source and multiple-source groups were similar. Exploratory analysis of the 10 most frequently reported enjoyment sources showed that books, sports, friends, foods, and singing/playing musical instruments showed inverse trends with frailty, whereas media consumption showed a positive trend with frailty in unadjusted cross-sectional trend tests.                                                           Discussion                     Having one or more enjoyment sources was associated with lower odds of frailty among community-dwelling older adults in both cross-sectional and 3-year longitudinal analyses. The exploratory analysis also suggested that the associations between specific types of enjoyment sources and frailty may differ.                                                           Clinical trial number                     Not applicable.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-16",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08511-6",
+        "doi": "10.1186/s12877-026-08511-6",
+        "url": "https://doi.org/10.1186/s12877-026-08511-6",
+        "title": "Effect of psychosocial interventions for community- dwelling older adults on their mental health and quality of life",
+        "authors": [
+          "Radka Bužgová",
+          "Radka Kozáková",
+          "Katka Bobčíková",
+          "Renáta Zeleníková",
+          "Jiřina Hosáková"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-16",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08456-w",
+        "doi": "10.1186/s12877-026-08456-w",
+        "url": "https://doi.org/10.1186/s12877-026-08456-w",
+        "title": "Probable sarcopenia, depressive symptoms, and nutritional status as independent predictors of dysphagia risk in community-dwelling older adults",
+        "authors": [
+          "Volkan Atmis",
+          "Fatma Sena Dost",
+          "Oguzcan Gumuscubuk",
+          "Helin Yesin",
+          "Aslı Araz Güngör",
+          "Ahmet Turan Isik"
+        ],
+        "abstract": "Abstract                                        Background                     Dysphagia is a critical geriatric syndrome associated with an increased risk of aspiration pneumonia, malnutrition, and mortality in older adults. The aim of this study was to evaluate the associations between Comprehensive Geriatric Assessment (CGA) parameters and dysphagia risk (Eating Assessment Tool-10 (EAT-10) ≥ 3) in community-dwelling older adults.                                                           Methods                     This cross-sectional study included 468 community-dwelling older adults presenting to a geriatric outpatient clinic. Participants with severe cognitive impairment, Parkinson’s disease, those residing in a nursing home, and those with an acute medical condition were excluded from the study. Dysphagia risk was assessed using the EAT-10; probable sarcopenia was defined according to the European Working Group on Sarcopenia in Older People 2019 (EWGSOP2) criteria; depressive symptoms were evaluated with the Geriatric Depression Scale-15 (GDS-15); and nutritional status was assessed using the Mini Nutritional Assessment–Short Form (MNA-SF). Independent risk factors were identified using multivariate logistic regression analysis.                                                           Results                                            In the final multivariate regression model, the presence of probable sarcopenia (OR = 2.654, 95% CI: 1.184–5.947,                       p                        = 0.018) and higher GDS-15 scores (OR = 1.155, 95% CI: 1.063–1.255,                       p                        = 0.001) were independently and significantly associated with dysphagia risk. In contrast, a one-point increase in the MNA-SF score (indicating better nutritional status), when treated as a continuous variable, was an independent protective factor against dysphagia risk (OR = 0.684, 95% CI: 0.521–0.897,                       p                        = 0.006).                                                                                Conclusions                     In community-dwelling older adults, probable sarcopenia and depressive symptoms significantly increase the dysphagia risk, whereas good nutritional status plays a protective role. Prior to the development of dysphagia and its associated complications, optimizing muscle strength, mood, and nutritional status in outpatient settings is of importance for maintaining swallowing safety.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-16",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08503-6",
+        "doi": "10.1186/s12877-026-08503-6",
+        "url": "https://doi.org/10.1186/s12877-026-08503-6",
+        "title": "Diagnostic performance of calculated serum osmolarity versus clinical impression for identifying dehydration in older hospitalized patients",
+        "authors": [
+          "Maryam Pourhassan",
+          "Lukas Funk",
+          "Maria Schnepper",
+          "Isabel Levermann",
+          "Baigang Wang",
+          "Chantal Giehl",
+          "Ulrike Trampisch",
+          "Rainer Wirth"
+        ],
+        "abstract": "Abstract                                        Objectives                     This study aimed to evaluate the diagnostic performance and agreement of calculated serum osmolarity for identifying dehydration in older hospitalized patients, using clinical impression of dehydration as the reference standard, and to examine glucose levels across concordant and discordant classification groups.                                                           Design and setting                     This prospective, observational study was conducted in a geriatric acute care unit.                                                           Participants                     The study included 455 older hospitalized patients with a mean age of 82.2 ± 6.8 years and 70% were female.                                                           Measurements                     Clinical impression of dehydration (dehydration vs. no dehydration [normal hydration + hyperhydration]) was judged and recorded by the attending physician within 24 h of admission. Calculated serum osmolarity was derived from routine laboratory values and classified as high (≥ 295 mOsmol/l) or normal (&lt; 295 mOsmol/l). Diagnostic accuracy (sensitivity, specificity, predictive values, accuracy) and agreement (Cohen’s κ) were calculated. Glucose was compared between concordant/discordant groups.                                                           Results                                            Clinically, 23% of patients were classified as dehydrated. High calculated osmolarity occurred in 38%. Using the ≥ 295 mOsmol/l cut-off, sensitivity was 48.6% and specificity 65.1%; positive and negative predictive values were 29.7% and 80.7%, respectively, and accuracy was 61.3%. Agreement beyond chance was poor (κ = 0.112). Mean glucose was higher in osmolarity-positive groups, including false positives (all                       p                        &lt; 0.001 for planned pairwise comparisons).                                                                                Conclusion                     In older hospitalized patients, calculated serum osmolarity (≥ 295 mOsmol/l) showed limited agreement with clinical dehydration assessment with frequent osmolarity-positive classifications in clinically non-dehydrated patients. These findings support cautious clinical interpretation of calculated osmolarity in acute care, particularly when glucose is elevated.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-16",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08509-0",
+        "doi": "10.1186/s12877-026-08509-0",
+        "url": "https://doi.org/10.1186/s12877-026-08509-0",
+        "title": "Frailty status, functional recovery and survival trajectories following neurocritical illness in older adults: a retrospective cohort study",
+        "authors": [
+          "Vincent Legros",
+          "Barbara Bournel",
+          "Rachid Mahmoudi",
+          "Thierry Floch",
+          "Antoine Bouquet",
+          "Zoubir Djerada",
+          "Jeanne Bouvet",
+          "Pierre-Antoine Seube-remy"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-16",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1215/00703370-12863652",
+        "doi": "10.1215/00703370-12863652",
+        "url": "https://doi.org/10.1215/00703370-12863652",
+        "title": "U.S. State Policy Contexts, County Economic Contexts, and Working-Age Mortality",
+        "authors": [
+          "Iliya Gutin",
+          "Jennifer Karas Montez",
+          "Shannon Monnat",
+          "Emily Wiemers",
+          "Douglas Wolf"
+        ],
+        "abstract": "Highlights                   Jointly modeling state and county contexts reveals synergistic, not independent, mortality associations. Lowest mortality is observed in economically secure counties within liberal-policy states. For males, extreme county economic insecurity yields high mortality regardless of state policy. For males, high labor force participation raises mortality in conservative state contexts. For females, liberal state policies buffer both county economic and labor disadvantages.",
+        "source": "Demography",
+        "issn": "0070-3370",
+        "date": "2026-10-16",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "socialSecurity"
+        ],
+        "firstSeen": "2026-10-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag262",
+        "doi": "10.1093/aje/kwag262",
+        "url": "https://doi.org/10.1093/aje/kwag262",
+        "title": "A Bayesian Approach to Estimating Changes in Small Area Life Expectancy Disparities in Philadelphia",
+        "authors": [
+          "Giancarlo Anfuso",
+          "Harrison Quick",
+          "Alina Schnake-Mahl",
+          "Usama Bilal"
+        ],
+        "abstract": "Abstract                   There is substantial geographic variation in life expectancy (LE). The COVID-19 pandemic caused a mortality crisis, but it is unclear how small-area variations in LE changed during the pandemic. We estimated gender-specific LE by census tract in Philadelphia, Pennsylvania (2017–2019 and 2020–2022), and compared disparities in LE at birth before and during the pandemic. To account for small counts, we employed a Bayesian Poisson model borrowing strength from neighboring census tracts by using conditional autoregressive priors, and from known age-specific mortality patterns by using an adaptation of the TOPALS (tool for projecting age patterns using linear splines) method. We then summarized LE and computed total and income-based disparities in LE by period. The median [10th–90th percentile] change in LE during the pandemic was −2.10 [−5.39 to 0.40] and −1.37 [−3.23 to 0.39] years for men and women, respectively. Declines were concentrated in the same areas that had lower LE at baseline. We found widening disparities due to a steeper decline in LE in lower-income areas during the pandemic. Our study leveraged Bayesian models to produce reliable local-level estimates in small areas, highlighting the disparate impacts that the pandemic had on population health.",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-10-16",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261496316",
+        "doi": "10.1177/13872877261496316",
+        "url": "https://doi.org/10.1177/13872877261496316",
+        "title": "Terminal agitation in dementia: Challenges and opportunities",
+        "authors": [
+          "Mustafa Atee",
+          "Rebecca Lloyd",
+          "Thomas Morris",
+          "Stephen Macfarlane"
+        ],
+        "abstract": "Terminal agitation (TA), also referred to as terminal restlessness or terminal delirium, is a complex, multifactorial clinical syndrome that occurs at the end of life. While TA is evident in dementia (including Alzheimer's disease), it is not exclusive to the condition and also occurs in other terminal illnesses, e.g., cancer. Currently, no clinical tools exist or have been validated to assess TA in dementia. This may hinder the correct identification of TA and further contribute to the incorrect estimation of TA prevalence. Due to the complex diagnostic profile of TA, it may be frequently underrecognized in individuals with dementia. There is also a lack of consensus on clinical terminology, operational definition (e.g., temporality, symptomology) and conceptualization of TA. This may be attributed in part to cultural context and the variability in describing the final stages of dementia. Thus, reported prevalence rates of TA in dementia are heterogeneous in the literature. Further, using multiple descriptions or terms for TA in the literature suggests that the syndrome may occur in groups, or clusters of symptoms. There is an association between pain, agitation, and delirium in various stages of dementia, particularly at the end of life. Differentiating TA, or delirium from behavioral and psychological symptoms of dementia (BPSD) is often difficult. The complex interaction between TA, dementia, and overlapping BPSD remains poorly understood and underresearched. Therefore, we outline priorities for future action and research, including the development of diagnostic and assessment tools to identify TA in dementia, and the establishment of consistent criteria for defining this syndrome.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-10-16",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261496548",
+        "doi": "10.1177/13872877261496548",
+        "url": "https://doi.org/10.1177/13872877261496548",
+        "title": "Locus coeruleus degeneration impairs forebrain arteriole physiology and perfusion in a rat model of Alzheimer's disease",
+        "authors": [
+          "Mahsa Gifani",
+          "Laura C. Chambers",
+          "Zachary Fernandez",
+          "John S. Beck",
+          "Robert W. Wiseman",
+          "Chunqi Qian",
+          "Anne M. Dorrance",
+          "Scott E. Counts"
+        ],
+        "abstract": "The locus coeruleus (LC) provides forebrain norepinephrine (NE) and degenerates early in Alzheimer's disease (AD). We have shown that experimental LC lesions in the Tg344-19 AD rat model result in parenchymal arteriole (PA) stenosis, blood-brain barrier permeability, amyloid angiopathy, and cognitive impairment. Here, we show that PAs from LC-lesioned Tg344-19 AD rats displayed increased myogenic tone and decreased responsiveness to TRPV4 channel agonists, which was reversible by NE replacement. MRI studies indicated reduced forebrain perfusion and fractional anisotropy in LC-lesioned animals compared to controls. Targeting LC-mediated effects on cerebral hemodynamics presents a compelling AD therapeutic target.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-10-16",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261497236",
+        "doi": "10.1177/13872877261497236",
+        "url": "https://doi.org/10.1177/13872877261497236",
+        "title": "Lower cardiac output is associated with longitudinal decreases in cerebrospinal fluid amyloid-β42, a core Alzheimer's disease biomarker, in women but not men",
+        "authors": [
+          "Amalia J. Peterson",
+          "Yunyi Sun",
+          "Dandan Liu",
+          "Kimberly R. Pechman",
+          "Francis E. Cambronero",
+          "Elizabeth E. Moore",
+          "Deepak K. Gupta",
+          "Timothy J. Hohman",
+          "Henrik Zetterberg",
+          "Angela L. Jefferson"
+        ],
+        "abstract": "Subclinical reductions in cardiac output relate to cognitive decline. We examined the relationship between cardiac output and cerebrospinal fluid (CSF) biomarkers of Alzheimer's disease pathologies in 153 participants from the Vanderbilt Memory and Aging Project. Linear regression and linear mixed effects regression models related baseline cardiac output, assessed using echocardiogram, to CSF amyloid-β                     42                     (Aβ                     42                     ), Aβ                     42                     /Aβ                     40                     , and phosphorylated tau-181 cross-sectionally and longitudinally. Cardiac output interacted with sex on Aβ                     42                     levels longitudinally. Lower cardiac output was associated with lower Aβ                     42                     over time in women but not men. This may reflect cerebral Aβ accumulation or a more general change in Aβ production.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-10-16",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261497299",
+        "doi": "10.1177/13872877261497299",
+        "url": "https://doi.org/10.1177/13872877261497299",
+        "title": "Diagnostic accuracy of plasma amyloid-β42 and Montreal Cognitive Assessment score as composite index for Alzheimer's disease in resource-limited settings: An exploratory study",
+        "authors": [
+          "Amelia Nur Vidyanti",
+          "Pukovisa Prawiroharjo",
+          "Yuliarni Syafrita",
+          "Astuti Prodjohardjono",
+          "Atika Rahmadini",
+          "Putri Istiqomah Rizki Hidayatun",
+          "Rifki Habibi Rahman",
+          "Elizabeth Divina",
+          "Rani Permata",
+          "Alya Ayu Tazkia",
+          "Nailatul Fadhilah",
+          "Nanda Saripa Putri"
+        ],
+        "abstract": "Background                                            Accurate diagnosis of Alzheimer's disease (AD) in Indonesia remains challenging due to limited access to cerebrospinal fluid (CSF) analysis and PET imaging. Plasma amyloid-β42 (Aβ                       42                       ) may offer a less-invasive and affordable alternative, particularly when combined with cognitive assessment. However, its diagnostic performance in Indonesian populations is not well established.                                                                                Objective                                            To exploratorily assess the diagnostic accuracy of plasma Aβ                       42                       , alone and as a composite index combined with Montreal Cognitive Assessment-Indonesian version (MoCA-INA) scores, as potential alternatives to CSF biomarkers for AD diagnosis in a resource-limited setting.                                                                                Methods                     A cross-sectional study was conducted involving 25 AD patients and 20 cognitively normal controls. Plasma and CSF biomarker levels were measured using ultrasensitive immunoassay. Cognitive function was evaluated using MoCA-INA. Receiver operating characteristic curve analysis was used to assess diagnostic accuracy.                                                           Results                                            Plasma Aβ                       42                       with the level of 9.6 pg/ml showed moderate diagnostic accuracy (AUC = 0.78, sensitivity = 69.2%, specificity = 70.6%), while its combination with MoCA-INA Score improved accuracy (adjusted AUC = 0.93, sensitivity = 80.0%, specificity = 84.0%). No significant correlation was found between plasma and CSF biomarkers. Plasma p-tau181 was excluded from the final composite index because it showed an unexpected direction of change.                                                                                Conclusions                                            Plasma Aβ                       42                       combined with MoCA-INA as a composite index, demonstrated potential diagnostic performance for AD in resource-limited settings. However, these exploratory findings should be interpreted cautiously and require further validation in larger and independent cohorts before clinical application.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-10-16",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261497232",
+        "doi": "10.1177/13872877261497232",
+        "url": "https://doi.org/10.1177/13872877261497232",
+        "title": "The critical role of PET-based assessment of cerebrovascular disease in the management of patients with cognitive impairment and dementias",
+        "authors": [
+          "Abass Alavi",
+          "Poul Flemming Høilund-Carlsen"
+        ],
+        "abstract": "A recent survey provides valuable insights into French practitioners’ preparedness for implementing anti-amyloid immunotherapy (AAI) for Alzheimer’s disease. It highlights the need for education but also underscores a broader challenge: clinicians must understand not only treatment protocols but also unresolved issues regarding diagnostic specificity, efficacy, safety, and cost-effectiveness. Amyloid biomarkers should not be considered definitive indicators of disease causality or treatment response. Greater attention should also be given to functional imaging approaches and cerebrovascular pathology, which may contribute to a more comprehensive understanding of cognitive decline. A balanced, evidence-based approach is essential before widespread adoption of AAI.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-10-16",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261498210",
+        "doi": "10.1177/13872877261498210",
+        "url": "https://doi.org/10.1177/13872877261498210",
+        "title": "Home-delivered transcranial direct current stimulation with or without cognitive training in mild dementia due to Alzheimer's disease",
+        "authors": [
+          "Juan C. Meléndez",
+          "Joaquín Escudero",
+          "Encarnación Satorres",
+          "Iraida Delhom",
+          "Isabel Martí-Hoyos",
+          "Jesús González-Moreno"
+        ],
+        "abstract": "Background                     Transcranial direct current stimulation (tDCS) and cognitive training are non-pharmacological interventions for cognitive impairment in Alzheimer's disease (AD), but evidence on combined protocols in mild dementia remains limited.                                                           Objective                     To evaluate home-delivered active tDCS combined with cognitive training and active tDCS alone versus sham tDCS in mild dementia due to AD, and explore whether the combined intervention showed changes across a broader range of cognitive outcomes.                                                           Methods                     Forty participants with mild dementia due to AD and evidence of amyloid-β pathology were randomized to tDCS combined with cognitive training (n = 14), active tDCS alone (n = 14), or sham tDCS (n = 12). The 10-day intervention was delivered at participants’ homes by trained study personnel. Cognitive outcomes were assessed at baseline, post-intervention, and 1-month follow-up using linear mixed-effects models.                                                           Results                     Significant Group × Time interactions were observed for the primary cognitive outcome, Mini-Mental State Examination (MMSE), and for all secondary cognitive outcomes except Backward Digit Span. Both active conditions showed greater change from baseline than sham tDCS in MMSE, Memory Alteration Test, verbal learning, total verbal recall, and delayed recall. The combined condition also showed greater change than sham tDCS in initial immediate recall and Forward Digit Span. No significant differences were observed between the two active conditions.                                                           Conclusions                     Active tDCS, with or without cognitive training, was associated with more favorable short-term cognitive change than sham stimulation. The combined condition differed from sham across more outcomes, but not from active tDCS alone; therefore, this exploratory pattern does not establish a broader benefit of the combined intervention.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-10-16",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261498357",
+        "doi": "10.1177/13872877261498357",
+        "url": "https://doi.org/10.1177/13872877261498357",
+        "title": "Evening chronotype and incidence of all-cause dementia and subtypes after accounting for other sleep traits: A prospective cohort study",
+        "authors": [
+          "Jiaying Li",
+          "Jean Woo",
+          "Yijian Yang",
+          "Zengjie Ye",
+          "Junxin Li"
+        ],
+        "abstract": "Background                     Chronotype may affect neurophysiology, but whether its association with dementia persists independent of other sleep traits remains uncertain.                                                           Objective                     To examine associations of chronotype with incident dementia subtypes and potential modification by metabolic and social factors.                                                           Methods                                            In 443,906 dementia-free participants, Cox models estimated dementia risk after adjustment for sociodemographic, lifestyle, clinical, apolipoprotein E (                       APOE                       ) genotype, and sleep-related factors. We tested baseline interactions and robustness using multiple imputation, competing-risk models, and landmark analyses.                                                                                Results                     Over a mean follow-up of 12.5 years, 6355 incident dementia cases were documented. Evening chronotype was associated with a small increased risk of all-cause dementia compared with morning types (HR, 1.07; 95% CI, 1.01–1.14). This association was observed primarily in “other dementias” (HR, 1.12; 1.04–1.21), with no significant association with Alzheimer's disease or vascular dementia (VaD).                     Exploratory subgroup analyses identified two interactions that remained significant after false discovery rate (FDR) correction: social visit frequency for all-cause dementia and napping for VaD (FDR-adjusted p for interaction is 0.024 for both). Evening chronotype was associated with higher all-cause dementia risk among participants reporting infrequent social visits and with higher VaD risk among those reporting usual napping.                                                           Conclusions                     Evening chronotype was associated with a small increase in the hazard of all-cause dementia after multivariable adjustment. Given the modest magnitude and observational design, evening chronotype may be considered a potential risk marker rather than an independent or causal risk factor. These findings require independent replication.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-10-16",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261498372",
+        "doi": "10.1177/13872877261498372",
+        "url": "https://doi.org/10.1177/13872877261498372",
+        "title": "Association between late-life blood pressure and incident dementia in older men: The Kuakini Honolulu-Asia aging study",
+        "authors": [
+          "Yuki Ogawa",
+          "Randi Chen",
+          "G. Webster Ross",
+          "Timothy Donlon",
+          "Gina Fujikami",
+          "Cody Takenaka",
+          "Bradley Willcox",
+          "Kamal Masaki"
+        ],
+        "abstract": "Background                     The relationship between late-life blood pressure and incident dementia (including Alzheimer's disease and vascular dementia) remains controversial.                                                           Objective                     To examine whether late-life blood pressure is associated with incidence of dementia.                                                           Methods                     We analyzed 2649 participants aged 71 to 93 years without prevalent dementia at baseline in a prospective cohort of Japanese-American men (the Kuakini Honolulu Heart Program). Diagnosis of dementia was conducted based on standardized protocols and participants were followed for up to 20 years. Cox proportional hazards models were applied to estimate hazard ratios (HR) for incident dementia across blood pressure categories, adjusting for demographic, medical, lifestyle, and genetic factors.                                                           Results                                            During follow-up, 716 cases of incident dementia were identified (519 cases of Alzheimer's disease and 88 cases of vascular dementia). After adjustment, high late-life systolic blood pressure (≥160 mmHg) was associated with a lower risk of Alzheimer's disease [HR 0.72 (95% confidence interval: 0.56–0.93)] and a higher risk of vascular dementia [HR 1.95 (95% confidence interval: 1.03–3.68)] compared to the reference (120 to &lt;140 mmHg) group. The protective effect of high late-life systolic blood pressure (≥160 mmHg) on Alzheimer's disease was seen only in participants with the protective version of the                       FOXO3                       genotype. No significant associations were found between diastolic blood pressure and incidence of dementia.                                                                                Conclusions                     High late-life systolic blood pressure was associated with a protective effect against Alzheimer's disease, after adjusting for confounders, including the FOXO3 longevity genotype, and an increased risk of vascular dementia in older men aged over 71 years.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-10-16",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261498376",
+        "doi": "10.1177/13872877261498376",
+        "url": "https://doi.org/10.1177/13872877261498376",
+        "title": "Concurrent diagnostic efficiency and 8-year measurement stability of the weighted subjective memory complaints questionnaire-revised",
+        "authors": [
+          "Yu Jung Choi",
+          "Ji Won Han",
+          "Ki Woong Kim"
+        ],
+        "abstract": "Background                     Subjective memory complaints (SMC) are a potential early indicator of dementia, but whether their measurement properties hold over years of repeated assessment is unexamined. The weighted Subjective Memory Complaints Questionnaire-Revised (SMCQ-R) showed higher cross-sectional accuracy than the original SMCQ, but its performance over extended follow-up requires verification.                                                           Objective                     To evaluate whether SMCQ-R maintains measurement fidelity over 8 years relative to SMCQ and Mini-Mental State Examination (MMSE).                                                           Methods                     We analyzed 2057 community-dwelling older adults without baseline major depressive disorder from the Korean Longitudinal Study on Cognitive Aging and Dementia (KLOSCAD), followed biennially for 8 years (5 assessments). Concurrent discriminative performance was evaluated via AUC, Cohen's d, signal-to-noise ratio (SNR). Sensitivity analysis excluded participants with incident depression during follow-up, and separately used all available data.                                                           Results                     All three measures demonstrated excellent cross-sectional validity (mean AUC: SMCQ-R = 0.883, SMCQ = 0.889, MMSE = 0.884). SMCQ-R showed numerically larger effect sizes than SMCQ (Cohen's |d|: 1.884 versus 1.742, p = 0.154) and higher SNR (1.659 versus 1.485, p = 0.327), neither significant. Both subjective measures showed significant SNR reductions with incident depression, whereas MMSE remained robust.                                                           Conclusions                     SMCQ-R showed a significant AUC decline over 8 years (slope = −0.0079/year, p = 0.024), but maintained clinically adequate accuracy (AUC ≥ 0.844), similar to SMCQ (0.883 vresus 0.889), despite a 36% reduction in item burden. Using all available data, this decline was not an artifact of the complete case restriction, and the MMSE discriminated at least as well as SMCQ-R at every assessment. SMCQ-R is regarded as an efficient complement to the MMSE rather than evidence of its superiority.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-10-16",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261498845",
+        "doi": "10.1177/13872877261498845",
+        "url": "https://doi.org/10.1177/13872877261498845",
+        "title": "Association between handedness and Alzheimer's disease: Results from a large MindCrowd observational study",
+        "authors": [
+          "Charles Chen",
+          "Matt Huentelman",
+          "Kewei Chen"
+        ],
+        "abstract": "Background                     Handedness is tied to the lateralization of brain functions and significantly affects cognitive function and brain activity. Alzheimer's disease (AD) is a progressive brain disorder that leads to declines in memory, thinking skills, and to behavioral changes, which also exhibits lateralized patterns of brain involvement. Understanding the relationship between handedness and AD may provide useful context for interpreting findings in AD research.                                                           Objective                     Previous findings on the relationship between AD and handedness are inconsistent.                     We used the large MindCrowd dataset, comprising with over 150,000 participants, study the association between AD and handedness.                                                           Methods                     We applied logistic regression models to the data with and without adjustment for other covariates to estimate the association between handedness and AD. We also performed similar analyses for samples stratified by ages. We estimated the unadjusted and adjusted odds ratios (ORs) of having AD among left- and mixed-handed participants compared with right- handed participants.                                                           Results                     Our results showed that compared with right-handed participants, left- and mixed-handed participants had higher odds of self-reported AD (the overall adjusted OR: 2.08, 95% CI: (1.69, 2.53), p &lt; 0.001)) being larger than that for left-handers (the overall adjusted OR: 1.42, 95% CI: (1.23, 1.64), p &lt; 0.001)). Furthermore, for each age group considered, the estimated adjusted and unadjusted ORs for mixed-handers were consistently greater than that for left-handers; all were greater than 1.0.                                                           Conclusions                     Our study confirmed that there is a significant association between handedness and AD. Our findings also indicate that mixed-handedness has a stronger association with AD than left-handedness.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-10-16",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261499787",
+        "doi": "10.1177/13872877261499787",
+        "url": "https://doi.org/10.1177/13872877261499787",
+        "title": "List of Reviewers",
+        "authors": [],
+        "abstract": "",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-10-16",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261500140",
+        "doi": "10.1177/13872877261500140",
+        "url": "https://doi.org/10.1177/13872877261500140",
+        "title": "Immunoglobulin GM (γ marker) allotypes as potential genetic markers of efficacy of lecanemab therapy in Alzheimer's disease",
+        "authors": [
+          "Janardan P. Pandey"
+        ],
+        "abstract": "Lecanemab is a humanized IgG1 monoclonal antibody that targets amyloid-β (Aβ) aggregates, a pathological hallmark of Alzheimer's disease (AD). In the largest clinical trial of its kind to date, lecanemab slowed cognitive decline by 27% in patients with early-stage AD. Lecanemab has also been shown to reduce cerebral Aβ deposition. Lecanemab expresses the immunoglobulin GM 3 allotype, which is defined by an arginine residue in the CH1 region of the γ1 chain and is potentially immunogenic in individuals who lack this allotype. I hypothesize that anti-GM 3 antibodies, generated either following lecanemab administration or acquired previously through maternal-fetal incompatibility or transfusion of allotype-incompatible blood products, may form immune complexes with the therapeutic antibody. These immune complexes could be cleared by phagocytic cells, including microglia, thereby reducing the availability and efficacy of lecanemab and contributing to therapeutic nonresponsiveness. If validated, GM allotypes could serve as genetic markers for predicting response to lecanemab therapy and may help guide personalized treatment strategies in AD.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-10-16",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-17",
         "fetched_from": "crossref"
       },
       {
@@ -87687,6 +88787,25 @@
     ],
     "socialWork": [
       {
+        "id": "doi:10.1093/bjsw/bcag265",
+        "doi": "10.1093/bjsw/bcag265",
+        "url": "https://doi.org/10.1093/bjsw/bcag265",
+        "title": "Locating the ‘formal’ in ‘informal’ care: Reframing the lived experiences of caring for relatives with mental ill health",
+        "authors": [
+          "Kate Hammond"
+        ],
+        "abstract": "Abstract                   Informal carers supporting relatives with mental ill health remain insufficiently recognized within social work research, policy, and practice. Despite longstanding reliance on families, particularly women, to bridge gaps in mental health provision, their labour is frequently rendered invisible, undervalued, or excluded from professional decision-making. Drawing on feminist standpoint theory, intersectionality, and relational autonomy, this article reframes informal mental health caregiving as a structurally produced and gendered phenomenon rather than a private family responsibility. Using a heuristic methodological approach, the analysis integrates a thematic review of international literature, autoethnographic reflection, and practice-based insights from statutory mental health social work. Four interconnected themes are identified: (1) Carer burden: roles, relationships, and responses; (2) Carer identity, disenfranchised grief, and loss; (3) The gendered nature of care; (4) Working with professionals: exclusion, mistrust, and systemic barriers. These themes reveal how carers frequently absorb responsibilities transferred by fragmented services and risk-driven practice cultures, creating ‘responsibility without power’ within mental health systems. Implications are offered for social work practice, policy, and education, emphasizing the need for relational, feminist-informed approaches that recognize carers as partners with expertise.",
+        "source": "The British Journal of Social Work",
+        "issn": "0045-3102",
+        "date": "2026-10-16",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-17",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1177/14680173261498702",
         "doi": "10.1177/14680173261498702",
         "url": "https://doi.org/10.1177/14680173261498702",
@@ -94984,11 +96103,11 @@
     ]
   },
   "totals": {
-    "socialSecurity": 1573,
-    "elderCare": 609,
-    "healthReform": 958,
-    "agingHealth": 878,
-    "socialWork": 323
+    "socialSecurity": 1574,
+    "elderCare": 620,
+    "healthReform": 968,
+    "agingHealth": 903,
+    "socialWork": 324
   },
   "feeds_ok": 41
 }
