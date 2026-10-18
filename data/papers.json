@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-17",
-  "fetched": "2026-10-17T05:48:44+00:00",
+  "date": "2026-10-18",
+  "fetched": "2026-10-18T06:12:50+00:00",
   "domains": {
     "socialSecurity": [
       {
@@ -24334,6 +24334,157 @@
         "fetched_from": "crossref"
       },
       {
+        "id": "doi:10.1186/s12877-026-08247-3",
+        "doi": "10.1186/s12877-026-08247-3",
+        "url": "https://doi.org/10.1186/s12877-026-08247-3",
+        "title": "Impact of malnutrition and protein-enriched oral nutrition on early recovery after fragility fractures in older adults: the NuTra trial",
+        "authors": [
+          "Carolina Vogel",
+          "Moritz Heyl",
+          "Louis Vollmer",
+          "Julia Schuhmacher",
+          "Johanna Demissie",
+          "Dannik Haas",
+          "Benedikt J. Braun",
+          "Steven C. Herath",
+          "Tina Histing",
+          "Mika F. Rollmann"
+        ],
+        "abstract": "Abstract                                        Background                     Malnutrition is highly prevalent in geriatric trauma patients and is associated with impaired recovery, complications, and reduced likelihood of returning home. Nonetheless, the impact of a targeted protein-enriched diet during the acute hospital stay on patient outcome and rehabilitation remains to be investigated.                                                           Materials and methods                     This single-center randomized controlled study enrolled patients ≥ 70 years with fragility fractures admitted to a Level I trauma center. Nutritional status was assessed using the Nutritional Risk Screening 2002 and Mini Nutritional Assessment. Patients screened positive in ≥ 1 tool were classified as being at nutritional risk and randomized to a protein-enriched diet (Group A) or standard diet (Group B); patients with negative screening served as observational reference group without nutritional risk (Group C). The intervention targeted 1.5–2.0 g/kg/day protein. Primary outcomes were in-hospital medical complications, surgical site infections and functional mobility at discharge. Secondary outcomes included length of stay, discharge destination, and in-hospital mortality. Multinomial logistic regression assessed independent associations with discharge destination.                                                           Results                                            Of the 218 patients (mean age 81.8 ± 6.9 years; 72.0% female), 100 (45.9%) screened positive for being at nutritional risk and were randomized to intervention (A,                       n                        = 46) or control (B,                       n                        = 54), while 118 (54.1%) patients without nutritional risk served as reference group (C). Patients at nutritional risk showed higher comorbidity burdens, higher ASA classes, and greater frailty than group C. Medical complications occurred in 45.0% of patients, with no significant differences between groups. Serum albumin decreased and CRP increased during hospitalization, without differences among the groups. Patients in reference group C were more often independently mobile and discharged home, whereas all patients at nutritional risk more frequently required institutional care. In multivariable analysis, a higher age-adjusted CCI was independently associated with discharge destination, whereas no independent effect of the nutritional intervention was observed.                                                                                Conclusion                     In this geriatric trauma cohort, being at nutritional risk was closely linked to frailty and multimorbidity. A protein-enriched diet during the acute hospital stay did not translate into measurable short-term benefits regarding complications, functional mobility, length of stay or discharge destination. Nutritional risk should therefore be considered within the broader context of overall vulnerability, and nutritional care may need to be embedded in comprehensive longitudinal rehabilitation strategies extending beyond the acute in-hospital phase.                                                           Trial registration                     The study was retrospectively registered at ClinicalTrials.gov on 12 May 2026 (NCT07582575).",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-17",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-18",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08337-2",
+        "doi": "10.1186/s12877-026-08337-2",
+        "url": "https://doi.org/10.1186/s12877-026-08337-2",
+        "title": "Water distribution and phase angle based on bioelectrical impedance analysis: a convenient approach for identifying acute decompensated heart failure with preserved ejection fraction in older adults",
+        "authors": [
+          "Hong Yang",
+          "Hongling Yang",
+          "Jimei Yuan",
+          "Hong Li",
+          "Yunda Huang",
+          "Shengjie Chen",
+          "Feifei Cao",
+          "Wei Chen",
+          "Zhiping Duan"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-17",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-18",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08455-x",
+        "doi": "10.1186/s12877-026-08455-x",
+        "url": "https://doi.org/10.1186/s12877-026-08455-x",
+        "title": "From chronic disease burden to cognitive decline: a systematic review of multimorbidity in older adults",
+        "authors": [
+          "Ahmadreza Khosravifar",
+          "Sarieh Poortaghi",
+          "Pegah Matourypour"
+        ],
+        "abstract": "Abstract                                        Background                     Multimorbidity is common in older adults and has been associated with adverse cognitive outcomes. However, findings remain heterogeneous because of differences in multimorbidity definitions, cognitive measures, and study designs. This review aimed to synthesize evidence on the association between multimorbidity and cognitive outcomes in adults aged ≥ 60 years.                                                           Methods                     Following PRISMA 2020 guidelines, PubMed, Scopus, Web of Science, the Cochrane Library, and gray literature sources were searched up to August 2026. Observational studies examining multimorbidity, defined as ≥ 2 chronic conditions, and cognitive outcomes in adults aged ≥ 60 years were included. Methodological quality was assessed using Joanna Briggs Institute checklists, and findings were synthesized narratively.                                                           Results                     Seventeen studies met the eligibility criteria. Overall, greater multimorbidity burden was generally associated with poorer cognitive outcomes, while several specific multimorbidity patterns, particularly cardiometabolic and cardiovascular patterns, were associated with cognitive impairment, cognitive decline, or dementia. However, some studies reported null or domain-specific associations. Considerable heterogeneity was observed across multimorbidity definitions, cognitive assessments, study designs, populations, and confounding adjustment.                                                           Conclusion                     Multimorbidity may be associated with poorer cognitive outcomes in older adults, but the strength and consistency of the evidence vary across studies. Interpretation is limited by methodological heterogeneity, potential risk of bias, and the observational nature of the evidence. More standardized prospective studies are needed to clarify these associations.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-17",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-18",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08402-w",
+        "doi": "10.1186/s12877-026-08402-w",
+        "url": "https://doi.org/10.1186/s12877-026-08402-w",
+        "title": "Preserving sexual health of older couples: a protocol for a strategic plan",
+        "authors": [
+          "Maryamsadat Rahimi",
+          "Mahnaz Noroozi",
+          "Azimeh Ghorbanian",
+          "Marjan Beigi"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-17",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-18",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08468-6",
+        "doi": "10.1186/s12877-026-08468-6",
+        "url": "https://doi.org/10.1186/s12877-026-08468-6",
+        "title": "Development of an exploratory preoperative laboratory-based score for 24-month mortality after major lower extremity amputation in geriatric diabetic foot patients",
+        "authors": [
+          "Mete Özer",
+          "Yener İnce",
+          "Tolgahan Korkmaz",
+          "Mehmet Ali Talmaç",
+          "Mete Özer"
+        ],
+        "abstract": "Abstract                                        Background                     Major lower extremity amputation for diabetic foot complications is associated with substantial mortality, particularly in older adults. We evaluated whether routinely available preoperative laboratory parameters provide prognostic information for 24-month mortality and developed an exploratory laboratory-based risk score.                                                           Methods                     This retrospective cohort study included 72 patients aged ≥ 65 years who underwent transtibial or transfemoral amputation for diabetic foot complications between January 2021 and June 2023 at a tertiary referral center. Vital status was ascertained through July 31, 2025. Associations with 24-month all-cause mortality were evaluated using Cox proportional hazards regression. A 3-point score was derived from laboratory predictors using receiver operating characteristic analysis and Youden-index-based thresholds. Model discrimination and calibration were assessed, and bootstrap optimism correction was applied to the fixed three-biomarker Cox model. The proposed score was additionally compared with the Prognostic Nutritional Index (PNI), Geriatric Nutritional Risk Index (GNRI), and Hemoglobin–Albumin–Lymphocyte–Platelet (HALP) score.                                                           Results                                            Thirty-nine patients (54.2%) died within 24 months. Kaplan–Meier-estimated 24-month survival was 45.8% (95% CI 34.1–56.8%). In multivariable Cox analysis, higher hemoglobin (adjusted HR 1.302, 95% CI 1.041–1.628;                       p                        = 0.021), lower platelet count (adjusted HR 0.9966, 95% CI 0.9939–0.9994;                       p                        = 0.017), and lower albumin (adjusted HR 0.868, 95% CI 0.813–0.927;                       p                        &lt; 0.001) were independently associated with mortality. One point was assigned for hemoglobin &gt; 10.3 g/dL, platelet count &lt; 342.5 × 10⁹/L, and albumin &lt; 28.5 g/L. Patients with scores ≥ 2 had substantially lower 24-month survival than those with scores 0–1 (8.0% vs. 66.0%; log-rank                       p                        &lt; 0.001). The score had an AUC of 0.798 for 24-month mortality. The underlying Cox model had an optimism-corrected C-index of 0.712. The score showed numerically higher discrimination than GNRI (AUC 0.739) and PNI (0.735), and higher discrimination than HALP (0.590).                                                                                Conclusions                     A simple score based on albumin, hemoglobin, and platelet count showed promising prognostic discrimination for 24-month mortality after major amputation in this geriatric diabetic foot cohort. Quantitative ischemia severity and standardized neuropathy and frailty assessments were unavailable, and the score was derived and evaluated in the same derivation cohort, while bootstrap optimism correction was limited to the fixed three-biomarker Cox model. It should therefore be regarded as exploratory, should not replace comprehensive clinical and vascular assessment, and requires external validation before clinical use.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-17",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-18",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08517-0",
+        "doi": "10.1186/s12877-026-08517-0",
+        "url": "https://doi.org/10.1186/s12877-026-08517-0",
+        "title": "Perceived neighbourhood environment and accelerometer-measured moderate-to-vigorous physical activity among community-dwelling older adults in Hong Kong: a cross-sectional study",
+        "authors": [
+          "Alison Y. T. Ou",
+          "Daniel W.L. Lai",
+          "Yan Sun",
+          "Yang Gao",
+          "Codiez Z.D. Huang",
+          "Zhijing Qu"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-17",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-18",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1186/s12877-026-08274-0",
         "doi": "10.1186/s12877-026-08274-0",
         "url": "https://doi.org/10.1186/s12877-026-08274-0",
@@ -39962,6 +40113,86 @@
           "healthReform"
         ],
         "firstSeen": "2026-09-26",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmicm2607513",
+        "doi": "10.1056/nejmicm2607513",
+        "url": "https://doi.org/10.1056/nejmicm2607513",
+        "title": "Spinal Tuberculosis",
+        "authors": [
+          "Sara Pereira Henriques",
+          "Margarida Mota"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-10-17",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-18",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmp2604584",
+        "doi": "10.1056/nejmp2604584",
+        "url": "https://doi.org/10.1056/nejmp2604584",
+        "title": "What I See before Anyone Speaks",
+        "authors": [
+          "Robert B. Shpiner"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-10-17",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-18",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmp2605590",
+        "doi": "10.1056/nejmp2605590",
+        "url": "https://doi.org/10.1056/nejmp2605590",
+        "title": "Why Shared-Savings ACOs Have Failed to Deliver for Primary Care",
+        "authors": [
+          "Lisa S. Rotenstein",
+          "Nicholas Stine",
+          "Bruce Landon"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-10-17",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-18",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmp2608810",
+        "doi": "10.1056/nejmp2608810",
+        "url": "https://doi.org/10.1056/nejmp2608810",
+        "title": "Community Engagement Requirements in Medicaid — Law as a Determinant of Health",
+        "authors": [
+          "Nicole Huberfeld",
+          "Paul R. Shafer"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-10-17",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-18",
         "fetched_from": "crossref"
       },
       {
@@ -66223,6 +66454,181 @@
         "fetched_from": "crossref"
       },
       {
+        "id": "doi:10.1186/s12877-026-08247-3",
+        "doi": "10.1186/s12877-026-08247-3",
+        "url": "https://doi.org/10.1186/s12877-026-08247-3",
+        "title": "Impact of malnutrition and protein-enriched oral nutrition on early recovery after fragility fractures in older adults: the NuTra trial",
+        "authors": [
+          "Carolina Vogel",
+          "Moritz Heyl",
+          "Louis Vollmer",
+          "Julia Schuhmacher",
+          "Johanna Demissie",
+          "Dannik Haas",
+          "Benedikt J. Braun",
+          "Steven C. Herath",
+          "Tina Histing",
+          "Mika F. Rollmann"
+        ],
+        "abstract": "Abstract                                        Background                     Malnutrition is highly prevalent in geriatric trauma patients and is associated with impaired recovery, complications, and reduced likelihood of returning home. Nonetheless, the impact of a targeted protein-enriched diet during the acute hospital stay on patient outcome and rehabilitation remains to be investigated.                                                           Materials and methods                     This single-center randomized controlled study enrolled patients ≥ 70 years with fragility fractures admitted to a Level I trauma center. Nutritional status was assessed using the Nutritional Risk Screening 2002 and Mini Nutritional Assessment. Patients screened positive in ≥ 1 tool were classified as being at nutritional risk and randomized to a protein-enriched diet (Group A) or standard diet (Group B); patients with negative screening served as observational reference group without nutritional risk (Group C). The intervention targeted 1.5–2.0 g/kg/day protein. Primary outcomes were in-hospital medical complications, surgical site infections and functional mobility at discharge. Secondary outcomes included length of stay, discharge destination, and in-hospital mortality. Multinomial logistic regression assessed independent associations with discharge destination.                                                           Results                                            Of the 218 patients (mean age 81.8 ± 6.9 years; 72.0% female), 100 (45.9%) screened positive for being at nutritional risk and were randomized to intervention (A,                       n                        = 46) or control (B,                       n                        = 54), while 118 (54.1%) patients without nutritional risk served as reference group (C). Patients at nutritional risk showed higher comorbidity burdens, higher ASA classes, and greater frailty than group C. Medical complications occurred in 45.0% of patients, with no significant differences between groups. Serum albumin decreased and CRP increased during hospitalization, without differences among the groups. Patients in reference group C were more often independently mobile and discharged home, whereas all patients at nutritional risk more frequently required institutional care. In multivariable analysis, a higher age-adjusted CCI was independently associated with discharge destination, whereas no independent effect of the nutritional intervention was observed.                                                                                Conclusion                     In this geriatric trauma cohort, being at nutritional risk was closely linked to frailty and multimorbidity. A protein-enriched diet during the acute hospital stay did not translate into measurable short-term benefits regarding complications, functional mobility, length of stay or discharge destination. Nutritional risk should therefore be considered within the broader context of overall vulnerability, and nutritional care may need to be embedded in comprehensive longitudinal rehabilitation strategies extending beyond the acute in-hospital phase.                                                           Trial registration                     The study was retrospectively registered at ClinicalTrials.gov on 12 May 2026 (NCT07582575).",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-17",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-18",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08337-2",
+        "doi": "10.1186/s12877-026-08337-2",
+        "url": "https://doi.org/10.1186/s12877-026-08337-2",
+        "title": "Water distribution and phase angle based on bioelectrical impedance analysis: a convenient approach for identifying acute decompensated heart failure with preserved ejection fraction in older adults",
+        "authors": [
+          "Hong Yang",
+          "Hongling Yang",
+          "Jimei Yuan",
+          "Hong Li",
+          "Yunda Huang",
+          "Shengjie Chen",
+          "Feifei Cao",
+          "Wei Chen",
+          "Zhiping Duan"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-17",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-18",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08455-x",
+        "doi": "10.1186/s12877-026-08455-x",
+        "url": "https://doi.org/10.1186/s12877-026-08455-x",
+        "title": "From chronic disease burden to cognitive decline: a systematic review of multimorbidity in older adults",
+        "authors": [
+          "Ahmadreza Khosravifar",
+          "Sarieh Poortaghi",
+          "Pegah Matourypour"
+        ],
+        "abstract": "Abstract                                        Background                     Multimorbidity is common in older adults and has been associated with adverse cognitive outcomes. However, findings remain heterogeneous because of differences in multimorbidity definitions, cognitive measures, and study designs. This review aimed to synthesize evidence on the association between multimorbidity and cognitive outcomes in adults aged ≥ 60 years.                                                           Methods                     Following PRISMA 2020 guidelines, PubMed, Scopus, Web of Science, the Cochrane Library, and gray literature sources were searched up to August 2026. Observational studies examining multimorbidity, defined as ≥ 2 chronic conditions, and cognitive outcomes in adults aged ≥ 60 years were included. Methodological quality was assessed using Joanna Briggs Institute checklists, and findings were synthesized narratively.                                                           Results                     Seventeen studies met the eligibility criteria. Overall, greater multimorbidity burden was generally associated with poorer cognitive outcomes, while several specific multimorbidity patterns, particularly cardiometabolic and cardiovascular patterns, were associated with cognitive impairment, cognitive decline, or dementia. However, some studies reported null or domain-specific associations. Considerable heterogeneity was observed across multimorbidity definitions, cognitive assessments, study designs, populations, and confounding adjustment.                                                           Conclusion                     Multimorbidity may be associated with poorer cognitive outcomes in older adults, but the strength and consistency of the evidence vary across studies. Interpretation is limited by methodological heterogeneity, potential risk of bias, and the observational nature of the evidence. More standardized prospective studies are needed to clarify these associations.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-17",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-18",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08402-w",
+        "doi": "10.1186/s12877-026-08402-w",
+        "url": "https://doi.org/10.1186/s12877-026-08402-w",
+        "title": "Preserving sexual health of older couples: a protocol for a strategic plan",
+        "authors": [
+          "Maryamsadat Rahimi",
+          "Mahnaz Noroozi",
+          "Azimeh Ghorbanian",
+          "Marjan Beigi"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-17",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-18",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08468-6",
+        "doi": "10.1186/s12877-026-08468-6",
+        "url": "https://doi.org/10.1186/s12877-026-08468-6",
+        "title": "Development of an exploratory preoperative laboratory-based score for 24-month mortality after major lower extremity amputation in geriatric diabetic foot patients",
+        "authors": [
+          "Mete Özer",
+          "Yener İnce",
+          "Tolgahan Korkmaz",
+          "Mehmet Ali Talmaç",
+          "Mete Özer"
+        ],
+        "abstract": "Abstract                                        Background                     Major lower extremity amputation for diabetic foot complications is associated with substantial mortality, particularly in older adults. We evaluated whether routinely available preoperative laboratory parameters provide prognostic information for 24-month mortality and developed an exploratory laboratory-based risk score.                                                           Methods                     This retrospective cohort study included 72 patients aged ≥ 65 years who underwent transtibial or transfemoral amputation for diabetic foot complications between January 2021 and June 2023 at a tertiary referral center. Vital status was ascertained through July 31, 2025. Associations with 24-month all-cause mortality were evaluated using Cox proportional hazards regression. A 3-point score was derived from laboratory predictors using receiver operating characteristic analysis and Youden-index-based thresholds. Model discrimination and calibration were assessed, and bootstrap optimism correction was applied to the fixed three-biomarker Cox model. The proposed score was additionally compared with the Prognostic Nutritional Index (PNI), Geriatric Nutritional Risk Index (GNRI), and Hemoglobin–Albumin–Lymphocyte–Platelet (HALP) score.                                                           Results                                            Thirty-nine patients (54.2%) died within 24 months. Kaplan–Meier-estimated 24-month survival was 45.8% (95% CI 34.1–56.8%). In multivariable Cox analysis, higher hemoglobin (adjusted HR 1.302, 95% CI 1.041–1.628;                       p                        = 0.021), lower platelet count (adjusted HR 0.9966, 95% CI 0.9939–0.9994;                       p                        = 0.017), and lower albumin (adjusted HR 0.868, 95% CI 0.813–0.927;                       p                        &lt; 0.001) were independently associated with mortality. One point was assigned for hemoglobin &gt; 10.3 g/dL, platelet count &lt; 342.5 × 10⁹/L, and albumin &lt; 28.5 g/L. Patients with scores ≥ 2 had substantially lower 24-month survival than those with scores 0–1 (8.0% vs. 66.0%; log-rank                       p                        &lt; 0.001). The score had an AUC of 0.798 for 24-month mortality. The underlying Cox model had an optimism-corrected C-index of 0.712. The score showed numerically higher discrimination than GNRI (AUC 0.739) and PNI (0.735), and higher discrimination than HALP (0.590).                                                                                Conclusions                     A simple score based on albumin, hemoglobin, and platelet count showed promising prognostic discrimination for 24-month mortality after major amputation in this geriatric diabetic foot cohort. Quantitative ischemia severity and standardized neuropathy and frailty assessments were unavailable, and the score was derived and evaluated in the same derivation cohort, while bootstrap optimism correction was limited to the fixed three-biomarker Cox model. It should therefore be regarded as exploratory, should not replace comprehensive clinical and vascular assessment, and requires external validation before clinical use.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-17",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-18",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08517-0",
+        "doi": "10.1186/s12877-026-08517-0",
+        "url": "https://doi.org/10.1186/s12877-026-08517-0",
+        "title": "Perceived neighbourhood environment and accelerometer-measured moderate-to-vigorous physical activity among community-dwelling older adults in Hong Kong: a cross-sectional study",
+        "authors": [
+          "Alison Y. T. Ou",
+          "Daniel W.L. Lai",
+          "Yan Sun",
+          "Yang Gao",
+          "Codiez Z.D. Huang",
+          "Zhijing Qu"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-17",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-18",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1215/00703370-12863652",
+        "doi": "10.1215/00703370-12863652",
+        "url": "https://doi.org/10.1215/00703370-12863652",
+        "title": "U.S. State Policy Contexts, County Economic Contexts, and Working-Age Mortality",
+        "authors": [
+          "Iliya Gutin",
+          "Jennifer Karas Montez",
+          "Shannon Monnat",
+          "Emily Wiemers",
+          "Douglas Wolf"
+        ],
+        "abstract": "Highlights                   Jointly modeling state and county contexts reveals synergistic, not independent, mortality associations. Lowest mortality is observed in economically secure counties within liberal-policy states. For males, extreme county economic insecurity yields high mortality regardless of state policy. For males, high labor force participation raises mortality in conservative state contexts. For females, liberal state policies buffer both county economic and labor disadvantages.",
+        "source": "Demography",
+        "issn": "0070-3370",
+        "date": "2026-10-16",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "socialSecurity"
+        ],
+        "firstSeen": "2026-10-17",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1186/s12877-026-08274-0",
         "doi": "10.1186/s12877-026-08274-0",
         "url": "https://doi.org/10.1186/s12877-026-08274-0",
@@ -66497,30 +66903,6 @@
         "domains": [
           "elderCare",
           "agingHealth"
-        ],
-        "firstSeen": "2026-10-17",
-        "fetched_from": "crossref"
-      },
-      {
-        "id": "doi:10.1215/00703370-12863652",
-        "doi": "10.1215/00703370-12863652",
-        "url": "https://doi.org/10.1215/00703370-12863652",
-        "title": "U.S. State Policy Contexts, County Economic Contexts, and Working-Age Mortality",
-        "authors": [
-          "Iliya Gutin",
-          "Jennifer Karas Montez",
-          "Shannon Monnat",
-          "Emily Wiemers",
-          "Douglas Wolf"
-        ],
-        "abstract": "Highlights                   Jointly modeling state and county contexts reveals synergistic, not independent, mortality associations. Lowest mortality is observed in economically secure counties within liberal-policy states. For males, extreme county economic insecurity yields high mortality regardless of state policy. For males, high labor force participation raises mortality in conservative state contexts. For females, liberal state policies buffer both county economic and labor disadvantages.",
-        "source": "Demography",
-        "issn": "0070-3370",
-        "date": "2026-10-16",
-        "subjects": [],
-        "domains": [
-          "agingHealth",
-          "socialSecurity"
         ],
         "firstSeen": "2026-10-17",
         "fetched_from": "crossref"
@@ -96104,9 +96486,9 @@
   },
   "totals": {
     "socialSecurity": 1574,
-    "elderCare": 620,
-    "healthReform": 968,
-    "agingHealth": 903,
+    "elderCare": 626,
+    "healthReform": 972,
+    "agingHealth": 909,
     "socialWork": 324
   },
   "feeds_ok": 41
