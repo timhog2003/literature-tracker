@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-18",
-  "fetched": "2026-10-18T06:12:50+00:00",
+  "date": "2026-10-19",
+  "fetched": "2026-10-19T06:26:55+00:00",
   "domains": {
     "socialSecurity": [
       {
@@ -24307,6 +24307,107 @@
       }
     ],
     "elderCare": [
+      {
+        "id": "doi:10.1111/jgs.70793",
+        "doi": "10.1111/jgs.70793",
+        "url": "https://doi.org/10.1111/jgs.70793",
+        "title": "Artificial Intelligence‐Assisted Ultrasound for Sarcopenia Assessment: A Scoping Review",
+        "authors": [
+          "Weikang Jiang",
+          "Jianguo Sheng",
+          "Wanqiong Zhou",
+          "Yan Zhang",
+          "Ying Wang",
+          "Jing Wang",
+          "Wei Luan"
+        ],
+        "abstract": "ABSTRACT                                        Background                     Muscle ultrasound offers a portable, non‐invasive, and cost‐effective option for sarcopenia assessment, but operator dependency limits its standardization. Artificial intelligence (AI) may help automate and improve ultrasound‐based muscle evaluation. This scoping review aims to map the current landscape of AI‐assisted ultrasound for sarcopenia assessment, including research trends, methods, clinical uses and performance, and to suggest future work.                                                           Methods                     Following Joanna Briggs Institute guidelines and the PRISMA‐ScR checklist, we searched PubMed, Embase, Web of Science, the Cochrane Library, CINAHL, ProQuest, CNKI, WanFang Data, Yiigle, VIP, and Sinomed up to July 25, 2026. Two researchers independently selected studies and extracted data.                                                           Results                     Thirty studies were included. This field is developing rapidly, with 76.7% of studies published in the last 3 years, primarily from Spain and China. Model development and validation studies (43.3%) were most common. U‐Net and its variants were the predominant AI architectures, mainly for image segmentation. B‐mode ultrasound with high‐frequency linear probes was frequently used. The rectus femoris was the most assessed muscle for sarcopenia (73.3%). AI‐integrated models for sarcopenia diagnosis achieved AUCs of 0.640–0.950. Reported Dice coefficients for muscle segmentation ranged from 0.73 to 0.99. In‐house datasets were used in 66.7% of the studies, and global classification labels were the most frequent annotation strategy (46.7%).                                                           Conclusions                     AI‐assisted ultrasound shows potential for objective and scalable sarcopenia assessment but remains early‐stage. Operator dependency in image acquisition has not been fully resolved. Further investigation should determine the added value of integrating multimodal imaging, combining diverse AI techniques, and evaluating multiple muscle groups. Future efforts should deepen image‐processing strategies to extract clinically relevant features and facilitate standardized, scalable implementation in clinical practice.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-10-18",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-19",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70796",
+        "doi": "10.1111/jgs.70796",
+        "url": "https://doi.org/10.1111/jgs.70796",
+        "title": "Beyond Sepsis Survival: Post‐Acute Vulnerability Profiles in Older Home Health Patients",
+        "authors": [
+          "Sang Bin You",
+          "Jiyoun Song",
+          "Miriam Ryvicker",
+          "Yolanda Barrón",
+          "Ryan Quinn",
+          "Jesse Y. Hsu",
+          "Mary D. Naylor",
+          "Karen B. Lasater",
+          "Kathryn H. Bowles"
+        ],
+        "abstract": "ABSTRACT                                        Background                     Older sepsis survivors face elevated rehospitalization risk shaped by multimorbidity and post‐sepsis vulnerability, yet traditional risk models evaluate these factors in isolation. To identify clinically meaningful profiles of coexisting rehospitalization risk factors among older sepsis survivors receiving home health care (HHC), we used clustering to characterize risk subgroups and examined their association with 30‐day rehospitalization.                                                           Methods                     A retrospective cohort study of Medicare fee‐for‐service beneficiaries aged 65 years or older who transitioned to HHC after hospitalization for sepsis between January 1, 2021 and December 31, 2022 in the United States. Partitioning around medoids clustering with Gower distance was used to identify risk clusters based on risk factors available during the index hospitalization and first post‐discharge HHC assessment. Multivariable logistic regression examined associations between cluster membership and all‐cause 30‐day rehospitalization, adjusting for contextual, HHC agency, and service delivery factors.                                                           Results                                            Among 21,888 index stays, two rehospitalization risk clusters were identified. Both clusters demonstrated post‐acute vulnerability after sepsis hospitalization but differed in intensity and breadth of impairments. The higher vulnerability cluster had greater functional dependency, cognitive and behavioral impairment, urinary and bowel incontinence, difficulty following medical instructions, and prior healthcare utilization. Compared with the lower post‐acute vulnerability cluster, the higher post‐acute vulnerability cluster had a higher 30‐day rehospitalization rate (27.8% vs. 21.1%;                       p                        &lt; 0.001) and significantly higher odds of 30‐day rehospitalization in unadjusted (OR 1.492; 95% CI 1.400–1.589;                       p                        &lt; 0.001) and adjusted analyses (aOR 1.480; 95% CI 1.384–1.582;                       p                        &lt; 0.001).                                                                                Conclusion                     Among older sepsis survivors receiving HHC, rehospitalization risk clustered into two post‐acute vulnerability profiles that primarily reflected differences in the overall extent of multidimensional vulnerability. These profiles may help characterize co‐occurring post‐acute needs and support future evaluation of whether cluster‐informed care coordination or stratified post‐acute care can improve outcomes.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-10-18",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-19",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70785",
+        "doi": "10.1111/jgs.70785",
+        "url": "https://doi.org/10.1111/jgs.70785",
+        "title": "Editor's Note on Home‐Based Medical Care in Traditional Medicare vs. Medicare Advantage Among Older Adults With Alzheimer's Disease and Related Dementias",
+        "authors": [
+          "Michael L. Malone"
+        ],
+        "abstract": "",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-10-18",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-19",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70781",
+        "doi": "10.1111/jgs.70781",
+        "url": "https://doi.org/10.1111/jgs.70781",
+        "title": "Home‐Based Medical Care in Traditional Medicare vs. Medicare Advantage Among Older Adults With Alzheimer's Disease and Related Dementias",
+        "authors": [
+          "Mia Yang",
+          "Stephanie K. Nothelle",
+          "Bruce Kinosian",
+          "Lindsey Abdelfattah",
+          "Michael P. Bancks",
+          "Zhang Zhang",
+          "Emilie D. Duchesneau",
+          "Amresh D. Hanchate"
+        ],
+        "abstract": "ABSTRACT                                        Background                     As Alzheimer's disease and related dementias (ADRD) progress, many people become homebound and depend on home‐based medical care (HBMC), but differences in HBMC, telemedicine, and office visits between Traditional Medicare (TM) and Medicare Advantage (MA) plans are not well understood.                                                           Methods                     We analyzed 2021–2022 Medicare claims and encounter data to categorize 2022 outpatient visits for community‐living TM and MA enrollees with ADRD as HBMC, telemedicine, or office‐based. We summarized HBMC recipient characteristics by plan type and used Poisson regression with inverse weights of propensity of plan enrollment and regional fixed effects to compare TM and MA enrollees on visit counts, usage incidence, and visit intensity by visit modality. We also examined differences by comorbidity burden, frailty, dual Medicaid eligibility, race and ethnicity, and major MA plans.                                                           Results                     Out of 49,194 TM and 47,830 MA enrollees with ADRD, MA enrollees had fewer overall visits (TM = 8.89; MA = 7.97) and HBMC visits (TM = 2.09; MA = 1.37) compared to TM enrollees. Adjusted analyses showed that the number of HBMC visits was 25% lower (IRR = 0.75; 95% CI, 0.69–0.81) in MA compared to TM, arising from 19% and 7% lower user incidence and visit intensity, respectively. Office visits were 6% lower (IRR = 0.94; 95% CI, 0.91–0.96), telemedicine visits were similar (IRR = 1.02; 95% CI, 0.95–1.10), and overall visits were 10% lower (IRR = 0.90; 95% CI, 0.88–0.93) in MA relative to TM. Relative to TM, HBMC visits were lower in MA by a larger margin among non‐Hispanic Black (47%), Hispanic (67%), and dual Medicaid‐eligible (42%) MA enrollees. Within MA, HBMC visits were 27% higher (IRR = 1.27; 95% CI, 1.09–1.48) in PPO plans relative to HMO plans.                                                           Conclusions                     HBMC user incidence and visit intensity were higher in TM than MA among enrollees with ADRD. The findings underscore the need for research and targeted interventions to ensure adequate and equitable access to HBMC services.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-10-18",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-19",
+        "fetched_from": "crossref"
+      },
       {
         "id": "doi:10.1186/s12877-026-08506-3",
         "doi": "10.1186/s12877-026-08506-3",
@@ -66428,6 +66529,107 @@
         "fetched_from": "crossref"
       },
       {
+        "id": "doi:10.1111/jgs.70793",
+        "doi": "10.1111/jgs.70793",
+        "url": "https://doi.org/10.1111/jgs.70793",
+        "title": "Artificial Intelligence‐Assisted Ultrasound for Sarcopenia Assessment: A Scoping Review",
+        "authors": [
+          "Weikang Jiang",
+          "Jianguo Sheng",
+          "Wanqiong Zhou",
+          "Yan Zhang",
+          "Ying Wang",
+          "Jing Wang",
+          "Wei Luan"
+        ],
+        "abstract": "ABSTRACT                                        Background                     Muscle ultrasound offers a portable, non‐invasive, and cost‐effective option for sarcopenia assessment, but operator dependency limits its standardization. Artificial intelligence (AI) may help automate and improve ultrasound‐based muscle evaluation. This scoping review aims to map the current landscape of AI‐assisted ultrasound for sarcopenia assessment, including research trends, methods, clinical uses and performance, and to suggest future work.                                                           Methods                     Following Joanna Briggs Institute guidelines and the PRISMA‐ScR checklist, we searched PubMed, Embase, Web of Science, the Cochrane Library, CINAHL, ProQuest, CNKI, WanFang Data, Yiigle, VIP, and Sinomed up to July 25, 2026. Two researchers independently selected studies and extracted data.                                                           Results                     Thirty studies were included. This field is developing rapidly, with 76.7% of studies published in the last 3 years, primarily from Spain and China. Model development and validation studies (43.3%) were most common. U‐Net and its variants were the predominant AI architectures, mainly for image segmentation. B‐mode ultrasound with high‐frequency linear probes was frequently used. The rectus femoris was the most assessed muscle for sarcopenia (73.3%). AI‐integrated models for sarcopenia diagnosis achieved AUCs of 0.640–0.950. Reported Dice coefficients for muscle segmentation ranged from 0.73 to 0.99. In‐house datasets were used in 66.7% of the studies, and global classification labels were the most frequent annotation strategy (46.7%).                                                           Conclusions                     AI‐assisted ultrasound shows potential for objective and scalable sarcopenia assessment but remains early‐stage. Operator dependency in image acquisition has not been fully resolved. Further investigation should determine the added value of integrating multimodal imaging, combining diverse AI techniques, and evaluating multiple muscle groups. Future efforts should deepen image‐processing strategies to extract clinically relevant features and facilitate standardized, scalable implementation in clinical practice.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-10-18",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-19",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70796",
+        "doi": "10.1111/jgs.70796",
+        "url": "https://doi.org/10.1111/jgs.70796",
+        "title": "Beyond Sepsis Survival: Post‐Acute Vulnerability Profiles in Older Home Health Patients",
+        "authors": [
+          "Sang Bin You",
+          "Jiyoun Song",
+          "Miriam Ryvicker",
+          "Yolanda Barrón",
+          "Ryan Quinn",
+          "Jesse Y. Hsu",
+          "Mary D. Naylor",
+          "Karen B. Lasater",
+          "Kathryn H. Bowles"
+        ],
+        "abstract": "ABSTRACT                                        Background                     Older sepsis survivors face elevated rehospitalization risk shaped by multimorbidity and post‐sepsis vulnerability, yet traditional risk models evaluate these factors in isolation. To identify clinically meaningful profiles of coexisting rehospitalization risk factors among older sepsis survivors receiving home health care (HHC), we used clustering to characterize risk subgroups and examined their association with 30‐day rehospitalization.                                                           Methods                     A retrospective cohort study of Medicare fee‐for‐service beneficiaries aged 65 years or older who transitioned to HHC after hospitalization for sepsis between January 1, 2021 and December 31, 2022 in the United States. Partitioning around medoids clustering with Gower distance was used to identify risk clusters based on risk factors available during the index hospitalization and first post‐discharge HHC assessment. Multivariable logistic regression examined associations between cluster membership and all‐cause 30‐day rehospitalization, adjusting for contextual, HHC agency, and service delivery factors.                                                           Results                                            Among 21,888 index stays, two rehospitalization risk clusters were identified. Both clusters demonstrated post‐acute vulnerability after sepsis hospitalization but differed in intensity and breadth of impairments. The higher vulnerability cluster had greater functional dependency, cognitive and behavioral impairment, urinary and bowel incontinence, difficulty following medical instructions, and prior healthcare utilization. Compared with the lower post‐acute vulnerability cluster, the higher post‐acute vulnerability cluster had a higher 30‐day rehospitalization rate (27.8% vs. 21.1%;                       p                        &lt; 0.001) and significantly higher odds of 30‐day rehospitalization in unadjusted (OR 1.492; 95% CI 1.400–1.589;                       p                        &lt; 0.001) and adjusted analyses (aOR 1.480; 95% CI 1.384–1.582;                       p                        &lt; 0.001).                                                                                Conclusion                     Among older sepsis survivors receiving HHC, rehospitalization risk clustered into two post‐acute vulnerability profiles that primarily reflected differences in the overall extent of multidimensional vulnerability. These profiles may help characterize co‐occurring post‐acute needs and support future evaluation of whether cluster‐informed care coordination or stratified post‐acute care can improve outcomes.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-10-18",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-19",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70785",
+        "doi": "10.1111/jgs.70785",
+        "url": "https://doi.org/10.1111/jgs.70785",
+        "title": "Editor's Note on Home‐Based Medical Care in Traditional Medicare vs. Medicare Advantage Among Older Adults With Alzheimer's Disease and Related Dementias",
+        "authors": [
+          "Michael L. Malone"
+        ],
+        "abstract": "",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-10-18",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-19",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70781",
+        "doi": "10.1111/jgs.70781",
+        "url": "https://doi.org/10.1111/jgs.70781",
+        "title": "Home‐Based Medical Care in Traditional Medicare vs. Medicare Advantage Among Older Adults With Alzheimer's Disease and Related Dementias",
+        "authors": [
+          "Mia Yang",
+          "Stephanie K. Nothelle",
+          "Bruce Kinosian",
+          "Lindsey Abdelfattah",
+          "Michael P. Bancks",
+          "Zhang Zhang",
+          "Emilie D. Duchesneau",
+          "Amresh D. Hanchate"
+        ],
+        "abstract": "ABSTRACT                                        Background                     As Alzheimer's disease and related dementias (ADRD) progress, many people become homebound and depend on home‐based medical care (HBMC), but differences in HBMC, telemedicine, and office visits between Traditional Medicare (TM) and Medicare Advantage (MA) plans are not well understood.                                                           Methods                     We analyzed 2021–2022 Medicare claims and encounter data to categorize 2022 outpatient visits for community‐living TM and MA enrollees with ADRD as HBMC, telemedicine, or office‐based. We summarized HBMC recipient characteristics by plan type and used Poisson regression with inverse weights of propensity of plan enrollment and regional fixed effects to compare TM and MA enrollees on visit counts, usage incidence, and visit intensity by visit modality. We also examined differences by comorbidity burden, frailty, dual Medicaid eligibility, race and ethnicity, and major MA plans.                                                           Results                     Out of 49,194 TM and 47,830 MA enrollees with ADRD, MA enrollees had fewer overall visits (TM = 8.89; MA = 7.97) and HBMC visits (TM = 2.09; MA = 1.37) compared to TM enrollees. Adjusted analyses showed that the number of HBMC visits was 25% lower (IRR = 0.75; 95% CI, 0.69–0.81) in MA compared to TM, arising from 19% and 7% lower user incidence and visit intensity, respectively. Office visits were 6% lower (IRR = 0.94; 95% CI, 0.91–0.96), telemedicine visits were similar (IRR = 1.02; 95% CI, 0.95–1.10), and overall visits were 10% lower (IRR = 0.90; 95% CI, 0.88–0.93) in MA relative to TM. Relative to TM, HBMC visits were lower in MA by a larger margin among non‐Hispanic Black (47%), Hispanic (67%), and dual Medicaid‐eligible (42%) MA enrollees. Within MA, HBMC visits were 27% higher (IRR = 1.27; 95% CI, 1.09–1.48) in PPO plans relative to HMO plans.                                                           Conclusions                     HBMC user incidence and visit intensity were higher in TM than MA among enrollees with ADRD. The findings underscore the need for research and targeted interventions to ensure adequate and equitable access to HBMC services.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-10-18",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-19",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1186/s12877-026-08506-3",
         "doi": "10.1186/s12877-026-08506-3",
         "url": "https://doi.org/10.1186/s12877-026-08506-3",
@@ -89169,6 +89371,28 @@
     ],
     "socialWork": [
       {
+        "id": "doi:10.1093/bjsw/bcag258",
+        "doi": "10.1093/bjsw/bcag258",
+        "url": "https://doi.org/10.1093/bjsw/bcag258",
+        "title": "Perceived stress, compassion satisfaction, secondary traumatic stress, and burnout among social workers in Spain",
+        "authors": [
+          "Rogelio Gómez-García",
+          "Jezabel Lucas-García",
+          "Siro Bayón-Calvo",
+          "Alfonso Marquina-Márquez"
+        ],
+        "abstract": "Abstract                   This study estimates the prevalence of perceived stress, compassion satisfaction, secondary traumatic stress and burnout among social workers in Spain, examining their associations with selected individual and organizational characteristics within the job demands–resources framework. Between March and May 2021, a cross-sectional online survey was conducted with 1,123 practising social workers from all Spanish autonomous communities. Descriptive analyses were used to estimate prevalence, while multiple linear regressions with backward elimination examined the associations with self-rated health and key sociodemographic and occupational characteristics. High perceived stress was reported by 15.9% of participants, while high secondary traumatic stress and burnout were reported by 46.7% and 40.8% respectively. Poorer self-rated health was the factor most consistently associated with higher levels of perceived stress, secondary traumatic stress, and burnout and lower compassion satisfaction. Working in general social services and in private organizations was also associated with less favourable outcomes. These findings provide evidence from a Southern European welfare context.",
+        "source": "The British Journal of Social Work",
+        "issn": "0045-3102",
+        "date": "2026-10-18",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-19",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1093/bjsw/bcag265",
         "doi": "10.1093/bjsw/bcag265",
         "url": "https://doi.org/10.1093/bjsw/bcag265",
@@ -96486,10 +96710,10 @@
   },
   "totals": {
     "socialSecurity": 1574,
-    "elderCare": 626,
+    "elderCare": 630,
     "healthReform": 972,
-    "agingHealth": 909,
-    "socialWork": 324
+    "agingHealth": 913,
+    "socialWork": 325
   },
   "feeds_ok": 41
 }
