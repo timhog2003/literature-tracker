@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-19",
-  "fetched": "2026-10-19T06:26:55+00:00",
+  "date": "2026-10-20",
+  "fetched": "2026-10-20T06:14:11+00:00",
   "domains": {
     "socialSecurity": [
       {
@@ -24308,6 +24308,318 @@
     ],
     "elderCare": [
       {
+        "id": "doi:10.1093/gerona/glag250",
+        "doi": "10.1093/gerona/glag250",
+        "url": "https://doi.org/10.1093/gerona/glag250",
+        "title": "Abdominal ultrasound mitigates neurodegenerative pathology and alters specific gut microbial taxa in senescence-accelerated mice",
+        "authors": [
+          "Hanlin Jiang",
+          "Tingrui Zhao",
+          "Xiaochen Zhang",
+          "Hideki Moriyama"
+        ],
+        "abstract": "Abstract                   Age-related changes in gut microbiota composition have been implicated in brain aging and cognitive decline, acting through the gut-brain axis on amyloid accumulation, tau pathology, synapse damage, and glial activation. Live microbial approaches such as probiotics, prebiotics, and fecal microbiota transplantation address this mechanism, but they still suffer from low efficacy and unknown safety issues. We tested whether abdominal ultrasound, an approach that does not involve microbes, can alleviate age-related neurodegeneration in the senescence-accelerated mouse strain SAMP8. We treated 6-month-old male SAMP8 mice for 1 month. We then assessed behavior, neuropathology, and synaptic proteins, and quantified four pre-specified fecal bacterial taxa. Ultrasound preserved neuronal survival in the hippocampal CA3, decreased amyloid-β load in the cortex and CA3, decreased tau hyperphosphorylation in all three regions, reduced Iba-1 and GFAP immunoreactive areas, and increased synaptophysin and cortical PSD-95. Neuronal survival in the cortex and CA1 did not differ significantly from sham-treated SAMP8 mice. In the gut microbiota, ultrasound significantly reduced the enriched taxon Tyzzerella, whereas the changes in Lactobacillus, Akkermansia and Atopobiaceae were large in magnitude but not statistically significant. In an exploratory analysis, four of 64 microbiota–neuropathology associations survived correction for multiple testing. Neither object recognition memory nor spatial memory differed significantly between treated and sham-treated SAMP8 mice. Abdominal ultrasound applied to the periphery therefore reduced age-associated neuropathology in the brain, accompanied by changes in specific gut microbial taxa whose causal contribution remains untested.",
+        "source": "The Journals of Gerontology, Series A: Biological Sciences and Medical Sciences",
+        "issn": "1079-5006",
+        "date": "2026-10-19",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "elderCare"
+        ],
+        "firstSeen": "2026-10-20",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70773",
+        "doi": "10.1111/jgs.70773",
+        "url": "https://doi.org/10.1111/jgs.70773",
+        "title": "A Scoping Review on Decision‐Making Interventions for Kidney Failure Treatment Options by the Kidney Disease Aging Research Collaborative",
+        "authors": [
+          "Maya N. Clark‐Cutaia",
+          "Ilana Mittleman",
+          "Juliana Magro",
+          "Catherine R. Butler",
+          "Nidhi Ghildayal",
+          "Laura Kimberly",
+          "Samantha Klitenic",
+          "Manjula Kurella Tamura",
+          "Semra Ozdemir",
+          "Tiffany R. Washington",
+          "Malika Wilson",
+          "Mara McAdams‐DeMarco",
+          "Rasheeda K. Hall"
+        ],
+        "abstract": "ABSTRACT                                        Background                     Patients with kidney disease face complex treatment decisions amid prognostic uncertainty. These decisions may be particularly challenging for older adults, who often experience cognitive and functional changes and rely on caregivers. However, limited evidence describes treatment decision‐making interventions for older adults, including the decision points addressed, use of decision aids, and geriatric‐relevant SDM features, including caregiver involvement, values clarification, multiple touchpoints, and prognostic information.                                                           Methods                     We conducted a scoping review of studies examining kidney failure treatment decision‐making interventions that included ≥ 1 older patient(s) (≥ 65) with advanced kidney disease. We searched seven databases from inception through 4/2026. We characterized interventions by decision point, type of decision support provided, outcomes, exclusive enrollment of older adults, and presence of geriatric‐relevant SDM features.                                                           Results                     We identified 32 studies (of 2060 screened), representing 26 interventions. Seven interventions examined conservative kidney management versus dialysis, five dialysis modality, five dialysis versus transplant, and nine multiple treatment options. Among these, 11 (42%) included caregivers, 20 (77%) had multiple touchpoints, 19 (73%) included values clarification, and 12 (46%) incorporated prognostic data. Most interventions (22, 85%) incorporated decision aids. Of 137 outcomes reported, 13 (9%) were clinical. Nine interventions (35%) were evaluated exclusively among older adults.                                                           Conclusions                     Patient decision aids were common in kidney failure treatment decision‐making interventions, but incorporation of geriatric‐relevant SDM features varied across decision points, and few interventions were evaluated exclusively among older adults. Future interventions should tailor geriatric‐relevant SDM features to specific treatment decisions to best support older adults in making kidney failure treatment decisions.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-10-19",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-20",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70791",
+        "doi": "10.1111/jgs.70791",
+        "url": "https://doi.org/10.1111/jgs.70791",
+        "title": "Caregiving Relationships, Advance Care Planning, and Hospice Use in Later Life",
+        "authors": [
+          "Yanjun Dong",
+          "Hillary D. Lum"
+        ],
+        "abstract": "ABSTRACT                                        Background                     Little is known about whether primary caregiver relationship is associated with hospice use or advance care planning (ACP) in later life. This study examined variation in hospice use and ACP across primary caregiver relationships.                                                           Methods                     Gateway Harmonized Health and Retirement Study End‐of‐Life data were restricted to Wave 12 and later. The sample included 3952 decedents aged 60 years or older. Caregiving category identified the primary caregiver as spouse/partner, child/grandchild, extended family, or non‐kin informal, with formal care only and no identified caregiver as additional categories. Multivariable logistic regression estimated hospice use; a joint Wald test assessed overall differences across four informal primary‐caregiver categories, and probability‐scale decomposition examined indirect associations through ACP.                                                           Results                     Among decedents with an identified informal primary caregiver, hospice use did not vary overall by caregiver relationship. Relative to spouse/partner primary caregiving, hospice use was lower among decedents with no identified caregiver (OR, 0.46) and those receiving formal care only (OR, 0.62), while child/grandchild primary caregiving was associated with a 3.87‐percentage‐point higher probability of ACP. The indirect association through ACP for child/grandchild primary caregiving was small (0.39 percentage points).                                                           Conclusions                     Hospice use was not concentrated within a particular informal primary caregiver relationship, whereas differences by caregiver relationship were more apparent in ACP. These findings highlight a distinction between care planning and eventual service use and suggest that caregiver availability and broader caregiving circumstances may be important to consider alongside relationship type.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-10-19",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-20",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70809",
+        "doi": "10.1111/jgs.70809",
+        "url": "https://doi.org/10.1111/jgs.70809",
+        "title": "The Sounds Remain",
+        "authors": [
+          "Mira Mahishi",
+          "Preaksha Garg",
+          "Anupama Gangavati"
+        ],
+        "abstract": "",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-10-19",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-20",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08513-4",
+        "doi": "10.1186/s12877-026-08513-4",
+        "url": "https://doi.org/10.1186/s12877-026-08513-4",
+        "title": "Association of glycemic and metabolic biomarkers with cognitive impairment and dementia among elderly patients with diabetes: a systematic review and a dose-response meta-analysis",
+        "authors": [
+          "Fang Liu",
+          "Pei Zhang",
+          "Guangxia Wu",
+          "Shuna Zhai",
+          "Jing Zhang",
+          "Xiujuan Yu",
+          "Chunhong Shen",
+          "Ruowei Wang"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-19",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-20",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08522-3",
+        "doi": "10.1186/s12877-026-08522-3",
+        "url": "https://doi.org/10.1186/s12877-026-08522-3",
+        "title": "Barriers to sustaining physical activity among community-dwelling older adults with Motoric Cognitive Risk Syndrome: a qualitative study of the intention-behaviour gap",
+        "authors": [
+          "Xiaodie Yang",
+          "Dayu Tang",
+          "Li Yin",
+          "Zhangxiangxiang Zheng",
+          "Han Wang",
+          "Meijuan Lan",
+          "Guanjun Li",
+          "Liying Ying"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-19",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-20",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08523-2",
+        "doi": "10.1186/s12877-026-08523-2",
+        "url": "https://doi.org/10.1186/s12877-026-08523-2",
+        "title": "Older adults’ intention to adopt smart age-friendly home modifications: service feasibility, technology trust, and aging-in-place confidence",
+        "authors": [
+          "Mingzhu Li",
+          "Junjie Shu",
+          "Fangyuan Chang",
+          "Tao Peng",
+          "Xingyan Chen",
+          "YiQiang Wu",
+          "Tao Tao"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-19",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-20",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08521-4",
+        "doi": "10.1186/s12877-026-08521-4",
+        "url": "https://doi.org/10.1186/s12877-026-08521-4",
+        "title": "Frailty trajectories and hip fracture risk in older Chinese adults: a prospective cohort study with competing risk analysis",
+        "authors": [
+          "Yihan Yan",
+          "Minchang Chen",
+          "Jialin Xia",
+          "Liping Shen"
+        ],
+        "abstract": "Abstract                                        Background                     Frailty is associated with hip fractures in older adults. However, frailty is a dynamic process, longitudinal trajectories may provide complementary descriptive insights. The exploratory association between frailty trajectories and hip fracture risk remains uncertain, particularly in older Chinese adults.                                                           Methods                     We analyzed longitudinal data from 3,868 community-dwelling Chinese adults aged ≥ 65 years in the China Health and Retirement Longitudinal Study (CHARLS). Frailty was assessed using the CHARLS modified frailty index (CMFI). Latent class mixed models were used descriptively to characterize frailty trajectories. The primary risk analysis used baseline CMFI, measured before follow-up, to evaluate associations with incident hip fractures using cause-specific Cox and Fine-Gray models. Restricted cubic splines were employed to explore nonlinear relationships. Associations between frailty trajectory class and hip fracture were also examined as exploratory analyses.                                                           Results                     During a median follow-up of 7.2 years, 225 incident hip fractures occurred. Two frailty trajectory patterns were identified descriptively: slow-rising and fast-rising. The primary finding was that each 0.1-unit increase in baseline CMFI was associated with a 32% higher risk (HR = 1.32, 95% CI: 1.19–1.46), and this association persisted after accounting for the competing risk of death (SHR = 1.19, 95% CI: 1.07–1.31). A non-linear relationship was observed, suggesting a possible attenuation of the association at higher frailty levels. The associations were generally consistent across the subgroups. In exploratory analyses, the fast-rising trajectory was associated with a higher hazard of hip fracture (HR = 2.39, 95% CI: 1.77–3.23; SHR = 2.05, 95% CI: 1.49–2.84).                                                           Conclusions                     Higher baseline frailty was independently associated with a higher risk of hip fracture. The fast-rising trajectory showed a higher hazard in descriptive analyses but requires time-varying validation. Dynamic frailty monitoring may aid risk stratification, pending future time-varying and external validation.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-19",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-20",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08432-4",
+        "doi": "10.1186/s12877-026-08432-4",
+        "url": "https://doi.org/10.1186/s12877-026-08432-4",
+        "title": "The association between family resilience and learned helplessness among hospitalized older adults with chronic multimorbidity in Xinjiang, China: a latent profile and computer-simulated network analysis",
+        "authors": [
+          "Weilong Wang",
+          "Zhengwei Luo",
+          "Runjia Zhang",
+          "Yongle Pei",
+          "Jiaqi Deng",
+          "Xuexia Yang",
+          "Xiaoxuan He",
+          "Jingwen Cai",
+          "Bo Zhang",
+          "Shufeng Ren",
+          "Qianqian Jia",
+          "Wen Cai"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-19",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-20",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08491-7",
+        "doi": "10.1186/s12877-026-08491-7",
+        "url": "https://doi.org/10.1186/s12877-026-08491-7",
+        "title": "Outdoor cycling competence and balance control in older adults – cross-sectional analysis of the BiPerAge trial",
+        "authors": [
+          "Jana Rogler",
+          "Sebastian Krumpoch",
+          "Ellen Freiberger",
+          "Noam Margalit",
+          "Roee Zehavi",
+          "Itshak Melzer",
+          "Sharon Barak",
+          "Amir Shapiro",
+          "Dikla Judchak Amir",
+          "Shira Levi",
+          "Omri Lubovsky",
+          "Robert Kob"
+        ],
+        "abstract": "Abstract                                        Background                     Although cycling offers numerous health benefits, age-related functional decline can increase the risk of accidents. Identifying balance components linked to outdoor cycling competence could inform targeted assessment and training. We aimed to exploratorily investigate the association between outdoor cycling competence and static, dynamic, and reactive balance control in older adults.                                                           Methods                     In this exploratory cross-sectional analysis of baseline data from a two-center randomized controlled trial, 116 community-dwelling adults aged ≥ 65 years with ≥ 3 errors on a standardized outdoor cycling course completed a balance test battery: Short Physical Performance Battery (SPPB), including gait speed, Modified Balance Error Scoring System (MBESS) and Four Square Step Test (FSST). Cycling-specific trunk balance was assessed with the Perturbation Stationary Bicycle Robotics (PerStBiRo) system, which delivers unannounced angular-tilt perturbations during stationary cycling. We derived mediolateral (ML) trunk sway during unperturbed cycling (UPC) and trunk time-to-peak angle (s) and trunk sway (°) during perturbed cycling (PC). Spearman correlations and multivariable models adjusted for age, sex and country were used to examine associations with the number of errors in the standardized outdoor cycling course.                                                           Results                                            Participants (mean age 74.0 ± 5.4 years; 53% women) made 13.1 ± 8.0 errors on the outdoor cycling course. In bivariate analyses, more outdoor cycling errors were weakly associated with more total errors on the MBESS (r                       s                       = 0.213,                       p                        = 0.022), slower gait speed (r                       s                       = -0.203,                       p                        = 0.029), greater ML trunk sway during UPC (r                       s                       = 0.246,                       p                        = 0.009), shorter trunk time-to-peak angle (r                       s                       = -0.289,                       p                        = 0.002) and lower trunk sway in PC (r                       s                       = -0.295,                       p                        = 0.002). In multivariable analyses, longer FSST time (B = 1.28 [95% CI 0.39, 2.17],                       p                        = 0.005) and greater trunk sway during UPC (B = 2.68 [0.60, 4.77],                       p                        = 0.012) were independently associated with more cycling errors.                                                                                Conclusions                     This study shows weak associations between outdoor cycling competence and dynamic balance control during both UPC and FSST. Low trunk sway during UPC on the PerStBiRo is weakly associated with better outdoor cycling competence. These findings could be further evaluated in future studies aiming to improve outdoor cycling competence.                                                           Trial registration                                            This is a retrospective analysis of BiPerAge study data registered at clinicaltrials.gov: NCT06453473 (initial submission: 11/06/2024), link:                       https://clinicaltrials.gov/study/NCT06453473                       .",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-19",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-20",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08510-7",
+        "doi": "10.1186/s12877-026-08510-7",
+        "url": "https://doi.org/10.1186/s12877-026-08510-7",
+        "title": "Low balance confidence in relation to strength training, walking, sitting, and physical function among women aged 75–105 years: a cross-sectional study within the Women’s Health Initiative Strong and Healthy (WHISH) Intervention Cohort",
+        "authors": [
+          "Corey M. Rovzar",
+          "Saachi Jhandi",
+          "Sally Mackey",
+          "Deepika Laddu",
+          "Sa Shen",
+          "Andrea La Croix",
+          "Marcia L. Stefanick"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-19",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-20",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08530-3",
+        "doi": "10.1186/s12877-026-08530-3",
+        "url": "https://doi.org/10.1186/s12877-026-08530-3",
+        "title": "Investigating the effect of using digital stories on treatment adherence in elderly patients with hypertension: an experimental study",
+        "authors": [
+          "Seyyed Amir Khatami",
+          "Zahra Amouzeshi",
+          "Afagh Zarei",
+          "Mitra Moodi"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-19",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-20",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1111/jgs.70793",
         "doi": "10.1111/jgs.70793",
         "url": "https://doi.org/10.1111/jgs.70793",
@@ -40214,6 +40526,343 @@
           "healthReform"
         ],
         "firstSeen": "2026-09-26",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.18449",
+        "doi": "10.1001/jama.2026.18449",
+        "url": "https://doi.org/10.1001/jama.2026.18449",
+        "title": "A Common\n                    <i>CD36</i>\n                    Variant and the Genetic Landscape of Dilated Cardiomyopathy in Individuals of African Ancestry",
+        "authors": [
+          "Saketh P. Challa",
+          "Kiran J. Biddinger",
+          "Sarah A. Abramowitz",
+          "Alice Zheng",
+          "Jonathan O. Mead",
+          "Renae L. Judy",
+          "Sean J. Jurgens",
+          "Liam Gaziano",
+          "Xin Wang",
+          "Seung Hoan Choi",
+          "Jennifer Halford",
+          "Elizabeth Jordan",
+          "Joseph Liu",
+          "Kyong-Mi Chang",
+          "Amanda Vest",
+          "W. H. Wilson Tang",
+          "Philip S. Tsao",
+          "Daniel D. Kinnamon",
+          "Scott M. Damrauer",
+          "Patrick T. Ellinor",
+          "Michael Levin",
+          "Ray E. Hershberger",
+          "Jennifer E. Huffman",
+          "Krishna G. Aragam"
+        ],
+        "abstract": "Importance                                            Dilated cardiomyopathy (DCM) is a major cause of heart failure that disproportionately affects individuals of predominantly African ancestry, among whom familial clustering of disease is more pronounced relative to those of predominantly European ancestry. Truncating variants in                       TTN                       , which encodes the sarcomeric protein titin, are the most common established monogenic cause of DCM. A common                       CD36                       nonsense variant enriched among individuals of African ancestry has also been shown to account for a substantial burden of DCM.                                                                                Objective                                            To compare the contribution of a                       CD36                       nonsense variant to DCM risk with that of truncating variants in                       TTN                       and pathogenic or likely pathogenic variants in other established genes for DCM.                                                                                Design, Setting, and Participants                     Multicohort genetic association study including participants of African and European ancestry with exome or genome sequence data and DCM case status from the following 4 US datasets: All of Us Research Program (recruitment: 2017-present; last follow-up: August 27, 2024), Million Veteran Program (recruitment: 2011-present; last follow-up: September 30, 2024), Penn Medicine Biobank (recruitment: 2013-present; last follow-up: November 14, 2022), and the DCM Precision Medicine Study (recruitment: 2016-2020; last follow-up: March 15, 2020).                                                           Exposure                                            Carrier status for                       TTN                       truncating variants, pathogenic or likely pathogenic variants in 11 high-confidence genes for DCM, and the nonsense variant                       CD36                       Y325* (0, 1, or 2 copies).                                                                                Main Outcomes and Measures                     Risk of DCM, prevalence of variant carriers among DCM cases, and population attributable fraction of DCM.                                                           Results                                            Among 82 623 individuals of predominantly African ancestry across 4 cohorts, the mean age was 53.4 years (SD, 13.9 years), 47 124 were male, and 1316 had DCM. Individuals who were homozygous for the                       CD36                       Y325* risk allele had a higher risk of DCM (odds ratio [OR], 4.8; 95% CI, 3.1-7.3) as did those who were heterozygous (OR, 1.4; 95% CI, 1.2-1.7).                       TTN                       truncating variants also conferred an elevated risk of DCM in participants of African ancestry (OR, 8.5; 95% CI, 5.5-13.0). Among 1316 individuals of African ancestry classified as DCM cases, 33 (2.5%) were homozygous for                       CD36                       , 56 (4.3%) had                       TTN                       truncating variants, and 16 (1.2%) had pathogenic or likely pathogenic variants in other high-confidence genes for DCM. In population-level analyses incorporating both heterozygous and homozygous                       CD36                       Y325* carriers, the population attributable fraction for                       CD36                       (9.0% [6.2% for heterozygous carriers and 2.8% for homozygous carriers]) surpassed the population attributable fraction for                       TTN                       truncating variants (3.7%).                                                                                Conclusions and Relevance                                            In 4 US cohorts, an ancestry-specific                       CD36                       variant contributed more to DCM burden among individuals of African ancestry than established genes for DCM, including                       TTN                       truncating variants that are typically considered the most common genetic cause. These findings reshape the known genetic architecture of DCM in individuals of African ancestry and highlight the importance of representation in genomic research.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-19",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-20",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.17239",
+        "doi": "10.1001/jama.2026.17239",
+        "url": "https://doi.org/10.1001/jama.2026.17239",
+        "title": "Illicit Injectable Peptides",
+        "authors": [
+          "Carolina Castro Porto Silva Janovsky"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-19",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-20",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.17242",
+        "doi": "10.1001/jama.2026.17242",
+        "url": "https://doi.org/10.1001/jama.2026.17242",
+        "title": "Illicit Injectable Peptides—Reply",
+        "authors": [
+          "Timothy Piatkowski",
+          "Kyle T. Ganson",
+          "Jason M. Nagata"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-19",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-20",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.18839",
+        "doi": "10.1001/jama.2026.18839",
+        "url": "https://doi.org/10.1001/jama.2026.18839",
+        "title": "Testing for Alzheimer Disease in Asymptomatic Adults",
+        "authors": [
+          "Gayatri Devi"
+        ],
+        "abstract": "This Viewpoint discusses the uncertain prognostic value of testing for Alzheimer disease biomarkers in asymptomatic individuals and warns of the possible insurance, employment, financial, and psychological repercussions of positive results of such tests.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-19",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-20",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.18906",
+        "doi": "10.1001/jama.2026.18906",
+        "url": "https://doi.org/10.1001/jama.2026.18906",
+        "title": "Accessibility of Publicly Posted Kidney Transplant Waitlist Criteria Under IOTA",
+        "authors": [
+          "Eunice Y. Lee",
+          "Courtney M. Rentas",
+          "Lisa M. McElroy",
+          "Kyle H. Sheetz"
+        ],
+        "abstract": "This study evaluated baseline transparency compliance among transplant centers participating in the Centers for Medicare &amp;amp;amp; Medicaid Services’ (CMS) Increasing Organ Transplant Access (IOTA) model to assess the presence and functional accessibility of their publicly posted selection criteria.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-19",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-20",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.17754",
+        "doi": "10.1001/jama.2026.17754",
+        "url": "https://doi.org/10.1001/jama.2026.17754",
+        "title": "Therapy for Adults With Complicated Urinary Tract Infection",
+        "authors": [
+          "Priya V. Nagarajan",
+          "Andrew M. Davis",
+          "Elizabeth F. Bell"
+        ],
+        "abstract": "This Clinical Guidelines Synopsis summarizes the 2025 Infectious Diseases Society of America guidelines on treatment and management of complicated urinary tract infections in adults.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-19",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-20",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.18706",
+        "doi": "10.1001/jama.2026.18706",
+        "url": "https://doi.org/10.1001/jama.2026.18706",
+        "title": "Individualized Cardiac Index–Guided Hemodynamic Therapy in High-Risk Patients Undergoing Elective Major Abdominal Surgery",
+        "authors": [],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-19",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-20",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.22423",
+        "doi": "10.1001/jama.2026.22423",
+        "url": "https://doi.org/10.1001/jama.2026.22423",
+        "title": "Incorrect Affiliation",
+        "authors": [],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-19",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-20",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.18574",
+        "doi": "10.1001/jama.2026.18574",
+        "url": "https://doi.org/10.1001/jama.2026.18574",
+        "title": "Individualized Cardiac Index–Guided Hemodynamic Therapy in High-Risk Patients Undergoing Elective Major Abdominal Surgery",
+        "authors": [
+          "Bernd Saugel",
+          "Agnes S. Meidert",
+          "Christian S. Meyhoff",
+          "Rune Sort",
+          "Eske K. Aasvang",
+          "Alina Bergholz",
+          "Abdelkader Serir",
+          "Eike Schwartze",
+          "Kristen K. Thomsen",
+          "Christian Zöllner",
+          "Stephan Berthold",
+          "Melanie Borrmann",
+          "Joseph Esser",
+          "Anja Laska",
+          "Patrick Scheiermann",
+          "Nicolai Bang Foss",
+          "Jonathan Winther Olsen",
+          "Line Malmer Madsen",
+          "Anders H. Welling",
+          "Christine Gaik",
+          "Sebastian Roth",
+          "Julian Schröder",
+          "Marc Vives",
+          "Adam Klimovic",
+          "Michael Eichlseder",
+          "Sebastian Goldmann",
+          "Thomas Renné",
+          "Henrike Hedrich",
+          "Eik Vettorazzi",
+          "Antonia Zapf",
+          "Karim Kouz",
+          "Moritz Flick",
+          "Linda Grüßer",
+          "Jan Larmann",
+          "Wiam Khader",
+          "Laima Balasova",
+          "Volker Huge",
+          "Anders P.H. Karlsen",
+          "Louise B. Kiel",
+          "Tobias L. Wulff",
+          "Mikael R. Henriksen",
+          "Rasmus B. Müller",
+          "Karin Graeser",
+          "Abdellatif El-Ahmadi",
+          "Marlene Søgaard",
+          "Melkorka Nørgaard",
+          "Mia L. Jepsen",
+          "Øivind Jans",
+          "Morten Bundgaard",
+          "Troels Munch",
+          "Mette Dam",
+          "Jakob Højlund",
+          "Line Stendell",
+          "Ulrik Ieppsen",
+          "Josefine U. Melchiorsen",
+          "Till L. Christiansen",
+          "René M'Pembele",
+          "Vlad Bucur",
+          "Theresa Tenge",
+          "Paula Bartholomäus",
+          "Marlene Zollner",
+          "Thomas Boessner-Weiss",
+          "Moritz Bünsch",
+          "Roland Dahlem",
+          "Margit Fisch",
+          "Gillis Greiwe",
+          "Thilo Hackert",
+          "Phillip Hoppe",
+          "Linda Krause",
+          "Fynn Meyer",
+          "Parisa Moll-Khosrawi",
+          "Felix Nickel",
+          "Anna Nießen",
+          "Susanne Reuter",
+          "Barbara Schmalfeldt",
+          "Leonie Schulte-Uentrop",
+          "Kaja Marie Wulschläger",
+          "Fabian Zambiasi",
+          "Moritz Steinhaus",
+          "Carla Nau",
+          "Silke Olsson",
+          "Marie-Luise Franz",
+          "Benjamin Vojnar",
+          "Tilo Koch",
+          "Saskia Haberl",
+          "Max Kult",
+          "Florian Brandes",
+          "Sebastian Niedermaier",
+          "Anna Trebo",
+          "Bernhard Zwißler",
+          "Phillip Groene",
+          "Ludwig Lamm",
+          "Elena Berg",
+          "Robert Bischoff",
+          "Alexander Burges",
+          "Friederike Hagemann",
+          "Sven Mahner",
+          "Juliane Reichenbach",
+          "Fabian Trillsch",
+          "Ulrich Wirth",
+          "Jens Werner",
+          "Bernhard Renz",
+          "Joachim Andrassy",
+          "Hanno Nieß",
+          "Markus Guba",
+          "Iñigo Rubio",
+          "Pablo Montero",
+          "Carmen Sala",
+          "Rafael Moncada",
+          "Jan Benes",
+          "Jan Zatloukal",
+          "Kristina Sikulova"
+        ],
+        "abstract": "Importance                     It remains unclear if intraoperative hemodynamic therapy should be guided by cardiac index.                                                           Objective                     To evaluate whether individualized cardiac index–guided hemodynamic therapy vs routine hemodynamic therapy improves outcomes in high-risk patients undergoing elective major abdominal surgery.                                                           Design, Setting, and Participants                     This multicenter, single-blind, superiority randomized clinical trial enrolled high-risk patients undergoing elective major abdominal surgery between October 8, 2023, and October 25, 2025, at 12 university medical centers in Austria, the Czech Republic, Denmark, Germany, and Spain. The date of last follow-up was January 15, 2026.                                                           Interventions                     Patients were randomized to individualized cardiac index–guided hemodynamic therapy targeting the patient’s preoperative resting cardiac index vs routine hemodynamic therapy (with blinded cardiac index monitoring).                                                           Main Outcomes and Measures                     The primary outcome was a composite of acute kidney injury, acute myocardial injury, severe infectious complications, nonfatal cardiac arrest, or death within the first 7 postoperative days. Secondary outcomes included the individual components of the primary outcome within the first 7 postoperative days.                                                           Results                                            Of the 1128 patients enrolled, 1111 were randomized and 1095 were included in the primary analysis (median age, 67 years [IQR, 59-74 years]; 49.4% were female). The primary outcome occurred in 243 of 549 patients (44.3%) in the individualized cardiac index–guided hemodynamic therapy group vs 256 of 546 patients (46.9%) in the routine hemodynamic therapy group (relative risk, 0.94 [95.1% CI, 0.83-1.08];                       P                        = .38). There were no between-group differences for the incidence of the individual components of the primary outcome within the first 7 postoperative days.                                                                                Conclusions and Relevance                     Among high-risk patients undergoing elective major abdominal surgery, individualized cardiac index–guided hemodynamic therapy targeting the patient’s preoperative resting cardiac index did not reduce the incidence of a composite outcome of acute kidney injury, acute myocardial injury, severe infectious complications, nonfatal cardiac arrest, or death within the first 7 postoperative days compared with routine hemodynamic therapy.                                                           Trial Registration                                            ClinicalTrials.gov Identifier:                       NCT05648279",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-19",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-20",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag253",
+        "doi": "10.1093/aje/kwag253",
+        "url": "https://doi.org/10.1093/aje/kwag253",
+        "title": "Subjective cognitive decline and objective cognitive performance across diverse intersectional identities by gender, race/ethnicity, and educational attainment",
+        "authors": [
+          "Nancy X Chen",
+          "Miriam T Ashford",
+          "Chengshi Jin",
+          "L Paloma Rojas-Saunero",
+          "Elizabeth Rose Mayeda",
+          "Alejandra Morlett-Paredes",
+          "Erika Cavallone",
+          "Sarah Tomaszewski Farias",
+          "Rachel L Nosheny",
+          "Kristen M George"
+        ],
+        "abstract": "Abstract                   Subjective cognitive decline and subtle objective cognitive impairment are important early clinical stages of dementia, but the extent to which they vary across intersectional identities remains poorly understood. We examined differences in subjective and objective cognition across intersectional identities defined by gender, race/ethnicity, and education. We analyzed 20,814 participants aged 45+ from the Brain Health Registry. Subjective cognition was measured using the 39-item Everyday Cognition Scale. Objective cognition was measured using the Cambridge Cognition Paired Associates Learning test. We defined 24 intersectional strata based on gender (men, women), race/ethnicity (Latino, Asian, Black, White), and education (≤associate’s, bachelor’s, graduate degree). Using Multilevel Analysis of Individual Heterogeneity and Discriminatory Accuracy (MAIHDA), we estimated age-adjusted linear mixed models then additionally adjusted for the additive effects of gender, race/ethnicity, and education to evaluate whether random effects of the intersectional identity strata explained variance beyond individual fixed effects. Between-stratum variance accounted for ≤6% of the total variance in subjective and objective cognition. Most (79-98%) of this between-stratum variance was explained by additive effects of gender, race/ethnicity, and education. Additive sociodemographic effects explained most disparities in mid- to late-life subjective and objective cognition across intersectional strata, with limited residual intersectional heterogeneity beyond these additive effects.",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-10-19",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-20",
         "fetched_from": "crossref"
       },
       {
@@ -66529,6 +67178,370 @@
         "fetched_from": "crossref"
       },
       {
+        "id": "doi:10.1093/gerona/glag250",
+        "doi": "10.1093/gerona/glag250",
+        "url": "https://doi.org/10.1093/gerona/glag250",
+        "title": "Abdominal ultrasound mitigates neurodegenerative pathology and alters specific gut microbial taxa in senescence-accelerated mice",
+        "authors": [
+          "Hanlin Jiang",
+          "Tingrui Zhao",
+          "Xiaochen Zhang",
+          "Hideki Moriyama"
+        ],
+        "abstract": "Abstract                   Age-related changes in gut microbiota composition have been implicated in brain aging and cognitive decline, acting through the gut-brain axis on amyloid accumulation, tau pathology, synapse damage, and glial activation. Live microbial approaches such as probiotics, prebiotics, and fecal microbiota transplantation address this mechanism, but they still suffer from low efficacy and unknown safety issues. We tested whether abdominal ultrasound, an approach that does not involve microbes, can alleviate age-related neurodegeneration in the senescence-accelerated mouse strain SAMP8. We treated 6-month-old male SAMP8 mice for 1 month. We then assessed behavior, neuropathology, and synaptic proteins, and quantified four pre-specified fecal bacterial taxa. Ultrasound preserved neuronal survival in the hippocampal CA3, decreased amyloid-β load in the cortex and CA3, decreased tau hyperphosphorylation in all three regions, reduced Iba-1 and GFAP immunoreactive areas, and increased synaptophysin and cortical PSD-95. Neuronal survival in the cortex and CA1 did not differ significantly from sham-treated SAMP8 mice. In the gut microbiota, ultrasound significantly reduced the enriched taxon Tyzzerella, whereas the changes in Lactobacillus, Akkermansia and Atopobiaceae were large in magnitude but not statistically significant. In an exploratory analysis, four of 64 microbiota–neuropathology associations survived correction for multiple testing. Neither object recognition memory nor spatial memory differed significantly between treated and sham-treated SAMP8 mice. Abdominal ultrasound applied to the periphery therefore reduced age-associated neuropathology in the brain, accompanied by changes in specific gut microbial taxa whose causal contribution remains untested.",
+        "source": "The Journals of Gerontology, Series A: Biological Sciences and Medical Sciences",
+        "issn": "1079-5006",
+        "date": "2026-10-19",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "elderCare"
+        ],
+        "firstSeen": "2026-10-20",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70773",
+        "doi": "10.1111/jgs.70773",
+        "url": "https://doi.org/10.1111/jgs.70773",
+        "title": "A Scoping Review on Decision‐Making Interventions for Kidney Failure Treatment Options by the Kidney Disease Aging Research Collaborative",
+        "authors": [
+          "Maya N. Clark‐Cutaia",
+          "Ilana Mittleman",
+          "Juliana Magro",
+          "Catherine R. Butler",
+          "Nidhi Ghildayal",
+          "Laura Kimberly",
+          "Samantha Klitenic",
+          "Manjula Kurella Tamura",
+          "Semra Ozdemir",
+          "Tiffany R. Washington",
+          "Malika Wilson",
+          "Mara McAdams‐DeMarco",
+          "Rasheeda K. Hall"
+        ],
+        "abstract": "ABSTRACT                                        Background                     Patients with kidney disease face complex treatment decisions amid prognostic uncertainty. These decisions may be particularly challenging for older adults, who often experience cognitive and functional changes and rely on caregivers. However, limited evidence describes treatment decision‐making interventions for older adults, including the decision points addressed, use of decision aids, and geriatric‐relevant SDM features, including caregiver involvement, values clarification, multiple touchpoints, and prognostic information.                                                           Methods                     We conducted a scoping review of studies examining kidney failure treatment decision‐making interventions that included ≥ 1 older patient(s) (≥ 65) with advanced kidney disease. We searched seven databases from inception through 4/2026. We characterized interventions by decision point, type of decision support provided, outcomes, exclusive enrollment of older adults, and presence of geriatric‐relevant SDM features.                                                           Results                     We identified 32 studies (of 2060 screened), representing 26 interventions. Seven interventions examined conservative kidney management versus dialysis, five dialysis modality, five dialysis versus transplant, and nine multiple treatment options. Among these, 11 (42%) included caregivers, 20 (77%) had multiple touchpoints, 19 (73%) included values clarification, and 12 (46%) incorporated prognostic data. Most interventions (22, 85%) incorporated decision aids. Of 137 outcomes reported, 13 (9%) were clinical. Nine interventions (35%) were evaluated exclusively among older adults.                                                           Conclusions                     Patient decision aids were common in kidney failure treatment decision‐making interventions, but incorporation of geriatric‐relevant SDM features varied across decision points, and few interventions were evaluated exclusively among older adults. Future interventions should tailor geriatric‐relevant SDM features to specific treatment decisions to best support older adults in making kidney failure treatment decisions.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-10-19",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-20",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70791",
+        "doi": "10.1111/jgs.70791",
+        "url": "https://doi.org/10.1111/jgs.70791",
+        "title": "Caregiving Relationships, Advance Care Planning, and Hospice Use in Later Life",
+        "authors": [
+          "Yanjun Dong",
+          "Hillary D. Lum"
+        ],
+        "abstract": "ABSTRACT                                        Background                     Little is known about whether primary caregiver relationship is associated with hospice use or advance care planning (ACP) in later life. This study examined variation in hospice use and ACP across primary caregiver relationships.                                                           Methods                     Gateway Harmonized Health and Retirement Study End‐of‐Life data were restricted to Wave 12 and later. The sample included 3952 decedents aged 60 years or older. Caregiving category identified the primary caregiver as spouse/partner, child/grandchild, extended family, or non‐kin informal, with formal care only and no identified caregiver as additional categories. Multivariable logistic regression estimated hospice use; a joint Wald test assessed overall differences across four informal primary‐caregiver categories, and probability‐scale decomposition examined indirect associations through ACP.                                                           Results                     Among decedents with an identified informal primary caregiver, hospice use did not vary overall by caregiver relationship. Relative to spouse/partner primary caregiving, hospice use was lower among decedents with no identified caregiver (OR, 0.46) and those receiving formal care only (OR, 0.62), while child/grandchild primary caregiving was associated with a 3.87‐percentage‐point higher probability of ACP. The indirect association through ACP for child/grandchild primary caregiving was small (0.39 percentage points).                                                           Conclusions                     Hospice use was not concentrated within a particular informal primary caregiver relationship, whereas differences by caregiver relationship were more apparent in ACP. These findings highlight a distinction between care planning and eventual service use and suggest that caregiver availability and broader caregiving circumstances may be important to consider alongside relationship type.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-10-19",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-20",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70809",
+        "doi": "10.1111/jgs.70809",
+        "url": "https://doi.org/10.1111/jgs.70809",
+        "title": "The Sounds Remain",
+        "authors": [
+          "Mira Mahishi",
+          "Preaksha Garg",
+          "Anupama Gangavati"
+        ],
+        "abstract": "",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-10-19",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-20",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08513-4",
+        "doi": "10.1186/s12877-026-08513-4",
+        "url": "https://doi.org/10.1186/s12877-026-08513-4",
+        "title": "Association of glycemic and metabolic biomarkers with cognitive impairment and dementia among elderly patients with diabetes: a systematic review and a dose-response meta-analysis",
+        "authors": [
+          "Fang Liu",
+          "Pei Zhang",
+          "Guangxia Wu",
+          "Shuna Zhai",
+          "Jing Zhang",
+          "Xiujuan Yu",
+          "Chunhong Shen",
+          "Ruowei Wang"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-19",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-20",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08522-3",
+        "doi": "10.1186/s12877-026-08522-3",
+        "url": "https://doi.org/10.1186/s12877-026-08522-3",
+        "title": "Barriers to sustaining physical activity among community-dwelling older adults with Motoric Cognitive Risk Syndrome: a qualitative study of the intention-behaviour gap",
+        "authors": [
+          "Xiaodie Yang",
+          "Dayu Tang",
+          "Li Yin",
+          "Zhangxiangxiang Zheng",
+          "Han Wang",
+          "Meijuan Lan",
+          "Guanjun Li",
+          "Liying Ying"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-19",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-20",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08523-2",
+        "doi": "10.1186/s12877-026-08523-2",
+        "url": "https://doi.org/10.1186/s12877-026-08523-2",
+        "title": "Older adults’ intention to adopt smart age-friendly home modifications: service feasibility, technology trust, and aging-in-place confidence",
+        "authors": [
+          "Mingzhu Li",
+          "Junjie Shu",
+          "Fangyuan Chang",
+          "Tao Peng",
+          "Xingyan Chen",
+          "YiQiang Wu",
+          "Tao Tao"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-19",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-20",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08521-4",
+        "doi": "10.1186/s12877-026-08521-4",
+        "url": "https://doi.org/10.1186/s12877-026-08521-4",
+        "title": "Frailty trajectories and hip fracture risk in older Chinese adults: a prospective cohort study with competing risk analysis",
+        "authors": [
+          "Yihan Yan",
+          "Minchang Chen",
+          "Jialin Xia",
+          "Liping Shen"
+        ],
+        "abstract": "Abstract                                        Background                     Frailty is associated with hip fractures in older adults. However, frailty is a dynamic process, longitudinal trajectories may provide complementary descriptive insights. The exploratory association between frailty trajectories and hip fracture risk remains uncertain, particularly in older Chinese adults.                                                           Methods                     We analyzed longitudinal data from 3,868 community-dwelling Chinese adults aged ≥ 65 years in the China Health and Retirement Longitudinal Study (CHARLS). Frailty was assessed using the CHARLS modified frailty index (CMFI). Latent class mixed models were used descriptively to characterize frailty trajectories. The primary risk analysis used baseline CMFI, measured before follow-up, to evaluate associations with incident hip fractures using cause-specific Cox and Fine-Gray models. Restricted cubic splines were employed to explore nonlinear relationships. Associations between frailty trajectory class and hip fracture were also examined as exploratory analyses.                                                           Results                     During a median follow-up of 7.2 years, 225 incident hip fractures occurred. Two frailty trajectory patterns were identified descriptively: slow-rising and fast-rising. The primary finding was that each 0.1-unit increase in baseline CMFI was associated with a 32% higher risk (HR = 1.32, 95% CI: 1.19–1.46), and this association persisted after accounting for the competing risk of death (SHR = 1.19, 95% CI: 1.07–1.31). A non-linear relationship was observed, suggesting a possible attenuation of the association at higher frailty levels. The associations were generally consistent across the subgroups. In exploratory analyses, the fast-rising trajectory was associated with a higher hazard of hip fracture (HR = 2.39, 95% CI: 1.77–3.23; SHR = 2.05, 95% CI: 1.49–2.84).                                                           Conclusions                     Higher baseline frailty was independently associated with a higher risk of hip fracture. The fast-rising trajectory showed a higher hazard in descriptive analyses but requires time-varying validation. Dynamic frailty monitoring may aid risk stratification, pending future time-varying and external validation.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-19",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-20",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08432-4",
+        "doi": "10.1186/s12877-026-08432-4",
+        "url": "https://doi.org/10.1186/s12877-026-08432-4",
+        "title": "The association between family resilience and learned helplessness among hospitalized older adults with chronic multimorbidity in Xinjiang, China: a latent profile and computer-simulated network analysis",
+        "authors": [
+          "Weilong Wang",
+          "Zhengwei Luo",
+          "Runjia Zhang",
+          "Yongle Pei",
+          "Jiaqi Deng",
+          "Xuexia Yang",
+          "Xiaoxuan He",
+          "Jingwen Cai",
+          "Bo Zhang",
+          "Shufeng Ren",
+          "Qianqian Jia",
+          "Wen Cai"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-19",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-20",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08491-7",
+        "doi": "10.1186/s12877-026-08491-7",
+        "url": "https://doi.org/10.1186/s12877-026-08491-7",
+        "title": "Outdoor cycling competence and balance control in older adults – cross-sectional analysis of the BiPerAge trial",
+        "authors": [
+          "Jana Rogler",
+          "Sebastian Krumpoch",
+          "Ellen Freiberger",
+          "Noam Margalit",
+          "Roee Zehavi",
+          "Itshak Melzer",
+          "Sharon Barak",
+          "Amir Shapiro",
+          "Dikla Judchak Amir",
+          "Shira Levi",
+          "Omri Lubovsky",
+          "Robert Kob"
+        ],
+        "abstract": "Abstract                                        Background                     Although cycling offers numerous health benefits, age-related functional decline can increase the risk of accidents. Identifying balance components linked to outdoor cycling competence could inform targeted assessment and training. We aimed to exploratorily investigate the association between outdoor cycling competence and static, dynamic, and reactive balance control in older adults.                                                           Methods                     In this exploratory cross-sectional analysis of baseline data from a two-center randomized controlled trial, 116 community-dwelling adults aged ≥ 65 years with ≥ 3 errors on a standardized outdoor cycling course completed a balance test battery: Short Physical Performance Battery (SPPB), including gait speed, Modified Balance Error Scoring System (MBESS) and Four Square Step Test (FSST). Cycling-specific trunk balance was assessed with the Perturbation Stationary Bicycle Robotics (PerStBiRo) system, which delivers unannounced angular-tilt perturbations during stationary cycling. We derived mediolateral (ML) trunk sway during unperturbed cycling (UPC) and trunk time-to-peak angle (s) and trunk sway (°) during perturbed cycling (PC). Spearman correlations and multivariable models adjusted for age, sex and country were used to examine associations with the number of errors in the standardized outdoor cycling course.                                                           Results                                            Participants (mean age 74.0 ± 5.4 years; 53% women) made 13.1 ± 8.0 errors on the outdoor cycling course. In bivariate analyses, more outdoor cycling errors were weakly associated with more total errors on the MBESS (r                       s                       = 0.213,                       p                        = 0.022), slower gait speed (r                       s                       = -0.203,                       p                        = 0.029), greater ML trunk sway during UPC (r                       s                       = 0.246,                       p                        = 0.009), shorter trunk time-to-peak angle (r                       s                       = -0.289,                       p                        = 0.002) and lower trunk sway in PC (r                       s                       = -0.295,                       p                        = 0.002). In multivariable analyses, longer FSST time (B = 1.28 [95% CI 0.39, 2.17],                       p                        = 0.005) and greater trunk sway during UPC (B = 2.68 [0.60, 4.77],                       p                        = 0.012) were independently associated with more cycling errors.                                                                                Conclusions                     This study shows weak associations between outdoor cycling competence and dynamic balance control during both UPC and FSST. Low trunk sway during UPC on the PerStBiRo is weakly associated with better outdoor cycling competence. These findings could be further evaluated in future studies aiming to improve outdoor cycling competence.                                                           Trial registration                                            This is a retrospective analysis of BiPerAge study data registered at clinicaltrials.gov: NCT06453473 (initial submission: 11/06/2024), link:                       https://clinicaltrials.gov/study/NCT06453473                       .",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-19",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-20",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08510-7",
+        "doi": "10.1186/s12877-026-08510-7",
+        "url": "https://doi.org/10.1186/s12877-026-08510-7",
+        "title": "Low balance confidence in relation to strength training, walking, sitting, and physical function among women aged 75–105 years: a cross-sectional study within the Women’s Health Initiative Strong and Healthy (WHISH) Intervention Cohort",
+        "authors": [
+          "Corey M. Rovzar",
+          "Saachi Jhandi",
+          "Sally Mackey",
+          "Deepika Laddu",
+          "Sa Shen",
+          "Andrea La Croix",
+          "Marcia L. Stefanick"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-19",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-20",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08530-3",
+        "doi": "10.1186/s12877-026-08530-3",
+        "url": "https://doi.org/10.1186/s12877-026-08530-3",
+        "title": "Investigating the effect of using digital stories on treatment adherence in elderly patients with hypertension: an experimental study",
+        "authors": [
+          "Seyyed Amir Khatami",
+          "Zahra Amouzeshi",
+          "Afagh Zarei",
+          "Mitra Moodi"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-19",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-20",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag253",
+        "doi": "10.1093/aje/kwag253",
+        "url": "https://doi.org/10.1093/aje/kwag253",
+        "title": "Subjective cognitive decline and objective cognitive performance across diverse intersectional identities by gender, race/ethnicity, and educational attainment",
+        "authors": [
+          "Nancy X Chen",
+          "Miriam T Ashford",
+          "Chengshi Jin",
+          "L Paloma Rojas-Saunero",
+          "Elizabeth Rose Mayeda",
+          "Alejandra Morlett-Paredes",
+          "Erika Cavallone",
+          "Sarah Tomaszewski Farias",
+          "Rachel L Nosheny",
+          "Kristen M George"
+        ],
+        "abstract": "Abstract                   Subjective cognitive decline and subtle objective cognitive impairment are important early clinical stages of dementia, but the extent to which they vary across intersectional identities remains poorly understood. We examined differences in subjective and objective cognition across intersectional identities defined by gender, race/ethnicity, and education. We analyzed 20,814 participants aged 45+ from the Brain Health Registry. Subjective cognition was measured using the 39-item Everyday Cognition Scale. Objective cognition was measured using the Cambridge Cognition Paired Associates Learning test. We defined 24 intersectional strata based on gender (men, women), race/ethnicity (Latino, Asian, Black, White), and education (≤associate’s, bachelor’s, graduate degree). Using Multilevel Analysis of Individual Heterogeneity and Discriminatory Accuracy (MAIHDA), we estimated age-adjusted linear mixed models then additionally adjusted for the additive effects of gender, race/ethnicity, and education to evaluate whether random effects of the intersectional identity strata explained variance beyond individual fixed effects. Between-stratum variance accounted for ≤6% of the total variance in subjective and objective cognition. Most (79-98%) of this between-stratum variance was explained by additive effects of gender, race/ethnicity, and education. Additive sociodemographic effects explained most disparities in mid- to late-life subjective and objective cognition across intersectional strata, with limited residual intersectional heterogeneity beyond these additive effects.",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-10-19",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-20",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261498425",
+        "doi": "10.1177/13872877261498425",
+        "url": "https://doi.org/10.1177/13872877261498425",
+        "title": "Comparing operational definitions of screening-based cognitive impairment in the Tohoku Medical Megabank cohort: Focus on digital engagement",
+        "authors": [
+          "Ryo Takano",
+          "John A. Moyer",
+          "Takashi Fukushima",
+          "Jennings Xu",
+          "Kinya Okada"
+        ],
+        "abstract": "Background                     Dementia prevention is a global health priority, yet most large-scale population studies come from Western settings. Japan, a rapidly aging society, provides a unique non-Western epidemiological context for characterizing cognitive decline.                                                           Objective                     To assess whether the Tohoku Medical Megabank (TMM) cohorts replicate established dementia-related associations, and to identify correlates that are statistically significant across three prespecified operational classifications.                                                           Methods                     We analyzed data from &gt;81,000 participants in the TMM cohorts. Participants were classified using (i) self-reported physician-diagnosed dementia and screening-defined impairment using (ii) Mini-Mental State Examination (MMSE) ≤ 27 and (iii) Japanese version of the Montreal Cognitive Assessment (MoCA-J) ≤ 25. Associations with 14 established dementia-related correlates and &gt;3,800 exploratory variables were assessed using false-discovery-rate control, semantic clustering, and sequential multivariable logistic regression.                                                           Results                     Participants with self-reported dementia had lower MMSE and MoCA-J scores. Established correlates replicated in expected directions for at least one classification, including lower education, hypertension, depressive symptoms, and hearing difficulty. We identified 106 significant correlates across all three classifications; for self-reported dementia, digital device non-use was associated with higher odds (fully adjusted OR up to 2.97, 95% CI: 1.42–6.18), while smartphone use showed inverse associations (OR = 0.47, 95% CI: 0.26–0.86); directions were consistent for screening-defined impairment.                                                           Conclusions                     In this study, leveraging existing cognitive classifications available in TMM cohorts, we found that established dementia-related associations largely replicated and identified correlates across three operational classifications. Digital disengagement emerged as a correlate that may reflect early functional change; given the cross-sectional design, causal inference requires further examination. Longitudinal validation with adjudicated diagnoses is needed.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-10-19",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-20",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1111/jgs.70793",
         "doi": "10.1111/jgs.70793",
         "url": "https://doi.org/10.1111/jgs.70793",
@@ -89371,6 +90384,93 @@
     ],
     "socialWork": [
       {
+        "id": "doi:10.1093/bjsw/bcag264",
+        "doi": "10.1093/bjsw/bcag264",
+        "url": "https://doi.org/10.1093/bjsw/bcag264",
+        "title": "Leading organizational change across dual legislative frameworks: Integrating approved social work and acute deprivation of liberty services in Northern Ireland",
+        "authors": [
+          "Steph Kerr",
+          "Danielle McIlroy",
+          "Gavin Davidson"
+        ],
+        "abstract": "Abstract                   This article examines a statutory social work service development project within the Belfast Health and Social Care Trust during the phased implementation of the Mental Capacity Act (Northern Ireland) 2016, while the Mental Health (Northern Ireland) Order 1986 remained in force. Rather than offering a doctrinal analysis of the legislation itself, the article presents a reflective organizational case study of the amalgamation of the Approved Social Work and Acute Deprivation of Liberty Safeguards teams during a period of significant workforce and system pressure. The project unfolded against a backdrop of industrial action, delayed psychiatric admissions, and increasing complexity of statutory practice. The article explores how organizational urgency was established, how professional coalitions were developed, and how leadership sought to embed dual-framework competence within frontline statutory services. The article critically reflects on tensions relating to professional identity, resistance, and the challenges of implementing linear change models in dynamic systems.",
+        "source": "The British Journal of Social Work",
+        "issn": "0045-3102",
+        "date": "2026-10-19",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-20",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/bjsw/bcag259",
+        "doi": "10.1093/bjsw/bcag259",
+        "url": "https://doi.org/10.1093/bjsw/bcag259",
+        "title": "Child-to-mother violence among Arab-Palestinian women: The motherhood trap, coping strategies, and barriers to support",
+        "authors": [
+          "Raghda Alnabilsy",
+          "Tal Meler",
+          "Niveen Hassan"
+        ],
+        "abstract": "Abstract                   Child-to-mother violence (CMV) is a largely under-recognized phenomenon, particularly among Arab-Palestinian women in Israel, where patriarchal norms and structural inequalities restrict access to services. This study explores the experiences of Arab-Palestinian mothers subjected to violence by adult children, focusing on how traditional maternal roles constrain them, their coping strategies and barriers to seeking assistance. A qualitative approach was employed, using in-depth semi-structured interviews with thirty-six Arab-Palestinian mothers who experienced CMV. Analysis revealed two main themes. First, mothers navigate tension between gendered expectations and structural oppression, balancing maternal responsibility with vulnerability to adult children’s aggression. Second, coping strategies and barriers to help-seeking include avoidance, shame, secrecy, reliance on family support, and formal services as a last resort. Findings underscore the critical importance of culturally sensitive and contextually tailored interventions, particularly in social work practice. Effective support requires professional training taking into account the socio-cultural and structural realities of Arab-Palestinian women, enabling mothers to access services safely and with dignity. Policy initiatives and community engagement are essential to reduce maternal burdens, prevent CMV, and foster safe, supportive family environments. Recognizing CMV as a gendered issue is crucial for developing interventions that enhance maternal and family well-being and ensure equitable access to resources.",
+        "source": "The British Journal of Social Work",
+        "issn": "0045-3102",
+        "date": "2026-10-19",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-20",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/bjsw/bcag263",
+        "doi": "10.1093/bjsw/bcag263",
+        "url": "https://doi.org/10.1093/bjsw/bcag263",
+        "title": "Why do social workers stay? A systematic narrative review of factors that support retention",
+        "authors": [
+          "Liz Tanner",
+          "Paul McCafferty",
+          "Davy Hayes"
+        ],
+        "abstract": "Abstract                   This article explores the complex, multilevel factors that contribute to social work retention across diverse practice settings and professional career stages. It presents findings from a systematic narrative review of 123 peer-reviewed articles, conducted in accordance with an adapted Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) framework and guided by Joanna Briggs Institute (JBI) recommendations for evidence synthesis. Nine electronic databases were searched using predefined terms to ensure comprehensive, rigorous collation of relevant literature. Three overarching themes were identified; (i) organizational—encompassing leadership, management, and working conditions; (ii) personal—incorporating mission and personal characteristics; and (iii) structural—including professional training and development and the public image of social work. These themes reflect the multilevel factors supporting workforce retention, highlighting the need for an understanding of how organizational contexts, personal motivations, and broader structural factors interact to support retention. In a context of increasing service demand and workforce turnover and attrition, the findings emphasize the importance of addressing retention as a priority for social work policy and practice. The article concludes with recommendations aimed at enhancing retention. Implications for social work workforce planning and organizational practice are discussed, alongside suggestions for future research to further strengthen the evidence base on promoting a sustainable workforce.",
+        "source": "The British Journal of Social Work",
+        "issn": "0045-3102",
+        "date": "2026-10-19",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-20",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/bjsw/bcag251",
+        "doi": "10.1093/bjsw/bcag251",
+        "url": "https://doi.org/10.1093/bjsw/bcag251",
+        "title": "Social workers’ perceptions of intersectionality in theory and in practice",
+        "authors": [
+          "Kate Marks",
+          "Toni Louise Williams",
+          "Tanya Moore",
+          "Glory Simango",
+          "Arlene Weekes",
+          "Brett Smith"
+        ],
+        "abstract": "Abstract                   The use of the term intersectionality and calls for adoption of an intersectional approach have increased exponentially across the health and social work landscape. However, this study is the first to examine social workers’ perceptions and practice of intersectionality in England and the barriers to its implementation. Data were collected through a qualitative survey (n = 81) and informal conversations, which were rigorously analyzed using qualitative content analysis. Findings from this study demonstrate a strong willingness amongst social workers to develop a better understanding of, and to implement, the principles of intersectionality in practice. Despite this, all participants identified a range of barriers that limit its application. These include challenges relating to conceptual understanding, time constraints, and institutional factors. The study also explores social workers’ perspectives on future training and professional development needs in this area. This study makes a novel research contribution by highlighting the need for a shared understanding of intersectionality across the workforce. It has significant implications for the social work profession concluding with a call for increased training provision to improve ‘knowledge, skills, and awareness’ to support intersectional practice.",
+        "source": "The British Journal of Social Work",
+        "issn": "0045-3102",
+        "date": "2026-10-19",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-20",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1093/bjsw/bcag258",
         "doi": "10.1093/bjsw/bcag258",
         "url": "https://doi.org/10.1093/bjsw/bcag258",
@@ -96710,10 +97810,10 @@
   },
   "totals": {
     "socialSecurity": 1574,
-    "elderCare": 630,
-    "healthReform": 972,
-    "agingHealth": 913,
-    "socialWork": 325
+    "elderCare": 642,
+    "healthReform": 982,
+    "agingHealth": 927,
+    "socialWork": 329
   },
   "feeds_ok": 41
 }
