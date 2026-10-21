@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-20",
-  "fetched": "2026-10-20T06:14:11+00:00",
+  "date": "2026-10-21",
+  "fetched": "2026-10-21T06:13:33+00:00",
   "domains": {
     "socialSecurity": [
       {
@@ -24308,6 +24308,141 @@
     ],
     "elderCare": [
       {
+        "id": "doi:10.1186/s12877-026-08413-7",
+        "doi": "10.1186/s12877-026-08413-7",
+        "url": "https://doi.org/10.1186/s12877-026-08413-7",
+        "title": "Prevalence of frailty syndrome among patients with severe aortic stenosis qualified for TAVI",
+        "authors": [
+          "Natalia Świątoniowska-Lonc",
+          "Kinga Węgrzynowska-Teodorczyk",
+          "Francesco Perone",
+          "Krzysztof Ściborski",
+          "Waldemar Banasiak",
+          "Adrian Doroszko"
+        ],
+        "abstract": "Abstract                                        Background                     Frailty syndrome is a common comorbidity in elderly patients with severe aortic stenosis (AS), significantly influencing outcomes of transcatheter aortic valve implantation (TAVI). Early identification of frailty and its determinants is essential for optimizing care and improving quality of life.                                                           Methods                     This cross-sectional, observational study included 113 Polish patients qualified for TAVI between January and September 2024. Frailty was assessed using the Tilburg Frailty Indicator (TFI). Quality of life, mental health, and social support were evaluated with TASQ, HADS, and MSPSS questionnaires. Logistic regression was used to identify predictors of frailty.                                                           Results                     Frailty syndrome was present in 82.3% of patients. Higher frailty levels were associated with worse NYHA class, unhealthy lifestyle, and increased emotional burden. Depression and anxiety were significantly correlated with frailty, especially its psychological domain. Logistic regression revealed that NYHA class, emotional impact (TASQ), and unhealthy lifestyle were independent predictors of frailty. Social support negatively correlated with social frailty scores, suggesting a protective effect.                                                           Conclusions                     Frailty is highly prevalent among patients with severe AS undergoing TAVI. Comprehensive preprocedural assessment should include physical, emotional, and social factors. Targeted interventions - particularly prehabilitation and psychosocial support - may help address modifiable components of frailty in this population.                                                           Clinical trial number                     Not applicable.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-21",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-21",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08363-0",
+        "doi": "10.1186/s12877-026-08363-0",
+        "url": "https://doi.org/10.1186/s12877-026-08363-0",
+        "title": "A randomized controlled trial, process and economic evaluation, comparing multimodal care intervention to standard care for older adults in Mecklenburg-Western Pomerania, Germany: study protocol of the intensified interprofessional outpatient therapy for geriatric patients (InATheGer) model",
+        "authors": [
+          "Lorena Dini",
+          "Ana Ordonez-Cruickshank",
+          "Martha Koppelow",
+          "Anja Wollny",
+          "Lisa Richter",
+          "Anne Daubmann",
+          "Anna Suling",
+          "Nicolas Pardey",
+          "Pia M. Stapelfeldt",
+          "Sabine Meinhold",
+          "Antje Kloth",
+          "Giselle Sarganas",
+          "Marlena van Munster",
+          "Stefan Zutz",
+          "Manja Dannenberg",
+          "Sydney Nicholas Nii Tettey Odonkor"
+        ],
+        "abstract": "Abstract                                        Background                     Geriatric patients with multimorbidity and functional impairments represent a rapidly growing population that requires coordinated outpatient care to maintain independence and quality of life. In Germany, particularly in rural regions, outpatient care is primarily delivered by family doctors and general practitioners within a fragmented system that often lacks sufficient interdisciplinary collaboration. This fragmentation limits access to comprehensive, continuous care. Multimodal, interprofessional interventions that integrate medical, therapeutic, and psychosocial support may improve functional outcomes and reduce hospitalizations in these populations. This study aims to evaluate the effectiveness and efficiency of a structured, multimodal, and interprofessional coordinated outpatient care model for geriatric patients.                                                           Methods                     This multicenter randomized controlled trial will enroll 540 geriatric patients aged 70 years and older across three regional outpatient centers (intervention centers) in Mecklenburg–Western Pomerania (MV), Germany. Participants will be randomized 1:1 to receive either standard care or the Intensified Interprofessional Outpatient Therapy for Geriatric Patients (InATheGer) intervention. The intervention group will participate in a 14-week interprofessional outpatient program, comprising 20 therapy days with multimodal therapy sessions coordinated by a trained care manager (“InA-Manager”). Assessments will be conducted at baseline (before randomization), 18 weeks, and 31 weeks post-baseline. The primary outcome measure is the improvement in mobility and functional independence 18 weeks post-baseline, measured by an adapted Functional Independence Measure (FIM). Secondary outcomes include change in quality of life (EQ-5D-5 L), medication use, healthcare utilization, and costs. A qualitative process evaluation will complement the trial to explore implementation and contextual factors.                                                           Discussion                     If the InATheGer model demonstrates clinical effectiveness and cost-effectiveness, it will provide policymakers and healthcare stakeholders with evidence to inform the development and scaling of coordinated, interprofessional outpatient care for geriatric patients. Broad implementation of this model within routine geriatric outpatient care could enhance functional independence and quality of life among ageing populations while improving healthcare system efficiency.                                                           Trial registration                     German Clinical Trials Register (DRKS) registration number DRKS00036229. Prospectively registered on 08 April 2025.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-21",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-21",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/geront/gnag242",
+        "doi": "10.1093/geront/gnag242",
+        "url": "https://doi.org/10.1093/geront/gnag242",
+        "title": "Emergent Connections: A Community-Based Model for Advancing Social Connection Among Immigrant Older Adults with Disabilities",
+        "authors": [
+          "Laurent Reyes",
+          "Lizette Suarez"
+        ],
+        "abstract": "Abstract                                        Background and Objectives                     Social isolation is an urgent public health concern, especially for older immigrants who face heightened barriers to social participation due to disability, structural health inequities, and limited access to culturally and linguistically appropriate services. This study presents a programmatic model that explains how social connection and sustained participation can be fostered through accessible, culturally responsive, and participatory design.                                                           Research Design and Methods                     This community-engaged case study examines a national virtual program serving Spanish-speaking older adults, many of whom have sensory disabilities and chronic illnesses. A thematic and comparative analysis was conducted using qualitative interviews with ten older adults with vision impairment, program documents, and consultation with program leadership. This led to the identification of a programmatic model, the emergent connections platform.                                                           Results                     The emergent connections platform strengthens loosely connected social networks among older adults who share cultural and lived experiences through three pillars. The first is cultural, linguistic, and physically accessible infrastructure. Second, shared governance cultivates member leadership and program co-creation. Third, a flexible structure allows for evolution in response to member needs and innovations. These pillars collectively create pathways for individuals to engage, lead, and strengthen their communities.                                                           Discussion and Implications                     Advancing a more inclusive democracy requires sustained investment in accessible, community-led initiatives that support the leadership and innovation of marginalized older adults. This calls for moving towards models that position older adults as co-creators of programs and services. Doing so cultivates social connection through leadership, reciprocity, and a sense of belonging within a broader social fabric.",
+        "source": "The Gerontologist",
+        "issn": "0016-9013",
+        "date": "2026-10-20",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-21",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/gerona/glag251",
+        "doi": "10.1093/gerona/glag251",
+        "url": "https://doi.org/10.1093/gerona/glag251",
+        "title": "Longitudinal Association Between Prefrailty/Frailty and HIV-associated Neurocognitive Disorder (HAND): a Mexican Prospective Study",
+        "authors": [
+          "Jorge Arturo Esteva López",
+          "Neftali Eduardo Antonio-Villa",
+          "Marielena Esponda Farfan",
+          "José Alberto Avila-Funes",
+          "Virgilio Hernandez-Ruiz"
+        ],
+        "abstract": "Abstract                   Geriatric syndromes such as frailty may be more prevalent and occur earlier in people aging with HIV, negatively impacting outcomes like cognition. Cross-sectional data show strong associations between pre-frailty/frailty and HIV-associated neurocognitive disorders (HAND). However, prospective studies suggest baseline HAND increases frailty risk, while pre-frailty/frailty do not predict HAND onset. We aimed to investigate longitudinal association between baseline frailty and HAND category progression. Longitudinal analysis of 194 participants aged ≥50 years from Mexico City referral center. Two standardized geriatric assessments performed at least one year apart. HAND defined using Antinori criteria, frailty by Fried phenotype. Inverse probability weighted Cox models adjusted for confounders from directed acyclic graph (age, educational level, detectable viral load, diabetes, stroke, ischemic heart disease) determined association between frailty and HAND progression. Median age 55 (53–61) years; 167 (86%) men; median follow-up 2.3 (1.6–3.1) years. Baseline: 129 (66.4%) robust, 62 (31.9%) pre-frail, 3 (1.5%) frail. No longitudinal association between pre-frailty/frailty and HAND progression was observed in this cohort (32 progression events; adjusted HR = 0.63, 95% CI 0.27–1.48; p = 0.29). No evidence of a prospective association between prefrailty/frailty and HAND category progression was observed in this cohort; most participants remained cognitively stable. To our knowledge, this is the first study describing HAND trajectories and their relationship with prefrailty/frailty in older adults with HIV in Mexico and Latin America.",
+        "source": "The Journals of Gerontology, Series A: Biological Sciences and Medical Sciences",
+        "issn": "1079-5006",
+        "date": "2026-10-20",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "elderCare"
+        ],
+        "firstSeen": "2026-10-21",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70777",
+        "doi": "10.1111/jgs.70777",
+        "url": "https://doi.org/10.1111/jgs.70777",
+        "title": "Re‐Evaluating Predictive Performance in the Clinical Risk Analysis Index of Frailty",
+        "authors": [
+          "Nikita Desai",
+          "Michael A. Jacobs",
+          "Anh L. Tran",
+          "Hasan Nassereldine",
+          "Jeffrey C. McKibben",
+          "Katherine M. Reitz",
+          "Patrick R. Varley",
+          "Shipra Arya",
+          "Jason M. Johanning",
+          "Mark A. Wilson",
+          "Daniel E. Hall"
+        ],
+        "abstract": "ABSTRACT                                        Objective                     To examine whether the Risk Analysis Index (RAI), last calibrated in 2010–2014, requires scoring system changes to remain an effective measure of surgical frailty.                                                           Summary Background Data                     The RAI is among the most validated and widely used measures of surgical frailty. However, like any clinical prediction model, the RAI's scoring system might be prone to algorithmic drift that could invalidate continued use.                                                           Methods                     Retrospective cohort study of patients evaluated in outpatient surgery clinics at Veterans Health Administration (VHA) or University of Pittsburgh Medical Center (UPMC). All‐cause mortality was measured 180 days after frailty assessment using the RAI‐clinical questionnaire (RAI‐C).                                                           Results                                            In 410,715 patients from UPMC and 190,044 patients from VHA, the existing RAI‐C scoring system demonstrated strong discrimination (                       c                        = 0.868 95% CI [0.864–0.872] for UPMC, 0.827 [0.822–0.832] for VHA) which improved modestly after recalibrating parameter weights (                       c                        = 0.872 95% CI [0.868–0.876], for UPMC, 0.839 [0.834–0.845] for VHA). Calibration improved slightly, especially at the extremes where the model tends to underpredict mortality, but little change was observed in the range around the threshold of frailty. Of note, the scoring weights associated with a cancer diagnosis demonstrated some multicollinearity‐driven instability, but cancer remained the largest contributor to total score. Decision curve analysis demonstrated that reclassification of just a single additional patient as frail would require screening 1400–6000 patients with the recalibrated system, depending on the threshold score defining frailty, and after accounting for the harms of false‐positive classification, weighted proportional to the odds at each threshold probability.                                                                                Conclusions                     The RAI scoring system remains robust after a decade of widespread use without evidence of meaningful algorithmic drift. The minimal incremental improvement associated with recalibration does not justify the resources required to disseminate and implement a revised scoring system.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-10-20",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-21",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1093/gerona/glag250",
         "doi": "10.1093/gerona/glag250",
         "url": "https://doi.org/10.1093/gerona/glag250",
@@ -40526,6 +40661,205 @@
           "healthReform"
         ],
         "firstSeen": "2026-09-26",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.14955",
+        "doi": "10.1001/jama.2026.14955",
+        "url": "https://doi.org/10.1001/jama.2026.14955",
+        "title": "Initial HIV Therapy for Adults and Treatment-Associated Weight Gain",
+        "authors": [],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-20",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-21",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.14762",
+        "doi": "10.1001/jama.2026.14762",
+        "url": "https://doi.org/10.1001/jama.2026.14762",
+        "title": "Initial HIV Therapy for Adults and Treatment-Associated Weight Gain",
+        "authors": [
+          "Joana Woods",
+          "Limakatso Lebina",
+          "Karlien Möller",
+          "Willem Daniel Francois Venter",
+          "Godspower Akpomiemie",
+          "Ncomeka Manentsa",
+          "Ineeleng Taukobong",
+          "Philadelphia Macholo",
+          "Ngundu Osee Behuhuma",
+          "Samanta Tresha Lalla-Edward",
+          "Jen Manne-Goehler",
+          "Mark Jacob Siedner",
+          "Tarryn Collings",
+          "Nkuli Mashabane",
+          "Andrew Hill",
+          "Simiso Mandisa Sokhela"
+        ],
+        "abstract": "Importance                     Antiretroviral therapy (ART), particularly regimens containing tenofovir alafenamide with dolutegravir or bictegravir, is associated with substantial weight gain, potentially exacerbating cardiometabolic risk in people with HIV.                                                           Objective                     To determine whether a regimen with doravirine, lamivudine, and tenofovir disoproxil fumarate results in less weight gain than a regimen with dolutegravir, emtricitabine, and tenofovir alafenamide while maintaining noninferior viral suppression.                                                           Design, Setting, and Participants                     Open-label, noninferiority randomized clinical trial including ART-naive adults (≥18 years of age) with an HIV RNA level greater than 500 copies/mL and no detectable baseline, high-level doravirine resistance. The study was conducted at 2 South African sites and individuals were recruited between October 2023 and March 2025. The final participant visit occurred in February 2026.                                                           Interventions                     A once-daily regimen with 100 mg of doravirine, 300 mg of lamivudine, and 300 mg of tenofovir disoproxil fumarate (n = 299) or 50 mg of dolutegravir, 200 mg of emtricitabine, and 25 mg of tenofovir alafenamide (n = 301).                                                           Main Outcomes and Measures                     The primary outcome was viral suppression (HIV RNA level &amp;amp;lt;50 copies/mL) at week 48 (prespecified noninferiority margin of −10 percentage points). The key secondary outcomes included changes in body weight, treatment-associated effects on body composition, and safety and adverse events.                                                           Results                                            Among 600 participants, 597 (99.5%) were Black African, 413 (68.8%) were assigned female at birth, and the median age was 34 years (IQR, 28-41). At week 48, 266 participants (89.0%) in the doravirine, lamivudine, and tenofovir disoproxil fumarate group achieved viral suppression (HIV RNA level &amp;amp;lt;50 copies/mL) vs 273 participants (90.7%) in the dolutegravir, emtricitabine, and tenofovir alafenamide group (between-group difference, −1.7 percentage points [95% CI, −6.6 to 3.1], meeting the prespecified noninferiority margin of −10 percentage points). The median weight gain was 3.0 kg in the doravirine, lamivudine, and tenofovir disoproxil fumarate group vs 5.0 kg in the dolutegravir, emtricitabine, and tenofovir alafenamide group (between-group difference, −2.0 kg [95% CI, −3.0 to −1.0 kg];                       P                        &amp;amp;lt; .001). Among participants in the doravirine, lamivudine, and tenofovir disoproxil fumarate group, the median change in hip bone mineral density (BMD) was −2.1% (IQR, −4.1% to −0.5%) and was −3.2% (IQR, −5.4% to −0.8%) for spine BMD vs −0.5% (IQR, −1.9% to 1.2%) for hip BMD and −1.3% (IQR, −3.2% to 0.8%) for spine BMD with dolutegravir, emtricitabine, and tenofovir alafenamide (                       P                        &amp;amp;lt; .001 for each between-group comparison). Resistance to doravirine emerged among 7 of 9 participants experiencing virologic failure in the doravirine, lamivudine, and tenofovir disoproxil fumarate group. Of these 7 participants, 5 of 6 achieved viral suppression after switching to dolutegravir-based therapy and 1 was lost to follow-up. Serious adverse events and deaths (n = 2) were infrequent and not considered treatment-related.                                                                                Conclusions and Relevance                     Among predominantly Black African adults initiating ART, a regimen with doravirine, lamivudine, and tenofovir disoproxil fumarate was noninferior to a regimen with dolutegravir, emtricitabine, and tenofovir alafenamide for 48-week viral suppression and was associated with less weight gain.                                                           Trial Registration                                            ClinicalTrials.gov Identifier:                       NCT05924438",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-20",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-21",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.11304",
+        "doi": "10.1001/jama.2026.11304",
+        "url": "https://doi.org/10.1001/jama.2026.11304",
+        "title": "Diagnosis of Celiac Disease",
+        "authors": [
+          "Marisa G. Stahl",
+          "Claire Jansson-Knodel",
+          "Maureen M. Leonard"
+        ],
+        "abstract": "This Insights discusses the diagnosis of celiac disease, including biopsy confirmation vs serology-based diagnosis, in children and adults.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-20",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-21",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.13079",
+        "doi": "10.1001/jama.2026.13079",
+        "url": "https://doi.org/10.1001/jama.2026.13079",
+        "title": "What Is Celiac Disease?",
+        "authors": [
+          "Kristin L. Walter"
+        ],
+        "abstract": "This JAMA Patient Page describes common symptoms, risk factors, screening tests, diagnosis, and treatment of celiac disease.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-20",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-21",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2025.16072",
+        "doi": "10.1001/jama.2025.16072",
+        "url": "https://doi.org/10.1001/jama.2025.16072",
+        "title": "JAMA",
+        "authors": [],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-20",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-21",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag261",
+        "doi": "10.1093/aje/kwag261",
+        "url": "https://doi.org/10.1093/aje/kwag261",
+        "title": "Exploring heterogeneous treatment effects for GLP-1 receptor agonists in patients with type 2 diabetes",
+        "authors": [
+          "Luke Keele",
+          "Matteo Bonvini",
+          "Andrea M Storås",
+          "Vik Shirvaikar",
+          "Haodong Li",
+          "Nils B Jørgensen",
+          "Afshin Salsali",
+          "Morten Medici",
+          "Andrew Mertens",
+          "Kajsa Kvist"
+        ],
+        "abstract": "Abstract                   Understanding treatment effect heterogeneity (TEH) is essential to improve care for patients living with chronic diseases like type 2 diabetes. Individual responses to treatment can vary substantially, and identifying the factors that drive TEH may enable increased personalization of treatment and follow-up. In this study, we conduct an exploratory analysis of TEH for glucagon-like peptide-1 receptor agonists used to treat type 2 diabetes. Endpoints are defined using hemoglobin A1c measurements, body mass index, and blood pressure. We use causal forests to conduct global tests for TEH, estimate variable importances to rank candidate effect modifiers, and estimate the magnitude of heterogeneity. Data from three clinical trials are analyzed: SUSTAIN 6 (subcutaneous semaglutide versus placebo, n=3297), PIONEER 6 (oral semaglutide versus placebo, n=3183), and LEADER (subcutaneous liraglutide versus placebo, n=9340), pooled to 13,670 patients after exclusions. Baseline hemoglobin A1c ranks highest among candidate effect modifiers across methods, and kidney function ranks next in the relative risk causal forest; we discuss their clinical implications. The magnitude estimates, however, show that the variation these covariates jointly explain is small. As such, large covariate-driven heterogeneity can be ruled out in these trials, and the average treatment effect provides a reasonable summary for most patients.",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-10-20",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-21",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag265",
+        "doi": "10.1093/aje/kwag265",
+        "url": "https://doi.org/10.1093/aje/kwag265",
+        "title": "Live-birth selection and the interpretation of hyperemesis gravidarum and adverse pregnancy outcomes",
+        "authors": [
+          "Yating Xie",
+          "Ting Ye"
+        ],
+        "abstract": "",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-10-20",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-21",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag266",
+        "doi": "10.1093/aje/kwag266",
+        "url": "https://doi.org/10.1093/aje/kwag266",
+        "title": "Myeloma ascertainment and the timing of selenium safety signals",
+        "authors": [
+          "Xin Chang"
+        ],
+        "abstract": "",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-10-20",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-21",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag267",
+        "doi": "10.1093/aje/kwag267",
+        "url": "https://doi.org/10.1093/aje/kwag267",
+        "title": "Maternal Education in Context: Reassessing the Infant Health Paradox among Latin American Immigrants",
+        "authors": [
+          "Tiffany T Liu",
+          "Tod G Hamilton"
+        ],
+        "abstract": "Abstract                   One aspect of the Hispanic Health Paradox is the longstanding observation that Latin American immigrants in the United States often experience equal or better health outcomes than U.S.-born counterparts despite greater socioeconomic disadvantage. This advantage extends to their infants and is most pronounced among mothers with the least education. Whether such patterns reflect selective migration remains unclear. This study evaluates the role of educational selectivity in explaining nativity disparities in infant health. Using U.S. natality data among immigrants from Mexico, Cuba, El Salvador, Guatemala, the Dominican Republic, Colombia, Honduras, and Venezuela (2012–2023), linked with internationally harmonized educational data, we assess preterm birth disparities using two measures of maternal education: absolute and relative attainment. Immigrants at the bottom of the U.S. education distribution often rank much higher in their origin countries, consistent with positive selection. For most births to Latin American mothers (except Colombian and Venezuelan), measuring education relative to origin-country distributions reverses immigrant advantages. At equivalent relative education ranks, immigrant mothers face comparable or higher risks of preterm birth than U.S.-born Hispanic mothers. These findings offer a new perspective on the Hispanic Health Paradox, highlighting the importance of relative education in understanding the association between maternal education and infant health.",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-10-20",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-21",
         "fetched_from": "crossref"
       },
       {
@@ -67178,6 +67512,232 @@
         "fetched_from": "crossref"
       },
       {
+        "id": "doi:10.1186/s12877-026-08413-7",
+        "doi": "10.1186/s12877-026-08413-7",
+        "url": "https://doi.org/10.1186/s12877-026-08413-7",
+        "title": "Prevalence of frailty syndrome among patients with severe aortic stenosis qualified for TAVI",
+        "authors": [
+          "Natalia Świątoniowska-Lonc",
+          "Kinga Węgrzynowska-Teodorczyk",
+          "Francesco Perone",
+          "Krzysztof Ściborski",
+          "Waldemar Banasiak",
+          "Adrian Doroszko"
+        ],
+        "abstract": "Abstract                                        Background                     Frailty syndrome is a common comorbidity in elderly patients with severe aortic stenosis (AS), significantly influencing outcomes of transcatheter aortic valve implantation (TAVI). Early identification of frailty and its determinants is essential for optimizing care and improving quality of life.                                                           Methods                     This cross-sectional, observational study included 113 Polish patients qualified for TAVI between January and September 2024. Frailty was assessed using the Tilburg Frailty Indicator (TFI). Quality of life, mental health, and social support were evaluated with TASQ, HADS, and MSPSS questionnaires. Logistic regression was used to identify predictors of frailty.                                                           Results                     Frailty syndrome was present in 82.3% of patients. Higher frailty levels were associated with worse NYHA class, unhealthy lifestyle, and increased emotional burden. Depression and anxiety were significantly correlated with frailty, especially its psychological domain. Logistic regression revealed that NYHA class, emotional impact (TASQ), and unhealthy lifestyle were independent predictors of frailty. Social support negatively correlated with social frailty scores, suggesting a protective effect.                                                           Conclusions                     Frailty is highly prevalent among patients with severe AS undergoing TAVI. Comprehensive preprocedural assessment should include physical, emotional, and social factors. Targeted interventions - particularly prehabilitation and psychosocial support - may help address modifiable components of frailty in this population.                                                           Clinical trial number                     Not applicable.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-21",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-21",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08363-0",
+        "doi": "10.1186/s12877-026-08363-0",
+        "url": "https://doi.org/10.1186/s12877-026-08363-0",
+        "title": "A randomized controlled trial, process and economic evaluation, comparing multimodal care intervention to standard care for older adults in Mecklenburg-Western Pomerania, Germany: study protocol of the intensified interprofessional outpatient therapy for geriatric patients (InATheGer) model",
+        "authors": [
+          "Lorena Dini",
+          "Ana Ordonez-Cruickshank",
+          "Martha Koppelow",
+          "Anja Wollny",
+          "Lisa Richter",
+          "Anne Daubmann",
+          "Anna Suling",
+          "Nicolas Pardey",
+          "Pia M. Stapelfeldt",
+          "Sabine Meinhold",
+          "Antje Kloth",
+          "Giselle Sarganas",
+          "Marlena van Munster",
+          "Stefan Zutz",
+          "Manja Dannenberg",
+          "Sydney Nicholas Nii Tettey Odonkor"
+        ],
+        "abstract": "Abstract                                        Background                     Geriatric patients with multimorbidity and functional impairments represent a rapidly growing population that requires coordinated outpatient care to maintain independence and quality of life. In Germany, particularly in rural regions, outpatient care is primarily delivered by family doctors and general practitioners within a fragmented system that often lacks sufficient interdisciplinary collaboration. This fragmentation limits access to comprehensive, continuous care. Multimodal, interprofessional interventions that integrate medical, therapeutic, and psychosocial support may improve functional outcomes and reduce hospitalizations in these populations. This study aims to evaluate the effectiveness and efficiency of a structured, multimodal, and interprofessional coordinated outpatient care model for geriatric patients.                                                           Methods                     This multicenter randomized controlled trial will enroll 540 geriatric patients aged 70 years and older across three regional outpatient centers (intervention centers) in Mecklenburg–Western Pomerania (MV), Germany. Participants will be randomized 1:1 to receive either standard care or the Intensified Interprofessional Outpatient Therapy for Geriatric Patients (InATheGer) intervention. The intervention group will participate in a 14-week interprofessional outpatient program, comprising 20 therapy days with multimodal therapy sessions coordinated by a trained care manager (“InA-Manager”). Assessments will be conducted at baseline (before randomization), 18 weeks, and 31 weeks post-baseline. The primary outcome measure is the improvement in mobility and functional independence 18 weeks post-baseline, measured by an adapted Functional Independence Measure (FIM). Secondary outcomes include change in quality of life (EQ-5D-5 L), medication use, healthcare utilization, and costs. A qualitative process evaluation will complement the trial to explore implementation and contextual factors.                                                           Discussion                     If the InATheGer model demonstrates clinical effectiveness and cost-effectiveness, it will provide policymakers and healthcare stakeholders with evidence to inform the development and scaling of coordinated, interprofessional outpatient care for geriatric patients. Broad implementation of this model within routine geriatric outpatient care could enhance functional independence and quality of life among ageing populations while improving healthcare system efficiency.                                                           Trial registration                     German Clinical Trials Register (DRKS) registration number DRKS00036229. Prospectively registered on 08 April 2025.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-21",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-21",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/geront/gnag242",
+        "doi": "10.1093/geront/gnag242",
+        "url": "https://doi.org/10.1093/geront/gnag242",
+        "title": "Emergent Connections: A Community-Based Model for Advancing Social Connection Among Immigrant Older Adults with Disabilities",
+        "authors": [
+          "Laurent Reyes",
+          "Lizette Suarez"
+        ],
+        "abstract": "Abstract                                        Background and Objectives                     Social isolation is an urgent public health concern, especially for older immigrants who face heightened barriers to social participation due to disability, structural health inequities, and limited access to culturally and linguistically appropriate services. This study presents a programmatic model that explains how social connection and sustained participation can be fostered through accessible, culturally responsive, and participatory design.                                                           Research Design and Methods                     This community-engaged case study examines a national virtual program serving Spanish-speaking older adults, many of whom have sensory disabilities and chronic illnesses. A thematic and comparative analysis was conducted using qualitative interviews with ten older adults with vision impairment, program documents, and consultation with program leadership. This led to the identification of a programmatic model, the emergent connections platform.                                                           Results                     The emergent connections platform strengthens loosely connected social networks among older adults who share cultural and lived experiences through three pillars. The first is cultural, linguistic, and physically accessible infrastructure. Second, shared governance cultivates member leadership and program co-creation. Third, a flexible structure allows for evolution in response to member needs and innovations. These pillars collectively create pathways for individuals to engage, lead, and strengthen their communities.                                                           Discussion and Implications                     Advancing a more inclusive democracy requires sustained investment in accessible, community-led initiatives that support the leadership and innovation of marginalized older adults. This calls for moving towards models that position older adults as co-creators of programs and services. Doing so cultivates social connection through leadership, reciprocity, and a sense of belonging within a broader social fabric.",
+        "source": "The Gerontologist",
+        "issn": "0016-9013",
+        "date": "2026-10-20",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-21",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/gerona/glag251",
+        "doi": "10.1093/gerona/glag251",
+        "url": "https://doi.org/10.1093/gerona/glag251",
+        "title": "Longitudinal Association Between Prefrailty/Frailty and HIV-associated Neurocognitive Disorder (HAND): a Mexican Prospective Study",
+        "authors": [
+          "Jorge Arturo Esteva López",
+          "Neftali Eduardo Antonio-Villa",
+          "Marielena Esponda Farfan",
+          "José Alberto Avila-Funes",
+          "Virgilio Hernandez-Ruiz"
+        ],
+        "abstract": "Abstract                   Geriatric syndromes such as frailty may be more prevalent and occur earlier in people aging with HIV, negatively impacting outcomes like cognition. Cross-sectional data show strong associations between pre-frailty/frailty and HIV-associated neurocognitive disorders (HAND). However, prospective studies suggest baseline HAND increases frailty risk, while pre-frailty/frailty do not predict HAND onset. We aimed to investigate longitudinal association between baseline frailty and HAND category progression. Longitudinal analysis of 194 participants aged ≥50 years from Mexico City referral center. Two standardized geriatric assessments performed at least one year apart. HAND defined using Antinori criteria, frailty by Fried phenotype. Inverse probability weighted Cox models adjusted for confounders from directed acyclic graph (age, educational level, detectable viral load, diabetes, stroke, ischemic heart disease) determined association between frailty and HAND progression. Median age 55 (53–61) years; 167 (86%) men; median follow-up 2.3 (1.6–3.1) years. Baseline: 129 (66.4%) robust, 62 (31.9%) pre-frail, 3 (1.5%) frail. No longitudinal association between pre-frailty/frailty and HAND progression was observed in this cohort (32 progression events; adjusted HR = 0.63, 95% CI 0.27–1.48; p = 0.29). No evidence of a prospective association between prefrailty/frailty and HAND category progression was observed in this cohort; most participants remained cognitively stable. To our knowledge, this is the first study describing HAND trajectories and their relationship with prefrailty/frailty in older adults with HIV in Mexico and Latin America.",
+        "source": "The Journals of Gerontology, Series A: Biological Sciences and Medical Sciences",
+        "issn": "1079-5006",
+        "date": "2026-10-20",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "elderCare"
+        ],
+        "firstSeen": "2026-10-21",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70777",
+        "doi": "10.1111/jgs.70777",
+        "url": "https://doi.org/10.1111/jgs.70777",
+        "title": "Re‐Evaluating Predictive Performance in the Clinical Risk Analysis Index of Frailty",
+        "authors": [
+          "Nikita Desai",
+          "Michael A. Jacobs",
+          "Anh L. Tran",
+          "Hasan Nassereldine",
+          "Jeffrey C. McKibben",
+          "Katherine M. Reitz",
+          "Patrick R. Varley",
+          "Shipra Arya",
+          "Jason M. Johanning",
+          "Mark A. Wilson",
+          "Daniel E. Hall"
+        ],
+        "abstract": "ABSTRACT                                        Objective                     To examine whether the Risk Analysis Index (RAI), last calibrated in 2010–2014, requires scoring system changes to remain an effective measure of surgical frailty.                                                           Summary Background Data                     The RAI is among the most validated and widely used measures of surgical frailty. However, like any clinical prediction model, the RAI's scoring system might be prone to algorithmic drift that could invalidate continued use.                                                           Methods                     Retrospective cohort study of patients evaluated in outpatient surgery clinics at Veterans Health Administration (VHA) or University of Pittsburgh Medical Center (UPMC). All‐cause mortality was measured 180 days after frailty assessment using the RAI‐clinical questionnaire (RAI‐C).                                                           Results                                            In 410,715 patients from UPMC and 190,044 patients from VHA, the existing RAI‐C scoring system demonstrated strong discrimination (                       c                        = 0.868 95% CI [0.864–0.872] for UPMC, 0.827 [0.822–0.832] for VHA) which improved modestly after recalibrating parameter weights (                       c                        = 0.872 95% CI [0.868–0.876], for UPMC, 0.839 [0.834–0.845] for VHA). Calibration improved slightly, especially at the extremes where the model tends to underpredict mortality, but little change was observed in the range around the threshold of frailty. Of note, the scoring weights associated with a cancer diagnosis demonstrated some multicollinearity‐driven instability, but cancer remained the largest contributor to total score. Decision curve analysis demonstrated that reclassification of just a single additional patient as frail would require screening 1400–6000 patients with the recalibrated system, depending on the threshold score defining frailty, and after accounting for the harms of false‐positive classification, weighted proportional to the odds at each threshold probability.                                                                                Conclusions                     The RAI scoring system remains robust after a decade of widespread use without evidence of meaningful algorithmic drift. The minimal incremental improvement associated with recalibration does not justify the resources required to disseminate and implement a revised scoring system.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-10-20",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-21",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag261",
+        "doi": "10.1093/aje/kwag261",
+        "url": "https://doi.org/10.1093/aje/kwag261",
+        "title": "Exploring heterogeneous treatment effects for GLP-1 receptor agonists in patients with type 2 diabetes",
+        "authors": [
+          "Luke Keele",
+          "Matteo Bonvini",
+          "Andrea M Storås",
+          "Vik Shirvaikar",
+          "Haodong Li",
+          "Nils B Jørgensen",
+          "Afshin Salsali",
+          "Morten Medici",
+          "Andrew Mertens",
+          "Kajsa Kvist"
+        ],
+        "abstract": "Abstract                   Understanding treatment effect heterogeneity (TEH) is essential to improve care for patients living with chronic diseases like type 2 diabetes. Individual responses to treatment can vary substantially, and identifying the factors that drive TEH may enable increased personalization of treatment and follow-up. In this study, we conduct an exploratory analysis of TEH for glucagon-like peptide-1 receptor agonists used to treat type 2 diabetes. Endpoints are defined using hemoglobin A1c measurements, body mass index, and blood pressure. We use causal forests to conduct global tests for TEH, estimate variable importances to rank candidate effect modifiers, and estimate the magnitude of heterogeneity. Data from three clinical trials are analyzed: SUSTAIN 6 (subcutaneous semaglutide versus placebo, n=3297), PIONEER 6 (oral semaglutide versus placebo, n=3183), and LEADER (subcutaneous liraglutide versus placebo, n=9340), pooled to 13,670 patients after exclusions. Baseline hemoglobin A1c ranks highest among candidate effect modifiers across methods, and kidney function ranks next in the relative risk causal forest; we discuss their clinical implications. The magnitude estimates, however, show that the variation these covariates jointly explain is small. As such, large covariate-driven heterogeneity can be ruled out in these trials, and the average treatment effect provides a reasonable summary for most patients.",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-10-20",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-21",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag265",
+        "doi": "10.1093/aje/kwag265",
+        "url": "https://doi.org/10.1093/aje/kwag265",
+        "title": "Live-birth selection and the interpretation of hyperemesis gravidarum and adverse pregnancy outcomes",
+        "authors": [
+          "Yating Xie",
+          "Ting Ye"
+        ],
+        "abstract": "",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-10-20",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-21",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag266",
+        "doi": "10.1093/aje/kwag266",
+        "url": "https://doi.org/10.1093/aje/kwag266",
+        "title": "Myeloma ascertainment and the timing of selenium safety signals",
+        "authors": [
+          "Xin Chang"
+        ],
+        "abstract": "",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-10-20",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-21",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag267",
+        "doi": "10.1093/aje/kwag267",
+        "url": "https://doi.org/10.1093/aje/kwag267",
+        "title": "Maternal Education in Context: Reassessing the Infant Health Paradox among Latin American Immigrants",
+        "authors": [
+          "Tiffany T Liu",
+          "Tod G Hamilton"
+        ],
+        "abstract": "Abstract                   One aspect of the Hispanic Health Paradox is the longstanding observation that Latin American immigrants in the United States often experience equal or better health outcomes than U.S.-born counterparts despite greater socioeconomic disadvantage. This advantage extends to their infants and is most pronounced among mothers with the least education. Whether such patterns reflect selective migration remains unclear. This study evaluates the role of educational selectivity in explaining nativity disparities in infant health. Using U.S. natality data among immigrants from Mexico, Cuba, El Salvador, Guatemala, the Dominican Republic, Colombia, Honduras, and Venezuela (2012–2023), linked with internationally harmonized educational data, we assess preterm birth disparities using two measures of maternal education: absolute and relative attainment. Immigrants at the bottom of the U.S. education distribution often rank much higher in their origin countries, consistent with positive selection. For most births to Latin American mothers (except Colombian and Venezuelan), measuring education relative to origin-country distributions reverses immigrant advantages. At equivalent relative education ranks, immigrant mothers face comparable or higher risks of preterm birth than U.S.-born Hispanic mothers. These findings offer a new perspective on the Hispanic Health Paradox, highlighting the importance of relative education in understanding the association between maternal education and infant health.",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-10-20",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-21",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1093/gerona/glag250",
         "doi": "10.1093/gerona/glag250",
         "url": "https://doi.org/10.1093/gerona/glag250",
@@ -90384,6 +90944,49 @@
     ],
     "socialWork": [
       {
+        "id": "doi:10.1093/bjsw/bcag246",
+        "doi": "10.1093/bjsw/bcag246",
+        "url": "https://doi.org/10.1093/bjsw/bcag246",
+        "title": "Mapping love in social work: A scoping review of professional discourse and practice applications",
+        "authors": [
+          "Monica Chi Eaton",
+          "Jocelyn Chung",
+          "Biatah Dzameh"
+        ],
+        "abstract": "Abstract                   Love is frequently invoked in social work discourse yet is theorized indirectly and unevenly. Recent syntheses have advanced love as an anti-oppressive ethic for the profession; this scoping review complements that work by mapping how love itself is defined, located, and problematized across the breadth of social work scholarship. We searched PsycINFO, Social Services Abstracts, SocINDEX, Social Work Abstracts, and Google Scholar using “social work” AND love-related terms. Forty-nine sources met inclusion criteria. Data were analyzed using descriptive frequency mapping and inductive content analysis. Love appeared consistently as ethical virtue, compassion and care ethics, and emotional experience (100 percent of sources each). Relational attunement, educational practice, community belonging, justice themes, and spiritual expressions were frequently represented (78%–98%). Barriers and risks appeared in most sources. Five clusters emerged: dispositional foundations, relational carework, participatory practice, justice and liberation, and guardrails and sustainability. Love functions as a multidimensional construct across micro, mezzo, and macro practice levels. Contemporary attention reflects recognition of relational depth within professional boundaries rather than rejection of ethical rigor.",
+        "source": "The British Journal of Social Work",
+        "issn": "0045-3102",
+        "date": "2026-10-20",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-21",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/bjsw/bcag260",
+        "doi": "10.1093/bjsw/bcag260",
+        "url": "https://doi.org/10.1093/bjsw/bcag260",
+        "title": "Rethinking AI governance for social work through the triple mandate",
+        "authors": [
+          "Eunhye Ahn",
+          "Moon Choi",
+          "Claire R McNellan",
+          "Lauri Goldkind"
+        ],
+        "abstract": "Abstract                   As artificial intelligence (AI) systems become increasingly integrated into social work practice, questions arise about how they should be evaluated, monitored, and held accountable. Current AI governance frameworks, developed primarily for the private and general public sector contexts, rest on presuppositions that are rarely made explicit: AI deployment is inherently desirable, risks can be decomposed and addressed sequentially, institutions have adequate capacity to implement governance requirements, and affected populations participate voluntarily, with the ability to decline or appeal. Social work’s distinctive conditions (i.e. involuntary client engagement, irreversible high-stakes decisions, relational practice, professional discretion, and service to historically marginalized populations) create a context in which standard AI governance approaches fall short of securing accountability. Rather than proposing a new governance framework, this paper works diagnostically. We surface the conditions that current AI governance frameworks presuppose; trace how their failure in social work compromises transparency, contestability, and redress; and draw on Staub-Bernasconi’s triple mandate to propose a set of guiding questions for what any governance approach must address to remain accountable in this context.",
+        "source": "The British Journal of Social Work",
+        "issn": "0045-3102",
+        "date": "2026-10-20",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-21",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1093/bjsw/bcag264",
         "doi": "10.1093/bjsw/bcag264",
         "url": "https://doi.org/10.1093/bjsw/bcag264",
@@ -97810,10 +98413,10 @@
   },
   "totals": {
     "socialSecurity": 1574,
-    "elderCare": 642,
-    "healthReform": 982,
-    "agingHealth": 927,
-    "socialWork": 329
+    "elderCare": 647,
+    "healthReform": 991,
+    "agingHealth": 936,
+    "socialWork": 331
   },
   "feeds_ok": 41
 }
