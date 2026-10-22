@@ -1,8 +1,29 @@
 {
-  "date": "2026-10-21",
-  "fetched": "2026-10-21T06:13:33+00:00",
+  "date": "2026-10-22",
+  "fetched": "2026-10-22T06:17:27+00:00",
   "domains": {
     "socialSecurity": [
+      {
+        "id": "doi:10.1111/1468-0009.70136",
+        "doi": "10.1111/1468-0009.70136",
+        "url": "https://doi.org/10.1111/1468-0009.70136",
+        "title": "Health Data Utilities as Essential Public Infrastructure: A Cooperative Federalism Architecture",
+        "authors": [
+          "AMIT JAIN",
+          "SUNIL K. JAIN"
+        ],
+        "abstract": "Policy Points                                                                                                                                         Federal interoperability networks transport standardized clinical data but do not aggregate, enrich, or analyze the state‐governed data that clinical practice, public health, and Medicaid administration require locally. State‐designated health data utilities fill this structural gap through a cooperative federalism architecture in which states build and operate local data infrastructure and the federal government provides regulatory flexibility and financial incentives.                                                                                         The One Big Beautiful Bill Act requires states to implement twice‐yearly redeterminations beginning in 2027, creating a unified enforcement cycle that no existing infrastructure can absorb at scale. The health data utility offers the most administratively viable architecture for preventing catastrophic procedural disenrollments as state budgets contract.                                                                                         A four‐layer financing model distributes financial risk across state general funds, Medicaid enhanced matching, payer enrichment revenue, and value‐based payment integration. Federal action should formalize a health data utility profile within the Trusted Exchange Framework and Common Agreement and confirm enhanced Medicaid matching for shared infrastructure.                                                                                                                                                                                        Context                     Federal interoperability initiatives like Trusted Exchange Framework and Common Agreement transport clinical records across boundaries but fail to aggregate and enrich state‐governed datasets, including Medicaid claims, prescription monitoring records, and social service registries. This fragmentation creates fiscal and administrative liability for states, exacerbated by the One Big Beautiful Bill Act's mandate for twice‐yearly Medicaid redeterminations and work verifications beginning in 2027 amidst tightening state budgets.                                                           Methods                     Synthesizing health information exchange literature, existing state operational models (Maryland, Indiana, California, North Carolina), and federal statutory requirements, we propose a cooperative federalism governance model, technical data architecture, and multi‐payer financing strategy for state‐designated health data utilities (HDUs).                                                           Findings                     We propose an HDU architecture that can be adapted across multiple states, designed to directly advance clinical care delivery by functioning as an enrichment layer integrated natively into electronic health record workflows. By synthesizing longitudinal clinical encounters, controlled substance histories, claims, and social needs registries in real time, the proposed utility would deliver actionable predictive risk scores and automated point‐of‐care alerts to prevent avoidable readmissions, curtail redundant advanced imaging, and coordinate cross‐sector interventions for high‐risk patients. Operationally, the model pairs this bedside enrichment with automated eligibility and frailty verification, ensuring high‐need individuals maintain continuous access to essential clinical services.                                                           Conclusions                     Clinical data fragmentation is rooted in governance silos rather than technical barriers. Establishing state‐designated HDUs through a cooperative federalism model bridges bedside clinical practice, public health, and Medicaid administration. HDUs provide the integrated infrastructure necessary to prevent clinical crises, protect vulnerable populations, and improve care delivery at scale across the United States.",
+        "source": "The Milbank Quarterly",
+        "issn": "0887-378X",
+        "date": "2026-10-21",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "socialSecurity"
+        ],
+        "firstSeen": "2026-10-22",
+        "fetched_from": "crossref"
+      },
       {
         "id": "doi:10.1215/00703370-12863652",
         "doi": "10.1215/00703370-12863652",
@@ -24308,6 +24329,32 @@
     ],
     "elderCare": [
       {
+        "id": "doi:10.1186/s12877-026-08529-w",
+        "doi": "10.1186/s12877-026-08529-w",
+        "url": "https://doi.org/10.1186/s12877-026-08529-w",
+        "title": "Communicating neuropsychological assessment results: a qualitative study in Dutch memory clinic professionals",
+        "authors": [
+          "Marit Stolte",
+          "Jolanda H. M. Dobbe",
+          "Leonie N. C. Visser",
+          "Ellen Smets",
+          "Willemijn J. Jansen",
+          "Marjolein de Vugt",
+          "Inez Ramakers"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-22",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-22",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1186/s12877-026-08413-7",
         "doi": "10.1186/s12877-026-08413-7",
         "url": "https://doi.org/10.1186/s12877-026-08413-7",
@@ -24365,6 +24412,385 @@
           "agingHealth"
         ],
         "firstSeen": "2026-10-21",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/geront/gnag240",
+        "doi": "10.1093/geront/gnag240",
+        "url": "https://doi.org/10.1093/geront/gnag240",
+        "title": "Caring across borders: ageing and digital technology in transnational families",
+        "authors": [
+          "Yan Wen",
+          "Nan Zhang",
+          "Athina Vlachantoni",
+          "Fiona Stanaway"
+        ],
+        "abstract": "Abstract                                        Background and Objectives                     The rise of transnational families has generated new care arrangements in which migrant children use digital technologies to support ageing parents across borders. While the functional role of digital technologies in facilitating remote care is well documented, their relational and culturally embedded dimensions remain less understood. This review synthesises recent evidence on how digital technologies shape transnational caregiving.                                                           Research Design and Methods                     Eight electronic sources were systematically searched for studies on transnational families, ageing, digital technology (including artificial intelligence—AI), and care, published between 2020 and 2025. Eligible studies were extracted, coded, and analysed using thematic analysis.                                                           Results                     Fourteen studies met the inclusion criteria and were included in the analysis. Five themes were identified: 1) adoption and challenges for transnational ICT-mediated care; 2) ambivalence towards digital intimacy; 3) emotional labour and strategic concealment in transnational family care; 4) cultural norms and moral hierarchies of digital care; 5) structural inequalities in transnational care. Digital technologies both foster connection and amplify separation, serving as symbolic markers of family devotion and tools for managing information across generations. Rather than democratising care, technologies often reinforce existing global North–South, gendered, and class-based inequalities.                                                           Discussion and Implications                     Digital technologies both sustain and transform transnational care, yet digitally mediated care remains relational and structurally constrained. Stronger digital inclusion and coordinated cross-border care infrastructures are needed to support ageing transnational families, while avoiding the reproduction of existing social, gendered, and global inequalities, and enabling older adults to age with dignity, connection, and security.",
+        "source": "The Gerontologist",
+        "issn": "0016-9013",
+        "date": "2026-10-21",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/geront/gnag249",
+        "doi": "10.1093/geront/gnag249",
+        "url": "https://doi.org/10.1093/geront/gnag249",
+        "title": "Age trajectories of informal caregiving for older people in England: Testing the healthy caregiver hypothesis",
+        "authors": [
+          "Bo Hu"
+        ],
+        "abstract": "Abstract                                        Background and Objectives                     This study investigates how health status shapes the age trajectories of informal caregiving for spouses and older parents in England.                                                           Research Design and Methods                     The data came from five waves (2012–2023) of the English Longitudinal Study of Ageing (ELSA). We analysed 41,997 person-wave observations from 12,420 individuals aged 50+. We derived a latent health construct via hierarchical confirmatory factor analysis, integrating functional, mental, physical, and cognitive domains. Dynamic random-effects models were employed to examine the influence of prior health on consequent caregiving, and initial condition adjustment was made to correct estimation bias.                                                           Results                     Among those with a spouse, parents, or parents-in-law, healthier individuals demonstrated steeper increases in caregiving probability over time, while those in poor health showed flatter or declining caregiving trajectories. For spousal caregiving, better health was associated with a lower likelihood of caregiving at age 50, but this relationship turned positive from age 70 onwards. For parental caregiving, better health was associated with a higher likelihood of caregiving from age 53 onwards.                                                           Discussion and Implications                     Overall the research findings are consistent with the healthy caregiver hypothesis, particularly in later life. Good health facilitates the provision of informal care, whereas poor health compromises caregiving capability and constitutes a barrier to taking on a caregiving role. A healthier older population not only means lower care needs but also has greater capacity to provide care.",
+        "source": "The Gerontologist",
+        "issn": "0016-9013",
+        "date": "2026-10-21",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/geront/gnag245",
+        "doi": "10.1093/geront/gnag245",
+        "url": "https://doi.org/10.1093/geront/gnag245",
+        "title": "Balance on the Brain: Multimodal exercise programme evaluating physical performance, falls, quality of life and cognition for people with mild cognitive impairment-randomised controlled trial",
+        "authors": [
+          "Elissa Burton",
+          "Nicola T Lautenschlager",
+          "Kathryn A Ellis",
+          "Angela Jacques",
+          "Anne-Marie Hill",
+          "Meggen Lowry",
+          "Rachael Moorin",
+          "Joanne McVeigh",
+          "Kirk I Erickson",
+          "Joel Tate",
+          "Sarah Bernard",
+          "Carolyn F Orr",
+          "Luke Bongiascia",
+          "Melanie L Clark",
+          "Keith D Hill"
+        ],
+        "abstract": "Abstract                                        Background and Objectives                     The aim of this study was to evaluate whether a balance-focused multimodal exercise programme improves balance and reduces falls for people with mild cognitive impairment.                                                           Research Design and Methods                     A single-blind randomised controlled trial (n = 128, before withdrawals), with 6-month intervention, followed by 6-month maintenance period. The intervention, Balance on the Brain, consisted of three exercise programmes: walking, Balance Yourself and Clock Yourself.                                                           Results                     Data from 126 adults with mild cognitive impairment were included in the study (median age = 76, 63% female). The study did not meet the required sample size to be fully powered for either falls or balance primary outcomes. Therefore, the lack of significant between-group differences for the primary outcomes of falls or balance at 6 and 12-months remains inconclusive, due to insufficient power. Fifty-nine percent (n = 38) of intervention participants were identified as adherers. Adherers’ balance improved significantly compared to low-adherers/controls at 6 and 12-months and intervention adherers fell less than low-adherers/controls, although the difference was not significant. However, the adherers data were exploratory and need to be used with caution.                                                           Discussion and Implications                     Balance on the Brain was underpowered and as such the non-significant primary balance and falls outcomes should be interpreted as inconclusive for people living with mild cognitive impairment in the community. Those who adhered demonstrated improved balance, and reduced falls compared to low-adherers/controls, however these data should be interpreted as exploratory and with caution.",
+        "source": "The Gerontologist",
+        "issn": "0016-9013",
+        "date": "2026-10-21",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/geront/gnag247",
+        "doi": "10.1093/geront/gnag247",
+        "url": "https://doi.org/10.1093/geront/gnag247",
+        "title": "Supporting Diversity in Health and Aging Research and Education: Recommendations from a Multidisciplinary Gerontological Symposium",
+        "authors": [
+          "Angela K Perone",
+          "DeAnnah R Byrd",
+          "Chanee D Fabius",
+          "Linda Hollis",
+          "Paul Nash",
+          "Tina M K Newsham",
+          "LaDora V Thompson",
+          "LaVona Traywick",
+          "Bei Wu"
+        ],
+        "abstract": "Abstract                   Increasing attacks on diversity, equity, and inclusion (DEI) have left many researchers and educators in aging scrambling on how best to navigate this political landscape in their research and teaching. In response, the Gerontological Society of America (GSA)’s Public Policy Advisory Panel convened a multidisciplinary panel discussion of experts from the six GSA member groups and three advisory panels in November 2025 to discuss the current state of the research and education, particularly as it relates to diversity in health and aging; current efforts by researchers and educators to adapt and respond to these efforts; and future actionable recommendations on how to continue to support DEI principles in all phases of health and aging research and education. Several common themes emerged across disciplines (collaboration, education, mentorship, and research) that led to four key recommendations: (1) cultivate authentic community relationships and collaboration; (2) intentionally engage historically excluded populations; (3) innovate; and (4) invoke national and state professional and competency standards. Ultimately, this multidisciplinary convening and its ensuing recommendations provide gerontological researchers and educators with both context and guidance for navigating recent attacks on DEI and contribute to a broader conversation on this important topic.",
+        "source": "The Gerontologist",
+        "issn": "0016-9013",
+        "date": "2026-10-21",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70757",
+        "doi": "10.1111/jgs.70757",
+        "url": "https://doi.org/10.1111/jgs.70757",
+        "title": "Assessing the Effects of Hurricane Hazards on Hospitalization or Death Among Older Adults Using Electricity‐Dependent Medical Devices",
+        "authors": [
+          "Bradford E. Jackson",
+          "Arrianna Marie Planey",
+          "Helena M. Garcia",
+          "Shabbar Ranapurwala",
+          "Christopher D. Baggett",
+          "Jillian Evans‐Strong",
+          "Amy Lowman",
+          "Paul Delamater",
+          "Eboneé Nicole Butler",
+          "John Wallace",
+          "Jennifer L. Lund"
+        ],
+        "abstract": "ABSTRACT                                        Background                     To evaluate short‐term effects of Hurricanes Matthew (2016) and Florence (2018) on hospitalization or death among older adults using electricity—dependent durable medical equipment (edDME) in North Carolina, and to assess how hurricane exposure definitions influence associations.                                                           Methods                     We conducted controlled interrupted time series analyses using NC Medicare data (2015–2019). Monthly cohorts of beneficiaries aged ≥ 65 years with recent edDME use were classified as hurricane‐exposed or unexposed using FEMA county‐level disaster declarations. Exploratory analyses applied North Carolina Flood Extent Archive (FLDEX) to define exposure by residential flooding thresholds. The primary outcome was 30‐day all cause hospitalization or death. ARIMA models estimated immediate level changes and sustained trends, including race‐stratified analysis.                                                           Results                     Using FEMA definitions, we observed no significant immediate changes following either hurricane, but a sustained increase in hospitalization or death after Hurricane Matthew. FLDEX‐based analyses showed stronger and more consistent exposure‐outcome associations, particularly at higher flooding thresholds and among Black beneficiaries.                                                           Conclusions                     Coarse FEMA disaster designations may obscure important dose‐dependent and racially patterned health effects of hurricanes. Higher‐resolution exposure metrics may improve disaster surveillance and targeting of preparedness resources for medically vulnerable populations.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-10-21",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70787",
+        "doi": "10.1111/jgs.70787",
+        "url": "https://doi.org/10.1111/jgs.70787",
+        "title": "Dextromethorphan‐Bupropion (Auvelity)—A Drug to Avoid Prescribing, Even If It Were Free",
+        "authors": [
+          "Eric Widera",
+          "Kenneth Covinsky"
+        ],
+        "abstract": "",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-10-21",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70803",
+        "doi": "10.1111/jgs.70803",
+        "url": "https://doi.org/10.1111/jgs.70803",
+        "title": "“Used Ta”",
+        "authors": [
+          "Leslie R. Brody"
+        ],
+        "abstract": "",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-10-21",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70806",
+        "doi": "10.1111/jgs.70806",
+        "url": "https://doi.org/10.1111/jgs.70806",
+        "title": "<scp>PRODG</scp>\n                    Multi‐Center Trial: A Critical Appraisal of Efficacy Estimates and Statistical Interpretation",
+        "authors": [
+          "Tingting Sun",
+          "Yin Wang"
+        ],
+        "abstract": "",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-10-21",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08423-5",
+        "doi": "10.1186/s12877-026-08423-5",
+        "url": "https://doi.org/10.1186/s12877-026-08423-5",
+        "title": "Preliminary findings on the effects of a group-based digital gaming intervention on individuals with early to moderate dementia: a pre- and post-intervention study",
+        "authors": [
+          "Megumi Inoue",
+          "Michelle Hand",
+          "Li-Mei Chen",
+          "Divya Bhavanam",
+          "Nahida Farheen Shaik",
+          "S B Yuvaraj Rejeti",
+          "Emma Booker",
+          "Eyesha Shaikh",
+          "Samreen Mehak",
+          "Sarah Hough",
+          "Naoru Koizumi"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-21",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08525-0",
+        "doi": "10.1186/s12877-026-08525-0",
+        "url": "https://doi.org/10.1186/s12877-026-08525-0",
+        "title": "Smart wearable device ownership and depressive symptoms among older adults in China: a longitudinal fixed-effects analysis",
+        "authors": [
+          "Hao Ji",
+          "Weiguang Pan",
+          "Mengxin Zhang",
+          "Yingying Yu"
+        ],
+        "abstract": "Abstract                                        Background                     Smart wearable devices are increasingly incorporated into later-life health management, but longitudinal evidence concerning device ownership and depressive symptoms remains limited.                                                           Objective                     This study examined the within-person association between smart wearable device ownership and depressive symptoms among older adults in China, alongside concurrent psychosocial and behavioral characteristics and variation across digital and sociodemographic contexts.                                                           Methods                     Data were drawn from the 2018, 2020, and 2023 waves of the China Longitudinal Aging Social Survey. The baseline analytical sample comprised 30,255 person-year observations from 16,752 respondents. Two-way fixed-effects models were estimated using 22,536 observations from 9,033 repeatedly observed respondents, including 902 ownership switchers. Depressive symptoms were measured using a reverse-coded nine-item CES-D score. Additional analyses examined health perception, social adaptation, leisure participation, mobile phone proficiency, sociodemographic heterogeneity, sample selection, and attrition.                                                           Results                                            Smart wristband or smartwatch ownership was positively associated with the reverse-coded CES-D score within individuals (                       β =                        0.719, 95% CI [0.414, 1.024]), indicating fewer depressive symptoms during waves in which ownership was reported. The association remained positive across multiple sensitivity analyses. Ownership also covaried positively with health perception, social adaptation, and leisure participation, although their contemporaneous measurement precluded causal mediation claims. Contemporaneous analyses showed a more favorable ownership association at higher levels of self-rated mobile phone proficiency (linear interaction                       β =                        1.890,                       p &lt;                       .001), whereas prior-proficiency analyses produced weaker evidence. Heterogeneity was statistically supported for hukou origin, but not for gender, age, or education after multiplicity adjustment.                                                                                Conclusions                     Smart wearable device ownership was positively associated with fewer depressive symptoms within individuals, but the findings do not establish a causal effect. Digital capabilities and institutional context appear important for understanding heterogeneity in the ownership–depressive-symptom association.                                                           Clinical trial number                     Not applicable.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-21",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08520-5",
+        "doi": "10.1186/s12877-026-08520-5",
+        "url": "https://doi.org/10.1186/s12877-026-08520-5",
+        "title": "Association of the red blood cell distribution width-to-albumin ratio with major geriatric syndromes: a retrospective cross-sectional single-centre study",
+        "authors": [
+          "Mustafa Levent",
+          "Sibel Akın"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-21",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08362-1",
+        "doi": "10.1186/s12877-026-08362-1",
+        "url": "https://doi.org/10.1186/s12877-026-08362-1",
+        "title": "Community geriatric telemedicine in Malaysia (CORTICAL©): A collaborative modified Delphi method for shared care strategies involving family medicine specialists and geriatricians",
+        "authors": [
+          "Sarinah Tamring",
+          "Aznida Firzah Abdul Aziz",
+          "Mohd Fairuz Ali",
+          "Hui Min Khor",
+          "Terence Ong",
+          "Nor Faizah Ghazali",
+          "Nor Haslinda Ishak",
+          "Nurul Izza Yunus",
+          "Sally Suriani Ahip",
+          "Yusliza Azreen Mohd Yusoff"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-21",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-07987-6",
+        "doi": "10.1186/s12877-026-07987-6",
+        "url": "https://doi.org/10.1186/s12877-026-07987-6",
+        "title": "Latent profile analysis of digital health literacy among digital device-using older adults with coronary heart disease: a cross-sectional study",
+        "authors": [
+          "Xiaomin Tu",
+          "Yangyang Hu",
+          "Yunxia Jiang",
+          "Haichao Wang",
+          "Mengni Tang",
+          "Aimin Wang"
+        ],
+        "abstract": "Abstract                                        Objectives                     Our study aimed to analyze the latent profiles of digital health literacy among community-dwelling older adults with clinically diagnosed coronary heart disease (CHD) who can use digital devices, and to explore factors associated with different profiles.                                                           Methods                     This cross-sectional survey was conducted among community-dwelling older adults with clinically diagnosed CHD who can use digital devices in Qingdao, from October 2024 to December 2024. Data were collected using a Demographic and Clinical questionnaire, the Older Digital Health Literacy Scale, and the Online Health Information Seeking Behavior Scale. We performed latent profile analysis to identify the latent profile of older adults with CHD. And we used chi-square and multinomial logistic regression analysis to explore associated factors.                                                           Results                                            A total of 371 older coronary heart disease patients completed the questionnaire. The digital health literacy score was (39.31 ± 7.27) points. Statistical fit indices (LMR and BLRT) supported a three-class solution (                       p                        &lt; 0.001):                       low literacy type                       (                       n                        = 96, 26.3%),                       middle literacy type                       (                       n                        = 188, 50.5%), and                       high literacy type                       (                       n                        = 87, 23.2%). Place of residence, monthly household income, living arrangements, duration of coronary heart disease, frequency of using digital devices for health, and online health information seeking were significant associated with the different latent profiles (                       p                        &lt; 0.05).                                                                                Conclusion                     Three distinct latent profiles of digital health literacy were identified among older adults with CHD, each exhibiting significant differences in characteristics. Based on the identified profiles, tailored interventions may differ in focus: basic digital skill training for the low literacy group, guided and confidence-enhancing strategies for the middle literacy group, and advanced engagement optimization for the high literacy group. Higher levels of digital health literacy were associated with greater potential capacity for disease self-management. Notably, the findings in this study should be interpreted in light of the cross-sectional design and exclusion of non-digital-device users.                                                           Trial registration                     Clinical trial number: not applicable. This study didn’t report any results of a health care intervention on human participants.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-21",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08532-1",
+        "doi": "10.1186/s12877-026-08532-1",
+        "url": "https://doi.org/10.1186/s12877-026-08532-1",
+        "title": "Feasibility of a multidimensional interdisciplinary rehabilitation program for people with dementia and their informal primary caregivers – a randomized pilot trial with a caregiver focus",
+        "authors": [
+          "Mia Conradsson",
+          "Birgitta Olofsson",
+          "Henrik Holmberg",
+          "Nina Lindelöf",
+          "Ingeborg Nilsson",
+          "Yngve Gustafson",
+          "Håkan Littbrand"
+        ],
+        "abstract": "Abstract                                        Background                     To improve the situation of informal caregivers, both supportive efforts for caregiver and rehabilitation for the person with dementia, may be needed. This randomized controlled pilot trial evaluated, among caregivers, the feasibility of a person-centred multidimensional interdisciplinary rehabilitation program for community-dwelling people with dementia that incorporated an education and support intervention for informal caregivers.                                                           Methods                     Informal caregivers were randomized alongside the person with dementia to an intervention group (n=36) or usual care (n=31). Multiprofessional team rehabilitation for individuals with dementia and support for caregivers, were offered for one 20-week and two 4-week follow-up periods after 5 and 14 months. Caregivers were offered assessments, participation in group sessions, and individual support. After the last group session, scheduled during the last four weeks of the 20-week period, a survey was distributed. Attendance at group sessions and uptake of individual support were recorded. Blinded assessments of caregiver burden (Caregiver Burden Scale, CBS), depressive symptoms (Geriatric Depression Scale 15-item version, GDS) and health-related quality of life (Short Form 36–Health Survey, SF-36), were performed at baseline and after 5, 12, 24, and 36 months.                                                           Results                     Thirty-seven participants (56%) were spouses and 26 (39%) were adult children. Participation rate in assessments of outcomes at 36 months was 100% and 87% for intervention and control group in GDS and SF-36, respectively, and 69% and 61% for CBS, respectively. Missing data were primarily due to mortality. All caregivers in the intervention group (n=36) were assessed, and all received individual interventions by team staff. Twenty-three caregivers attended group sessions, and 21 completed a survey after the last session. Twenty (95%) caregivers reported increased knowledge about supporting the person with dementia, and 19 (90%) improved coping strategies. No significant differences were observed between groups in depressive symptoms or caregiver burden, yet differences in favour of the control group were seen in subscales of health-related quality of life at 24 and 36 months.                                                           Conclusions                     The program, combining rehabilitation for the person with dementia with caregiver support, seems feasible regarding caregivers’ participation in the intervention and study evaluation, and thus further evaluation in an adequately powered randomized controlled trial seems relevant. A future definitive trial should evaluate continuous support over a longer period adapted to the caregiver and refine assessment procedures, including conducting assessments during ongoing interventions to provide greater insights into rehabilitation and caregiver-support effects.                                                           Trial registration                     The study protocol is published online 04/11/2015 at http://www.isrctn.com/ISRCTN59155421.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-21",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08531-2",
+        "doi": "10.1186/s12877-026-08531-2",
+        "url": "https://doi.org/10.1186/s12877-026-08531-2",
+        "title": "Examining polypharmacy risks and impact on clinical outcomes in older adults: insights from a cohort study",
+        "authors": [
+          "Raneem Milyani",
+          "Hashim Balubaid",
+          "Nour Elsobky",
+          "Shorouq Albalawi",
+          "Faris Aldawsari",
+          "Fahad Ali Al Asiri",
+          "Ghazwa B. Korayem",
+          "Mohamed A. Albekery",
+          "Khalid Al Sulaiman"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-21",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-22",
         "fetched_from": "crossref"
       },
       {
@@ -24440,6 +24866,78 @@
           "agingHealth"
         ],
         "firstSeen": "2026-10-21",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/geront/gnag241",
+        "doi": "10.1093/geront/gnag241",
+        "url": "https://doi.org/10.1093/geront/gnag241",
+        "title": "Determinants of Self-Care Practices Among Family Caregivers of Older Adults with Chronic Illness: A Qualitative Descriptive Study",
+        "authors": [
+          "Soojung Ahn",
+          "Kemberlee Bonnet",
+          "Ashley Sellers",
+          "Christopher S Lee",
+          "Mulubrhan F Mogos"
+        ],
+        "abstract": "Abstract                                        Background and Objectives                     Caregiver burden significantly impedes self-care, often resulting in poor health and increased vulnerability to chronic illness. Despite these risks, the underlying factors influencing caregivers’ self-care remain understudied. This qualitative descriptive study explored the context of caregiver self-care and identified perceived barriers and facilitators to practicing self-care.                                                           Research Design and Methods                     We conducted four focus groups with 14 caregivers primarily responsible for providing in-home care to older adults (≥ 65 years) with chronic illnesses. Focus groups were audio-recorded and transcribed. A hierarchical coding system was developed and refined using the focus group guide and preliminary transcript review. Coded transcripts were analyzed using an iterative inductive-deductive thematic approach based on established theories.                                                           Results                     Caregivers’ multi-dimensional definitions of self-care shaped their perceived barriers and facilitators. Three core determinants of self-care behaviors were identified: capability (caregivers’ psychological and physical health, and behavioral regulation); motivation (caregiver identity, emotions, and perceived control); and opportunity (social and environmental influences and resources). Caregivers recognized that self-care deficits negatively affect their clinical, behavioral, and psychosocial outcomes. These results informed the development of a conceptual framework for caregiver self-care.                                                           Discussion and Implications                     Findings underscore the importance of integrating caregivers’ own perceptions of self-care into support models. Interventions should transition toward personalized approaches that address both intrinsic psychological drivers and extrinsic environmental constraints. The framework derived from this study provides a theory-driven roadmap that informs future interventions, ensuring support systems align with caregivers’ unique needs and contexts to foster better self-care and ultimately enhance their health outcomes.",
+        "source": "The Gerontologist",
+        "issn": "0016-9013",
+        "date": "2026-10-20",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/geront/gnag243",
+        "doi": "10.1093/geront/gnag243",
+        "url": "https://doi.org/10.1093/geront/gnag243",
+        "title": "Multilingual Dementia Training for Paid Caregivers: A RE-AIM Mixed-Methods Evaluation",
+        "authors": [
+          "Jarmin Yeh",
+          "Brittney Pond",
+          "Matthew Beld",
+          "Suzanna M Martinez",
+          "Kattia Suarez Vargas",
+          "Melinda Neri"
+        ],
+        "abstract": "Abstract                                        Background and Objectives                     This study evaluated the IHSS+ ADRD Training Project, a multilingual intervention for caregivers serving individuals living with Alzheimer’s disease and related dementias (ADRD) through California’s In-Home Supportive Services (IHSS) program, using the RE-AIM (Reach, Effectiveness, Adoption, Implementation, Maintenance) framework.                                                           Research Design and Methods                     A quasi-experimental, mixed-methods evaluation was conducted from July 2019 to June 2024 across Alameda and Los Angeles counties. By applying the RE-AIM framework, Reach and Effectiveness dimensions were assessed through surveys completed by 488 caregivers in English (n = 297), Spanish (n = 102), and Chinese (n = 89) at pre-training, post-training, and 3-month follow-up. Caregivers were diverse among English speakers (38% Black/African American, 23% Hispanic/Latino, and 20% Asian), averaged 49.9 years old, and were predominantly women (88%). Quantitative measures assessed dementia knowledge, self-efficacy, distress, and depression. Qualitative interviews with stakeholders (n = 11) and open-ended caregiver survey responses explored Adoption, Implementation, and Maintenance dimensions                                                           Results                     RE-AIM findings demonstrated: Reach across diverse caregiver populations in multilingual formats; Effectiveness with significant improvements in dementia knowledge and self-efficacy sustained at 3-month follow-up, plus 88-99% satisfaction; Adoption facilitated by union partnership; Implementation successfully transitioned to virtual delivery during COVID-19 despite technology barriers; and Maintenance supported by increased caregiver confidence, self-care awareness, and stress management skills, though sustainability required ongoing funding.                                                           Discussion and Implications                     Language-concordant training produced meaningful, sustained improvements across a diverse paid caregiver workforce, demonstrating its value as an equity strategy in home care workforce development. While virtual delivery was feasible and cost-effective, long-term success depends on securing dedicated funding and reliable technology infrastructure.",
+        "source": "The Gerontologist",
+        "issn": "0016-9013",
+        "date": "2026-10-20",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/geront/gnag244",
+        "doi": "10.1093/geront/gnag244",
+        "url": "https://doi.org/10.1093/geront/gnag244",
+        "title": "Drafting the next chapter: A scoping review of academic retirement planning",
+        "authors": [
+          "Michelle Pannor Silver",
+          "Julia Victoria Wong",
+          "Kathryn Barrett",
+          "Yassine Belghiti"
+        ],
+        "abstract": "Abstract                                        Background and Objectives                     Interest in retirement planning among university faculty has grown in recent years as more academics approach traditional retirement age. This scoping review examines the current literature on retirement planning among higher education faculty by examining study characteristics; participant characteristics; theoretical frameworks employed; factors influencing retirement planning; and the quality of the included studies.                                                           Research Design and Methods                     A comprehensive search across Medline, Embase, APA PsycInfo, AgeLine, ERIC, Education Source, Business Source Premier, Sociological Abstracts, International Bibliography of the Social Sciences, JSTOR, and Web of Science Core Collection yielded an initial dataset of 8,906 unique articles. Following full-text assessment, 44 studies met the inclusion criteria.                                                           Results                     Five factors prevailed across this literature as key mechanisms in academic retirement planning, including: 1) financial security; 2) health factors; 3) age and/or institutional policies; 4) work, family, and lifestyle factors; and 5) professional identity. Participant characteristics such as age, gender, stage of retirement, and other characteristics of the academic environment were reported inconsistently across the literature; only 14 of the studies mentioned a theoretical framework.                                                           Discussion and Implications                     This is the first scoping review of academic retirement with a focus on planning that includes a range of methods. While health and financial security remain central to retirement planning broadly, the studies in this review suggest that professional identity plays a distinct role in shaping how academics approach retirement planning. Implications include the need for longitudinal designs to capture how faculty transitions, shifting professional identities, and planning behaviors evolve dynamically over time.",
+        "source": "The Gerontologist",
+        "issn": "0016-9013",
+        "date": "2026-10-20",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-22",
         "fetched_from": "crossref"
       },
       {
@@ -40664,6 +41162,827 @@
         "fetched_from": "crossref"
       },
       {
+        "id": "doi:10.1056/nejmoa2607887",
+        "doi": "10.1056/nejmoa2607887",
+        "url": "https://doi.org/10.1056/nejmoa2607887",
+        "title": "Response-Tailored or Standard-Duration Antibiotic Treatment for Infective Endocarditis",
+        "authors": [
+          "Henning Bundgaard",
+          "Mia Pries-Heje",
+          "Julie Hjulmand",
+          "Rasmus Hasselbalch",
+          "Peter Godsk Jørgensen",
+          "Søren Fanø",
+          "Nana Køber",
+          "Christian Tuxen",
+          "Nareen Kader",
+          "Ekim Seven",
+          "Lars Ege Rasmussen",
+          "Malene Wienberg",
+          "Niels Eske Bruun",
+          "Marlene Tofterup",
+          "Magnus Rasmussen",
+          "Lindsey R. Baden",
+          "Ann Woolley",
+          "Theis Lange",
+          "Jannik Helweg-Larsen",
+          "Jonas Agerlund Povlsen",
+          "Emil Fosbøl",
+          "Claus Moser",
+          "Kasper Iversen"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-10-22",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmoa2608717",
+        "doi": "10.1056/nejmoa2608717",
+        "url": "https://doi.org/10.1056/nejmoa2608717",
+        "title": "Milvexian with Antiplatelet Therapy after Acute Coronary Syndrome Event",
+        "authors": [
+          "C. Michael Gibson",
+          "P. Gabriel Steg",
+          "M. Cecilia Bahit",
+          "Rasha Al-Lamee",
+          "Shamir R. Mehta",
+          "Roxana Mehran",
+          "Jeffrey I. Weitz",
+          "Shinya Goto",
+          "Jose Carlos Nicolau",
+          "Renato D. Lopes",
+          "Junbo Ge",
+          "Nebojsa Tasic",
+          "Dominick J. Angiolillo",
+          "Suzanne J. Baron",
+          "Ajay J. Kirtane",
+          "Denis Xavier",
+          "Satoshi Yasuda",
+          "Basil S. Lewis",
+          "Duk-Woo Park",
+          "Jan H. Cornel",
+          "Thomas W. Johnson",
+          "Jaroslaw Trebacz",
+          "Daniel Duerschmied",
+          "Christoph Bode",
+          "Bela Merkely",
+          "Maria Dorobantu",
+          "Dragos Vinereanu",
+          "Zuzana Motovska",
+          "Hector Bueno",
+          "Jose Luis Lopez-Sendon",
+          "Gregory Ducrocq",
+          "Giuseppe Ambrosio",
+          "Lesley Burgess",
+          "Allan Bohm",
+          "Chern-En Chiang",
+          "Joao Morais",
+          "Alan Fong",
+          "Umit Guray",
+          "Jose Luis Leiva-Pons",
+          "Pascal Vranckx",
+          "Harvey D. White",
+          "Sasko Kedev",
+          "Marco Valgimigli",
+          "Duško Cerovec",
+          "Dimitris Tousoulis",
+          "Gemma Figtree",
+          "Thuong Dung Ho",
+          "Rody G. Sy",
+          "Morten Bøttcher",
+          "Kurt Huber",
+          "Rimvydas Slapikas",
+          "Andrejs Erglis",
+          "Jack Wei Chieh Tan",
+          "Christian Pincetti",
+          "Karen S. Pieper",
+          "Kenneth W. Mahaffey",
+          "Carolyn S.P. Lam",
+          "S. Claiborne Johnston",
+          "Graeme J. Hankey",
+          "Jennifer S. Li",
+          "Luke Zheng",
+          "Ronald Aronson",
+          "Danshi Li",
+          "Ravi Notani",
+          "Philippe Vieira Pires",
+          "Thomas J. Povsic",
+          "Alistair C. Lindsay",
+          "Alexei Plotnikov",
+          "Hsiaowei Deng",
+          "Elliot S. Barnathan",
+          "Robert A. Harrington"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-10-22",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmc2604891",
+        "doi": "10.1056/nejmc2604891",
+        "url": "https://doi.org/10.1056/nejmc2604891",
+        "title": "In Vivo Aquaporin-1 Circular RNA Therapy for Radiation-Induced Xerostomia",
+        "authors": [
+          "Henry T. Hoffman",
+          "Harry Quon",
+          "Christopher H. Rassekh",
+          "Hariz Hassan"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-10-22",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmc2609433",
+        "doi": "10.1056/nejmc2609433",
+        "url": "https://doi.org/10.1056/nejmc2609433",
+        "title": "IVUS-Guided PCI in Left Main Coronary Disease",
+        "authors": [],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-10-22",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmc2610073",
+        "doi": "10.1056/nejmc2610073",
+        "url": "https://doi.org/10.1056/nejmc2610073",
+        "title": "Pulsed Field Ablation for Persistent Atrial Fibrillation",
+        "authors": [],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-10-22",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmc2611022",
+        "doi": "10.1056/nejmc2611022",
+        "url": "https://doi.org/10.1056/nejmc2611022",
+        "title": "Daraxonrasib in Previously Treated Metastatic Pancreatic Cancer",
+        "authors": [],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-10-22",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmc2611023",
+        "doi": "10.1056/nejmc2611023",
+        "url": "https://doi.org/10.1056/nejmc2611023",
+        "title": "Mavacamten and Obstructive Hypertrophic Cardiomyopathy in Teens",
+        "authors": [],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-10-22",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmcpc2603184",
+        "doi": "10.1056/nejmcpc2603184",
+        "url": "https://doi.org/10.1056/nejmcpc2603184",
+        "title": "Case 30-2026: A 52-Year-Old Man with Vision Loss in the Left Eye",
+        "authors": [
+          "Lucia Sobrin",
+          "K. Matthew McKay",
+          "Victor Kovac",
+          "Frances Wu",
+          "Anna M. Stagner"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-10-22",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejme2610330",
+        "doi": "10.1056/nejme2610330",
+        "url": "https://doi.org/10.1056/nejme2610330",
+        "title": "Ianalumab in Sjögren’s Disease — A First Step",
+        "authors": [
+          "Simone Negrini"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-10-22",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejme2612343",
+        "doi": "10.1056/nejme2612343",
+        "url": "https://doi.org/10.1056/nejme2612343",
+        "title": "Role for Factor XIa Inhibitors after an Acute Coronary Syndrome Event",
+        "authors": [
+          "Debabrata Mukherjee"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-10-22",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejme2612352",
+        "doi": "10.1056/nejme2612352",
+        "url": "https://doi.org/10.1056/nejme2612352",
+        "title": "Infective Endocarditis — When Is Enough Enough?",
+        "authors": [
+          "Daniel C. DeSimone",
+          "Larry M. Baddour"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-10-22",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmicm2517156",
+        "doi": "10.1056/nejmicm2517156",
+        "url": "https://doi.org/10.1056/nejmicm2517156",
+        "title": "Tuberculous Empyema Resulting in Pseudochylothorax",
+        "authors": [
+          "Amirmorteza Soleimani",
+          "Yasna Aghagoli"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-10-22",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmms2608116",
+        "doi": "10.1056/nejmms2608116",
+        "url": "https://doi.org/10.1056/nejmms2608116",
+        "title": "Conducting Research with Involuntarily Hospitalized Patients — Ethical, Legal, and Regulatory Considerations",
+        "authors": [
+          "Benjamin C. Silverman",
+          "Kate Gallin",
+          "Joan A. Camprodon"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-10-22",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmoa2601088",
+        "doi": "10.1056/nejmoa2601088",
+        "url": "https://doi.org/10.1056/nejmoa2601088",
+        "title": "Ianalumab for the Treatment of Patients with Sjögren’s Disease",
+        "authors": [
+          "Xavier Mariette",
+          "Thomas Grader-Beck",
+          "Stephanie Finzel",
+          "Elena Schiopu",
+          "Athena Papas",
+          "Valerie Devauchelle-Pensec",
+          "Monika Sopala",
+          "Xiaofeng Zeng",
+          "Ghaith Noaiseh",
+          "Tsutomu Takeuchi",
+          "Uma Kumar",
+          "Josef Hermann",
+          "Hiroki Ozawa",
+          "Robert Fox",
+          "Susan Zong",
+          "Deepak Narayanswamy",
+          "Xiaomei Li",
+          "Wen-Lin Luo",
+          "Janice Woznicki",
+          "Laurie Debonnett",
+          "Xuan Zhu",
+          "Linchen He",
+          "Franziska Matzkies",
+          "Angelika Jahreis",
+          "Devendra Kumar Jain",
+          "Brian Porter",
+          "Carol Lau",
+          "Thomas Dörner",
+          "Sara S. McCoy",
+          "Simon J. Bowman",
+          "Wolfgang Hueber"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-10-22",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmp2612470",
+        "doi": "10.1056/nejmp2612470",
+        "url": "https://doi.org/10.1056/nejmp2612470",
+        "title": "Examining the Use of Race in Clinical Algorithms",
+        "authors": [
+          "Helen Burstin",
+          "Felicity T. Enders",
+          "Sean Levy",
+          "Shazia Siddique",
+          "Joseph L. Wright",
+          "Debra Malina"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-10-22",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmra2414530",
+        "doi": "10.1056/nejmra2414530",
+        "url": "https://doi.org/10.1056/nejmra2414530",
+        "title": "<i>Helicobacter pylori</i>\n                    Infection — Advances, Challenges, and the Road Ahead",
+        "authors": [
+          "Hong Li",
+          "Francis Megraud",
+          "Barry J. Marshall"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-10-22",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.16766",
+        "doi": "10.1001/jama.2026.16766",
+        "url": "https://doi.org/10.1001/jama.2026.16766",
+        "title": "Metabolic Dysfunction–Associated Steatotic Liver Disease in Children and Adolescents",
+        "authors": [
+          "Jake P. Mann",
+          "Christopher D. Byrne",
+          "Giovanni Targher"
+        ],
+        "abstract": "This JAMA Insights discusses the diagnosis, treatment, and prognosis of metabolic dysfunction–associated steatotic liver disease in children and adolescents.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-21",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.17454",
+        "doi": "10.1001/jama.2026.17454",
+        "url": "https://doi.org/10.1001/jama.2026.17454",
+        "title": "Prone Positioning for Infants With Bronchiolitis and HFNC Support",
+        "authors": [
+          "Jan van Egmond",
+          "Jan Paul Mulier"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-21",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.19264",
+        "doi": "10.1001/jama.2026.19264",
+        "url": "https://doi.org/10.1001/jama.2026.19264",
+        "title": "What Is Childhood Obesity?",
+        "authors": [
+          "Kristin L. Walter"
+        ],
+        "abstract": "This JAMA Patient Page describes how childhood obesity is defined, how common it is, and the risk factors and health conditions associated with childhood obesity.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-21",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.20670",
+        "doi": "10.1001/jama.2026.20670",
+        "url": "https://doi.org/10.1001/jama.2026.20670",
+        "title": "The US Opioid Overdose Epidemic at a Crossroad",
+        "authors": [
+          "Max Jordan Nguemeni Tiako",
+          "Joseph S. Ross"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-21",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.17457",
+        "doi": "10.1001/jama.2026.17457",
+        "url": "https://doi.org/10.1001/jama.2026.17457",
+        "title": "Prone Positioning for Infants With Bronchiolitis and HFNC Support—Reply",
+        "authors": [
+          "Florent Baudin",
+          "Guillaume Mortamet",
+          "Christophe Milési"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-21",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.18862",
+        "doi": "10.1001/jama.2026.18862",
+        "url": "https://doi.org/10.1001/jama.2026.18862",
+        "title": "Childhood Cancer Risk After Assisted Reproductive Technology",
+        "authors": [
+          "Katrine Mose",
+          "Susanne K. Kjaer",
+          "Allan Jensen",
+          "Kathrine Grell",
+          "Anton Pottegård",
+          "Marie Hargreave"
+        ],
+        "abstract": "Importance                     Childhood cancer risk after assisted reproductive technology (ART) remains uncertain, particularly by procedure and cancer type.                                                           Objective                     To examine associations between ART and childhood cancer overall and by ART modality and cancer type.                                                           Design, Setting, and Population                     Nationwide Danish cohort of 1 086 136 live-born children from 1996 to 2012, of whom 37 228 (3.4%) were conceived using ART, with follow-up through 2023.                                                           Exposures                     Maternal ART, classified as in vitro fertilization (IVF), intracytoplasmic sperm injection, or frozen embryo transfer.                                                           Main Outcomes and Measures                     Incident childhood cancer. Cox proportional hazards models estimated hazard ratios (HRs); Poisson models estimated incidence rates. Non-ART births were the primary reference; secondary analyses used children of women with a history of infertility and children conceived using IVF as reference groups.                                                           Results                     During a median follow-up of 20 years, 3736 cancers occurred. Compared with non-ART births (incidence rate, 18.3 per 100 000 person-years), children conceived using ART had higher cancer incidence (incidence rate, 23.6 per 100 000; HR, 1.26 [95% CI, 1.07-1.48]). Rates were higher after frozen embryo transfer (incidence rate, 41.1 per 100 000; HR, 2.18 [95% CI, 1.45-3.29]) and intracytoplasmic sperm injection (incidence rate, 27.9 per 100 000; HR, 1.48 [95% CI, 1.16-1.89]) but not IVF (incidence rate, 18.5 per 100 000; HR, 1.01 [95% CI, 0.79-1.28]). Frozen embryo transfer was associated with leukemia (incidence rate, 11.1 per 100 000; HR, 2.36 [95% CI, 1.06-5.28]), lymphomas (HR, 3.03 [95% CI, 1.13-8.12]), and soft tissue sarcomas (HR, 7.63 [95% CI, 2.82-20.62]); intracytoplasmic sperm injection was associated with lymphomas (incidence rate, 4.6 per 100 000; HR, 1.94 [95% CI, 1.07-3.54]), soft tissue sarcomas (incidence rate, 3.3 per 100 000; HR, 3.28 [95% CI, 1.54-7.00]), and central nervous system neoplasms (incidence rate, 8.2 per 100 000; HR, 1.63 [95% CI, 1.04-2.57]); no associations were observed for IVF. Findings were similar in secondary analyses using children of women with a history of infertility and children conceived using IVF as reference groups.                                                           Conclusions and Relevance                     ART, particularly frozen embryo transfer and intracytoplasmic sperm injection, was associated with increased childhood cancer risk, but absolute risks were low. The consistent results in secondary analyses of children with maternal infertility history or conceived via IVF suggest that procedure-related, rather than infertility-related, factors warrant further investigation.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-21",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.19469",
+        "doi": "10.1001/jama.2026.19469",
+        "url": "https://doi.org/10.1001/jama.2026.19469",
+        "title": "National and County-Level Trends in Opioid Dispensing",
+        "authors": [
+          "Lyna Z. Schieber",
+          "Charles M. Adjei",
+          "Gery P. Guy"
+        ],
+        "abstract": "This cross-sectional study uses US pharmacy data to examine national and county-level opioid dispensing patterns from 2019 through 2025.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-21",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.20406",
+        "doi": "10.1001/jama.2026.20406",
+        "url": "https://doi.org/10.1001/jama.2026.20406",
+        "title": "Nonfatal Drug Overdoses and Naloxone Use",
+        "authors": [
+          "David T. Zhu",
+          "J. Travis Donahoe",
+          "Michael L. Barnett"
+        ],
+        "abstract": "This study uses national emergency medical service (EMS) data to examine temporal changes in nonfatal overdoses and naloxone administrations by EMS clinicians and laypersons relative to the US national peak in overdose deaths.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-21",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.14373",
+        "doi": "10.1001/jama.2026.14373",
+        "url": "https://doi.org/10.1001/jama.2026.14373",
+        "title": "Social History",
+        "authors": [
+          "Lisa Valentine"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-21",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.14376",
+        "doi": "10.1001/jama.2026.14376",
+        "url": "https://doi.org/10.1001/jama.2026.14376",
+        "title": "“He Lives Alone”: The Social History and Detachment in Poetry and Medicine",
+        "authors": [
+          "Rafael Campo"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-21",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.18795",
+        "doi": "10.1001/jama.2026.18795",
+        "url": "https://doi.org/10.1001/jama.2026.18795",
+        "title": "Reassessing Lumbar Punctures for Very Young Febrile Infants—How Much Evidence Is Enough?",
+        "authors": [
+          "Brett Burstein",
+          "Paul L. Aronson",
+          "Prashant Mahajan",
+          "Nathan Kuppermann"
+        ],
+        "abstract": "This Viewpoint examines the use of lumbar puncture in febrile young infants and how recent evidence and tools, such as novel blood biomarkers, have shaped understanding of the procedure.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-21",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.18806",
+        "doi": "10.1001/jama.2026.18806",
+        "url": "https://doi.org/10.1001/jama.2026.18806",
+        "title": "Obesity in Children Aged 2 to 12 Years",
+        "authors": [
+          "Claudia K. Fox",
+          "Sarah C. Armstrong",
+          "Aaron S. Kelly"
+        ],
+        "abstract": "Importance                     Obesity affects 15% of children aged 2 to 5 years and 22% of children aged 6 to 11 years in the US. Obesity in children is associated with dyslipidemia, hypertension, metabolic dysfunction–associated steatotic liver disease, and obstructive sleep apnea. Compared with normal-weight peers, children with obesity have lower quality of life and are 5 times more likely to have obesity in adulthood.                                                           Observations                                            Body mass index (BMI; calculated as weight in kilograms divided by height in meters squared) is used to identify children at risk for excess adiposity, and guidelines recommend that clinicians screen for obesity using BMI starting at age 2 years. Among children, obesity is defined using standardized age- and sex-specific growth charts, with obesity defined as BMI in the 95th or higher percentile and severe obesity as BMI of 120% or greater of the 95th percentile. Obesity treatment in children includes intensive health behavior and lifestyle treatment, consisting of at least 26 contact hours of face-to-face group or family-based activities that incorporate nutrition, physical activity, and behavior change education delivered to the child and caregivers over a 3- to 12-month period. Intensive health behavior and lifestyle treatment reduces BMI by 0.7 compared with children who do not participate in intensive health behavior and lifestyle treatment. The only obesity pharmacotherapy currently approved by the US Food and Drug Administration (FDA) for children younger than 12 years is setmelanotide, a melanocortin-4 receptor agonist, which is indicated for 3 forms of rare monogenic obesity (                       LEPR                       ,                       POMC                       , and                       PCSK1                       genetic variants), Bardet-Biedl syndrome, and acquired hypothalamic obesity. Liraglutide is currently only FDA approved for youth aged 12 years or older; however, a randomized clinical trial among children aged 6 to younger than 12 years demonstrated that, compared with placebo, liraglutide reduced BMI by 7.4%. Metabolic and bariatric surgery is rarely used in children younger than age 12 years and evidence supporting its use in children is limited. Early identification and treatment of obesity during childhood may reduce risk of type 2 diabetes, dyslipidemia, hypertension, and mortality in adulthood.                                                                                Conclusions and Relevance                     Obesity in children is associated with chronic disease, such as hypertension, and with poor quality of life. Evidence-based treatment for obesity in children includes intensive health behavior and lifestyle treatment, and pharmacotherapy may provide additional benefit, although short- and long-term safety and efficacy data are limited. Early identification and treatment of obesity during childhood may reduce risk of type 2 diabetes, dyslipidemia, hypertension, and mortality in adulthood.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-21",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1377/hlthaff.2026.00382",
+        "doi": "10.1377/hlthaff.2026.00382",
+        "url": "https://doi.org/10.1377/hlthaff.2026.00382",
+        "title": "Opening The Black Box Of Medicaid Physician Payment: Medicaid Managed Care And State-Directed Payments",
+        "authors": [
+          "Diane Alexander",
+          "Molly Frommer",
+          "Eric T. Roberts"
+        ],
+        "abstract": "",
+        "source": "Health Affairs",
+        "issn": "0278-2715",
+        "date": "2026-10-21",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/1468-0009.70136",
+        "doi": "10.1111/1468-0009.70136",
+        "url": "https://doi.org/10.1111/1468-0009.70136",
+        "title": "Health Data Utilities as Essential Public Infrastructure: A Cooperative Federalism Architecture",
+        "authors": [
+          "AMIT JAIN",
+          "SUNIL K. JAIN"
+        ],
+        "abstract": "Policy Points                                                                                                                                         Federal interoperability networks transport standardized clinical data but do not aggregate, enrich, or analyze the state‐governed data that clinical practice, public health, and Medicaid administration require locally. State‐designated health data utilities fill this structural gap through a cooperative federalism architecture in which states build and operate local data infrastructure and the federal government provides regulatory flexibility and financial incentives.                                                                                         The One Big Beautiful Bill Act requires states to implement twice‐yearly redeterminations beginning in 2027, creating a unified enforcement cycle that no existing infrastructure can absorb at scale. The health data utility offers the most administratively viable architecture for preventing catastrophic procedural disenrollments as state budgets contract.                                                                                         A four‐layer financing model distributes financial risk across state general funds, Medicaid enhanced matching, payer enrichment revenue, and value‐based payment integration. Federal action should formalize a health data utility profile within the Trusted Exchange Framework and Common Agreement and confirm enhanced Medicaid matching for shared infrastructure.                                                                                                                                                                                        Context                     Federal interoperability initiatives like Trusted Exchange Framework and Common Agreement transport clinical records across boundaries but fail to aggregate and enrich state‐governed datasets, including Medicaid claims, prescription monitoring records, and social service registries. This fragmentation creates fiscal and administrative liability for states, exacerbated by the One Big Beautiful Bill Act's mandate for twice‐yearly Medicaid redeterminations and work verifications beginning in 2027 amidst tightening state budgets.                                                           Methods                     Synthesizing health information exchange literature, existing state operational models (Maryland, Indiana, California, North Carolina), and federal statutory requirements, we propose a cooperative federalism governance model, technical data architecture, and multi‐payer financing strategy for state‐designated health data utilities (HDUs).                                                           Findings                     We propose an HDU architecture that can be adapted across multiple states, designed to directly advance clinical care delivery by functioning as an enrichment layer integrated natively into electronic health record workflows. By synthesizing longitudinal clinical encounters, controlled substance histories, claims, and social needs registries in real time, the proposed utility would deliver actionable predictive risk scores and automated point‐of‐care alerts to prevent avoidable readmissions, curtail redundant advanced imaging, and coordinate cross‐sector interventions for high‐risk patients. Operationally, the model pairs this bedside enrichment with automated eligibility and frailty verification, ensuring high‐need individuals maintain continuous access to essential clinical services.                                                           Conclusions                     Clinical data fragmentation is rooted in governance silos rather than technical barriers. Establishing state‐designated HDUs through a cooperative federalism model bridges bedside clinical practice, public health, and Medicaid administration. HDUs provide the integrated infrastructure necessary to prevent clinical crises, protect vulnerable populations, and improve care delivery at scale across the United States.",
+        "source": "The Milbank Quarterly",
+        "issn": "0887-378X",
+        "date": "2026-10-21",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "socialSecurity"
+        ],
+        "firstSeen": "2026-10-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag247",
+        "doi": "10.1093/aje/kwag247",
+        "url": "https://doi.org/10.1093/aje/kwag247",
+        "title": "Husband smoking, smoking cessation, and fecundability among couples with non-smoking wives",
+        "authors": [
+          "Yue Zhang",
+          "Hongguang Zhang",
+          "Xiaoli Wang",
+          "Jun Zhao",
+          "Kailei Jiao",
+          "Chaoyu Zhang",
+          "Jingwei Wu",
+          "Yuanyuan Wang",
+          "Zuoqi Peng",
+          "Ya Zhang",
+          "Yueshu Zhao",
+          "Qiaomei Wang",
+          "Haiping Shen",
+          "Yiping Zhang",
+          "Donghai Yan",
+          "Xu Ma"
+        ],
+        "abstract": "Abstract                   Among couples with non-smoking wives, the relationship between husband smoking and fecundability remains uncertain. Evidence is limited regarding whether smoking cessation before conception is associated with improved fecundability. We included a total of 4,569,530 reproductive-aged couples with non-smoking wives from the National Free Pre-conception Check-up Project in China from 2015 to 2017. Cox proportional hazards models were used to estimate fecundability hazard ratios (HRs) and 95% confidence intervals (CIs). Among 4,569,530 eligible couples, 1,228,222 (26.88%) husbands reported smoking at baseline. Within 1 year, 3,046,804 couples (66.68%) conceived, with a median TTP of 2.76 cycles. Husband smoking was associated with lower fecundability (HR=0.97, 95% CI, 0.97-0.97), demonstrating a dose-response relationship. Among 781,481 couples in which the husband smoked and conception occurred within 1 year, 507,530 (64.94%) reported smoking cessation. Smoking cessation was associated with higher fecundability (HR=1.23, 95% CI, 1.23-1.24), with consistent benefits across prior smoking levels, although the magnitude of improvement was smaller among husbands who smoked more heavily. Associations varied by age and were more pronounced in older couples. These findings support the inclusion of husband smoking cessation in preconception care and highlight its potential role in promoting smoke-free households and broader tobacco control efforts.",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-10-21",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag259",
+        "doi": "10.1093/aje/kwag259",
+        "url": "https://doi.org/10.1093/aje/kwag259",
+        "title": "Sleep health and uterine leiomyomata incidence and growth: a prospective ultrasound study",
+        "authors": [
+          "Chad M Coleman",
+          "Amelia K Wesselink",
+          "Eleanor Jane Murray",
+          "Quaker E Harmon",
+          "Chandra L Jackson",
+          "Anissa Vines",
+          "Ganesa Wegienka",
+          "Lauren A Wise",
+          "Traci N Bethea"
+        ],
+        "abstract": "Abstract                   Poor sleep may negatively impact reproductive outcomes, yet its role in uterine leiomyomata (UL) development has not been studied. We estimated prospectively the association of self-reported sleep health with ultrasound-detected UL incidence and growth in the Study of Environment, Lifestyle, and Fibroids, a prospective cohort of Black individuals aged 23-35 years in Detroit, Michigan. At each of five clinic visits (2010-2020), participants reported sleep duration, frequency of trouble sleeping, and sleep quality, and underwent transvaginal ultrasound to detect incident UL. We used Cox proportional hazards regression models to estimate hazard ratios (HRs) and 95% confidence intervals (CIs) and applied inverse probability weights to adjust for time-dependent confounding. Among 1,137 participants, 351 developed UL (10-year cumulative incidence: 30.9%). Short (&amp;lt;6 hours/day, HR=0.30 95% CI: 0.17, 0.55) sleep duration and consistently poorer sleep quality (&amp;lt;4 days/week feeling well-rested, HR=0.78, 95% CI: 0.56, 1.08) were associated with lower UL incidence. Increased frequency of trouble sleeping was positively associated with UL incidence (≥15 days/month, HR=1.96, 95% CI: 0.76, 5.09). Sleep health was not associated with UL growth. In this prospective ultrasound study, sleep measures were inconsistently associated with UL incidence and not associated with UL growth.",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-10-21",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag264",
+        "doi": "10.1093/aje/kwag264",
+        "url": "https://doi.org/10.1093/aje/kwag264",
+        "title": "Quantifying lifetime risk of Lyme disease: a population-based modelling study in the United States",
+        "authors": [
+          "Riyadh H Baksh",
+          "Sarah J Willis",
+          "Noelle M Cocoros",
+          "Sheryl Kluberg",
+          "Djeneba Audrey Djibo",
+          "Andrea DeVries",
+          "Kimberly Daniels",
+          "Shelly-Ann M Love",
+          "Frederick J Angulo",
+          "Alexander Davidson",
+          "Ye Tan",
+          "Madiha Shafquat",
+          "L Hannah Gould"
+        ],
+        "abstract": "",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-10-21",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-22",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1001/jama.2026.14955",
         "doi": "10.1001/jama.2026.14955",
         "url": "https://doi.org/10.1001/jama.2026.14955",
@@ -40860,6 +42179,36 @@
           "healthReform"
         ],
         "firstSeen": "2026-10-21",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmoa2611477",
+        "doi": "10.1056/nejmoa2611477",
+        "url": "https://doi.org/10.1056/nejmoa2611477",
+        "title": "Retatrutide Once Weekly for Treatment of Obstructive Sleep Apnea",
+        "authors": [
+          "Ronald R. Grunstein",
+          "Virend K. Somers",
+          "Ali Azarbarzin",
+          "Atul Malhotra",
+          "Scott A. Sands",
+          "Brendan P. Lucey",
+          "Sheryl E. Allen",
+          "Kathryn Giblin",
+          "Beverly L. Falcon",
+          "So Young Park",
+          "Jitong Lou",
+          "Kathryn Krueger"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-10-20",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-22",
         "fetched_from": "crossref"
       },
       {
@@ -67512,6 +68861,32 @@
         "fetched_from": "crossref"
       },
       {
+        "id": "doi:10.1186/s12877-026-08529-w",
+        "doi": "10.1186/s12877-026-08529-w",
+        "url": "https://doi.org/10.1186/s12877-026-08529-w",
+        "title": "Communicating neuropsychological assessment results: a qualitative study in Dutch memory clinic professionals",
+        "authors": [
+          "Marit Stolte",
+          "Jolanda H. M. Dobbe",
+          "Leonie N. C. Visser",
+          "Ellen Smets",
+          "Willemijn J. Jansen",
+          "Marjolein de Vugt",
+          "Inez Ramakers"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-22",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-22",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1186/s12877-026-08413-7",
         "doi": "10.1186/s12877-026-08413-7",
         "url": "https://doi.org/10.1186/s12877-026-08413-7",
@@ -67569,6 +68944,510 @@
           "agingHealth"
         ],
         "firstSeen": "2026-10-21",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/geront/gnag240",
+        "doi": "10.1093/geront/gnag240",
+        "url": "https://doi.org/10.1093/geront/gnag240",
+        "title": "Caring across borders: ageing and digital technology in transnational families",
+        "authors": [
+          "Yan Wen",
+          "Nan Zhang",
+          "Athina Vlachantoni",
+          "Fiona Stanaway"
+        ],
+        "abstract": "Abstract                                        Background and Objectives                     The rise of transnational families has generated new care arrangements in which migrant children use digital technologies to support ageing parents across borders. While the functional role of digital technologies in facilitating remote care is well documented, their relational and culturally embedded dimensions remain less understood. This review synthesises recent evidence on how digital technologies shape transnational caregiving.                                                           Research Design and Methods                     Eight electronic sources were systematically searched for studies on transnational families, ageing, digital technology (including artificial intelligence—AI), and care, published between 2020 and 2025. Eligible studies were extracted, coded, and analysed using thematic analysis.                                                           Results                     Fourteen studies met the inclusion criteria and were included in the analysis. Five themes were identified: 1) adoption and challenges for transnational ICT-mediated care; 2) ambivalence towards digital intimacy; 3) emotional labour and strategic concealment in transnational family care; 4) cultural norms and moral hierarchies of digital care; 5) structural inequalities in transnational care. Digital technologies both foster connection and amplify separation, serving as symbolic markers of family devotion and tools for managing information across generations. Rather than democratising care, technologies often reinforce existing global North–South, gendered, and class-based inequalities.                                                           Discussion and Implications                     Digital technologies both sustain and transform transnational care, yet digitally mediated care remains relational and structurally constrained. Stronger digital inclusion and coordinated cross-border care infrastructures are needed to support ageing transnational families, while avoiding the reproduction of existing social, gendered, and global inequalities, and enabling older adults to age with dignity, connection, and security.",
+        "source": "The Gerontologist",
+        "issn": "0016-9013",
+        "date": "2026-10-21",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/geront/gnag249",
+        "doi": "10.1093/geront/gnag249",
+        "url": "https://doi.org/10.1093/geront/gnag249",
+        "title": "Age trajectories of informal caregiving for older people in England: Testing the healthy caregiver hypothesis",
+        "authors": [
+          "Bo Hu"
+        ],
+        "abstract": "Abstract                                        Background and Objectives                     This study investigates how health status shapes the age trajectories of informal caregiving for spouses and older parents in England.                                                           Research Design and Methods                     The data came from five waves (2012–2023) of the English Longitudinal Study of Ageing (ELSA). We analysed 41,997 person-wave observations from 12,420 individuals aged 50+. We derived a latent health construct via hierarchical confirmatory factor analysis, integrating functional, mental, physical, and cognitive domains. Dynamic random-effects models were employed to examine the influence of prior health on consequent caregiving, and initial condition adjustment was made to correct estimation bias.                                                           Results                     Among those with a spouse, parents, or parents-in-law, healthier individuals demonstrated steeper increases in caregiving probability over time, while those in poor health showed flatter or declining caregiving trajectories. For spousal caregiving, better health was associated with a lower likelihood of caregiving at age 50, but this relationship turned positive from age 70 onwards. For parental caregiving, better health was associated with a higher likelihood of caregiving from age 53 onwards.                                                           Discussion and Implications                     Overall the research findings are consistent with the healthy caregiver hypothesis, particularly in later life. Good health facilitates the provision of informal care, whereas poor health compromises caregiving capability and constitutes a barrier to taking on a caregiving role. A healthier older population not only means lower care needs but also has greater capacity to provide care.",
+        "source": "The Gerontologist",
+        "issn": "0016-9013",
+        "date": "2026-10-21",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/geront/gnag245",
+        "doi": "10.1093/geront/gnag245",
+        "url": "https://doi.org/10.1093/geront/gnag245",
+        "title": "Balance on the Brain: Multimodal exercise programme evaluating physical performance, falls, quality of life and cognition for people with mild cognitive impairment-randomised controlled trial",
+        "authors": [
+          "Elissa Burton",
+          "Nicola T Lautenschlager",
+          "Kathryn A Ellis",
+          "Angela Jacques",
+          "Anne-Marie Hill",
+          "Meggen Lowry",
+          "Rachael Moorin",
+          "Joanne McVeigh",
+          "Kirk I Erickson",
+          "Joel Tate",
+          "Sarah Bernard",
+          "Carolyn F Orr",
+          "Luke Bongiascia",
+          "Melanie L Clark",
+          "Keith D Hill"
+        ],
+        "abstract": "Abstract                                        Background and Objectives                     The aim of this study was to evaluate whether a balance-focused multimodal exercise programme improves balance and reduces falls for people with mild cognitive impairment.                                                           Research Design and Methods                     A single-blind randomised controlled trial (n = 128, before withdrawals), with 6-month intervention, followed by 6-month maintenance period. The intervention, Balance on the Brain, consisted of three exercise programmes: walking, Balance Yourself and Clock Yourself.                                                           Results                     Data from 126 adults with mild cognitive impairment were included in the study (median age = 76, 63% female). The study did not meet the required sample size to be fully powered for either falls or balance primary outcomes. Therefore, the lack of significant between-group differences for the primary outcomes of falls or balance at 6 and 12-months remains inconclusive, due to insufficient power. Fifty-nine percent (n = 38) of intervention participants were identified as adherers. Adherers’ balance improved significantly compared to low-adherers/controls at 6 and 12-months and intervention adherers fell less than low-adherers/controls, although the difference was not significant. However, the adherers data were exploratory and need to be used with caution.                                                           Discussion and Implications                     Balance on the Brain was underpowered and as such the non-significant primary balance and falls outcomes should be interpreted as inconclusive for people living with mild cognitive impairment in the community. Those who adhered demonstrated improved balance, and reduced falls compared to low-adherers/controls, however these data should be interpreted as exploratory and with caution.",
+        "source": "The Gerontologist",
+        "issn": "0016-9013",
+        "date": "2026-10-21",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/geront/gnag247",
+        "doi": "10.1093/geront/gnag247",
+        "url": "https://doi.org/10.1093/geront/gnag247",
+        "title": "Supporting Diversity in Health and Aging Research and Education: Recommendations from a Multidisciplinary Gerontological Symposium",
+        "authors": [
+          "Angela K Perone",
+          "DeAnnah R Byrd",
+          "Chanee D Fabius",
+          "Linda Hollis",
+          "Paul Nash",
+          "Tina M K Newsham",
+          "LaDora V Thompson",
+          "LaVona Traywick",
+          "Bei Wu"
+        ],
+        "abstract": "Abstract                   Increasing attacks on diversity, equity, and inclusion (DEI) have left many researchers and educators in aging scrambling on how best to navigate this political landscape in their research and teaching. In response, the Gerontological Society of America (GSA)’s Public Policy Advisory Panel convened a multidisciplinary panel discussion of experts from the six GSA member groups and three advisory panels in November 2025 to discuss the current state of the research and education, particularly as it relates to diversity in health and aging; current efforts by researchers and educators to adapt and respond to these efforts; and future actionable recommendations on how to continue to support DEI principles in all phases of health and aging research and education. Several common themes emerged across disciplines (collaboration, education, mentorship, and research) that led to four key recommendations: (1) cultivate authentic community relationships and collaboration; (2) intentionally engage historically excluded populations; (3) innovate; and (4) invoke national and state professional and competency standards. Ultimately, this multidisciplinary convening and its ensuing recommendations provide gerontological researchers and educators with both context and guidance for navigating recent attacks on DEI and contribute to a broader conversation on this important topic.",
+        "source": "The Gerontologist",
+        "issn": "0016-9013",
+        "date": "2026-10-21",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70757",
+        "doi": "10.1111/jgs.70757",
+        "url": "https://doi.org/10.1111/jgs.70757",
+        "title": "Assessing the Effects of Hurricane Hazards on Hospitalization or Death Among Older Adults Using Electricity‐Dependent Medical Devices",
+        "authors": [
+          "Bradford E. Jackson",
+          "Arrianna Marie Planey",
+          "Helena M. Garcia",
+          "Shabbar Ranapurwala",
+          "Christopher D. Baggett",
+          "Jillian Evans‐Strong",
+          "Amy Lowman",
+          "Paul Delamater",
+          "Eboneé Nicole Butler",
+          "John Wallace",
+          "Jennifer L. Lund"
+        ],
+        "abstract": "ABSTRACT                                        Background                     To evaluate short‐term effects of Hurricanes Matthew (2016) and Florence (2018) on hospitalization or death among older adults using electricity—dependent durable medical equipment (edDME) in North Carolina, and to assess how hurricane exposure definitions influence associations.                                                           Methods                     We conducted controlled interrupted time series analyses using NC Medicare data (2015–2019). Monthly cohorts of beneficiaries aged ≥ 65 years with recent edDME use were classified as hurricane‐exposed or unexposed using FEMA county‐level disaster declarations. Exploratory analyses applied North Carolina Flood Extent Archive (FLDEX) to define exposure by residential flooding thresholds. The primary outcome was 30‐day all cause hospitalization or death. ARIMA models estimated immediate level changes and sustained trends, including race‐stratified analysis.                                                           Results                     Using FEMA definitions, we observed no significant immediate changes following either hurricane, but a sustained increase in hospitalization or death after Hurricane Matthew. FLDEX‐based analyses showed stronger and more consistent exposure‐outcome associations, particularly at higher flooding thresholds and among Black beneficiaries.                                                           Conclusions                     Coarse FEMA disaster designations may obscure important dose‐dependent and racially patterned health effects of hurricanes. Higher‐resolution exposure metrics may improve disaster surveillance and targeting of preparedness resources for medically vulnerable populations.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-10-21",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70787",
+        "doi": "10.1111/jgs.70787",
+        "url": "https://doi.org/10.1111/jgs.70787",
+        "title": "Dextromethorphan‐Bupropion (Auvelity)—A Drug to Avoid Prescribing, Even If It Were Free",
+        "authors": [
+          "Eric Widera",
+          "Kenneth Covinsky"
+        ],
+        "abstract": "",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-10-21",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70803",
+        "doi": "10.1111/jgs.70803",
+        "url": "https://doi.org/10.1111/jgs.70803",
+        "title": "“Used Ta”",
+        "authors": [
+          "Leslie R. Brody"
+        ],
+        "abstract": "",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-10-21",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70806",
+        "doi": "10.1111/jgs.70806",
+        "url": "https://doi.org/10.1111/jgs.70806",
+        "title": "<scp>PRODG</scp>\n                    Multi‐Center Trial: A Critical Appraisal of Efficacy Estimates and Statistical Interpretation",
+        "authors": [
+          "Tingting Sun",
+          "Yin Wang"
+        ],
+        "abstract": "",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-10-21",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08423-5",
+        "doi": "10.1186/s12877-026-08423-5",
+        "url": "https://doi.org/10.1186/s12877-026-08423-5",
+        "title": "Preliminary findings on the effects of a group-based digital gaming intervention on individuals with early to moderate dementia: a pre- and post-intervention study",
+        "authors": [
+          "Megumi Inoue",
+          "Michelle Hand",
+          "Li-Mei Chen",
+          "Divya Bhavanam",
+          "Nahida Farheen Shaik",
+          "S B Yuvaraj Rejeti",
+          "Emma Booker",
+          "Eyesha Shaikh",
+          "Samreen Mehak",
+          "Sarah Hough",
+          "Naoru Koizumi"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-21",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08525-0",
+        "doi": "10.1186/s12877-026-08525-0",
+        "url": "https://doi.org/10.1186/s12877-026-08525-0",
+        "title": "Smart wearable device ownership and depressive symptoms among older adults in China: a longitudinal fixed-effects analysis",
+        "authors": [
+          "Hao Ji",
+          "Weiguang Pan",
+          "Mengxin Zhang",
+          "Yingying Yu"
+        ],
+        "abstract": "Abstract                                        Background                     Smart wearable devices are increasingly incorporated into later-life health management, but longitudinal evidence concerning device ownership and depressive symptoms remains limited.                                                           Objective                     This study examined the within-person association between smart wearable device ownership and depressive symptoms among older adults in China, alongside concurrent psychosocial and behavioral characteristics and variation across digital and sociodemographic contexts.                                                           Methods                     Data were drawn from the 2018, 2020, and 2023 waves of the China Longitudinal Aging Social Survey. The baseline analytical sample comprised 30,255 person-year observations from 16,752 respondents. Two-way fixed-effects models were estimated using 22,536 observations from 9,033 repeatedly observed respondents, including 902 ownership switchers. Depressive symptoms were measured using a reverse-coded nine-item CES-D score. Additional analyses examined health perception, social adaptation, leisure participation, mobile phone proficiency, sociodemographic heterogeneity, sample selection, and attrition.                                                           Results                                            Smart wristband or smartwatch ownership was positively associated with the reverse-coded CES-D score within individuals (                       β =                        0.719, 95% CI [0.414, 1.024]), indicating fewer depressive symptoms during waves in which ownership was reported. The association remained positive across multiple sensitivity analyses. Ownership also covaried positively with health perception, social adaptation, and leisure participation, although their contemporaneous measurement precluded causal mediation claims. Contemporaneous analyses showed a more favorable ownership association at higher levels of self-rated mobile phone proficiency (linear interaction                       β =                        1.890,                       p &lt;                       .001), whereas prior-proficiency analyses produced weaker evidence. Heterogeneity was statistically supported for hukou origin, but not for gender, age, or education after multiplicity adjustment.                                                                                Conclusions                     Smart wearable device ownership was positively associated with fewer depressive symptoms within individuals, but the findings do not establish a causal effect. Digital capabilities and institutional context appear important for understanding heterogeneity in the ownership–depressive-symptom association.                                                           Clinical trial number                     Not applicable.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-21",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08520-5",
+        "doi": "10.1186/s12877-026-08520-5",
+        "url": "https://doi.org/10.1186/s12877-026-08520-5",
+        "title": "Association of the red blood cell distribution width-to-albumin ratio with major geriatric syndromes: a retrospective cross-sectional single-centre study",
+        "authors": [
+          "Mustafa Levent",
+          "Sibel Akın"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-21",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08362-1",
+        "doi": "10.1186/s12877-026-08362-1",
+        "url": "https://doi.org/10.1186/s12877-026-08362-1",
+        "title": "Community geriatric telemedicine in Malaysia (CORTICAL©): A collaborative modified Delphi method for shared care strategies involving family medicine specialists and geriatricians",
+        "authors": [
+          "Sarinah Tamring",
+          "Aznida Firzah Abdul Aziz",
+          "Mohd Fairuz Ali",
+          "Hui Min Khor",
+          "Terence Ong",
+          "Nor Faizah Ghazali",
+          "Nor Haslinda Ishak",
+          "Nurul Izza Yunus",
+          "Sally Suriani Ahip",
+          "Yusliza Azreen Mohd Yusoff"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-21",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-07987-6",
+        "doi": "10.1186/s12877-026-07987-6",
+        "url": "https://doi.org/10.1186/s12877-026-07987-6",
+        "title": "Latent profile analysis of digital health literacy among digital device-using older adults with coronary heart disease: a cross-sectional study",
+        "authors": [
+          "Xiaomin Tu",
+          "Yangyang Hu",
+          "Yunxia Jiang",
+          "Haichao Wang",
+          "Mengni Tang",
+          "Aimin Wang"
+        ],
+        "abstract": "Abstract                                        Objectives                     Our study aimed to analyze the latent profiles of digital health literacy among community-dwelling older adults with clinically diagnosed coronary heart disease (CHD) who can use digital devices, and to explore factors associated with different profiles.                                                           Methods                     This cross-sectional survey was conducted among community-dwelling older adults with clinically diagnosed CHD who can use digital devices in Qingdao, from October 2024 to December 2024. Data were collected using a Demographic and Clinical questionnaire, the Older Digital Health Literacy Scale, and the Online Health Information Seeking Behavior Scale. We performed latent profile analysis to identify the latent profile of older adults with CHD. And we used chi-square and multinomial logistic regression analysis to explore associated factors.                                                           Results                                            A total of 371 older coronary heart disease patients completed the questionnaire. The digital health literacy score was (39.31 ± 7.27) points. Statistical fit indices (LMR and BLRT) supported a three-class solution (                       p                        &lt; 0.001):                       low literacy type                       (                       n                        = 96, 26.3%),                       middle literacy type                       (                       n                        = 188, 50.5%), and                       high literacy type                       (                       n                        = 87, 23.2%). Place of residence, monthly household income, living arrangements, duration of coronary heart disease, frequency of using digital devices for health, and online health information seeking were significant associated with the different latent profiles (                       p                        &lt; 0.05).                                                                                Conclusion                     Three distinct latent profiles of digital health literacy were identified among older adults with CHD, each exhibiting significant differences in characteristics. Based on the identified profiles, tailored interventions may differ in focus: basic digital skill training for the low literacy group, guided and confidence-enhancing strategies for the middle literacy group, and advanced engagement optimization for the high literacy group. Higher levels of digital health literacy were associated with greater potential capacity for disease self-management. Notably, the findings in this study should be interpreted in light of the cross-sectional design and exclusion of non-digital-device users.                                                           Trial registration                     Clinical trial number: not applicable. This study didn’t report any results of a health care intervention on human participants.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-21",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08532-1",
+        "doi": "10.1186/s12877-026-08532-1",
+        "url": "https://doi.org/10.1186/s12877-026-08532-1",
+        "title": "Feasibility of a multidimensional interdisciplinary rehabilitation program for people with dementia and their informal primary caregivers – a randomized pilot trial with a caregiver focus",
+        "authors": [
+          "Mia Conradsson",
+          "Birgitta Olofsson",
+          "Henrik Holmberg",
+          "Nina Lindelöf",
+          "Ingeborg Nilsson",
+          "Yngve Gustafson",
+          "Håkan Littbrand"
+        ],
+        "abstract": "Abstract                                        Background                     To improve the situation of informal caregivers, both supportive efforts for caregiver and rehabilitation for the person with dementia, may be needed. This randomized controlled pilot trial evaluated, among caregivers, the feasibility of a person-centred multidimensional interdisciplinary rehabilitation program for community-dwelling people with dementia that incorporated an education and support intervention for informal caregivers.                                                           Methods                     Informal caregivers were randomized alongside the person with dementia to an intervention group (n=36) or usual care (n=31). Multiprofessional team rehabilitation for individuals with dementia and support for caregivers, were offered for one 20-week and two 4-week follow-up periods after 5 and 14 months. Caregivers were offered assessments, participation in group sessions, and individual support. After the last group session, scheduled during the last four weeks of the 20-week period, a survey was distributed. Attendance at group sessions and uptake of individual support were recorded. Blinded assessments of caregiver burden (Caregiver Burden Scale, CBS), depressive symptoms (Geriatric Depression Scale 15-item version, GDS) and health-related quality of life (Short Form 36–Health Survey, SF-36), were performed at baseline and after 5, 12, 24, and 36 months.                                                           Results                     Thirty-seven participants (56%) were spouses and 26 (39%) were adult children. Participation rate in assessments of outcomes at 36 months was 100% and 87% for intervention and control group in GDS and SF-36, respectively, and 69% and 61% for CBS, respectively. Missing data were primarily due to mortality. All caregivers in the intervention group (n=36) were assessed, and all received individual interventions by team staff. Twenty-three caregivers attended group sessions, and 21 completed a survey after the last session. Twenty (95%) caregivers reported increased knowledge about supporting the person with dementia, and 19 (90%) improved coping strategies. No significant differences were observed between groups in depressive symptoms or caregiver burden, yet differences in favour of the control group were seen in subscales of health-related quality of life at 24 and 36 months.                                                           Conclusions                     The program, combining rehabilitation for the person with dementia with caregiver support, seems feasible regarding caregivers’ participation in the intervention and study evaluation, and thus further evaluation in an adequately powered randomized controlled trial seems relevant. A future definitive trial should evaluate continuous support over a longer period adapted to the caregiver and refine assessment procedures, including conducting assessments during ongoing interventions to provide greater insights into rehabilitation and caregiver-support effects.                                                           Trial registration                     The study protocol is published online 04/11/2015 at http://www.isrctn.com/ISRCTN59155421.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-21",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08531-2",
+        "doi": "10.1186/s12877-026-08531-2",
+        "url": "https://doi.org/10.1186/s12877-026-08531-2",
+        "title": "Examining polypharmacy risks and impact on clinical outcomes in older adults: insights from a cohort study",
+        "authors": [
+          "Raneem Milyani",
+          "Hashim Balubaid",
+          "Nour Elsobky",
+          "Shorouq Albalawi",
+          "Faris Aldawsari",
+          "Fahad Ali Al Asiri",
+          "Ghazwa B. Korayem",
+          "Mohamed A. Albekery",
+          "Khalid Al Sulaiman"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-21",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag247",
+        "doi": "10.1093/aje/kwag247",
+        "url": "https://doi.org/10.1093/aje/kwag247",
+        "title": "Husband smoking, smoking cessation, and fecundability among couples with non-smoking wives",
+        "authors": [
+          "Yue Zhang",
+          "Hongguang Zhang",
+          "Xiaoli Wang",
+          "Jun Zhao",
+          "Kailei Jiao",
+          "Chaoyu Zhang",
+          "Jingwei Wu",
+          "Yuanyuan Wang",
+          "Zuoqi Peng",
+          "Ya Zhang",
+          "Yueshu Zhao",
+          "Qiaomei Wang",
+          "Haiping Shen",
+          "Yiping Zhang",
+          "Donghai Yan",
+          "Xu Ma"
+        ],
+        "abstract": "Abstract                   Among couples with non-smoking wives, the relationship between husband smoking and fecundability remains uncertain. Evidence is limited regarding whether smoking cessation before conception is associated with improved fecundability. We included a total of 4,569,530 reproductive-aged couples with non-smoking wives from the National Free Pre-conception Check-up Project in China from 2015 to 2017. Cox proportional hazards models were used to estimate fecundability hazard ratios (HRs) and 95% confidence intervals (CIs). Among 4,569,530 eligible couples, 1,228,222 (26.88%) husbands reported smoking at baseline. Within 1 year, 3,046,804 couples (66.68%) conceived, with a median TTP of 2.76 cycles. Husband smoking was associated with lower fecundability (HR=0.97, 95% CI, 0.97-0.97), demonstrating a dose-response relationship. Among 781,481 couples in which the husband smoked and conception occurred within 1 year, 507,530 (64.94%) reported smoking cessation. Smoking cessation was associated with higher fecundability (HR=1.23, 95% CI, 1.23-1.24), with consistent benefits across prior smoking levels, although the magnitude of improvement was smaller among husbands who smoked more heavily. Associations varied by age and were more pronounced in older couples. These findings support the inclusion of husband smoking cessation in preconception care and highlight its potential role in promoting smoke-free households and broader tobacco control efforts.",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-10-21",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag259",
+        "doi": "10.1093/aje/kwag259",
+        "url": "https://doi.org/10.1093/aje/kwag259",
+        "title": "Sleep health and uterine leiomyomata incidence and growth: a prospective ultrasound study",
+        "authors": [
+          "Chad M Coleman",
+          "Amelia K Wesselink",
+          "Eleanor Jane Murray",
+          "Quaker E Harmon",
+          "Chandra L Jackson",
+          "Anissa Vines",
+          "Ganesa Wegienka",
+          "Lauren A Wise",
+          "Traci N Bethea"
+        ],
+        "abstract": "Abstract                   Poor sleep may negatively impact reproductive outcomes, yet its role in uterine leiomyomata (UL) development has not been studied. We estimated prospectively the association of self-reported sleep health with ultrasound-detected UL incidence and growth in the Study of Environment, Lifestyle, and Fibroids, a prospective cohort of Black individuals aged 23-35 years in Detroit, Michigan. At each of five clinic visits (2010-2020), participants reported sleep duration, frequency of trouble sleeping, and sleep quality, and underwent transvaginal ultrasound to detect incident UL. We used Cox proportional hazards regression models to estimate hazard ratios (HRs) and 95% confidence intervals (CIs) and applied inverse probability weights to adjust for time-dependent confounding. Among 1,137 participants, 351 developed UL (10-year cumulative incidence: 30.9%). Short (&amp;lt;6 hours/day, HR=0.30 95% CI: 0.17, 0.55) sleep duration and consistently poorer sleep quality (&amp;lt;4 days/week feeling well-rested, HR=0.78, 95% CI: 0.56, 1.08) were associated with lower UL incidence. Increased frequency of trouble sleeping was positively associated with UL incidence (≥15 days/month, HR=1.96, 95% CI: 0.76, 5.09). Sleep health was not associated with UL growth. In this prospective ultrasound study, sleep measures were inconsistently associated with UL incidence and not associated with UL growth.",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-10-21",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag264",
+        "doi": "10.1093/aje/kwag264",
+        "url": "https://doi.org/10.1093/aje/kwag264",
+        "title": "Quantifying lifetime risk of Lyme disease: a population-based modelling study in the United States",
+        "authors": [
+          "Riyadh H Baksh",
+          "Sarah J Willis",
+          "Noelle M Cocoros",
+          "Sheryl Kluberg",
+          "Djeneba Audrey Djibo",
+          "Andrea DeVries",
+          "Kimberly Daniels",
+          "Shelly-Ann M Love",
+          "Frederick J Angulo",
+          "Alexander Davidson",
+          "Ye Tan",
+          "Madiha Shafquat",
+          "L Hannah Gould"
+        ],
+        "abstract": "",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-10-21",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261498375",
+        "doi": "10.1177/13872877261498375",
+        "url": "https://doi.org/10.1177/13872877261498375",
+        "title": "VIDESTA: Adaptation of the BSL-CST for cognitive screening in the Austrian deaf sign language community",
+        "authors": [
+          "Doris Hoffmann-Lamplmair",
+          "Patrick Martinetz",
+          "Marie Burgstaller",
+          "Romeo Seifert",
+          "Lukas Nerat",
+          "Sabrina Cernek",
+          "Manuela Schwanzer",
+          "Athanasia-Lida Dimou",
+          "Theodore Goulas",
+          "Bencie Woll",
+          "Joanna Atkinson",
+          "Thomas Ströbele"
+        ],
+        "abstract": "Background                                            Improving dementia diagnosis is a global health priority. Neuropsychological assessments often overlook minority groups, such as persons who are culturally Deaf.                       a                       In this community measurement of cognitive performance may be affected by communicative, linguistic and cultural barriers rather than cognitive deficits.                                                                                Objective                     The study aimed to develop and provide initial validation data for a neuropsychological screening test for early detection of acquired cognitive decline tailored to the linguistic and cultural needs of the Austrian Deaf community.                                                           Methods                     The British-Sign-Language-Cognitive-Screening-Test (BSL-CST) was translated and culturally adapted for Austria. Instructions were recorded as video clips by native Austrian Sign Language (ÖGS) signers and an online platform was created for test administration. A sample of 71 Deaf individuals aged 50 and older and a clinical group of 10 Deaf individuals with acquired cognitive decline provided preliminary data on sensitivity, specificity, internal consistency, convergent validity and inter-rater reliability.                                                           Results                     The resulting ÖGS-adapted version of the BSL-CST, named VIDESTA (Vienna Sign Language Cognitive Assessment), is an ÖGS-based screening tool assessing neuropsychological areas affected in Alzheimer's disease and can be completed in under 60 min. Preliminary analyses demonstrated promising psychometric properties including split-half reliability (r = 0.77), Cronbach α = 0.76) and an AUC of 0.971 (p &lt; 0.001).                                                           Conclusions                     The present findings provide initial evidence for the potential utility of VIDESTA as a cognitive screening tool for detecting mild-moderate cognitive decline in the Austrian Deaf community. Results should be interpreted cautiously given the small sample sizes. Research in larger samples is needed to establish normative data and confirm validity.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-10-21",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-22",
         "fetched_from": "crossref"
       },
       {
@@ -67735,6 +69614,78 @@
           "healthReform"
         ],
         "firstSeen": "2026-10-21",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/geront/gnag241",
+        "doi": "10.1093/geront/gnag241",
+        "url": "https://doi.org/10.1093/geront/gnag241",
+        "title": "Determinants of Self-Care Practices Among Family Caregivers of Older Adults with Chronic Illness: A Qualitative Descriptive Study",
+        "authors": [
+          "Soojung Ahn",
+          "Kemberlee Bonnet",
+          "Ashley Sellers",
+          "Christopher S Lee",
+          "Mulubrhan F Mogos"
+        ],
+        "abstract": "Abstract                                        Background and Objectives                     Caregiver burden significantly impedes self-care, often resulting in poor health and increased vulnerability to chronic illness. Despite these risks, the underlying factors influencing caregivers’ self-care remain understudied. This qualitative descriptive study explored the context of caregiver self-care and identified perceived barriers and facilitators to practicing self-care.                                                           Research Design and Methods                     We conducted four focus groups with 14 caregivers primarily responsible for providing in-home care to older adults (≥ 65 years) with chronic illnesses. Focus groups were audio-recorded and transcribed. A hierarchical coding system was developed and refined using the focus group guide and preliminary transcript review. Coded transcripts were analyzed using an iterative inductive-deductive thematic approach based on established theories.                                                           Results                     Caregivers’ multi-dimensional definitions of self-care shaped their perceived barriers and facilitators. Three core determinants of self-care behaviors were identified: capability (caregivers’ psychological and physical health, and behavioral regulation); motivation (caregiver identity, emotions, and perceived control); and opportunity (social and environmental influences and resources). Caregivers recognized that self-care deficits negatively affect their clinical, behavioral, and psychosocial outcomes. These results informed the development of a conceptual framework for caregiver self-care.                                                           Discussion and Implications                     Findings underscore the importance of integrating caregivers’ own perceptions of self-care into support models. Interventions should transition toward personalized approaches that address both intrinsic psychological drivers and extrinsic environmental constraints. The framework derived from this study provides a theory-driven roadmap that informs future interventions, ensuring support systems align with caregivers’ unique needs and contexts to foster better self-care and ultimately enhance their health outcomes.",
+        "source": "The Gerontologist",
+        "issn": "0016-9013",
+        "date": "2026-10-20",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/geront/gnag243",
+        "doi": "10.1093/geront/gnag243",
+        "url": "https://doi.org/10.1093/geront/gnag243",
+        "title": "Multilingual Dementia Training for Paid Caregivers: A RE-AIM Mixed-Methods Evaluation",
+        "authors": [
+          "Jarmin Yeh",
+          "Brittney Pond",
+          "Matthew Beld",
+          "Suzanna M Martinez",
+          "Kattia Suarez Vargas",
+          "Melinda Neri"
+        ],
+        "abstract": "Abstract                                        Background and Objectives                     This study evaluated the IHSS+ ADRD Training Project, a multilingual intervention for caregivers serving individuals living with Alzheimer’s disease and related dementias (ADRD) through California’s In-Home Supportive Services (IHSS) program, using the RE-AIM (Reach, Effectiveness, Adoption, Implementation, Maintenance) framework.                                                           Research Design and Methods                     A quasi-experimental, mixed-methods evaluation was conducted from July 2019 to June 2024 across Alameda and Los Angeles counties. By applying the RE-AIM framework, Reach and Effectiveness dimensions were assessed through surveys completed by 488 caregivers in English (n = 297), Spanish (n = 102), and Chinese (n = 89) at pre-training, post-training, and 3-month follow-up. Caregivers were diverse among English speakers (38% Black/African American, 23% Hispanic/Latino, and 20% Asian), averaged 49.9 years old, and were predominantly women (88%). Quantitative measures assessed dementia knowledge, self-efficacy, distress, and depression. Qualitative interviews with stakeholders (n = 11) and open-ended caregiver survey responses explored Adoption, Implementation, and Maintenance dimensions                                                           Results                     RE-AIM findings demonstrated: Reach across diverse caregiver populations in multilingual formats; Effectiveness with significant improvements in dementia knowledge and self-efficacy sustained at 3-month follow-up, plus 88-99% satisfaction; Adoption facilitated by union partnership; Implementation successfully transitioned to virtual delivery during COVID-19 despite technology barriers; and Maintenance supported by increased caregiver confidence, self-care awareness, and stress management skills, though sustainability required ongoing funding.                                                           Discussion and Implications                     Language-concordant training produced meaningful, sustained improvements across a diverse paid caregiver workforce, demonstrating its value as an equity strategy in home care workforce development. While virtual delivery was feasible and cost-effective, long-term success depends on securing dedicated funding and reliable technology infrastructure.",
+        "source": "The Gerontologist",
+        "issn": "0016-9013",
+        "date": "2026-10-20",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/geront/gnag244",
+        "doi": "10.1093/geront/gnag244",
+        "url": "https://doi.org/10.1093/geront/gnag244",
+        "title": "Drafting the next chapter: A scoping review of academic retirement planning",
+        "authors": [
+          "Michelle Pannor Silver",
+          "Julia Victoria Wong",
+          "Kathryn Barrett",
+          "Yassine Belghiti"
+        ],
+        "abstract": "Abstract                                        Background and Objectives                     Interest in retirement planning among university faculty has grown in recent years as more academics approach traditional retirement age. This scoping review examines the current literature on retirement planning among higher education faculty by examining study characteristics; participant characteristics; theoretical frameworks employed; factors influencing retirement planning; and the quality of the included studies.                                                           Research Design and Methods                     A comprehensive search across Medline, Embase, APA PsycInfo, AgeLine, ERIC, Education Source, Business Source Premier, Sociological Abstracts, International Bibliography of the Social Sciences, JSTOR, and Web of Science Core Collection yielded an initial dataset of 8,906 unique articles. Following full-text assessment, 44 studies met the inclusion criteria.                                                           Results                     Five factors prevailed across this literature as key mechanisms in academic retirement planning, including: 1) financial security; 2) health factors; 3) age and/or institutional policies; 4) work, family, and lifestyle factors; and 5) professional identity. Participant characteristics such as age, gender, stage of retirement, and other characteristics of the academic environment were reported inconsistently across the literature; only 14 of the studies mentioned a theoretical framework.                                                           Discussion and Implications                     This is the first scoping review of academic retirement with a focus on planning that includes a range of methods. While health and financial security remain central to retirement planning broadly, the studies in this review suggest that professional identity plays a distinct role in shaping how academics approach retirement planning. Implications include the need for longitudinal designs to capture how faculty transitions, shifting professional identities, and planning behaviors evolve dynamically over time.",
+        "source": "The Gerontologist",
+        "issn": "0016-9013",
+        "date": "2026-10-20",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-22",
         "fetched_from": "crossref"
       },
       {
@@ -90944,6 +92895,89 @@
     ],
     "socialWork": [
       {
+        "id": "doi:10.1093/bjsw/bcag257",
+        "doi": "10.1093/bjsw/bcag257",
+        "url": "https://doi.org/10.1093/bjsw/bcag257",
+        "title": "Gendered perspectives on coping with cancer recurrence: Insights from women in China",
+        "authors": [
+          "Changhui Song",
+          "Zhengyan Wang",
+          "Jiajia Wang",
+          "Hui Xie"
+        ],
+        "abstract": "Abstract                   Cancer recurrence imposes significant physical, psychological, social, and spiritual burdens, with women facing distinctly gendered challenges shaped by family obligations and societal expectations. Guided by the approach—the avoidance model of coping—this qualitative study explored coping strategies among women living with recurrent cancer in Henan Province, China. Fifteen semi-structured interviews were conducted with participants recruited from a tertiary hospital and analysed using thematic analysis. Three levels of coping were identified: individual, family, and societal. At the individual level, women drew on meaning-making, behavioural adaptation, and spiritual or role-based resilience. At the family level, coping was relational and often collective: emotional support, financial pooling, caregiving labour, and shared decision-making. At the societal level, women relied on informal networks and online resources, while formal community services remained limited. These coping strategies were dynamic and multidimensional, shaped by personal agency, relational resources, and structural constraints, including small family size, labour migration, illness-related stigma, gendered caregiving norms, and inadequate local healthcare infrastructure. Findings highlight the complexity of survivorship among Chinese women with recurrent cancer and underscore the need for multilevel, gender-responsive psychosocial interventions. The study carries significant implications for medical social workers supporting the psychological, social, and material dimensions of women’s cancer experiences.",
+        "source": "The British Journal of Social Work",
+        "issn": "0045-3102",
+        "date": "2026-10-21",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/bjsw/bcag262",
+        "doi": "10.1093/bjsw/bcag262",
+        "url": "https://doi.org/10.1093/bjsw/bcag262",
+        "title": "‘What is inside is outside’: The influence of dispositional mindfulness and practices on social work intervention",
+        "authors": [
+          "Sandra Romero-Martín",
+          "Carmen Elboj-Saso",
+          "Tatiana Iñiguez-Berrozpe"
+        ],
+        "abstract": "Abstract                   Social work is a profession with a high risk of emotional exhaustion and burnout. Although personal and organizational self-care is essential, professionals tend to prioritize users’ needs and engage in self-care only to a limited extent. In recent years, mindfulness has become established as a strategy for self-care and self-awareness, with growing evidence of its benefits. However, most existing studies focus on the effectiveness of mindfulness-based programs and employ quantitative methodologies. This study also focuses on dispositional mindfulness (not derived from formal practice), providing a qualitative perspective that complements previous quantitative research. Using the communicative paradigm, qualitative results are presented from a mixed-methods study analyzing the discourse of 42 social workers across 20 communicative stories and 5 communicative discussion groups. The findings suggest that mindfulness enhances self-awareness and facilitates the early detection of burnout, acting as a protective factor, and encourages greater reflection on the individual and organizational conditions associated with burnout. It also contributes to personal well-being and improves professional interventions. Nevertheless, professionals show limited engagement with self-care and some reluctance towards the practice of mindfulness, both individual and organizationally. Although mindfulness may support professional wellbeing, its contribution is greatest when embedded within broader organizational and structural responses.",
+        "source": "The British Journal of Social Work",
+        "issn": "0045-3102",
+        "date": "2026-10-21",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/bjsw/bcag266",
+        "doi": "10.1093/bjsw/bcag266",
+        "url": "https://doi.org/10.1093/bjsw/bcag266",
+        "title": "Digital administrative mediation: communication infrastructures and institutional interaction in child welfare systems",
+        "authors": [
+          "Megan McCarthy"
+        ],
+        "abstract": "Abstract                   Digital technologies increasingly shape interaction within child welfare systems, but they do not constitute a single integrated infrastructure. Family-facing communication tools, worker-facing documentation systems, and interorganizational technologies perform distinct functions within a broader communication ecology through which interaction is transmitted, recorded, circulated, and interpreted. This conceptual article introduces digital administrative mediation to describe the contingent processes through which communication infrastructures shape the timing, format, visibility, documentation, and institutional interpretation of interactions between families and child welfare agencies. Drawing together scholarship on digital social work, infrastructure, institutional trust, administrative burden, surveillance, relationship-based practice, and digital inequality, the article argues that digitalization reorganizes longstanding documentary and interpretive practices by altering the speed, persistence, granularity, circulation, retrievability, and apparent precision of administrative traces. These infrastructures may support transparency, accessibility, continuity, procedural support, and reciprocal accountability while also contributing to digital distance through relational displacement, asymmetrical visibility, proceduralization, administrative burden, and unequal participation. Their effects depend on technological design, organizational conditions, professional discretion, relationship-based practice, digital vulnerability, and opportunities for children and families to clarify or contest institutional representations. The article concludes by identifying implications for rights-based design, participatory governance, accessibility, ethical documentation, and institutional accountability.",
+        "source": "The British Journal of Social Work",
+        "issn": "0045-3102",
+        "date": "2026-10-21",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/bjsw/bcag261",
+        "doi": "10.1093/bjsw/bcag261",
+        "url": "https://doi.org/10.1093/bjsw/bcag261",
+        "title": "Between transition and transformation: A corpus analysis of environmental social work scholarship",
+        "authors": [
+          "Mel Gray",
+          "Emrah Akbas",
+          "Qian Meng"
+        ],
+        "abstract": "Abstract                   Environmental social work (ESW) has engaged increasingly with the ecological dimensions of social problems yet debates on the nature of change required to address environmental concerns persist. Ecosocial work scholars frequently frame the environmental challenge as requiring a radical transformation in the profession’s understanding of human–nature relations. They advocate a shift toward ecocentric values that recognize the inextricable connection between social and ecological justice and call for transformative practice to address the underlying structural causes of inequality, oppression, and environmental destruction. Most, however, emphasize incremental processes of ecosocial transition through multilevel ecosystems practice frameworks. This study combines theoretical insights with corpus-based analysis to gain a clearer understanding of the intellectual landscape of ecosocial work scholarship. Using text-mining techniques, including term frequency analysis, bigram extraction, conceptual network analysis, and topic modelling, the study identifies dominant concepts and thematic clusters within the field. The results reveal a heterogeneous intellectual landscape organized around sustainability, climate adaptation, disaster response, environmental justice, and ecological worldviews. While transformation-oriented perspectives are clearly present, a substantial literature focuses on practical strategies for integrating environmental concerns into existing social work practice. Ultimately, ESW scholarship encompasses multiple theoretical orientations and change pathways rather than a single transformative trajectory.",
+        "source": "The British Journal of Social Work",
+        "issn": "0045-3102",
+        "date": "2026-10-21",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-22",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1093/bjsw/bcag246",
         "doi": "10.1093/bjsw/bcag246",
         "url": "https://doi.org/10.1093/bjsw/bcag246",
@@ -98412,11 +100446,11 @@
     ]
   },
   "totals": {
-    "socialSecurity": 1574,
-    "elderCare": 647,
-    "healthReform": 991,
-    "agingHealth": 936,
-    "socialWork": 331
+    "socialSecurity": 1575,
+    "elderCare": 666,
+    "healthReform": 1025,
+    "agingHealth": 959,
+    "socialWork": 335
   },
   "feeds_ok": 41
 }
