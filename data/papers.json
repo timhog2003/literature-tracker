@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-22",
-  "fetched": "2026-10-22T06:17:27+00:00",
+  "date": "2026-10-23",
+  "fetched": "2026-10-23T06:11:13+00:00",
   "domains": {
     "socialSecurity": [
       {
@@ -24329,6 +24329,58 @@
     ],
     "elderCare": [
       {
+        "id": "doi:10.1186/s12877-026-08534-z",
+        "doi": "10.1186/s12877-026-08534-z",
+        "url": "https://doi.org/10.1186/s12877-026-08534-z",
+        "title": "Association of socioeconomic status with kidney function decline and mortality among older Korean adults: a nationwide cohort study",
+        "authors": [
+          "Jihyun Baek",
+          "Seung-Hun You",
+          "Wonsuk Shin",
+          "Hye Yun Jeong",
+          "So-Young Lee",
+          "Kipyo Kim"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-23",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08556-7",
+        "doi": "10.1186/s12877-026-08556-7",
+        "url": "https://doi.org/10.1186/s12877-026-08556-7",
+        "title": "Effect of customized 3D-printed hip protectors on user compliance in older adults in care homes: protocol for a cluster randomized controlled trial",
+        "authors": [
+          "Yijian Yang",
+          "Xiaoping Zheng",
+          "Xu Song",
+          "Marco YC Pang",
+          "Youngwon Kim",
+          "Haoming Mo",
+          "Kin-Tung Chan",
+          "Chi-Tat Fung"
+        ],
+        "abstract": "Abstract                                        Background                     Hip fractures are a major health concern among older adults, particularly in residential care homes where the risk of falls and fall-related injuries is substantially higher than those in community settings. Hip protectors have been shown to reduce the risk of hip fracture when worn during a fall; however, poor user compliance limits their effectiveness. Conventional hip protectors are often uncomfortable and poorly fitted, which discourages regular use. Customized hip protectors produced through 3D printing technology may improve comfort and fit, potentially enhancing adherence. This study aims to evaluate the effectiveness of customized 3D-printed hip protectors in improving user compliance and reducing fall-related hip injuries among older adults in care homes.                                                           Methods                                            This study is a 12-month, two-arm cluster randomized controlled trial conducted in residential care homes in Hong Kong. Thirty care homes will be randomly allocated to either the intervention group or the control group, with approximately 10 participants recruited from each home (total                       n                        = 300). Participants in the intervention group will receive customized 3D-printed hip protectors in the size that best fits their body size and pelvic shape, while those in the control group will receive conventional hip protectors. All participants will be encouraged to wear hip protectors for 12 months. The primary outcomes include acceptance rate, adherence rate (day and night), percentage of protected falls, and percentage of protected residents. Secondary outcomes include incidence of hip injury, adverse effects related to hip protector use, costs of using hip protectors, and perceived benefits reported by older adults and care staff. Quantitative data will be analysed using regression models and generalized estimating equations to account for clustering, while qualitative interview data will be analysed using thematic analysis.                                                                                Discussion                     This trial will determine whether customized 3D-printed hip protectors improve acceptance of and adherence to hip protectors among older adults in care homes, compared with conventional hip protectors. If they do, the findings could support the use of customized hip protection as part of fall-injury prevention in residential care.                                                           Trial registration                     Chinese Clinical Trial Registry: ChiCTR2500111563. Registered on 3 November 2025.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-23",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-23",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1186/s12877-026-08529-w",
         "doi": "10.1186/s12877-026-08529-w",
         "url": "https://doi.org/10.1186/s12877-026-08529-w",
@@ -24352,6 +24404,104 @@
           "agingHealth"
         ],
         "firstSeen": "2026-10-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70804",
+        "doi": "10.1111/jgs.70804",
+        "url": "https://doi.org/10.1111/jgs.70804",
+        "title": "Communicating the Geriatrician's Brand in Age‐Friendly Care",
+        "authors": [
+          "Nimit Agarwal",
+          "Sandeep Pagali",
+          "Kanishk Sharma",
+          "Kristina Balangue"
+        ],
+        "abstract": "ABSTRACT                   The implementation of CMS age‐friendly care initiatives has created new opportunities for geriatricians to shape clinical care, quality improvement, education, and health system strategy. A geriatrician's unique contribution extends beyond managing medical complexity; it lies in applying expertise in aging physiology, functional change, psychosocial context, heterogeneity, prognosis, patient priorities, and ageism to clinical and organizational decision‐making. Geriatrics expertise must be visible, clearly communicated, and connected to the people and structures that guide organizational change. This article reframes personal branding as professional communication in service of older adults and presents seven practical actions translated into clinical and quality‐improvement language: define an aim (visioning), assess the baseline (auditing), build case examples (storyscaping), align professional materials (embodying), contribute visibly (storytelling), build a coalition (socializing), and measure and adapt (renegotiating) their professional brand. The approach emphasizes collaboration with hospitalists, primary care clinicians, nurses, quality leaders, and other age‐friendly champions. By showing up consistently, contributing useful expertise, and investing in relationships, geriatricians can help health systems advance evidence‐based, person‐centered, ageism‐free care while recognizing that communication cannot substitute for clinical excellence, institutional support, or investment in the geriatrics workforce. By communicating their authentic expertise more effectively, geriatricians can increase visibility, strengthen influence, and lead age‐friendly transformation in health systems caring for an aging population.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-10-22",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08498-0",
+        "doi": "10.1186/s12877-026-08498-0",
+        "url": "https://doi.org/10.1186/s12877-026-08498-0",
+        "title": "Elastic band resistance training improves physical function, gait, cardiac indices, and corticomuscular coherence in older women at risk of sarcopenia: a randomized controlled trial",
+        "authors": [
+          "Yanhong Su",
+          "PengHui Li",
+          "HaiBing Liu",
+          "XinYu Su",
+          "Hong Yan",
+          "Juan Chen",
+          "JianLin Wang"
+        ],
+        "abstract": "Abstract                                        The risk of sarcopenia is associated with dysregulation of the heart‑brain‑muscle network. This study investigated whether elastic band resistance training (RT) modulates these integrative pathways. Forty older women (mean age 76.4 ± 5.8 years, Ishii score ≥ 120) were randomly assigned to a control group (CON; health education) or an RT group (health education plus 12 weeks of RT). Muscle mass, muscle strength, physical function, gait parameters, skeletal muscle and cardiac morphology, and corticomuscular coherence (CMC) were assessed at baseline and after 12 weeks. RT significantly improved muscle strength and physical function (                     p                      &lt; 0.05) and reduced the Ishii score (                     p                      &lt; 0.01). Gait analysis showed increased stride length (                     p                      &lt; 0.01) and reduced double‑support time (                     p                      &lt; 0.01). Ultrasound examination revealed significant increases in biceps brachii thickness, rectus femoris cross‑sectional area, rectus femoris pennation angle, interventricular septal thickness (                     p                      &lt; 0.05), as well as in LVEF and E/A ratio (                     p                      &lt; 0.01). After correction for multiple comparisons, the β‑band coherence areas for the vastus lateralis and biceps femoris increased (adjusted                     p                      &lt; 0.05). RT reduced sarcopenia risk and was associated with improvements in physical function, gait stability, and corticomuscular coherence, as well as changes in selected cardiac indices. These findings suggest parallel adaptations rather than directly demonstrating integrated regulation of the heart‑brain‑muscle network.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-22",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08533-0",
+        "doi": "10.1186/s12877-026-08533-0",
+        "url": "https://doi.org/10.1186/s12877-026-08533-0",
+        "title": "Association between inappropriate medications and comprehensive geriatric assessment outcomes: a cross-sectional study using PRISCUS, STOPP, and Beers criteria",
+        "authors": [
+          "Seyma Handan Akyon",
+          "Gülşah Onur",
+          "Hande Selvi Öztorun",
+          "Kamile Sılay",
+          "Petra A. Thürmann"
+        ],
+        "abstract": "Abstract                                        Aim                     Different criteria were developed to identify drugs with a negative benefit/risk ratio in older adults, so-called potentially inappropriate medication (PIM). We investigated the correlation between the number of PIMs identified using PRISCUS 2.0, STOPP version 3, and Beers criteria and the functional and nutritional status of Turkish geriatric patients, as assessed by comprehensive geriatric assessment (CGA) tools.                                                           Methods                     This retrospective cross-sectional analysis was conducted in geriatric outpatients over the past 10 months. Data were collected on age, clinical conditions, medication, and CGA test results. To identify independent factors associated with PIM use and to adjust for potential confounding, logistic regression analyses were performed. PIM use was analysed as a binary outcome (no PIM versus at least one PIM), and no imputation was performed. Two logistic regression models were fitted in 362 patients with complete data, without (Model 1) and with (Model 2) the number of drugs.                                                           Results                                            Among 397 participants, 58.7% (                       n                        = 233) of patients received at least one PIM when combining all three criteria (PIM-ALL). Multivariable analyses showed that the number of medications and functional status (Katz Activities of Daily Living) were most strongly associated with PIM use. In the fully adjusted model (Model 2,                       n                        = 362), each additional medication was associated with 55% higher odds of PIM use (OR 1.55, 95% CI 1.40–1.73), while a higher Katz ADL score was associated with lower odds (OR 0.73, 95% CI 0.60–0.87).                                                                                Conclusion                     There is relevant variability among PIM tools and in their association with CGA test results. Advanced, systematic, and easily implementable methodologies are required to address these shortcomings.                                                           Clinical trial registration                     This study does not involve a clinical trial and thus was not registered.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-22",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08547-8",
+        "doi": "10.1186/s12877-026-08547-8",
+        "url": "https://doi.org/10.1186/s12877-026-08547-8",
+        "title": "Evaluation of overweight/obesity status and sarcopenia risk in geriatric patients receiving home healthcare services",
+        "authors": [
+          "Yasemin Ozkaya",
+          "Olgu Aygun",
+          "Meryem Askin",
+          "Nafiye Ebru Terzi",
+          "Elif Saki",
+          "Bakiye Nurdan Tekgul"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-22",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-23",
         "fetched_from": "crossref"
       },
       {
@@ -41598,6 +41748,526 @@
         "fetched_from": "crossref"
       },
       {
+        "id": "doi:10.1001/jama.2026.19161",
+        "doi": "10.1001/jama.2026.19161",
+        "url": "https://doi.org/10.1001/jama.2026.19161",
+        "title": "Reforming Risk Adjustment in Medicare Advantage—A View From Congress",
+        "authors": [
+          "Sunjay Letchuman",
+          "William M. (Bill) Cassidy"
+        ],
+        "abstract": "This Viewpoint outlines reforms to Medicare Advantage risk adjustment to help limit overspending, including extending the reference period used to calculate Medicare risk scores and excluding diagnoses solely from in-home assessments.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-22",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.21078",
+        "doi": "10.1001/jama.2026.21078",
+        "url": "https://doi.org/10.1001/jama.2026.21078",
+        "title": "Breast Cancer’s Transformation From Terminal to Manageable",
+        "authors": [
+          "Derek C. Angus",
+          "Matthew B. O’Connor",
+          "Lauren J. Young"
+        ],
+        "abstract": "The history and future of breast cancer research and treatment are discussed by                     JAMA                     Senior Editor Derek C. Angus, MD, MPH, and Nancy E. Davidson, MD, chief academic officer and executive vice president of the Fred Hutchinson Cancer Center, for this episode of the                     Healthy Dialogue                     podcast.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-22",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.21313",
+        "doi": "10.1001/jama.2026.21313",
+        "url": "https://doi.org/10.1001/jama.2026.21313",
+        "title": "Visitors Must Check In",
+        "authors": [
+          "Cerrone Cohen"
+        ],
+        "abstract": "In this narrative medicine essay, a physician struggles with how to define his place in the hospital as both a clinician during the day and the father of a hospitalized child at night.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-22",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.17893",
+        "doi": "10.1001/jama.2026.17893",
+        "url": "https://doi.org/10.1001/jama.2026.17893",
+        "title": "Rituximab Maintenance in Eosinophilic Granulomatosis With Polyangiitis",
+        "authors": [
+          "Rodrigo Cartin-Ceba",
+          "Michael E. Wechsler"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-22",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2025.16106",
+        "doi": "10.1001/jama.2025.16106",
+        "url": "https://doi.org/10.1001/jama.2025.16106",
+        "title": "Obesity and Starvation",
+        "authors": [],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-22",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.17748",
+        "doi": "10.1001/jama.2026.17748",
+        "url": "https://doi.org/10.1001/jama.2026.17748",
+        "title": "Clinical Practice Guidelines on Antiviral Therapies for Adults With COVID-19 Infection",
+        "authors": [
+          "Chien-Hao Tseng",
+          "Po-Yu Liu",
+          "Ting-Kuang Yeh"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-22",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.17245",
+        "doi": "10.1001/jama.2026.17245",
+        "url": "https://doi.org/10.1001/jama.2026.17245",
+        "title": "A Technology Journalist Looks at AI and Health",
+        "authors": [
+          "Roy Perlis"
+        ],
+        "abstract": "The role of AI in writing and medicine is discussed by JAMA+ AI Editor in Chief Roy Perlis, MD, MSc, and Kevin Roose, a technology journalist formerly with                     The New York Times                     , for this episode of the                     JAMA+ AI Conversations                     podcast.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-22",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.19124",
+        "doi": "10.1001/jama.2026.19124",
+        "url": "https://doi.org/10.1001/jama.2026.19124",
+        "title": "Rituximab vs Azathioprine for Eosinophilic Granulomatosis With Polyangiitis Maintenance Therapy",
+        "authors": [],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-22",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.21223",
+        "doi": "10.1001/jama.2026.21223",
+        "url": "https://doi.org/10.1001/jama.2026.21223",
+        "title": "Compounded GLP-1 Dispensing Patterns and Vitamin B\n                    <sub>12</sub>\n                    Coformulation",
+        "authors": [
+          "T. Joseph Mattingly",
+          "Emeka Elvis Duru",
+          "Matthew L. Maciejewski",
+          "Rena M. Conti"
+        ],
+        "abstract": "This study uses comprehensive prescription drug monitoring program data to describe compounded weight-loss prescriptions, rates of self-payment, out-of-state dispensing, and the ingredients contained in compounded GLP-1s.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-22",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.17751",
+        "doi": "10.1001/jama.2026.17751",
+        "url": "https://doi.org/10.1001/jama.2026.17751",
+        "title": "Clinical Practice Guidelines on Antiviral Therapies for Adults With COVID-19 Infection—Reply",
+        "authors": [
+          "Peggy B. Leung",
+          "Andrew M. Davis",
+          "Kristen M. Marks"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-22",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.15278",
+        "doi": "10.1001/jama.2026.15278",
+        "url": "https://doi.org/10.1001/jama.2026.15278",
+        "title": "Rituximab vs Azathioprine for Eosinophilic Granulomatosis With Polyangiitis Maintenance Therapy",
+        "authors": [
+          "Xavier Puéchal",
+          "Grégory Pugnet",
+          "Benjamin Thoreau",
+          "Claire de Moreuil",
+          "Stéphane Jouneau",
+          "Thomas Quéméneur",
+          "Gabriel Baron",
+          "Perrine Smets",
+          "Antoine Néel",
+          "Thomas Le Gallou",
+          "Nicolas Noël",
+          "Yurdagül Uzunhan",
+          "Chloé Comarmond-Ortoli",
+          "Geoffrey Urbanski",
+          "Ygal Benhamou",
+          "Alice Bérezné",
+          "Arsène Mekinian",
+          "Mohamed Hamidou",
+          "Julien Campagne",
+          "Noémie Abisror",
+          "Pascal Cohen",
+          "Loïc Guillevin",
+          "Philippe Ravaud",
+          "Benjamin Terrier",
+          "Elisabeth DIOT",
+          "Jonathan LONDON",
+          "Paul LEGENDRE",
+          "Antoine DOSSIER",
+          "Nicolas SCHLEINITZ",
+          "Mikaël EBBO",
+          "Achille AOUBA",
+          "Alexandre NGUYEN",
+          "Divi CORNEC",
+          "Laurent SAILLER",
+          "Dominique CHAUVEAU",
+          "Pierre DUFFAU",
+          "Jean-François VIALLARD",
+          "Carine GREIB",
+          "Cécile DURANT",
+          "Sabine REVUZ",
+          "François MAURIER",
+          "Kim Heang LY",
+          "Nicolas LIMAL",
+          "Maxime SAMSON",
+          "Bernard BONNOTTE",
+          "Eric OZIOL",
+          "Renaud FELTEN",
+          "Nicolas GIRSZYN",
+          "Salim TRAD",
+          "Julie TRACLET",
+          "Mathieu VAUTIER",
+          "Antoine FROISSART",
+          "Inès AUREAU",
+          "Julien DESBLACHE",
+          "Charles FAISANT",
+          "Richard DAMADE",
+          "Laure SWIADER",
+          "Stanislas FAGUER",
+          "Vivien GUILLOTIN",
+          "Christian AGARD",
+          "Antoine BAUDET",
+          "Eric LIOZON",
+          "Marc ULRICH",
+          "Guillaume ARMENGOL",
+          "Alexandre LEJONCOUR",
+          "Philippe REMY",
+          "Alexandre KARRAS",
+          "Jean-Jacques BOFFA"
+        ],
+        "abstract": "Importance                     For patients with eosinophilic granulomatosis with polyangiitis (EGPA), guidelines recommend considering maintenance therapy after achieving remission. Data comparing maintenance therapeutic options are limited.                                                           Objective                     To compare the effects of rituximab and azathioprine maintenance therapies on remission duration for patients with EGPA who recently achieved remission of vasculitis after standard therapy, including prednisone tapering or withdrawal.                                                           Design, Setting, and Participants                     From March 7, 2018, to June 2, 2022, this double-blind, double-dummy, investigator-initiated, superiority, randomized clinical trial enrolled 98 participants with EGPA from 36 hospitals in France. Inclusion eligibility required a new EGPA diagnosis or relapsing EGPA within 30 to 360 days of achieving vasculitis remission (Birmingham Vasculitis Activity Score of 0 [range, 0-63, with higher scores indicating more severe disease activity]) after a standard induction regimen. Data were analyzed from April 1, 2025, to September 17, 2025. Additional analyses ended June 22, 2026.                                                           Interventions                     Participants were randomized to receive a predefined standardized tapering of oral prednisone and either 500 mg of intravenous rituximab every 6 months for 18 months and daily oral azathioprine placebo for 24 months (n = 49) or rituximab placebo every 6 months for 18 months and daily oral azathioprine for 24 months (n = 49).                                                           Main Outcomes and Measures                     The primary efficacy end point was the duration of total remission during the 28-month study period while taking 7.5 mg/d or less of prednisone. The 14 secondary end points included proportion of participants remaining in remission, rate of vasculitis relapse, and rate of asthma or rhinosinusitis exacerbations.                                                           Results                                            All 98 randomized participants (mean age, 59.0 years [SD, 14.4]; 50 women [51%]) received at least 1 dose of the trial regimen and 92 (94%) completed the trial. The mean time in remission with prednisone at 7.5 mg/d or less was 91.1 weeks (95% CI, 80.9-101.2) vs 96.0 weeks (95% CI, 85.6-106.5) in the rituximab and azathioprine groups, respectively (                       P                        = .38). The proportion of participants who remained in remission during the 28-month study period with prednisone at 7.5 mg/d or less was 17 of 49 (34.7%) vs 11 of 49 (22.4%; relative risk, 1.51; 95% CI, 0.83-2.73;                       P                        = .18) in the rituximab and azathioprine groups, respectively. The proportion of participants with at least 1 vasculitis relapse was 7 (14.3%) vs 9 (18.4%) in the rituximab vs azathioprine groups, respectively, and for those with at least 1 clinically significant asthma exacerbation, rhinosinusitis exacerbation, or both, it was 16 (32.7%) vs 19 (38.8%). One participant in the azathioprine group died of SARS-CoV-2 infection before vaccine development. Rituximab recipients experienced a higher incidence of severe infections (23 [46.9%] vs 12 [24.5%], respectively), primarily due to severe SARS-CoV-2 infections.                                                                                Conclusions and Relevance                     For participants with newly diagnosed or relapsing EGPA, rituximab was not superior to azathioprine for improving the duration of total remission during 28 months while taking prednisone at 7.5 mg/d or less.                                                           Trial Registration                                            ClinicalTrials.gov Identifier:                       NCT03164473",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-22",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.21737",
+        "doi": "10.1001/jama.2026.21737",
+        "url": "https://doi.org/10.1001/jama.2026.21737",
+        "title": "Pregnancy Outcomes After Living Kidney Donation",
+        "authors": [
+          "Carol Wang",
+          "Kyla L. Naylor",
+          "Eric McArthur",
+          "James A. King",
+          "Jessica M. Sontrop",
+          "Joseph Beyene",
+          "Dervla Connaughton",
+          "Elizabeth Hendren",
+          "Michelle Hladunewich",
+          "Ngan N. Lam",
+          "Krista L. Lentine",
+          "Rhiannon Lyons",
+          "Sarah D. McDonald",
+          "Pavel S. Roshanov",
+          "Erik Youngson",
+          "Amit X. Garg"
+        ],
+        "abstract": "Importance                     People who become pregnant after living kidney donation may be at increased risk of pregnancy-related adverse outcomes, although the evidence is unclear.                                                           Objective                     To determine whether pregnancies after living kidney donation are associated with a higher risk of adverse pregnancy outcomes than matched pregnancies among nondonors.                                                           Design, Setting, and Participants                     This matched cohort study used provincial administrative health care databases from Ontario, British Columbia, and Alberta, Canada, and included living female kidney donors aged 18 to 42 years who donated a kidney between July 1992 and August 2021 and subsequently had singleton pregnancies of at least 20 weeks’ gestation. These pregnancies were matched 1:4 with singleton pregnancies of at least 20 weeks’ gestation among female nondonors. Pregnancies in donors and nondonors were matched on delivery date, age at delivery, years between cohort entry and delivery, number of prior pregnancies, and income. Final follow-up occurred until March 2023. Outcome analysis occurred from August 2024 to September 2026.                                                           Main Outcomes and Measures                     The primary outcome was a composite of hospitalization with a diagnosis of gestational hypertension, preeclampsia, or eclampsia. Secondary outcomes included 12 maternal, fetal and neonatal adverse outcomes, including the individual components of the primary outcome, the composite of low birth weight or preterm birth, and small for gestational age at birth.                                                           Results                     The sample included 385 pregnancies in 252 living kidney donors (mean [SD] age, 27.8 [5.0] years) matched to 1540 pregnancies in 1535 nondonors (mean [SD] age, 27.0 [4.8] years). The primary composite outcome of gestational hypertension, preeclampsia, or eclampsia occurred in 46 donor pregnancies (11.9%) and 128 nondonor pregnancies (8.3%; risk ratio, 1.51; 95% CI, 1.10-2.08). Among the 12 secondary outcomes, the 95% CI for the risk ratio excluded 1.00 for the outcome of small for gestational age, which occurred in 53 donor pregnancies (13.8%) and 121 nondonor pregnancies (7.9%) (risk ratio, 1.86; 95% CI, 1.37-2.52).                                                           CONCLUSIONS AND RELEVANCE                     In this study, pregnancy after living kidney donation was associated with a higher risk of the composite outcome of hospitalization with a diagnosis of gestational hypertension, preeclampsia, or eclampsia, when compared with matched pregnancies in nondonors. Most postdonation pregnancies were uncomplicated. These findings support counseling donor candidates who may become pregnant about this risk and informing the prenatal care of donors who become pregnant.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-22",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmoa2609127",
+        "doi": "10.1056/nejmoa2609127",
+        "url": "https://doi.org/10.1056/nejmoa2609127",
+        "title": "Sibeprenlimab in IgA Nephropathy — Final Phase 3 Trial Analysis",
+        "authors": [
+          "Dana V. Rizk",
+          "Jonathan Barratt",
+          "Yusuke Suzuki",
+          "Hong Zhang",
+          "Muh Geot Wong",
+          "Adrian Liew",
+          "Richard Lafayette",
+          "Vladimír Tesař",
+          "Hernán Trimarchi",
+          "Kevin Carroll",
+          "Ian S.D. Roberts",
+          "Vivekanand Jha",
+          "Alejandra Quevedo",
+          "Seung Hyeok Han",
+          "Rosnawati Yahya",
+          "Chee Kay Cheung",
+          "Raja Ramachandran",
+          "Michael Walsh",
+          "Bobby Chacko",
+          "Manuel Praga",
+          "Jin-Bor Chen",
+          "José Suassuna",
+          "Jing Xia",
+          "Lokesh Shah",
+          "Vlado Perkovic"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-10-22",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmoa2610103",
+        "doi": "10.1056/nejmoa2610103",
+        "url": "https://doi.org/10.1056/nejmoa2610103",
+        "title": "Atacicept in IgA Nephropathy — Phase 3 Trial Final Efficacy Analysis",
+        "authors": [
+          "Jonathan Barratt",
+          "Robert M. Brenner",
+          "Sean J. Barbour",
+          "Kirk N. Campbell",
+          "Tom Doan",
+          "Necmi Eren",
+          "Jürgen Floege",
+          "Marshall W. Fordyce",
+          "Vivekanand Jha",
+          "Zeeshan Khawaja",
+          "Beom Seok Kim",
+          "Adrian Liew",
+          "Bart Maes",
+          "Atanu Pal",
+          "Roberto Pecoits-Filho",
+          "Richard K.S. Phoon",
+          "Dana V. Rizk",
+          "Hitoshi Suzuki",
+          "Vladimír Tesař",
+          "Hernán Trimarchi",
+          "Xuelian Wei",
+          "Lixi Yu",
+          "Hong Zhang",
+          "Richard Lafayette"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-10-22",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1007/s40273-026-01662-9",
+        "doi": "10.1007/s40273-026-01662-9",
+        "url": "https://doi.org/10.1007/s40273-026-01662-9",
+        "title": "Patient-Centered Value Elements in the Economic Evaluation of Chronic Obstructive Pulmonary Disease (COPD): A Targeted Review of Cost-Effectiveness Analyses",
+        "authors": [
+          "Nabin Poudel",
+          "Leah Lodise",
+          "Jiwon Oh",
+          "Victoria Lee",
+          "Salome Ricci",
+          "Julia F. Slejko"
+        ],
+        "abstract": "",
+        "source": "PharmacoEconomics",
+        "issn": "1170-7690",
+        "date": "2026-10-22",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag270",
+        "doi": "10.1093/aje/kwag270",
+        "url": "https://doi.org/10.1093/aje/kwag270",
+        "title": "The authors reply to ‘consistency and positivity are valuable for causal education and communication’ by lee Kennedy-Shaffer",
+        "authors": [
+          "Sander Greenland",
+          "Stephen R Cole"
+        ],
+        "abstract": "",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-10-22",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag269",
+        "doi": "10.1093/aje/kwag269",
+        "url": "https://doi.org/10.1093/aje/kwag269",
+        "title": "<b>Military-specific factors and incident melanoma diagnoses among active duty participants in the millennium cohort study, 2000</b>\n                    -\n                    <b>2021</b>",
+        "authors": [
+          "Anna C Rivera",
+          "Claire A Kolaja",
+          "Judith Harbertson",
+          "Sydney E Rand",
+          "Satbir Boparai",
+          "Edward J Boyko",
+          "Gregory C Gray",
+          "Rudolph P Rull",
+          "Jennifer G Powers"
+        ],
+        "abstract": "Abstract                   Service members experience unique occupational hazards that may increase their risk for melanoma. This longitudinal study aimed to determine associations between deployment status, environmental exposures, and solar exposures and incident melanoma among active duty service members. Millennium Cohort Study survey data (2001-2021) were linked with deployment and military health care records (2000-2021). Adjusted Cox proportional hazards models estimated effects of exposures and covariates on incident melanoma. Risk of melanoma diagnosis by age (early vs late onset) and anatomical site (sun-protected vs sun-exposed skin) were also estimated. Among 115,512 service members, 184 were diagnosed with melanoma during the study period (61% were &amp;lt;40 years old and 77% diagnosed on sun-protected skin). Melanoma risk by demographics was consistent with civilian studies. Among this military population, those who deployed (adjusted hazard ratio [AHR] 0.55 [95% CI 0.40, 0.75]) had reduced melanoma risk. Conversely, those who self-reported being exposed to occupational hazards (AHR 1.43 [95% CI 1.05, 1.95]) had elevated melanoma risk. Findings were consistent with the “healthy deployer effect,” while self-reported occupational hazards were associated with an increased risk of melanoma. Results may be informative for understanding melanoma etiology, risk counseling, and screening.",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-10-22",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag271",
+        "doi": "10.1093/aje/kwag271",
+        "url": "https://doi.org/10.1093/aje/kwag271",
+        "title": "Effect heterogeneity of loneliness and social support on incident hypertension in older, normotensive populations",
+        "authors": [
+          "Victoria M Nielsen",
+          "Louisa Smith",
+          "Larry Han",
+          "Trenton Honda",
+          "Justin Manjourides"
+        ],
+        "abstract": "Abstract                   Although social isolation is known to impact those with cardiovascular disease, its relationship with incident hypertension is unclear. In this retrospective cohort study, we used data from the All of Us research program. Participants were enrolled between May 2017-April 2023, aged 50+ years, and had at least 60-days of EHR data pre-index date. We identified incident hypertension during follow-up. Those classified as hypertensive at or prior to the index date were excluded. We defined low social support and loneliness as binary variables. Using causal forests, we estimated treatment effects as unweighted and overlap-weighted risk differences (RD). A total of 24,720 participants with a median follow-up of 2.6 years were included. While loneliness and social support were not significantly associated with incident hypertension in the overall population, causal forests revealed meaningful effect heterogeneity, with socially isolated male (RD: 0.038, 95% CI 0.002 to 0.075; overlap-weighted RD: 0.027, 95% CI -0.005 to 0.059) and Gay or Lesbian participants (RD: 0.108, 95% CI 0.011 to 0.205; overlap-weighted RD: 0.11, 95% CI 0.008 to 0.211) experiencing a significantly elevated risk. This illustrates how machine learning, when embedded within epidemiologic frameworks, can detect subgroup vulnerability that other approaches may obscure, enabling targeting of limited resources.",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-10-22",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/1468-0009.70136",
+        "doi": "10.1111/1468-0009.70136",
+        "url": "https://doi.org/10.1111/1468-0009.70136",
+        "title": "Health Data Utilities as Essential Public Infrastructure: A Cooperative Federalism Architecture",
+        "authors": [
+          "AMIT JAIN",
+          "SUNIL K. JAIN"
+        ],
+        "abstract": "Policy Points                                                                                                                                         Federal interoperability networks transport standardized clinical data but do not aggregate, enrich, or analyze the state‐governed data that clinical practice, public health, and Medicaid administration require locally. State‐designated health data utilities fill this structural gap through a cooperative federalism architecture in which states build and operate local data infrastructure and the federal government provides regulatory flexibility and financial incentives.                                                                                         The One Big Beautiful Bill Act requires states to implement twice‐yearly redeterminations beginning in 2027, creating a unified enforcement cycle that no existing infrastructure can absorb at scale. The health data utility offers the most administratively viable architecture for preventing catastrophic procedural disenrollments as state budgets contract.                                                                                         A four‐layer financing model distributes financial risk across state general funds, Medicaid enhanced matching, payer enrichment revenue, and value‐based payment integration. Federal action should formalize a health data utility profile within the Trusted Exchange Framework and Common Agreement and confirm enhanced Medicaid matching for shared infrastructure.                                                                                                                                                                                        Context                     Federal interoperability initiatives like Trusted Exchange Framework and Common Agreement transport clinical records across boundaries but fail to aggregate and enrich state‐governed datasets, including Medicaid claims, prescription monitoring records, and social service registries. This fragmentation creates fiscal and administrative liability for states, exacerbated by the One Big Beautiful Bill Act's mandate for twice‐yearly Medicaid redeterminations and work verifications beginning in 2027 amidst tightening state budgets.                                                           Methods                     Synthesizing health information exchange literature, existing state operational models (Maryland, Indiana, California, North Carolina), and federal statutory requirements, we propose a cooperative federalism governance model, technical data architecture, and multi‐payer financing strategy for state‐designated health data utilities (HDUs).                                                           Findings                     We propose an HDU architecture that can be adapted across multiple states, designed to directly advance clinical care delivery by functioning as an enrichment layer integrated natively into electronic health record workflows. By synthesizing longitudinal clinical encounters, controlled substance histories, claims, and social needs registries in real time, the proposed utility would deliver actionable predictive risk scores and automated point‐of‐care alerts to prevent avoidable readmissions, curtail redundant advanced imaging, and coordinate cross‐sector interventions for high‐risk patients. Operationally, the model pairs this bedside enrichment with automated eligibility and frailty verification, ensuring high‐need individuals maintain continuous access to essential clinical services.                                                           Conclusions                     Clinical data fragmentation is rooted in governance silos rather than technical barriers. Establishing state‐designated HDUs through a cooperative federalism model bridges bedside clinical practice, public health, and Medicaid administration. HDUs provide the integrated infrastructure necessary to prevent clinical crises, protect vulnerable populations, and improve care delivery at scale across the United States.",
+        "source": "The Milbank Quarterly",
+        "issn": "0887-378X",
+        "date": "2026-10-21",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "socialSecurity"
+        ],
+        "firstSeen": "2026-10-22",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1001/jama.2026.16766",
         "doi": "10.1001/jama.2026.16766",
         "url": "https://doi.org/10.1001/jama.2026.16766",
@@ -41862,27 +42532,6 @@
         "subjects": [],
         "domains": [
           "healthReform"
-        ],
-        "firstSeen": "2026-10-22",
-        "fetched_from": "crossref"
-      },
-      {
-        "id": "doi:10.1111/1468-0009.70136",
-        "doi": "10.1111/1468-0009.70136",
-        "url": "https://doi.org/10.1111/1468-0009.70136",
-        "title": "Health Data Utilities as Essential Public Infrastructure: A Cooperative Federalism Architecture",
-        "authors": [
-          "AMIT JAIN",
-          "SUNIL K. JAIN"
-        ],
-        "abstract": "Policy Points                                                                                                                                         Federal interoperability networks transport standardized clinical data but do not aggregate, enrich, or analyze the state‐governed data that clinical practice, public health, and Medicaid administration require locally. State‐designated health data utilities fill this structural gap through a cooperative federalism architecture in which states build and operate local data infrastructure and the federal government provides regulatory flexibility and financial incentives.                                                                                         The One Big Beautiful Bill Act requires states to implement twice‐yearly redeterminations beginning in 2027, creating a unified enforcement cycle that no existing infrastructure can absorb at scale. The health data utility offers the most administratively viable architecture for preventing catastrophic procedural disenrollments as state budgets contract.                                                                                         A four‐layer financing model distributes financial risk across state general funds, Medicaid enhanced matching, payer enrichment revenue, and value‐based payment integration. Federal action should formalize a health data utility profile within the Trusted Exchange Framework and Common Agreement and confirm enhanced Medicaid matching for shared infrastructure.                                                                                                                                                                                        Context                     Federal interoperability initiatives like Trusted Exchange Framework and Common Agreement transport clinical records across boundaries but fail to aggregate and enrich state‐governed datasets, including Medicaid claims, prescription monitoring records, and social service registries. This fragmentation creates fiscal and administrative liability for states, exacerbated by the One Big Beautiful Bill Act's mandate for twice‐yearly Medicaid redeterminations and work verifications beginning in 2027 amidst tightening state budgets.                                                           Methods                     Synthesizing health information exchange literature, existing state operational models (Maryland, Indiana, California, North Carolina), and federal statutory requirements, we propose a cooperative federalism governance model, technical data architecture, and multi‐payer financing strategy for state‐designated health data utilities (HDUs).                                                           Findings                     We propose an HDU architecture that can be adapted across multiple states, designed to directly advance clinical care delivery by functioning as an enrichment layer integrated natively into electronic health record workflows. By synthesizing longitudinal clinical encounters, controlled substance histories, claims, and social needs registries in real time, the proposed utility would deliver actionable predictive risk scores and automated point‐of‐care alerts to prevent avoidable readmissions, curtail redundant advanced imaging, and coordinate cross‐sector interventions for high‐risk patients. Operationally, the model pairs this bedside enrichment with automated eligibility and frailty verification, ensuring high‐need individuals maintain continuous access to essential clinical services.                                                           Conclusions                     Clinical data fragmentation is rooted in governance silos rather than technical barriers. Establishing state‐designated HDUs through a cooperative federalism model bridges bedside clinical practice, public health, and Medicaid administration. HDUs provide the integrated infrastructure necessary to prevent clinical crises, protect vulnerable populations, and improve care delivery at scale across the United States.",
-        "source": "The Milbank Quarterly",
-        "issn": "0887-378X",
-        "date": "2026-10-21",
-        "subjects": [],
-        "domains": [
-          "healthReform",
-          "socialSecurity"
         ],
         "firstSeen": "2026-10-22",
         "fetched_from": "crossref"
@@ -68861,6 +69510,58 @@
         "fetched_from": "crossref"
       },
       {
+        "id": "doi:10.1186/s12877-026-08534-z",
+        "doi": "10.1186/s12877-026-08534-z",
+        "url": "https://doi.org/10.1186/s12877-026-08534-z",
+        "title": "Association of socioeconomic status with kidney function decline and mortality among older Korean adults: a nationwide cohort study",
+        "authors": [
+          "Jihyun Baek",
+          "Seung-Hun You",
+          "Wonsuk Shin",
+          "Hye Yun Jeong",
+          "So-Young Lee",
+          "Kipyo Kim"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-23",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08556-7",
+        "doi": "10.1186/s12877-026-08556-7",
+        "url": "https://doi.org/10.1186/s12877-026-08556-7",
+        "title": "Effect of customized 3D-printed hip protectors on user compliance in older adults in care homes: protocol for a cluster randomized controlled trial",
+        "authors": [
+          "Yijian Yang",
+          "Xiaoping Zheng",
+          "Xu Song",
+          "Marco YC Pang",
+          "Youngwon Kim",
+          "Haoming Mo",
+          "Kin-Tung Chan",
+          "Chi-Tat Fung"
+        ],
+        "abstract": "Abstract                                        Background                     Hip fractures are a major health concern among older adults, particularly in residential care homes where the risk of falls and fall-related injuries is substantially higher than those in community settings. Hip protectors have been shown to reduce the risk of hip fracture when worn during a fall; however, poor user compliance limits their effectiveness. Conventional hip protectors are often uncomfortable and poorly fitted, which discourages regular use. Customized hip protectors produced through 3D printing technology may improve comfort and fit, potentially enhancing adherence. This study aims to evaluate the effectiveness of customized 3D-printed hip protectors in improving user compliance and reducing fall-related hip injuries among older adults in care homes.                                                           Methods                                            This study is a 12-month, two-arm cluster randomized controlled trial conducted in residential care homes in Hong Kong. Thirty care homes will be randomly allocated to either the intervention group or the control group, with approximately 10 participants recruited from each home (total                       n                        = 300). Participants in the intervention group will receive customized 3D-printed hip protectors in the size that best fits their body size and pelvic shape, while those in the control group will receive conventional hip protectors. All participants will be encouraged to wear hip protectors for 12 months. The primary outcomes include acceptance rate, adherence rate (day and night), percentage of protected falls, and percentage of protected residents. Secondary outcomes include incidence of hip injury, adverse effects related to hip protector use, costs of using hip protectors, and perceived benefits reported by older adults and care staff. Quantitative data will be analysed using regression models and generalized estimating equations to account for clustering, while qualitative interview data will be analysed using thematic analysis.                                                                                Discussion                     This trial will determine whether customized 3D-printed hip protectors improve acceptance of and adherence to hip protectors among older adults in care homes, compared with conventional hip protectors. If they do, the findings could support the use of customized hip protection as part of fall-injury prevention in residential care.                                                           Trial registration                     Chinese Clinical Trial Registry: ChiCTR2500111563. Registered on 3 November 2025.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-23",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-23",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1186/s12877-026-08529-w",
         "doi": "10.1186/s12877-026-08529-w",
         "url": "https://doi.org/10.1186/s12877-026-08529-w",
@@ -68884,6 +69585,366 @@
           "agingHealth"
         ],
         "firstSeen": "2026-10-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70804",
+        "doi": "10.1111/jgs.70804",
+        "url": "https://doi.org/10.1111/jgs.70804",
+        "title": "Communicating the Geriatrician's Brand in Age‐Friendly Care",
+        "authors": [
+          "Nimit Agarwal",
+          "Sandeep Pagali",
+          "Kanishk Sharma",
+          "Kristina Balangue"
+        ],
+        "abstract": "ABSTRACT                   The implementation of CMS age‐friendly care initiatives has created new opportunities for geriatricians to shape clinical care, quality improvement, education, and health system strategy. A geriatrician's unique contribution extends beyond managing medical complexity; it lies in applying expertise in aging physiology, functional change, psychosocial context, heterogeneity, prognosis, patient priorities, and ageism to clinical and organizational decision‐making. Geriatrics expertise must be visible, clearly communicated, and connected to the people and structures that guide organizational change. This article reframes personal branding as professional communication in service of older adults and presents seven practical actions translated into clinical and quality‐improvement language: define an aim (visioning), assess the baseline (auditing), build case examples (storyscaping), align professional materials (embodying), contribute visibly (storytelling), build a coalition (socializing), and measure and adapt (renegotiating) their professional brand. The approach emphasizes collaboration with hospitalists, primary care clinicians, nurses, quality leaders, and other age‐friendly champions. By showing up consistently, contributing useful expertise, and investing in relationships, geriatricians can help health systems advance evidence‐based, person‐centered, ageism‐free care while recognizing that communication cannot substitute for clinical excellence, institutional support, or investment in the geriatrics workforce. By communicating their authentic expertise more effectively, geriatricians can increase visibility, strengthen influence, and lead age‐friendly transformation in health systems caring for an aging population.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-10-22",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08498-0",
+        "doi": "10.1186/s12877-026-08498-0",
+        "url": "https://doi.org/10.1186/s12877-026-08498-0",
+        "title": "Elastic band resistance training improves physical function, gait, cardiac indices, and corticomuscular coherence in older women at risk of sarcopenia: a randomized controlled trial",
+        "authors": [
+          "Yanhong Su",
+          "PengHui Li",
+          "HaiBing Liu",
+          "XinYu Su",
+          "Hong Yan",
+          "Juan Chen",
+          "JianLin Wang"
+        ],
+        "abstract": "Abstract                                        The risk of sarcopenia is associated with dysregulation of the heart‑brain‑muscle network. This study investigated whether elastic band resistance training (RT) modulates these integrative pathways. Forty older women (mean age 76.4 ± 5.8 years, Ishii score ≥ 120) were randomly assigned to a control group (CON; health education) or an RT group (health education plus 12 weeks of RT). Muscle mass, muscle strength, physical function, gait parameters, skeletal muscle and cardiac morphology, and corticomuscular coherence (CMC) were assessed at baseline and after 12 weeks. RT significantly improved muscle strength and physical function (                     p                      &lt; 0.05) and reduced the Ishii score (                     p                      &lt; 0.01). Gait analysis showed increased stride length (                     p                      &lt; 0.01) and reduced double‑support time (                     p                      &lt; 0.01). Ultrasound examination revealed significant increases in biceps brachii thickness, rectus femoris cross‑sectional area, rectus femoris pennation angle, interventricular septal thickness (                     p                      &lt; 0.05), as well as in LVEF and E/A ratio (                     p                      &lt; 0.01). After correction for multiple comparisons, the β‑band coherence areas for the vastus lateralis and biceps femoris increased (adjusted                     p                      &lt; 0.05). RT reduced sarcopenia risk and was associated with improvements in physical function, gait stability, and corticomuscular coherence, as well as changes in selected cardiac indices. These findings suggest parallel adaptations rather than directly demonstrating integrated regulation of the heart‑brain‑muscle network.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-22",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08533-0",
+        "doi": "10.1186/s12877-026-08533-0",
+        "url": "https://doi.org/10.1186/s12877-026-08533-0",
+        "title": "Association between inappropriate medications and comprehensive geriatric assessment outcomes: a cross-sectional study using PRISCUS, STOPP, and Beers criteria",
+        "authors": [
+          "Seyma Handan Akyon",
+          "Gülşah Onur",
+          "Hande Selvi Öztorun",
+          "Kamile Sılay",
+          "Petra A. Thürmann"
+        ],
+        "abstract": "Abstract                                        Aim                     Different criteria were developed to identify drugs with a negative benefit/risk ratio in older adults, so-called potentially inappropriate medication (PIM). We investigated the correlation between the number of PIMs identified using PRISCUS 2.0, STOPP version 3, and Beers criteria and the functional and nutritional status of Turkish geriatric patients, as assessed by comprehensive geriatric assessment (CGA) tools.                                                           Methods                     This retrospective cross-sectional analysis was conducted in geriatric outpatients over the past 10 months. Data were collected on age, clinical conditions, medication, and CGA test results. To identify independent factors associated with PIM use and to adjust for potential confounding, logistic regression analyses were performed. PIM use was analysed as a binary outcome (no PIM versus at least one PIM), and no imputation was performed. Two logistic regression models were fitted in 362 patients with complete data, without (Model 1) and with (Model 2) the number of drugs.                                                           Results                                            Among 397 participants, 58.7% (                       n                        = 233) of patients received at least one PIM when combining all three criteria (PIM-ALL). Multivariable analyses showed that the number of medications and functional status (Katz Activities of Daily Living) were most strongly associated with PIM use. In the fully adjusted model (Model 2,                       n                        = 362), each additional medication was associated with 55% higher odds of PIM use (OR 1.55, 95% CI 1.40–1.73), while a higher Katz ADL score was associated with lower odds (OR 0.73, 95% CI 0.60–0.87).                                                                                Conclusion                     There is relevant variability among PIM tools and in their association with CGA test results. Advanced, systematic, and easily implementable methodologies are required to address these shortcomings.                                                           Clinical trial registration                     This study does not involve a clinical trial and thus was not registered.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-22",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08547-8",
+        "doi": "10.1186/s12877-026-08547-8",
+        "url": "https://doi.org/10.1186/s12877-026-08547-8",
+        "title": "Evaluation of overweight/obesity status and sarcopenia risk in geriatric patients receiving home healthcare services",
+        "authors": [
+          "Yasemin Ozkaya",
+          "Olgu Aygun",
+          "Meryem Askin",
+          "Nafiye Ebru Terzi",
+          "Elif Saki",
+          "Bakiye Nurdan Tekgul"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-22",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag270",
+        "doi": "10.1093/aje/kwag270",
+        "url": "https://doi.org/10.1093/aje/kwag270",
+        "title": "The authors reply to ‘consistency and positivity are valuable for causal education and communication’ by lee Kennedy-Shaffer",
+        "authors": [
+          "Sander Greenland",
+          "Stephen R Cole"
+        ],
+        "abstract": "",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-10-22",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag269",
+        "doi": "10.1093/aje/kwag269",
+        "url": "https://doi.org/10.1093/aje/kwag269",
+        "title": "<b>Military-specific factors and incident melanoma diagnoses among active duty participants in the millennium cohort study, 2000</b>\n                    -\n                    <b>2021</b>",
+        "authors": [
+          "Anna C Rivera",
+          "Claire A Kolaja",
+          "Judith Harbertson",
+          "Sydney E Rand",
+          "Satbir Boparai",
+          "Edward J Boyko",
+          "Gregory C Gray",
+          "Rudolph P Rull",
+          "Jennifer G Powers"
+        ],
+        "abstract": "Abstract                   Service members experience unique occupational hazards that may increase their risk for melanoma. This longitudinal study aimed to determine associations between deployment status, environmental exposures, and solar exposures and incident melanoma among active duty service members. Millennium Cohort Study survey data (2001-2021) were linked with deployment and military health care records (2000-2021). Adjusted Cox proportional hazards models estimated effects of exposures and covariates on incident melanoma. Risk of melanoma diagnosis by age (early vs late onset) and anatomical site (sun-protected vs sun-exposed skin) were also estimated. Among 115,512 service members, 184 were diagnosed with melanoma during the study period (61% were &amp;lt;40 years old and 77% diagnosed on sun-protected skin). Melanoma risk by demographics was consistent with civilian studies. Among this military population, those who deployed (adjusted hazard ratio [AHR] 0.55 [95% CI 0.40, 0.75]) had reduced melanoma risk. Conversely, those who self-reported being exposed to occupational hazards (AHR 1.43 [95% CI 1.05, 1.95]) had elevated melanoma risk. Findings were consistent with the “healthy deployer effect,” while self-reported occupational hazards were associated with an increased risk of melanoma. Results may be informative for understanding melanoma etiology, risk counseling, and screening.",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-10-22",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag271",
+        "doi": "10.1093/aje/kwag271",
+        "url": "https://doi.org/10.1093/aje/kwag271",
+        "title": "Effect heterogeneity of loneliness and social support on incident hypertension in older, normotensive populations",
+        "authors": [
+          "Victoria M Nielsen",
+          "Louisa Smith",
+          "Larry Han",
+          "Trenton Honda",
+          "Justin Manjourides"
+        ],
+        "abstract": "Abstract                   Although social isolation is known to impact those with cardiovascular disease, its relationship with incident hypertension is unclear. In this retrospective cohort study, we used data from the All of Us research program. Participants were enrolled between May 2017-April 2023, aged 50+ years, and had at least 60-days of EHR data pre-index date. We identified incident hypertension during follow-up. Those classified as hypertensive at or prior to the index date were excluded. We defined low social support and loneliness as binary variables. Using causal forests, we estimated treatment effects as unweighted and overlap-weighted risk differences (RD). A total of 24,720 participants with a median follow-up of 2.6 years were included. While loneliness and social support were not significantly associated with incident hypertension in the overall population, causal forests revealed meaningful effect heterogeneity, with socially isolated male (RD: 0.038, 95% CI 0.002 to 0.075; overlap-weighted RD: 0.027, 95% CI -0.005 to 0.059) and Gay or Lesbian participants (RD: 0.108, 95% CI 0.011 to 0.205; overlap-weighted RD: 0.11, 95% CI 0.008 to 0.211) experiencing a significantly elevated risk. This illustrates how machine learning, when embedded within epidemiologic frameworks, can detect subgroup vulnerability that other approaches may obscure, enabling targeting of limited resources.",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-10-22",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261494512",
+        "doi": "10.1177/13872877261494512",
+        "url": "https://doi.org/10.1177/13872877261494512",
+        "title": "Diagnostic reclassification under the AA-2024 biological framework: A real-world comparison with ATN 2018 using cerebrospinal fluid biomarkers",
+        "authors": [
+          "Caio Viana Botelho",
+          "Amandha Carneiro",
+          "Carolina Regadas",
+          "Cintia Cavalcante",
+          "Ian Ribeiro",
+          "Samia Rabelo",
+          "Vania Araujo",
+          "Glauber Ferreira",
+          "Bruno Diógenes Iepsen",
+          "Norberto Anizio Ferreira Frota"
+        ],
+        "abstract": "Background                     Alzheimer's disease (AD) has evolved from a syndromic diagnosis to a biologically defined entity supported by cerebrospinal fluid (CSF) biomarkers. The Alzheimer's Association 2024 (AA-2024) criteria are expected to expand biological AD classification compared with the 2018 NIA–AA AT(N) framework.                                                           Objective                     To compare biological AD classification using the AT(N) 2018 framework and the AA-2024 criteria in a real-world cohort.                                                           Methods                                            We conducted a retrospective study including 146 consecutive patients evaluated for cognitive impairment in a tertiary neurology center who underwent CSF biomarker testing (Aβ                       42                       , Aβ                       40                       , Aβ                       42                       /Aβ                       40                       ratio, phosphorylated tau, and total tau). Each patient was classified according to AT(N) 2018 and AA-2024 criteria. Diagnostic distributions, reclassification patterns, and agreement (Cohen's κ) were analyzed. Group comparisons used Wilcoxon rank-sum and Fisher's exact tests.                                                                                Results                                            Under AT(N) 2018, 40/146 (27.4%) patients met biological AD criteria, whereas AA-2024 classified 72/146 (49.3%) as AD. Reclassification occurred exclusively from non-AD to AD (32 patients, 21.9%), with no reverse reclassification. Agreement was moderate (κ = 0.57). Concordant AD cases (AD+/AD+) showed lower Aβ                       42                       /Aβ                       40                       ratios and higher total and phosphorylated tau levels than reclassified cases (AD−/AD+) (all p &lt; 0.001), as well as higher neurodegeneration marker positivity (70% versus 25%; p &lt; 0.001). Final clinical AD diagnosis was assigned to 98% of concordant cases versus 38% of reclassified cases (p &lt; 0.001).                                                                                Conclusions                     AA-2024 increases biological AD classification by identifying amyloid-positive individuals with lower tau burden and clinical heterogeneity, underscoring the need to integrate biomarker-based definitions with clinical and longitudinal assessment.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-10-22",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261491986",
+        "doi": "10.1177/13872877261491986",
+        "url": "https://doi.org/10.1177/13872877261491986",
+        "title": "Italian norms for two brief visuospatial tests: Qualitative Scoring Pentagon Test and Benton Judgment of Line Orientation - Short Form",
+        "authors": [
+          "Paolo Caffarra",
+          "Thomas Rasi",
+          "Edoardo Nicolò Aiello",
+          "Francesca Frisco",
+          "Giulia De Luca",
+          "Beatrice Curti",
+          "Arianna Moreschi",
+          "Aurora Corso",
+          "Teresa Difonzo",
+          "Lorenzo Lorusso",
+          "Anna Formenti",
+          "Antonio Tetto",
+          "Elisa Di Rosa",
+          "Barbara Poletti",
+          "Nadia Bolognini",
+          "Stefano Zago"
+        ],
+        "abstract": "Visuospatial (VS) assessments, such as the pentagon copying task and the Benton Judgment of Line Orientation Test (BJLOT), are essential for diagnosing brain disorders. This study provides Italian regression-based norms for the Qualitative Scoring Pentagon Test (QSPT) and BJLOT-Short Form (BJLOT-SF). Participants completed both tests. Normative data were derived via regression-based Equivalent Scores, adjusting for demographics. QSPT scores were predicted by age, whereas BJLOT-SF performance was influenced by age, education, and sex. Demographic adjustments, tolerance limits, and Equivalent Score thresholds were provided. This study provides Italian regression-based norms for the QSPT and BJLOT-SF, supporting their use to assess VS abilities.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-10-22",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261491991",
+        "doi": "10.1177/13872877261491991",
+        "url": "https://doi.org/10.1177/13872877261491991",
+        "title": "Neuronal maturation is altered during pre-pathological stages in the\n                    <i>\n                      App\n                      <sup>NL-F</sup>\n                    </i>\n                    mouse model of Alzheimer's disease",
+        "authors": [
+          "Tosca Doeswijk",
+          "Michael Axenhus",
+          "Subash Chandra Malik",
+          "Bengt Winblad",
+          "Lars O. Tjernberg",
+          "Sophia Schedin-Weiss"
+        ],
+        "abstract": "Background                                            An increased understanding of neuronal development in the early stages of Alzheimer's disease (AD) could shed light on the pathogenesis of the disease. Our previous proteomics studies of the knock-in                                                App                         NL-F                                              AD mouse model showed changes in neuritogenesis and neurogenesis early in life.                                                                                Objective                     We aimed to characterize neuronal maturation across different stages of the progression of AD.                                                           Methods                                            To this end, we immunolabeled doublecortin and phosphorylated doublecortin in primary neurons, and brain sections from                                                App                         NL-F                                              mice of varying ages and postmortem AD brain.                                                                                Results                                            Increased doublecortin and decreased phosphorylated doublecortin levels were observed in several cortical regions of embryonic                                                App                         NL-F                                              mice. Moreover, increased number of doublecortin positive cells was observed in the hippocampus of 6- and 12-month-old                                                App                         NL-F                                              mice. Doublecortin decreased over time in primary neuronal cultures of                                                App                         NL-F                                              and wild-type mice in a similar way. Likewise, doublecortin in postmortem human brains did not differ between AD patients and controls.                                                                                Conclusions                                            We conclude that a marker of immature neurons is unchanged in AD patients and aged mice but is altered in the early lifespan of                                                App                         NL-F                                              mice, before the onset of symptoms and pathology. These results suggest that neuronal maturation may also be dysregulated in the early, but not later, stages of AD.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-10-22",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261498431",
+        "doi": "10.1177/13872877261498431",
+        "url": "https://doi.org/10.1177/13872877261498431",
+        "title": "Clusters of modifiable dementia risk factors at mid-life and late-life and their association with incident dementia: A prospective cohort study of 246,968 adults",
+        "authors": [
+          "Tessa L. van Baal",
+          "Sebastian Köhler",
+          "Kay Deckers",
+          "Niels Janssen"
+        ],
+        "abstract": "Background                     Modifiable dementia risk factors rarely occur in isolation, yet their co-occurrence and clustering remain poorly characterized, limiting identification of high-risk individuals and development of targeted strategies.                                                           Objective                     To identify clusters of ten modifiable risk factors in mid-life (45–65 years) and late-life (&gt;65 years), and to examine their association with incident dementia.                                                           Methods                     Data were drawn from the 2012 Dutch Public Health Monitor Survey (mid-life: n = 121,120; late-life: n = 125,848), with dementia follow-up through 2023. Ten modifiable risk factors: obesity, hypertension, diabetes, hearing loss, visual loss, physical inactivity, excessive alcohol consumption, smoking, loneliness, and depression, were used to derive clusters using latent class analysis. Cox proportional hazards models examined the association between late-life clusters and incident dementia.                                                           Results                     In mid-life (mean age, 55.7 ± 6.2 years), four risk factor clusters were identified: cardiometabolic, substance use, psychosocial, and lower risk. In late-life (mean age, 73.9 ± 6.4 years), four clusters were identified: cardiometabolic, substance use, psychosocial and physically inactive, and lower risk. After adjustment for sociodemographic factors, the psychosocial and physically inactive cluster was associated with the highest hazard of dementia (hazard ratio (HR), 1.23; 95% CI, 1.16–1.32), followed by the substance use (HR, 1.16; 95% CI, 1.09–1.24) and the cardiometabolic cluster (HR, 1.12; 95% CI, 1.07–1.18).                                                           Conclusions                     Distinct risk factor clusters were identified at both mid-life and late-life; the psychosocial and physically inactive cluster carried the highest risk of dementia. These findings underscore the importance of considering risk factor clustering when designing targeted interventions to reduce dementia risk across the life course.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-10-22",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261497622",
+        "doi": "10.1177/13872877261497622",
+        "url": "https://doi.org/10.1177/13872877261497622",
+        "title": "Time restricted eating through self-regulatory behaviors for metabolic and cognitive health in mild cognitive impairment: Feasibility and acceptability findings from the TEMPO trial",
+        "authors": [
+          "Patrick J. Smith",
+          "Krista K. Ingle",
+          "Zev Nakamura",
+          "Timothy Strauman",
+          "Thomas Keyserling",
+          "Daniel Parker",
+          "Caroline Nelson",
+          "Deborah M. Muoio",
+          "Kim M. Huffman"
+        ],
+        "abstract": "Background                     Mild cognitive impairment (MCI) and Alzheimer's disease and related dementias (ADRD) occur at 1.5–2-fold higher rates among adults with obesity or metabolic syndrome. Time restricted eating (TRE) represents a portable and potentially effective strategy to enhance metabolic function and reduce ADRD risk.                                                           Objective                     To assess the feasibility and acceptability of TRE among older adults with MCI and metabolic risk.                                                           Methods                     We assessed a 16–18-h TRE protocol, implemented 2–3 days per week, among older adults (65–85 years of age) with MCI (proposed n = 40) and metabolic risk over 12-weeks. Feasibility was assessed by recruitment and completion of trial activities, while Acceptability was assessed using psychometric self-report. Cognitive function was assessed using a standard neuropsychological test battery, including tests of Executive Function/Processing Speed (Trail Making, Stroop, Controlled Oral Word Association Test, Animal Naming, Digit Span, and Digit Symbol Substitution Tests), Learning/Memory (Hopkins Verbal Learning Test–Revised and Benton Visual Memory Test–Revised. We also examined treatment- and state-dependent changes in metabolic and inflammatory biomarkers, including multiple ketone metabolites and pro-inflammatory cytokines, among others.                                                           Results                     From 9/28/23 until 3/25/25, thirty-three individuals (83% of target goal [n = 40]) were recruited. Enrolled participants completed all treatment sessions and assessments (100%) and self-reported Acceptability was high. Modification of study recruitment practices and inclusion criteria allowed for an increased screening-to-recruitment ratios over the course of the trial, rising from 1.3% to 11.1%, while still resulting in appropriate recruitment of individuals with MCI.                                                           Conclusions                     TRE is a feasible and acceptable intervention among older adults with metabolic risk factors.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-10-22",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261496277",
+        "doi": "10.1177/13872877261496277",
+        "url": "https://doi.org/10.1177/13872877261496277",
+        "title": "Targeting the gut–brain axis with\n                    <i>Bifidobacterium breve</i>\n                    in neurodegeneration: A comprehensive narrative review of current evidence in Alzheimer's disease and cognitive aging",
+        "authors": [
+          "Olia Hamzeh",
+          "Mehrdad Halaji",
+          "Ali Rostami",
+          "Ghulam Md Ashraf"
+        ],
+        "abstract": "Alzheimer's disease (AD) is a multifactorial neurodegenerative disorder arising from the interplay of amyloid, tau, neuroimmune, oxidative stress, metabolic, vascular, and synaptic processes, ultimately resulting in neurodegeneration across multiple brain regions and progressive memory and cognitive impairment. Gut dysfunction may contribute to the initiation and progression of AD-related processes through the gut–brain axis, whereby alterations in the gut microbiota can influence brain function through chemical, neuronal, immune, and metabolic pathways. Growing interest in the microbiota–gut–brain axis has consequently prompted investigation of strain-specific probiotics as potential adjunctive approaches to restoring gut microbial homeostasis. This comprehensive narrative review critically integrates preclinical and human evidence on                     Bifidobacterium breve                     in AD-related pathology and age-associated cognitive impairment. Targeted searches of PubMed/MEDLINE, Scopus, Web of Science, and Google Scholar were conducted through April 2026 and supplemented by reference-list searching. The evidence base comprised 13 preclinical publications and five human publications representing four independent clinical cohorts. Preclinical studies, predominantly conducted in rodent models, reported strain-dependent effects on cognition, amyloid- and tau-related measures, synaptic proteins, neuroinflammation, oxidative stress, microbial composition, and metabolite profiles. Human evidence was limited to                     B. breve                     MCC1274 (A1) and primarily involved Japanese adults with memory complaints or suspected mild cognitive impairment. Overall, current evidence supports a mechanistic rationale for the potential role of                     B. breve                     as a gut–brain modulator; however, the heterogeneity of preclinical findings and the small, geographically concentrated clinical evidence base highlight the need for further well-designed studies to more clearly define clinical efficacy and long-term safety.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-10-22",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261500025",
+        "doi": "10.1177/13872877261500025",
+        "url": "https://doi.org/10.1177/13872877261500025",
+        "title": "Pathogenesis and therapeutic targets of neuroinflammation in Alzheimer's disease mediated by microglia lysosomal dysfunction",
+        "authors": [
+          "Mingsheng Zi",
+          "Qiuyan Ye",
+          "Mingyuan Yao",
+          "Jiaping Feng",
+          "Sitong Meng",
+          "Xinkai Wu",
+          "Heqian Jiang",
+          "Fengge Yang",
+          "Ying Huang",
+          "Xilu Hu",
+          "Chenhui Ma",
+          "Jinming Zheng",
+          "Shuo Zeng",
+          "Honglin Li"
+        ],
+        "abstract": "Alzheimer's disease (AD) is a multifactorial neurodegenerative disorder characterized by two core pathological features: senile plaques formed by amyloid-β protein (Aβ) deposits and neurofibrillary tangles formed by hyperphosphorylated tau protein. In recent years, neuroinflammation has been recognized as a key driver in the pathogenesis of AD, and microglia, as innate immune cells of the central nervous system, play a central role in regulating the onset and progression of neuroinflammation. Lysosomes are key organelles within microglia responsible for degrading pathological proteins and regulating inflammatory signaling; dysfunction of lysosomes in microglia severely impairs their ability to clear Aβ, damaged proteins, and cellular debris, thereby promoting inflammatory responses. This manuscript summarizes upstream mechanisms that may influence microglial lysosomal dysfunction from four perspectives: pathological proteins, genetic factors, lipid metabolism disorders, and proinflammatory cytokines. Pathological proteins can impair lysosomal acidification and biogenesis by interfering with key pathways such as the TFEB-v-ATPase axis; various genetic factors exacerbate functional dysregulation by influencing the expression of lysosome-related genes and lipid metabolism; lipid metabolism disorders promote lysosomal membrane permeabilization, block the autophagy cascade and activate the inflammasome; proinflammatory cytokines can exert varying effects on the clearance of pathological substrates and by regulating lysosomal function. The aforementioned factors can influence microglial lysosomal function through various mechanisms, thereby contributing to impaired clearance of pathological substrates and the onset and progression of neuroinflammation. Intervention strategies targeting microglial lysosomal dysfunction, including enhancing lysosomal degradation capacity, regulating autophagy related pathways, correcting cellular metabolic dysregulation and suppressing excessive neuroinflammation, may offer new avenues for AD treatment.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-10-22",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-23",
         "fetched_from": "crossref"
       },
       {
@@ -69526,6 +70587,78 @@
         "fetched_from": "crossref"
       },
       {
+        "id": "doi:10.1093/geront/gnag241",
+        "doi": "10.1093/geront/gnag241",
+        "url": "https://doi.org/10.1093/geront/gnag241",
+        "title": "Determinants of Self-Care Practices Among Family Caregivers of Older Adults with Chronic Illness: A Qualitative Descriptive Study",
+        "authors": [
+          "Soojung Ahn",
+          "Kemberlee Bonnet",
+          "Ashley Sellers",
+          "Christopher S Lee",
+          "Mulubrhan F Mogos"
+        ],
+        "abstract": "Abstract                                        Background and Objectives                     Caregiver burden significantly impedes self-care, often resulting in poor health and increased vulnerability to chronic illness. Despite these risks, the underlying factors influencing caregivers’ self-care remain understudied. This qualitative descriptive study explored the context of caregiver self-care and identified perceived barriers and facilitators to practicing self-care.                                                           Research Design and Methods                     We conducted four focus groups with 14 caregivers primarily responsible for providing in-home care to older adults (≥ 65 years) with chronic illnesses. Focus groups were audio-recorded and transcribed. A hierarchical coding system was developed and refined using the focus group guide and preliminary transcript review. Coded transcripts were analyzed using an iterative inductive-deductive thematic approach based on established theories.                                                           Results                     Caregivers’ multi-dimensional definitions of self-care shaped their perceived barriers and facilitators. Three core determinants of self-care behaviors were identified: capability (caregivers’ psychological and physical health, and behavioral regulation); motivation (caregiver identity, emotions, and perceived control); and opportunity (social and environmental influences and resources). Caregivers recognized that self-care deficits negatively affect their clinical, behavioral, and psychosocial outcomes. These results informed the development of a conceptual framework for caregiver self-care.                                                           Discussion and Implications                     Findings underscore the importance of integrating caregivers’ own perceptions of self-care into support models. Interventions should transition toward personalized approaches that address both intrinsic psychological drivers and extrinsic environmental constraints. The framework derived from this study provides a theory-driven roadmap that informs future interventions, ensuring support systems align with caregivers’ unique needs and contexts to foster better self-care and ultimately enhance their health outcomes.",
+        "source": "The Gerontologist",
+        "issn": "0016-9013",
+        "date": "2026-10-20",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/geront/gnag243",
+        "doi": "10.1093/geront/gnag243",
+        "url": "https://doi.org/10.1093/geront/gnag243",
+        "title": "Multilingual Dementia Training for Paid Caregivers: A RE-AIM Mixed-Methods Evaluation",
+        "authors": [
+          "Jarmin Yeh",
+          "Brittney Pond",
+          "Matthew Beld",
+          "Suzanna M Martinez",
+          "Kattia Suarez Vargas",
+          "Melinda Neri"
+        ],
+        "abstract": "Abstract                                        Background and Objectives                     This study evaluated the IHSS+ ADRD Training Project, a multilingual intervention for caregivers serving individuals living with Alzheimer’s disease and related dementias (ADRD) through California’s In-Home Supportive Services (IHSS) program, using the RE-AIM (Reach, Effectiveness, Adoption, Implementation, Maintenance) framework.                                                           Research Design and Methods                     A quasi-experimental, mixed-methods evaluation was conducted from July 2019 to June 2024 across Alameda and Los Angeles counties. By applying the RE-AIM framework, Reach and Effectiveness dimensions were assessed through surveys completed by 488 caregivers in English (n = 297), Spanish (n = 102), and Chinese (n = 89) at pre-training, post-training, and 3-month follow-up. Caregivers were diverse among English speakers (38% Black/African American, 23% Hispanic/Latino, and 20% Asian), averaged 49.9 years old, and were predominantly women (88%). Quantitative measures assessed dementia knowledge, self-efficacy, distress, and depression. Qualitative interviews with stakeholders (n = 11) and open-ended caregiver survey responses explored Adoption, Implementation, and Maintenance dimensions                                                           Results                     RE-AIM findings demonstrated: Reach across diverse caregiver populations in multilingual formats; Effectiveness with significant improvements in dementia knowledge and self-efficacy sustained at 3-month follow-up, plus 88-99% satisfaction; Adoption facilitated by union partnership; Implementation successfully transitioned to virtual delivery during COVID-19 despite technology barriers; and Maintenance supported by increased caregiver confidence, self-care awareness, and stress management skills, though sustainability required ongoing funding.                                                           Discussion and Implications                     Language-concordant training produced meaningful, sustained improvements across a diverse paid caregiver workforce, demonstrating its value as an equity strategy in home care workforce development. While virtual delivery was feasible and cost-effective, long-term success depends on securing dedicated funding and reliable technology infrastructure.",
+        "source": "The Gerontologist",
+        "issn": "0016-9013",
+        "date": "2026-10-20",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/geront/gnag244",
+        "doi": "10.1093/geront/gnag244",
+        "url": "https://doi.org/10.1093/geront/gnag244",
+        "title": "Drafting the next chapter: A scoping review of academic retirement planning",
+        "authors": [
+          "Michelle Pannor Silver",
+          "Julia Victoria Wong",
+          "Kathryn Barrett",
+          "Yassine Belghiti"
+        ],
+        "abstract": "Abstract                                        Background and Objectives                     Interest in retirement planning among university faculty has grown in recent years as more academics approach traditional retirement age. This scoping review examines the current literature on retirement planning among higher education faculty by examining study characteristics; participant characteristics; theoretical frameworks employed; factors influencing retirement planning; and the quality of the included studies.                                                           Research Design and Methods                     A comprehensive search across Medline, Embase, APA PsycInfo, AgeLine, ERIC, Education Source, Business Source Premier, Sociological Abstracts, International Bibliography of the Social Sciences, JSTOR, and Web of Science Core Collection yielded an initial dataset of 8,906 unique articles. Following full-text assessment, 44 studies met the inclusion criteria.                                                           Results                     Five factors prevailed across this literature as key mechanisms in academic retirement planning, including: 1) financial security; 2) health factors; 3) age and/or institutional policies; 4) work, family, and lifestyle factors; and 5) professional identity. Participant characteristics such as age, gender, stage of retirement, and other characteristics of the academic environment were reported inconsistently across the literature; only 14 of the studies mentioned a theoretical framework.                                                           Discussion and Implications                     This is the first scoping review of academic retirement with a focus on planning that includes a range of methods. While health and financial security remain central to retirement planning broadly, the studies in this review suggest that professional identity plays a distinct role in shaping how academics approach retirement planning. Implications include the need for longitudinal designs to capture how faculty transitions, shifting professional identities, and planning behaviors evolve dynamically over time.",
+        "source": "The Gerontologist",
+        "issn": "0016-9013",
+        "date": "2026-10-20",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-22",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1093/aje/kwag261",
         "doi": "10.1093/aje/kwag261",
         "url": "https://doi.org/10.1093/aje/kwag261",
@@ -69614,78 +70747,6 @@
           "healthReform"
         ],
         "firstSeen": "2026-10-21",
-        "fetched_from": "crossref"
-      },
-      {
-        "id": "doi:10.1093/geront/gnag241",
-        "doi": "10.1093/geront/gnag241",
-        "url": "https://doi.org/10.1093/geront/gnag241",
-        "title": "Determinants of Self-Care Practices Among Family Caregivers of Older Adults with Chronic Illness: A Qualitative Descriptive Study",
-        "authors": [
-          "Soojung Ahn",
-          "Kemberlee Bonnet",
-          "Ashley Sellers",
-          "Christopher S Lee",
-          "Mulubrhan F Mogos"
-        ],
-        "abstract": "Abstract                                        Background and Objectives                     Caregiver burden significantly impedes self-care, often resulting in poor health and increased vulnerability to chronic illness. Despite these risks, the underlying factors influencing caregivers’ self-care remain understudied. This qualitative descriptive study explored the context of caregiver self-care and identified perceived barriers and facilitators to practicing self-care.                                                           Research Design and Methods                     We conducted four focus groups with 14 caregivers primarily responsible for providing in-home care to older adults (≥ 65 years) with chronic illnesses. Focus groups were audio-recorded and transcribed. A hierarchical coding system was developed and refined using the focus group guide and preliminary transcript review. Coded transcripts were analyzed using an iterative inductive-deductive thematic approach based on established theories.                                                           Results                     Caregivers’ multi-dimensional definitions of self-care shaped their perceived barriers and facilitators. Three core determinants of self-care behaviors were identified: capability (caregivers’ psychological and physical health, and behavioral regulation); motivation (caregiver identity, emotions, and perceived control); and opportunity (social and environmental influences and resources). Caregivers recognized that self-care deficits negatively affect their clinical, behavioral, and psychosocial outcomes. These results informed the development of a conceptual framework for caregiver self-care.                                                           Discussion and Implications                     Findings underscore the importance of integrating caregivers’ own perceptions of self-care into support models. Interventions should transition toward personalized approaches that address both intrinsic psychological drivers and extrinsic environmental constraints. The framework derived from this study provides a theory-driven roadmap that informs future interventions, ensuring support systems align with caregivers’ unique needs and contexts to foster better self-care and ultimately enhance their health outcomes.",
-        "source": "The Gerontologist",
-        "issn": "0016-9013",
-        "date": "2026-10-20",
-        "subjects": [],
-        "domains": [
-          "elderCare",
-          "agingHealth"
-        ],
-        "firstSeen": "2026-10-22",
-        "fetched_from": "crossref"
-      },
-      {
-        "id": "doi:10.1093/geront/gnag243",
-        "doi": "10.1093/geront/gnag243",
-        "url": "https://doi.org/10.1093/geront/gnag243",
-        "title": "Multilingual Dementia Training for Paid Caregivers: A RE-AIM Mixed-Methods Evaluation",
-        "authors": [
-          "Jarmin Yeh",
-          "Brittney Pond",
-          "Matthew Beld",
-          "Suzanna M Martinez",
-          "Kattia Suarez Vargas",
-          "Melinda Neri"
-        ],
-        "abstract": "Abstract                                        Background and Objectives                     This study evaluated the IHSS+ ADRD Training Project, a multilingual intervention for caregivers serving individuals living with Alzheimer’s disease and related dementias (ADRD) through California’s In-Home Supportive Services (IHSS) program, using the RE-AIM (Reach, Effectiveness, Adoption, Implementation, Maintenance) framework.                                                           Research Design and Methods                     A quasi-experimental, mixed-methods evaluation was conducted from July 2019 to June 2024 across Alameda and Los Angeles counties. By applying the RE-AIM framework, Reach and Effectiveness dimensions were assessed through surveys completed by 488 caregivers in English (n = 297), Spanish (n = 102), and Chinese (n = 89) at pre-training, post-training, and 3-month follow-up. Caregivers were diverse among English speakers (38% Black/African American, 23% Hispanic/Latino, and 20% Asian), averaged 49.9 years old, and were predominantly women (88%). Quantitative measures assessed dementia knowledge, self-efficacy, distress, and depression. Qualitative interviews with stakeholders (n = 11) and open-ended caregiver survey responses explored Adoption, Implementation, and Maintenance dimensions                                                           Results                     RE-AIM findings demonstrated: Reach across diverse caregiver populations in multilingual formats; Effectiveness with significant improvements in dementia knowledge and self-efficacy sustained at 3-month follow-up, plus 88-99% satisfaction; Adoption facilitated by union partnership; Implementation successfully transitioned to virtual delivery during COVID-19 despite technology barriers; and Maintenance supported by increased caregiver confidence, self-care awareness, and stress management skills, though sustainability required ongoing funding.                                                           Discussion and Implications                     Language-concordant training produced meaningful, sustained improvements across a diverse paid caregiver workforce, demonstrating its value as an equity strategy in home care workforce development. While virtual delivery was feasible and cost-effective, long-term success depends on securing dedicated funding and reliable technology infrastructure.",
-        "source": "The Gerontologist",
-        "issn": "0016-9013",
-        "date": "2026-10-20",
-        "subjects": [],
-        "domains": [
-          "elderCare",
-          "agingHealth"
-        ],
-        "firstSeen": "2026-10-22",
-        "fetched_from": "crossref"
-      },
-      {
-        "id": "doi:10.1093/geront/gnag244",
-        "doi": "10.1093/geront/gnag244",
-        "url": "https://doi.org/10.1093/geront/gnag244",
-        "title": "Drafting the next chapter: A scoping review of academic retirement planning",
-        "authors": [
-          "Michelle Pannor Silver",
-          "Julia Victoria Wong",
-          "Kathryn Barrett",
-          "Yassine Belghiti"
-        ],
-        "abstract": "Abstract                                        Background and Objectives                     Interest in retirement planning among university faculty has grown in recent years as more academics approach traditional retirement age. This scoping review examines the current literature on retirement planning among higher education faculty by examining study characteristics; participant characteristics; theoretical frameworks employed; factors influencing retirement planning; and the quality of the included studies.                                                           Research Design and Methods                     A comprehensive search across Medline, Embase, APA PsycInfo, AgeLine, ERIC, Education Source, Business Source Premier, Sociological Abstracts, International Bibliography of the Social Sciences, JSTOR, and Web of Science Core Collection yielded an initial dataset of 8,906 unique articles. Following full-text assessment, 44 studies met the inclusion criteria.                                                           Results                     Five factors prevailed across this literature as key mechanisms in academic retirement planning, including: 1) financial security; 2) health factors; 3) age and/or institutional policies; 4) work, family, and lifestyle factors; and 5) professional identity. Participant characteristics such as age, gender, stage of retirement, and other characteristics of the academic environment were reported inconsistently across the literature; only 14 of the studies mentioned a theoretical framework.                                                           Discussion and Implications                     This is the first scoping review of academic retirement with a focus on planning that includes a range of methods. While health and financial security remain central to retirement planning broadly, the studies in this review suggest that professional identity plays a distinct role in shaping how academics approach retirement planning. Implications include the need for longitudinal designs to capture how faculty transitions, shifting professional identities, and planning behaviors evolve dynamically over time.",
-        "source": "The Gerontologist",
-        "issn": "0016-9013",
-        "date": "2026-10-20",
-        "subjects": [],
-        "domains": [
-          "elderCare",
-          "agingHealth"
-        ],
-        "firstSeen": "2026-10-22",
         "fetched_from": "crossref"
       },
       {
@@ -92895,6 +93956,25 @@
     ],
     "socialWork": [
       {
+        "id": "doi:10.1093/bjsw/bcag268",
+        "doi": "10.1093/bjsw/bcag268",
+        "url": "https://doi.org/10.1093/bjsw/bcag268",
+        "title": "The evaporation of context: Epistemic agency and the problematic of ‘understanding’ in social work scholarship in the age of generative AI",
+        "authors": [
+          "Özge Özgür"
+        ],
+        "abstract": "Abstract                   The growing use of generative artificial intelligence (AI) in academic writing raises questions about authorship, reflexivity, and epistemic responsibility in social work scholarship. This study examines whether generative AI can reproduce not only the structural features of scholarly discourse but also the reflexive and contextually embedded knowledge practices central to critical social work. A qualitative comparative case design was employed, comparing a human-authored article on multicultural social work (2010, Turkish context) with an AI-generated text produced under controlled conditions using identical references and thematic structure. Analysis focused on three dimensions: theoretical integration, reflexivity and epistemic positioning, and contextual embeddedness. While the AI-generated text demonstrated strong structural coherence and citation alignment, differences emerged in dialectical engagement, explicit normative positioning, and national contextual grounding. The findings suggest that generative AI can simulate disciplinary discourse but does not inherently enact accountable epistemic agency, underscoring the continuing importance of reflexive human authorship.",
+        "source": "The British Journal of Social Work",
+        "issn": "0045-3102",
+        "date": "2026-10-22",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-23",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1093/bjsw/bcag257",
         "doi": "10.1093/bjsw/bcag257",
         "url": "https://doi.org/10.1093/bjsw/bcag257",
@@ -100447,10 +101527,10 @@
   },
   "totals": {
     "socialSecurity": 1575,
-    "elderCare": 666,
-    "healthReform": 1025,
-    "agingHealth": 959,
-    "socialWork": 335
+    "elderCare": 672,
+    "healthReform": 1043,
+    "agingHealth": 975,
+    "socialWork": 336
   },
   "feeds_ok": 41
 }
