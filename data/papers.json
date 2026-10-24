@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-23",
-  "fetched": "2026-10-23T06:11:13+00:00",
+  "date": "2026-10-24",
+  "fetched": "2026-10-24T06:06:26+00:00",
   "domains": {
     "socialSecurity": [
       {
@@ -24329,6 +24329,30 @@
     ],
     "elderCare": [
       {
+        "id": "doi:10.1186/s12877-026-08528-x",
+        "doi": "10.1186/s12877-026-08528-x",
+        "url": "https://doi.org/10.1186/s12877-026-08528-x",
+        "title": "Developing a self-management support intervention for older adults living with osteoarthritis and multiple long-term conditions",
+        "authors": [
+          "Kate Button",
+          "Paula Otter",
+          "Rachel Deere",
+          "Fiona Jones",
+          "Monica Busse"
+        ],
+        "abstract": "Abstract                                        Background                     Osteoarthritis (OA) affects over half of people over the age of 65, and many live with other multiple long-term conditions (MLTC). Existing self-management interventions for OA do not adequately address the complexities of MLTC and there is a lack of holistic and coordinated provision across health services.                                                           Objective                     To develop a personalised self-management support intervention for adults aged 65 + with knee and/ or hip OA living with MLTC, receiving care in the NHS.                                                           Methods                     We used a six-step intervention mapping approach supplemented by co-design activities. Thirty adults (28 living with OA and MLTCs and two carers) participated in consultations and workshops, contributing their lived experiences and preferences to shape the intervention’s development and implementation.                                                           Results                     The emerging intervention was informed by nine core principles to address the physical, emotional, and psychological symptoms associated with the interplay between OA and MLTC. The intervention aimed to enhance individuals’ knowledge, confidence, and self-management capabilities to interact with health and care professionals and support informed decision making about their health and care. The intervention comprised (1) personalised coaching delivered by trained healthcare professionals to reflect self-management support in the context of living with OA and MLTCs supported by (2) a co-designed ‘Living well with Joint Pain’ handbook. A fidelity checklist was developed to evaluate whether the intervention underpinned by the nine core principles was delivered as intended in subsequent effectiveness evaluations.                                                           Conclusion                     The clinical and cost effectiveness of the intervention will now be evaluated in a randomised controlled trial comparing it to treatment as usual across the UK.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-24",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-24",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1186/s12877-026-08534-z",
         "doi": "10.1186/s12877-026-08534-z",
         "url": "https://doi.org/10.1186/s12877-026-08534-z",
@@ -24378,6 +24402,125 @@
           "agingHealth"
         ],
         "firstSeen": "2026-10-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/geront/gnag248",
+        "doi": "10.1093/geront/gnag248",
+        "url": "https://doi.org/10.1093/geront/gnag248",
+        "title": "What do young adults think about informal care for older adults?: Testing and validation of a public caregiver stigma scale in Canada",
+        "authors": [
+          "Larissa Zwar",
+          "Sanjna Ratti"
+        ],
+        "abstract": "Abstract                                        Background and Objectives                     Young adults are the caregivers of tomorrow. However, it remains unclear what stereotypes about informal caregiving for older adults they have learned. This study aimed to test and validate a first of its kind scale to measure public caregiver stigma as perceived among young adults without prior care experiences.                                                           Research Design and Methods                     Participants aged 18 to 35 years, collected from the community (sample 1) and university students (sample 2) in Canada answered a self-reported online survey on public caregiver stigma (Public Caregiver Stigma Scale, Warmth-Competence-Scale) and their sociodemographic background. Exploratory (EFA) and Confirmatory Factor analyses (CFA) were conducted, and the resulting scale was tested for content and concurrent validity and reliability.                                                           Results                     : The EFA performed on sample 1 resulted in a two-factor model with correlated factors that was confirmed by a CFA in sample 2, demonstrating excellent model fit. Content and concurrent validity were supported by the study’s findings and internal consistency of the two scales varied between acceptable and good. Young adults showed moderately high positive and negative public caregiver stigma, which were associated with their sociodemographic characteristics.                                                           Discussion and implications                     The study confirmed a new quantitative measure of public caregiver stigma targeting unpaid caregiving for older adults, reflecting negative (e.g., isolation, invisibility) and positive (e.g., admiration) stereotypes, emotional, and behavioral reactions. In addition to new insights into younger adults’ perspectives of care, it provides a promising new instrument to investigate society’s expectations of informal caregiving for the aging population.",
+        "source": "The Gerontologist",
+        "issn": "0016-9013",
+        "date": "2026-10-23",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-24",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70800",
+        "doi": "10.1111/jgs.70800",
+        "url": "https://doi.org/10.1111/jgs.70800",
+        "title": "In Defense of the “Good Death” as a Research Framework: The Case for Listening More Widely",
+        "authors": [
+          "Leonardo Martins",
+          "Rasa Mikelyte",
+          "Fernanda Bono Fukushima",
+          "Ricardo Silva Carvalho",
+          "Henrique Ballalai Ferraz",
+          "Déborah Oliveira",
+          "Julia Maria Vanelli",
+          "Natália Rocha Tardelli",
+          "Edison Iglesias de Oliveira Vidal"
+        ],
+        "abstract": "",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-10-23",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-24",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08542-z",
+        "doi": "10.1186/s12877-026-08542-z",
+        "url": "https://doi.org/10.1186/s12877-026-08542-z",
+        "title": "When disability begins: psychological functioning profiles and their association with current psychological adaptation among older adults with new-onset disability",
+        "authors": [
+          "Chang Liu",
+          "Minxue Liu",
+          "Jinxin Zhong",
+          "Jun Yao"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-23",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-24",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08554-9",
+        "doi": "10.1186/s12877-026-08554-9",
+        "url": "https://doi.org/10.1186/s12877-026-08554-9",
+        "title": "Stressful life events and hip fracture risk in older Chinese adults: a prospective cohort study",
+        "authors": [
+          "Chao Mei",
+          "Zhanfeng Zhang",
+          "Zengbing Xia",
+          "Weiqiang Wu",
+          "Haibo Xie",
+          "Haijie Ke",
+          "Jianxiang Zhu"
+        ],
+        "abstract": "Abstract                                        Background                     Stressful life events (SLEs) are established precursors to adverse geriatric outcomes; however, their association with hip fracture risk and underlying mechanisms remain unclear. This study evaluated the association between SLEs and incident hip fracture among Chinese older adults, specifically examining depressive symptoms as a potential intermediary pathway.                                                           Methods                     In this prospective cohort study, we utilized data from 3,706 participants (aged ≥ 65 years) from the China Health and Retirement Longitudinal Study (CHARLS, 2011–2020). SLEs were quantified across five key adulthood domains. Incident hip fractures were ascertained through standardized self-reports. Time-to-event outcomes were analyzed using multivariable Cox regression and exploratory mediation analysis for depressive symptoms.                                                           Results                     Over a 9-year follow-up, 218 (5.9%) participants sustained a hip fracture. Cumulative SLEs exhibited a dose-dependent association with fracture risk (HR = 1.32; 95% CI: 1.13–1.54 per additional event). Compared with no SLEs, adjusted HRs were 1.57 (95% CI: 1.07–2.31) for one event and 2.14 (95% CI: 1.43–3.20) for ≥ 2 events. In an exploratory mediation analysis, depressive symptoms accounted for 11.4% of the association.                                                           Conclusions                     Cumulative SLEs are associated with hip fracture risk in a dose-dependent manner among older Chinese adults, with depressive symptoms potentially serving as an intermediary pathway. These findings support the consideration of integrating psychosocial assessments into fracture prevention strategies.                                                           Clinical trial number                     Not applicable.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-23",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-24",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08399-2",
+        "doi": "10.1186/s12877-026-08399-2",
+        "url": "https://doi.org/10.1186/s12877-026-08399-2",
+        "title": "The effect of a medication review on the quality of life of community dwelling frail adults with polypharmacy: a scoping review",
+        "authors": [
+          "Dimitrios Paraschos",
+          "Lesley Dibley"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-23",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-24",
         "fetched_from": "crossref"
       },
       {
@@ -41309,6 +41452,595 @@
           "healthReform"
         ],
         "firstSeen": "2026-09-26",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.21372",
+        "doi": "10.1001/jama.2026.21372",
+        "url": "https://doi.org/10.1001/jama.2026.21372",
+        "title": "Trastuzumab Rezetecan in ERBB2-Low Advanced Breast Cancer",
+        "authors": [
+          "Ying Fan",
+          "Yunjiang Liu",
+          "Yongsheng Wang",
+          "Quchang Ouyang",
+          "Qingyuan Zhang",
+          "Jiuwei Cui",
+          "Jingruo Li",
+          "Qiang Ding",
+          "Xinhong Wu",
+          "Xiaojia Wang",
+          "Zhongsheng Tong",
+          "Yinduo Zeng",
+          "Wenhui Wang",
+          "Min Yan",
+          "Yili Wang",
+          "Xiaoyu Liu",
+          "Kai Li",
+          "Zhengkui Sun",
+          "Chunxiu Yuan",
+          "Ting Wang",
+          "Weimin Xie",
+          "Jing Yao",
+          "Shoubing Zhou",
+          "Jialin Hou",
+          "Zhong Ouyang",
+          "Yijing Li",
+          "Sisi Cui",
+          "Xia Zhang",
+          "Xiaoyu Zhu",
+          "Binghe Xu"
+        ],
+        "abstract": "Importance                     Trastuzumab rezetecan (SHR-A1811) has demonstrated encouraging antitumor activity in a global phase 1 trial involving heavily pretreated patients with erythroblastic oncogene B (ERBB2)–low metastatic breast cancer.                                                           Objective                     To compare trastuzumab rezetecan vs physician’s choice of chemotherapy in patients with ERBB2-low metastatic breast cancer.                                                           Design, Setting, and Participants                     This open-label, randomized, multicenter phase 3 trial was conducted at 73 hospitals across China. Eligible patients were females aged 18 to 75 years with centrally confirmed ERBB2-low (immunohistochemistry [IHC] 1+ or IHC 2+/in-situ hybridization [ISH]–negative) unresectable locally recurrent or metastatic breast cancer who had received 1 or fewer prior lines of chemotherapy for metastatic disease, with prior endocrine therapy required for hormone receptor–positive disease. Enrollment began on June 30, 2023, and ended on August 20, 2025. The last day of follow-up for the final analysis for progression-free survival in the current study was March 20, 2026.                                                           Interventions                     Patients were randomly assigned (1:1) to receive trastuzumab rezetecan (6.4 mg/kg intravenously every 3 weeks; n = 277) or physician’s choice of chemotherapy (n = 274).                                                           Main Outcomes and Measures                     The primary end point was progression-free survival assessed by blinded independent central review in chemotherapy-naive patients and the overall population.                                                           Results                                            Between June 30, 2023, and August 20, 2025, a total of 551 patients were randomized, with a mean (SD) age of 54.9 (9.9) years. At the data cutoff (March 20, 2026), trastuzumab rezetecan significantly prolonged progression-free survival compared with chemotherapy in the chemotherapy-naive patients (median, 16.6 [95% CI, 14.0-19.4] months vs 6.8 [95% CI, 5.7-7.0] months; hazard ratio, 0.25 [95% CI, 0.19-0.33];                       P                        &amp;amp;lt; .001) and the overall population (median, 16.4 [95% CI, 14.0-16.8] months vs 6.8 [95% CI, 5.7-6.9] months; hazard ratio, 0.27 [95% CI, 0.21-0.34];                       P                        &amp;amp;lt; .001). The benefit was consistent in hormone receptor–negative disease (median progression-free survival: 16.5 vs 6.8 months; hazard ratio, 0.34, [95% CI, 0.22-0.54]) and hormone receptor–positive disease (median progression-free survival: 16.4 vs 6.7 months; hazard ratio, 0.24 [95% CI, 0.18-0.33]). Grade 3 or greater treatment-related adverse events occurred in 84.1% of patients (232/276) with trastuzumab rezetecan and 67.9% (184/271) with chemotherapy, most commonly decreased neutrophil count (180 [65.2%] vs 147 [54.2%]).                                                                                Conclusions and Relevance                     Trastuzumab rezetecan provided significant progression-free survival benefit over physician’s choice of chemotherapy in patients with ERBB2-low advanced breast cancer, with benefit observed across all key subgroups. It exhibited the potential as a new treatment option with a distinct safety profile in this setting.                                                           Trial Registration                                            ClinicalTrials.gov Identifier:                       NCT05814354",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-23",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-24",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.21700",
+        "doi": "10.1001/jama.2026.21700",
+        "url": "https://doi.org/10.1001/jama.2026.21700",
+        "title": "Trastuzumab Rezetecan in ERBB2-Low Advanced Breast Cancer",
+        "authors": [],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-23",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-24",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.22295",
+        "doi": "10.1001/jama.2026.22295",
+        "url": "https://doi.org/10.1001/jama.2026.22295",
+        "title": "Trastuzumab Rezetecan in EBBR2-Low Metastatic Breast Cancer",
+        "authors": [
+          "Maria Fernanda Mosele",
+          "Fabrice André"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-23",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-24",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.20028",
+        "doi": "10.1001/jama.2026.20028",
+        "url": "https://doi.org/10.1001/jama.2026.20028",
+        "title": "New Guidelines Issued for Diagnosing Iron Deficiency",
+        "authors": [
+          "Sari Richmond"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-23",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-24",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.18418",
+        "doi": "10.1001/jama.2026.18418",
+        "url": "https://doi.org/10.1001/jama.2026.18418",
+        "title": "Steatotic Liver Disease Is Becoming a Higher Priority Worldwide",
+        "authors": [
+          "Rita Rubin"
+        ],
+        "abstract": "This Medical News article discusses international efforts to determine the prevalence and increase awareness and detection of steatotic liver disease, which affects an estimated 1.7 billion people worldwide, including most individuals with obesity or type 2 diabetes.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-23",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-24",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.20031",
+        "doi": "10.1001/jama.2026.20031",
+        "url": "https://doi.org/10.1001/jama.2026.20031",
+        "title": "ACC Releases Guidance for Managing Resistant Hypertension",
+        "authors": [
+          "Samantha Anderer"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-23",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-24",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.20029",
+        "doi": "10.1001/jama.2026.20029",
+        "url": "https://doi.org/10.1001/jama.2026.20029",
+        "title": "WHO Reports Highest Number of Cholera Deaths in Decades",
+        "authors": [
+          "Sari Richmond"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-23",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-24",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.18998",
+        "doi": "10.1001/jama.2026.18998",
+        "url": "https://doi.org/10.1001/jama.2026.18998",
+        "title": "Testosterone Use Rises Among Women, but Does the Evidence Support It?",
+        "authors": [
+          "Kate Schweitzer"
+        ],
+        "abstract": "This Medical News article discusses growing use of testosterone therapy among women, and a US Food and Drug Administration public workshop that explored the current evidence on its use beyond sexual function.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-23",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-24",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.20033",
+        "doi": "10.1001/jama.2026.20033",
+        "url": "https://doi.org/10.1001/jama.2026.20033",
+        "title": "WHO Publishes First Guidelines for Managing Obesity in Children",
+        "authors": [
+          "Samantha Anderer"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-23",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-24",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.20030",
+        "doi": "10.1001/jama.2026.20030",
+        "url": "https://doi.org/10.1001/jama.2026.20030",
+        "title": "Global Heart Failure Burden Increased Between 1990 and 2023",
+        "authors": [
+          "Sari Richmond"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-23",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-24",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.20032",
+        "doi": "10.1001/jama.2026.20032",
+        "url": "https://doi.org/10.1001/jama.2026.20032",
+        "title": "AAP Advises Against Raw Milk and Other Unpasteurized Dairy",
+        "authors": [
+          "Samantha Anderer"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-23",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-24",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2025.16105",
+        "doi": "10.1001/jama.2025.16105",
+        "url": "https://doi.org/10.1001/jama.2025.16105",
+        "title": "JAMA Editors' Summary Podcast",
+        "authors": [],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-23",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-24",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmoa2608682",
+        "doi": "10.1056/nejmoa2608682",
+        "url": "https://doi.org/10.1056/nejmoa2608682",
+        "title": "Interim Analysis of a Phase 3 Trial of Povetacicept in IgA Nephropathy",
+        "authors": [
+          "Jonathan Barratt",
+          "Hong Zhang",
+          "Seung Hyeok Han",
+          "Yuzuke Suzuki",
+          "James Tumlin",
+          "Bobby Chacko",
+          "Irene L. Noronha",
+          "Arvind Madan",
+          "Raphaël Duivenvoorden",
+          "Jamil R. Azzi",
+          "Carla Nester",
+          "Cassie Dong",
+          "Neil Ahluwalia",
+          "Jiahua Li",
+          "Carmen Bozic",
+          "Ogo Egbuna",
+          "Muh Geot Wong",
+          "Richard Lafayette"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-10-23",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-24",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmoa2607544",
+        "doi": "10.1056/nejmoa2607544",
+        "url": "https://doi.org/10.1056/nejmoa2607544",
+        "title": "Ravulizumab in IgA Nephropathy — Interim Analysis of a Phase 3 Trial",
+        "authors": [
+          "Jonathan Barratt",
+          "Youssef M.K. Farag",
+          "Kara Rice",
+          "Tobin J. Cammett",
+          "Lesley A. Inker",
+          "Hernán Trimarchi",
+          "Annette Bruchfeld",
+          "Hiddo J.L. Heerspink",
+          "Adrian Liew",
+          "Kevin Carroll",
+          "Hong Zhang",
+          "Sayna Norouzi",
+          "Shuang Hou",
+          "Sehoon Park",
+          "Miguel Ángel Pérez Valdivia",
+          "Jai Radhakrishnan",
+          "Yusuke Suzuki",
+          "Bonnie Schneider",
+          "John Marsala",
+          "Cynthia Carrillo-Infante",
+          "Stephen L. Lake",
+          "Ajay K. Singh",
+          "Stephen Nolan",
+          "Richard A. Lafayette"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-10-23",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-24",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmoa2609149",
+        "doi": "10.1056/nejmoa2609149",
+        "url": "https://doi.org/10.1056/nejmoa2609149",
+        "title": "Trial of Endovascular Therapy for Mild Stroke with Large-Vessel Occlusion",
+        "authors": [
+          "Jianmin Liu",
+          "Tingyu Yi",
+          "Pengfei Xing",
+          "Meihua Wu",
+          "Liyong Zhang",
+          "Tuanyuan Zheng",
+          "Mingzhu Huang",
+          "Yanmin Wu",
+          "Hao Wang",
+          "Guoyong Zeng",
+          "Jinglun Li",
+          "Ya Peng",
+          "Yueqi Zhu",
+          "Yibin Fang",
+          "Xueli Cai",
+          "Jun Luo",
+          "Yuanbiao Lei",
+          "Hao Qin",
+          "Pu Fang",
+          "Yamei Tang",
+          "Guangxiong Yuan",
+          "En Wang",
+          "Xiongjun He",
+          "Xiongwei Lu",
+          "Zhentao Li",
+          "Bo Lei",
+          "Hua Cao",
+          "Xinguang Yang",
+          "Chenghua Xu",
+          "Meixia Shang",
+          "Craig S. Anderson",
+          "Zeguang Ren",
+          "Pengfei Yang",
+          "Wenhuo Chen"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-10-23",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-24",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejme2612692",
+        "doi": "10.1056/nejme2612692",
+        "url": "https://doi.org/10.1056/nejme2612692",
+        "title": "Expanding the Evidence and Indications for Thrombectomy in Ischemic Stroke",
+        "authors": [
+          "Gaultier Marnat"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-10-23",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-24",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmoa2609362",
+        "doi": "10.1056/nejmoa2609362",
+        "url": "https://doi.org/10.1056/nejmoa2609362",
+        "title": "Mechanical Thrombectomy 24 to 72 Hours after Large-Vessel Ischemic Stroke",
+        "authors": [
+          "Pengfei Yang",
+          "Hongjian Shen",
+          "Tingyu Yi",
+          "Pengfei Xing",
+          "Junfeng Su",
+          "Changming Wen",
+          "Weiyi Zhong",
+          "Qiang Li",
+          "Yunting He",
+          "Xiaoying Chen",
+          "Song He",
+          "Xinwen Ren",
+          "Shoujiang You",
+          "Yang Zhao",
+          "Borui Wang",
+          "Yongxin Zhang",
+          "Lei Chen",
+          "Xuan Zhu",
+          "Minmin Zhang",
+          "Ying Yu",
+          "Yi Jiang",
+          "Yina Wu",
+          "Chuanchuan Wang",
+          "Xiaoxi Zhang",
+          "Wenjin Yang",
+          "Fang Shen",
+          "Lijun Wang",
+          "Meihua Huyan",
+          "Bing Tian",
+          "Wenhuo Chen",
+          "Guangxian Nan",
+          "Liyong Zhang",
+          "Huaizhang Shi",
+          "Jianfeng Han",
+          "Tong Li",
+          "Fan Zhang",
+          "Ming Wei",
+          "Chenghua Xu",
+          "Ya Peng",
+          "Jun Sun",
+          "Shouchun Wang",
+          "Hongxing Han",
+          "Hao Wang",
+          "Wenqiang Cai",
+          "Meng Zhang",
+          "Congguo Yin",
+          "Guangsen Cheng",
+          "Rong Yin",
+          "Quanbin Zhang",
+          "Guodong Xiao",
+          "Yunfeng Zhang",
+          "Sheng Liu",
+          "Hui Li",
+          "Lei Zhang",
+          "Zifu Li",
+          "Yu Zhou",
+          "Rui Zhao",
+          "Qiang Li",
+          "Charles B.L.M. Majoie",
+          "Lili Song",
+          "Yongwei Zhang",
+          "Craig S. Anderson",
+          "Jianmin Liu"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-10-23",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-24",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1007/s40273-026-01676-3",
+        "doi": "10.1007/s40273-026-01676-3",
+        "url": "https://doi.org/10.1007/s40273-026-01676-3",
+        "title": "Beyond Traditional Cost-Effectiveness Analysis: Operationalizing the Equivalent Income Approach for Equity-Sensitive Health Technology Assessment",
+        "authors": [
+          "Pauline Chauvin",
+          "Clémence Thébaut"
+        ],
+        "abstract": "",
+        "source": "PharmacoEconomics",
+        "issn": "1170-7690",
+        "date": "2026-10-23",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-24",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1097/ede.0000000000002058",
+        "doi": "10.1097/ede.0000000000002058",
+        "url": "https://doi.org/10.1097/ede.0000000000002058",
+        "title": "Use of routinely collected administrative data to define pediatric critical care admission in British Columbia, Canada: a validation study",
+        "authors": [
+          "Jeffrey N. Bone",
+          "Ye Shen",
+          "Srinivas Murthy",
+          "Fiona Muttalib"
+        ],
+        "abstract": "Introduction:                     Administrative health data are essential for quantifying incidence and long-term outcomes associated with pediatric critical illness but rely on reliable capture and coding of hospitalizations with pediatric intensive care unit (PICU) admission. The accuracy of administrative data capture of pediatric critical care admission in Canada is unknown.                                                           Methods:                     We assessed the performance of the Discharge Abstract Database (DAD), which captures all hospitalizations in British Columbia, Canada for identifying pediatric critical care admission by comparing records to the Virtual Pediatric Systems (VPS, LLC, Los Angeles, CA), a prospectively collected database of PICU admissions at British Columbia Children’s Hospital, British Columbia’s only dedicated pediatric quaternary care hospital. We identified all hospitalizations for children younger than 18 years at British Columbia Children’s Hospital between 2014 and 2023 and used presence of PICU days in the DAD to identify possible PICU admissions. We then matched the DAD records to the VPS records via exact admission date to determine the performance of this case definition (presence of PICU days) both overall, and across subgroups. We evaluated the accuracy of PICU admission characteristics and outcomes reporting in the DAD using VPS as the reference standard.                                                           Results:                     A total of 63,256 admissions were included, of which 8891 had an indicator for PICU admission in the DAD. Of these, 8729 had a positive validation record for PICU admission in the VPS database at British Columbia Children’s Hospital. There were 123 admissions to the PICU in the VPS database that were not captured in the DAD. The case definition had excellent sensitivity (96.3%; 95% CI = 95.9, 96.7) and specificity (99.7%; 95% CI = 99.7, 99.7). Results were consistent across subgroups. DAD definitions of admission type, PICU length of stay, inter-hospital transfer status, receipt of invasive mechanical ventilation, and mortality all showed sensitivity and specificity ≥ 85%.                                                           Conclusion:                     Using a large validation sample of PICU admissions from a quaternary care centre, we found that routinely collected administrative data on hospitalizations in Canada had high accuracy for classifying and characterizing PICU admissions.",
+        "source": "Epidemiology",
+        "issn": "1044-3983",
+        "date": "2026-10-23",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-24",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag274",
+        "doi": "10.1093/aje/kwag274",
+        "url": "https://doi.org/10.1093/aje/kwag274",
+        "title": "The French Paradox 2, a remake for Norway ?",
+        "authors": [
+          "Alain Braillon"
+        ],
+        "abstract": "",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-10-23",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-24",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag276",
+        "doi": "10.1093/aje/kwag276",
+        "url": "https://doi.org/10.1093/aje/kwag276",
+        "title": "Is segregation bad for your heart?: a natural experiment for residential racial segregation exposure during childhood and cardiovascular disease risk",
+        "authors": [
+          "Gabriel L Schwartz",
+          "Mark A Hernandez"
+        ],
+        "abstract": "Abstract                   Background: Residential racial segregation is hypothesized to cause inequities in cardiovascular disease. Yet existing work is largely associational and has rarely tested longitudinal effects of childhood segregation on later CVD. Here, we leverage quasi-random urban planning decisions in Northern US cities prior to the Great Migration as an instrument for segregation as Black families moved North, providing a natural experiment. Methods: We followed Ananat’s work showing railroad track configurations serve as an instrument for segregation at the metropolitan area level. We linked Ananat’s data to the birthplaces of participants in the Panel Study of Income Dynamics (1968-1994, n=829 Black &amp; 1,262 White), following them through 2023. Race-stratified accelerated failure time models used an instrumental variables design and cluster bootstrapping, progressively adjusting for other railroad features, socioeconomic status, and birth year. Results: Estimates suggest childhood residential segregation causally delays the onset of CVD or hypertension for White people but speeds it up for Black people, though confidence intervals and instrument strength varied across model specifications. Non-instrumented models directly adjusting for confounders yielded strongly attenuated results in the same direction. Conclusion: Segregation is likely a cause of Black-White CVD inequities, not just a correlate. Causal designs across the life course are needed.",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-10-23",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-24",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag277",
+        "doi": "10.1093/aje/kwag277",
+        "url": "https://doi.org/10.1093/aje/kwag277",
+        "title": "Beyond health: loneliness and productivity growth across countries",
+        "authors": [
+          "David Leblang",
+          "Dennis Wesselbaum"
+        ],
+        "abstract": "Abstract                   Objectives: Loneliness is an established risk factor for poor health, yet its macroeconomic consequences remain unclear. We examined whether country-level loneliness is associated with productivity and long-run productivity growth. Methods: We combined 2023 Gallup World Poll data (145,072 respondents from 105 countries) with productivity measures from the Penn World Table. Country-level loneliness prevalence was based on respondents who reported feeling lonely for much of the previous day. Ordinary least squares models estimated associations between loneliness and total factor productivity (TFP), TFP growth, and related outcomes, adjusting for income, age, health problems, urbanization, and region fixed effects. Results: Loneliness was not associated with contemporaneous TFP levels but was consistently linked to lower long-run TFP growth. A one-standard-deviation increase in loneliness was associated with a 0.48-percentage-point lower annual TFP growth rate (0.37 standard deviations). These associations were robust across alternative growth periods. Loneliness showed weak evidence of greater TFP growth volatility but was not associated with human capital, physical capital, or aggregate output growth. Conclusions: Countries with higher loneliness exhibit slower long-run productivity growth but not lower productivity levels. Public Health Implications: Reducing loneliness may improve population health while potentially supporting economic resilience and productivity.",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-10-23",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-24",
         "fetched_from": "crossref"
       },
       {
@@ -69510,6 +70242,30 @@
         "fetched_from": "crossref"
       },
       {
+        "id": "doi:10.1186/s12877-026-08528-x",
+        "doi": "10.1186/s12877-026-08528-x",
+        "url": "https://doi.org/10.1186/s12877-026-08528-x",
+        "title": "Developing a self-management support intervention for older adults living with osteoarthritis and multiple long-term conditions",
+        "authors": [
+          "Kate Button",
+          "Paula Otter",
+          "Rachel Deere",
+          "Fiona Jones",
+          "Monica Busse"
+        ],
+        "abstract": "Abstract                                        Background                     Osteoarthritis (OA) affects over half of people over the age of 65, and many live with other multiple long-term conditions (MLTC). Existing self-management interventions for OA do not adequately address the complexities of MLTC and there is a lack of holistic and coordinated provision across health services.                                                           Objective                     To develop a personalised self-management support intervention for adults aged 65 + with knee and/ or hip OA living with MLTC, receiving care in the NHS.                                                           Methods                     We used a six-step intervention mapping approach supplemented by co-design activities. Thirty adults (28 living with OA and MLTCs and two carers) participated in consultations and workshops, contributing their lived experiences and preferences to shape the intervention’s development and implementation.                                                           Results                     The emerging intervention was informed by nine core principles to address the physical, emotional, and psychological symptoms associated with the interplay between OA and MLTC. The intervention aimed to enhance individuals’ knowledge, confidence, and self-management capabilities to interact with health and care professionals and support informed decision making about their health and care. The intervention comprised (1) personalised coaching delivered by trained healthcare professionals to reflect self-management support in the context of living with OA and MLTCs supported by (2) a co-designed ‘Living well with Joint Pain’ handbook. A fidelity checklist was developed to evaluate whether the intervention underpinned by the nine core principles was delivered as intended in subsequent effectiveness evaluations.                                                           Conclusion                     The clinical and cost effectiveness of the intervention will now be evaluated in a randomised controlled trial comparing it to treatment as usual across the UK.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-24",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-24",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1186/s12877-026-08534-z",
         "doi": "10.1186/s12877-026-08534-z",
         "url": "https://doi.org/10.1186/s12877-026-08534-z",
@@ -69559,6 +70315,510 @@
           "agingHealth"
         ],
         "firstSeen": "2026-10-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/geront/gnag248",
+        "doi": "10.1093/geront/gnag248",
+        "url": "https://doi.org/10.1093/geront/gnag248",
+        "title": "What do young adults think about informal care for older adults?: Testing and validation of a public caregiver stigma scale in Canada",
+        "authors": [
+          "Larissa Zwar",
+          "Sanjna Ratti"
+        ],
+        "abstract": "Abstract                                        Background and Objectives                     Young adults are the caregivers of tomorrow. However, it remains unclear what stereotypes about informal caregiving for older adults they have learned. This study aimed to test and validate a first of its kind scale to measure public caregiver stigma as perceived among young adults without prior care experiences.                                                           Research Design and Methods                     Participants aged 18 to 35 years, collected from the community (sample 1) and university students (sample 2) in Canada answered a self-reported online survey on public caregiver stigma (Public Caregiver Stigma Scale, Warmth-Competence-Scale) and their sociodemographic background. Exploratory (EFA) and Confirmatory Factor analyses (CFA) were conducted, and the resulting scale was tested for content and concurrent validity and reliability.                                                           Results                     : The EFA performed on sample 1 resulted in a two-factor model with correlated factors that was confirmed by a CFA in sample 2, demonstrating excellent model fit. Content and concurrent validity were supported by the study’s findings and internal consistency of the two scales varied between acceptable and good. Young adults showed moderately high positive and negative public caregiver stigma, which were associated with their sociodemographic characteristics.                                                           Discussion and implications                     The study confirmed a new quantitative measure of public caregiver stigma targeting unpaid caregiving for older adults, reflecting negative (e.g., isolation, invisibility) and positive (e.g., admiration) stereotypes, emotional, and behavioral reactions. In addition to new insights into younger adults’ perspectives of care, it provides a promising new instrument to investigate society’s expectations of informal caregiving for the aging population.",
+        "source": "The Gerontologist",
+        "issn": "0016-9013",
+        "date": "2026-10-23",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-24",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70800",
+        "doi": "10.1111/jgs.70800",
+        "url": "https://doi.org/10.1111/jgs.70800",
+        "title": "In Defense of the “Good Death” as a Research Framework: The Case for Listening More Widely",
+        "authors": [
+          "Leonardo Martins",
+          "Rasa Mikelyte",
+          "Fernanda Bono Fukushima",
+          "Ricardo Silva Carvalho",
+          "Henrique Ballalai Ferraz",
+          "Déborah Oliveira",
+          "Julia Maria Vanelli",
+          "Natália Rocha Tardelli",
+          "Edison Iglesias de Oliveira Vidal"
+        ],
+        "abstract": "",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-10-23",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-24",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08542-z",
+        "doi": "10.1186/s12877-026-08542-z",
+        "url": "https://doi.org/10.1186/s12877-026-08542-z",
+        "title": "When disability begins: psychological functioning profiles and their association with current psychological adaptation among older adults with new-onset disability",
+        "authors": [
+          "Chang Liu",
+          "Minxue Liu",
+          "Jinxin Zhong",
+          "Jun Yao"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-23",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-24",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08554-9",
+        "doi": "10.1186/s12877-026-08554-9",
+        "url": "https://doi.org/10.1186/s12877-026-08554-9",
+        "title": "Stressful life events and hip fracture risk in older Chinese adults: a prospective cohort study",
+        "authors": [
+          "Chao Mei",
+          "Zhanfeng Zhang",
+          "Zengbing Xia",
+          "Weiqiang Wu",
+          "Haibo Xie",
+          "Haijie Ke",
+          "Jianxiang Zhu"
+        ],
+        "abstract": "Abstract                                        Background                     Stressful life events (SLEs) are established precursors to adverse geriatric outcomes; however, their association with hip fracture risk and underlying mechanisms remain unclear. This study evaluated the association between SLEs and incident hip fracture among Chinese older adults, specifically examining depressive symptoms as a potential intermediary pathway.                                                           Methods                     In this prospective cohort study, we utilized data from 3,706 participants (aged ≥ 65 years) from the China Health and Retirement Longitudinal Study (CHARLS, 2011–2020). SLEs were quantified across five key adulthood domains. Incident hip fractures were ascertained through standardized self-reports. Time-to-event outcomes were analyzed using multivariable Cox regression and exploratory mediation analysis for depressive symptoms.                                                           Results                     Over a 9-year follow-up, 218 (5.9%) participants sustained a hip fracture. Cumulative SLEs exhibited a dose-dependent association with fracture risk (HR = 1.32; 95% CI: 1.13–1.54 per additional event). Compared with no SLEs, adjusted HRs were 1.57 (95% CI: 1.07–2.31) for one event and 2.14 (95% CI: 1.43–3.20) for ≥ 2 events. In an exploratory mediation analysis, depressive symptoms accounted for 11.4% of the association.                                                           Conclusions                     Cumulative SLEs are associated with hip fracture risk in a dose-dependent manner among older Chinese adults, with depressive symptoms potentially serving as an intermediary pathway. These findings support the consideration of integrating psychosocial assessments into fracture prevention strategies.                                                           Clinical trial number                     Not applicable.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-23",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-24",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08399-2",
+        "doi": "10.1186/s12877-026-08399-2",
+        "url": "https://doi.org/10.1186/s12877-026-08399-2",
+        "title": "The effect of a medication review on the quality of life of community dwelling frail adults with polypharmacy: a scoping review",
+        "authors": [
+          "Dimitrios Paraschos",
+          "Lesley Dibley"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-23",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-24",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1097/ede.0000000000002058",
+        "doi": "10.1097/ede.0000000000002058",
+        "url": "https://doi.org/10.1097/ede.0000000000002058",
+        "title": "Use of routinely collected administrative data to define pediatric critical care admission in British Columbia, Canada: a validation study",
+        "authors": [
+          "Jeffrey N. Bone",
+          "Ye Shen",
+          "Srinivas Murthy",
+          "Fiona Muttalib"
+        ],
+        "abstract": "Introduction:                     Administrative health data are essential for quantifying incidence and long-term outcomes associated with pediatric critical illness but rely on reliable capture and coding of hospitalizations with pediatric intensive care unit (PICU) admission. The accuracy of administrative data capture of pediatric critical care admission in Canada is unknown.                                                           Methods:                     We assessed the performance of the Discharge Abstract Database (DAD), which captures all hospitalizations in British Columbia, Canada for identifying pediatric critical care admission by comparing records to the Virtual Pediatric Systems (VPS, LLC, Los Angeles, CA), a prospectively collected database of PICU admissions at British Columbia Children’s Hospital, British Columbia’s only dedicated pediatric quaternary care hospital. We identified all hospitalizations for children younger than 18 years at British Columbia Children’s Hospital between 2014 and 2023 and used presence of PICU days in the DAD to identify possible PICU admissions. We then matched the DAD records to the VPS records via exact admission date to determine the performance of this case definition (presence of PICU days) both overall, and across subgroups. We evaluated the accuracy of PICU admission characteristics and outcomes reporting in the DAD using VPS as the reference standard.                                                           Results:                     A total of 63,256 admissions were included, of which 8891 had an indicator for PICU admission in the DAD. Of these, 8729 had a positive validation record for PICU admission in the VPS database at British Columbia Children’s Hospital. There were 123 admissions to the PICU in the VPS database that were not captured in the DAD. The case definition had excellent sensitivity (96.3%; 95% CI = 95.9, 96.7) and specificity (99.7%; 95% CI = 99.7, 99.7). Results were consistent across subgroups. DAD definitions of admission type, PICU length of stay, inter-hospital transfer status, receipt of invasive mechanical ventilation, and mortality all showed sensitivity and specificity ≥ 85%.                                                           Conclusion:                     Using a large validation sample of PICU admissions from a quaternary care centre, we found that routinely collected administrative data on hospitalizations in Canada had high accuracy for classifying and characterizing PICU admissions.",
+        "source": "Epidemiology",
+        "issn": "1044-3983",
+        "date": "2026-10-23",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-24",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag274",
+        "doi": "10.1093/aje/kwag274",
+        "url": "https://doi.org/10.1093/aje/kwag274",
+        "title": "The French Paradox 2, a remake for Norway ?",
+        "authors": [
+          "Alain Braillon"
+        ],
+        "abstract": "",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-10-23",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-24",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag276",
+        "doi": "10.1093/aje/kwag276",
+        "url": "https://doi.org/10.1093/aje/kwag276",
+        "title": "Is segregation bad for your heart?: a natural experiment for residential racial segregation exposure during childhood and cardiovascular disease risk",
+        "authors": [
+          "Gabriel L Schwartz",
+          "Mark A Hernandez"
+        ],
+        "abstract": "Abstract                   Background: Residential racial segregation is hypothesized to cause inequities in cardiovascular disease. Yet existing work is largely associational and has rarely tested longitudinal effects of childhood segregation on later CVD. Here, we leverage quasi-random urban planning decisions in Northern US cities prior to the Great Migration as an instrument for segregation as Black families moved North, providing a natural experiment. Methods: We followed Ananat’s work showing railroad track configurations serve as an instrument for segregation at the metropolitan area level. We linked Ananat’s data to the birthplaces of participants in the Panel Study of Income Dynamics (1968-1994, n=829 Black &amp; 1,262 White), following them through 2023. Race-stratified accelerated failure time models used an instrumental variables design and cluster bootstrapping, progressively adjusting for other railroad features, socioeconomic status, and birth year. Results: Estimates suggest childhood residential segregation causally delays the onset of CVD or hypertension for White people but speeds it up for Black people, though confidence intervals and instrument strength varied across model specifications. Non-instrumented models directly adjusting for confounders yielded strongly attenuated results in the same direction. Conclusion: Segregation is likely a cause of Black-White CVD inequities, not just a correlate. Causal designs across the life course are needed.",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-10-23",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-24",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag277",
+        "doi": "10.1093/aje/kwag277",
+        "url": "https://doi.org/10.1093/aje/kwag277",
+        "title": "Beyond health: loneliness and productivity growth across countries",
+        "authors": [
+          "David Leblang",
+          "Dennis Wesselbaum"
+        ],
+        "abstract": "Abstract                   Objectives: Loneliness is an established risk factor for poor health, yet its macroeconomic consequences remain unclear. We examined whether country-level loneliness is associated with productivity and long-run productivity growth. Methods: We combined 2023 Gallup World Poll data (145,072 respondents from 105 countries) with productivity measures from the Penn World Table. Country-level loneliness prevalence was based on respondents who reported feeling lonely for much of the previous day. Ordinary least squares models estimated associations between loneliness and total factor productivity (TFP), TFP growth, and related outcomes, adjusting for income, age, health problems, urbanization, and region fixed effects. Results: Loneliness was not associated with contemporaneous TFP levels but was consistently linked to lower long-run TFP growth. A one-standard-deviation increase in loneliness was associated with a 0.48-percentage-point lower annual TFP growth rate (0.37 standard deviations). These associations were robust across alternative growth periods. Loneliness showed weak evidence of greater TFP growth volatility but was not associated with human capital, physical capital, or aggregate output growth. Conclusions: Countries with higher loneliness exhibit slower long-run productivity growth but not lower productivity levels. Public Health Implications: Reducing loneliness may improve population health while potentially supporting economic resilience and productivity.",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-10-23",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-24",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261499243",
+        "doi": "10.1177/13872877261499243",
+        "url": "https://doi.org/10.1177/13872877261499243",
+        "title": "Discourse-based assessment in clinical context for persons with mild cognitive impairment: A scoping review",
+        "authors": [
+          "Guillaume Duboisdindien",
+          "Nancy Durieux",
+          "Mireille Kieu",
+          "Julie Cattini"
+        ],
+        "abstract": "Background                     Discourse assessment may capture subtle communication changes in persons with mild cognitive impairment (MCI) that are not readily detected by standardized test batteries.                                                           Objective                     To identify and map clinically applicable methods and linguistic measures for assessing discourse changes in persons with MCI.                                                           Methods                     This scoping review followed JBI methodology and PRISMA-ScR reporting guidance. Observational studies assessed spoken discourse in persons with MCI, including comparisons with normocognitive controls or persons with Alzheimer's disease (AD). Studies published in English or French were identified through systematic searches of MEDLINE, PsycINFO, Linguistics and Language Behavior Abstracts, and Scopus, updated in January 2025. Studies based exclusively on automated language-processing approaches were excluded. Data from 17 of the 76 studies in the broader review program (22.4%) underwent independent double extraction, with high inter-rater agreement. Data from the remaining studies were extracted by one reviewer, with uncertainties resolved collectively. Findings were summarized descriptively.                                                           Results                     Seventeen studies were included. Narrative and descriptive tasks predominated. Across studies, 119 distinct linguistic measures were identified across six domains. Only implausible or irrelevant details showed statistically significant MCI-control differences consistently across independent studies. No measure showed this pattern for MCI-AD comparisons. Most other measures were reported in single studies or yielded inconsistent findings across tasks and samples.                                                           Conclusions                     Heterogeneity in elicitation procedures, operational definitions, and linguistic measures limits comparability across studies. Methodological harmonization and further evaluation of psychometric properties and clinical feasibility are needed to support evidence-based discourse assessment by speech-language pathologists.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-10-23",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-24",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261498397",
+        "doi": "10.1177/13872877261498397",
+        "url": "https://doi.org/10.1177/13872877261498397",
+        "title": "An exploratory synthetic MRI-derived FLAIR–DIR contrast in olfactory–limbic regions in mild cognitive impairment",
+        "authors": [
+          "Anupa Ekanayake",
+          "Scott Hwang",
+          "Senal Peiris",
+          "Rommy Elyan",
+          "Ghulam Mustafa",
+          "Mark Tulchinsky",
+          "Jianli Wang",
+          "Paul Eslinger",
+          "Qing Yang",
+          "Prasanna Karunanayaka"
+        ],
+        "abstract": "Background                     Odor identification impairment is an early feature of Alzheimer's disease and predicts memory decline, but its microstructural basis remains unclear.                                                           Objective                     To evaluate FD, a semi-quantitative synthetic magnetic resonance imaging (MRI)–derived Fluid-Attenuated Inversion Recovery (FLAIR)–Double Inversion Recovery (DIR) contrast, against myelin volume fraction (MVF) in olfactory–limbic brain regions of patients diagnosed with mild cognitive impairment (MCI).                                                           Methods                     Sixteen healthy controls (HC) and 17 individuals diagnosed with MCI completed olfactory and cognitive testing and underwent 3T MRI using a QALAS sequence. MVF maps were generated and FD was computed as (FLAIR − DIR)/FLAIR. Group differences were examined in olfactory–limbic gray matter and associated white-matter tracts, and voxel-wise regression assessed FD–odor identification associations, including models adjusted for voxel-wise MVF. Region of interest and voxel-wise analyses were exploratory and largely uncorrected for multiple comparisons.                                                           Results                     Compared with HC, MCI showed lower FD across olfactory–limbic gray matter and white-matter pathways, including hippocampus, amygdala, orbitofrontal cortex, thalamus and corpus callosum, whereas MVF differences were more limited. Better odor identification was associated with higher FD in hippocampal/parahippocampal regions and insula, persisting after MVF adjustment. MVF showed positive associations in the right parahippocampal gyrus, left thalamus and genu of the corpus callosum. In an exploratory secondary analysis reported in the Supplemental Material, FD-based classification exceeded chance but was not separable from age alone.                                                           Conclusions                     FD is a semi-quantitative relaxation-contrast metric showing regional patterns partially distinct from MVF. These exploratory findings require replication in larger, demographically matched, biomarker-confirmed cohorts before FD can be regarded as a marker of early olfactory–limbic microstructural change in MCI.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-10-23",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-24",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261498247",
+        "doi": "10.1177/13872877261498247",
+        "url": "https://doi.org/10.1177/13872877261498247",
+        "title": "A phase III trial of ALZT-OP1 (cromolyn + ibuprofen) in early Alzheimer's disease: Primary results and exploratory analyses by\n                    <i>APOE4</i>\n                    genotype",
+        "authors": [
+          "David Elmaleh",
+          "Atul Gupta",
+          "David Brazier",
+          "William Garofano",
+          "Peter S. Conti"
+        ],
+        "abstract": "Background                     This study tested ALZT-OP1 (inhaled cromolyn 17.1 mg and oral ibuprofen 10 mg) in early Alzheimer's disease (AD).                                                           Objective                     To evaluate the efficacy and safety of ALZT-OP1 in early AD.                                                           Methods                                            Cognite was a Phase III, double-blind, placebo-controlled, four-arm factorial trial in 619 participants with early AD (cerebrospinal fluid [CSF] amyloid-β                       42                       (Aβ                       42                       ) 180–690 pg/mL; Clinical Dementia Rating–Global 0.5). Randomization was 1:1:1:1 to cromolyn, ibuprofen, combination therapy, or placebo for 72 weeks. The primary endpoint was change from baseline to Week 72 in Clinical Dementia Rating–Sum of Boxes (CDR-SB), comparing combination versus each monotherapy. Secondary and exploratory endpoints included comparisons with placebo, subgroup analyses by apolipoprotein E4 (                       APOE4                       ) status, Mini-Mental State Examination scores, CSF biomarkers, and safety.                                                                                Results                                            In the modified intent-to-treat population (n = 594), the primary endpoint was not met. No statistically significant difference was found between combination and cromolyn (difference 0.16, 95% CI −0.58 to 0.90; p = 0.675) or ibuprofen (0.40, 95% CI −0.32 to 1.13; p = 0.276).                       APOE4                       non-carriers receiving combination therapy showed a numerical benefit versus placebo (least-squares mean difference −0.96; 95% CI −2.00 to 0.08; p = 0.069), although this was not statistically significant. ALZT-OP1 was safe and well tolerated.                                                                                Conclusions                                            ALZT-OP1 did not demonstrate efficacy in an unselected early AD population. The numerical benefit observed in                       APOE4                       non-carriers warrants prospective evaluation in a genotype-stratified trial. ALZT-OP1 was safe and well tolerated over 72 weeks, and the study provides insights for future AD trial design.                                                                 The study is registered at ClinicalTrials.gov (                       https://clinicaltrials.gov/study/NCT02547818                       ; NCT02547818).",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-10-23",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-24",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261497928",
+        "doi": "10.1177/13872877261497928",
+        "url": "https://doi.org/10.1177/13872877261497928",
+        "title": "Discourse-based assessment in clinical context for persons with Alzheimer's disease: A scoping review",
+        "authors": [
+          "Guillaume Duboisdindien",
+          "Nancy Durieux",
+          "Mireille Kieu",
+          "Julie Cattini"
+        ],
+        "abstract": "Background                     Discourse assessment captures communicative abilities integrating linguistic, cognitive, and pragmatic processes and is widely used to characterize communication changes in Alzheimer's disease (AD).                                                           Objective                     To identify and map clinically applicable methods and linguistic measures for assessing discourse changes in persons with AD.                                                           Methods                     This scoping review followed JBI methodology and PRISMA-ScR guidelines. Observational studies assessing spoken discourse in persons with AD compared with normocognitive controls were identified through systematic searches of MEDLINE, PsycINFO, Linguistics and Language Behavior Abstracts, and Scopus. Studies based exclusively on automated language-processing approaches were excluded to maintain a focus on clinically applicable assessment. English or French-language studies were included. To assess inter-rater reliability, data from 17/76 studies (22.4%) in the broader review were independently extracted by two reviewers, with high agreement; remaining studies were extracted by one reviewer, with uncertainties resolved collectively. Extracted data included elicitation tasks, coding procedures, linguistic domains, and outcome measures and were summarized descriptively.                                                           Results                     Fifty-nine papers were included. Picture description predominated, followed by conversational and narrative formats. Across papers, 291 distinct linguistic measures were identified. Discourse/pragmatic measures constituted the largest domain and had the greatest number of reported statistically significant findings. Fluency measures were also frequently associated with statistically significant differences, whereas morphosyntactic measures showed fewer such findings.                                                           Conclusions                     Substantial variability in elicitation procedures, operational definitions, and linguistic measures limits cross-study comparability. Methodological harmonization and further evaluation of the psychometric and clinical properties of discourse measures are needed to support evidence-based clinical assessment.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-10-23",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-24",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261501439",
+        "doi": "10.1177/13872877261501439",
+        "url": "https://doi.org/10.1177/13872877261501439",
+        "title": "A putative iron-related evolving framework in Alzheimer's disease: From iron dyshomeostasis and ferro-aging to ferroptosis",
+        "authors": [
+          "Daman Tian",
+          "Ting Shi",
+          "Shuangfeng Xu",
+          "Junfeng Lan",
+          "Manyan Zhao",
+          "Hongyan Wu",
+          "Jiao Yang",
+          "Zhifeng Wang",
+          "Jian Wang"
+        ],
+        "abstract": "Alzheimer's disease (AD) ranks as a prototypical age-related neurodegenerative disorder. Emerging evidence indicates that disrupted brain iron metabolism and ferroptosis act as critical upstream drivers of AD pathological progression. AD exhibits core hallmarks of ferroptosis, including iron overload, lipid peroxidation, elevated reactive oxygen species, and impaired antioxidant enzyme activity. These abnormalities interact synergistically with amyloid-β plaques and tau pathology. Iron accumulation during aging and damage-associated molecular patterns released concomitantly with ferroptosis drive susceptible microglia toward M1-like polarization, propagate chronic neuroinflammation, and fuel the vicious cycle of AD pathology. Targeting ferroptotic pathways represents a promising strategy to alleviate cognitive impairment in AD. Ferro-aging ranks as a recently identified form of programmed cellular senescence marked by iron dependency, ACSL4 regulation, and lipid peroxidation-driven damage. Although ferro-aging has only been preliminarily validated in aging models, its molecular signatures, regulatory axes, and phenotypic outcomes align remarkably well with the progression of brain aging and AD. It thus emerges as a potentially pivotal hub linking physiological aging to iron-associated pathology in AD. We systematically summarize the physiological regulation of brain iron homeostasis and core ferroptotic pathways disrupted in AD. We further integrate current evidence to explore how ferro-aging may contribute to AD pathogenesis, proposing a mechanistic framework in which: iron dyshomeostasis initiates damage, ferro-aging drives chronic progression, and ferroptosis mediates acute injury. Finally, we review intervention strategies targeting iron-related pathology, providing theoretical insights for understanding the aging-dependent nature of AD and developing novel therapeutic approaches.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-10-23",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-24",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261500498",
+        "doi": "10.1177/13872877261500498",
+        "url": "https://doi.org/10.1177/13872877261500498",
+        "title": "Cerebrospinal fluid cell-free DNA methylation captures disease-specific biology in tauopathies",
+        "authors": [
+          "Haoxin Tian",
+          "Jianjun Zhang",
+          "Huirong Zuo",
+          "Yanping Liu",
+          "Il-doo Kim",
+          "Yaxing Gui"
+        ],
+        "abstract": "Background                     Differentiating tau-related dementias remains challenging, particularly during early disease stages when clinical symptoms overlap. Existing biomarkers mainly reflect downstream pathology and provide limited insight into disease-specific molecular processes.                                                           Objective                     We examined whether cerebrospinal fluid (CSF)-derived cell-free DNA (cfDNA) methylation could distinguish Alzheimer's disease (AD), behavioral variant frontotemporal dementia (bvFTD), and progressive supranuclear palsy (PSP).                                                           Methods                     Promoter methylation of 20 genes associated with AD risk, neuroinflammation, cellular senescence, and glymphatic or lymphatic regulation was analyzed in CSF and matched plasma cfDNA from controls (n = 15), AD (n = 21), bvFTD (n = 14), and PSP (n = 17). cfDNA concentration and fragmentomic profiles were assessed. Diagnostic performance was evaluated using logistic regression and receiver operating characteristic (ROC) analysis. Findings were validated in an independent cohort.                                                           Results                     CSF cfDNA concentrations were increased in AD, whereas fragment size distributions were similar across diagnostic groups. Disease-associated methylation signatures were prominent in CSF but weak or absent in plasma. AD demonstrated widespread hypomethylation of inflammatory and senescence-associated genes together with hypermethylation of glymphatic and lymphatic regulators. bvFTD showed intermediate glial- and stress-related methylation changes, while PSP retained relatively preserved inflammatory and clearance-associated profiles. CSF methylation panels consistently outperformed plasma-derived markers for disease classification. ROC analyses demonstrated strong discrimination for AD, with AUC values reaching 0.84–0.85, while plasma-based markers showed limited diagnostic utility.                                                           Conclusions                     CSF cfDNA methylation captures disease-specific epigenetic states linked to core pathogenic pathways in tau-related dementias. This approach may provide a biologically informative and clinically useful platform for molecular classification and diagnostic stratification.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-10-23",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-24",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261500491",
+        "doi": "10.1177/13872877261500491",
+        "url": "https://doi.org/10.1177/13872877261500491",
+        "title": "pTau217 immunoassays in Alzheimer's disease continuum: A comparative study of Ella and Lumipulse",
+        "authors": [
+          "Evelyne Minucchi",
+          "Rosalinda Di Gerlando",
+          "Francesca Dragoni",
+          "Camillo Imbimbo",
+          "Elisabetta Zardini",
+          "Matteo Cotta Ramusino",
+          "Alfredo Costa",
+          "Stella Gagliardi"
+        ],
+        "abstract": "Background                     Plasma phosphorylated tau 217 (pTau217) has emerged as one of the most accurate biomarkers for Alzheimer's disease (AD). However, direct comparisons of pTau217 levels between different automated immunoassays remain limited.                                                           Objective                     In this context, our work aimed to compare Lumipulse and Ella platforms for the measurement of plasma pTau217 across the AD continuum.                                                           Methods                     Blood samples were collected from 32 subjective cognitive decline (SCD), 25 mild cognitive impairment (MCI), and 10 Alzheimer's disease (AD) patients. Plasma pTau217 levels were assessed using Lumipulse G600II automated system and Ella immunoassay SR-X platform. Associations with clinical variables and agreement between platforms were assessed.                                                           Results                     Plasma pTau217 levels increased from SCD to AD with both assays. Lumipulse showed a significant difference between SCD and AD (p = 0.0011), while Ella detected differences between SCD and MCI (p = 0.0198) and SCD and AD (p = 0.0001). Both assays showed a significant inverse correlation with Mini-Mental State Examination (Lumipulse: r = −0.4913; p = 0.0001. Ella: Pearson r = −0.5139; p = 0.0001). A moderate correlation between platforms was observed. Bland–Altman analysis revealed a negative bias, with Lumipulse yielding lower values than Ella and increasing variability at higher concentrations.                                                           Conclusions                     Lumipulse and Ella provided consistent qualitative information on plasma pTau217 across the AD continuum and show similar associations with cognitive performance, meaning that they are both comparable techniques. However, systematic bias and proportional variability limit their quantitative interchangeability, highlighting the need for cross-platform standardization.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-10-23",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-24",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261500490",
+        "doi": "10.1177/13872877261500490",
+        "url": "https://doi.org/10.1177/13872877261500490",
+        "title": "Changes in gray matter volume associated with gait speed and muscle mass in older adults with mild cognitive impairment",
+        "authors": [
+          "Tzu-Chao Chuang",
+          "Chih-Kuang Liang",
+          "Ming-Yueh Chou",
+          "Yu-Hsuan Chan",
+          "Hsin-Pei Wang",
+          "Yu-Chun Wang",
+          "Ying-Hsin Hsu",
+          "Yu-Te Lin"
+        ],
+        "abstract": "Background                     Mild cognitive impairment (MCI) is an early stage of cognitive decline between normal aging and dementia. Gait speed, a key marker of physical function, has been associated with both cognitive decline and brain atrophy. Sarcopenia, characterized by age-related loss of muscle mass and function, has also been linked to structural brain changes.                                                           Objective                     To investigate the associations between sarcopenia, its individual components and regional gray matter volume (GMV) in older adults with MCI.                                                           Methods                     This cross-sectional study included 234 older adults with MCI. Sarcopenia, gait speed, handgrip strength, and appendicular skeletal muscle mass index (ASMI) were assessed according to the 2019 Asian Working Group for Sarcopenia criteria. Brain T1-weighted magnetic resonance imaging was analyzed using voxel-based morphometry. Voxel-wise group comparisons were performed to identify GMV differences after adjustment age, sex, comorbidity, depressive symptoms, nutritional status, and total intracranial volume.                                                           Results                     Slower gait speed was significantly associated with lower GMV in the bilateral putamen and left superior frontal cortex. Lower ASMI was associated with higher GMV in the left inferior temporal cortex. No significant GMV differences were found by sarcopenia status or handgrip strength.                                                           Conclusions                     Slower gait speed is associated with reduced GMV in motor-related brain regions, indicating early brain structural changes in older adults with MCI. Although lower ASMI was associated with higher GMV, this finding should be interpreted cautiously. These findings highlight the complex interactions between physical function and brain structure, emphasizing gait speed as a potential indicator of brain health in older adults with MCI.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-10-23",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-24",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261500123",
+        "doi": "10.1177/13872877261500123",
+        "url": "https://doi.org/10.1177/13872877261500123",
+        "title": "Decision-making in biospecimen and biomarker research among African American participants: Procedure-specific perspectives including on the uniqueness of brain donation",
+        "authors": [
+          "Susan Racine Passmore",
+          "Diane Carol Gooding",
+          "Morgan N. Medina",
+          "Faith Ocoko",
+          "Shenikqua Bouges",
+          "Madisin Randolph",
+          "Tierra Smith",
+          "Fabu P. Carter",
+          "Megan Zuelsdorff",
+          "Jeffrey Nirschl",
+          "Carey E. Gleason"
+        ],
+        "abstract": "Background                                            African Americans are disproportionately affected by Alzheimer's disease (AD) but remain significantly underrepresented in research. While previous studies often assess these barriers to such research engagement using hypothetical scenarios, there is a need to focus on                       in vivo                       decision-making processes                                                                                Objective                     To identify the specific facilitators and barriers influencing African American participants’ decisions to engage in or decline four types of biospecimen data collection: biomarker collection via MRI, PET, or lumbar puncture (LP), and brain donation.                                                           Methods                     Semi-structured interviews were conducted with 41 participants (68.2% female; age range 58–84; average 68) recruited from the African Americans Fighting Alzheimer's in Midlife Study who had made the decision for or against these four types of research. A descriptive content analysis identified specific factors that influenced decision-making.                                                           Results                     Acceptability levels varied by procedure: MRI (80.5%) and PET scans (63.4%) were the most accepted, whereas LP (36.6%) and brain donation (34.1%) were the least. Common motivations included personal family experience with AD and a desire to benefit the African American community. Barriers for LP and MRI included perceived physical risk and claustrophobia, respectively. Brain donation emerged as a unique, family-centered decision rather than an individual one. A high percentage of participants (34%) remained undecided about brain donation due to concerns about family burden during end-of-life transitions and a lack of procedural information.                                                           Conclusions                     This examination of real-life research decisions confirmed prior findings and highlighted opportunities to improve outreach to African American community members, particularly regarding brain donation, which may require unique approaches.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-10-23",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-24",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261500119",
+        "doi": "10.1177/13872877261500119",
+        "url": "https://doi.org/10.1177/13872877261500119",
+        "title": "A scoping literature review: Identifying the comorbidities of Alzheimer's disease",
+        "authors": [
+          "Katelyn Case",
+          "Cat Halliwell",
+          "Tarin Clay",
+          "Yingqi Ding",
+          "Karinne Colon",
+          "Elisabeth Callen"
+        ],
+        "abstract": "Background                     There are many co-occurring conditions of Alzheimer's disease (AD).                                                           Objective                     This scoping literature review aims to identify the comorbidities of AD found in the literature.                                                           Methods                     We conducted an extensive scoping search using PubMed for January 1, 2015 to June 10, 2025, yielding 461 articles. 39 articles met inclusion criteria. Descriptive statistics were completed on the extracted information.                                                           Results                     The conditions identified encompass the body's major organ systems, with diabetes and hypertension appearing the most.                                                           Conclusions                     This scoping review highlights the large number of comorbidities associated with AD.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-10-23",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-24",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261500762",
+        "doi": "10.1177/13872877261500762",
+        "url": "https://doi.org/10.1177/13872877261500762",
+        "title": "A five-gene mitochondrial–lipid metabolism signature for Alzheimer's disease diagnosis identified by machine learning and validated in independent cohorts",
+        "authors": [
+          "Bo Liu",
+          "Jingjing Wu",
+          "Jun Liu",
+          "Yingmin Mo",
+          "Guiqing Lin",
+          "Yi Zhang",
+          "Chunying Wei",
+          "Ran Tao"
+        ],
+        "abstract": "Background                     Mitochondrial dysfunction and lipid metabolism dysregulation represent early key events in Alzheimer's disease (AD), yet integrated transcriptomic signatures combining these two biological processes for AD diagnosis remain poorly defined.                                                           Objective                     This study aimed to construct and validate a mitochondrial-lipid metabolism (MLM) gene-based diagnostic classifier for AD using machine-learning approaches and explore its underlying biological mechanisms.                                                           Methods                     Two public GEO datasets GSE5281 (training) and GSE28146 (independent validation) were included. Candidate MLM genes were retrieved from MSigDB. Differentially expressed MLM genes were screened by limma, followed by two-step feature selection with LASSO regression and random forest. Four machine-learning algorithms were compared. Model performance was evaluated by AUC, calibration, decision-curve analysis and subgroup analysis across AD severity. GSVA and hypergeometric test were applied for mechanistic exploration.                                                           Results                                            A five-gene signature (                       SDR16C5, EGR1, ASAH2B, HIP1R, CKMT1B                       ) was finally identified. Logistic regression model achieved 5-fold cross-validated AUC of 0.953 in training cohort and AUC = 0.892 (95%CI:0.768–1.000) in validation cohort. The signature maintained high diagnostic accuracy across incipient, moderate and severe AD stages. Hypergeometric test demonstrated significant MLM-set enrichment (p = 3.85 × 10                       −5                       ). GSVA revealed close correlations between this signature with oxidative stress, synaptic dysfunction and apoptosis pathways.                                                                                Conclusions                     This validated five-gene MLM signature exhibits favorable diagnostic performance for AD and reflects disturbed mitochondrial-lipid metabolic network. It provides a promising transcriptomic biomarker for AD diagnosis.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-10-23",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-24",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261500138",
+        "doi": "10.1177/13872877261500138",
+        "url": "https://doi.org/10.1177/13872877261500138",
+        "title": "The uncinate fasciculus in frontotemporal dementia subtypes: A systematic review and meta-analysis of diffusion-tensor imaging studies",
+        "authors": [
+          "Salma Mowafi",
+          "Layla Nassar",
+          "Shahd Ezzeldin",
+          "Mohamed Salama",
+          "Sungsoo Chun"
+        ],
+        "abstract": "Background                     Frontotemporal dementia (FTD) is a leading cause of early-onset neurodegeneration with selective frontal and temporal lobe degeneration. Despite well-characterized gray and white matter atrophy patterns across FTD subtypes, the extent of degeneration of the uncinate fasciculus (UF) tract has not been systematically quantified across FTD subtypes.                                                           Objective                     To compare uncinate fasciculus fractional anisotropy, mean diffusivity, radial diffusivity, and axial diffusivity between frontotemporal dementia subtypes and healthy controls.                                                           Methods                     We systematically searched PubMed, Scopus, and Web of Science and performed a random-effects meta-analysis of diffusion tensor imaging studies published between 2011 and October 2025 according to PRISMA 2020 guidelines.                                                           Results                     We systematically reviewed 11 studies and performed a meta-analysis of 540 participants across 10 studies. We found that all FTD subtypes demonstrated significant degeneration of the UF compared to controls. The greatest effect sizes were observed when comparing the left UF between the semantic variant primary progressive aphasia (svPPA) and controls (FA: SMD = −2.5396, 95% CI: −3.7914, −1.2878, p &lt; 0.0001; RD: SMD = 2.2414, 95% CI:1.7972, 2.6855, p &lt; 0.0001; AD: SMD = 1.9831, 95% CI: 1.1434, 2.8227, p &lt; 0.0001; MD: SMD = 2.5268, 95% CI: 1.9993, 3.0542, p &lt; 0.0001), while the behavioral variant (bvFTD) showed the largest reduction in right UF fractional anisotropy. Within-group analyses revealed significant left-right asymmetry in svPPA and non-fluent aphasia (nfvPPA), with greater left UF involvement, while bvFTD and controls showed no hemispheric differences.                                                           Conclusions                     We highlight the UF as a promising tract for understanding disease mechanisms and developing imaging biomarkers in FTD.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-10-23",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-24",
         "fetched_from": "crossref"
       },
       {
@@ -69945,6 +71205,25 @@
           "agingHealth"
         ],
         "firstSeen": "2026-10-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261499713",
+        "doi": "10.1177/13872877261499713",
+        "url": "https://doi.org/10.1177/13872877261499713",
+        "title": "Chromosome 21 gene dosage and Alzheimer's disease in Down syndrome: DYRK1A mechanism and its translation to blood-based biomarkers",
+        "authors": [
+          "Ainaz Shateri"
+        ],
+        "abstract": "Down syndrome (DS), caused by trisomy 21, is the most common genetic cause of early-onset Alzheimer's disease (AD). Virtually all individuals with DS develop AD neuropathology by the fourth decade of life, and the majority develop clinical dementia by the seventh decade. Triplication of the                     APP                     gene on chromosome 21 (HSA21) is the established central driver of the substantial amyloid burden in this population. However, HSA21 contains hundreds of genes, and additional triplicated genes may compound DS-associated AD (DSAD) risk. This narrative review examines DYRK1A (dual-specificity tyrosine-phosphorylation-regulated kinase 1A), a triplicated HSA21 kinase overexpressed approximately 1.5-fold in DS brains, as a potential complementary contributor to DSAD. Evidence from cell and animal models proposes three mechanistic axes: (1) phosphorylation of amyloid-β protein precursor at Thr668, promoting amyloidogenic processing; (2) phosphorylation of tau at Thr212, the site corresponding to the p-tau212 epitope, priming downstream GSK3β-mediated hyperphosphorylation; and (3) transcriptional suppression of neprilysin, impairing amyloid-β clearance. Direct human mechanistic evidence for these pathways remains limited. Because DYRK1A has been implicated in broader tau-regulatory pathways, individuals with DS may exhibit distinct plasma p-tau profiles compared with euploid AD populations. Recent cohort studies have reported DS-specific plasma p-tau217 and p-tau212 thresholds substantially higher than euploid references. Dedicated quantitative syntheses of plasma p-tau217 and p-tau212 diagnostic accuracy specifically in DS remain limited, representing a key translational gap.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-10-22",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-24",
         "fetched_from": "crossref"
       },
       {
@@ -93956,6 +95235,46 @@
     ],
     "socialWork": [
       {
+        "id": "doi:10.1177/14680173261478725",
+        "doi": "10.1177/14680173261478725",
+        "url": "https://doi.org/10.1177/14680173261478725",
+        "title": "“Sensitive” Research: Ethics of Care in Sexual Abuse Projects",
+        "authors": [
+          "Aisha Howells",
+          "Sue Hollinrake",
+          "Danny Taggart"
+        ],
+        "abstract": "Summary                     Child sexual abuse research is understood as a “sensitive” field of study. As such, there are distinct challenges faced by researchers operating in this field. Namely, child sexual abuse researchers often confront complex ethical dilemmas alongside rigid ethical parameters. Drawing on nine narrative interviews with mothers whose children have been sexually abused and analyzed using narrative thematic analysis, and conducted as part of a larger study, this theoretical methodological paper presents an ethical framework to inform research in this area. The paper makes an original contribution as it explores the tensions that arise when balancing research governance alongside research deemed as “sensitive” and offers an additional ethical approach arising from a feminist ethics of care standpoint.                                                           Findings                     The research applies Fisher and Tronto’s and Tronto’s five phases or stages of care: caring about, caring for, caregiving, care receiving, and caring with, alongside Tronto’s four elements of successful caring: attentiveness, responsibility, competence, and responsiveness, and operationalizes a feminist ethics of care approach to enrich ethical practice in sensitive projects.                                                           Applications                     This article illustrates how such a framework can offer additional protections and ethical considerations for participants across sensitive fields of inquiry with applicability in England and comparable international contexts. Additionally, the article offers insights for social work and other disciplines engaged in ethically complex research.",
+        "source": "Journal of Social Work",
+        "issn": "1468-0173",
+        "date": "2026-10-23",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-24",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/sw/swag048",
+        "doi": "10.1093/sw/swag048",
+        "url": "https://doi.org/10.1093/sw/swag048",
+        "title": "Artificial Intelligence in the Behavioral Health Professions: Ethical and Risk Management Issues. Frederic G. Reamer",
+        "authors": [
+          "Crystal Danielle Odoms"
+        ],
+        "abstract": "",
+        "source": "Social Work",
+        "issn": "0037-8046",
+        "date": "2026-10-23",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-24",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1093/bjsw/bcag268",
         "doi": "10.1093/bjsw/bcag268",
         "url": "https://doi.org/10.1093/bjsw/bcag268",
@@ -101527,10 +102846,10 @@
   },
   "totals": {
     "socialSecurity": 1575,
-    "elderCare": 672,
-    "healthReform": 1043,
-    "agingHealth": 975,
-    "socialWork": 336
+    "elderCare": 678,
+    "healthReform": 1065,
+    "agingHealth": 998,
+    "socialWork": 338
   },
   "feeds_ok": 41
 }
