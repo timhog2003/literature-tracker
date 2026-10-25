@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-24",
-  "fetched": "2026-10-24T06:06:26+00:00",
+  "date": "2026-10-25",
+  "fetched": "2026-10-25T06:26:50+00:00",
   "domains": {
     "socialSecurity": [
       {
@@ -24353,6 +24353,129 @@
         "fetched_from": "crossref"
       },
       {
+        "id": "doi:10.1093/gerona/glag252",
+        "doi": "10.1093/gerona/glag252",
+        "url": "https://doi.org/10.1093/gerona/glag252",
+        "title": "Epigenetic aging in people with HIV across the life course: a systematic review and meta-analysis",
+        "authors": [
+          "Carolyn Kinkade",
+          "Ashley Wimbish",
+          "Amudha Senthilkumar",
+          "Modupe O Coker",
+          "Lan Luo",
+          "Michael T Yin",
+          "Louise Kuhn",
+          "Michael J Corley",
+          "Stephanie Shiau"
+        ],
+        "abstract": "Abstract                   Epigenetic aging algorithms are emerging tools for understanding the biological effects of human immunodeficiency virus (HIV). A growing body of literature has applied DNA methylation-based epigenetic clocks in people living with HIV (PWH) across the life course, examining epigenetic age acceleration (EAA) in relation to HIV infection, antiretroviral therapy (ART), comorbidities, and clinical biomarkers (e.g., viral load, CD4 T-cell counts). This systematic review (Prospero: CRD420251126874) summarizes and synthesizes the current evidence on epigenetic aging in PWH across the life course and identifies critical knowledge gaps for future research. We searched PubMed, Scopus, and Medline through June 26, 2026. The review followed PRISMA guidelines and assessed studies for risk of bias using the Newcastle-Ottawa Scale. We created a narrative synthesis of results and performed a random-effects meta-analysis of HorvathAge EAA. Fifty-five studies met the inclusion criteria. More than half (n = 33) examined EAA in PWH compared to an uninfected control population. We identified heterogeneity in study populations and design, biospecimens profiled, platforms used for DNA methylation analysis, and epigenetic clocks employed. Only 6 studies included participants younger than 18 years and no studies focused exclusively on individuals over 65 years. Only 10 studies examined longitudinal changes in EAA. Thirty-seven papers evaluated associations between EAA and comorbidities. A meta-analysis of HorvathAge EAA across 14 studies found a mean difference of 3.41 years (95%CI 2.22, 4.60) in PWH relative to controls. Current evidence supports accelerated EAA among PWH but highlights substantial methodological heterogeneity and important knowledge gaps. Longitudinal studies of EAA in PWH are needed in populations under 18 and over 65, to clarify the effects of ART, clinical biomarkers, and age-related comorbidities, and determine the clinical utility of epigenetic aging biomarkers.",
+        "source": "The Journals of Gerontology, Series A: Biological Sciences and Medical Sciences",
+        "issn": "1079-5006",
+        "date": "2026-10-24",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "elderCare"
+        ],
+        "firstSeen": "2026-10-25",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70801",
+        "doi": "10.1111/jgs.70801",
+        "url": "https://doi.org/10.1111/jgs.70801",
+        "title": "Accounting for Competing Events in Longitudinal Studies of Geriatric Outcomes",
+        "authors": [
+          "Margaret M. Doyle",
+          "Thomas M. Gill"
+        ],
+        "abstract": "ABSTRACT                                        Background                                            In time‐to‐event analyses of geriatric outcomes, competing events such as mortality are common but are often handled inappropriately, leading to biased risk estimates and potentially incorrect inferences. We present a case study illustrating the consequences of failing to account for competing events and review how such analyses are conducted in recent                       JAGS                       publications.                                                                                Methods                                            For the case study, we analyzed data from the Precipitating Events Project to estimate the risk and rate of two geriatric outcomes—injurious falls and restricted activity—using methods that appropriately account for competing events and, for comparison, methods that assume competing events are absent. For the literature review, we searched PubMed for eligible                       JAGS                       articles in 2024 and assessed whether and how competing events were addressed in analyses of risk and rate.                                                                                Results                     In the case study, we demonstrate that methods that failed to account for competing events produce inflated estimates of risk and potentially misleading differences across strata of independent variables. Also, when competing events are present, the statistical significance of the association between an independent variable and outcome rate and risk, respectively, was not consistently concordant. In the literature review, only 47% of articles reported analyses of both risk and rate, and terminology used to describe risk analyses often limited interpretation.                                                           Conclusions                     Failure to properly account for competing events in longitudinal studies of geriatric outcomes can result in biased risk estimates and incorrect inferences. Clearer reporting of time‐to‐event analyses would strengthen the rigor and interpretability of scientific reports in the geriatric literature.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-10-24",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-25",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08527-y",
+        "doi": "10.1186/s12877-026-08527-y",
+        "url": "https://doi.org/10.1186/s12877-026-08527-y",
+        "title": "Hip fracture burden and projected incidence among older adults in China to 2035: a GBD 2023 modelling study with exploratory hospital case-mix comparison",
+        "authors": [
+          "Zeqian Zhang",
+          "Jinxian Zhao",
+          "Jiamin Lei",
+          "Shuping Yu",
+          "Shuxian Chen",
+          "Yumei Chen",
+          "Chaohong Li"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-24",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-25",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08574-5",
+        "doi": "10.1186/s12877-026-08574-5",
+        "url": "https://doi.org/10.1186/s12877-026-08574-5",
+        "title": "Evaluation of emotional eating and selected cardiometabolic risk indicators among hospitalized older adults: a cross-sectional study",
+        "authors": [
+          "Makbule Beril Umur",
+          "Zeynep Sofuoglu",
+          "Mehmet Eyuboglu"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-24",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-25",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08562-9",
+        "doi": "10.1186/s12877-026-08562-9",
+        "url": "https://doi.org/10.1186/s12877-026-08562-9",
+        "title": "Heterogeneous obesity phenotypes and late-life health in China",
+        "authors": [
+          "Kai Zhang",
+          "Zhongyu Zhao",
+          "Jie Li",
+          "Mingxuan Gong",
+          "Xutong Yao",
+          "Wenzhao Liang",
+          "Jing Mang"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-24",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-25",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1186/s12877-026-08534-z",
         "doi": "10.1186/s12877-026-08534-z",
         "url": "https://doi.org/10.1186/s12877-026-08534-z",
@@ -41455,6 +41578,219 @@
         "fetched_from": "crossref"
       },
       {
+        "id": "doi:10.1001/jama.2026.22329",
+        "doi": "10.1001/jama.2026.22329",
+        "url": "https://doi.org/10.1001/jama.2026.22329",
+        "title": "Increased Hemoglobin With Sodium-Glucose Transporter 2 Inhibitors—A Consistent Extra Benefit?",
+        "authors": [
+          "Kai-Uwe Eckardt",
+          "Mark J. Koury"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-24",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-25",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.19921",
+        "doi": "10.1001/jama.2026.19921",
+        "url": "https://doi.org/10.1001/jama.2026.19921",
+        "title": "Sodium-Glucose Cotransporter 2 Inhibitor Use and Levels of Hemoglobin, Markers of Iron Metabolism, and Erythropoiesis",
+        "authors": [
+          "Yaqin Yang",
+          "Changyuan Yang",
+          "Yanmei Wang",
+          "Pien Rawee",
+          "Aleix Cases",
+          "David E. Leaf",
+          "Lucia del Vecchio",
+          "Taulant Muka",
+          "Hiddo J. L. Heerspink",
+          "Ron T. Gansevoort",
+          "Michele F. Eisenga"
+        ],
+        "abstract": "Importance                     In randomized clinical trials, sodium-glucose cotransporter 2 (SGLT2) inhibitor use was associated with increased hemoglobin and hematocrit compared with placebo. However, the magnitude and importance of this association remain unclear.                                                           Objective                     To evaluate the associations between SGLT2 inhibitor use and levels of hemoglobin, hematocrit, and markers of iron metabolism and erythropoiesis compared with placebo or active comparator.                                                           Data Sources                     PubMed, Web of Science, and the Cochrane Central Register of Controlled Trials (CENTRAL) were searched from inception to July 22, 2026.                                                           Study Selection                     Randomized, double-masked clinical trials comparing SGLT2 inhibitor use with placebo or active comparators in patients with 1 or more of the following conditions: cardiovascular disease, diabetes, heart failure, and chronic kidney disease.                                                           Data Extraction and Synthesis                     Three reviewers independently extracted data and results were pooled using random-effects meta-analysis.                                                           Main Outcomes and Measures                     Primary outcomes were changes in hemoglobin and hematocrit. Secondary outcomes were changes in red blood cell concentration, erythropoietin (EPO), and iron measures (serum iron, ferritin, transferrin saturation, and hepcidin).                                                           Results                                            A total of 85 randomized clinical trials were analyzed (median [IQR] duration, 24 [12-32] weeks), including 70 543 participants (mean [SD] age, 62.4 [9.4] years; 25 334 female [35.9%]). Mean (SD) baseline hemoglobin was 13.6 (1.5) g/dL; baseline hematocrit was 41.5% (4.9). Seventy-eight clinical trials (67 208 participants) compared SGLT2 inhibitors with placebo, and 7 clinical trials (3335 participants) used active comparators, most commonly sitagliptin (2 trials [1158 participants]). From baseline to follow-up, hemoglobin changed by 0.55 g/dL (95% CI, 0.49 to 0.61 g/dL;                       P                        &amp;amp;lt; .001) in the SGLT2 inhibitor group, and −0.08 g/dL (95% CI, −0.13 to −0.03 g/dL;                       P                        = .003) in the control group (difference, 0.60 g/dL; 95% CI, 0.55 to 0.66 g/dL;                       P                        &amp;amp;lt; .001). From baseline to follow-up, hematocrit changed by 2.17% (95% CI, 1.95% to 2.39%;                       P                        &amp;amp;lt; .001) in the SGLT2 inhibitor group and −0.13% (95% CI, −0.28% to 0.01%;                       P                        = .07) in the control group (difference, 2.36%; 95% CI, 2.19% to 2.52%;                       P                        &amp;amp;lt; .001). Of the 6 secondary outcomes, 4 showed significant associations with SGLT2 inhibitors, including increased EPO (2.35 mIU/mL in SGLT2 inhibitor group vs 0.04 mIU/mL in control group; difference, 2.11 mIU/mL [95% CI, 0.5-3.71 mIU/mL];                       P                        = .01) and decreased transferrin saturation (−2.2% in SGLT2 inhibitor group vs −0.10% in control group; difference, −0.84% [95% CI, −1.21% to −0.47%];                       P                        &amp;amp;lt; .001).                                                                                Conclusions and Relevance                     In a meta-analysis of randomized clinical trials, compared with control, SGLT2 inhibitor use was associated with small statistically significant increases in hemoglobin and hematocrit levels. The clinical significance of these findings is unclear.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-24",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-25",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmicm2609683",
+        "doi": "10.1056/nejmicm2609683",
+        "url": "https://doi.org/10.1056/nejmicm2609683",
+        "title": "Thelaziasis",
+        "authors": [
+          "Ji Eun Song",
+          "Kyuseong Jo"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-10-24",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-25",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmp2605919",
+        "doi": "10.1056/nejmp2605919",
+        "url": "https://doi.org/10.1056/nejmp2605919",
+        "title": "My Father’s Code",
+        "authors": [
+          "Netana Markovitz"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-10-24",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-25",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmp2607323",
+        "doi": "10.1056/nejmp2607323",
+        "url": "https://doi.org/10.1056/nejmp2607323",
+        "title": "Abortion Care in Puerto Rico — A Fragile Legal Landscape",
+        "authors": [
+          "Valeria C. Toro Diaz",
+          "Kristyn Brandi",
+          "Yari Vale Moreno"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-10-24",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-25",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmp2609972",
+        "doi": "10.1056/nejmp2609972",
+        "url": "https://doi.org/10.1056/nejmp2609972",
+        "title": "The Future of Health Agency Enforcement Fines",
+        "authors": [
+          "Anjali D. Deshmukh",
+          "Joan H. Krause"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-10-24",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-25",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmoa2609482",
+        "doi": "10.1056/nejmoa2609482",
+        "url": "https://doi.org/10.1056/nejmoa2609482",
+        "title": "Tarlatamab–Durvalumab Maintenance for Extensive-Stage Small-Cell Lung Cancer",
+        "authors": [
+          "Maurice Pérol",
+          "Tatsuya Yoshida",
+          "Myung-Ju Ahn",
+          "Carl M. Gay",
+          "Martin Schuler",
+          "Haifeng Liu",
+          "Ahmet Sezer",
+          "Ahmet Bilici",
+          "Ippokratis Korantzis",
+          "Sun Min Lim",
+          "Kohei Otsubo",
+          "Oscar Juan-Vidal",
+          "Yuanbin Chen",
+          "Gustavo Schvartsman",
+          "Haiyong Wang",
+          "Anne-Marie C. Dingemans",
+          "Jeffrey M. Clarke",
+          "Aakash Desai",
+          "Miguel Marigil",
+          "Yuqi Chen",
+          "Bazle Abidi",
+          "Jessie Wang",
+          "Jacob Sands"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-10-24",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-25",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmoa2608323",
+        "doi": "10.1056/nejmoa2608323",
+        "url": "https://doi.org/10.1056/nejmoa2608323",
+        "title": "Durvalumab, Tremelimumab, and Enfortumab Vedotin in Muscle-Invasive Bladder Cancer",
+        "authors": [
+          "Thomas Powles",
+          "Enrique Grande",
+          "Giuseppe Simone",
+          "Alfonso Gómez de Liaño",
+          "Marco Maruzzo",
+          "Pedro Isaacsson Velho",
+          "Eiji Kikuchi",
+          "Toan Quang Vu",
+          "Lazar Popovic",
+          "Timuçin Çil",
+          "Gwenaelle Gravis",
+          "Robert Radkowski",
+          "Luis Raúl Novelo Hernández",
+          "Hernán Javier Cutuli",
+          "Aristotelis Bamias",
+          "Thomas Bauernhofer",
+          "Michel Pavic",
+          "Yoon Ji Choi",
+          "Chao-Hsiang Chang",
+          "Hiroshi Kitamura",
+          "Jonathan E. Rosenberg",
+          "Jacqui Rowbottom",
+          "Svetlana Ho",
+          "Ashok Gupta",
+          "Alexandra Drakaki"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-10-24",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-25",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1001/jama.2026.21372",
         "doi": "10.1001/jama.2026.21372",
         "url": "https://doi.org/10.1001/jama.2026.21372",
@@ -42041,6 +42377,85 @@
           "healthReform"
         ],
         "firstSeen": "2026-10-24",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmoa2610345",
+        "doi": "10.1056/nejmoa2610345",
+        "url": "https://doi.org/10.1056/nejmoa2610345",
+        "title": "Anbenitamab plus HB1801 for HER2-Positive Advanced Breast Cancer",
+        "authors": [
+          "Jiayu Wang",
+          "Huiping Li",
+          "Fei Xu",
+          "Tao Wu",
+          "Zhongsheng Tong",
+          "Jiuwei Cui",
+          "Xujuan Wang",
+          "Zhenchuan Song",
+          "Tao Sun",
+          "Huihui Li",
+          "Weimin Xie",
+          "Jing Sun",
+          "Xueying Zhang",
+          "Yuee Teng",
+          "Xiaoping Li",
+          "Jinhai Zhu",
+          "Ting Luo",
+          "Bing Zhao",
+          "Fangling Ning",
+          "Chunwei Xie",
+          "Lu Gan",
+          "Guobing Yin",
+          "Yang Li",
+          "Chunxiu Yuan",
+          "Wei You",
+          "Zhiyong Wu",
+          "Qiang Liu",
+          "Xiangshun Kong",
+          "Jianying Chang",
+          "Jiuda Zhao",
+          "Zhenhua Zhai",
+          "Quchang Ouyang",
+          "Xinghua Han",
+          "Fanfan Li",
+          "Jianyun Nie",
+          "Guohui Han",
+          "Chongsheng Xia",
+          "Wei Huang",
+          "Silong Xiang",
+          "Kai Zou",
+          "Yulei Wang",
+          "Binghe Xu"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-10-23",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-25",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejme2611466",
+        "doi": "10.1056/nejme2611466",
+        "url": "https://doi.org/10.1056/nejme2611466",
+        "title": "Targeting HER2 — A Triumph of Science",
+        "authors": [
+          "Sandra M. Swain"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-10-23",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-25",
         "fetched_from": "crossref"
       },
       {
@@ -70266,6 +70681,263 @@
         "fetched_from": "crossref"
       },
       {
+        "id": "doi:10.1093/gerona/glag252",
+        "doi": "10.1093/gerona/glag252",
+        "url": "https://doi.org/10.1093/gerona/glag252",
+        "title": "Epigenetic aging in people with HIV across the life course: a systematic review and meta-analysis",
+        "authors": [
+          "Carolyn Kinkade",
+          "Ashley Wimbish",
+          "Amudha Senthilkumar",
+          "Modupe O Coker",
+          "Lan Luo",
+          "Michael T Yin",
+          "Louise Kuhn",
+          "Michael J Corley",
+          "Stephanie Shiau"
+        ],
+        "abstract": "Abstract                   Epigenetic aging algorithms are emerging tools for understanding the biological effects of human immunodeficiency virus (HIV). A growing body of literature has applied DNA methylation-based epigenetic clocks in people living with HIV (PWH) across the life course, examining epigenetic age acceleration (EAA) in relation to HIV infection, antiretroviral therapy (ART), comorbidities, and clinical biomarkers (e.g., viral load, CD4 T-cell counts). This systematic review (Prospero: CRD420251126874) summarizes and synthesizes the current evidence on epigenetic aging in PWH across the life course and identifies critical knowledge gaps for future research. We searched PubMed, Scopus, and Medline through June 26, 2026. The review followed PRISMA guidelines and assessed studies for risk of bias using the Newcastle-Ottawa Scale. We created a narrative synthesis of results and performed a random-effects meta-analysis of HorvathAge EAA. Fifty-five studies met the inclusion criteria. More than half (n = 33) examined EAA in PWH compared to an uninfected control population. We identified heterogeneity in study populations and design, biospecimens profiled, platforms used for DNA methylation analysis, and epigenetic clocks employed. Only 6 studies included participants younger than 18 years and no studies focused exclusively on individuals over 65 years. Only 10 studies examined longitudinal changes in EAA. Thirty-seven papers evaluated associations between EAA and comorbidities. A meta-analysis of HorvathAge EAA across 14 studies found a mean difference of 3.41 years (95%CI 2.22, 4.60) in PWH relative to controls. Current evidence supports accelerated EAA among PWH but highlights substantial methodological heterogeneity and important knowledge gaps. Longitudinal studies of EAA in PWH are needed in populations under 18 and over 65, to clarify the effects of ART, clinical biomarkers, and age-related comorbidities, and determine the clinical utility of epigenetic aging biomarkers.",
+        "source": "The Journals of Gerontology, Series A: Biological Sciences and Medical Sciences",
+        "issn": "1079-5006",
+        "date": "2026-10-24",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "elderCare"
+        ],
+        "firstSeen": "2026-10-25",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70801",
+        "doi": "10.1111/jgs.70801",
+        "url": "https://doi.org/10.1111/jgs.70801",
+        "title": "Accounting for Competing Events in Longitudinal Studies of Geriatric Outcomes",
+        "authors": [
+          "Margaret M. Doyle",
+          "Thomas M. Gill"
+        ],
+        "abstract": "ABSTRACT                                        Background                                            In time‐to‐event analyses of geriatric outcomes, competing events such as mortality are common but are often handled inappropriately, leading to biased risk estimates and potentially incorrect inferences. We present a case study illustrating the consequences of failing to account for competing events and review how such analyses are conducted in recent                       JAGS                       publications.                                                                                Methods                                            For the case study, we analyzed data from the Precipitating Events Project to estimate the risk and rate of two geriatric outcomes—injurious falls and restricted activity—using methods that appropriately account for competing events and, for comparison, methods that assume competing events are absent. For the literature review, we searched PubMed for eligible                       JAGS                       articles in 2024 and assessed whether and how competing events were addressed in analyses of risk and rate.                                                                                Results                     In the case study, we demonstrate that methods that failed to account for competing events produce inflated estimates of risk and potentially misleading differences across strata of independent variables. Also, when competing events are present, the statistical significance of the association between an independent variable and outcome rate and risk, respectively, was not consistently concordant. In the literature review, only 47% of articles reported analyses of both risk and rate, and terminology used to describe risk analyses often limited interpretation.                                                           Conclusions                     Failure to properly account for competing events in longitudinal studies of geriatric outcomes can result in biased risk estimates and incorrect inferences. Clearer reporting of time‐to‐event analyses would strengthen the rigor and interpretability of scientific reports in the geriatric literature.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-10-24",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-25",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08527-y",
+        "doi": "10.1186/s12877-026-08527-y",
+        "url": "https://doi.org/10.1186/s12877-026-08527-y",
+        "title": "Hip fracture burden and projected incidence among older adults in China to 2035: a GBD 2023 modelling study with exploratory hospital case-mix comparison",
+        "authors": [
+          "Zeqian Zhang",
+          "Jinxian Zhao",
+          "Jiamin Lei",
+          "Shuping Yu",
+          "Shuxian Chen",
+          "Yumei Chen",
+          "Chaohong Li"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-24",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-25",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08574-5",
+        "doi": "10.1186/s12877-026-08574-5",
+        "url": "https://doi.org/10.1186/s12877-026-08574-5",
+        "title": "Evaluation of emotional eating and selected cardiometabolic risk indicators among hospitalized older adults: a cross-sectional study",
+        "authors": [
+          "Makbule Beril Umur",
+          "Zeynep Sofuoglu",
+          "Mehmet Eyuboglu"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-24",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-25",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08562-9",
+        "doi": "10.1186/s12877-026-08562-9",
+        "url": "https://doi.org/10.1186/s12877-026-08562-9",
+        "title": "Heterogeneous obesity phenotypes and late-life health in China",
+        "authors": [
+          "Kai Zhang",
+          "Zhongyu Zhao",
+          "Jie Li",
+          "Mingxuan Gong",
+          "Xutong Yao",
+          "Wenzhao Liang",
+          "Jing Mang"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-24",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-25",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261499670",
+        "doi": "10.1177/13872877261499670",
+        "url": "https://doi.org/10.1177/13872877261499670",
+        "title": "Physical activity and brain aging in Sub-Saharan Africa: A scoping review of observational studies",
+        "authors": [
+          "Muluken A. Yenesew",
+          "Janina Krell-Roesch",
+          "Aklilu Endalamaw",
+          "Genet Gedamu",
+          "Yonatan Menber",
+          "Dabere Nigatu",
+          "Alemtsehay Mekonnen",
+          "Mulugeta Biyadgie",
+          "Daniel A. Enquobahrie",
+          "Tesfaye B. Mersha",
+          "James G. Kahn",
+          "Danielle E. Eagan",
+          "Yug Jitendra Mistry",
+          "Mintesnot Tenkir Teni",
+          "Alexander Woll",
+          "Mawuli Lawson",
+          "Emilie V. Brotherhood",
+          "Elena Tsoy",
+          "Victor Valcour",
+          "Bruce Miller",
+          "Yonas E. Geda"
+        ],
+        "abstract": "Physical activity may delay cognitive decline, but evidence from Sub-Saharan Africa (SSA) remains limited. This review summarizes findings on associations between physical (in)activity and brain aging in SSA, identifies research gaps and limitations, and proposes steps to strengthen research capacity. We searched five databases including PubMed using pertinent keywords. Observational studies conducted in SSA that examined physical (in)activity or related variables such as exercise as predictors and brain aging outcomes such as cognitive impairment or dementia were included. The review followed the PRISMA-ScR guidelines. Of 10,880 identified records, 19 studies met the inclusion criteria (18 cross-sectional, 1 longitudinal). Sample sizes ranged from 70 to 5,011 participants. Studies varied in design and assessment of exposures and outcomes. Seven studies reported associations between physical inactivity or lower physical activity levels and less favourable brain aging outcomes, including increased risk of cognitive impairment. Three studies found associations between higher physical activity or physical function and more favourable brain aging outcomes. Nine studies reported no associations between physical (in)activity and brain aging. Overall, the limited number of available studies, most of which were cross-sectional, leaves major gaps in understanding the role of physical (in)activity in brain aging across SSA. The evidence base is methodologically heterogeneous, with inconsistent assessment methods, limited consideration of contextual factors, and lack of longitudinal data, precluding conclusions regarding causality. This highlights the need for longitudinal research within a coordinated research ecosystem in SSA to generate robust evidence that can inform policy and support healthy brain aging across the region.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-10-24",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-25",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261499735",
+        "doi": "10.1177/13872877261499735",
+        "url": "https://doi.org/10.1177/13872877261499735",
+        "title": "Neuroprotective potential of woohwangchungsimwon for dementia and mild cognitive impairment: Its key components, compounds, and bioactivities",
+        "authors": [
+          "Yoonho Jeong",
+          "YeJin Sa",
+          "SoHee Park",
+          "Junwoo Park",
+          "Jeong-Min Lee",
+          "ChanYoung Han",
+          "Junghyun Kwon",
+          "Byung Soo Koo",
+          "Hyung-Kyoon Choi"
+        ],
+        "abstract": "Dementia is a progressive neurodegenerative disorder characterized by cognitive decline that compromises daily functioning, with Alzheimer's disease (AD) representing its most prevalent form. Mild cognitive impairment (MCI) represents a prodromal stage of AD and provides an important window for early intervention. Woohwangchungsimwon (WCW) is a multicomponent natural medicinal formulation historically used to promote cardiovascular and neurological stability and to alleviate excessive heat and phlegm. This review evaluated the potential of WCW to ameliorate symptoms associated with dementia and MCI. A narrative review of experimental and pharmacological studies was conducted to examine the bioactive compounds, bioactivities, mechanisms, and reported outcomes of eight key natural medicinal components of WCW: Angelicae Gigantis Radix, Calculus Bovis, Cinnamomi Cortex, Dioscoreae Rhizoma, Ginseng Radix, Glycyrrhizae Radix, Hoelen and Zingiberis Rhizoma, which possess neuroprotective, anti-inflammatory and antioxidant activities. Although current evidence regarding WCW and its active components is derived predominantly from preclinical models and studies conducted within broader neurological contexts, its multicomponent nature suggests significant potential for targeting multiple pathological processes relevant to dementia and MCI. Well-designed clinical trials are now needed to clarify the therapeutic efficacy and safety of WCW in patients with cognitive impairment.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-10-24",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-25",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261500635",
+        "doi": "10.1177/13872877261500635",
+        "url": "https://doi.org/10.1177/13872877261500635",
+        "title": "Sex differences in exercise-induced pro-inflammatory cytokine responses relevant to Alzheimer's disease: A systematic review and meta-analysis",
+        "authors": [
+          "Hyuck Lee",
+          "Ki-Woong Noh",
+          "Jun-Young Sung",
+          "Eun-Hui Jin",
+          "Ji-Hang Lee",
+          "Sok Park"
+        ],
+        "abstract": "Background                     Chronic inflammation contributes to the pathogenesis of Alzheimer's disease (AD), and physical exercise is a promising nonpharmacological strategy for modulating systemic inflammatory responses. However, evidence regarding sex- and exercise type–specific effects on AD-related pro-inflammatory cytokines remains fragmented.                                                           Objective                     To quantitatively synthesize evidence on sex differences in inflammatory cytokine responses relevant to AD according to exercise type, focusing on tumor necrosis factor-α (TNF-α), interleukin-6 (IL-6), and interleukin-1β (IL-1β).                                                           Methods                     A systematic search identified randomized controlled trials (RCTs) examining the effects of aerobic exercise (AE), resistance exercise (RE), and combined exercise (CE) on circulating cytokines in adult men and women. Percentage changes from pre- to post-intervention were extracted and pooled using random-effects meta-analyses. Subgroup analyses were conducted by sex, exercise type, cytokine, and menopausal status.                                                           Results                     Thirty-two RCTs involving approximately 1200 participants were included. TNF-α showed the most consistent response, with significant reductions after AE and CE in both sexes, whereas RE reduced TNF-α primarily in women. IL-6 decreased across exercise type–dependent modalities, with the largest reductions following AE and no consistent sex-specific differences. Effects on IL-1β were limited and largely nonsignificant across exercise types.                                                           Conclusions                     Exercise-induced modulation of inflammatory cytokines relevant to AD is cytokine-specific and exercise type–dependent, with additional influence from biological sex. TNF-α appears most responsive to exercise, supporting AE and CE as potential strategies to mitigate systemic inflammation associated with AD risk. Further trials are needed to clarify sex-specific mechanisms and the clinical relevance of exercise-induced inflammatory modulation across the AD continuum.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-10-24",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-25",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261500770",
+        "doi": "10.1177/13872877261500770",
+        "url": "https://doi.org/10.1177/13872877261500770",
+        "title": "Diabetes mellitus accelerates preclinical Alzheimer's disease progression by amplifying the amyloid-to-tau pathway and attenuating brain-cognition resilience",
+        "authors": [
+          "Hui Jin",
+          "Yu Meng"
+        ],
+        "abstract": "Background                     Diabetes mellitus (DM) is a risk factor for Alzheimer's disease (AD), but its stage-dependent effects on the ATN framework remain unclear.                                                           Objective                     To determine whether DM differentially affects clinical progression from cognitively normal (CN) to mild cognitive impairment (MCI) versus MCI to AD, how DM modulates the ATN cascade, and the optimal follow-up for detecting structural-cognitive changes.                                                           Methods                     We analyzed longitudinal data from 1638 ADNI participants (765 CN, 71 with DM; 873 MCI, 91 with DM). Clinical progression was assessed by Cox regression. Annualized slopes of ATN biomarkers and cognition were estimated. Moderation analyses tested DM × predictor interactions on A→T (amyloid→tau) and N→C (neurodegeneration→cognition) pathways with FDR correction. Piecewise linear mixed models identified the optimal knot for structural-cognitive coupling.                                                           Results                     DM increased CN-to-MCI risk (adjusted HR = 1.73, p = 0.028) but not MCI-to-AD progression (adjusted HR = 1.10, p = 0.574). In CN, DM amplified amyloid-driven tau accumulation in entorhinal cortex (A→T interaction β = 0.77, FDR p = 0.043) and attenuated the protective effect of hippocampal volume on cognition (e.g., hippocampal volume slope × DM on MMSE slope: β = −0.19, FDR p = 0.031). These effects were absent in MCI (all FDR p &gt; 0.05). A 36-month follow-up was the optimal window for detecting robust structural-cognitive coupling in the CN cohort, independent of DM status.                                                           Conclusions                     Diabetes accelerates preclinical AD by amplifying A→T and eroding structural-cognitive resilience, but does not hasten progression from established MCI to AD. A minimum 36-month observation period is recommended for early-phase prevention trials.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-10-24",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-25",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261499707",
+        "doi": "10.1177/13872877261499707",
+        "url": "https://doi.org/10.1177/13872877261499707",
+        "title": "Neurotrophic regulation of lipid metabolism in Alzheimer's disease: Mechanisms and therapeutic implications",
+        "authors": [
+          "Dongyao Fan",
+          "Weijie Zhai",
+          "Qi Zhang",
+          "Jiaqi Li",
+          "Yixuan Wang",
+          "Li Sun"
+        ],
+        "abstract": "Background                     Alzheimer's disease (AD) is a progressive neurodegenerative disorder in which lipid metabolic dysregulation is increasingly recognized as an important contributor to pathogenesis. Neurotrophic factors (NTFs), beyond their established roles in neuronal survival and synaptic plasticity, may also regulate lipid metabolism.                                                           Objective                     To summarize current evidence on lipid metabolic dysregulation in AD and evaluate the potential roles of major NTFs in regulating lipid homeostasis.                                                           Methods                     Experimental, clinical, and translational studies addressing lipid metabolism, neurotrophic signaling, and their interactions in AD were reviewed, focusing on cholesterol, sphingolipid, and fatty acid metabolism and on BDNF, NGF, GDNF, CNTF, and Nrn1.                                                           Results                     Disturbances in cholesterol transport, sphingolipid and fatty acid metabolism, and high-density lipoprotein function may promote AD pathology by affecting membrane organization, synaptic plasticity, oxidative stress, insulin signaling, and amyloid-β and tau metabolism. BDNF, NGF, GDNF, CNTF, and Nrn1 may influence lipid-related processes through pathways including PI3K/Akt, AMPK, MAPK, and STAT3. However, evidence strength varies substantially among NTFs, and many proposed interactions are supported mainly by cellular, animal, or non-AD models.                                                           Conclusions                     Neurotrophic signaling and lipid metabolism may form an interconnected regulatory network relevant to AD pathophysiology. This concept may support future biomarker and therapeutic research, but it should currently be regarded as a hypothesis-generating framework requiring direct validation in human AD and well-characterized AD models.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-10-24",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-25",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1186/s12877-026-08534-z",
         "doi": "10.1186/s12877-026-08534-z",
         "url": "https://doi.org/10.1186/s12877-026-08534-z",
@@ -95235,6 +95907,28 @@
     ],
     "socialWork": [
       {
+        "id": "doi:10.1007/s10896-026-01196-w",
+        "doi": "10.1007/s10896-026-01196-w",
+        "url": "https://doi.org/10.1007/s10896-026-01196-w",
+        "title": "Analysis of Differences in Trauma, Appraisals, and Coping in Maternal Physical Abuse and Neglect: A Brief Report",
+        "authors": [
+          "Adrienne Whitt",
+          "Jessica G. Eslinger",
+          "Ginny Sprang",
+          "Stephanie Gusler"
+        ],
+        "abstract": "",
+        "source": "Journal of Family Violence",
+        "issn": "0885-7482",
+        "date": "2026-10-24",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-25",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1177/14680173261478725",
         "doi": "10.1177/14680173261478725",
         "url": "https://doi.org/10.1177/14680173261478725",
@@ -102846,10 +103540,10 @@
   },
   "totals": {
     "socialSecurity": 1575,
-    "elderCare": 678,
-    "healthReform": 1065,
-    "agingHealth": 998,
-    "socialWork": 338
+    "elderCare": 683,
+    "healthReform": 1075,
+    "agingHealth": 1008,
+    "socialWork": 339
   },
   "feeds_ok": 41
 }
