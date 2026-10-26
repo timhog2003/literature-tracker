@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-25",
-  "fetched": "2026-10-25T06:26:50+00:00",
+  "date": "2026-10-26",
+  "fetched": "2026-10-26T06:36:16+00:00",
   "domains": {
     "socialSecurity": [
       {
@@ -24329,6 +24329,83 @@
     ],
     "elderCare": [
       {
+        "id": "doi:10.1186/s12877-026-08395-6",
+        "doi": "10.1186/s12877-026-08395-6",
+        "url": "https://doi.org/10.1186/s12877-026-08395-6",
+        "title": "Personalized digital remote monitoring for older patients: multicentric RCT study protocol–EPOCARE",
+        "authors": [
+          "Israa Salma",
+          "Damien Testa",
+          "Jacky-vivien Mpoy",
+          "Cedric Annweiler",
+          "Elise Cabanes",
+          "Henri Leleu",
+          "Etienne Milnvielle"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-26",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-26",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08568-3",
+        "doi": "10.1186/s12877-026-08568-3",
+        "url": "https://doi.org/10.1186/s12877-026-08568-3",
+        "title": "Navigating catastrophic airway hemorrhage and cardiac arrest during bronchoscopy in an octogenarian with AECOPD: a critical care nursing case study",
+        "authors": [
+          "Fengjuan Wang",
+          "Huifen Tong",
+          "Limei Gao",
+          "Gantang Zhang"
+        ],
+        "abstract": "Abstract                                        Background                     Bronchoscopic biopsy in elderly patients with Acute Exacerbation of Chronic Obstructive Pulmonary Disease (AECOPD) presents high procedural risks. This case study analyzes the critical care nursing trajectory of an 76-year-old patient who survived a massive endobronchial hemorrhage and subsequent in-hospital cardiac arrest (IHCA) during an interventional procedure.                                                           Resentation                     An 76-year-old male with severe COPD (FEV1 40% predicted) and hypertension underwent diagnostic bronchoscopy. Immediately following mucosal biopsy, the patient developed massive hemorrhage (approx. 300 mL), leading to acute asphyxia and pulseless electrical activity (PEA). The critical care nursing team initiated a rapid response, facilitating emergency tracheal intubation and localized hemostasis using epinephrine irrigation. Return of spontaneous circulation (ROSC) was achieved after 6 min of advanced life support.                                                           Nursing interventions                                            The nursing management focused on three critical phases: (1) Crisis Resource Management (CRM): utilizing rapid situational awareness to clear the airway and coordinate multidisciplinary resuscitation; (2) Post-ROSC Stabilization: implementing lung-protective ventilation and precise cuff pressure titration (25–30 cmH                       2                       O) to prevent re-bleeding and ventilator-associated complications; and (3) Secondary Prevention: managing the delicate balance between necessary anticoagulation for cardiovascular comorbidities and the risk of recurrent pulmonary hemorrhage during the recovery phase.                                                                                Conclusion                     This case report documents the successful resuscitation of an 76-year-old male with severe AECOPD (FEV1 40% predicted) who developed massive endobronchial hemorrhage (~ 300 mL) and in-hospital cardiac arrest (pulseless electrical activity) during diagnostic bronchoscopy. Detailed preoperative risk stratification, intraoperative crisis resource management, and post-ROSC intensive care nursing interventions are described and analyzed. A comprehensive geriatric assessment, complete resuscitation parameters, functional outcomes, and a comparative discussion with existing literature on bronchoscopy-related airway hemorrhage are provided. A nine-phase nursing decision-making framework for high-risk bronchoscopy in elderly AECOPD patients is proposed. This report highlights the critical role of nursing-led situational awareness, structured crisis management, and dynamic hemodynamic titration in navigating catastrophic cardiopulmonary events in high-risk elderly populations.                                                           Clinical trial number                     not applicable.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-26",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-26",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08408-4",
+        "doi": "10.1186/s12877-026-08408-4",
+        "url": "https://doi.org/10.1186/s12877-026-08408-4",
+        "title": "Time to first rescue opioid analgesia after perineural versus intravenous dexamethasone for PENG block in older adults undergoing total hip arthroplasty: a randomized double-blind trial",
+        "authors": [
+          "Tomasz Reysner",
+          "Bahadir Ciftci",
+          "Katarzyna Wieczorowska-Tobis",
+          "Anna Perek",
+          "Justyna Marszałek–Buko",
+          "Pawel Pietraszek",
+          "Agnieszka Neumann-Podczaska",
+          "Aleksander Mularski",
+          "Malgorzata Reysner"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-26",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-26",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1186/s12877-026-08528-x",
         "doi": "10.1186/s12877-026-08528-x",
         "url": "https://doi.org/10.1186/s12877-026-08528-x",
@@ -41575,6 +41652,185 @@
           "healthReform"
         ],
         "firstSeen": "2026-09-26",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmoa2611280",
+        "doi": "10.1056/nejmoa2611280",
+        "url": "https://doi.org/10.1056/nejmoa2611280",
+        "title": "Sacituzumab Tirumotecan plus Pembrolizumab in PD-L1–Negative Advanced NSCLC",
+        "authors": [
+          "Fei Zhou",
+          "Xiangjiao Meng",
+          "Qingqing Ding",
+          "Peng Zhang",
+          "Wenhua Liang",
+          "Sanxing Guo",
+          "Yan Yu",
+          "Wenxiu Yao",
+          "Yun Fan",
+          "Xingxiang Pu",
+          "Chunling Liu",
+          "Jiuwei Cui",
+          "Peng Chen",
+          "Hua Zhong",
+          "Yongsheng Wang",
+          "Zhangzhou Huang",
+          "Zhi Xu",
+          "Xiaorong Dong",
+          "Tienan Yi",
+          "Ying Hu",
+          "Qiming Wang",
+          "Bolin Chen",
+          "Hui Wang",
+          "Longhua Sun",
+          "Lang He",
+          "Wei Zheng",
+          "Yina Wang",
+          "Xiaochen Zhang",
+          "Yu Yao",
+          "Yongsheng Li",
+          "Zhe Yang",
+          "Feng Ye",
+          "Xia Song",
+          "Ming Zhou",
+          "Li Yin",
+          "Yan Qing",
+          "Xiaoping Jin",
+          "Junyou Ge",
+          "Caicun Zhou"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-10-25",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-26",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmoa2611335",
+        "doi": "10.1056/nejmoa2611335",
+        "url": "https://doi.org/10.1056/nejmoa2611335",
+        "title": "Osimertinib–Savolitinib in Advanced NSCLC after Progression during EGFR-TKI Therapy",
+        "authors": [
+          "Shun Lu",
+          "Nicolas Girard",
+          "James Chih-Hsin Yang",
+          "Frances A. Shepherd",
+          "Xiaorong Dong",
+          "Surein Arulananda",
+          "Giulio Metro",
+          "Hidetoshi Hayashi",
+          "Laura Bonanno",
+          "Yu Jung Kim",
+          "Zhe Liu",
+          "Myung-Ju Ahn",
+          "Yuping Sun",
+          "Thuong Vu Le",
+          "Silvia Novello",
+          "Sang-We Kim",
+          "Yanqiu Zhao",
+          "Phuong Nguyen",
+          "Mariana Brandão",
+          "Yongsheng Wang",
+          "Missak Haigentz",
+          "Daniel Misch",
+          "Mariano Provencio Pulla",
+          "Wen-Tsung Huang",
+          "Clarissa Baldotto",
+          "Marcelo Tatangelo",
+          "Colin R. Lindsay",
+          "Ryan J. Hartmaier",
+          "Rafal Lolo",
+          "Balakumar Swaminathan",
+          "Alexander Gont",
+          "Francis Maria Esposito",
+          "Yusuke Okuma"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-10-25",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-26",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmoa2605703",
+        "doi": "10.1056/nejmoa2605703",
+        "url": "https://doi.org/10.1056/nejmoa2605703",
+        "title": "Divarasib as Compared with Sotorasib or Adagrasib in\n                    <i>KRAS</i>\n                    G12C–Mutated NSCLC",
+        "authors": [
+          "Ferdinandos Skoulidis",
+          "Myung-Ju Ahn",
+          "Shirish Gadgeel",
+          "Sanjay Popat",
+          "Niels Reinmuth",
+          "Bianca van Veggel",
+          "Farastuk Bozorgmehr",
+          "Victoria J. Bray",
+          "Michael Duruisseaux",
+          "Wade T. Iams",
+          "Julien Mazieres",
+          "Laura Bonanno",
+          "Lore Decoster",
+          "Jiaxin Niu",
+          "Marcos Pantarotto",
+          "Carlos Henrique Andrade Teixeira",
+          "Sevim Uzun",
+          "Bo Wang",
+          "Bryan A. Chan",
+          "Enriqueta Felip",
+          "Molly S.C. Li",
+          "Hiroaki Akamatsu",
+          "Kristof Cuppens",
+          "Tae Min Kim",
+          "Martin Reck",
+          "Youyou Hu",
+          "Sarah M. Shagan",
+          "Mark T. Lin",
+          "Uyi Osaghae",
+          "Tien Hoang",
+          "Felice Wu",
+          "Raymond Meng",
+          "Michael S. Mathisen",
+          "Benjamin J. Solomon"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-10-25",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-26",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1007/s40273-026-01675-4",
+        "doi": "10.1007/s40273-026-01675-4",
+        "url": "https://doi.org/10.1007/s40273-026-01675-4",
+        "title": "Measuring the Health of Young Children",
+        "authors": [
+          "Daniel M. Hausman"
+        ],
+        "abstract": "",
+        "source": "PharmacoEconomics",
+        "issn": "1170-7690",
+        "date": "2026-10-25",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-26",
         "fetched_from": "crossref"
       },
       {
@@ -70654,6 +70910,83 @@
           "healthReform"
         ],
         "firstSeen": "2026-09-26",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08395-6",
+        "doi": "10.1186/s12877-026-08395-6",
+        "url": "https://doi.org/10.1186/s12877-026-08395-6",
+        "title": "Personalized digital remote monitoring for older patients: multicentric RCT study protocol–EPOCARE",
+        "authors": [
+          "Israa Salma",
+          "Damien Testa",
+          "Jacky-vivien Mpoy",
+          "Cedric Annweiler",
+          "Elise Cabanes",
+          "Henri Leleu",
+          "Etienne Milnvielle"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-26",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-26",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08568-3",
+        "doi": "10.1186/s12877-026-08568-3",
+        "url": "https://doi.org/10.1186/s12877-026-08568-3",
+        "title": "Navigating catastrophic airway hemorrhage and cardiac arrest during bronchoscopy in an octogenarian with AECOPD: a critical care nursing case study",
+        "authors": [
+          "Fengjuan Wang",
+          "Huifen Tong",
+          "Limei Gao",
+          "Gantang Zhang"
+        ],
+        "abstract": "Abstract                                        Background                     Bronchoscopic biopsy in elderly patients with Acute Exacerbation of Chronic Obstructive Pulmonary Disease (AECOPD) presents high procedural risks. This case study analyzes the critical care nursing trajectory of an 76-year-old patient who survived a massive endobronchial hemorrhage and subsequent in-hospital cardiac arrest (IHCA) during an interventional procedure.                                                           Resentation                     An 76-year-old male with severe COPD (FEV1 40% predicted) and hypertension underwent diagnostic bronchoscopy. Immediately following mucosal biopsy, the patient developed massive hemorrhage (approx. 300 mL), leading to acute asphyxia and pulseless electrical activity (PEA). The critical care nursing team initiated a rapid response, facilitating emergency tracheal intubation and localized hemostasis using epinephrine irrigation. Return of spontaneous circulation (ROSC) was achieved after 6 min of advanced life support.                                                           Nursing interventions                                            The nursing management focused on three critical phases: (1) Crisis Resource Management (CRM): utilizing rapid situational awareness to clear the airway and coordinate multidisciplinary resuscitation; (2) Post-ROSC Stabilization: implementing lung-protective ventilation and precise cuff pressure titration (25–30 cmH                       2                       O) to prevent re-bleeding and ventilator-associated complications; and (3) Secondary Prevention: managing the delicate balance between necessary anticoagulation for cardiovascular comorbidities and the risk of recurrent pulmonary hemorrhage during the recovery phase.                                                                                Conclusion                     This case report documents the successful resuscitation of an 76-year-old male with severe AECOPD (FEV1 40% predicted) who developed massive endobronchial hemorrhage (~ 300 mL) and in-hospital cardiac arrest (pulseless electrical activity) during diagnostic bronchoscopy. Detailed preoperative risk stratification, intraoperative crisis resource management, and post-ROSC intensive care nursing interventions are described and analyzed. A comprehensive geriatric assessment, complete resuscitation parameters, functional outcomes, and a comparative discussion with existing literature on bronchoscopy-related airway hemorrhage are provided. A nine-phase nursing decision-making framework for high-risk bronchoscopy in elderly AECOPD patients is proposed. This report highlights the critical role of nursing-led situational awareness, structured crisis management, and dynamic hemodynamic titration in navigating catastrophic cardiopulmonary events in high-risk elderly populations.                                                           Clinical trial number                     not applicable.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-26",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-26",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08408-4",
+        "doi": "10.1186/s12877-026-08408-4",
+        "url": "https://doi.org/10.1186/s12877-026-08408-4",
+        "title": "Time to first rescue opioid analgesia after perineural versus intravenous dexamethasone for PENG block in older adults undergoing total hip arthroplasty: a randomized double-blind trial",
+        "authors": [
+          "Tomasz Reysner",
+          "Bahadir Ciftci",
+          "Katarzyna Wieczorowska-Tobis",
+          "Anna Perek",
+          "Justyna Marszałek–Buko",
+          "Pawel Pietraszek",
+          "Agnieszka Neumann-Podczaska",
+          "Aleksander Mularski",
+          "Malgorzata Reysner"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-26",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-26",
         "fetched_from": "crossref"
       },
       {
@@ -103540,9 +103873,9 @@
   },
   "totals": {
     "socialSecurity": 1575,
-    "elderCare": 683,
-    "healthReform": 1075,
-    "agingHealth": 1008,
+    "elderCare": 686,
+    "healthReform": 1079,
+    "agingHealth": 1011,
     "socialWork": 339
   },
   "feeds_ok": 41
