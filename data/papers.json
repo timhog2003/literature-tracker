@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-26",
-  "fetched": "2026-10-26T06:36:16+00:00",
+  "date": "2026-10-27",
+  "fetched": "2026-10-27T06:32:16+00:00",
   "domains": {
     "socialSecurity": [
       {
@@ -24329,6 +24329,54 @@
     ],
     "elderCare": [
       {
+        "id": "doi:10.1186/s12877-026-08590-5",
+        "doi": "10.1186/s12877-026-08590-5",
+        "url": "https://doi.org/10.1186/s12877-026-08590-5",
+        "title": "Association between perioperative acute kidney injury and in-hospital mortality in patients aged 80 years and older undergoing hemiarthroplasty for femoral neck fractures: a retrospective cohort study",
+        "authors": [
+          "Hakan Kocaoğlu",
+          "Merve Hayriye Kocaoğlu",
+          "Çağatay Baltacı",
+          "Çağla Beyza Çolakoğlu",
+          "Hakan Yılmaz",
+          "Keziban Sanem Çakar Turhan"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-27",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-27",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08593-2",
+        "doi": "10.1186/s12877-026-08593-2",
+        "url": "https://doi.org/10.1186/s12877-026-08593-2",
+        "title": "The mediating role of health promotion behavior on intrinsic capacity and successful aging among community-dwelling older adults: a cross-sectional investigation",
+        "authors": [
+          "Shu Yang",
+          "Zhihao Han",
+          "Yihui Lin",
+          "Xiaoqin Ma"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-27",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-27",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1186/s12877-026-08395-6",
         "doi": "10.1186/s12877-026-08395-6",
         "url": "https://doi.org/10.1186/s12877-026-08395-6",
@@ -24403,6 +24451,167 @@
           "agingHealth"
         ],
         "firstSeen": "2026-10-26",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70795",
+        "doi": "10.1111/jgs.70795",
+        "url": "https://doi.org/10.1111/jgs.70795",
+        "title": "Frailty Is Associated With Lower Urinary Tract Symptoms in Adults With and Without\n                    <scp>HIV</scp>",
+        "authors": [
+          "Rebecca A. Abelman",
+          "Yifei Ma",
+          "Joseph B. Margolick",
+          "Kristine M. Erlandson",
+          "Meredith Greene",
+          "Anne M. Suskind",
+          "Tonya Taylor",
+          "Charles R. Rinaldo",
+          "Michelle Floris‐Moore",
+          "Kara W. Chew",
+          "Audrey L. French",
+          "Alayne D. Markland",
+          "Valentina Stosor",
+          "Maria Alcaide",
+          "Anandi Sheth",
+          "Aruna Chandran",
+          "Daniel Merenstein",
+          "Molly C. Fisher",
+          "Carl Grunfeld",
+          "Todd Brown",
+          "Phyllis C. Tien",
+          "Scott R. Bauer"
+        ],
+        "abstract": "ABSTRACT                                        Background                     Frailty is a risk factor for lower urinary tract symptoms (LUTS) in older adults. People with HIV (PWH) have a heightened frailty burden, but the association of HIV and frailty with LUTS in people with and at risk for HIV is unknown.                                                           Methods                     Data from 1356 PWH (505 men, 851 women) and 820 without HIV (419 men, 401 women) enrolled in the MACS‐WIHS Combined Cohort Study who completed the Lower Urinary Tract Dysfunction Research Network 10‐Item Symptom Index (LURN SI‐10) from 10/2021 to 9/2022 were included. Frailty was determined using the Fried frailty phenotype (robust, pre‐frail, and frail). Regression models stratified by sex evaluated the cross‐sectional associations of HIV and frailty with LUTS severity, urgency urinary incontinence (UUI), and overactive bladder (OAB). Due to low prevalence in men, mixed urinary incontinence (MUI) was analyzed only in women. Effect modification by sex and HIV was tested using the interaction terms with frailty.                                                           Results                     Mean age was 56 years (SD 11), and 58% of participants were Black. For women, 53% were pre‐frail and 23% were frail. For men, 46% were pre‐frail and 13% were frail. There was no association of HIV with LUTS. Among women, 21% reported UUI, 61% reported OAB, and 14% reported MUI at least weekly. Compared to robust women, frail women had higher LURN SI‐10 scores (absolute difference = 3.3 (95% CI: 2.3, 4.3)). Similarly, frail men had higher LURN SI‐10 scores than robust men (absolute difference = 1.6 (95% CI: 0.4, 2.9)). Frailty was associated with greater odds of UUI and OAB in women and men, and MUI in women. There was no evidence of effect modification by sex.                                                           Conclusions                     LUTS are common in people with and at‐risk for HIV and are more severe among those who are frail. More research is needed to investigate the sex‐independent mechanisms that underlie frailty and LUTS in this population.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-10-26",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-27",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70782",
+        "doi": "10.1111/jgs.70782",
+        "url": "https://doi.org/10.1111/jgs.70782",
+        "title": "Hospital‐Initiated Guardianship for Older Adults: A Retrospective Analysis",
+        "authors": [
+          "Shannon Clare",
+          "Caroline Vitale",
+          "Leslie Dubin",
+          "Alison Hirschel",
+          "Nicole Shannon",
+          "Ganga Vijayasiri",
+          "Kahli Zietlow"
+        ],
+        "abstract": "ABSTRACT                                        Background                     Guardianship is a legal process by which a court‐appointed individual assumes decision‐making authority over a person deemed to be incapacitated. Despite granting significant authority over vulnerable individuals, guardianship remains poorly regulated and understudied. Social determinants of health (SDOH) may influence guardianship outcomes, yet data are limited. This study characterizes guardianship petitions filed by a large academic healthcare system and examines the role of SDOH in petition outcomes.                                                           Methods                     We identified adults aged 60 years or older for whom our healthcare system filed guardianship petitions using publicly available county probate court records from January 2019 through September 2024. Petition outcomes, demographics, and hospitalization data were abstracted from court records and the electronic medical record. Logistic regression models were used to identify demographic factors associated with guardian type (known entity vs. professional) and guardianship scope (full vs. limited).                                                           Results                                            Among 236 unique individuals, 215 (91.1%) petitions resulted in the appointment of a guardian. Nineteen petitions were not heard by the court for various reasons. Of the remaining 217 petitions heard in court, 215 (99.0%) resulted in guardianship assignment. Medicaid recipients had lower odds of being assigned to a guardian with whom they had a prior, personal relationship (                       p                        = 0.04). Lower educational attainment was associated with full guardianship (                       p                        = 0.02). More restrictive forms of guardianship were associated with decreased likelihood of being discharged home. There were variations in ethics, palliative care, and psychiatry consults and the relationship of the assigned guardian.                                                                                Conclusions                     SDOH, including socioeconomic status and educational attainment, correlated with guardianship outcomes. Guardianship type and scope appear to impact care delivery and discharge destination. Policy reform and community‐based interventions are needed to protect vulnerable older adults while preserving autonomy.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-10-26",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-27",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08536-x",
+        "doi": "10.1186/s12877-026-08536-x",
+        "url": "https://doi.org/10.1186/s12877-026-08536-x",
+        "title": "Effect of the family-centered empowerment model on health status, functional independence, and post-implantation complications in older adults with cardiac implantable electronic devices: a quasi-experimental study",
+        "authors": [
+          "Razieh Ahani Moghaddam",
+          "Mahsa Boozari Pour",
+          "Fereshteh Javaheri Tehrani",
+          "Mohammad Ali Akbarzadeh",
+          "Sogand Sarmadi",
+          "Akbar Zare-Kaseb",
+          "Shabnam Shariatpanahi"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-26",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-27",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08543-y",
+        "doi": "10.1186/s12877-026-08543-y",
+        "url": "https://doi.org/10.1186/s12877-026-08543-y",
+        "title": "Incidence, risk factors, prevention and prediction of postoperative pneumonia after hip fracture surgery in older adults: a systematic review and meta-analysis",
+        "authors": [
+          "Huadong He",
+          "Zhichao Zuo",
+          "Xiaoming Chen"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-26",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-27",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08378-7",
+        "doi": "10.1186/s12877-026-08378-7",
+        "url": "https://doi.org/10.1186/s12877-026-08378-7",
+        "title": "Risk of osteoporotic fractures in elderly asthmatic patients according to prescription patterns of systemic corticosteroid: a retrospective cohort study",
+        "authors": [
+          "Siin Kim",
+          "Donghyun Pyun",
+          "Hae Sun Suh"
+        ],
+        "abstract": "Abstract                                        Background                     The use of systemic corticosteroids in older adult patients with asthma raises concerns regarding the increased osteoporotic fracture risk. This study aimed to evaluate the risk of osteoporotic fractures among older adult patients with asthma according to the intensity of dose accumulation of systemic corticosteroids (rapid versus gradual attainment of the same cumulative dose).                                                           Methods                     This retrospective cohort study used data from the Health Insurance Review and Assessment Service Database in Korea. Patients aged ≥ 65 years who were diagnosed with asthma in 2016 and treated with systemic corticosteroids within 6 months were included. Patients were categorized into high- and low-intensity groups (both cumulative dose ≥ 450 mg, prednisolone equivalent within ≤ 90 vs. &gt;90 days). Propensity score matching was used to balance the confounding variables. Cox proportional hazards model was used to assess the risk of osteoporotic fractures.                                                           Results                     Of the 6,342 older adult patients with asthma, the high- and low-intensity groups included 4,391 and 1,951 patients, respectively. After matching, each group included 1,783 patients. The osteoporotic fracture incidence rates were 50.18/1,000 person-years and 52.58/1,000 person-years in the high- and low-intensity groups, respectively. No significant difference was observed in the fracture risk between the two groups (hazard ratio, 0.95; 95% confidence interval, 0.78–1.15). Sensitivity analyses using multivariate adjustments and competing risk approaches confirmed the robustness of these findings.                                                           Conclusions                     Osteoporotic fracture risk did not significantly differ between the high- and low-intensity corticosteroid prescription groups among older adult patients with asthma, suggesting that rapid accumulation of a high cumulative corticosteroid dose warrants careful fracture risk monitoring. This study provides exploratory real-world evidence to inform future evaluation of the reimbursement criteria for osteoporosis medications in short-term corticosteroid users.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-26",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-27",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08577-2",
+        "doi": "10.1186/s12877-026-08577-2",
+        "url": "https://doi.org/10.1186/s12877-026-08577-2",
+        "title": "Feeling of loneliness among nursing homes residents: determinants and 1-year mortality",
+        "authors": [
+          "Nadine Simo",
+          "Maturin Tabué-Teguo",
+          "Moustapha Dramé",
+          "Jean-François Dartigues",
+          "Denis Boucaud-Maitre"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-26",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-27",
         "fetched_from": "crossref"
       },
       {
@@ -41652,6 +41861,419 @@
           "healthReform"
         ],
         "firstSeen": "2026-09-26",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag228",
+        "doi": "10.1093/aje/kwag228",
+        "url": "https://doi.org/10.1093/aje/kwag228",
+        "title": "Editorial Consultants",
+        "authors": [],
+        "abstract": "",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-10-27",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-27",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.18380",
+        "doi": "10.1001/jama.2026.18380",
+        "url": "https://doi.org/10.1001/jama.2026.18380",
+        "title": "Single Intranasal Administration of the Psychedelic Mebufotenin for Treatment-Resistant Depression",
+        "authors": [
+          "David Feifel",
+          "Mathieu Seynaeve",
+          "Wiesław Jerzy Cubała",
+          "Fiona Dunbar",
+          "Gerhard Gründer",
+          "Rosa María Dueñas Herrero",
+          "Chandni Hindocha",
+          "Paul Liknaitzky",
+          "Sean M. McGuigan",
+          "Sejal Mehta",
+          "Mimi Pierce",
+          "Dimitris Repantis",
+          "Claire Roberts",
+          "Frank Wiegand",
+          "Robert Conley"
+        ],
+        "abstract": "Importance                                            Psychedelics represent a potential breakthrough for treatment-resistant depression; however, the prolonged in-clinic monitoring required for compounds such as psilocybin and lysergic acid diethylamide is a logistical hurdle to widespread use. Intranasal mebufotenin (5-methoxy-                       N                       ,                       N                       -dimethyltryptamine), a 5-hydroxytryptamine 1A (5-HT                       1A                       ) and 5-HT                       2A                       agonist associated with brief psychedelic experiences, may address this limitation.                                                                                Objective                     To evaluate the safety, efficacy, and time to discharge readiness following a single dose of intranasal mebufotenin benzoate in adults with treatment-resistant depression.                                                           Design, Setting, and Participants                     Phase 2b, randomized, double-blind trial with an 8-week blinded follow-up conducted between September 2023 and April 2025 at 38 sites in Australia, Europe, and the US. Participants were aged 18 to 75 years with moderate to severe major depressive disorder nonresponsive to 2 to 5 antidepressant trials in the current episode. The last date of follow-up was April 28, 2025.                                                           Interventions                     After antidepressant washout as needed, participants were randomly assigned to receive a single dose of intranasal mebufotenin benzoate, 8 mg (n = 46), 12 mg (n = 73), or 0.3 mg (a low-dose comparator; n = 74), alongside psychological support.                                                           Main Outcomes and Measures                     The primary end point was total score change on the Montgomery-Åsberg Depression Rating Scale (MADRS; score range, 0-60; higher scores indicate more severe depression) from baseline to day 29 in the 12-mg vs 0.3-mg dose groups. Eighteen secondary end points were assessed for the 12-mg and 8-mg vs 0.3-mg doses. Discharge readiness was assessed starting 90 minutes after dosing.                                                           Results                                            Among the 193 included participants, the mean age was 41 (SD, 11.1) years and 59.1% were female. From baseline to day 29, treatment with 12-mg intranasal mebufotenin benzoate vs the 0.3-mg dose (the primary end point) was associated with significantly reduced MADRS scores (mean score change, −11.1 [SD, 11.6] vs −5.5 [SD, 9.9], respectively; mean difference, −5.3 [95% CI, −8.9 to −1.8];                       P                        = .003). The 8-mg dose also led to reduced scores from baseline to day 29 (mean score change, −12.5 [SD, 12.7]) vs the 0.3-mg dose (mean difference, −6.2 [95% CI, −10.2 to −2.1];                       P                        = .003). MADRS reductions with the 8-mg and 12-mg doses were similar and significantly greater at all other time points from 2 to 57 days post dose vs the 0.3-mg dose. Day 29 response rates were 35%, 34%, and 12% and remission rates were 26%, 18%, and 8% in the 8-mg, 12-mg, and 0.3-mg dose groups, respectively. Treatment-emergent adverse events were reported in 76%, 85%, and 73% of participants in the 8-mg, 12-mg, and 0.3-mg dose groups, respectively; most events (99.7%) were mild or moderate. Overall, most participants were deemed ready for discharge within 2 hours post dose (85% for 8 mg and 78% for 12 mg).                                                                                Conclusions and Relevance                     In adults with treatment-resistant depression, single doses of intranasal mebufotenin benzoate were well tolerated and produced rapid, robust, and durable reductions in depressive symptoms. Intranasal mebufotenin benzoate may improve treatment access and convenience, requiring a shorter monitoring period and fewer clinic visits compared with psilocybin and esketamine, respectively.                                                           Trial Registration                                            ClinicalTrials.gov Identifier:                       NCT05870540",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-26",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-27",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.17333",
+        "doi": "10.1001/jama.2026.17333",
+        "url": "https://doi.org/10.1001/jama.2026.17333",
+        "title": "Treatment Approach to Major Depressive Disorder",
+        "authors": [
+          "Chittaranjan Andrade"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-26",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-27",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.18104",
+        "doi": "10.1001/jama.2026.18104",
+        "url": "https://doi.org/10.1001/jama.2026.18104",
+        "title": "Orforglipron for Type 2 Diabetes and Pancreatic Risk Assessment",
+        "authors": [
+          "Shankar Biswas",
+          "Yashasvi Srivastava",
+          "Dharmik Jadvani"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-26",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-27",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.18107",
+        "doi": "10.1001/jama.2026.18107",
+        "url": "https://doi.org/10.1001/jama.2026.18107",
+        "title": "Orforglipron for Type 2 Diabetes and Pancreatic Risk Assessment—Reply",
+        "authors": [
+          "Francesco Giorgino",
+          "Lisa Ludwig",
+          "Max Denning"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-26",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-27",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.18468",
+        "doi": "10.1001/jama.2026.18468",
+        "url": "https://doi.org/10.1001/jama.2026.18468",
+        "title": "Single Intranasal Administration of the Psychedelic Mebufotenin for Treatment-Resistant Depression",
+        "authors": [],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-26",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-27",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.19125",
+        "doi": "10.1001/jama.2026.19125",
+        "url": "https://doi.org/10.1001/jama.2026.19125",
+        "title": "Peptides, FDA’s Pharmacy Compounding Advisory Committee, and the Future of FDA Drug Approval",
+        "authors": [
+          "Sophia Samantaroy",
+          "Isabella Xu",
+          "Peter Lurie"
+        ],
+        "abstract": "This Viewpoint discusses the US Food and Drug Administration’s (FDA) Pharmacy Compounding Advisory Committee’s recommendation to add 7 peptides to the compounding 503A Bulks List and the profound threat that compounding these peptides could represent to the drug-approval process and patients.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-26",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-27",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.18147",
+        "doi": "10.1001/jama.2026.18147",
+        "url": "https://doi.org/10.1001/jama.2026.18147",
+        "title": "Medications for Alcohol Use Disorder",
+        "authors": [
+          "Kristin Walter"
+        ],
+        "abstract": "This JAMA Patient Page describes 3 medications that are approved by the US Food and Drug Administration for alcohol use disorder and 1 medication that has not received approval yet.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-26",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-27",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.21230",
+        "doi": "10.1001/jama.2026.21230",
+        "url": "https://doi.org/10.1001/jama.2026.21230",
+        "title": "Changes in Service Use Following the Introduction of AI-Enabled Prior Authorization in Medicare",
+        "authors": [
+          "Hannah T. Neprash",
+          "Michael L. Barnett"
+        ],
+        "abstract": "This study uses Epic Cosmos data to assess changes in use of medical services by Medicare recipients after the implementation of artificial intelligence–enabled prior authorization requirements under the Center for Medicare &amp;amp;amp; Medicaid Innovation WISeR (Wasteful and Inappropriate Service Reduction) model.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-26",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-27",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1007/s40273-026-01685-2",
+        "doi": "10.1007/s40273-026-01685-2",
+        "url": "https://doi.org/10.1007/s40273-026-01685-2",
+        "title": "Modelling Carer Quality-Adjusted Life-Years Into Economic Evaluations: An Evidence Assessment Group Perspective",
+        "authors": [
+          "Giovany Orozco-Leal",
+          "Louise Tanner",
+          "Eugenie Evelynne Johnson",
+          "Lakshmi Jayachandran",
+          "Julia Whitehall",
+          "Nicole O’Connor",
+          "Hannah O’Keefe",
+          "Claire Eastaugh",
+          "Opeyemi Agbeleye",
+          "Negar Yousefzadeh",
+          "Ryan P. W. Kenny",
+          "Fiona R. Beyer",
+          "Stephen Rice",
+          "Gill Norman",
+          "Gurdeep S. Sagoo",
+          "Nawaraj Bhattarai"
+        ],
+        "abstract": "",
+        "source": "PharmacoEconomics",
+        "issn": "1170-7690",
+        "date": "2026-10-26",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-27",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1097/ede.0000000000002057",
+        "doi": "10.1097/ede.0000000000002057",
+        "url": "https://doi.org/10.1097/ede.0000000000002057",
+        "title": "Use of Sparse Internal Validation Data",
+        "authors": [
+          "Timothy L. Lash",
+          "Richard F. MacLehose",
+          "Thomas P. Ahern",
+          "Lindsay J. Collin"
+        ],
+        "abstract": "Internal validation sub-studies compare an observed imperfect measurement of a variable with its gold standard measurement in a sample of participants. The gold standard is often expensive or difficult to collect, so the validation sample is usually small. We simulated a small cohort study with a nested, balanced validation sub-study and used the simulated cohorts to evaluate three analytic strategies with the objective of determining which of them, alone or in combination, improved the performance of quantitative bias adjustments informed by the validation sub-study. The strategies were: (1) incorporating a weak prior to the beta distributions assigned to the bias parameters, as opposed to no prior (2) restricting beta distribution assignment to the three predictive values informed by sampling, as opposed to all four predictive values, and (3) restricting imputation of gold-standard measurement to study cohort members who were not sampled for the validation sub-study, as opposed to imputing for all members of the study cohort. All twelve combinations of bias adjustment strategies returned bias-adjusted estimates with less bias and higher coverage than the simulated misclassified cohorts, although all had higher root mean squared errors and wider intervals because of the uncertainty added by incorporating the sparse validation data into the analysis. We found that assigning a prior may sometimes have utility, whereas restricting assignment of beta distributions for use only with sampling and restricting imputation to only cohort members not selected for the validation study adds computational complexity with little utility in return.",
+        "source": "Epidemiology",
+        "issn": "1044-3983",
+        "date": "2026-10-26",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-27",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1097/ede.0000000000002059",
+        "doi": "10.1097/ede.0000000000002059",
+        "url": "https://doi.org/10.1097/ede.0000000000002059",
+        "title": "Validity of self-reported measurement of pubertal development in 12-year-old children",
+        "authors": [
+          "Lola Menant",
+          "Florence Rouget",
+          "Nathalie Costet",
+          "Sébastien Lé",
+          "Fabrice Lainé",
+          "Ronan Garlantézec",
+          "Christine Monfort",
+          "Cécile Chevrier"
+        ],
+        "abstract": "Background:                     The Tanner scale is the reference for assessing pubertal development. In epidemiologic studies, self- or parent-assessments are frequently used, though their accuracy is not regularly discussed. We compared this measurement with clinical evaluations (as gold standard) among 12-year-old children in the general French population and examined factors explaining discrepancies.                                                           Methods:                                            Within the PELAGIE mother–child cohort conducted in Brittany (France), clinical examinations of 498 children were performed by trained medical staff to assess pubertal development (breasts, gonads, and pubic hair) using Tanner stages. Children and parents completed assessments within the previous days, and had the option to declare two stages in case of hesitation. Agreement between the self- and parent reports and the clinical assessments was evaluated using weighted kappa, intraclass correlation coefficient (ICC), and Correspondence Analysis. We used robust Poisson regressions to examine potential correlates (determined                       a priori                       ) of discordant assessments.                                                                                Results:                     Among girls, 68.1% correctly assessed breast stage compared with clinical assessment (ICC=0.72), though overestimation was common (31.1%). Accuracy for pubic hair was 68.6% in girls (ICC=0.79) and 60.3% in boys (ICC=0.73). Only 38.3% of boys accurately reported their gonadal stage (ICC=0.38), often underestimating (68.1%). Self-reporting of hesitant responses improved concordance with clinical assessments. Pubertal and morphological indicators, such as voice change, contributed to reducing discrepancies in self-assessment. Parents’ reports showed similar trends to children’s, but with frequent non-responses.                                                           Conclusion:                     The accuracy of self-assessment of pubertal stage in our French population of 12-year-olds was generally good, supporting its use as a reliable tool, particularly among girls. For gonadal development, a potential systematic and informative errors were present, with underestimation. The use of reporting hesitant responses in children appears to be a promising approach while the added value of parental assessment remains limited.",
+        "source": "Epidemiology",
+        "issn": "1044-3983",
+        "date": "2026-10-26",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-27",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag272",
+        "doi": "10.1093/aje/kwag272",
+        "url": "https://doi.org/10.1093/aje/kwag272",
+        "title": "Precarious employment and health: Expanding the Boundaries of Research",
+        "authors": [
+          "Joan Benach",
+          "Ferran Muntané",
+          "Josep Maria Caroz",
+          "Pablo Ruisoto",
+          "Francesc Xavier Belvis",
+          "Carles Muntaner"
+        ],
+        "abstract": "Abstract                   The historical deterioration of employment and working conditions in wealthy nations is captured by the concept of precarious employment (PE), which has spurred scholarly and policy interest. A decade after identifying key research gaps, persistent and emerging challenges remain. Although a clear and standardized definition of PE as a social determinant of health already exists, many scholars still struggle to define and operationalize it effectively, obscuring its roots in power relations and social mechanisms. Evidence confirms it as a critical, unequally distributed social determinant of health, disproportionately affecting workers by class, gender, race, and migration status. Yet the structural mechanisms underlying these inequities—such as occupational segregation—remain insufficiently theorized and empirically studied, particularly in low- and middle-income countries (LMICs) where PE often overlaps with informal employment. Intersectional frameworks illustrate how interconnected systems of oppression shape health outcomes, particularly through the syndemic entanglement of precarious work, housing insecurity, and other forms of social precariousness. These dynamics demand broader conceptual and empirical approaches. Spain’s recent PRESME Report represents an important step forward, offering a strategic transdisciplinary framework for implementing intersectoral labor and public health policies. Understanding how PE harms health is essential for advancing health equity and guiding evidence-based policy.",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-10-26",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-27",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag273",
+        "doi": "10.1093/aje/kwag273",
+        "url": "https://doi.org/10.1093/aje/kwag273",
+        "title": "Underrepresentation of women in U.S. occupational cohort mortality studies",
+        "authors": [
+          "Candice Y Johnson",
+          "Kaitlin Kelly-Reif",
+          "Kaori Fujishiro"
+        ],
+        "abstract": "Abstract                   Reviews of the occupational epidemiology literature between the 1970s and 2010s found that men were more likely than women to be included in studies of occupational exposures and chronic disease. Our objective was to examine a contemporary sample of occupational cohort mortality studies to determine the extent to which women are underrepresented, how sex is used in analyses, and if the representation of women has improved over time. We searched PubMed for U.S. occupational cohort mortality studies published between 2000 and 2022 with cancer or cardiovascular disease mortality outcomes. We identified 176 U.S. cohort analyses meeting inclusion criteria. Among the cohort analyses that reported the sex of participants, 57% included men and women, 42% included men only, and 1% included women only. Sex was most commonly used in statistical analyses to adjust for confounding (69%) and to exclude women from the study population (26%). Between 2000–2004 and 2015–2022, the proportion of cohort analyses including women increased from 48% to 69%. Women remain poorly represented in occupational cohort mortality studies, although over time fewer studies excluded women. Achieving appropriate representation of women in occupational epidemiology research is essential for fully understanding relationships between occupational exposures and health.",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-10-26",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-27",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag278",
+        "doi": "10.1093/aje/kwag278",
+        "url": "https://doi.org/10.1093/aje/kwag278",
+        "title": "Associations between types of residential greenspace and depressive symptoms in older adults: the Multi-Ethnic Study of Atherosclerosis",
+        "authors": [
+          "Jeroen M van Baar",
+          "Allison James",
+          "Marco Chivardi",
+          "Kevin J Lane",
+          "Jaimie L Gradus",
+          "Lilah M Besser",
+          "Jana A Hirsch",
+          "Joel D Kaufman",
+          "Peter James",
+          "Marcia Pescador Jimenez"
+        ],
+        "abstract": "Abstract                   Residential greenspace may prevent older-adult depression, but it is unclear whether this depends on type of greenspace and population subgroup. We examined associations between six greenspace measures and depressive symptoms among 6,799 U.S. older adults in the Multi-Ethnic Study of Atherosclerosis (1-3 observations per participant in 2000–2012). Depressive symptoms were assessed using the Center for Epidemiological Studies Depression scale. Time-varying residential address-linked exposures included street-view-based vegetation (grass, trees, other, and total), satellite-based Normalized Difference Vegetation Index (NDVI), and park access. In fully adjusted mixed-effects Poisson models, overall associations were null (symptom count ratios [CRs], 0.98–1.03 per SD increase). Associations varied by site, race/ethnicity, neighborhood socioeconomic status, and population density. In site-stratified analyses, fewer symptoms were associated with NDVI in New York, NY (CR=0.96, 95% CI: 0.92, 0.99), park access in Winston-Salem, NC (CR=0.95, 95% CI: 0.92, 0.99), and grass in Minneapolis, MN (CR=0.87, 95% CI: 0.79, 0.97). The greenspace metric most strongly associated with fewer symptoms differed across racial/ethnic groups. Greater street-level greenspace was associated with more symptoms in high-density areas. Greenspace–depression associations may therefore depend on greenspace type and context, suggesting that mental-health-oriented greenspace interventions should be tailored to local populations and environments.",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-10-26",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-27",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag279",
+        "doi": "10.1093/aje/kwag279",
+        "url": "https://doi.org/10.1093/aje/kwag279",
+        "title": "Re: Science or Advocacy? The Global Rise of Policy Claims and Calls to Action in Population Health Research (1990-2024)",
+        "authors": [
+          "Abigail Cartus",
+          "Jessica Handy",
+          "Sonja A Swanson"
+        ],
+        "abstract": "",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-10-26",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-27",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag275",
+        "doi": "10.1093/aje/kwag275",
+        "url": "https://doi.org/10.1093/aje/kwag275",
+        "title": "Multimorbidity clustering and implications for clinical trials in low-resource settings",
+        "authors": [
+          "Norman R Williams",
+          "Aamir Ahmed"
+        ],
+        "abstract": "",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-10-26",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-27",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag280",
+        "doi": "10.1093/aje/kwag280",
+        "url": "https://doi.org/10.1093/aje/kwag280",
+        "title": "Interpreting prior-dependent precision in renal tumor growth estimates",
+        "authors": [
+          "Xin Zhao",
+          "Gong Zhang"
+        ],
+        "abstract": "",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-10-26",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-27",
         "fetched_from": "crossref"
       },
       {
@@ -70913,6 +71535,72 @@
         "fetched_from": "crossref"
       },
       {
+        "id": "doi:10.1186/s12877-026-08590-5",
+        "doi": "10.1186/s12877-026-08590-5",
+        "url": "https://doi.org/10.1186/s12877-026-08590-5",
+        "title": "Association between perioperative acute kidney injury and in-hospital mortality in patients aged 80 years and older undergoing hemiarthroplasty for femoral neck fractures: a retrospective cohort study",
+        "authors": [
+          "Hakan Kocaoğlu",
+          "Merve Hayriye Kocaoğlu",
+          "Çağatay Baltacı",
+          "Çağla Beyza Çolakoğlu",
+          "Hakan Yılmaz",
+          "Keziban Sanem Çakar Turhan"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-27",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-27",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08593-2",
+        "doi": "10.1186/s12877-026-08593-2",
+        "url": "https://doi.org/10.1186/s12877-026-08593-2",
+        "title": "The mediating role of health promotion behavior on intrinsic capacity and successful aging among community-dwelling older adults: a cross-sectional investigation",
+        "authors": [
+          "Shu Yang",
+          "Zhihao Han",
+          "Yihui Lin",
+          "Xiaoqin Ma"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-27",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-27",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag228",
+        "doi": "10.1093/aje/kwag228",
+        "url": "https://doi.org/10.1093/aje/kwag228",
+        "title": "Editorial Consultants",
+        "authors": [],
+        "abstract": "",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-10-27",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-27",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1186/s12877-026-08395-6",
         "doi": "10.1186/s12877-026-08395-6",
         "url": "https://doi.org/10.1186/s12877-026-08395-6",
@@ -70987,6 +71675,357 @@
           "agingHealth"
         ],
         "firstSeen": "2026-10-26",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70795",
+        "doi": "10.1111/jgs.70795",
+        "url": "https://doi.org/10.1111/jgs.70795",
+        "title": "Frailty Is Associated With Lower Urinary Tract Symptoms in Adults With and Without\n                    <scp>HIV</scp>",
+        "authors": [
+          "Rebecca A. Abelman",
+          "Yifei Ma",
+          "Joseph B. Margolick",
+          "Kristine M. Erlandson",
+          "Meredith Greene",
+          "Anne M. Suskind",
+          "Tonya Taylor",
+          "Charles R. Rinaldo",
+          "Michelle Floris‐Moore",
+          "Kara W. Chew",
+          "Audrey L. French",
+          "Alayne D. Markland",
+          "Valentina Stosor",
+          "Maria Alcaide",
+          "Anandi Sheth",
+          "Aruna Chandran",
+          "Daniel Merenstein",
+          "Molly C. Fisher",
+          "Carl Grunfeld",
+          "Todd Brown",
+          "Phyllis C. Tien",
+          "Scott R. Bauer"
+        ],
+        "abstract": "ABSTRACT                                        Background                     Frailty is a risk factor for lower urinary tract symptoms (LUTS) in older adults. People with HIV (PWH) have a heightened frailty burden, but the association of HIV and frailty with LUTS in people with and at risk for HIV is unknown.                                                           Methods                     Data from 1356 PWH (505 men, 851 women) and 820 without HIV (419 men, 401 women) enrolled in the MACS‐WIHS Combined Cohort Study who completed the Lower Urinary Tract Dysfunction Research Network 10‐Item Symptom Index (LURN SI‐10) from 10/2021 to 9/2022 were included. Frailty was determined using the Fried frailty phenotype (robust, pre‐frail, and frail). Regression models stratified by sex evaluated the cross‐sectional associations of HIV and frailty with LUTS severity, urgency urinary incontinence (UUI), and overactive bladder (OAB). Due to low prevalence in men, mixed urinary incontinence (MUI) was analyzed only in women. Effect modification by sex and HIV was tested using the interaction terms with frailty.                                                           Results                     Mean age was 56 years (SD 11), and 58% of participants were Black. For women, 53% were pre‐frail and 23% were frail. For men, 46% were pre‐frail and 13% were frail. There was no association of HIV with LUTS. Among women, 21% reported UUI, 61% reported OAB, and 14% reported MUI at least weekly. Compared to robust women, frail women had higher LURN SI‐10 scores (absolute difference = 3.3 (95% CI: 2.3, 4.3)). Similarly, frail men had higher LURN SI‐10 scores than robust men (absolute difference = 1.6 (95% CI: 0.4, 2.9)). Frailty was associated with greater odds of UUI and OAB in women and men, and MUI in women. There was no evidence of effect modification by sex.                                                           Conclusions                     LUTS are common in people with and at‐risk for HIV and are more severe among those who are frail. More research is needed to investigate the sex‐independent mechanisms that underlie frailty and LUTS in this population.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-10-26",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-27",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70782",
+        "doi": "10.1111/jgs.70782",
+        "url": "https://doi.org/10.1111/jgs.70782",
+        "title": "Hospital‐Initiated Guardianship for Older Adults: A Retrospective Analysis",
+        "authors": [
+          "Shannon Clare",
+          "Caroline Vitale",
+          "Leslie Dubin",
+          "Alison Hirschel",
+          "Nicole Shannon",
+          "Ganga Vijayasiri",
+          "Kahli Zietlow"
+        ],
+        "abstract": "ABSTRACT                                        Background                     Guardianship is a legal process by which a court‐appointed individual assumes decision‐making authority over a person deemed to be incapacitated. Despite granting significant authority over vulnerable individuals, guardianship remains poorly regulated and understudied. Social determinants of health (SDOH) may influence guardianship outcomes, yet data are limited. This study characterizes guardianship petitions filed by a large academic healthcare system and examines the role of SDOH in petition outcomes.                                                           Methods                     We identified adults aged 60 years or older for whom our healthcare system filed guardianship petitions using publicly available county probate court records from January 2019 through September 2024. Petition outcomes, demographics, and hospitalization data were abstracted from court records and the electronic medical record. Logistic regression models were used to identify demographic factors associated with guardian type (known entity vs. professional) and guardianship scope (full vs. limited).                                                           Results                                            Among 236 unique individuals, 215 (91.1%) petitions resulted in the appointment of a guardian. Nineteen petitions were not heard by the court for various reasons. Of the remaining 217 petitions heard in court, 215 (99.0%) resulted in guardianship assignment. Medicaid recipients had lower odds of being assigned to a guardian with whom they had a prior, personal relationship (                       p                        = 0.04). Lower educational attainment was associated with full guardianship (                       p                        = 0.02). More restrictive forms of guardianship were associated with decreased likelihood of being discharged home. There were variations in ethics, palliative care, and psychiatry consults and the relationship of the assigned guardian.                                                                                Conclusions                     SDOH, including socioeconomic status and educational attainment, correlated with guardianship outcomes. Guardianship type and scope appear to impact care delivery and discharge destination. Policy reform and community‐based interventions are needed to protect vulnerable older adults while preserving autonomy.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-10-26",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-27",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08536-x",
+        "doi": "10.1186/s12877-026-08536-x",
+        "url": "https://doi.org/10.1186/s12877-026-08536-x",
+        "title": "Effect of the family-centered empowerment model on health status, functional independence, and post-implantation complications in older adults with cardiac implantable electronic devices: a quasi-experimental study",
+        "authors": [
+          "Razieh Ahani Moghaddam",
+          "Mahsa Boozari Pour",
+          "Fereshteh Javaheri Tehrani",
+          "Mohammad Ali Akbarzadeh",
+          "Sogand Sarmadi",
+          "Akbar Zare-Kaseb",
+          "Shabnam Shariatpanahi"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-26",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-27",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08543-y",
+        "doi": "10.1186/s12877-026-08543-y",
+        "url": "https://doi.org/10.1186/s12877-026-08543-y",
+        "title": "Incidence, risk factors, prevention and prediction of postoperative pneumonia after hip fracture surgery in older adults: a systematic review and meta-analysis",
+        "authors": [
+          "Huadong He",
+          "Zhichao Zuo",
+          "Xiaoming Chen"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-26",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-27",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08378-7",
+        "doi": "10.1186/s12877-026-08378-7",
+        "url": "https://doi.org/10.1186/s12877-026-08378-7",
+        "title": "Risk of osteoporotic fractures in elderly asthmatic patients according to prescription patterns of systemic corticosteroid: a retrospective cohort study",
+        "authors": [
+          "Siin Kim",
+          "Donghyun Pyun",
+          "Hae Sun Suh"
+        ],
+        "abstract": "Abstract                                        Background                     The use of systemic corticosteroids in older adult patients with asthma raises concerns regarding the increased osteoporotic fracture risk. This study aimed to evaluate the risk of osteoporotic fractures among older adult patients with asthma according to the intensity of dose accumulation of systemic corticosteroids (rapid versus gradual attainment of the same cumulative dose).                                                           Methods                     This retrospective cohort study used data from the Health Insurance Review and Assessment Service Database in Korea. Patients aged ≥ 65 years who were diagnosed with asthma in 2016 and treated with systemic corticosteroids within 6 months were included. Patients were categorized into high- and low-intensity groups (both cumulative dose ≥ 450 mg, prednisolone equivalent within ≤ 90 vs. &gt;90 days). Propensity score matching was used to balance the confounding variables. Cox proportional hazards model was used to assess the risk of osteoporotic fractures.                                                           Results                     Of the 6,342 older adult patients with asthma, the high- and low-intensity groups included 4,391 and 1,951 patients, respectively. After matching, each group included 1,783 patients. The osteoporotic fracture incidence rates were 50.18/1,000 person-years and 52.58/1,000 person-years in the high- and low-intensity groups, respectively. No significant difference was observed in the fracture risk between the two groups (hazard ratio, 0.95; 95% confidence interval, 0.78–1.15). Sensitivity analyses using multivariate adjustments and competing risk approaches confirmed the robustness of these findings.                                                           Conclusions                     Osteoporotic fracture risk did not significantly differ between the high- and low-intensity corticosteroid prescription groups among older adult patients with asthma, suggesting that rapid accumulation of a high cumulative corticosteroid dose warrants careful fracture risk monitoring. This study provides exploratory real-world evidence to inform future evaluation of the reimbursement criteria for osteoporosis medications in short-term corticosteroid users.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-26",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-27",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08577-2",
+        "doi": "10.1186/s12877-026-08577-2",
+        "url": "https://doi.org/10.1186/s12877-026-08577-2",
+        "title": "Feeling of loneliness among nursing homes residents: determinants and 1-year mortality",
+        "authors": [
+          "Nadine Simo",
+          "Maturin Tabué-Teguo",
+          "Moustapha Dramé",
+          "Jean-François Dartigues",
+          "Denis Boucaud-Maitre"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-26",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-27",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1097/ede.0000000000002057",
+        "doi": "10.1097/ede.0000000000002057",
+        "url": "https://doi.org/10.1097/ede.0000000000002057",
+        "title": "Use of Sparse Internal Validation Data",
+        "authors": [
+          "Timothy L. Lash",
+          "Richard F. MacLehose",
+          "Thomas P. Ahern",
+          "Lindsay J. Collin"
+        ],
+        "abstract": "Internal validation sub-studies compare an observed imperfect measurement of a variable with its gold standard measurement in a sample of participants. The gold standard is often expensive or difficult to collect, so the validation sample is usually small. We simulated a small cohort study with a nested, balanced validation sub-study and used the simulated cohorts to evaluate three analytic strategies with the objective of determining which of them, alone or in combination, improved the performance of quantitative bias adjustments informed by the validation sub-study. The strategies were: (1) incorporating a weak prior to the beta distributions assigned to the bias parameters, as opposed to no prior (2) restricting beta distribution assignment to the three predictive values informed by sampling, as opposed to all four predictive values, and (3) restricting imputation of gold-standard measurement to study cohort members who were not sampled for the validation sub-study, as opposed to imputing for all members of the study cohort. All twelve combinations of bias adjustment strategies returned bias-adjusted estimates with less bias and higher coverage than the simulated misclassified cohorts, although all had higher root mean squared errors and wider intervals because of the uncertainty added by incorporating the sparse validation data into the analysis. We found that assigning a prior may sometimes have utility, whereas restricting assignment of beta distributions for use only with sampling and restricting imputation to only cohort members not selected for the validation study adds computational complexity with little utility in return.",
+        "source": "Epidemiology",
+        "issn": "1044-3983",
+        "date": "2026-10-26",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-27",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1097/ede.0000000000002059",
+        "doi": "10.1097/ede.0000000000002059",
+        "url": "https://doi.org/10.1097/ede.0000000000002059",
+        "title": "Validity of self-reported measurement of pubertal development in 12-year-old children",
+        "authors": [
+          "Lola Menant",
+          "Florence Rouget",
+          "Nathalie Costet",
+          "Sébastien Lé",
+          "Fabrice Lainé",
+          "Ronan Garlantézec",
+          "Christine Monfort",
+          "Cécile Chevrier"
+        ],
+        "abstract": "Background:                     The Tanner scale is the reference for assessing pubertal development. In epidemiologic studies, self- or parent-assessments are frequently used, though their accuracy is not regularly discussed. We compared this measurement with clinical evaluations (as gold standard) among 12-year-old children in the general French population and examined factors explaining discrepancies.                                                           Methods:                                            Within the PELAGIE mother–child cohort conducted in Brittany (France), clinical examinations of 498 children were performed by trained medical staff to assess pubertal development (breasts, gonads, and pubic hair) using Tanner stages. Children and parents completed assessments within the previous days, and had the option to declare two stages in case of hesitation. Agreement between the self- and parent reports and the clinical assessments was evaluated using weighted kappa, intraclass correlation coefficient (ICC), and Correspondence Analysis. We used robust Poisson regressions to examine potential correlates (determined                       a priori                       ) of discordant assessments.                                                                                Results:                     Among girls, 68.1% correctly assessed breast stage compared with clinical assessment (ICC=0.72), though overestimation was common (31.1%). Accuracy for pubic hair was 68.6% in girls (ICC=0.79) and 60.3% in boys (ICC=0.73). Only 38.3% of boys accurately reported their gonadal stage (ICC=0.38), often underestimating (68.1%). Self-reporting of hesitant responses improved concordance with clinical assessments. Pubertal and morphological indicators, such as voice change, contributed to reducing discrepancies in self-assessment. Parents’ reports showed similar trends to children’s, but with frequent non-responses.                                                           Conclusion:                     The accuracy of self-assessment of pubertal stage in our French population of 12-year-olds was generally good, supporting its use as a reliable tool, particularly among girls. For gonadal development, a potential systematic and informative errors were present, with underestimation. The use of reporting hesitant responses in children appears to be a promising approach while the added value of parental assessment remains limited.",
+        "source": "Epidemiology",
+        "issn": "1044-3983",
+        "date": "2026-10-26",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-27",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag272",
+        "doi": "10.1093/aje/kwag272",
+        "url": "https://doi.org/10.1093/aje/kwag272",
+        "title": "Precarious employment and health: Expanding the Boundaries of Research",
+        "authors": [
+          "Joan Benach",
+          "Ferran Muntané",
+          "Josep Maria Caroz",
+          "Pablo Ruisoto",
+          "Francesc Xavier Belvis",
+          "Carles Muntaner"
+        ],
+        "abstract": "Abstract                   The historical deterioration of employment and working conditions in wealthy nations is captured by the concept of precarious employment (PE), which has spurred scholarly and policy interest. A decade after identifying key research gaps, persistent and emerging challenges remain. Although a clear and standardized definition of PE as a social determinant of health already exists, many scholars still struggle to define and operationalize it effectively, obscuring its roots in power relations and social mechanisms. Evidence confirms it as a critical, unequally distributed social determinant of health, disproportionately affecting workers by class, gender, race, and migration status. Yet the structural mechanisms underlying these inequities—such as occupational segregation—remain insufficiently theorized and empirically studied, particularly in low- and middle-income countries (LMICs) where PE often overlaps with informal employment. Intersectional frameworks illustrate how interconnected systems of oppression shape health outcomes, particularly through the syndemic entanglement of precarious work, housing insecurity, and other forms of social precariousness. These dynamics demand broader conceptual and empirical approaches. Spain’s recent PRESME Report represents an important step forward, offering a strategic transdisciplinary framework for implementing intersectoral labor and public health policies. Understanding how PE harms health is essential for advancing health equity and guiding evidence-based policy.",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-10-26",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-27",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag273",
+        "doi": "10.1093/aje/kwag273",
+        "url": "https://doi.org/10.1093/aje/kwag273",
+        "title": "Underrepresentation of women in U.S. occupational cohort mortality studies",
+        "authors": [
+          "Candice Y Johnson",
+          "Kaitlin Kelly-Reif",
+          "Kaori Fujishiro"
+        ],
+        "abstract": "Abstract                   Reviews of the occupational epidemiology literature between the 1970s and 2010s found that men were more likely than women to be included in studies of occupational exposures and chronic disease. Our objective was to examine a contemporary sample of occupational cohort mortality studies to determine the extent to which women are underrepresented, how sex is used in analyses, and if the representation of women has improved over time. We searched PubMed for U.S. occupational cohort mortality studies published between 2000 and 2022 with cancer or cardiovascular disease mortality outcomes. We identified 176 U.S. cohort analyses meeting inclusion criteria. Among the cohort analyses that reported the sex of participants, 57% included men and women, 42% included men only, and 1% included women only. Sex was most commonly used in statistical analyses to adjust for confounding (69%) and to exclude women from the study population (26%). Between 2000–2004 and 2015–2022, the proportion of cohort analyses including women increased from 48% to 69%. Women remain poorly represented in occupational cohort mortality studies, although over time fewer studies excluded women. Achieving appropriate representation of women in occupational epidemiology research is essential for fully understanding relationships between occupational exposures and health.",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-10-26",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-27",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag278",
+        "doi": "10.1093/aje/kwag278",
+        "url": "https://doi.org/10.1093/aje/kwag278",
+        "title": "Associations between types of residential greenspace and depressive symptoms in older adults: the Multi-Ethnic Study of Atherosclerosis",
+        "authors": [
+          "Jeroen M van Baar",
+          "Allison James",
+          "Marco Chivardi",
+          "Kevin J Lane",
+          "Jaimie L Gradus",
+          "Lilah M Besser",
+          "Jana A Hirsch",
+          "Joel D Kaufman",
+          "Peter James",
+          "Marcia Pescador Jimenez"
+        ],
+        "abstract": "Abstract                   Residential greenspace may prevent older-adult depression, but it is unclear whether this depends on type of greenspace and population subgroup. We examined associations between six greenspace measures and depressive symptoms among 6,799 U.S. older adults in the Multi-Ethnic Study of Atherosclerosis (1-3 observations per participant in 2000–2012). Depressive symptoms were assessed using the Center for Epidemiological Studies Depression scale. Time-varying residential address-linked exposures included street-view-based vegetation (grass, trees, other, and total), satellite-based Normalized Difference Vegetation Index (NDVI), and park access. In fully adjusted mixed-effects Poisson models, overall associations were null (symptom count ratios [CRs], 0.98–1.03 per SD increase). Associations varied by site, race/ethnicity, neighborhood socioeconomic status, and population density. In site-stratified analyses, fewer symptoms were associated with NDVI in New York, NY (CR=0.96, 95% CI: 0.92, 0.99), park access in Winston-Salem, NC (CR=0.95, 95% CI: 0.92, 0.99), and grass in Minneapolis, MN (CR=0.87, 95% CI: 0.79, 0.97). The greenspace metric most strongly associated with fewer symptoms differed across racial/ethnic groups. Greater street-level greenspace was associated with more symptoms in high-density areas. Greenspace–depression associations may therefore depend on greenspace type and context, suggesting that mental-health-oriented greenspace interventions should be tailored to local populations and environments.",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-10-26",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-27",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag279",
+        "doi": "10.1093/aje/kwag279",
+        "url": "https://doi.org/10.1093/aje/kwag279",
+        "title": "Re: Science or Advocacy? The Global Rise of Policy Claims and Calls to Action in Population Health Research (1990-2024)",
+        "authors": [
+          "Abigail Cartus",
+          "Jessica Handy",
+          "Sonja A Swanson"
+        ],
+        "abstract": "",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-10-26",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-27",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag275",
+        "doi": "10.1093/aje/kwag275",
+        "url": "https://doi.org/10.1093/aje/kwag275",
+        "title": "Multimorbidity clustering and implications for clinical trials in low-resource settings",
+        "authors": [
+          "Norman R Williams",
+          "Aamir Ahmed"
+        ],
+        "abstract": "",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-10-26",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-27",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag280",
+        "doi": "10.1093/aje/kwag280",
+        "url": "https://doi.org/10.1093/aje/kwag280",
+        "title": "Interpreting prior-dependent precision in renal tumor growth estimates",
+        "authors": [
+          "Xin Zhao",
+          "Gong Zhang"
+        ],
+        "abstract": "",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-10-26",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-27",
         "fetched_from": "crossref"
       },
       {
@@ -103873,9 +104912,9 @@
   },
   "totals": {
     "socialSecurity": 1575,
-    "elderCare": 686,
-    "healthReform": 1079,
-    "agingHealth": 1011,
+    "elderCare": 694,
+    "healthReform": 1097,
+    "agingHealth": 1028,
     "socialWork": 339
   },
   "feeds_ok": 41
