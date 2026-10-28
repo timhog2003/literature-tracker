@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-27",
-  "fetched": "2026-10-27T06:32:16+00:00",
+  "date": "2026-10-28",
+  "fetched": "2026-10-28T07:00:34+00:00",
   "domains": {
     "socialSecurity": [
       {
@@ -24377,6 +24377,270 @@
         "fetched_from": "crossref"
       },
       {
+        "id": "doi:10.1111/jgs.70814",
+        "doi": "10.1111/jgs.70814",
+        "url": "https://doi.org/10.1111/jgs.70814",
+        "title": "Low‐Use vs. High‐Use Physical Restraint in Older Adults With Sepsis Receiving Mechanical Ventilation: A Multicenter Randomized Clinical Trial",
+        "authors": [
+          "Yue Han",
+          "Wenliang Ma",
+          "Jingyi Wang",
+          "Hao Wang",
+          "Zhigang Chang",
+          "Yuefu Wang",
+          "Na Cui"
+        ],
+        "abstract": "ABSTRACT                                        Background                     Physical restraints are commonly used in patients receiving mechanical ventilation in the intensive care unit (ICU), yet evidence regarding their effectiveness in older patients with sepsis is limited. This study evaluated whether a low‐use physical restraint strategy improves outcomes in older patients with sepsis requiring invasive mechanical ventilation.                                                           Methods                     This multicenter, open‐label, randomized controlled trial was conducted in five ICUs in China from August 2023 to March 2026. Patients aged ≥ 65 years with invasive mechanical ventilation were randomly assigned (1:1) to a low‐use restraint strategy (restraints applied only for severe agitation) or a high‐use restraint strategy (routine restraint use until recovery of consciousness and liberation from mechanical ventilation). The primary outcome was days alive without delirium or coma within 7 days after randomization. Secondary outcomes included delirium incidence, ventilator‐free days, coma‐free days, sedative exposure, 28‐day mortality, and safety events. Analyses were performed using intention‐to‐treat, per‐protocol, and inverse probability weighting approaches.                                                           Results                                            Among 485 randomized patients (median age, 74 years; 60.4% male), 244 received low‐use and 241 high‐use restraint. Delirium‐ and coma‐free days did not differ between groups (adjusted mean difference, 0.17 days; 95% CI, −0.20 to 0.54;                       p                        = 0.37). Low‐use restraint was associated with more ventilator‐free days (0.69 days; 95% CI, 0.48–0.91;                       p                        &lt; 0.001) and coma‐free days (0.46 days; 95% CI, 0.19–0.74;                       p                        = 0.001). No significant between‐group differences were observed in delirium incidence, sedative exposure, 28‐day mortality, or safety outcomes.                                                                                Conclusions                     Among older mechanically ventilated patients with sepsis, a low‐use physical restraint strategy did not improve days alive without delirium or coma but was associated with more ventilator‐free and coma‐free days. These findings suggest that reducing restraint use may facilitate short‐term recovery, although the safety of restraint minimization requires further evaluation.                                                           Trail Registration                     ClinicalTrials.gov identifier: ChiCTR1900025850",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-10-27",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-28",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70807",
+        "doi": "10.1111/jgs.70807",
+        "url": "https://doi.org/10.1111/jgs.70807",
+        "title": "Evaluating Transitional Care Investments Across Diverse Hospitals",
+        "authors": [
+          "Dawn M. Bravata",
+          "Caroline Madrigal",
+          "Stanley E. Taylor",
+          "Alan J. Zillich",
+          "Ashley L. Schwartzkopf",
+          "Claire E. Donnelly",
+          "Anthony J. Perkins",
+          "Laura J. Myers",
+          "Jennifer L. Myers",
+          "Jane Driver",
+          "Cathy C. Schubert",
+          "Shivani K. Jindal",
+          "Scotte R. Hartronft",
+          "Nicholas A. Rattray",
+          "Indrakshi Roy"
+        ],
+        "abstract": "ABSTRACT                                        Background                     Leaders investing in transitional care must consider whether potential economic benefits outweigh costs. We sought to identify drivers of costs/benefits of the nurse‐delivered, telephone‐based Coordinated Transitional Care (CTraC) program and examine how economic returns varied across facilities.                                                           Methods                     A cohort of patients ≥ 65‐years‐old, discharged from hospitals to home after a medical or neurological admission (October 2022–September 2023) was used to identify VA facility: patient volume, 30‐day unplanned readmission rates, and readmission lengths of stay. We obtained VA bed‐day‐of‐care costs, non‐VA charges, and nursing salaries. We estimated facilities' annual net costs/savings from changes in readmissions (2023‐dollars), net per patient costs/savings, and number of VA bed‐days freed from investing in one nurse, given varying program effectiveness (10%–30% relative readmission reduction). Estimates were also calculated for a hypothetical base‐case derived from median facility characteristics.                                                           Results                     Among 99,778 patients discharged from 120 VA hospitals: median facility patient volume was 786; 30‐day unplanned readmission rate was 14.1%. Given one nurse serving 307 patients/year and a 20% readmission reduction among CTraC patients, CTraC was estimated (base‐case) to reduce non‐VA hospital readmission charges by $22,369 and free 55.5 VA bed‐days‐of‐care annually. Savings varied across facilities and were associated with readmission rates and volume. Estimates based on median facility characteristics overstated potential benefits for some hospitals and understated it for others.                                                           Conclusions                     Investments in transitional care may reduce readmissions and generate economic benefit, but the magnitude of returns varied across VA hospitals. Facility‐specific data were essential for accurate assessment of value and informed policy‐making.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-10-27",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-28",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08222-y",
+        "doi": "10.1186/s12877-026-08222-y",
+        "url": "https://doi.org/10.1186/s12877-026-08222-y",
+        "title": "Sensory impairment and oral hygiene dependence as pragmatic risk markers for incident dementia-related functional impairment in municipal long-term care certification data from Japan: a retrospective cohort study, 2015–2025",
+        "authors": [
+          "Keishi Ebisawa"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-27",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-28",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08561-w",
+        "doi": "10.1186/s12877-026-08561-w",
+        "url": "https://doi.org/10.1186/s12877-026-08561-w",
+        "title": "Age-related hearing loss and cognitive decline among community-dwelling older adults: a scoping review",
+        "authors": [
+          "Dukyoo Jung",
+          "Jennie C. De Gagne",
+          "Soogyung Shin",
+          "Sukyung Byeon",
+          "Hyein Seo",
+          "Yoonhee Shin",
+          "Jungeun Lim",
+          "Jihye Lee",
+          "Leeho Yoo"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-27",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-28",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08409-3",
+        "doi": "10.1186/s12877-026-08409-3",
+        "url": "https://doi.org/10.1186/s12877-026-08409-3",
+        "title": "The relationship between empathic tendency and aged discrimination attitudes of nurses",
+        "authors": [
+          "Ertuğrul Sari",
+          "Aysel Özsaban",
+          "Şule Biyik Bayram"
+        ],
+        "abstract": "Abstract                                        Aim                     This study aimed to examine the relationship between nurses’ empathic tendencies and their attitudes toward age discrimination.                                                           Methods                     This is a cross-sectional correlational study included a sample of 305 nurses reached through the snowball sampling method. Data were collected online between April and May 2023 using a Personal Information Form, the Empathic Tendency Scale (ETS), and the Ageism Attitude Scale (AAS). The data were analyzed using descriptive statistics, correlation analysis, and linear regression analysis. This study report followed the STROBE reporting guidelines.                                                           Results                                            The majority of nurses were female, with a mean age of 34.02 ± 8.20 years. Most participants held a bachelor’s degree, and while over half reported a preference for caring for older patients, the majority experienced difficulties in geriatric care. Additionally, more than half had not received training related to the care of older adults. The mean total score of the ETS was 68.453 ± 5.836, while the mean total score of the AAS was 68.797 ± 6.736. A significant relationship was found between the total score of the ETS and both the total score of the AAS and the positive discrimination toward older adults subdimension (                       r                        = 0.201,                       p                        &lt; 0.05;                       r                        = 0.239,                       p                        &lt; 0.05, respectively). The regression model examining the association between empathic tendency and attitudes toward age discrimination was statistically significant (R² = 0.037,                       p                        &lt; 0.001). Empathic tendency was positively and significantly associated with attitudes toward age discrimination (β = 0.201,                       p                        &lt; 0.001), explaining 3.7% of the variance in attitudes toward age discrimination.                                                                                Conclusions                     The findings indicate a positive and significant association between nurses’ empathic tendencies and their attitudes toward age discrimination. Although the strength of this association was weak, higher empathic tendency was associated with more positive attitudes toward older adults. These findings suggest that empathic tendency may be one of several factors associated with nurses’ attitudes toward age discrimination.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-27",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-28",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08570-9",
+        "doi": "10.1186/s12877-026-08570-9",
+        "url": "https://doi.org/10.1186/s12877-026-08570-9",
+        "title": "Association of presarcopenic phenotypes with incident osteoporosis: a prospective UK biobank cohort and proteomic study",
+        "authors": [
+          "Dongxue Xia",
+          "Lei Zhai",
+          "Weijie Gong",
+          "Yuhui Kou",
+          "Guifang Cao",
+          "Yaxuan Bao",
+          "Zongxu Li",
+          "Xinyi Zhang",
+          "Tianlin Gao",
+          "Shiyou Dai"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-27",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-28",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08546-9",
+        "doi": "10.1186/s12877-026-08546-9",
+        "url": "https://doi.org/10.1186/s12877-026-08546-9",
+        "title": "Time trends in the incidence of allergic contact dermatitis in older persons: a 24-year nationwide registry-based study",
+        "authors": [
+          "Suvi-Päivikki Sinikumpu",
+          "Jari Jokelainen",
+          "Laura Huilaja"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-27",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-28",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08518-z",
+        "doi": "10.1186/s12877-026-08518-z",
+        "url": "https://doi.org/10.1186/s12877-026-08518-z",
+        "title": "Beyond chronological age: the self-administered multidimensional prognostic index (SELFY-MPI) as an independent predictor of prolonged hospitalization in older surgical patients",
+        "authors": [
+          "Klara Komici",
+          "Pasquale Avella",
+          "Paolo Bianco",
+          "Germano Guerra",
+          "Salvatore Spiezia",
+          "Vittorio Palermo",
+          "Lorenzo Epis",
+          "Maria Chiara Brunese",
+          "Aldo Rocca"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-27",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-28",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08549-6",
+        "doi": "10.1186/s12877-026-08549-6",
+        "url": "https://doi.org/10.1186/s12877-026-08549-6",
+        "title": "Exploring health-related challenges among older adults: a qualitative study",
+        "authors": [
+          "Efat Sadeghian",
+          "Ali Safdari",
+          "Maryam Madineshat",
+          "Sahar Khoshravesh",
+          "Fatemeh Pakrad"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-27",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-28",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08584-3",
+        "doi": "10.1186/s12877-026-08584-3",
+        "url": "https://doi.org/10.1186/s12877-026-08584-3",
+        "title": "Positive resource-based group reminiscence therapy for older adults with subthreshold depression: protocol for a three-arm randomized controlled trial",
+        "authors": [
+          "Qinghuan Kong",
+          "Xinxin Wang",
+          "Rui Wang",
+          "Mingtu Xu",
+          "Kexin Huang",
+          "Rui Han",
+          "Haiqi Yang",
+          "Zihan Wang",
+          "Pinyi Wu",
+          "Mingming Zhao",
+          "Yizhen Liu",
+          "Yong Jia"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-27",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-28",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1186/s12877-026-08395-6",
         "doi": "10.1186/s12877-026-08395-6",
         "url": "https://doi.org/10.1186/s12877-026-08395-6",
@@ -41864,6 +42128,24 @@
         "fetched_from": "crossref"
       },
       {
+        "id": "doi:10.1093/hsw/hlag047",
+        "doi": "10.1093/hsw/hlag047",
+        "url": "https://doi.org/10.1093/hsw/hlag047",
+        "title": "Health &amp; Social Work",
+        "authors": [],
+        "abstract": "",
+        "source": "Health &amp; Social Work",
+        "issn": "0360-7283",
+        "date": "2026-11-01",
+        "subjects": [],
+        "domains": [
+          "socialWork",
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-28",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1093/aje/kwag228",
         "doi": "10.1093/aje/kwag228",
         "url": "https://doi.org/10.1093/aje/kwag228",
@@ -41879,6 +42161,136 @@
           "healthReform"
         ],
         "firstSeen": "2026-10-27",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.16748",
+        "doi": "10.1001/jama.2026.16748",
+        "url": "https://doi.org/10.1001/jama.2026.16748",
+        "title": "From Breakthrough to Follow-Through—A Public Health Agenda for AI",
+        "authors": [
+          "Adam L. Beckman",
+          "Dave A. Chokshi"
+        ],
+        "abstract": "This Viewpoint discusses the role of artificial intelligence (AI) in ensuring that patients eligible for highly effective interventions are identified and receive them.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-27",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-28",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.10575",
+        "doi": "10.1001/jama.2026.10575",
+        "url": "https://doi.org/10.1001/jama.2026.10575",
+        "title": "Medications for Alcohol Use Disorder",
+        "authors": [
+          "Stephen R. Holt"
+        ],
+        "abstract": "This JAMA Insights examines US Food and Drug Administration–approved medications for alcohol use disorder, including the dosing, efficacy, and adverse effects of naltrexone, acamprosate, and disulfiram.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-27",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-28",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.13980",
+        "doi": "10.1001/jama.2026.13980",
+        "url": "https://doi.org/10.1001/jama.2026.13980",
+        "title": "What Is a Hip Fracture?",
+        "authors": [
+          "Kristin L. Walter"
+        ],
+        "abstract": "This JAMA Patient Page describes how common a hip fracture is, risk factors, how it is diagnosed and treated, and the prognosis.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-27",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-28",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2025.16080",
+        "doi": "10.1001/jama.2025.16080",
+        "url": "https://doi.org/10.1001/jama.2025.16080",
+        "title": "JAMA",
+        "authors": [],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-27",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-28",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmoa2602728",
+        "doi": "10.1056/nejmoa2602728",
+        "url": "https://doi.org/10.1056/nejmoa2602728",
+        "title": "In Vitro Fertilization or Intrauterine Insemination in Unexplained Infertility",
+        "authors": [
+          "Lucy R. Prentice",
+          "Lynn C. Sadler",
+          "Karyn L. Anderson",
+          "Jack D. Wilkinson",
+          "Melissa A. Vercoe",
+          "Sarah F. Lensen",
+          "Elizabeth J. Glanville",
+          "Sarah A. Wakeman",
+          "Leigh M. Searle",
+          "Cynthia M. Farquhar"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-10-27",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-28",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1097/ede.0000000000002056",
+        "doi": "10.1097/ede.0000000000002056",
+        "url": "https://doi.org/10.1097/ede.0000000000002056",
+        "title": "Validity of diagnostic codes for early pregnancy loss in Emergency Department records",
+        "authors": [
+          "Lisa J ZHANG",
+          "Jennifer A HUTCHEON",
+          "Regina RENNER",
+          "Kate Conway",
+          "Brigid DINELEY",
+          "Laura SCHUMMERS",
+          "Erin STRUMPF",
+          "Jessica LIAUW"
+        ],
+        "abstract": "Background:                     Early pregnancy loss (a loss before 20 weeks) is an important reproductive health outcome, but the classification accuracy of diagnostic codes for early pregnancy loss in administrative data is poorly understood. We determined the validity of early pregnancy loss diagnostic codes from emergency department visits compared with medical chart review.                                                           Methods:                     We conducted a validation study of females aged 15-45 years presenting to two emergency departments in Canada (one community and one tertiary hospital) in April 2018 - December 2021. We used random sampling to identify visits with and without early pregnancy loss codes and reviewed medical records to determine the presence or absence of a confirmed early pregnancy loss based on the physician’s final clinical impression. The sensitivity, specificity, positive predictive value and negative predictive value of early pregnancy loss codes were calculated with 95% confidence intervals and weighted using probability of sampling weights.                                                           Results:                     Our sample of 376 visits included 241 with a diagnostic code for early pregnancy loss code in the administrative data and 135 without. Compared with medical chart review, early pregnancy loss codes had good sensitivity (87.4 [95% CI: 68.6 to 95.7]) and specificity (99.3 [95% CI: 99 to 99.5]), but only modest positive predictive value 66.2% [95% CI: 59.5 to 72.3]. Nearly half (49%) of false positive cases were pregnancies of unknown location.                                                           Conclusion:                     Early pregnancy losses are accurately identified in emergency department visit diagnostic codes, but the codes include a sizeable fraction of false positive cases, most notably from pregnancies of unknown location.",
+        "source": "Epidemiology",
+        "issn": "1044-3983",
+        "date": "2026-10-27",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-28",
         "fetched_from": "crossref"
       },
       {
@@ -71601,6 +72013,321 @@
         "fetched_from": "crossref"
       },
       {
+        "id": "doi:10.1111/jgs.70814",
+        "doi": "10.1111/jgs.70814",
+        "url": "https://doi.org/10.1111/jgs.70814",
+        "title": "Low‐Use vs. High‐Use Physical Restraint in Older Adults With Sepsis Receiving Mechanical Ventilation: A Multicenter Randomized Clinical Trial",
+        "authors": [
+          "Yue Han",
+          "Wenliang Ma",
+          "Jingyi Wang",
+          "Hao Wang",
+          "Zhigang Chang",
+          "Yuefu Wang",
+          "Na Cui"
+        ],
+        "abstract": "ABSTRACT                                        Background                     Physical restraints are commonly used in patients receiving mechanical ventilation in the intensive care unit (ICU), yet evidence regarding their effectiveness in older patients with sepsis is limited. This study evaluated whether a low‐use physical restraint strategy improves outcomes in older patients with sepsis requiring invasive mechanical ventilation.                                                           Methods                     This multicenter, open‐label, randomized controlled trial was conducted in five ICUs in China from August 2023 to March 2026. Patients aged ≥ 65 years with invasive mechanical ventilation were randomly assigned (1:1) to a low‐use restraint strategy (restraints applied only for severe agitation) or a high‐use restraint strategy (routine restraint use until recovery of consciousness and liberation from mechanical ventilation). The primary outcome was days alive without delirium or coma within 7 days after randomization. Secondary outcomes included delirium incidence, ventilator‐free days, coma‐free days, sedative exposure, 28‐day mortality, and safety events. Analyses were performed using intention‐to‐treat, per‐protocol, and inverse probability weighting approaches.                                                           Results                                            Among 485 randomized patients (median age, 74 years; 60.4% male), 244 received low‐use and 241 high‐use restraint. Delirium‐ and coma‐free days did not differ between groups (adjusted mean difference, 0.17 days; 95% CI, −0.20 to 0.54;                       p                        = 0.37). Low‐use restraint was associated with more ventilator‐free days (0.69 days; 95% CI, 0.48–0.91;                       p                        &lt; 0.001) and coma‐free days (0.46 days; 95% CI, 0.19–0.74;                       p                        = 0.001). No significant between‐group differences were observed in delirium incidence, sedative exposure, 28‐day mortality, or safety outcomes.                                                                                Conclusions                     Among older mechanically ventilated patients with sepsis, a low‐use physical restraint strategy did not improve days alive without delirium or coma but was associated with more ventilator‐free and coma‐free days. These findings suggest that reducing restraint use may facilitate short‐term recovery, although the safety of restraint minimization requires further evaluation.                                                           Trail Registration                     ClinicalTrials.gov identifier: ChiCTR1900025850",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-10-27",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-28",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70807",
+        "doi": "10.1111/jgs.70807",
+        "url": "https://doi.org/10.1111/jgs.70807",
+        "title": "Evaluating Transitional Care Investments Across Diverse Hospitals",
+        "authors": [
+          "Dawn M. Bravata",
+          "Caroline Madrigal",
+          "Stanley E. Taylor",
+          "Alan J. Zillich",
+          "Ashley L. Schwartzkopf",
+          "Claire E. Donnelly",
+          "Anthony J. Perkins",
+          "Laura J. Myers",
+          "Jennifer L. Myers",
+          "Jane Driver",
+          "Cathy C. Schubert",
+          "Shivani K. Jindal",
+          "Scotte R. Hartronft",
+          "Nicholas A. Rattray",
+          "Indrakshi Roy"
+        ],
+        "abstract": "ABSTRACT                                        Background                     Leaders investing in transitional care must consider whether potential economic benefits outweigh costs. We sought to identify drivers of costs/benefits of the nurse‐delivered, telephone‐based Coordinated Transitional Care (CTraC) program and examine how economic returns varied across facilities.                                                           Methods                     A cohort of patients ≥ 65‐years‐old, discharged from hospitals to home after a medical or neurological admission (October 2022–September 2023) was used to identify VA facility: patient volume, 30‐day unplanned readmission rates, and readmission lengths of stay. We obtained VA bed‐day‐of‐care costs, non‐VA charges, and nursing salaries. We estimated facilities' annual net costs/savings from changes in readmissions (2023‐dollars), net per patient costs/savings, and number of VA bed‐days freed from investing in one nurse, given varying program effectiveness (10%–30% relative readmission reduction). Estimates were also calculated for a hypothetical base‐case derived from median facility characteristics.                                                           Results                     Among 99,778 patients discharged from 120 VA hospitals: median facility patient volume was 786; 30‐day unplanned readmission rate was 14.1%. Given one nurse serving 307 patients/year and a 20% readmission reduction among CTraC patients, CTraC was estimated (base‐case) to reduce non‐VA hospital readmission charges by $22,369 and free 55.5 VA bed‐days‐of‐care annually. Savings varied across facilities and were associated with readmission rates and volume. Estimates based on median facility characteristics overstated potential benefits for some hospitals and understated it for others.                                                           Conclusions                     Investments in transitional care may reduce readmissions and generate economic benefit, but the magnitude of returns varied across VA hospitals. Facility‐specific data were essential for accurate assessment of value and informed policy‐making.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-10-27",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-28",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08222-y",
+        "doi": "10.1186/s12877-026-08222-y",
+        "url": "https://doi.org/10.1186/s12877-026-08222-y",
+        "title": "Sensory impairment and oral hygiene dependence as pragmatic risk markers for incident dementia-related functional impairment in municipal long-term care certification data from Japan: a retrospective cohort study, 2015–2025",
+        "authors": [
+          "Keishi Ebisawa"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-27",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-28",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08561-w",
+        "doi": "10.1186/s12877-026-08561-w",
+        "url": "https://doi.org/10.1186/s12877-026-08561-w",
+        "title": "Age-related hearing loss and cognitive decline among community-dwelling older adults: a scoping review",
+        "authors": [
+          "Dukyoo Jung",
+          "Jennie C. De Gagne",
+          "Soogyung Shin",
+          "Sukyung Byeon",
+          "Hyein Seo",
+          "Yoonhee Shin",
+          "Jungeun Lim",
+          "Jihye Lee",
+          "Leeho Yoo"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-27",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-28",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08409-3",
+        "doi": "10.1186/s12877-026-08409-3",
+        "url": "https://doi.org/10.1186/s12877-026-08409-3",
+        "title": "The relationship between empathic tendency and aged discrimination attitudes of nurses",
+        "authors": [
+          "Ertuğrul Sari",
+          "Aysel Özsaban",
+          "Şule Biyik Bayram"
+        ],
+        "abstract": "Abstract                                        Aim                     This study aimed to examine the relationship between nurses’ empathic tendencies and their attitudes toward age discrimination.                                                           Methods                     This is a cross-sectional correlational study included a sample of 305 nurses reached through the snowball sampling method. Data were collected online between April and May 2023 using a Personal Information Form, the Empathic Tendency Scale (ETS), and the Ageism Attitude Scale (AAS). The data were analyzed using descriptive statistics, correlation analysis, and linear regression analysis. This study report followed the STROBE reporting guidelines.                                                           Results                                            The majority of nurses were female, with a mean age of 34.02 ± 8.20 years. Most participants held a bachelor’s degree, and while over half reported a preference for caring for older patients, the majority experienced difficulties in geriatric care. Additionally, more than half had not received training related to the care of older adults. The mean total score of the ETS was 68.453 ± 5.836, while the mean total score of the AAS was 68.797 ± 6.736. A significant relationship was found between the total score of the ETS and both the total score of the AAS and the positive discrimination toward older adults subdimension (                       r                        = 0.201,                       p                        &lt; 0.05;                       r                        = 0.239,                       p                        &lt; 0.05, respectively). The regression model examining the association between empathic tendency and attitudes toward age discrimination was statistically significant (R² = 0.037,                       p                        &lt; 0.001). Empathic tendency was positively and significantly associated with attitudes toward age discrimination (β = 0.201,                       p                        &lt; 0.001), explaining 3.7% of the variance in attitudes toward age discrimination.                                                                                Conclusions                     The findings indicate a positive and significant association between nurses’ empathic tendencies and their attitudes toward age discrimination. Although the strength of this association was weak, higher empathic tendency was associated with more positive attitudes toward older adults. These findings suggest that empathic tendency may be one of several factors associated with nurses’ attitudes toward age discrimination.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-27",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-28",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08570-9",
+        "doi": "10.1186/s12877-026-08570-9",
+        "url": "https://doi.org/10.1186/s12877-026-08570-9",
+        "title": "Association of presarcopenic phenotypes with incident osteoporosis: a prospective UK biobank cohort and proteomic study",
+        "authors": [
+          "Dongxue Xia",
+          "Lei Zhai",
+          "Weijie Gong",
+          "Yuhui Kou",
+          "Guifang Cao",
+          "Yaxuan Bao",
+          "Zongxu Li",
+          "Xinyi Zhang",
+          "Tianlin Gao",
+          "Shiyou Dai"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-27",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-28",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08546-9",
+        "doi": "10.1186/s12877-026-08546-9",
+        "url": "https://doi.org/10.1186/s12877-026-08546-9",
+        "title": "Time trends in the incidence of allergic contact dermatitis in older persons: a 24-year nationwide registry-based study",
+        "authors": [
+          "Suvi-Päivikki Sinikumpu",
+          "Jari Jokelainen",
+          "Laura Huilaja"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-27",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-28",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08518-z",
+        "doi": "10.1186/s12877-026-08518-z",
+        "url": "https://doi.org/10.1186/s12877-026-08518-z",
+        "title": "Beyond chronological age: the self-administered multidimensional prognostic index (SELFY-MPI) as an independent predictor of prolonged hospitalization in older surgical patients",
+        "authors": [
+          "Klara Komici",
+          "Pasquale Avella",
+          "Paolo Bianco",
+          "Germano Guerra",
+          "Salvatore Spiezia",
+          "Vittorio Palermo",
+          "Lorenzo Epis",
+          "Maria Chiara Brunese",
+          "Aldo Rocca"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-27",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-28",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08549-6",
+        "doi": "10.1186/s12877-026-08549-6",
+        "url": "https://doi.org/10.1186/s12877-026-08549-6",
+        "title": "Exploring health-related challenges among older adults: a qualitative study",
+        "authors": [
+          "Efat Sadeghian",
+          "Ali Safdari",
+          "Maryam Madineshat",
+          "Sahar Khoshravesh",
+          "Fatemeh Pakrad"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-27",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-28",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08584-3",
+        "doi": "10.1186/s12877-026-08584-3",
+        "url": "https://doi.org/10.1186/s12877-026-08584-3",
+        "title": "Positive resource-based group reminiscence therapy for older adults with subthreshold depression: protocol for a three-arm randomized controlled trial",
+        "authors": [
+          "Qinghuan Kong",
+          "Xinxin Wang",
+          "Rui Wang",
+          "Mingtu Xu",
+          "Kexin Huang",
+          "Rui Han",
+          "Haiqi Yang",
+          "Zihan Wang",
+          "Pinyi Wu",
+          "Mingming Zhao",
+          "Yizhen Liu",
+          "Yong Jia"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-27",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-28",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1097/ede.0000000000002056",
+        "doi": "10.1097/ede.0000000000002056",
+        "url": "https://doi.org/10.1097/ede.0000000000002056",
+        "title": "Validity of diagnostic codes for early pregnancy loss in Emergency Department records",
+        "authors": [
+          "Lisa J ZHANG",
+          "Jennifer A HUTCHEON",
+          "Regina RENNER",
+          "Kate Conway",
+          "Brigid DINELEY",
+          "Laura SCHUMMERS",
+          "Erin STRUMPF",
+          "Jessica LIAUW"
+        ],
+        "abstract": "Background:                     Early pregnancy loss (a loss before 20 weeks) is an important reproductive health outcome, but the classification accuracy of diagnostic codes for early pregnancy loss in administrative data is poorly understood. We determined the validity of early pregnancy loss diagnostic codes from emergency department visits compared with medical chart review.                                                           Methods:                     We conducted a validation study of females aged 15-45 years presenting to two emergency departments in Canada (one community and one tertiary hospital) in April 2018 - December 2021. We used random sampling to identify visits with and without early pregnancy loss codes and reviewed medical records to determine the presence or absence of a confirmed early pregnancy loss based on the physician’s final clinical impression. The sensitivity, specificity, positive predictive value and negative predictive value of early pregnancy loss codes were calculated with 95% confidence intervals and weighted using probability of sampling weights.                                                           Results:                     Our sample of 376 visits included 241 with a diagnostic code for early pregnancy loss code in the administrative data and 135 without. Compared with medical chart review, early pregnancy loss codes had good sensitivity (87.4 [95% CI: 68.6 to 95.7]) and specificity (99.3 [95% CI: 99 to 99.5]), but only modest positive predictive value 66.2% [95% CI: 59.5 to 72.3]. Nearly half (49%) of false positive cases were pregnancies of unknown location.                                                           Conclusion:                     Early pregnancy losses are accurately identified in emergency department visit diagnostic codes, but the codes include a sizeable fraction of false positive cases, most notably from pregnancies of unknown location.",
+        "source": "Epidemiology",
+        "issn": "1044-3983",
+        "date": "2026-10-27",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-28",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261498377",
+        "doi": "10.1177/13872877261498377",
+        "url": "https://doi.org/10.1177/13872877261498377",
+        "title": "The influence of caregivers’ lived experiences in decision-making processes on care transitions in young-onset dementia",
+        "authors": [
+          "Dennis van de Veen",
+          "Bo Smeets",
+          "Kirsten Peetoom",
+          "Marjolein de Vugt",
+          "Christian Bakker",
+          "Raymond Koopmans"
+        ],
+        "abstract": "Background                     Caregivers of people with young-onset dementia (YOD) hold diverse perspectives on the caregiving trajectory, reflecting the heterogeneity of underlying etiologies and the life stages of these people, who are often in the midst of employment, child-rearing, and other social responsibilities. Post-diagnostic care and services are often suboptimal and caregivers tend to be hesitant to initiate formal care and support services. We refer to movements of persons between different levels of care or physical locations as care transitions.                                                           Objective                     To improve caregiver support, this study aimed to provide insights into caregivers’ perspectives on the decision-making process regarding care transitions and associated barriers and facilitators.                                                           Methods                     Seventeen interviews with six caregivers of people with YOD were analyzed. Inductive content analysis was used to generate codes, followed by constant comparative analysis to create categories and themes describing caregivers’ experiences.                                                           Results                     Barriers and facilitators influencing the decision-making process related to the initiation of care transitions were identified at two themes: individual and contextual level. Six categories and 23 sub-categories emerged. Individual-level categories included the character traits of the caregiver, the caregiver's need for support, impacts on the quality of the caregiver's relationship, and the burden experienced by the caregiver. Contextual-level categories included the social environment and the caregivers’ experiences with healthcare professionals.                                                           Conclusions                     Caregivers’ decision-making regarding care transitions is shaped by thinking processes, character traits and contextual aspects. Healthcare professionals should strengthen collaboration and communication with caregivers. Acknowledging grief and supporting caregivers'sense of control are essential to providing adequate support.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-10-27",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-28",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1186/s12877-026-08395-6",
         "doi": "10.1186/s12877-026-08395-6",
         "url": "https://doi.org/10.1186/s12877-026-08395-6",
@@ -97279,6 +98006,43 @@
     ],
     "socialWork": [
       {
+        "id": "doi:10.1093/hsw/hlag047",
+        "doi": "10.1093/hsw/hlag047",
+        "url": "https://doi.org/10.1093/hsw/hlag047",
+        "title": "Health &amp; Social Work",
+        "authors": [],
+        "abstract": "",
+        "source": "Health &amp; Social Work",
+        "issn": "0360-7283",
+        "date": "2026-11-01",
+        "subjects": [],
+        "domains": [
+          "socialWork",
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-28",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/sw/swag055",
+        "doi": "10.1093/sw/swag055",
+        "url": "https://doi.org/10.1093/sw/swag055",
+        "title": "Navigating Family Estrangement: Helping Adults Understand and Manage the Challenges of Family Estrangement. Karl Melvin",
+        "authors": [
+          "E Michael Watts"
+        ],
+        "abstract": "",
+        "source": "Social Work",
+        "issn": "0037-8046",
+        "date": "2026-10-27",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-28",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1007/s10896-026-01196-w",
         "doi": "10.1007/s10896-026-01196-w",
         "url": "https://doi.org/10.1007/s10896-026-01196-w",
@@ -104912,10 +105676,10 @@
   },
   "totals": {
     "socialSecurity": 1575,
-    "elderCare": 694,
-    "healthReform": 1097,
-    "agingHealth": 1028,
-    "socialWork": 339
+    "elderCare": 704,
+    "healthReform": 1104,
+    "agingHealth": 1040,
+    "socialWork": 341
   },
   "feeds_ok": 41
 }
