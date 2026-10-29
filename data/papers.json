@@ -1,8 +1,27 @@
 {
-  "date": "2026-10-28",
-  "fetched": "2026-10-28T07:00:34+00:00",
+  "date": "2026-10-29",
+  "fetched": "2026-10-29T07:22:33+00:00",
   "domains": {
     "socialSecurity": [
+      {
+        "id": "doi:10.1111/jori.70086",
+        "doi": "10.1111/jori.70086",
+        "url": "https://doi.org/10.1111/jori.70086",
+        "title": "Personality, longevity insurance, and the timing of Social Security claiming",
+        "authors": [
+          "Derek Tharp"
+        ],
+        "abstract": "Abstract                   Delaying a Social Security claim buys a larger inflation‐indexed annuity, a form of longevity insurance. Because claiming‐age adjustments are uniform within birth cohorts, delay is worth more to those likely to live longer, so traits that predict longer lives should predict later claiming. In the Health and Retirement Study, we relate Big Five traits measured before receipt to the age at first reported Social Security income of any type between 62 and 70. Converting each trait's mortality difference into the claiming age maximizing expected present value gives a benchmark for observed timing. Timing moves toward the benchmark for traits predicting shorter lives, by less than mortality implies, with openness the exception. Conscientiousness, the strongest longevity predictor, implies about 6 months of later claiming per standard deviation, yet we detect no later receipt. Personality makes observable a mortality difference that claiming models treat as latent.",
+        "source": "Journal of Risk and Insurance",
+        "issn": "0022-4367",
+        "date": "2026-10-27",
+        "subjects": [],
+        "domains": [
+          "socialSecurity"
+        ],
+        "firstSeen": "2026-10-29",
+        "fetched_from": "crossref"
+      },
       {
         "id": "doi:10.1111/1468-0009.70136",
         "doi": "10.1111/1468-0009.70136",
@@ -24329,6 +24348,367 @@
     ],
     "elderCare": [
       {
+        "id": "doi:10.1186/s12877-026-07526-3",
+        "doi": "10.1186/s12877-026-07526-3",
+        "url": "https://doi.org/10.1186/s12877-026-07526-3",
+        "title": "Weekly community mobility patterns among older adults in a Brazilian city: a GPS-based study",
+        "authors": [
+          "Janio Carlos Pessanha Coelho",
+          "Viviane Nogueira de Zorzi",
+          "Carla Elane Silva dos Santos",
+          "Adalberto Aparecido dos Santos Lopes",
+          "Adriano Akira Ferreira Hino",
+          "Eleonora d’Orsi",
+          "Cassiano Ricardo Rech"
+        ],
+        "abstract": "Abstract                                        Background                     Active community mobility is critical for preserving physical health, autonomy, and functional capacity in older adults. However, in Latin America, objective assessments using Global Positioning System (GPS) data remain scarce, hindering the development of targeted, evidence-based strategies for healthy aging.                                                           Objective                     To characterize weekly mobility patterns and analyze variations in active travel based on sociodemographic, health, and environmental factors among older adults in a Brazilian urban setting.                                                           Methods                     This cross-sectional study involved 276 community-dwelling individuals (≥ 60 years) in Florianópolis, Brazil. Participants wore a GPS device for seven consecutive days to objectively record all trips and travel modes. Data were integrated with household interview results and neighborhood-level census data (walkability and income).                                                           Results                                            Participants averaged 23.3 trips per week, with 71.7% classified as active (primarily walking). Despite this high frequency, only 9.8% met the ≥ 150 min/week physical activity threshold through transportation alone. Active travel significantly differed by education level and nutritional status (                       p                        &lt; 0.05), while neighborhood walkability and contextual income showed no clear association with mobility indicators.                                                                                Conclusions                     While older adults engage frequently in active travel, the volume is often insufficient to meet global physical activity recommendations. Objective GPS data offer crucial insights for designing age-friendly urban policies and public health interventions tailored to middle-income contexts.                                                           Clinical Trial Registration                     Not applicable. This study is observational in nature and does not involve a clinical trial.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-29",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-29",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08429-z",
+        "doi": "10.1186/s12877-026-08429-z",
+        "url": "https://doi.org/10.1186/s12877-026-08429-z",
+        "title": "The effect of individual factors on the attitude of age discrimination with the empathy levels of family physicians: Samsun example",
+        "authors": [
+          "Mustafa Unal",
+          "Muhammed Emin Göktepe",
+          "Mustafa Bağlar"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-29",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-29",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70770",
+        "doi": "10.1111/jgs.70770",
+        "url": "https://doi.org/10.1111/jgs.70770",
+        "title": "The\n                    <scp>AGS</scp>\n                    Older Adults Vaccine Initiative: Findings From Seven Participating Health Systems",
+        "authors": [
+          "Timothy W. Farrell",
+          "Nuzha A. Amjad",
+          "Ariba Khan",
+          "Jorge Isaac Peña Garcia",
+          "Megan Puckett",
+          "Jonathan Soffer",
+          "Fariha B. Sultan",
+          "Dona Varghese",
+          "Lisa M. Walke",
+          "Nicholas Brening",
+          "Tong Han Chung",
+          "Bryanna De Lima",
+          "Yen‐Chi Le",
+          "Vimmi Panchal",
+          "Michelle Simpson",
+          "Vikrant Tambe",
+          "Camille P. Vaughan",
+          "Sofia Wills",
+          "Nancy E. Lundebjerg",
+          "Sharon A. Brangman"
+        ],
+        "abstract": "ABSTRACT                   In 2021, the American Geriatrics Society (AGS) launched the Older Adults Vaccine Initiative (AGS Older Adults Vaccine Initiative) with support from the Centers for Disease Control and Prevention (CDC) of the US Department of Health and Human Services (HHS) under a 5‐year financial assistance award to the Council of Medical Specialty Societies called Specialty Societies Advancing Adult Immunization (SSAAI). As the lead organization for the Older Adults Vaccine Initiative, AGS set an overall goal of increasing vaccination rates in older adults across seven health systems, focusing on influenza and COVID‐19 vaccination. The Council of Medical Specialty Societies along with the participating societies identified several challenges to vaccination, including data collection, vaccine hesitancy and fatigue, and integration into clinical workflows. This paper presents the outcome of a modest improvement in influenza and COVID‐19 vaccination rates within the context of an overall decrease in national vaccination rates and also describes how health systems: (1) implemented multiple strategies to increase vaccination rates; (2) tailored strategies to the needs of their system; and (3) layered in overlapping interventions strategies and interventions. The AGS Older Adults Vaccine Initiative demonstrates that a coordinated system‐level approach, such as those implemented by the participating health systems, is important to increase vaccination rates in older adults and provide a foundation for increasing vaccination rates in the future. These approaches included interventions that address structure and process, health care workforce, and patient‐level barriers, thus ensuring their sustainability beyond the AGS Older Adults Vaccine Initiative.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-10-28",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-29",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70808",
+        "doi": "10.1111/jgs.70808",
+        "url": "https://doi.org/10.1111/jgs.70808",
+        "title": "Use of Opioids and Opioid Potentiators Among Nursing Home Residents in the United States: National Prevalence and Correlates",
+        "authors": [
+          "Yang Jiao",
+          "Leelakrishna Channa",
+          "Tychique T. Wasolua",
+          "Richard H. Fortinsky",
+          "Karina M. Berg",
+          "Joseph S. Ross",
+          "Taeho Greg Rhee"
+        ],
+        "abstract": "ABSTRACT                                        Background                     Concurrent use of opioids and opioid potentiators (i.e., benzodiazepines, non‐benzodiazepines, and gabapentinoids) can elevate the risks of potential harms (e.g., hospitalizations and deaths). However, no study has yet examined the co‐use of opioids and opioid potentiators in US nursing homes.                                                           Methods                     We used nationally‐representative data in 2019 from Minimum Data Set 3.0 (MDS 3.0) linked with Part D claims and other data sources, and measured length of opioid use in the 120 days from the index assessment (short‐term users: ≤ 30 days; medium‐term users: 31–89 days, and long‐term users: ≥ 90 days). In this cross‐sectional study design, we estimated prevalence of opioid use and co‐use of opioids and opioid potentiators by duration of opioid use. We also estimated resident‐ and facility‐level factors associated with opioid use and co‐use of opioids and opioid potentiators in long‐stay nursing home residents.                                                           Results                                            Of 135,347 long‐stay nursing home residents, 32,550 (24.0%) had any opioid prescriptions. 7.1% were short‐term opioid users, 5.5% were mid‐term opioid users, and 11.4% were long‐term opioid users. Among opioid users, 52.0% also had any opioid potentiators. The most frequently used potentiator class was gabapentinoids, followed by benzodiazepines and non‐benzodiazepines. Pain and other comorbid conditions (e.g., anxiety) were significantly associated with such uses (                       p                        &lt; 0.001). Cognitive impairment and dementia were associated with lower odds of opioid use and co‐use of opioid‐potentiators (                       p                        &lt; 0.01).                                                                                Conclusions                     Long‐term opioid use in older nursing home residents remains prevalent. The co‐use of opioids and opioid potentiators is also prevalent in this population. Because co‐use of opioid‐potentiators can pose elevated risks for potentially avoidable harms, safer opioid‐related medication use needs to be emphasized in long‐term care settings. Alternatives to opioid use (e.g., non‐opioid pain medications and physical therapy) should be considered, and regular medication reviews and deprescribing efforts will be critical in residents taking opioids in nursing home settings.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-10-28",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-29",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70813",
+        "doi": "10.1111/jgs.70813",
+        "url": "https://doi.org/10.1111/jgs.70813",
+        "title": "Effectiveness of the\n                    <scp>RISE</scp>\n                    Intervention for Elder Abuse and Self‐Neglect: A Pragmatic Randomized Controlled Trial",
+        "authors": [
+          "David Burnes",
+          "Andie MacNeil",
+          "Marta Hajek",
+          "Laura Ostler",
+          "Stephanie Conant",
+          "Chenell Small",
+          "Andria Allen",
+          "Laura Proctor",
+          "Polly Madson Cox",
+          "Patricia Kimball",
+          "Marie‐Therese Connolly",
+          "Stuart Lewis"
+        ],
+        "abstract": "ABSTRACT                                        Background                     Elder abuse and self‐neglect (EASN) are prevalent and associated with significant adverse health and psychosocial outcomes, yet evidence on effective interventions remains limited. RISE is a community‐based intervention designed to address EASN. This study evaluated the effectiveness and acceptability of RISE in a real‐world community setting.                                                           Methods                     We conducted a pragmatic, parallel‐group, superiority randomized controlled trial with blinded outcome assessment. Older adults screened as at risk of or experiencing EASN were randomized following an initial consultation to receive either RISE plus consultation (intervention group) or consultation and referral provision only (control group). Blinded outcome assessment occurred at baseline, 3‐month, and 6‐month follow‐up using telephone‐based surveys. Primary outcomes included psychosocial measures of life satisfaction, perceived stress, self‐efficacy, social support, and problem concern. Linear mixed‐effects models were used to evaluate group differences over time. Program satisfaction at 6 months was assessed using multiple linear regression.                                                           Results                                            114 participants entered the baseline analysis cohort; 93 completed three‐month and 79 completed six‐month assessments. RISE participants showed significantly greater improvement over time in life satisfaction (                       p                        &lt; 0.001), perceived stress (                       p                        = 0.001), general self‐efficacy (                       p                        = 0.023), social‐interaction self‐efficacy (                       p                        &lt; 0.001), emotional support (                       p                        = 0.002), and informational support (                       p                        &lt; 0.001). Problem concern did not show differential change (                       p                        = 0.404). Adjusted six‐month program satisfaction was 4.61 points significantly higher with RISE (95% CI 3.25–5.97;                       p                        &lt; 0.001).                                                                                Conclusions                     RISE was associated with improvements across multiple psychosocial domains and high participant satisfaction among EASN older adults. Findings provide evidence supporting a scalable, community‐based response to EASN in jurisdictions lacking centralized protective service systems.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-10-28",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-29",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08459-7",
+        "doi": "10.1186/s12877-026-08459-7",
+        "url": "https://doi.org/10.1186/s12877-026-08459-7",
+        "title": "Sternal fractures and injury severity score in older adults",
+        "authors": [
+          "Nazlı Karakuş Kenan",
+          "Ferdane Melike Duran"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-28",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-29",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08460-0",
+        "doi": "10.1186/s12877-026-08460-0",
+        "url": "https://doi.org/10.1186/s12877-026-08460-0",
+        "title": "Exploring nutritional challenges and health risks in older women in rural primary health care setting in Western India",
+        "authors": [
+          "S. R. Aswathy",
+          "P Bhardwaj",
+          "V. R. Rehana",
+          "H. Viswanathan",
+          "A. Prakash",
+          "MK Gupta",
+          "S. Srinivasan",
+          "PP Sharma",
+          "AD Goel"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-28",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-29",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08497-1",
+        "doi": "10.1186/s12877-026-08497-1",
+        "url": "https://doi.org/10.1186/s12877-026-08497-1",
+        "title": "Peripheral cytokine profiles contribute to machine learning model of frailty",
+        "authors": [
+          "Thomas E Akie",
+          "Ethan Loew",
+          "Ziyuan Huang",
+          "Haley A Neff",
+          "Olivia P Michaels",
+          "John P Haran"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-28",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-29",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08595-0",
+        "doi": "10.1186/s12877-026-08595-0",
+        "url": "https://doi.org/10.1186/s12877-026-08595-0",
+        "title": "Development and international validation of machine learning models for predicting incident disability in older adults: a multi-cohort study using CHARLS, HRS, and ELSA",
+        "authors": [
+          "Haoyu Liu",
+          "Yunhui Chen",
+          "Xue Yang",
+          "Shouyan Wang"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-28",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-29",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08516-1",
+        "doi": "10.1186/s12877-026-08516-1",
+        "url": "https://doi.org/10.1186/s12877-026-08516-1",
+        "title": "Orthostatic blood pressure fluctuations and risk of falls in community-dwelling older adults: the role of recovery time",
+        "authors": [
+          "Valeria Arbieto Alvarez",
+          "Clara Hertneck",
+          "Dietrich Rothenbacher",
+          "Michael Denkinger",
+          "Dhayana Dallmeier"
+        ],
+        "abstract": "Abstract                                        Background                     Available literature related to the association between orthostatic blood pressure (BP) variations and falls is controversial. We analyzed how orthostatic hypo- (OH) and hypertension (OHTN) relate to falls considering recovery time (RT) in community-dwelling older adults.                                                           Methods                     This analysis uses data from the ActiFE cohort. BP was measured lying, immediately, 1, 2 and 3 min after standing. Systolic OH (sOH) and systolic OHTN (sOHTN) indicate a systolic BP (SBP) drop or increment ≥20 mm Hg, respectively. OH and OHTN further consider a diastolic BP (DBP) drop or increment ≥10 mm Hg. RT was categorized as Early Recovery ( &lt; 1 min), Delayed Recovery (1-3 min), or No Recovery. Falls over 12 months were collected prospectively. Logistic regression examined associations with falls, adjusting for age, sex, diabetes, hemoglobin, instrumental activities of daily living, hand strength, fall risk-increasing drugs, past falls, Falls Efficacy Scale-International and anxiety.                                                           Results                     Among 509 subjects (mean age 79 years, 44% female, 168 falls), prevalences were: 16.5% sOH, 26.9% OH, 9.0% sOHTN and 15.5% OHTN. Overall, OH was not associated with falls. However, falls risk increased with Delayed (OR 3.11 [95% CI 1.21-8.01]) and NoRecovery (OR 4.04 [95% CI 1.07-15.26]). sOH showed an adjusted OR of 2.00 [95% CI 1.15-3.47] for at least one fall. Regarding RT the risk of falls was increased in Delayed (OR 4.73 [95% CI 1.71-13.10]) and No Recovery (OR 5.06 [95% CI 1.42-22.27]). OHTN was not associated with falls.                                                           Conclusions                     Overall, only sOH was associated with falls. When RT was considered, those with Delayed and No Recovery showed higher risk of falls regardless of the OH definition used.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-28",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-29",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08591-4",
+        "doi": "10.1186/s12877-026-08591-4",
+        "url": "https://doi.org/10.1186/s12877-026-08591-4",
+        "title": "Outcomes of a regional university-led healthy ageing program supporting everyday function, cognition and mobility in older adults: a non-experimental pre-post observational study",
+        "authors": [
+          "Melissa Nott",
+          "Kristy Robson"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-28",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-29",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08585-2",
+        "doi": "10.1186/s12877-026-08585-2",
+        "url": "https://doi.org/10.1186/s12877-026-08585-2",
+        "title": "Association of fat-to-muscle ratio with MoCA-defined cognitive impairment in older adults",
+        "authors": [
+          "Yuanfeng Song",
+          "Zhaopei Cai",
+          "Dan Zhao",
+          "Binfa Ouyang",
+          "Shan Xu",
+          "Xiaolin Peng",
+          "Xuan Zhong"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-28",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-29",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08580-7",
+        "doi": "10.1186/s12877-026-08580-7",
+        "url": "https://doi.org/10.1186/s12877-026-08580-7",
+        "title": "Paramedics’ experiences of using the clinical frailty scale in prehospital care: a qualitative study",
+        "authors": [
+          "Stine Ibsen",
+          "Kristine Sørensen",
+          "Mads Lyngby",
+          "Kenneth Rødsgaard",
+          "Jannie Gram",
+          "Allan Riis",
+          "Erik Zakariassen",
+          "Tim Lindskou",
+          "Morten Breinholt Søvsø"
+        ],
+        "abstract": "Abstract                                        Background                     The demographic shift toward an ageing population has increased focus on frailty. Frailty has become increasingly recognized as a critical factor in clinical decision-making and the Clinical Frailty Scale (CFS) has gained widespread use across healthcare settings. This study explores paramedics’ experiences using CFS for older patients.                                                           Methods                     This study uses a qualitative research design and incorporates semi-structured interviews to explore paramedics’ experience of the feasibility and practical application of CFS in prehospital care. The study is part of a larger project on the use of CFS for older patients (≥ 65 years) in prehospital care in the North Denmark Region. During the study period 432 of 2 084 patients (21%) had a documented CFS score. CFS scores spanned all nine categories of the scale. The study is inspired from hermeneutic philosophy and frailty assessment theory. Individual face-to-face semi-structured interviews were conducted, and data was analysed using thematic analysis, inspired by Braun and Clarke’s six-phase framework.                                                           Results                     A total of eleven paramedics participated in the interviews (ten men and one woman). The median age was 38 years, and participants had a median of 11 years of experience in the prehospital setting. Three main themes emerged: (1) Older patients – complexity and clinical assessment (2) Making CFS work in the prehospital practice (3) CFS as a shared language in cross-sector collaboration. Older patients were perceived as a complex and habitually ill population requiring an adapted clinical mindset. Distinction between acute illness and frailty was described as challenging in the prehospital setting. CFS was considered to serve as a bridge between sectors and professional discipline.                                                           Conclusion                     CFS was generally perceived as relevant and as a tool that can support continuity of care and create a shared language around frailty. The findings highlight the importance of paramedics understanding the purpose and application of CFS and how the assessment may contribute to patient care across sectors. These considerations may be relevant when supporting the use of CFS in routine prehospital practice.                                                           Clinical trial number                     Not applicable.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-28",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-29",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08548-7",
+        "doi": "10.1186/s12877-026-08548-7",
+        "url": "https://doi.org/10.1186/s12877-026-08548-7",
+        "title": "Associations of fat-free mass index and handgrip strength with carotid intima-media thickness among community-dwelling adults aged 60 years and older in Chuncheon, Korea: a cross-sectional study",
+        "authors": [
+          "Hye-Jin Kim",
+          "Chulho Kim"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-28",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-29",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1186/s12877-026-08590-5",
         "doi": "10.1186/s12877-026-08590-5",
         "url": "https://doi.org/10.1186/s12877-026-08590-5",
@@ -42143,6 +42523,518 @@
           "healthReform"
         ],
         "firstSeen": "2026-10-28",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmoa2605812",
+        "doi": "10.1056/nejmoa2605812",
+        "url": "https://doi.org/10.1056/nejmoa2605812",
+        "title": "Immediate Ambulatory Electrocardiographic Monitoring in Syncope",
+        "authors": [
+          "Matthew J. Reed",
+          "Steve Goodacre",
+          "Christopher J. Weir",
+          "Lynn Dinsmore",
+          "Amy Nugent",
+          "Titouan Kennel",
+          "Christopher C. Lang",
+          "Neil R. Grubb",
+          "Praveen Thokala",
+          "Karen Kilcoyne",
+          "Rachel O’Brien",
+          "Caroline Blackstock",
+          "Shona McDonald",
+          "Nicola Freeman",
+          "Ellise Clarke",
+          "Imad Adamestam",
+          "Louise Taylor"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-10-29",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-29",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmc2514812",
+        "doi": "10.1056/nejmc2514812",
+        "url": "https://doi.org/10.1056/nejmc2514812",
+        "title": "SLC6A19 Inhibitor Repinatrabit and Phenylalanine Levels in Phenylketonuria",
+        "authors": [
+          "Cary O. Harding",
+          "Nicola Longo",
+          "Markey McNutt",
+          "Rani H. Singh",
+          "Andreu Viader",
+          "George Vratsanos",
+          "Haoling H. Weng",
+          "Elaina Jurecki",
+          "Fernanda Leal-Pardinas",
+          "Wei Li",
+          "Guissou Dabiri",
+          "John P. Throup",
+          "Ania C. Muntau"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-10-29",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-29",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmc2518656",
+        "doi": "10.1056/nejmc2518656",
+        "url": "https://doi.org/10.1056/nejmc2518656",
+        "title": "Gene Therapy for Phenylketonuria in Adults",
+        "authors": [
+          "Huan Zhou",
+          "Xiaoli Li",
+          "Jiaxiang Ding",
+          "Hongtao Li",
+          "Yue Su",
+          "Jingjing Ye",
+          "Xiaoyue Li",
+          "Dongmei Cheng",
+          "Ying Wang",
+          "Yuzhou Ding",
+          "Jie Si",
+          "Lin Zhan",
+          "Yunqiu Xie",
+          "Yuanyuan Liu",
+          "Nan Han",
+          "Gang Wang",
+          "Yiting Liu",
+          "Guang Qu",
+          "Lixin Jiang",
+          "Jianping Weng"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-10-29",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-29",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmc2609764",
+        "doi": "10.1056/nejmc2609764",
+        "url": "https://doi.org/10.1056/nejmc2609764",
+        "title": "Neuroepithelial Tumor with AAV Integration",
+        "authors": [],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-10-29",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-29",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmc2610348",
+        "doi": "10.1056/nejmc2610348",
+        "url": "https://doi.org/10.1056/nejmc2610348",
+        "title": "Ensartinib in\n                    <i>ALK</i>\n                    -Positive Non–Small-Cell Lung Cancer",
+        "authors": [],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-10-29",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-29",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmc2611462",
+        "doi": "10.1056/nejmc2611462",
+        "url": "https://doi.org/10.1056/nejmc2611462",
+        "title": "Syncope",
+        "authors": [],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-10-29",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-29",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmc2611610",
+        "doi": "10.1056/nejmc2611610",
+        "url": "https://doi.org/10.1056/nejmc2611610",
+        "title": "Sirolimus-Coated Balloon Angioplasty for Infrainguinal Artery Disease",
+        "authors": [],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-10-29",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-29",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmcpc2603185",
+        "doi": "10.1056/nejmcpc2603185",
+        "url": "https://doi.org/10.1056/nejmcpc2603185",
+        "title": "Case 31-2026: A 42-Year-Old Pregnant Woman with Vaginal Hemorrhage",
+        "authors": [
+          "Malavika Prabhu",
+          "Allan S. Nadel",
+          "Annekathryn Goodman",
+          "Emily M. Hatheway Marshall"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-10-29",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-29",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejme2612346",
+        "doi": "10.1056/nejme2612346",
+        "url": "https://doi.org/10.1056/nejme2612346",
+        "title": "Cardiac Monitors for Unexplained Syncope — More Benefit than Expected?",
+        "authors": [
+          "Marc A. Probst"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-10-29",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-29",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmicm2609770",
+        "doi": "10.1056/nejmicm2609770",
+        "url": "https://doi.org/10.1056/nejmicm2609770",
+        "title": "Splenosis",
+        "authors": [
+          "Mariam Markouli",
+          "Jason Freed"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-10-29",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-29",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmimc2600356",
+        "doi": "10.1056/nejmimc2600356",
+        "url": "https://doi.org/10.1056/nejmimc2600356",
+        "title": "An Element Out of Place",
+        "authors": [
+          "Suhas Gondi",
+          "David E. Velasquez",
+          "Andrew Allbee",
+          "J. Carl Pallais",
+          "Anand Vaidya",
+          "Bruce D. Levy"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-10-29",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-29",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmra2506114",
+        "doi": "10.1056/nejmra2506114",
+        "url": "https://doi.org/10.1056/nejmra2506114",
+        "title": "Gram-Negative Bacterial Resistance",
+        "authors": [
+          "Pranita D. Tamma"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-10-29",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-29",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.18146",
+        "doi": "10.1001/jama.2026.18146",
+        "url": "https://doi.org/10.1001/jama.2026.18146",
+        "title": "Left Bundle-Branch Area Pacing vs Right Ventricular Pacing for Atrioventricular Block and Preserved Left Ventricular Function",
+        "authors": [
+          "Xiaofei Li",
+          "Haixiong Wang",
+          "Wenjuan Zhang",
+          "Ling You",
+          "Chunguang Qiu",
+          "Fengpeng Jia",
+          "Zhimin Liu",
+          "Xiaoming Li",
+          "Ruxing Wang",
+          "Taibo Chen",
+          "Wenhua Lin",
+          "Ming Ren",
+          "Kang’an Cheng",
+          "Hui Peng",
+          "Jing Zhou",
+          "Haitao Yang",
+          "Yongquan Wu",
+          "Haojie Zhu",
+          "Zhao Wang",
+          "Chen He",
+          "Zhijun Sun",
+          "Songyun Chu",
+          "Yang Wang",
+          "Wei Li",
+          "Yanyan Zhao",
+          "Michael R. Gold",
+          "Kenneth A. Ellenbogen",
+          "Yan Yao",
+          "Xiaohan Fan",
+          "Hongshi Li",
+          "Yunlong Fan",
+          "Wennan Liu",
+          "Xuebin Han",
+          "Jun Li",
+          "Ying Ma",
+          "Changying Zhang",
+          "Deyan Yang",
+          "Juan Du",
+          "Qian Liu",
+          "Xiaolin Zheng",
+          "Wenjie Lu",
+          "Weiping Sun",
+          "Zefeng Wang",
+          "Botao Zhu",
+          "Beibing Di",
+          "Nixiao Zhang",
+          "Jingjing Liu",
+          "Yafei He",
+          "Rui Xiang",
+          "Yandong Su",
+          "Xiaosheng Chen"
+        ],
+        "abstract": "Importance                     For patients with atrioventricular block requiring high-burden ventricular pacing, the optimal pacing strategy to reduce heart failure (HF) and all-cause mortality remains uncertain. Robust comparative evidence on the clinical outcomes of left bundle-branch area pacing (LBBAP) vs right ventricular pacing (RVP) in this population is needed.                                                           Objective                     To compare 24-month clinical outcomes of LBBAP vs RVP in patients with atrioventricular block and preserved left ventricular ejection fraction (LVEF; ≥50%).                                                           Design, Setting, and Participants                     The LEAP-Block study was a prospective, multicenter, randomized, controlled, superiority trial conducted across 14 Chinese hospitals from January 2021 to August 2025, with last follow-up on June 3, 2025. Of 551 patients with LVEF 50% or greater requiring ventricular pacing who underwent eligibility assessment, 499 with anticipated ventricular pacing greater than 40% were randomized.                                                           Interventions                     Patients were randomized in a 1:1 ratio to LBBAP (n = 249) or RVP (n = 250).                                                           Main Outcomes and Measures                     The primary end point was a composite of all-cause death, HF events, or upgrade to biventricular pacing at 24 months. Secondary end points included pacing-induced cardiomyopathy and device-related complications.                                                           Results                                            The primary analysis included 482 patients (LBBAP, n = 242; RVP, n = 240; mean age, 67 years; 46% female). Acute procedure success was comparable between the 2 groups (LBBAP, 237/242 [97.9%] vs RVP, 239/240 [99.6%];                       P                        = .22), with left bundle-branch capture confirmed in 188 of 236 patients (79.7%). LBBAP significantly reduced the primary end point vs RVP (2.4% vs 12.5%, respectively; absolute risk difference, −10.1% [95% CI, −16.8% to −3.4%];                       P                        = .003). Among secondary outcomes, the LBBAP group had fewer HF events (3.4% vs 11.3%; −7.9% [95% CI, −13.0% to −2.8%]). No significant differences were observed in all-cause death, biventricular pacing upgrade, device-related complications, or pacing-induced cardiomyopathy. The 24-month Kaplan-Meier estimated cumulative incidence of the primary end point was 5.0% for LBBAP vs 13.2% for RVP (hazard ratio, 0.37 [95% CI, 0.19 to 0.73];                       P                        = .004). LBBAP superiority was consistent across all prespecified subgroups.                                                                                Conclusions and Relevance                     Among patients with atrioventricular block and preserved LVEF requiring high-burden ventricular pacing, LBBAP was superior to RVP in reducing the risk of the composite end point of all-cause death, HF events, or upgrade to biventricular pacing at 24 months.                                                           Trial Registration                                            ClinicalTrials.gov Identifier:                       NCT04730921",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-28",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-29",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.16552",
+        "doi": "10.1001/jama.2026.16552",
+        "url": "https://doi.org/10.1001/jama.2026.16552",
+        "title": "Diagnosis and Management of Acute Rhinosinusitis in Adults",
+        "authors": [
+          "James Fan",
+          "Jason T. Alexander"
+        ],
+        "abstract": "This JAMA Clinical Guidelines Synopsis summarizes the 2025 update of the American Academy of Otolaryngology–Head and Neck Surgery Foundation guideline on diagnosis and management of acute rhinosinusitis in adults.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-28",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-29",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.19090",
+        "doi": "10.1001/jama.2026.19090",
+        "url": "https://doi.org/10.1001/jama.2026.19090",
+        "title": "Left Bundle-Branch Area Pacing vs Right Ventricular Pacing for Atrioventricular Block and Preserved Left Ventricular Function",
+        "authors": [],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-28",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-29",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.18620",
+        "doi": "10.1001/jama.2026.18620",
+        "url": "https://doi.org/10.1001/jama.2026.18620",
+        "title": "Diagnosis of Suspected Pulmonary Embolism in Patients With Cancer—Reply",
+        "authors": [
+          "Bram Akerboom",
+          "Frederikus A. Klok",
+          "Menno V. Huisman"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-28",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-29",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.14852",
+        "doi": "10.1001/jama.2026.14852",
+        "url": "https://doi.org/10.1001/jama.2026.14852",
+        "title": "Signs",
+        "authors": [
+          "Joseph Geskey"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-28",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-29",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.14855",
+        "doi": "10.1001/jama.2026.14855",
+        "url": "https://doi.org/10.1001/jama.2026.14855",
+        "title": "Signs, Both Clinical and Poetic",
+        "authors": [
+          "Rafael Campo"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-28",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-29",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.18617",
+        "doi": "10.1001/jama.2026.18617",
+        "url": "https://doi.org/10.1001/jama.2026.18617",
+        "title": "Diagnosis of Suspected Pulmonary Embolism in Patients With Cancer",
+        "authors": [
+          "Yonathan Freund",
+          "Delphine Douillet",
+          "Jeff Kline"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-28",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-29",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.19114",
+        "doi": "10.1001/jama.2026.19114",
+        "url": "https://doi.org/10.1001/jama.2026.19114",
+        "title": "Why Epidemic Responses Need Operational Field Ethics",
+        "authors": [
+          "Serge Tonen-Wolyec",
+          "Félicien Munday Mulopo",
+          "Salomon Batina-Agasa",
+          "Laurent Bélec"
+        ],
+        "abstract": "This Viewpoint defines operational field ethics and explains its value in epidemic preparedness; highlights areas in which field ethics can be helpful in addressing community resistance to public health protocols; and suggests ways in which field ethicists might be integrated into public health infrastructure to improve epidemic responses.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-28",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-29",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag281",
+        "doi": "10.1093/aje/kwag281",
+        "url": "https://doi.org/10.1093/aje/kwag281",
+        "title": "Causal Inference with Missing Exposures and Missing Outcomes",
+        "authors": [
+          "Kirsten E Landsiedel",
+          "Rachel Abbott",
+          "Atukunda Mucunguzi",
+          "Florence Mwangwa",
+          "Elijah Kakande",
+          "Edwin D Charlebois",
+          "Carina Marquez",
+          "Moses R Kamya",
+          "Laura B Balzer"
+        ],
+        "abstract": "Abstract                   Missing data are ubiquitous in public health research. When estimating causal effects, there are well-established methods to address bias to due missing outcomes. Commonly, causal estimands are defined under hypothetical interventions to “set” the exposure and to prevent missingness. We demonstrate how this framework can be extended to missing exposures. We further extend this framework to incorporate missingness on the baseline outcome, which induces missingness on the population of interest (e.g., persons at-risk). To do so, we highlight Counterfactual Strata Effects, a general class of causal estimands where the focus population is subject to missingness and/or impacted by the exposure. They are termed such because the estimand involves conditioning on a counterfactual variable. For each setting, we present the causal model, relevant counterfactuals, causal estimand, and identification result. We demonstrate with a real-data example to investigate the effect of alcohol consumption on the risk of incident tuberculosis (TB) infection in rural Uganda. We highlight the use of TMLE with Super Learner for estimation and inference and discuss the practical consequences of our approach.",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-10-28",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-29",
         "fetched_from": "crossref"
       },
       {
@@ -71947,6 +72839,424 @@
         "fetched_from": "crossref"
       },
       {
+        "id": "doi:10.1186/s12877-026-07526-3",
+        "doi": "10.1186/s12877-026-07526-3",
+        "url": "https://doi.org/10.1186/s12877-026-07526-3",
+        "title": "Weekly community mobility patterns among older adults in a Brazilian city: a GPS-based study",
+        "authors": [
+          "Janio Carlos Pessanha Coelho",
+          "Viviane Nogueira de Zorzi",
+          "Carla Elane Silva dos Santos",
+          "Adalberto Aparecido dos Santos Lopes",
+          "Adriano Akira Ferreira Hino",
+          "Eleonora d’Orsi",
+          "Cassiano Ricardo Rech"
+        ],
+        "abstract": "Abstract                                        Background                     Active community mobility is critical for preserving physical health, autonomy, and functional capacity in older adults. However, in Latin America, objective assessments using Global Positioning System (GPS) data remain scarce, hindering the development of targeted, evidence-based strategies for healthy aging.                                                           Objective                     To characterize weekly mobility patterns and analyze variations in active travel based on sociodemographic, health, and environmental factors among older adults in a Brazilian urban setting.                                                           Methods                     This cross-sectional study involved 276 community-dwelling individuals (≥ 60 years) in Florianópolis, Brazil. Participants wore a GPS device for seven consecutive days to objectively record all trips and travel modes. Data were integrated with household interview results and neighborhood-level census data (walkability and income).                                                           Results                                            Participants averaged 23.3 trips per week, with 71.7% classified as active (primarily walking). Despite this high frequency, only 9.8% met the ≥ 150 min/week physical activity threshold through transportation alone. Active travel significantly differed by education level and nutritional status (                       p                        &lt; 0.05), while neighborhood walkability and contextual income showed no clear association with mobility indicators.                                                                                Conclusions                     While older adults engage frequently in active travel, the volume is often insufficient to meet global physical activity recommendations. Objective GPS data offer crucial insights for designing age-friendly urban policies and public health interventions tailored to middle-income contexts.                                                           Clinical Trial Registration                     Not applicable. This study is observational in nature and does not involve a clinical trial.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-29",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-29",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08429-z",
+        "doi": "10.1186/s12877-026-08429-z",
+        "url": "https://doi.org/10.1186/s12877-026-08429-z",
+        "title": "The effect of individual factors on the attitude of age discrimination with the empathy levels of family physicians: Samsun example",
+        "authors": [
+          "Mustafa Unal",
+          "Muhammed Emin Göktepe",
+          "Mustafa Bağlar"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-29",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-29",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70770",
+        "doi": "10.1111/jgs.70770",
+        "url": "https://doi.org/10.1111/jgs.70770",
+        "title": "The\n                    <scp>AGS</scp>\n                    Older Adults Vaccine Initiative: Findings From Seven Participating Health Systems",
+        "authors": [
+          "Timothy W. Farrell",
+          "Nuzha A. Amjad",
+          "Ariba Khan",
+          "Jorge Isaac Peña Garcia",
+          "Megan Puckett",
+          "Jonathan Soffer",
+          "Fariha B. Sultan",
+          "Dona Varghese",
+          "Lisa M. Walke",
+          "Nicholas Brening",
+          "Tong Han Chung",
+          "Bryanna De Lima",
+          "Yen‐Chi Le",
+          "Vimmi Panchal",
+          "Michelle Simpson",
+          "Vikrant Tambe",
+          "Camille P. Vaughan",
+          "Sofia Wills",
+          "Nancy E. Lundebjerg",
+          "Sharon A. Brangman"
+        ],
+        "abstract": "ABSTRACT                   In 2021, the American Geriatrics Society (AGS) launched the Older Adults Vaccine Initiative (AGS Older Adults Vaccine Initiative) with support from the Centers for Disease Control and Prevention (CDC) of the US Department of Health and Human Services (HHS) under a 5‐year financial assistance award to the Council of Medical Specialty Societies called Specialty Societies Advancing Adult Immunization (SSAAI). As the lead organization for the Older Adults Vaccine Initiative, AGS set an overall goal of increasing vaccination rates in older adults across seven health systems, focusing on influenza and COVID‐19 vaccination. The Council of Medical Specialty Societies along with the participating societies identified several challenges to vaccination, including data collection, vaccine hesitancy and fatigue, and integration into clinical workflows. This paper presents the outcome of a modest improvement in influenza and COVID‐19 vaccination rates within the context of an overall decrease in national vaccination rates and also describes how health systems: (1) implemented multiple strategies to increase vaccination rates; (2) tailored strategies to the needs of their system; and (3) layered in overlapping interventions strategies and interventions. The AGS Older Adults Vaccine Initiative demonstrates that a coordinated system‐level approach, such as those implemented by the participating health systems, is important to increase vaccination rates in older adults and provide a foundation for increasing vaccination rates in the future. These approaches included interventions that address structure and process, health care workforce, and patient‐level barriers, thus ensuring their sustainability beyond the AGS Older Adults Vaccine Initiative.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-10-28",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-29",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70808",
+        "doi": "10.1111/jgs.70808",
+        "url": "https://doi.org/10.1111/jgs.70808",
+        "title": "Use of Opioids and Opioid Potentiators Among Nursing Home Residents in the United States: National Prevalence and Correlates",
+        "authors": [
+          "Yang Jiao",
+          "Leelakrishna Channa",
+          "Tychique T. Wasolua",
+          "Richard H. Fortinsky",
+          "Karina M. Berg",
+          "Joseph S. Ross",
+          "Taeho Greg Rhee"
+        ],
+        "abstract": "ABSTRACT                                        Background                     Concurrent use of opioids and opioid potentiators (i.e., benzodiazepines, non‐benzodiazepines, and gabapentinoids) can elevate the risks of potential harms (e.g., hospitalizations and deaths). However, no study has yet examined the co‐use of opioids and opioid potentiators in US nursing homes.                                                           Methods                     We used nationally‐representative data in 2019 from Minimum Data Set 3.0 (MDS 3.0) linked with Part D claims and other data sources, and measured length of opioid use in the 120 days from the index assessment (short‐term users: ≤ 30 days; medium‐term users: 31–89 days, and long‐term users: ≥ 90 days). In this cross‐sectional study design, we estimated prevalence of opioid use and co‐use of opioids and opioid potentiators by duration of opioid use. We also estimated resident‐ and facility‐level factors associated with opioid use and co‐use of opioids and opioid potentiators in long‐stay nursing home residents.                                                           Results                                            Of 135,347 long‐stay nursing home residents, 32,550 (24.0%) had any opioid prescriptions. 7.1% were short‐term opioid users, 5.5% were mid‐term opioid users, and 11.4% were long‐term opioid users. Among opioid users, 52.0% also had any opioid potentiators. The most frequently used potentiator class was gabapentinoids, followed by benzodiazepines and non‐benzodiazepines. Pain and other comorbid conditions (e.g., anxiety) were significantly associated with such uses (                       p                        &lt; 0.001). Cognitive impairment and dementia were associated with lower odds of opioid use and co‐use of opioid‐potentiators (                       p                        &lt; 0.01).                                                                                Conclusions                     Long‐term opioid use in older nursing home residents remains prevalent. The co‐use of opioids and opioid potentiators is also prevalent in this population. Because co‐use of opioid‐potentiators can pose elevated risks for potentially avoidable harms, safer opioid‐related medication use needs to be emphasized in long‐term care settings. Alternatives to opioid use (e.g., non‐opioid pain medications and physical therapy) should be considered, and regular medication reviews and deprescribing efforts will be critical in residents taking opioids in nursing home settings.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-10-28",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-29",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70813",
+        "doi": "10.1111/jgs.70813",
+        "url": "https://doi.org/10.1111/jgs.70813",
+        "title": "Effectiveness of the\n                    <scp>RISE</scp>\n                    Intervention for Elder Abuse and Self‐Neglect: A Pragmatic Randomized Controlled Trial",
+        "authors": [
+          "David Burnes",
+          "Andie MacNeil",
+          "Marta Hajek",
+          "Laura Ostler",
+          "Stephanie Conant",
+          "Chenell Small",
+          "Andria Allen",
+          "Laura Proctor",
+          "Polly Madson Cox",
+          "Patricia Kimball",
+          "Marie‐Therese Connolly",
+          "Stuart Lewis"
+        ],
+        "abstract": "ABSTRACT                                        Background                     Elder abuse and self‐neglect (EASN) are prevalent and associated with significant adverse health and psychosocial outcomes, yet evidence on effective interventions remains limited. RISE is a community‐based intervention designed to address EASN. This study evaluated the effectiveness and acceptability of RISE in a real‐world community setting.                                                           Methods                     We conducted a pragmatic, parallel‐group, superiority randomized controlled trial with blinded outcome assessment. Older adults screened as at risk of or experiencing EASN were randomized following an initial consultation to receive either RISE plus consultation (intervention group) or consultation and referral provision only (control group). Blinded outcome assessment occurred at baseline, 3‐month, and 6‐month follow‐up using telephone‐based surveys. Primary outcomes included psychosocial measures of life satisfaction, perceived stress, self‐efficacy, social support, and problem concern. Linear mixed‐effects models were used to evaluate group differences over time. Program satisfaction at 6 months was assessed using multiple linear regression.                                                           Results                                            114 participants entered the baseline analysis cohort; 93 completed three‐month and 79 completed six‐month assessments. RISE participants showed significantly greater improvement over time in life satisfaction (                       p                        &lt; 0.001), perceived stress (                       p                        = 0.001), general self‐efficacy (                       p                        = 0.023), social‐interaction self‐efficacy (                       p                        &lt; 0.001), emotional support (                       p                        = 0.002), and informational support (                       p                        &lt; 0.001). Problem concern did not show differential change (                       p                        = 0.404). Adjusted six‐month program satisfaction was 4.61 points significantly higher with RISE (95% CI 3.25–5.97;                       p                        &lt; 0.001).                                                                                Conclusions                     RISE was associated with improvements across multiple psychosocial domains and high participant satisfaction among EASN older adults. Findings provide evidence supporting a scalable, community‐based response to EASN in jurisdictions lacking centralized protective service systems.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-10-28",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-29",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08459-7",
+        "doi": "10.1186/s12877-026-08459-7",
+        "url": "https://doi.org/10.1186/s12877-026-08459-7",
+        "title": "Sternal fractures and injury severity score in older adults",
+        "authors": [
+          "Nazlı Karakuş Kenan",
+          "Ferdane Melike Duran"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-28",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-29",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08460-0",
+        "doi": "10.1186/s12877-026-08460-0",
+        "url": "https://doi.org/10.1186/s12877-026-08460-0",
+        "title": "Exploring nutritional challenges and health risks in older women in rural primary health care setting in Western India",
+        "authors": [
+          "S. R. Aswathy",
+          "P Bhardwaj",
+          "V. R. Rehana",
+          "H. Viswanathan",
+          "A. Prakash",
+          "MK Gupta",
+          "S. Srinivasan",
+          "PP Sharma",
+          "AD Goel"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-28",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-29",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08497-1",
+        "doi": "10.1186/s12877-026-08497-1",
+        "url": "https://doi.org/10.1186/s12877-026-08497-1",
+        "title": "Peripheral cytokine profiles contribute to machine learning model of frailty",
+        "authors": [
+          "Thomas E Akie",
+          "Ethan Loew",
+          "Ziyuan Huang",
+          "Haley A Neff",
+          "Olivia P Michaels",
+          "John P Haran"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-28",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-29",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08595-0",
+        "doi": "10.1186/s12877-026-08595-0",
+        "url": "https://doi.org/10.1186/s12877-026-08595-0",
+        "title": "Development and international validation of machine learning models for predicting incident disability in older adults: a multi-cohort study using CHARLS, HRS, and ELSA",
+        "authors": [
+          "Haoyu Liu",
+          "Yunhui Chen",
+          "Xue Yang",
+          "Shouyan Wang"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-28",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-29",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08516-1",
+        "doi": "10.1186/s12877-026-08516-1",
+        "url": "https://doi.org/10.1186/s12877-026-08516-1",
+        "title": "Orthostatic blood pressure fluctuations and risk of falls in community-dwelling older adults: the role of recovery time",
+        "authors": [
+          "Valeria Arbieto Alvarez",
+          "Clara Hertneck",
+          "Dietrich Rothenbacher",
+          "Michael Denkinger",
+          "Dhayana Dallmeier"
+        ],
+        "abstract": "Abstract                                        Background                     Available literature related to the association between orthostatic blood pressure (BP) variations and falls is controversial. We analyzed how orthostatic hypo- (OH) and hypertension (OHTN) relate to falls considering recovery time (RT) in community-dwelling older adults.                                                           Methods                     This analysis uses data from the ActiFE cohort. BP was measured lying, immediately, 1, 2 and 3 min after standing. Systolic OH (sOH) and systolic OHTN (sOHTN) indicate a systolic BP (SBP) drop or increment ≥20 mm Hg, respectively. OH and OHTN further consider a diastolic BP (DBP) drop or increment ≥10 mm Hg. RT was categorized as Early Recovery ( &lt; 1 min), Delayed Recovery (1-3 min), or No Recovery. Falls over 12 months were collected prospectively. Logistic regression examined associations with falls, adjusting for age, sex, diabetes, hemoglobin, instrumental activities of daily living, hand strength, fall risk-increasing drugs, past falls, Falls Efficacy Scale-International and anxiety.                                                           Results                     Among 509 subjects (mean age 79 years, 44% female, 168 falls), prevalences were: 16.5% sOH, 26.9% OH, 9.0% sOHTN and 15.5% OHTN. Overall, OH was not associated with falls. However, falls risk increased with Delayed (OR 3.11 [95% CI 1.21-8.01]) and NoRecovery (OR 4.04 [95% CI 1.07-15.26]). sOH showed an adjusted OR of 2.00 [95% CI 1.15-3.47] for at least one fall. Regarding RT the risk of falls was increased in Delayed (OR 4.73 [95% CI 1.71-13.10]) and No Recovery (OR 5.06 [95% CI 1.42-22.27]). OHTN was not associated with falls.                                                           Conclusions                     Overall, only sOH was associated with falls. When RT was considered, those with Delayed and No Recovery showed higher risk of falls regardless of the OH definition used.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-28",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-29",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08591-4",
+        "doi": "10.1186/s12877-026-08591-4",
+        "url": "https://doi.org/10.1186/s12877-026-08591-4",
+        "title": "Outcomes of a regional university-led healthy ageing program supporting everyday function, cognition and mobility in older adults: a non-experimental pre-post observational study",
+        "authors": [
+          "Melissa Nott",
+          "Kristy Robson"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-28",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-29",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08585-2",
+        "doi": "10.1186/s12877-026-08585-2",
+        "url": "https://doi.org/10.1186/s12877-026-08585-2",
+        "title": "Association of fat-to-muscle ratio with MoCA-defined cognitive impairment in older adults",
+        "authors": [
+          "Yuanfeng Song",
+          "Zhaopei Cai",
+          "Dan Zhao",
+          "Binfa Ouyang",
+          "Shan Xu",
+          "Xiaolin Peng",
+          "Xuan Zhong"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-28",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-29",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08580-7",
+        "doi": "10.1186/s12877-026-08580-7",
+        "url": "https://doi.org/10.1186/s12877-026-08580-7",
+        "title": "Paramedics’ experiences of using the clinical frailty scale in prehospital care: a qualitative study",
+        "authors": [
+          "Stine Ibsen",
+          "Kristine Sørensen",
+          "Mads Lyngby",
+          "Kenneth Rødsgaard",
+          "Jannie Gram",
+          "Allan Riis",
+          "Erik Zakariassen",
+          "Tim Lindskou",
+          "Morten Breinholt Søvsø"
+        ],
+        "abstract": "Abstract                                        Background                     The demographic shift toward an ageing population has increased focus on frailty. Frailty has become increasingly recognized as a critical factor in clinical decision-making and the Clinical Frailty Scale (CFS) has gained widespread use across healthcare settings. This study explores paramedics’ experiences using CFS for older patients.                                                           Methods                     This study uses a qualitative research design and incorporates semi-structured interviews to explore paramedics’ experience of the feasibility and practical application of CFS in prehospital care. The study is part of a larger project on the use of CFS for older patients (≥ 65 years) in prehospital care in the North Denmark Region. During the study period 432 of 2 084 patients (21%) had a documented CFS score. CFS scores spanned all nine categories of the scale. The study is inspired from hermeneutic philosophy and frailty assessment theory. Individual face-to-face semi-structured interviews were conducted, and data was analysed using thematic analysis, inspired by Braun and Clarke’s six-phase framework.                                                           Results                     A total of eleven paramedics participated in the interviews (ten men and one woman). The median age was 38 years, and participants had a median of 11 years of experience in the prehospital setting. Three main themes emerged: (1) Older patients – complexity and clinical assessment (2) Making CFS work in the prehospital practice (3) CFS as a shared language in cross-sector collaboration. Older patients were perceived as a complex and habitually ill population requiring an adapted clinical mindset. Distinction between acute illness and frailty was described as challenging in the prehospital setting. CFS was considered to serve as a bridge between sectors and professional discipline.                                                           Conclusion                     CFS was generally perceived as relevant and as a tool that can support continuity of care and create a shared language around frailty. The findings highlight the importance of paramedics understanding the purpose and application of CFS and how the assessment may contribute to patient care across sectors. These considerations may be relevant when supporting the use of CFS in routine prehospital practice.                                                           Clinical trial number                     Not applicable.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-28",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-29",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08548-7",
+        "doi": "10.1186/s12877-026-08548-7",
+        "url": "https://doi.org/10.1186/s12877-026-08548-7",
+        "title": "Associations of fat-free mass index and handgrip strength with carotid intima-media thickness among community-dwelling adults aged 60 years and older in Chuncheon, Korea: a cross-sectional study",
+        "authors": [
+          "Hye-Jin Kim",
+          "Chulho Kim"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-28",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-29",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag281",
+        "doi": "10.1093/aje/kwag281",
+        "url": "https://doi.org/10.1093/aje/kwag281",
+        "title": "Causal Inference with Missing Exposures and Missing Outcomes",
+        "authors": [
+          "Kirsten E Landsiedel",
+          "Rachel Abbott",
+          "Atukunda Mucunguzi",
+          "Florence Mwangwa",
+          "Elijah Kakande",
+          "Edwin D Charlebois",
+          "Carina Marquez",
+          "Moses R Kamya",
+          "Laura B Balzer"
+        ],
+        "abstract": "Abstract                   Missing data are ubiquitous in public health research. When estimating causal effects, there are well-established methods to address bias to due missing outcomes. Commonly, causal estimands are defined under hypothetical interventions to “set” the exposure and to prevent missingness. We demonstrate how this framework can be extended to missing exposures. We further extend this framework to incorporate missingness on the baseline outcome, which induces missingness on the population of interest (e.g., persons at-risk). To do so, we highlight Counterfactual Strata Effects, a general class of causal estimands where the focus population is subject to missingness and/or impacted by the exposure. They are termed such because the estimand involves conditioning on a counterfactual variable. For each setting, we present the causal model, relevant counterfactuals, causal estimand, and identification result. We demonstrate with a real-data example to investigate the effect of alcohol consumption on the risk of incident tuberculosis (TB) infection in rural Uganda. We highlight the use of TMLE with Super Learner for estimation and inference and discuss the practical consequences of our approach.",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-10-28",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-29",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261498244",
+        "doi": "10.1177/13872877261498244",
+        "url": "https://doi.org/10.1177/13872877261498244",
+        "title": "Resistance-to-care behaviors and associated factors among people with dementia in nursing homes based on latent profile analysis and user personas",
+        "authors": [
+          "Tingting Xie",
+          "Xiyan Xie",
+          "Xinyu Chen",
+          "Jie Jiang",
+          "Hongtao Cheng",
+          "Haiyuan Li",
+          "Xiulian Zhang",
+          "Min Liu",
+          "Xiwen Wang",
+          "Bei Wu",
+          "Jun-e Zhang"
+        ],
+        "abstract": "Background                     Resistance-to-care behaviors are prevalent among people with Alzheimer's disease and related dementia (ADRD), significantly impeding care delivery and causing distress for residents and care workers. However, knowledge regarding scenario-specific resistance-to-care patterns in Chinese nursing homes remains limited.                                                           Objective                     To identify latent profiles and personas of resistance-to-care behaviors among people with ADRD in Chinese nursing homes and examine associations with background and interpersonal factors based on the need-driven dementia-compromised behavior model.                                                           Methods                     This cross-sectional study recruited 574 people with ADRD from six Chinese nursing homes between March 2023 and March 2024. Data on sociodemographics, care worker-initiated communication, resistance-to-care behaviors, cognitive function, functional independence, depression, and pain were collected. Zero-inflated Poisson mixture models identified latent profiles. Personas were developed as group-level summaries integrating profile-defining resistance-to-care patterns with associated descriptive characteristics. Multivariate logistic regression examined factors associated with profile membership.                                                           Results                     Four profiles and personas emerged: stable collaborators (low-resistance profile, 77.0%), mealtime resisters (eating-resistance-dominant profile, 6.6%), bathing defenders (bathing-resistance-dominant profile, 13.8%), and high-resistance care responders (high-resistance profile, 2.6%). Eating- and bathing-resistance-dominant profiles were associated with lower cognitive function and absence of care worker-initiated communication during corresponding activities. The high-resistance profile was associated with greater depression and pain.                                                           Conclusions                     This study identified latent resistance-to-care profiles and personas, elucidating relationships between background factors, interpersonal factors, and resistance-to-care behaviors. Findings support a culturally informed, scenario-specific framework for dementia care and highlight the potential relevance of regular cognitive monitoring, culturally adapted communication strategies, and systematic depression and pain management for addressing resistance-to-care behaviors.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-10-28",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-29",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1186/s12877-026-08590-5",
         "doi": "10.1186/s12877-026-08590-5",
         "url": "https://doi.org/10.1186/s12877-026-08590-5",
@@ -71990,24 +73300,6 @@
         "domains": [
           "elderCare",
           "agingHealth"
-        ],
-        "firstSeen": "2026-10-27",
-        "fetched_from": "crossref"
-      },
-      {
-        "id": "doi:10.1093/aje/kwag228",
-        "doi": "10.1093/aje/kwag228",
-        "url": "https://doi.org/10.1093/aje/kwag228",
-        "title": "Editorial Consultants",
-        "authors": [],
-        "abstract": "",
-        "source": "American Journal of Epidemiology",
-        "issn": "0002-9262",
-        "date": "2026-10-27",
-        "subjects": [],
-        "domains": [
-          "agingHealth",
-          "healthReform"
         ],
         "firstSeen": "2026-10-27",
         "fetched_from": "crossref"
@@ -72274,6 +73566,24 @@
           "agingHealth"
         ],
         "firstSeen": "2026-10-28",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag228",
+        "doi": "10.1093/aje/kwag228",
+        "url": "https://doi.org/10.1093/aje/kwag228",
+        "title": "Editorial Consultants",
+        "authors": [],
+        "abstract": "",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-10-27",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-27",
         "fetched_from": "crossref"
       },
       {
@@ -98024,6 +99334,45 @@
         "fetched_from": "crossref"
       },
       {
+        "id": "doi:10.1093/bjsw/bcag267",
+        "doi": "10.1093/bjsw/bcag267",
+        "url": "https://doi.org/10.1093/bjsw/bcag267",
+        "title": "Housing vulnerability among older adults under the climate crisis: Phenomenological insights from a high-cost urban context",
+        "authors": [
+          "Jihyun Park",
+          "Miseung Shim"
+        ],
+        "abstract": "Abstract                   This study examines climate-related housing vulnerability among housing-insecure older adults in Gangnam-gu, Seoul, one of South Korea’s most affluent urban districts. Drawing on in-depth interviews and a theoretically informed phenomenological approach, it explores how older adults experience heatwaves, cold spells, and heavy rainfall through the intersecting conditions of unsafe housing, limited mobility, social isolation, and constrained access to welfare support. The findings show that climate-related disasters were not experienced as temporary environmental disruptions, but as persistent threats to survival, dignity, health, and everyday stability. Poor insulation, inadequate ventilation, high energy costs, and fragmented institutional support intensified both physical and psychological distress, shifting the burden of adaptation onto individuals. The study identifies four interrelated experiential structures: embodied exposure to climate extremes, housing as a mediator of vulnerability, constrained navigation of welfare and support systems, and the structural meaning of climate vulnerability in a high-cost urban context. By revealing how severe vulnerability can remain hidden within affluent urban environments, this study contributes to social work and social welfare scholarship on ageing, housing insecurity, welfare accessibility, and climate justice. It argues that climate adaptation for older adults must be integrated with housing welfare, outreach-based community care, and accessible social work practice.",
+        "source": "The British Journal of Social Work",
+        "issn": "0045-3102",
+        "date": "2026-10-28",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-29",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/bjsw/bcag237",
+        "doi": "10.1093/bjsw/bcag237",
+        "url": "https://doi.org/10.1093/bjsw/bcag237",
+        "title": "Evaluating the implementation of nature-based interventions for young people: Implications for social work practice in Ireland",
+        "authors": [
+          "Aisling Clarke"
+        ],
+        "abstract": "Abstract                   Nature-based interventions (NBIs) are increasingly recognized as valuable approaches for supporting young people experiencing mental health difficulties, trauma, educational exclusion, and social adversity. Within social work, NBIs align with relationship-based, strengths-based, and community-focused practice. In Ireland, policy has increasingly supported preventive and collaborative approaches to care, including social prescribing and community-based supports, yet there is limited research on how NBIs are implemented and evaluated in practice. This qualitative study explored the implementation of NBIs for young people in Ireland from the perspective of providers working with statutory services. Using a constructivist and phenomenological approach, semi-structured interviews were conducted with six experienced professionals involved in delivering NBIs to young people referred by social workers and other practitioners. Thematic analysis identified four key findings. NBIs were viewed as experiential and relational, offering benefits such as improved confidence, emotional regulation, social connection, engagement, and well-being. However, implementation was challenged by funding limitations, safety concerns, logistical demands, and uneven access across regions. Evaluation approaches also varied considerably and were largely qualitative. The study concludes that NBIs have strong potential within Irish social work, particularly in preventive, trauma-informed, and community-based practice with young people.",
+        "source": "The British Journal of Social Work",
+        "issn": "0045-3102",
+        "date": "2026-10-28",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-29",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1093/sw/swag055",
         "doi": "10.1093/sw/swag055",
         "url": "https://doi.org/10.1093/sw/swag055",
@@ -105675,11 +107024,11 @@
     ]
   },
   "totals": {
-    "socialSecurity": 1575,
-    "elderCare": 704,
-    "healthReform": 1104,
-    "agingHealth": 1040,
-    "socialWork": 341
+    "socialSecurity": 1576,
+    "elderCare": 718,
+    "healthReform": 1125,
+    "agingHealth": 1056,
+    "socialWork": 343
   },
   "feeds_ok": 41
 }
