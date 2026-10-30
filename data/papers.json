@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-29",
-  "fetched": "2026-10-29T07:22:33+00:00",
+  "date": "2026-10-30",
+  "fetched": "2026-10-30T07:25:19+00:00",
   "domains": {
     "socialSecurity": [
       {
@@ -24348,6 +24348,85 @@
     ],
     "elderCare": [
       {
+        "id": "doi:10.1186/s12877-026-08499-z",
+        "doi": "10.1186/s12877-026-08499-z",
+        "url": "https://doi.org/10.1186/s12877-026-08499-z",
+        "title": "Muscle health in the oldest-old with and without subclinical hypothyroidism: sarcopenia, low muscle strength, and inflammatory–metabolic correlates in a prospective cross-sectional study",
+        "authors": [
+          "Selenay POLAT",
+          "Abdullah Ozan POLAT",
+          "Sibel TUNÇ KARAMAN",
+          "Okcan BASAT"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-30",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-30",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08538-9",
+        "doi": "10.1186/s12877-026-08538-9",
+        "url": "https://doi.org/10.1186/s12877-026-08538-9",
+        "title": "Impact of online social participation on older adults’ attitude toward aging in China: a propensity score matching analysis",
+        "authors": [
+          "Zhipeng Han",
+          "Hongyan Li",
+          "Yulin Wang",
+          "Xing Chen",
+          "Zhenjie Yu"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-30",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-30",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08611-3",
+        "doi": "10.1186/s12877-026-08611-3",
+        "url": "https://doi.org/10.1186/s12877-026-08611-3",
+        "title": "Uncontrolled blood pressure in treated older adults: gaps in control and associated factors from a nationwide multicenter study in Sri Lanka",
+        "authors": [
+          "PDWD De Zoysa",
+          "TP Weerarathna",
+          "ILAN Darshana",
+          "UK Egodage",
+          "TPGC Madhushankha",
+          "MMPT Jayasekara",
+          "V Sujanitha",
+          "S Silva",
+          "AT Matthias",
+          "B Ratnayake",
+          "P Mayurathan",
+          "N Premawardana",
+          "LPMMK Pathirage"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-30",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-30",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1186/s12877-026-07526-3",
         "doi": "10.1186/s12877-026-07526-3",
         "url": "https://doi.org/10.1186/s12877-026-07526-3",
@@ -24393,6 +24472,187 @@
           "agingHealth"
         ],
         "firstSeen": "2026-10-29",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/geront/gnag250",
+        "doi": "10.1093/geront/gnag250",
+        "url": "https://doi.org/10.1093/geront/gnag250",
+        "title": "Perceptions, Knowledge, and Adaptive actions in Response to Climate Events: A Scoping Review of Climate Health Literacy among Community Dwelling Older Adults",
+        "authors": [
+          "Jennifer Bolt",
+          "Yue Li",
+          "Sahar Bonakdarsakhi",
+          "Danny Chiu",
+          "Kathy L Rush"
+        ],
+        "abstract": "Abstract                                        Background and Objectives                     Extreme climate events can threaten older adults’ health. The purpose of this study was to summarize existing literature on older adults’ climate health literacy, defined as their ability to find and access, understand, and act upon information related to climate-related health threats.                                                           Research Design and Methods                     A scoping review was conducted in the bibliographic databases Embase, Medline and Scopus and grey literature sources Cornell Initiative for Research on Climate and Aging and Climate Change and Human Health Literature portals with searches updated January 2026. English language studies of community-dwelling adults aged 60 years and older were included if they reported at least one aspect of climate health literacy. Quantitative data were reported as median percentages, and qualitative themes were categorized.                                                           Results                     Fifty-nine studies, including 22,992 records for 20,296 unique participants, were included. Most recognized the health risks of extreme climate events but did not identify personal vulnerability. Television was the most cited source of information and hydration, clothing and environment modification, and activity adjustment were the most utilized adaptive actions. Barriers to adaptive actions included financial constraints, limited mobility and lack of supports. The effectiveness of studied interventions was mixed, influenced by intervention type and study design.                                                           Discussion and Implications                     Despite access to information and awareness of climate-related health threats, gaps remain in personal risk perception and translation of knowledge into actions. Improving climate health literacy among older adults requires public health messaging, engagement of trustworthy authorities, and interventions addressing social and structural barriers.",
+        "source": "The Gerontologist",
+        "issn": "0016-9013",
+        "date": "2026-10-29",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-30",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/geront/gnag251",
+        "doi": "10.1093/geront/gnag251",
+        "url": "https://doi.org/10.1093/geront/gnag251",
+        "title": "Intervention-Type-Specific Effects on Healthy Aging of Older Adults with Cognitive Impairment: A Systematic Review and Meta-Analysis",
+        "authors": [
+          "Aeyoung Cho",
+          "Bomgyeol Kim",
+          "Gyeoul Jeong",
+          "Harim Lee",
+          "Kyung Hee Lee"
+        ],
+        "abstract": "Abstract                                        Background and Objectives                     Healthy aging among older adults with cognitive impairment requires preserving physical, cognitive, and psychosocial functioning to sustain their independence and quality of life. However, existing interventions vary in design, delivery format, and composition, and evidence regarding their effectiveness across these three core domains remains inconsistent. This study aimed to identify the most effective intervention types for specific domains of healthy aging.                                                           Research Design and Methods                     Five electronic databases were searched for studies published from October 2015 to June 2026. Randomized controlled trials reporting at least two outcomes—among physical capability, cognitive function, or psychosocial well-being—were reviewed. Risk of bias was assessed using the Cochrane Risk-of-Bias 2 tool. A dependency-aware multilevel random-effects meta-analysis with trial-clustered robust inference was conducted in R, supplemented by moderator tests, prediction intervals, sensitivity analyses, reporting-bias assessments, and GRADE evaluations.                                                           Results                     Multicomponent interventions were associated with beneficial effects on cognitive and psychosocial outcomes, whereas group-based interventions showed beneficial effects across all three domains and a significantly greater effect on cognitive function than individually delivered interventions. Despite substantial heterogeneity and wide prediction intervals, these findings were generally robust across sensitivity analyses.                                                           Discussion and Implications                     The observed advantages of group-based delivery, particularly for cognitive function, and multicomponent approaches for cognitive and psychosocial outcomes highlight the domain-specific nature of intervention effects. These findings support tailoring intervention delivery and component configuration to the targeted domain rather than applying a uniform approach to healthy aging among older adults with cognitive impairment.",
+        "source": "The Gerontologist",
+        "issn": "0016-9013",
+        "date": "2026-10-29",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-30",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70769",
+        "doi": "10.1111/jgs.70769",
+        "url": "https://doi.org/10.1111/jgs.70769",
+        "title": "Obesity Medications in Older Adults: A Geriatrics\n                    <scp>5Ms</scp>\n                    Framework for Safe and Patient‐Centered Prescribing",
+        "authors": [
+          "Elias M. Wisdom",
+          "Kady Goldlist",
+          "Sarah B. Lieber",
+          "Julianna Marwell",
+          "Suvi Neukam",
+          "Emily A. Johnston",
+          "John A. Batsis",
+          "Elizabeth Eckstrom",
+          "Kamal Chandra Wagle"
+        ],
+        "abstract": "ABSTRACT                   Obesity medications that act through gut‐derived hormonal pathways include glucagon‐like peptide‐1 receptor agonists (GLP‐1), dual glucose‐dependent insulinotropic polypeptide/glucagon‐like peptide‐1 receptor agonists (GLP‐1/GIP), and emerging triple glucagon‐like peptide‐1/glucose‐dependent insulinotropic polypeptide/glucagon receptor agonists. These therapies are increasingly prescribed for weight management and glycemic control, as well as for their cardiometabolic and renal benefits. While these medications offer substantial benefits to patients across multiple health conditions, their use in older adults warrants heightened scrutiny. Older adults face increased risks of sarcopenia and frailty, and evidence from major clinical trials suggests that a substantial proportion of medication‐associated weight loss agents may result in loss of lean mass, potentially posing risks for this population. Other adverse effects that may be more consequential in older adults include dehydration, malnutrition, perioperative aspiration, and fat‐predominant weight regain after discontinuation. This paper provides a clinically oriented framework to guide prescribing decisions for older adults. Drawing on patient scenarios from common geriatric contexts, including frailty, cognitive impairment, glucocorticoid use, and surgical planning, we propose prescribing approaches that optimize therapeutic benefits while mitigating potential harms. We integrate these recommendations within the Geriatrics 5Ms Framework (Mind, Mobility, Medications, Multicomplexity, and Matters Most) to contextualize treatment within geriatrics practice. Lifestyle co‐interventions, particularly resistance training, adequate protein intake, and ongoing functional monitoring, emerge as essential components for older adults receiving these therapies. We also discuss identifying priority areas for future research, including age‐stratified clinical trials and the routine inclusion of body composition and physical function outcomes.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-10-29",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-30",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08606-0",
+        "doi": "10.1186/s12877-026-08606-0",
+        "url": "https://doi.org/10.1186/s12877-026-08606-0",
+        "title": "Psychotropic medication prescribing among older adults before and after dementia diagnosis: a retrospective study in Yinzhou, China",
+        "authors": [
+          "Can Li",
+          "Kexin Ling",
+          "Zhiwen Gong",
+          "Yichen Zhang",
+          "Dawei Zhu",
+          "Huangqianyu Li",
+          "Hongbo Lin",
+          "Peng Shen",
+          "Luwen Shi",
+          "Mengyuan Fu",
+          "Xiaodong Guan"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-29",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-30",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08466-8",
+        "doi": "10.1186/s12877-026-08466-8",
+        "url": "https://doi.org/10.1186/s12877-026-08466-8",
+        "title": "Home and community-based service volume and the risk of transitioning to long-term care facilities: an exploratory stratified analysis",
+        "authors": [
+          "Yumi Shin",
+          "Sejeong Yang",
+          "Chang-O Kim",
+          "Bokyoung Choi",
+          "Jihwan Lee",
+          "Eunhee Choi",
+          "Jihee Choi",
+          "Soong-Nang Jang",
+          "Hyejin Lee"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-29",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-30",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08602-4",
+        "doi": "10.1186/s12877-026-08602-4",
+        "url": "https://doi.org/10.1186/s12877-026-08602-4",
+        "title": "Relationships between physical fitness and psychometric test outcomes in community-dwelling women aged 60–79 years",
+        "authors": [
+          "Agnieszka Nawrat-Szołtysik",
+          "Laura Piejko",
+          "Bogna Szołtys-Brzezowska",
+          "Ryszard Zarzeczny",
+          "Katarzyna Nowakowska-Lipiec",
+          "Anna Polak"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-29",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-30",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08537-w",
+        "doi": "10.1186/s12877-026-08537-w",
+        "url": "https://doi.org/10.1186/s12877-026-08537-w",
+        "title": "Daily patterns and prevalence of behavioral and psychological symptoms of dementia in Swedish nursing homes",
+        "authors": [
+          "Johannes Malm",
+          "Charlotta Nilsen",
+          "Ingemar Kåreholt"
+        ],
+        "abstract": "Abstract                                        Background                     Behavioral and psychological symptoms of dementia (BPSD) are among the principal observable expressions of psychological distress and unmet need in nursing home residents who can no longer reliably verbalize internal experiences, and recognizing their day-to-day variation underpins timely, person-centered care. Yet BPSD fluctuate across days, shifts, and contexts, while established instruments such as the Neuropsychiatric Inventory Nursing Home version (NPI-NH) assess them retrospectively over the preceding weeks or months. This mismatch leaves basic descriptive questions about the day-to-day symptom landscape in routine care unanswered. This study describes the prevalence, severity, co-occurrence, between-unit variation, and shift and weekday patterns of BPSD documented through structured daily registrations in nursing home care.                                                           Methods                     Descriptive longitudinal observational study of 230 individuals with dementia in six nursing homes across six Swedish municipalities, followed for a median observation period of 270 days (interquartile range 120 to 446). Care staff used a digital tool to rate the severity (0–3) of twelve common BPSD, adapted from the NPI-NH, at the end of every work shift, yielding over one million symptom registrations. Analyses were descriptive and person-weighted, giving each individual equal weight regardless of observation length.                                                           Results                     Cumulative symptom prevalence (at any point during observation) ranged from 90% (agitation) to 70% (euphoria). Each symptom’s mean daily prevalence was much lower (4–18%), and symptoms were predominantly of low severity. At least one symptom was recorded on a median of 43.5% of registered days, varying widely between individuals. Clinically related symptoms tended to occur together, consistent with established NPI-NH domain structures, and the mean number of symptoms per day varied more than twofold across the six units. Symptoms were most frequent on evening shifts and least frequent at night, except sleep disturbances, with little variation across weekdays. Just under half of all possible shift registrations were completed.                                                           Conclusions                     Daily registrations describe an intermittent and heterogeneous symptom landscape at a resolution that periodic assessments are not designed to provide. These findings provide an empirical baseline for future multilevel analyses and support BPSD monitoring that covers both individual symptoms and the daily number of symptoms in nursing homes.                                                           Clinical trial number                     Not applicable.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-29",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-30",
         "fetched_from": "crossref"
       },
       {
@@ -42799,6 +43059,228 @@
           "healthReform"
         ],
         "firstSeen": "2026-10-29",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.18623",
+        "doi": "10.1001/jama.2026.18623",
+        "url": "https://doi.org/10.1001/jama.2026.18623",
+        "title": "A Review of Low Back Pain",
+        "authors": [
+          "Alexander T. Yahanda",
+          "Wilson Z. Ray",
+          "Jacob K. Greenberg"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-29",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-30",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.18681",
+        "doi": "10.1001/jama.2026.18681",
+        "url": "https://doi.org/10.1001/jama.2026.18681",
+        "title": "US Deaths Caused by Law Enforcement",
+        "authors": [
+          "Hena Vadher",
+          "Michael Everett",
+          "Sharon Dolovich"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-29",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-30",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.18684",
+        "doi": "10.1001/jama.2026.18684",
+        "url": "https://doi.org/10.1001/jama.2026.18684",
+        "title": "US Deaths Caused by Law Enforcement—Reply",
+        "authors": [
+          "Caroline Raymond-King",
+          "Sirry Alang",
+          "Edward R. Melnick"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-29",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-30",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.19941",
+        "doi": "10.1001/jama.2026.19941",
+        "url": "https://doi.org/10.1001/jama.2026.19941",
+        "title": "Massachusetts Marketplace Disenrollment Following Enhanced Subsidy Expiration",
+        "authors": [
+          "Adrianna McIntyre",
+          "Briana Stone",
+          "Kai Shen Lim",
+          "Mark Shepard",
+          "Benjamin D. Sommers"
+        ],
+        "abstract": "This study uses administrative enrollment data from the Massachusetts Health Marketplace to analyze patterns of Marketplace disenrollment when enhanced subsidies expired vs end-of-year disenrollment in prior years.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-29",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-30",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2025.16114",
+        "doi": "10.1001/jama.2025.16114",
+        "url": "https://doi.org/10.1001/jama.2025.16114",
+        "title": "Editorials",
+        "authors": [],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-29",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-30",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.18629",
+        "doi": "10.1001/jama.2026.18629",
+        "url": "https://doi.org/10.1001/jama.2026.18629",
+        "title": "A Review of Low Back Pain—Reply",
+        "authors": [
+          "Aidan G. Cashin",
+          "Roger Chou",
+          "James H. McAuley"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-29",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-30",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.19361",
+        "doi": "10.1001/jama.2026.19361",
+        "url": "https://doi.org/10.1001/jama.2026.19361",
+        "title": "Wagering on Unfinished Experiments—Prediction Markets and Clinical Trial Integrity",
+        "authors": [
+          "Jay B. Lusk",
+          "Robert M. Califf",
+          "Ann Marie Navar",
+          "Emily C. O’Brien"
+        ],
+        "abstract": "This Viewpoint discusses the potential impact on recruitment, retention, measurement, or evidence generation after a prediction market platform announced it would host betting on the outcomes of clinical trials and US Food and Drug Administration regulatory reviews, noting that policy action is needed to ensure that prediction markets do not undermine the public interest.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-29",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-30",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.21582",
+        "doi": "10.1001/jama.2026.21582",
+        "url": "https://doi.org/10.1001/jama.2026.21582",
+        "title": "Horses With Stripes",
+        "authors": [
+          "Clara Baselga-Garriga"
+        ],
+        "abstract": "In this narrative medicine essay, a medical student discusses the difference in  encountering a rare disease as a medical student and resident compared with a personal experience with one.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-29",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-30",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.18626",
+        "doi": "10.1001/jama.2026.18626",
+        "url": "https://doi.org/10.1001/jama.2026.18626",
+        "title": "A Review of Low Back Pain",
+        "authors": [
+          "Jean-Pascal Grenier"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-29",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-30",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.18678",
+        "doi": "10.1001/jama.2026.18678",
+        "url": "https://doi.org/10.1001/jama.2026.18678",
+        "title": "US Deaths Caused by Law Enforcement",
+        "authors": [
+          "Xingyu Sun",
+          "Shaohua Wang"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-29",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-30",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag268",
+        "doi": "10.1093/aje/kwag268",
+        "url": "https://doi.org/10.1093/aje/kwag268",
+        "title": "Correction to: Caution in handling switchers in pharmacoepidemiologic studies estimating treatment effects: the example of dipeptidyl peptidase-4 inhibitors and inflammatory bowel disease",
+        "authors": [],
+        "abstract": "",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-10-29",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-30",
         "fetched_from": "crossref"
       },
       {
@@ -72839,6 +73321,85 @@
         "fetched_from": "crossref"
       },
       {
+        "id": "doi:10.1186/s12877-026-08499-z",
+        "doi": "10.1186/s12877-026-08499-z",
+        "url": "https://doi.org/10.1186/s12877-026-08499-z",
+        "title": "Muscle health in the oldest-old with and without subclinical hypothyroidism: sarcopenia, low muscle strength, and inflammatory–metabolic correlates in a prospective cross-sectional study",
+        "authors": [
+          "Selenay POLAT",
+          "Abdullah Ozan POLAT",
+          "Sibel TUNÇ KARAMAN",
+          "Okcan BASAT"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-30",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-30",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08538-9",
+        "doi": "10.1186/s12877-026-08538-9",
+        "url": "https://doi.org/10.1186/s12877-026-08538-9",
+        "title": "Impact of online social participation on older adults’ attitude toward aging in China: a propensity score matching analysis",
+        "authors": [
+          "Zhipeng Han",
+          "Hongyan Li",
+          "Yulin Wang",
+          "Xing Chen",
+          "Zhenjie Yu"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-30",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-30",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08611-3",
+        "doi": "10.1186/s12877-026-08611-3",
+        "url": "https://doi.org/10.1186/s12877-026-08611-3",
+        "title": "Uncontrolled blood pressure in treated older adults: gaps in control and associated factors from a nationwide multicenter study in Sri Lanka",
+        "authors": [
+          "PDWD De Zoysa",
+          "TP Weerarathna",
+          "ILAN Darshana",
+          "UK Egodage",
+          "TPGC Madhushankha",
+          "MMPT Jayasekara",
+          "V Sujanitha",
+          "S Silva",
+          "AT Matthias",
+          "B Ratnayake",
+          "P Mayurathan",
+          "N Premawardana",
+          "LPMMK Pathirage"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-30",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-30",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1186/s12877-026-07526-3",
         "doi": "10.1186/s12877-026-07526-3",
         "url": "https://doi.org/10.1186/s12877-026-07526-3",
@@ -72884,6 +73445,291 @@
           "agingHealth"
         ],
         "firstSeen": "2026-10-29",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/geront/gnag250",
+        "doi": "10.1093/geront/gnag250",
+        "url": "https://doi.org/10.1093/geront/gnag250",
+        "title": "Perceptions, Knowledge, and Adaptive actions in Response to Climate Events: A Scoping Review of Climate Health Literacy among Community Dwelling Older Adults",
+        "authors": [
+          "Jennifer Bolt",
+          "Yue Li",
+          "Sahar Bonakdarsakhi",
+          "Danny Chiu",
+          "Kathy L Rush"
+        ],
+        "abstract": "Abstract                                        Background and Objectives                     Extreme climate events can threaten older adults’ health. The purpose of this study was to summarize existing literature on older adults’ climate health literacy, defined as their ability to find and access, understand, and act upon information related to climate-related health threats.                                                           Research Design and Methods                     A scoping review was conducted in the bibliographic databases Embase, Medline and Scopus and grey literature sources Cornell Initiative for Research on Climate and Aging and Climate Change and Human Health Literature portals with searches updated January 2026. English language studies of community-dwelling adults aged 60 years and older were included if they reported at least one aspect of climate health literacy. Quantitative data were reported as median percentages, and qualitative themes were categorized.                                                           Results                     Fifty-nine studies, including 22,992 records for 20,296 unique participants, were included. Most recognized the health risks of extreme climate events but did not identify personal vulnerability. Television was the most cited source of information and hydration, clothing and environment modification, and activity adjustment were the most utilized adaptive actions. Barriers to adaptive actions included financial constraints, limited mobility and lack of supports. The effectiveness of studied interventions was mixed, influenced by intervention type and study design.                                                           Discussion and Implications                     Despite access to information and awareness of climate-related health threats, gaps remain in personal risk perception and translation of knowledge into actions. Improving climate health literacy among older adults requires public health messaging, engagement of trustworthy authorities, and interventions addressing social and structural barriers.",
+        "source": "The Gerontologist",
+        "issn": "0016-9013",
+        "date": "2026-10-29",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-30",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/geront/gnag251",
+        "doi": "10.1093/geront/gnag251",
+        "url": "https://doi.org/10.1093/geront/gnag251",
+        "title": "Intervention-Type-Specific Effects on Healthy Aging of Older Adults with Cognitive Impairment: A Systematic Review and Meta-Analysis",
+        "authors": [
+          "Aeyoung Cho",
+          "Bomgyeol Kim",
+          "Gyeoul Jeong",
+          "Harim Lee",
+          "Kyung Hee Lee"
+        ],
+        "abstract": "Abstract                                        Background and Objectives                     Healthy aging among older adults with cognitive impairment requires preserving physical, cognitive, and psychosocial functioning to sustain their independence and quality of life. However, existing interventions vary in design, delivery format, and composition, and evidence regarding their effectiveness across these three core domains remains inconsistent. This study aimed to identify the most effective intervention types for specific domains of healthy aging.                                                           Research Design and Methods                     Five electronic databases were searched for studies published from October 2015 to June 2026. Randomized controlled trials reporting at least two outcomes—among physical capability, cognitive function, or psychosocial well-being—were reviewed. Risk of bias was assessed using the Cochrane Risk-of-Bias 2 tool. A dependency-aware multilevel random-effects meta-analysis with trial-clustered robust inference was conducted in R, supplemented by moderator tests, prediction intervals, sensitivity analyses, reporting-bias assessments, and GRADE evaluations.                                                           Results                     Multicomponent interventions were associated with beneficial effects on cognitive and psychosocial outcomes, whereas group-based interventions showed beneficial effects across all three domains and a significantly greater effect on cognitive function than individually delivered interventions. Despite substantial heterogeneity and wide prediction intervals, these findings were generally robust across sensitivity analyses.                                                           Discussion and Implications                     The observed advantages of group-based delivery, particularly for cognitive function, and multicomponent approaches for cognitive and psychosocial outcomes highlight the domain-specific nature of intervention effects. These findings support tailoring intervention delivery and component configuration to the targeted domain rather than applying a uniform approach to healthy aging among older adults with cognitive impairment.",
+        "source": "The Gerontologist",
+        "issn": "0016-9013",
+        "date": "2026-10-29",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-30",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70769",
+        "doi": "10.1111/jgs.70769",
+        "url": "https://doi.org/10.1111/jgs.70769",
+        "title": "Obesity Medications in Older Adults: A Geriatrics\n                    <scp>5Ms</scp>\n                    Framework for Safe and Patient‐Centered Prescribing",
+        "authors": [
+          "Elias M. Wisdom",
+          "Kady Goldlist",
+          "Sarah B. Lieber",
+          "Julianna Marwell",
+          "Suvi Neukam",
+          "Emily A. Johnston",
+          "John A. Batsis",
+          "Elizabeth Eckstrom",
+          "Kamal Chandra Wagle"
+        ],
+        "abstract": "ABSTRACT                   Obesity medications that act through gut‐derived hormonal pathways include glucagon‐like peptide‐1 receptor agonists (GLP‐1), dual glucose‐dependent insulinotropic polypeptide/glucagon‐like peptide‐1 receptor agonists (GLP‐1/GIP), and emerging triple glucagon‐like peptide‐1/glucose‐dependent insulinotropic polypeptide/glucagon receptor agonists. These therapies are increasingly prescribed for weight management and glycemic control, as well as for their cardiometabolic and renal benefits. While these medications offer substantial benefits to patients across multiple health conditions, their use in older adults warrants heightened scrutiny. Older adults face increased risks of sarcopenia and frailty, and evidence from major clinical trials suggests that a substantial proportion of medication‐associated weight loss agents may result in loss of lean mass, potentially posing risks for this population. Other adverse effects that may be more consequential in older adults include dehydration, malnutrition, perioperative aspiration, and fat‐predominant weight regain after discontinuation. This paper provides a clinically oriented framework to guide prescribing decisions for older adults. Drawing on patient scenarios from common geriatric contexts, including frailty, cognitive impairment, glucocorticoid use, and surgical planning, we propose prescribing approaches that optimize therapeutic benefits while mitigating potential harms. We integrate these recommendations within the Geriatrics 5Ms Framework (Mind, Mobility, Medications, Multicomplexity, and Matters Most) to contextualize treatment within geriatrics practice. Lifestyle co‐interventions, particularly resistance training, adequate protein intake, and ongoing functional monitoring, emerge as essential components for older adults receiving these therapies. We also discuss identifying priority areas for future research, including age‐stratified clinical trials and the routine inclusion of body composition and physical function outcomes.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-10-29",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-30",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08606-0",
+        "doi": "10.1186/s12877-026-08606-0",
+        "url": "https://doi.org/10.1186/s12877-026-08606-0",
+        "title": "Psychotropic medication prescribing among older adults before and after dementia diagnosis: a retrospective study in Yinzhou, China",
+        "authors": [
+          "Can Li",
+          "Kexin Ling",
+          "Zhiwen Gong",
+          "Yichen Zhang",
+          "Dawei Zhu",
+          "Huangqianyu Li",
+          "Hongbo Lin",
+          "Peng Shen",
+          "Luwen Shi",
+          "Mengyuan Fu",
+          "Xiaodong Guan"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-29",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-30",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08466-8",
+        "doi": "10.1186/s12877-026-08466-8",
+        "url": "https://doi.org/10.1186/s12877-026-08466-8",
+        "title": "Home and community-based service volume and the risk of transitioning to long-term care facilities: an exploratory stratified analysis",
+        "authors": [
+          "Yumi Shin",
+          "Sejeong Yang",
+          "Chang-O Kim",
+          "Bokyoung Choi",
+          "Jihwan Lee",
+          "Eunhee Choi",
+          "Jihee Choi",
+          "Soong-Nang Jang",
+          "Hyejin Lee"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-29",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-30",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08602-4",
+        "doi": "10.1186/s12877-026-08602-4",
+        "url": "https://doi.org/10.1186/s12877-026-08602-4",
+        "title": "Relationships between physical fitness and psychometric test outcomes in community-dwelling women aged 60–79 years",
+        "authors": [
+          "Agnieszka Nawrat-Szołtysik",
+          "Laura Piejko",
+          "Bogna Szołtys-Brzezowska",
+          "Ryszard Zarzeczny",
+          "Katarzyna Nowakowska-Lipiec",
+          "Anna Polak"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-29",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-30",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08537-w",
+        "doi": "10.1186/s12877-026-08537-w",
+        "url": "https://doi.org/10.1186/s12877-026-08537-w",
+        "title": "Daily patterns and prevalence of behavioral and psychological symptoms of dementia in Swedish nursing homes",
+        "authors": [
+          "Johannes Malm",
+          "Charlotta Nilsen",
+          "Ingemar Kåreholt"
+        ],
+        "abstract": "Abstract                                        Background                     Behavioral and psychological symptoms of dementia (BPSD) are among the principal observable expressions of psychological distress and unmet need in nursing home residents who can no longer reliably verbalize internal experiences, and recognizing their day-to-day variation underpins timely, person-centered care. Yet BPSD fluctuate across days, shifts, and contexts, while established instruments such as the Neuropsychiatric Inventory Nursing Home version (NPI-NH) assess them retrospectively over the preceding weeks or months. This mismatch leaves basic descriptive questions about the day-to-day symptom landscape in routine care unanswered. This study describes the prevalence, severity, co-occurrence, between-unit variation, and shift and weekday patterns of BPSD documented through structured daily registrations in nursing home care.                                                           Methods                     Descriptive longitudinal observational study of 230 individuals with dementia in six nursing homes across six Swedish municipalities, followed for a median observation period of 270 days (interquartile range 120 to 446). Care staff used a digital tool to rate the severity (0–3) of twelve common BPSD, adapted from the NPI-NH, at the end of every work shift, yielding over one million symptom registrations. Analyses were descriptive and person-weighted, giving each individual equal weight regardless of observation length.                                                           Results                     Cumulative symptom prevalence (at any point during observation) ranged from 90% (agitation) to 70% (euphoria). Each symptom’s mean daily prevalence was much lower (4–18%), and symptoms were predominantly of low severity. At least one symptom was recorded on a median of 43.5% of registered days, varying widely between individuals. Clinically related symptoms tended to occur together, consistent with established NPI-NH domain structures, and the mean number of symptoms per day varied more than twofold across the six units. Symptoms were most frequent on evening shifts and least frequent at night, except sleep disturbances, with little variation across weekdays. Just under half of all possible shift registrations were completed.                                                           Conclusions                     Daily registrations describe an intermittent and heterogeneous symptom landscape at a resolution that periodic assessments are not designed to provide. These findings provide an empirical baseline for future multilevel analyses and support BPSD monitoring that covers both individual symptoms and the daily number of symptoms in nursing homes.                                                           Clinical trial number                     Not applicable.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-29",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-30",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag268",
+        "doi": "10.1093/aje/kwag268",
+        "url": "https://doi.org/10.1093/aje/kwag268",
+        "title": "Correction to: Caution in handling switchers in pharmacoepidemiologic studies estimating treatment effects: the example of dipeptidyl peptidase-4 inhibitors and inflammatory bowel disease",
+        "authors": [],
+        "abstract": "",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-10-29",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-30",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261498421",
+        "doi": "10.1177/13872877261498421",
+        "url": "https://doi.org/10.1177/13872877261498421",
+        "title": "Quantitatively modelling the phenomenology of Alzheimer's-type dementia using frame-theoretic semantics and psycholinguistic norms",
+        "authors": [
+          "James Carney"
+        ],
+        "abstract": "Background                     The phenomenology of Alzheimer's disease—the “what is it like?” of the condition—has previously been approached via either quantitative analyses of granular linguistic features or qualitative analyses of lived experience.                                                           Objective                     What is lacking is an empirically credible framework that captures high-level qualitative insight by way of cognitive models rather than surface linguistic features.                                                           Methods                                            Frame semantics and a 1.19 million-token psycholinguistic word norm lookup were applied to two topic-matched corpora: the DementiaBank Pitt Cookie Theft recordings and a COVID-era diary corpus combining CoSoWELL controls with                       Dementia Diaries                       entries. Gradient-boosted classifiers under participant-level cross-validation were compared against Fraser et al.'s 52-feature benchmark and statistically evaluated.                                                                                Results                     A combined classifier contributed information statistically independent of the Fraser set on both corpora. On Pitt, four variance-based features defined a variance-collapse signature, with imageability being most significant; the within-document standard deviation of imageability replicated on COVID. Twelve semantic-frame comparisons survived Holm correction; Kinship was under-used on both corpora, giving a second cross-corpus anchor alongside imageability. A four-feature minimal classifier drawing equally from both feature families achieved AUC 0.748 on Pitt and 0.781 on COVID.                                                           Conclusions                     Alzheimer's-type dementia is characterized not by a shift in the mean of any linguistic dimension but by a flattening of the phenomenological range across which a speaker moves when describing and experiencing the world. Because the diagnostic labels available in both corpora are coarse, the extent to which this flattening reflects a unitary phenomenology of Alzheimer's disease rather than heterogeneity within the diagnostic category remains to be established.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-10-29",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-30",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261500124",
+        "doi": "10.1177/13872877261500124",
+        "url": "https://doi.org/10.1177/13872877261500124",
+        "title": "Artificial intelligence applications in microbiota-gut-brain axis research: Implications for Alzheimer's disease",
+        "authors": [
+          "Simone Lista",
+          "Enzo Emanuele",
+          "Miroslava Cuperlovic-Culf",
+          "Adam Mahdi",
+          "Vikas Singh",
+          "Susana López-Ortiz",
+          "Kayvan Khoramipour",
+          "María Merino-País",
+          "Piercarlo Minoretti",
+          "Giusy Ylenia Cisale",
+          "Amanda Heslegrave",
+          "Camillo Imbimbo",
+          "Giulia Maria Sancesario",
+          "Barbara B. Bendlin",
+          "Bruno P. Imbimbo",
+          "Henrik Zetterberg",
+          "Alejandro Santos-Lozano"
+        ],
+        "abstract": "Alterations in the gut microbiota (GM) are increasingly implicated in Alzheimer's disease (AD) pathogenesis through the microbiota-gut-brain axis (MGBA), influencing neuroinflammation, amyloid-β deposition, and tau aggregation. The inherent complexity of microbiota data necessitates artificial intelligence (AI) and machine learning (ML) to identify novel biomarkers and therapeutic targets. In this narrative review, we examined AI applications in AD-related GM research, including metataxonomic and metagenomic approaches. AI methods facilitate microbial signature identification and enterotype characterization associated with AD progression, enable multi-omics integration clarifying molecular pathways linking GM dysbiosis to neurodegeneration, support predictive modeling for early AD detection, and inform personalized MGBA-targeted interventions. Employed techniques include classical ML (e.g., random forests) for taxonomic classification, deep learning (e.g., neural networks) for complex pattern recognition, and explainable AI for identifying key bacterial taxa and metabolic functions. Significant challenges persist regarding methodological standardization, larger longitudinal cohorts, and ethical considerations in clinical applications. Future priorities include developing interpretable models, integrating longitudinal multi-omics data to establish causality, and validating AI-derived insights for precision AD prevention and treatment. AI uniquely enables high-dimensional, non-linear analyses that advance understanding of microbiome-brain interactions, though clinical translation requires rigorous validation and interdisciplinary collaboration.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-10-29",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-30",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261498369",
+        "doi": "10.1177/13872877261498369",
+        "url": "https://doi.org/10.1177/13872877261498369",
+        "title": "Total salvianolic acids protect APP/PS1 mice from Alzheimer's disease by attenuating neuroinflammation through hippocampal lipid regulation",
+        "authors": [
+          "Peihua Hu",
+          "Mingming Zhang",
+          "Xuemeng Wei",
+          "Shiyu Xiao",
+          "Bin Li",
+          "Kun Liu",
+          "Guo Su",
+          "Bing Han",
+          "Xiaoqian Shi",
+          "Congzhen Wei",
+          "Jingna Sun",
+          "Zheng Zhang",
+          "Zhengang Han",
+          "Li Shen"
+        ],
+        "abstract": "Background                     Total salvianolic acids (TSA) have been shown to exert neuroprotective effects in cognition-associated behavioral tests in APP/PS1 mice in our previous research; however, research on TSA-mediated modulation of hippocampal lipid metabolism remains limited.                                                           Objective                     This study elucidated the therapeutic mechanisms underlying prophylactic TSA administration by integrating lipidomic profiling and demonstrating TSA-induced neuroprotection through suppression of hippocampal neuroinflammation in APP/PS1 mice.                                                           Methods                     Ten 3.5-month-old APP/PS1 mice and ten age-matched wild-type mice received intraperitoneal saline injections as the disease model and healthy control groups. Another twenty APP/PS1 mice were allocated to two TSA treatment groups (30 mg/kg/day and 60 mg/kg/day). After fifteen weeks of intervention, memory performance was assessed using the Y-maze test. Hippocampal Aβ, IBA1, and GFAP protein expression levels were quantified by western blotting. Targeted UHPLC-MS/MS was used for quantitative detection of hippocampal lipid biomarkers.                                                           Results                                            The 60 mg/kg TSA group exhibited improved memory in Y-maze tests, with elevated spontaneous alternation rate (                       p                        &lt; 0.05) and arm entries (                       p                        &lt; 0.01). The latency to enter the novel arm was significantly reduced at both doses of TSA (                       p                        &lt; 0.01). TSA at 60 mg/kg reduced hippocampal inflammation markers IBA1 (                       p                        &lt; 0.05), GFAP (                       p                        &lt; 0.05), and Aβ (                       p                        &lt; 0.01) in APP/PS1 mice. Lipids revealed significant changes in 41 lipid species after TSA treatment. TSA suppressed the levels of glycerides, sterol lipids, and free fatty acids while increasing glycolipids including monogalactosyldiacylglycerols. TSA also regulated sphingomyelins by reducing acyl chain–modified PCs and increasing phosphatidylserines.                                                                                Conclusions                     This study reveals TSA's preventive potential against Alzheimer's disease by modulating inflammation-associated lipid metabolism in APP/PS1 mice.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-10-29",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-30",
         "fetched_from": "crossref"
       },
       {
@@ -99334,6 +100180,82 @@
         "fetched_from": "crossref"
       },
       {
+        "id": "doi:10.1177/10497315261501940",
+        "doi": "10.1177/10497315261501940",
+        "url": "https://doi.org/10.1177/10497315261501940",
+        "title": "Effectiveness of a Nonviolent Communication Parenting Practice Intervention for Hong Kong Chinese Parents",
+        "authors": [
+          "Kitty Yuen-han Mo",
+          "Wallace Wai-hung Tsang",
+          "Priscilla Yuet-kiu Chung",
+          "Pui-yin Cheung"
+        ],
+        "abstract": "Objective                     This study evaluated the effectiveness of a nonviolent communication (NVC) parenting practice intervention for Hong Kong Chinese parents. The intervention consisted of a one-off 3-hr NVC parenting workshop delivered as part of a school-based NVC project for parents of primary school students.                                                           Methods                     A pre–post evaluation design was employed. Thirty-eight parents completed pre- and 1-week follow-up questionnaires.                                                           Results                                            Hypothesis 1 was supported, with improvements in compassionate parenting practices (                       d                        = −0.583 to −1.074). Hypothesis 2 was supported, with reductions in authoritarian parenting practices (                       d                        = –1.560 to −1.679). Hypothesis 3 was supported, with reductions in punitive parenting practices (                       d                        = −2.129 to −3.344).                                                                                Discussion                     The findings suggest that NVC-based parenting workshops may promote compassionate parenting practices and support more positive and respectful parent–child relationships among Hong Kong Chinese families.",
+        "source": "Research on Social Work Practice",
+        "issn": "1049-7315",
+        "date": "2026-10-29",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-30",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/10497315261501946",
+        "doi": "10.1177/10497315261501946",
+        "url": "https://doi.org/10.1177/10497315261501946",
+        "title": "A Quasi-Experimental Trial of Digitally Supported Strength-Based Parenting Program in Hong Kong",
+        "authors": [
+          "Dinghua Jia",
+          "Xiaoyu Zhuang",
+          "Daniel Fu Keung Wong",
+          "Sylvia Yuk Ching Lai Kwok",
+          "Toby Tin Wai Chan",
+          "Xiaolu Dai"
+        ],
+        "abstract": "Purpose:                     Strength-based parenting (SBP) is a promising parenting approach that may promote parental and children's well-being, yet its use in Chinese contexts is underexplored. This study developed and evaluated a localized, digitally supported SBP intervention for Hong Kong families.                     Method:                     Seventy-nine parent–child dyads were assigned to the SBP (                     n                      = 41) or control group (                     n                      = 38), with assessments at pretest, posttest, and 1-month follow-up.                     Results:                     Multilevel models revealed significant effect on parent–child communication openness (                     γ                      = −0.08,                     p                      &lt; .05), marginal trends in parents’ SBP knowledge (                     γ                      = 0.27,                     p                      &lt; .1) and positive affect (                     γ                      = 0.26,                     p                      &lt; .1). Exploratory mediation analysis suggested indirect association between SBP knowledge and parental positive affect through parent communication (β = .17,                     p                      &lt; .05).                     Discussion:                     Findings offer promising signals that SBP program may strengthen Chinese parents’ SBP skills, parent-child communication, and parental well-being.",
+        "source": "Research on Social Work Practice",
+        "issn": "1049-7315",
+        "date": "2026-10-29",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-30",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/bjsw/bcag278",
+        "doi": "10.1093/bjsw/bcag278",
+        "url": "https://doi.org/10.1093/bjsw/bcag278",
+        "title": "Childhood trauma, empathy, and perceived stress among teachers: Implications for trauma-informed school social work",
+        "authors": [
+          "Fatih Cebeci",
+          "Osman Akay",
+          "Selda Meydan",
+          "Sinem Arslankoç",
+          "Gizem Burcu Bolat",
+          "Ragıp Çavuş",
+          "Serkan Cebeci",
+          "Hilal Baş",
+          "Gamze Özyurt",
+          "Nesibe Kalay",
+          "Reyhan Yılmazer",
+          "Sayra Lotfi"
+        ],
+        "abstract": "Abstract                   This study examined whether empathy moderated the association between childhood trauma and general perceived stress among teachers and considered the implications for trauma-informed school social work. A convenience sample of 330 primary and middle school teachers was recruited from ten schools in Istanbul, Türkiye. Data were analysed using Spearman correlations, multiple regression, and PROCESS Model 1 with HC3 robust standard errors. Childhood trauma was positively associated with perceived stress in both correlation (ρ = 0.264, P &amp;lt; .01) and regression analyses (B = 0.14, P &amp;lt; .001), whereas empathy had no significant direct association with stress (B = 0.03, P = .378). The trauma × empathy interaction was significant but small (B = −0.004, P = .041; ΔR2 = 0.007), and the association was weaker at higher empathy. School social work draws on ecological and person-in-environment perspectives to address psychosocial barriers through consultation, referral, and interprofessional collaboration. Teachers’ psychosocial functioning may therefore be relevant to this practice environment because teachers contribute to recognizing student needs, safeguarding, family-school communication, and support planning. However, school social work services, collaboration processes, and outcomes for students and families were not measured, so these implications require direct testing.",
+        "source": "The British Journal of Social Work",
+        "issn": "0045-3102",
+        "date": "2026-10-29",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-30",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1093/bjsw/bcag267",
         "doi": "10.1093/bjsw/bcag267",
         "url": "https://doi.org/10.1093/bjsw/bcag267",
@@ -107025,10 +107947,10 @@
   },
   "totals": {
     "socialSecurity": 1576,
-    "elderCare": 718,
-    "healthReform": 1125,
-    "agingHealth": 1056,
-    "socialWork": 343
+    "elderCare": 728,
+    "healthReform": 1136,
+    "agingHealth": 1070,
+    "socialWork": 346
   },
   "feeds_ok": 41
 }
