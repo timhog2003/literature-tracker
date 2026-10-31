@@ -1,8 +1,30 @@
 {
-  "date": "2026-10-30",
-  "fetched": "2026-10-30T07:25:19+00:00",
+  "date": "2026-10-31",
+  "fetched": "2026-10-31T07:13:35+00:00",
   "domains": {
     "socialSecurity": [
+      {
+        "id": "doi:10.1215/00703370-12877885",
+        "doi": "10.1215/00703370-12877885",
+        "url": "https://doi.org/10.1215/00703370-12877885",
+        "title": "Wealth Inequality Among Families in a Changing Demographic Landscape: Evidence From Germany, 1988–2017",
+        "authors": [
+          "Lisa Klein",
+          "Maximilian Longmuir",
+          "Philipp M. Lersch"
+        ],
+        "abstract": "Highlights                   Demographic change plays an important role in shaping wealth inequality in Germany. Aggregate measures of inequality can hide offsetting effects of demographic change. These offsetting effects are especially pronounced for households with children.",
+        "source": "Demography",
+        "issn": "0070-3370",
+        "date": "2026-10-30",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "socialSecurity"
+        ],
+        "firstSeen": "2026-10-31",
+        "fetched_from": "crossref"
+      },
       {
         "id": "doi:10.1111/jori.70086",
         "doi": "10.1111/jori.70086",
@@ -24348,6 +24370,81 @@
     ],
     "elderCare": [
       {
+        "id": "doi:10.1186/s12877-026-08351-4",
+        "doi": "10.1186/s12877-026-08351-4",
+        "url": "https://doi.org/10.1186/s12877-026-08351-4",
+        "title": "Substantial falls increase concern about falling: a 12-month longitudinal cohort study",
+        "authors": [
+          "Mira Eileen Unverzagt",
+          "Kimberley S. van Schooten",
+          "Christopher McCrum",
+          "Jacqueline C. T. Close",
+          "Henry Brodaty",
+          "Perminder S. Sachdev",
+          "Stephen R. Lord",
+          "Kim Delbaere"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-31",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-31",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08206-y",
+        "doi": "10.1186/s12877-026-08206-y",
+        "url": "https://doi.org/10.1186/s12877-026-08206-y",
+        "title": "Effects of esketamine on postoperative sleep quality in elderly patients under general anesthesia: a systematic review and meta-analysis",
+        "authors": [
+          "Siyu Du",
+          "Sarulatuya",
+          "Juanzhao Cao",
+          "Zhou Cheng",
+          "Ping Sun",
+          "Kun Zhang",
+          "Guangjun Hu"
+        ],
+        "abstract": "Abstract                                        Background                     Postoperative sleep disturbance (PSD) is a common disorder among elderly patients undergoing surgery and is associated with a higher risk of adverse outcomes. This meta-analysis investigated the effects of esketamine on postoperative sleep quality among elderly patients.                                                           Methods                     PubMed, Embase, The Cochrane Library, CNKI, and Wanfang databases were searched to identify randomized controlled trials (RCTs) comparing intravenous esketamine with control in elderly patients (≥ 60 years) undergoing elective surgery in general anesthesia. Sleep quality on postoperative day (POD) 1 was the primary outcome. Other outcomes included sleep quality at other time points, objective sleep parameters, pain, cognitive function, and adverse events.                                                           Results                     Seventeen RCTs involving 2587 patients were included. Regarding the primary outcome, esketamine significantly improved subjective sleep quality on POD 1 (SMD = -0.72; 95% CI, -1.10 to -0.34; I² = 93%), POD 2 (SMD = -1.40; 95% CI, -2.15 to -0.64; I² = 97%), and POD 7 (SMD = -0.38; 95% CI, -0.62 to -0.14; I² = 53%). Objective sleep measures on POD 1 revealed longer total sleep time, reduced sleep latency, and improved sleep efficiency. Esketamine also decreased pain intensity (SMD = -0.63; 95% CI, -0.88 to -0.38; I² = 70%) and improved MMSE scores (SMD = 0.65; 95% CI, 0.42 to 0.89; I² = 0%). Esketamine was associated with a lower risk of nausea or vomiting. No significant differences was observed between the two groups in terms of dizziness, while hypotension occurred less frequently with esketamine.                                                           Conclusions                     Among elderly surgical patients, perioperative esketamine was associated with improved postoperative sleep quality, reduced pain intensity, and a potential improvement in cognitive function, without a significant increase in the risk of major adverse events. However, high-quality RCTs are needed to confirm these findings and determine optimal dosing regimens. Of note, all 17 included trials were conducted in China, potentially limiting the generalizability of our findings to other populations.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-31",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-31",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08551-y",
+        "doi": "10.1186/s12877-026-08551-y",
+        "url": "https://doi.org/10.1186/s12877-026-08551-y",
+        "title": "Body composition and 2-year cognitive change by sex among community-dwelling older adults: an exploratory analysis of the Korean Frailty and Aging Cohort Study",
+        "authors": [
+          "Daehyun Lee",
+          "Chang Won Won",
+          "Miji Kim"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-31",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-31",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1186/s12877-026-08499-z",
         "doi": "10.1186/s12877-026-08499-z",
         "url": "https://doi.org/10.1186/s12877-026-08499-z",
@@ -24424,6 +24521,178 @@
           "agingHealth"
         ],
         "firstSeen": "2026-10-30",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08620-2",
+        "doi": "10.1186/s12877-026-08620-2",
+        "url": "https://doi.org/10.1186/s12877-026-08620-2",
+        "title": "Blood pressure levels and incident motoric cognitive risk syndrome in older Chinese adults: a longitudinal cohort study using CHARLS data",
+        "authors": [
+          "Zihao Zhang",
+          "Yifan Wang",
+          "Peiling Wang",
+          "Xianfu Song",
+          "Yijiang Zhang",
+          "Yeming Zhu",
+          "Ying Huang",
+          "Lijuan Deng",
+          "Xin Chen"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-30",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-31",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08613-1",
+        "doi": "10.1186/s12877-026-08613-1",
+        "url": "https://doi.org/10.1186/s12877-026-08613-1",
+        "title": "Global prevalence of, and factors associated with, sarcopenic and osteosarcopenic obesity in the community older adults: a systematic review and meta-analysis",
+        "authors": [
+          "Majid Khalilizad",
+          "Yasin Sharifzadeh",
+          "Amirhossein Rangani",
+          "Sina Rezazadeh Sarabi Javid"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-30",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-31",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08598-x",
+        "doi": "10.1186/s12877-026-08598-x",
+        "url": "https://doi.org/10.1186/s12877-026-08598-x",
+        "title": "Empty-nest operationalisation and depressive symptoms among rural older Chinese adults: a CHARLS study",
+        "authors": [
+          "Binghuang Wu"
+        ],
+        "abstract": "Abstract                                        Background                     Empty-nest status describes household circumstances and is used to identify older adults for administrative attention. We examined how its operationalisation affects classification coverage and the information it provides about concurrent depressive symptoms.                                                           Methods                     This cross-sectional China Health and Retirement Longitudinal Study (CHARLS) 2018 analysis included rural adults aged ≥60 years with living children and observed 10-item Center for Epidemiologic Studies Depression Scale (CES-D-10) scores. Proximity-defined empty-nest status required no child living with or nearby the participant; co-residence-defined status required no co-resident child. We compared person-level, household-expanded, and Harmonized CHARLS constructions. Primary association analyses used multiple imputation with community-clustered inference (N = 5,847), with continuous CES-D-10 as the primary outcome and CES-D-10 ≥ 10 as the binary outcome. We assessed fixed-label classification and incremental information beyond a demographic and health benchmark. Complete-case associations were sensitivity analyses; household-composition and 2020 analyses were exploratory.                                                           Results                     Among 5,917 eligible participants, proximity status was classifiable for 41.5%, 67.5%, and 98.8% using person-level, household-expanded, and Harmonized constructions, respectively. The primary adjusted mean difference was 0.198 CES-D-10 points (95% confidence interval (CI) − 0.153 to 0.549); the binary-outcome odds ratio was 1.019 (0.897 to 1.158). Direct-label areas under the receiver operating characteristic curve (AUCs) were 0.493 for proximity and 0.495 for co-residence. Adding either label changed apparent AUC by less than 0.001; community-fold cross-validation similarly showed little incremental discrimination. In exploratory analyses, empty-nest participants living alone had higher scores than non-empty-nest participants (mean difference 1.208; 95% CI 0.429 to 1.987), but their direct comparison with empty-nest participants living with other non-spouse members was uncertain (0.858; −0.505 to 2.222).                                                           Conclusions                     Among rural older adults with living children in this sample, classification coverage depended on how the empty-nest label was constructed, and the aggregate label conveyed little concurrent symptom information. Studies should report the label definition, construction route, and classification coverage; household status should not substitute for direct symptom information. Exploratory household-group differences warrant longitudinal study; these findings do not validate a screening or referral pathway.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-30",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-31",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08540-1",
+        "doi": "10.1186/s12877-026-08540-1",
+        "url": "https://doi.org/10.1186/s12877-026-08540-1",
+        "title": "Prognostic value of the modified frailty index-5 for early and long-term outcomes in patients undergoing transcatheter aortic valve implantation",
+        "authors": [
+          "Busra Guvendi Sengor",
+          "Aykun Hakgor",
+          "Barkin Kultursay",
+          "Mustafa Ferhat Keten",
+          "Ismail Balaban",
+          "Tuba Unkun",
+          "Cemalettin Yilmaz",
+          "Elnur Alizade",
+          "Regayip Zehir"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-30",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-31",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08625-x",
+        "doi": "10.1186/s12877-026-08625-x",
+        "url": "https://doi.org/10.1186/s12877-026-08625-x",
+        "title": "Stigma moderates the relationship between health literacy and medication adherence among rural elderly pulmonary tuberculosis patients: a cross-sectional study",
+        "authors": [
+          "Jianguo Jiang",
+          "Yanqiu Zhang",
+          "Weidong Wang",
+          "Xiaowan Xu",
+          "Mengya He",
+          "Saige Chen",
+          "Lu Wang",
+          "Jie Wang",
+          "Qiang Zhang"
+        ],
+        "abstract": "Abstract                                        Background                     Rural elderly individuals are a high-risk population for pulmonary tuberculosis (PTB). Medication adherence is critical for treatment success but is often compromised by low health literacy and high stigma. This study aimed to investigate whether stigma moderates the relationship between health literacy and medication adherence.                                                           Methods                     In December 2024, a consecutive sampling method was used to recruit 283 rural elderly PTB patients who had completed four months of anti-tuberculosis treatment from 18 tuberculosis prevention and control institutions in Henan Province. Sociodemographic and clinical data were collected, and validated Chinese scales for health literacy, stigma, and medication adherence were used. Spearman correlation, simple linear regression, and hierarchical regression (controlling for 9 covariates) were performed to analyze main effects and moderating effects, followed by Johnson‑Neyman analysis and sensitivity analysis.                                                           Results                                            Health literacy was positively correlated with medication adherence (ρ = 0.227,                       P                        &lt; 0.001), and stigma was negatively correlated with medication adherence (ρ = -0.210,                       P                        &lt; 0.001). Hierarchical regression showed that the health literacy×stigma interaction term was significant (b = 0.005, 95% CI 0.001–0.008,                       P                        = 0.010), whereas ordinal logistic regression yielded only marginal significance (OR = 1.004,                       P                        = 0.061). Simple slope analysis indicated that the effect of health literacy was not significant at low stigma (b = 0.017,                       P                        = 0.303) but was significant and stronger at high stigma (b = 0.076,                       P                        &lt; 0.001). The Johnson‑Neyman threshold was a raw stigma score &gt; 2.72, exceeding which 63.25% of patients fell. Sensitivity analyses showed generally consistent patterns, although the ordinal logistic regression yielded only marginal significance, the moderation finding should therefore be considered exploratory.                                                                                Conclusions                     The present study offers exploratory evidence suggesting that stigma may play a moderating role in the relationship between health literacy and medication adherence. This moderating pattern suggests that the association between health literacy and adherence may be more pronounced among rural elderly PTB patients with high stigma. Routine assessment of stigma and targeted health education for those with high stigma could be considered, although the efficacy of such stratified strategies remains to be validated by future interventional research.                                                           Trial registration                     Not applicable.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-30",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-31",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08545-w",
+        "doi": "10.1186/s12877-026-08545-w",
+        "url": "https://doi.org/10.1186/s12877-026-08545-w",
+        "title": "Impact of physical versus digital games on memory and related cognitive performance in older adults: a randomized controlled trial",
+        "authors": [
+          "Fezze Hajizadegan Bidgoli",
+          "Shadi Ghasemi",
+          "Zahra Aliakbarzadeh Arani"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-30",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-31",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08594-1",
+        "doi": "10.1186/s12877-026-08594-1",
+        "url": "https://doi.org/10.1186/s12877-026-08594-1",
+        "title": "Staff experiences of person-centred care and quality of life in nursing homes as influenced by leadership and work situation: a qualitative study",
+        "authors": [
+          "Håkan Eldskott",
+          "Marie Lindkvist",
+          "Johan Niklasson",
+          "Annica Backman"
+        ],
+        "abstract": "Abstract                                        Background                     PCC is widely recognised as an important approach to supporting QoL in nursing homes. However, staff’s ability to provide PCC may be influenced by leadership and working conditions. There is still limited knowledge of how staff themselves experience performing PCC to support residents’ QoL in everyday nursing home care. The aim of this study was to explore staff experiences of providing PCC to support resident QoL and how their provision of PCC is influenced by leadership and staff working conditions.                                                           Methods                     A qualitative study design was used. Fifteen semi-structured interviews were conducted with 10 enrolled nurses and five nursing assistants working in nursing homes in four Swedish municipalities between February and May 2024. Data were analysed using qualitative conventional content analysis.                                                           Results                                            An overarching theme,                       Creating everyday meaning despite challenges                       , was supported by three categories:                       Building human relationships in care                       ,                       Connecting through communication and teamwork                       , and                       Overcoming obstacles for person-centred care                       . Meaningful relationships, attentiveness and tailored support were described as central to providing PCC and supporting residents’ QoL. Communication and teamwork enabled staff to understand and respond to residents’ individual needs, while leadership contributed by supporting staff and facilitating teamwork. Organisational barriers, including staffing shortages, time pressure, communication difficulties and limited leadership support, constrained staff members’ ability to consistently provide PCC and support residents’ QoL.                                                                                Conclusions                     Staff described a strong intrinsic commitment to providing PCC that supports residents’ QoL. However, their ability to do so was shaped by leadership and organisational conditions. Enabling PCC in nursing homes therefore requires not only staff commitment, but also supportive leadership, adequate staffing and work environments that allow time, communication and continuity in care.                                                           Clinical trial number                     Not applicable.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-30",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-31",
         "fetched_from": "crossref"
       },
       {
@@ -42783,6 +43052,175 @@
           "healthReform"
         ],
         "firstSeen": "2026-10-28",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.20034",
+        "doi": "10.1001/jama.2026.20034",
+        "url": "https://doi.org/10.1001/jama.2026.20034",
+        "title": "FDA Approves New Drug to Treat Herpes Simplex Virus Lesions",
+        "authors": [
+          "Sari Richmond"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-30",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-31",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.20038",
+        "doi": "10.1001/jama.2026.20038",
+        "url": "https://doi.org/10.1001/jama.2026.20038",
+        "title": "Long-Term Steroid Use Tied to Adverse Cardiovascular Effects",
+        "authors": [
+          "Samantha Anderer"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-30",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-31",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.20039",
+        "doi": "10.1001/jama.2026.20039",
+        "url": "https://doi.org/10.1001/jama.2026.20039",
+        "title": "Intensive BP Lowering Reduces Cardiovascular Risk in Adults With CKD",
+        "authors": [
+          "Sari Richmond"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-30",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-31",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.20035",
+        "doi": "10.1001/jama.2026.20035",
+        "url": "https://doi.org/10.1001/jama.2026.20035",
+        "title": "Survey Suggests GLP-1 Drugs May Curb Alcohol Use for Many Patients",
+        "authors": [
+          "Samantha Anderer"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-30",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-31",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.20036",
+        "doi": "10.1001/jama.2026.20036",
+        "url": "https://doi.org/10.1001/jama.2026.20036",
+        "title": "Hypertensive Disorders During Pregnancy Increased 74% in the US",
+        "authors": [
+          "Sari Richmond"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-30",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-31",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.20037",
+        "doi": "10.1001/jama.2026.20037",
+        "url": "https://doi.org/10.1001/jama.2026.20037",
+        "title": "Annual Dementia Incidence May Reach 25 Million by 2050",
+        "authors": [
+          "Sari Richmond"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-30",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-31",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.22482",
+        "doi": "10.1001/jama.2026.22482",
+        "url": "https://doi.org/10.1001/jama.2026.22482",
+        "title": "Analysis Asks: Are GLP-1 Drugs Safe in People With Frailty?",
+        "authors": [
+          "Anna Bock"
+        ],
+        "abstract": "This Medical News article discusses an analysis of cardiovascular benefits and safety of semaglutide use in trial participants with frailty, defined by accumulated age-related health deficits.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-30",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-31",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.22533",
+        "doi": "10.1001/jama.2026.22533",
+        "url": "https://doi.org/10.1001/jama.2026.22533",
+        "title": "Is the Pennsylvania Measles Outbreak the New Normal?",
+        "authors": [
+          "Samantha Anderer"
+        ],
+        "abstract": "This Medical News article discusses ongoing measles outbreaks in Pennsylvania and other US states amid declining vaccine coverage.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-30",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-31",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2025.16113",
+        "doi": "10.1001/jama.2025.16113",
+        "url": "https://doi.org/10.1001/jama.2025.16113",
+        "title": "JAMA Editors' Summary Podcast",
+        "authors": [],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-10-30",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-31",
         "fetched_from": "crossref"
       },
       {
@@ -73321,6 +73759,81 @@
         "fetched_from": "crossref"
       },
       {
+        "id": "doi:10.1186/s12877-026-08351-4",
+        "doi": "10.1186/s12877-026-08351-4",
+        "url": "https://doi.org/10.1186/s12877-026-08351-4",
+        "title": "Substantial falls increase concern about falling: a 12-month longitudinal cohort study",
+        "authors": [
+          "Mira Eileen Unverzagt",
+          "Kimberley S. van Schooten",
+          "Christopher McCrum",
+          "Jacqueline C. T. Close",
+          "Henry Brodaty",
+          "Perminder S. Sachdev",
+          "Stephen R. Lord",
+          "Kim Delbaere"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-31",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-31",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08206-y",
+        "doi": "10.1186/s12877-026-08206-y",
+        "url": "https://doi.org/10.1186/s12877-026-08206-y",
+        "title": "Effects of esketamine on postoperative sleep quality in elderly patients under general anesthesia: a systematic review and meta-analysis",
+        "authors": [
+          "Siyu Du",
+          "Sarulatuya",
+          "Juanzhao Cao",
+          "Zhou Cheng",
+          "Ping Sun",
+          "Kun Zhang",
+          "Guangjun Hu"
+        ],
+        "abstract": "Abstract                                        Background                     Postoperative sleep disturbance (PSD) is a common disorder among elderly patients undergoing surgery and is associated with a higher risk of adverse outcomes. This meta-analysis investigated the effects of esketamine on postoperative sleep quality among elderly patients.                                                           Methods                     PubMed, Embase, The Cochrane Library, CNKI, and Wanfang databases were searched to identify randomized controlled trials (RCTs) comparing intravenous esketamine with control in elderly patients (≥ 60 years) undergoing elective surgery in general anesthesia. Sleep quality on postoperative day (POD) 1 was the primary outcome. Other outcomes included sleep quality at other time points, objective sleep parameters, pain, cognitive function, and adverse events.                                                           Results                     Seventeen RCTs involving 2587 patients were included. Regarding the primary outcome, esketamine significantly improved subjective sleep quality on POD 1 (SMD = -0.72; 95% CI, -1.10 to -0.34; I² = 93%), POD 2 (SMD = -1.40; 95% CI, -2.15 to -0.64; I² = 97%), and POD 7 (SMD = -0.38; 95% CI, -0.62 to -0.14; I² = 53%). Objective sleep measures on POD 1 revealed longer total sleep time, reduced sleep latency, and improved sleep efficiency. Esketamine also decreased pain intensity (SMD = -0.63; 95% CI, -0.88 to -0.38; I² = 70%) and improved MMSE scores (SMD = 0.65; 95% CI, 0.42 to 0.89; I² = 0%). Esketamine was associated with a lower risk of nausea or vomiting. No significant differences was observed between the two groups in terms of dizziness, while hypotension occurred less frequently with esketamine.                                                           Conclusions                     Among elderly surgical patients, perioperative esketamine was associated with improved postoperative sleep quality, reduced pain intensity, and a potential improvement in cognitive function, without a significant increase in the risk of major adverse events. However, high-quality RCTs are needed to confirm these findings and determine optimal dosing regimens. Of note, all 17 included trials were conducted in China, potentially limiting the generalizability of our findings to other populations.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-31",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-31",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08551-y",
+        "doi": "10.1186/s12877-026-08551-y",
+        "url": "https://doi.org/10.1186/s12877-026-08551-y",
+        "title": "Body composition and 2-year cognitive change by sex among community-dwelling older adults: an exploratory analysis of the Korean Frailty and Aging Cohort Study",
+        "authors": [
+          "Daehyun Lee",
+          "Chang Won Won",
+          "Miji Kim"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-31",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-31",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1186/s12877-026-08499-z",
         "doi": "10.1186/s12877-026-08499-z",
         "url": "https://doi.org/10.1186/s12877-026-08499-z",
@@ -73397,6 +73910,331 @@
           "agingHealth"
         ],
         "firstSeen": "2026-10-30",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08620-2",
+        "doi": "10.1186/s12877-026-08620-2",
+        "url": "https://doi.org/10.1186/s12877-026-08620-2",
+        "title": "Blood pressure levels and incident motoric cognitive risk syndrome in older Chinese adults: a longitudinal cohort study using CHARLS data",
+        "authors": [
+          "Zihao Zhang",
+          "Yifan Wang",
+          "Peiling Wang",
+          "Xianfu Song",
+          "Yijiang Zhang",
+          "Yeming Zhu",
+          "Ying Huang",
+          "Lijuan Deng",
+          "Xin Chen"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-30",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-31",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08613-1",
+        "doi": "10.1186/s12877-026-08613-1",
+        "url": "https://doi.org/10.1186/s12877-026-08613-1",
+        "title": "Global prevalence of, and factors associated with, sarcopenic and osteosarcopenic obesity in the community older adults: a systematic review and meta-analysis",
+        "authors": [
+          "Majid Khalilizad",
+          "Yasin Sharifzadeh",
+          "Amirhossein Rangani",
+          "Sina Rezazadeh Sarabi Javid"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-30",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-31",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08598-x",
+        "doi": "10.1186/s12877-026-08598-x",
+        "url": "https://doi.org/10.1186/s12877-026-08598-x",
+        "title": "Empty-nest operationalisation and depressive symptoms among rural older Chinese adults: a CHARLS study",
+        "authors": [
+          "Binghuang Wu"
+        ],
+        "abstract": "Abstract                                        Background                     Empty-nest status describes household circumstances and is used to identify older adults for administrative attention. We examined how its operationalisation affects classification coverage and the information it provides about concurrent depressive symptoms.                                                           Methods                     This cross-sectional China Health and Retirement Longitudinal Study (CHARLS) 2018 analysis included rural adults aged ≥60 years with living children and observed 10-item Center for Epidemiologic Studies Depression Scale (CES-D-10) scores. Proximity-defined empty-nest status required no child living with or nearby the participant; co-residence-defined status required no co-resident child. We compared person-level, household-expanded, and Harmonized CHARLS constructions. Primary association analyses used multiple imputation with community-clustered inference (N = 5,847), with continuous CES-D-10 as the primary outcome and CES-D-10 ≥ 10 as the binary outcome. We assessed fixed-label classification and incremental information beyond a demographic and health benchmark. Complete-case associations were sensitivity analyses; household-composition and 2020 analyses were exploratory.                                                           Results                     Among 5,917 eligible participants, proximity status was classifiable for 41.5%, 67.5%, and 98.8% using person-level, household-expanded, and Harmonized constructions, respectively. The primary adjusted mean difference was 0.198 CES-D-10 points (95% confidence interval (CI) − 0.153 to 0.549); the binary-outcome odds ratio was 1.019 (0.897 to 1.158). Direct-label areas under the receiver operating characteristic curve (AUCs) were 0.493 for proximity and 0.495 for co-residence. Adding either label changed apparent AUC by less than 0.001; community-fold cross-validation similarly showed little incremental discrimination. In exploratory analyses, empty-nest participants living alone had higher scores than non-empty-nest participants (mean difference 1.208; 95% CI 0.429 to 1.987), but their direct comparison with empty-nest participants living with other non-spouse members was uncertain (0.858; −0.505 to 2.222).                                                           Conclusions                     Among rural older adults with living children in this sample, classification coverage depended on how the empty-nest label was constructed, and the aggregate label conveyed little concurrent symptom information. Studies should report the label definition, construction route, and classification coverage; household status should not substitute for direct symptom information. Exploratory household-group differences warrant longitudinal study; these findings do not validate a screening or referral pathway.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-30",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-31",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08540-1",
+        "doi": "10.1186/s12877-026-08540-1",
+        "url": "https://doi.org/10.1186/s12877-026-08540-1",
+        "title": "Prognostic value of the modified frailty index-5 for early and long-term outcomes in patients undergoing transcatheter aortic valve implantation",
+        "authors": [
+          "Busra Guvendi Sengor",
+          "Aykun Hakgor",
+          "Barkin Kultursay",
+          "Mustafa Ferhat Keten",
+          "Ismail Balaban",
+          "Tuba Unkun",
+          "Cemalettin Yilmaz",
+          "Elnur Alizade",
+          "Regayip Zehir"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-30",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-31",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08625-x",
+        "doi": "10.1186/s12877-026-08625-x",
+        "url": "https://doi.org/10.1186/s12877-026-08625-x",
+        "title": "Stigma moderates the relationship between health literacy and medication adherence among rural elderly pulmonary tuberculosis patients: a cross-sectional study",
+        "authors": [
+          "Jianguo Jiang",
+          "Yanqiu Zhang",
+          "Weidong Wang",
+          "Xiaowan Xu",
+          "Mengya He",
+          "Saige Chen",
+          "Lu Wang",
+          "Jie Wang",
+          "Qiang Zhang"
+        ],
+        "abstract": "Abstract                                        Background                     Rural elderly individuals are a high-risk population for pulmonary tuberculosis (PTB). Medication adherence is critical for treatment success but is often compromised by low health literacy and high stigma. This study aimed to investigate whether stigma moderates the relationship between health literacy and medication adherence.                                                           Methods                     In December 2024, a consecutive sampling method was used to recruit 283 rural elderly PTB patients who had completed four months of anti-tuberculosis treatment from 18 tuberculosis prevention and control institutions in Henan Province. Sociodemographic and clinical data were collected, and validated Chinese scales for health literacy, stigma, and medication adherence were used. Spearman correlation, simple linear regression, and hierarchical regression (controlling for 9 covariates) were performed to analyze main effects and moderating effects, followed by Johnson‑Neyman analysis and sensitivity analysis.                                                           Results                                            Health literacy was positively correlated with medication adherence (ρ = 0.227,                       P                        &lt; 0.001), and stigma was negatively correlated with medication adherence (ρ = -0.210,                       P                        &lt; 0.001). Hierarchical regression showed that the health literacy×stigma interaction term was significant (b = 0.005, 95% CI 0.001–0.008,                       P                        = 0.010), whereas ordinal logistic regression yielded only marginal significance (OR = 1.004,                       P                        = 0.061). Simple slope analysis indicated that the effect of health literacy was not significant at low stigma (b = 0.017,                       P                        = 0.303) but was significant and stronger at high stigma (b = 0.076,                       P                        &lt; 0.001). The Johnson‑Neyman threshold was a raw stigma score &gt; 2.72, exceeding which 63.25% of patients fell. Sensitivity analyses showed generally consistent patterns, although the ordinal logistic regression yielded only marginal significance, the moderation finding should therefore be considered exploratory.                                                                                Conclusions                     The present study offers exploratory evidence suggesting that stigma may play a moderating role in the relationship between health literacy and medication adherence. This moderating pattern suggests that the association between health literacy and adherence may be more pronounced among rural elderly PTB patients with high stigma. Routine assessment of stigma and targeted health education for those with high stigma could be considered, although the efficacy of such stratified strategies remains to be validated by future interventional research.                                                           Trial registration                     Not applicable.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-30",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-31",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08545-w",
+        "doi": "10.1186/s12877-026-08545-w",
+        "url": "https://doi.org/10.1186/s12877-026-08545-w",
+        "title": "Impact of physical versus digital games on memory and related cognitive performance in older adults: a randomized controlled trial",
+        "authors": [
+          "Fezze Hajizadegan Bidgoli",
+          "Shadi Ghasemi",
+          "Zahra Aliakbarzadeh Arani"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-30",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-31",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08594-1",
+        "doi": "10.1186/s12877-026-08594-1",
+        "url": "https://doi.org/10.1186/s12877-026-08594-1",
+        "title": "Staff experiences of person-centred care and quality of life in nursing homes as influenced by leadership and work situation: a qualitative study",
+        "authors": [
+          "Håkan Eldskott",
+          "Marie Lindkvist",
+          "Johan Niklasson",
+          "Annica Backman"
+        ],
+        "abstract": "Abstract                                        Background                     PCC is widely recognised as an important approach to supporting QoL in nursing homes. However, staff’s ability to provide PCC may be influenced by leadership and working conditions. There is still limited knowledge of how staff themselves experience performing PCC to support residents’ QoL in everyday nursing home care. The aim of this study was to explore staff experiences of providing PCC to support resident QoL and how their provision of PCC is influenced by leadership and staff working conditions.                                                           Methods                     A qualitative study design was used. Fifteen semi-structured interviews were conducted with 10 enrolled nurses and five nursing assistants working in nursing homes in four Swedish municipalities between February and May 2024. Data were analysed using qualitative conventional content analysis.                                                           Results                                            An overarching theme,                       Creating everyday meaning despite challenges                       , was supported by three categories:                       Building human relationships in care                       ,                       Connecting through communication and teamwork                       , and                       Overcoming obstacles for person-centred care                       . Meaningful relationships, attentiveness and tailored support were described as central to providing PCC and supporting residents’ QoL. Communication and teamwork enabled staff to understand and respond to residents’ individual needs, while leadership contributed by supporting staff and facilitating teamwork. Organisational barriers, including staffing shortages, time pressure, communication difficulties and limited leadership support, constrained staff members’ ability to consistently provide PCC and support residents’ QoL.                                                                                Conclusions                     Staff described a strong intrinsic commitment to providing PCC that supports residents’ QoL. However, their ability to do so was shaped by leadership and organisational conditions. Enabling PCC in nursing homes therefore requires not only staff commitment, but also supportive leadership, adequate staffing and work environments that allow time, communication and continuity in care.                                                           Clinical trial number                     Not applicable.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-10-30",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-31",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1215/00703370-12877885",
+        "doi": "10.1215/00703370-12877885",
+        "url": "https://doi.org/10.1215/00703370-12877885",
+        "title": "Wealth Inequality Among Families in a Changing Demographic Landscape: Evidence From Germany, 1988–2017",
+        "authors": [
+          "Lisa Klein",
+          "Maximilian Longmuir",
+          "Philipp M. Lersch"
+        ],
+        "abstract": "Highlights                   Demographic change plays an important role in shaping wealth inequality in Germany. Aggregate measures of inequality can hide offsetting effects of demographic change. These offsetting effects are especially pronounced for households with children.",
+        "source": "Demography",
+        "issn": "0070-3370",
+        "date": "2026-10-30",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "socialSecurity"
+        ],
+        "firstSeen": "2026-10-31",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261502791",
+        "doi": "10.1177/13872877261502791",
+        "url": "https://doi.org/10.1177/13872877261502791",
+        "title": "Cerebrospinal fluid p62/SQSTM1 is associated with tau pathology, brain structural alterations, and cognitive impairment in adults without dementia",
+        "authors": [
+          "Ming-Yan Yao",
+          "Hai-Hua Guo",
+          "Qiong-Yao Li",
+          "Liang-Yu Huang",
+          "Lan Tan",
+          "Hui-Fu Wang"
+        ],
+        "abstract": "Background                     The involvement of cerebrospinal fluid (CSF) Sequestosome-1 (SQSTM1, commonly known as p62), an autophagy-related scaffold protein, in Alzheimer's disease (AD) pathogenesis is not well established in human populations.                                                           Objective                     To investigate the associations of baseline CSF p62/SQSTM1 levels with cognitive function, AD biomarkers, brain structure, and incident dementia in non-demented individuals.                                                           Methods                                            We included 557 dementia-free participants from the Alzheimer's Disease Neuroimaging Initiative cohort. Multivariate regression and interaction analyses examined associations of CSF p62/SQSTM1 with cognition, AD biomarkers, and brain volumes and their modification by age, sex,                       APOE                       genotype, and diagnostic status. Kaplan-Meier and Cox analyses assessed dementia-free survival and incident dementia risk. Mediation analysis tested whether AD pathology and brain structure mediated the association between p62/SQSTM1 and cognition.                                                                                Results                     Elevated CSF p62/SQSTM1 levels correlated with poorer cognition, heightened tau pathology, increased sTREM2 and PGRN levels, and decreased whole-brain and fusiform gyrus volumes. Age modified p62/SQSTM1 associations with cognition and whole-brain volume. Subgroup analyses revealed that significant associations between p62/SQSTM1 and cognitive function (MMSE, MEM) were primarily observed in the middle-aged group. Longitudinal analyses further showed that participants in the highest quartile (Q4) exhibited an increased risk compared to the lowest (Q1) (HR = 1.78, 95% CI 1.16–2.73). Mediation analysis indicated that tau pathology and reduced brain volumes mediated the association between p62/SQSTM1 and cognition.                                                           Conclusions                     Higher p62/SQSTM1 levels were associated with tau pathology and an elevated risk of AD. Tau-related pathological changes and brain structural alterations might be involved in the relationship between the p62/SQSTM1-related autophagy processes and cognition.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-10-30",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-31",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261502808",
+        "doi": "10.1177/13872877261502808",
+        "url": "https://doi.org/10.1177/13872877261502808",
+        "title": "Draw me a zebra: Study of an item-drawing protocol to assess semantic memory in a memory clinic",
+        "authors": [
+          "Marie Dissard",
+          "Léopoldine Deheinzelin",
+          "Sophie Ouadghiri",
+          "Audrey Creusat",
+          "Sybille Rey",
+          "Léa Delahouliere",
+          "Eva Mathieu",
+          "Marion Vallet",
+          "Aurore Brissard",
+          "Christelle Brunet",
+          "Isabelle Derobert",
+          "Morgane Lacour",
+          "Aline Zarea",
+          "Olivier Martinaud",
+          "David Wallon",
+          "Alexandre Morin"
+        ],
+        "abstract": "Background                     Semantic memory is often impaired in neurodegenerative diseases such as Alzheimer's disease and frontotemporal lobar degeneration. Evaluating it requires cross-referencing the results of different tests in several modalities. However, most of the available tests only assess verbal production, which may be altered by conditions other than semantic deficits, making interpretation more difficult.                                                           Objective                     To evaluate the Item Drawing Test (IDT), a non-verbal semantic production task, and examine its reliability and preliminary discriminative ability for detecting semantic impairment in a memory clinic population.                                                           Methods                     Forty-one patients with suspected neurodegenerative disease were assessed using an algorithm combining two semantic memory tests from GREMOTs, the Pyramids and Palm Trees Test, and the IDT, which included 10 drawings for a total score of 49 points. Diagnostic performance was explored using receiver operating characteristic analysis. Inter-rater reliability and associations with global cognitive status (MMSE) were also examined.                                                           Results                     The IDT distinguished 16 patients with semantic impairment (SI) from those without. The optimal threshold score was 42/49 (sensitivity = 88%, specificity = 81.3%; AUC = 0.839; 95% CI = 0.699–0.978). Inter-rater reliability was excellent (intraclass correlation coefficient = 0.972; 95% CI = 0.953–0.984). IDT score correlated moderately with MMSE (r = 0.53, p = 0.0004). In multivariable logistic regression including MMSE, global cognitive status remained significantly associated with SI (p = 0.008). Qualitative analysis of the IDT results provided detailed information about patients’ semantic knowledge. Patients with SI produced semantic errors, semantic feature substitutions, and showed visuospatial errors or a tendency toward prototype.                                                           Conclusions                     The IDT enables a rapid detection of semantic impairment in patients at risk of neurodegenerative disease. This tool may be useful in clinical practice to limit the influence of verbal production in semantic assessment.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-10-30",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-31",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261502860",
+        "doi": "10.1177/13872877261502860",
+        "url": "https://doi.org/10.1177/13872877261502860",
+        "title": "Deciphering the neuroprotective signaling of SGLT2 inhibitors in Alzheimer's disease",
+        "authors": [
+          "Takahiro Kamihara",
+          "Ryutah Kato",
+          "Akira Morisaki",
+          "Shinji Kaneko",
+          "Takuya Omura",
+          "Atsuya Shimizu"
+        ],
+        "abstract": "Background                     Alzheimer's disease (AD) currently lacks fundamental curative treatments. While epidemiological evidence increasingly links sodium-glucose cotransporter 2 (SGLT2) inhibitors to reduced AD risk, the underlying molecular mechanisms remain poorly understood.                                                           Objective                     This study aimed to elucidate the potential molecular pathways through which SGLT2 inhibitors intervene in AD pathophysiology using a bioinformatics approach.                                                           Methods                     Potential targets for empagliflozin and dapagliflozin were predicted via SwissTargetPrediction. AD-related differentially expressed genes (DEGs) were identified from a human brain dataset (GSE125583) utilizing the GREIN platform. Common genes were analyzed for functional networks (GeneMANIA/STRING) and pathway enrichment (KEGG). Hub proteins were identified using Cytoscape centrality metrics, and organ-specific expression was verified through the RefEx database.                                                           Results                     Fifty-seven genes were common to SGLT2 inhibitor targets and AD DEGs. Notably, the transporters SLC5A11 and SLC2A1 were significantly upregulated in AD brains and exhibited high brain-specific expression. Pathway analysis revealed significant involvement in the MAPK and FoxO signaling pathways, which regulate apoptosis, autophagy, and oxidative stress. Key hub proteins identified included ERBB2, HSP90AA1, DPP4, and SLC2A1. It is hypothesized that SGLT2 inhibitors exert neuroprotective effects by targeting these upregulated transporters, thereby suppressing MAPK signaling and activating the FoxO pathway.                                                           Conclusions                     Our findings suggest that SGLT2 inhibitors may normalize MAPK/FoxO signaling and restore cellular homeostasis in the AD brain. This study provides a potential theoretical insight for the drug repositioning of antidiabetic agents and offers key indicators for the design of future clinical and basic research in AD therapy.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-10-30",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-31",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261502867",
+        "doi": "10.1177/13872877261502867",
+        "url": "https://doi.org/10.1177/13872877261502867",
+        "title": "Bidirectional transitions between subjective cognitive decline and normal cognition and risk of mild cognitive impairment: A multistate Markov model study in NACC UDS",
+        "authors": [
+          "Yonghao Xiao",
+          "Ziwang Zhou",
+          "Min Jin",
+          "Congdi Wang",
+          "Xiaoyu Qian",
+          "Feifei Jia"
+        ],
+        "abstract": "Background                     Subjective cognitive decline (SCD) may be an early indicator of Alzheimer's disease but often reverts to normal cognition (NC), leaving its prognostic significance uncertain.                                                           Objective                     To quantify bidirectional transitions between SCD and NC and to evaluate the long-term risk of progression to mild cognitive impairment after reversion.                                                           Methods                     Using longitudinal data from the National Alzheimer's Coordinating Center Uniform Data Set, we fitted continuous-time multistate Markov models for NC, SCD, mild cognitive impairment (MCI), and dementia. Three cohorts were analyzed: baseline SCD, baseline NC, and post-SCD reversion. Transition intensities and 15-year state-occupancy probabilities were estimated, and covariate effects were assessed using nested multivariable models. Death was evaluated as a competing absorbing state in a sensitivity analysis.                                                           Results                                            The primary analysis included 4283 participants with baseline SCD, 11,709 with baseline NC, and 2099 in the post-SCD reversion cohort. In the baseline-SCD cohort, reversion to NC was substantially more frequent than progression to MCI (transition intensity ratio, 3.27; 95% CI, 3.05–3.50). However, the post-SCD reversion cohort showed a long-term cognitive risk profile similar to the baseline-SCD cohort and less favorable than the baseline-NC cohort. Older age,                       APOE                       ε4 carriage, informant-reported decline, and greater neuropsychiatric or functional impairment were associated with higher progression risk, whereas older age and depression were associated with lower reversion intensity.                                                                                Conclusions                     SCD is a dynamic cognitive state with substantial potential for reversion, but reversion to NC does not necessarily restore the long-term risk profile observed in individuals cognitively normal at baseline.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-10-30",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-31",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261502870",
+        "doi": "10.1177/13872877261502870",
+        "url": "https://doi.org/10.1177/13872877261502870",
+        "title": "Unveiling the molecular bridge between hearing loss and dementia via plasma proteomic mapping",
+        "authors": [
+          "Feng Chen",
+          "Yanggang Hong",
+          "Haoxiong Guan",
+          "Yue Zhu",
+          "Jiajun Li",
+          "Xiaobi Fang",
+          "Fan Ye"
+        ],
+        "abstract": "Background                     Hearing loss (HL) is a potentially modifiable risk factor for dementia, but the circulating molecular features shared by hearing impairment and dementia remain unclear.                                                           Objective                     To derive a plasma proteomic signature of hearing impairment and examine its association with incident all-cause dementia and its statistical contribution to the hearing–dementia association.                                                           Methods                     We analyzed 13,941 UK Biobank participants with plasma proteomics and speech-in-noise hearing assessments. A proteomic signature of hearing impairment was derived using elastic-net regression with 10-fold cross-validation. A proteomic signature was constructed and tested for associations with incident all-cause dementia using Cox models. Mediation, functional enrichment, and exploratory drug-signature enrichment analyses were also performed.                                                           Results                     Elastic-net regression selected 64 proteins, and the composite signature correlated with hearing impairment (point-biserial r = 0.232). Compared with normal hearing, insufficient (HR = 1.338, 95% CI: 1.015–1.763) and poor hearing (HR = 2.021, 95% CI: 1.244–3.283) were associated with higher dementia risk after multivariable adjustment. The proteomic signature was associated with incident dementia (HR = 1.791, 95% CI: 1.312–2.445). Estimated proportions mediated were 22.99% (95% bootstrap CI: 4.87%–129.05%) and 14.61% (95% bootstrap CI: 2.21%–64.21%), respectively. Drug-signature enrichment yielded exploratory compound–protein signals.                                                           Conclusions                     In this prospective cohort, hearing impairment and a derived plasma proteomic signature were associated with incident all-cause dementia. These findings provide hypothesis-generating evidence for circulating molecular features shared by hearing impairment and dementia but require external validation and mechanistic investigation before causal or clinical interpretation.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-10-30",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-10-31",
         "fetched_from": "crossref"
       },
       {
@@ -100180,6 +101018,152 @@
         "fetched_from": "crossref"
       },
       {
+        "id": "doi:10.1177/14680173261503082",
+        "doi": "10.1177/14680173261503082",
+        "url": "https://doi.org/10.1177/14680173261503082",
+        "title": "Book Review:\n                    <i>Tuning In: The Art and Science of Psychotherapy in Older Adults</i>\n                    by Cassidy-Eagle, Erin L, &amp; Dunn, Laura B Cassidy-EagleErin LDunnLaura B (Eds.) (2025). Tuning In: The Art and Science of Psychotherapy in Older Adults. Washington, DC: American Psychiatric Association. 352 pages(including index), $64.00, ISBN 9781615374991 (paperback), ISBN 9781615375004 (e-book)",
+        "authors": [
+          "Bonnie Anne Rudd",
+          "Joel L Carr"
+        ],
+        "abstract": "",
+        "source": "Journal of Social Work",
+        "issn": "1468-0173",
+        "date": "2026-10-30",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-31",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/sw/swag053",
+        "doi": "10.1093/sw/swag053",
+        "url": "https://doi.org/10.1093/sw/swag053",
+        "title": "Research Seminar: Artificial Intelligence Challenges and Opportunities in Social Work",
+        "authors": [
+          "Michal Segal"
+        ],
+        "abstract": "",
+        "source": "Social Work",
+        "issn": "0037-8046",
+        "date": "2026-10-30",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-31",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/sw/swag059",
+        "doi": "10.1093/sw/swag059",
+        "url": "https://doi.org/10.1093/sw/swag059",
+        "title": "“Our Strengths Are Our Downfalls, If We’re Not Careful”: Trauma-Informed Supervision for Disaster Social Work",
+        "authors": [
+          "Cindy Sousa",
+          "Kal Skye",
+          "Andrea October",
+          "Lindsey Norton",
+          "Katie King"
+        ],
+        "abstract": "Abstract                   While there is a growing body of literature on the importance of trauma-informed care for disaster survivors, there is relatively little known about the professional environments surrounding social workers who work within disasters, including the role of trauma-informed supervision. In the research reported here, authors explore the ways that trauma-informed supervision undergirds effective disaster case management. Data come from a series of interviews (N = 13) with disaster case managers (DCMs) working within a state office for emergency management and resilience. Using content analysis, authors analyze DCMs’ descriptions of how their working environments and supervisory models reflect principles of trauma-informed supervision. Findings point to multiple modes of trauma-informed supervision within disaster settings: demonstrating the importance of agencies and supervisors; recognizing the trauma workers face; creating and maintaining open and collaborative relationships within and among case managers; establishing trust, safety, and empowerment; and attending to issues of culture, history, and identity. In so doing, this work helps further understandings of dimensions of trauma-informed care that are critical for disaster contexts. These findings may be applied to social work supervision training and practice that helps avoid secondary stress and burnout among DCMs.",
+        "source": "Social Work",
+        "issn": "0037-8046",
+        "date": "2026-10-30",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-31",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/sw/swag056",
+        "doi": "10.1093/sw/swag056",
+        "url": "https://doi.org/10.1093/sw/swag056",
+        "title": "Disaggregating Native Hawaiian and Pacific Islander Data: A Methodological Imperative for Equity-Centered Social Work Science",
+        "authors": [
+          "Meripa T Godinet",
+          "James C Hodges"
+        ],
+        "abstract": "",
+        "source": "Social Work",
+        "issn": "0037-8046",
+        "date": "2026-10-30",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-31",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/sw/swag057",
+        "doi": "10.1093/sw/swag057",
+        "url": "https://doi.org/10.1093/sw/swag057",
+        "title": "<i>An Inconvenient Woman: The Extraordinary Life of Lillian Smith, the Southerner Who Defied Jim Crow America</i>\n                    . Keri Lee Merritt",
+        "authors": [
+          "Jane McPherson"
+        ],
+        "abstract": "",
+        "source": "Social Work",
+        "issn": "0037-8046",
+        "date": "2026-10-30",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-31",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/10497315261501955",
+        "doi": "10.1177/10497315261501955",
+        "url": "https://doi.org/10.1177/10497315261501955",
+        "title": "Digital Competence Scale for Chinese Frontline Social Workers: Development and Initial Validation",
+        "authors": [
+          "Kun Liang",
+          "Xuebing Su",
+          "Shuai Tang",
+          "Shuhui Yang"
+        ],
+        "abstract": "Purpose                     To develop and initially validate a scale assessing self-perceived digital competence among Chinese frontline social workers.                                                           Method                     Guided by DigComp 2.2, a 17-item pool was refined through expert review and cognitive interviews. Data from 4,029 frontline social workers were randomly divided into development and validation subsamples.                                                           Results                                            Analyses supported a 9-item scale comprising Privacy and Safety, Digital Communication and Engagement, and Content Innovation. Confirmatory analysis indicated acceptable but not close fit (comparative fit index = 0.953; root mean square error of approximation = 0.084). Internal consistency was acceptable for the total scale (α = .75) and two subscales, but lower for Content Innovation (α = .65). The Privacy and Safety subscale showed a ceiling effect. Total scores correlated negatively with role ambiguity (                       r                        = −.406) and positively with work autonomy (                       r                        = .218).                                                                                Discussion                     The scale offers a preliminary measure for research and identifying training needs. Further refinement and independent validation are needed.",
+        "source": "Research on Social Work Practice",
+        "issn": "1049-7315",
+        "date": "2026-10-30",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-31",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/10497315261502335",
+        "doi": "10.1177/10497315261502335",
+        "url": "https://doi.org/10.1177/10497315261502335",
+        "title": "Developing a Culturally Tailored Parent Intervention for Urban Low-Income Children in China",
+        "authors": [
+          "Yaoxiang Ren",
+          "Lu Yu",
+          "Shan Jiang",
+          "Camilla Kin Ming Lo",
+          "Daniel T. L. Shek"
+        ],
+        "abstract": "Purpose:                     This study developed and piloted a culturally tailored parenting intervention for children in low-income urban families using a multiphase mixed-methods design.                     Methods:                     In Study 1, a three-round Delphi survey with 30 experts was conducted to select and refine key components. An intervention manual was developed based on the Delphi findings. In Study 2, a single-arm pilot study involving nine families (children aged 7–9) evaluated the feasibility and preliminary outcomes across three time points, with postintervention qualitative interviews.                     Results:                     Eight key components were selected, achieving a 96.3% agreement rate and strong between-round ranking consistency (ρ = 0.87). Satisfaction and feasibility ratings were high. Favorable trends emerged for children’s externalizing and internalizing problems, though internalizing symptoms showed limited improvement rates from pre- to postintervention. Qualitative findings supported enhanced positive parenting, parent–child relationship, and parents’ psychological well-being.                     Discussion:                     Findings indicate that the intervention is feasible and shows promise, warranting a larger-scale efficacy trial.",
+        "source": "Research on Social Work Practice",
+        "issn": "1049-7315",
+        "date": "2026-10-30",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-10-31",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1177/10497315261501940",
         "doi": "10.1177/10497315261501940",
         "url": "https://doi.org/10.1177/10497315261501940",
@@ -107946,11 +108930,11 @@
     ]
   },
   "totals": {
-    "socialSecurity": 1576,
-    "elderCare": 728,
-    "healthReform": 1136,
-    "agingHealth": 1070,
-    "socialWork": 346
+    "socialSecurity": 1577,
+    "elderCare": 738,
+    "healthReform": 1145,
+    "agingHealth": 1086,
+    "socialWork": 353
   },
   "feeds_ok": 41
 }
