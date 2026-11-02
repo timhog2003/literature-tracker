@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-01",
-  "fetched": "2026-11-01T07:45:30+00:00",
+  "date": "2026-11-02",
+  "fetched": "2026-11-02T07:54:04+00:00",
   "domains": {
     "socialSecurity": [
       {
@@ -24980,6 +24980,81 @@
     ],
     "elderCare": [
       {
+        "id": "doi:10.1186/s12877-026-08578-1",
+        "doi": "10.1186/s12877-026-08578-1",
+        "url": "https://doi.org/10.1186/s12877-026-08578-1",
+        "title": "Treatment outcomes and influencing factors of older patients with pulmonary tuberculosis complicated with diabetes mellitus in China, 2018–2024",
+        "authors": [
+          "Wenbin Ma",
+          "Jia Wang",
+          "Tianxin Yan",
+          "Tao Li",
+          "Hui Zhang",
+          "Xiaofeng Luo",
+          "Yanlin Zhao",
+          "Yan Qu"
+        ],
+        "abstract": "Abstract                                        Background                     The comorbidity of pulmonary tuberculosis (PTB) and diabetes mellitus (DM) is rising among adults aged ≥ 65 years in China. DM comorbidity significantly worsens PTB treatment outcomes. Population-based evidence specific to older Chinese PTB-DM patients remains scarce. This retrospective cohort study aimed to identify independent risk factors for adverse treatment outcomes in older Chinese PTB-DM patients.                                                           Methods                     Data were from the National Tuberculosis Information Management System (2018–2024). Kaplan–Meier analysis was performed to estimate overall event-free survival. Fine–Gray competing risks regression models were used to identify independent factors associated with each adverse outcome subtype, accounting for competing events.                                                           Results                                            Among 56,682 eligible patients, the median follow-up duration was 6.965 months, and the rate of adverse anti-tuberculosis treatment outcomes was 11.08%. Irregular treatment adherence (                       aHR                        = 12.783,                       95%CI                       : 12.008–13.607), male sex (                       aHR                        = 1.246,                       95%CI                       : 1.176–1.319), increased age (                       aHR                        = 1.345–2.459), retreatment (                       aHR                        = 1.112,                       95%CI                       : 1.031–1.199), positive etiological test results (                       aHR                        = 1.338,                       95%CI                       : 1.259–1.421), comorbidities other than diabetes (                       aHR                        = 1.234,                       95%CI                       : 1.154–1.320), and non-guideline-concordant regimens, (                       aHR                        = 1.096,                       95%CI                       : 1.025–1.171) were independent risk factors for adverse treatment outcomes.                                                                                Conclusions                     Adverse treatment outcomes in older adults with PTB-DM are driven by a range of demographic, clinical and adherence-related factors, with irregular medication adherence being the most robust predictor. These risk factors differ across adverse outcome subtypes.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-02",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-02",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08614-0",
+        "doi": "10.1186/s12877-026-08614-0",
+        "url": "https://doi.org/10.1186/s12877-026-08614-0",
+        "title": "Heterogeneity in the timing of instrumental activities of daily living disability onset and associated factors among community-dwelling older adults in Korea: evidence from the Korean Longitudinal Study of Ageing, Waves 1–9 (2006–2022)",
+        "authors": [
+          "Jinheum Kim",
+          "Yong Whi Jeong",
+          "Eunjeong Cha"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-02",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-02",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08599-w",
+        "doi": "10.1186/s12877-026-08599-w",
+        "url": "https://doi.org/10.1186/s12877-026-08599-w",
+        "title": "Self-management support preferences among older patients with mild cognitive impairment: a Q-methodology study",
+        "authors": [
+          "Yue Han",
+          "Ke Huang",
+          "Minhui Liu",
+          "Zhifei Chen",
+          "Mengyue Zhang",
+          "Tingxuan Wang",
+          "Yan Ji"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-02",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-02",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1016/j.socscimed.2026.119508",
         "doi": "10.1016/j.socscimed.2026.119508",
         "url": "https://doi.org/10.1016/j.socscimed.2026.119508",
@@ -28396,6 +28471,30 @@
         "fetched_from": "crossref"
       },
       {
+        "id": "doi:10.1093/ageing/afag315",
+        "doi": "10.1093/ageing/afag315",
+        "url": "https://doi.org/10.1093/ageing/afag315",
+        "title": "New horizons in adaptive capacity and heat-related health in older people: integrating frailty, energy insecurity and social resources",
+        "authors": [
+          "Laura Petraglia",
+          "Maddalena Conte",
+          "Valentina Parisi",
+          "Grazia Daniela Femminella",
+          "Dario Leosco"
+        ],
+        "abstract": "Abstract                   Extreme heat is a major environmental threat to healthy ageing, with older people experiencing the highest rates of heat-related morbidity and mortality. Although age-related physiological changes, multimorbidity and frailty remain key determinants of heat susceptibility, climate change, social inequalities and energy insecurity are reshaping the conditions in which older people experience and respond to thermal stress. This narrative New Horizons review integrates evidence identified through a structured, non-systematic search of peer-reviewed literature and relevant institutional reports across geriatric medicine, environmental health and climate science. It examines how frailty, intrinsic capacity, housing, energy affordability and social frailty influence the ability of older people to recognise risk, access protection and respond effectively to extreme heat. Particular attention is given to energy insecurity and summer cooling poverty, through which limited access to affordable household energy may undermine resilience. Ageing models primarily characterise individual vulnerability and functioning within the environment, whereas climate vulnerability models organise risk around exposure, sensitivity and adaptation; we use adaptive capacity to connect these perspectives by asking whether personal and contextual resources can be mobilised for protection. It may provide a conceptual basis for developing and subsequently validating a heat-adapted comprehensive geriatric assessment and for informing targeted prevention and climate adaptation policies for ageing populations.",
+        "source": "Age and Ageing",
+        "issn": "0002-0729",
+        "date": "2026-10-31",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-02",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1186/s12877-026-08499-z",
         "doi": "10.1186/s12877-026-08499-z",
         "url": "https://doi.org/10.1186/s12877-026-08499-z",
@@ -28644,6 +28743,35 @@
           "agingHealth"
         ],
         "firstSeen": "2026-10-31",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/gerona/glag256",
+        "doi": "10.1093/gerona/glag256",
+        "url": "https://doi.org/10.1093/gerona/glag256",
+        "title": "Senescence Biomarkers Predict Physical Function and Clinical Outcomes After Heart Failure Hospitalization: Insights From REHAB-HF",
+        "authors": [
+          "Charles T Semelka",
+          "Molly R Ehrig",
+          "Nicholas M Pajewski",
+          "Stephen B Kritchevsky",
+          "Philip A Kramer",
+          "Anthony E Peters",
+          "Robert J Mentz",
+          "Amy M Pastva",
+          "David J Whellan",
+          "Dalane W Kitzman"
+        ],
+        "abstract": "Abstract                                        Background                     Acute decompensated heart failure (ADHF) is the most common cause of hospitalization in older adults. Cellular senescence, a hallmark of aging biology, has been implicated in heart failure pathophysiology and functional decline via the pro-inflammatory senescence-associated secretory phenotype (SASP). We evaluated the association between SASP and physical function in older adults hospitalized for ADHF.                                                           Methods                     REHAB-HF was a trial of older adults hospitalized for ADHF randomized to a novel physical rehabilitation intervention or attention control. We measured a panel of 18-SASP analytes at in-hospital baseline and at 3-month follow-up. Outcomes included short physical performance battery (SPPB) and 6-minute walk distance (6MWD). Statistical analysis included principal component analysis (PCA) of log- and z-transformed SASP values. Associations were evaluated with multivariable regression models adjusted for age, sex, and intervention arm.                                                           Results                     Samples were available for 226 (65%) of the REHAB-HF participants with mean age (SD) 72.3 (8), 53% female, 52% HFpEF, and 53% assigned to rehab intervention. Principal Component 1 (PC1) reflected a coordinated signal across biomarkers of inflammation and immune signaling. PC1 was associated with poorer function at baseline [(SPPB -0.46 [-0.77, -0.14]; p = 0.004 and 6MWD -19.7 meters [-32.7, -6.7]; p = 0.003)]. Increasing SASP over time was associated with clinically significant reduced physical function improvement (ΔSPPB -1.80 [-2.58, -1.03]; p &amp;lt; 0.001 and Δ6MWD -49.7 meters [-77.2, -22.1]; p = 0.001).                                                           Conclusion                     Higher SASP levels were associated with poorer physical function recovery in older patients hospitalized for ADHF. These findings suggest that inflammatory SASP biomarkers may improve risk stratification and potentially guide therapeutic strategies.                                                           REHAB-HF trial is registered at clinicaltrials.gov Clinical Trial Registry                     NCT02196038",
+        "source": "The Journals of Gerontology, Series A: Biological Sciences and Medical Sciences",
+        "issn": "1079-5006",
+        "date": "2026-10-30",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "elderCare"
+        ],
+        "firstSeen": "2026-11-02",
         "fetched_from": "crossref"
       },
       {
@@ -46921,91 +47049,6 @@
     ],
     "healthReform": [
       {
-        "id": "doi:10.1097/ede.0000000000002037",
-        "doi": "10.1097/ede.0000000000002037",
-        "url": "https://doi.org/10.1097/ede.0000000000002037",
-        "title": "Re: “Survival and Recurrence With GLP-1 Receptor Agonists in Breast Cancer”",
-        "authors": [
-          "Sixten Harborg",
-          "Signe Borgquist",
-          "Deirdre Cronin-Fenton"
-        ],
-        "abstract": "",
-        "source": "Epidemiology",
-        "issn": "1044-3983",
-        "date": "2026-11-01",
-        "subjects": [],
-        "domains": [
-          "agingHealth",
-          "healthReform"
-        ],
-        "firstSeen": "2026-09-26",
-        "fetched_from": "crossref"
-      },
-      {
-        "id": "doi:10.1097/ede.0000000000002036",
-        "doi": "10.1097/ede.0000000000002036",
-        "url": "https://doi.org/10.1097/ede.0000000000002036",
-        "title": "Re: Survival and “Recurrence With GLP-1 Receptor Agonists in Breast Cancer”",
-        "authors": [
-          "Maret L. Maliniak",
-          "Julie Barberio",
-          "Rebecca Nash",
-          "Timothy L. Lash"
-        ],
-        "abstract": "",
-        "source": "Epidemiology",
-        "issn": "1044-3983",
-        "date": "2026-11-01",
-        "subjects": [],
-        "domains": [
-          "agingHealth",
-          "healthReform"
-        ],
-        "firstSeen": "2026-09-26",
-        "fetched_from": "crossref"
-      },
-      {
-        "id": "doi:10.1097/ede.0000000000002032",
-        "doi": "10.1097/ede.0000000000002032",
-        "url": "https://doi.org/10.1097/ede.0000000000002032",
-        "title": "Harvest Now, Decrypt Later",
-        "authors": [
-          "Sarah F. Ackley",
-          "Michael D. Flanders",
-          "Jingxuan Wang"
-        ],
-        "abstract": "",
-        "source": "Epidemiology",
-        "issn": "1044-3983",
-        "date": "2026-11-01",
-        "subjects": [],
-        "domains": [
-          "agingHealth",
-          "healthReform"
-        ],
-        "firstSeen": "2026-09-26",
-        "fetched_from": "crossref"
-      },
-      {
-        "id": "doi:10.1093/hsw/hlag047",
-        "doi": "10.1093/hsw/hlag047",
-        "url": "https://doi.org/10.1093/hsw/hlag047",
-        "title": "Health &amp; Social Work",
-        "authors": [],
-        "abstract": "",
-        "source": "Health &amp; Social Work",
-        "issn": "0360-7283",
-        "date": "2026-11-01",
-        "subjects": [],
-        "domains": [
-          "socialWork",
-          "healthReform"
-        ],
-        "firstSeen": "2026-10-28",
-        "fetched_from": "crossref"
-      },
-      {
         "id": "doi:10.1016/j.jpubeco.2026.105784",
         "doi": "10.1016/j.jpubeco.2026.105784",
         "url": "https://doi.org/10.1016/j.jpubeco.2026.105784",
@@ -50019,6 +50062,145 @@
           "socialWork"
         ],
         "firstSeen": "2026-11-01",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1097/ede.0000000000002037",
+        "doi": "10.1097/ede.0000000000002037",
+        "url": "https://doi.org/10.1097/ede.0000000000002037",
+        "title": "Re: “Survival and Recurrence With GLP-1 Receptor Agonists in Breast Cancer”",
+        "authors": [
+          "Sixten Harborg",
+          "Signe Borgquist",
+          "Deirdre Cronin-Fenton"
+        ],
+        "abstract": "",
+        "source": "Epidemiology",
+        "issn": "1044-3983",
+        "date": "2026-11-01",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-26",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1097/ede.0000000000002036",
+        "doi": "10.1097/ede.0000000000002036",
+        "url": "https://doi.org/10.1097/ede.0000000000002036",
+        "title": "Re: Survival and “Recurrence With GLP-1 Receptor Agonists in Breast Cancer”",
+        "authors": [
+          "Maret L. Maliniak",
+          "Julie Barberio",
+          "Rebecca Nash",
+          "Timothy L. Lash"
+        ],
+        "abstract": "",
+        "source": "Epidemiology",
+        "issn": "1044-3983",
+        "date": "2026-11-01",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-26",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1097/ede.0000000000002032",
+        "doi": "10.1097/ede.0000000000002032",
+        "url": "https://doi.org/10.1097/ede.0000000000002032",
+        "title": "Harvest Now, Decrypt Later",
+        "authors": [
+          "Sarah F. Ackley",
+          "Michael D. Flanders",
+          "Jingxuan Wang"
+        ],
+        "abstract": "",
+        "source": "Epidemiology",
+        "issn": "1044-3983",
+        "date": "2026-11-01",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-26",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/hsw/hlag047",
+        "doi": "10.1093/hsw/hlag047",
+        "url": "https://doi.org/10.1093/hsw/hlag047",
+        "title": "Health &amp; Social Work",
+        "authors": [],
+        "abstract": "",
+        "source": "Health &amp; Social Work",
+        "issn": "0360-7283",
+        "date": "2026-11-01",
+        "subjects": [],
+        "domains": [
+          "socialWork",
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-28",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmoa2610771",
+        "doi": "10.1056/nejmoa2610771",
+        "url": "https://doi.org/10.1056/nejmoa2610771",
+        "title": "Coronary CT Angiography versus Intravascular Ultrasound Guidance for PCI",
+        "authors": [
+          "Carlos Collet",
+          "Takuya Mizukami",
+          "Frederic Bouisset",
+          "Gianluca Pontone",
+          "Carlo Zivelonghi",
+          "Daniel A. Jones",
+          "Adriaan Wilgenhof",
+          "Nicolaj Brejnholt Støttrup",
+          "Bálint Szilveszter",
+          "Kaoru Tanaka",
+          "Gianluca Mincione",
+          "Yader Sandoval",
+          "Ian Purcell",
+          "James C. Spratt",
+          "Divaka Perera",
+          "Niels Thue Olsen",
+          "Tetsuya Amano",
+          "Peter O’Kane",
+          "Simone Biscaglia",
+          "Hasan Jilaihawi",
+          "Ziad Ali",
+          "Eric Van Belle",
+          "Richard Good",
+          "Taito Arai",
+          "Brian Ko",
+          "Jeroen Sonck",
+          "Alan Bagnall",
+          "Timothy Fairbairn",
+          "Antonio Bartorelli",
+          "Giulio Stefanini",
+          "Jonathon Leipsic",
+          "Thomas Engstrøm",
+          "Bjarne Linde Nørgaard",
+          "Bernard De Bruyne",
+          "Bruno R. da Costa",
+          "Daniele Andreini"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-11-01",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-02",
         "fetched_from": "crossref"
       },
       {
@@ -80807,70 +80989,78 @@
     ],
     "agingHealth": [
       {
-        "id": "doi:10.1097/ede.0000000000002037",
-        "doi": "10.1097/ede.0000000000002037",
-        "url": "https://doi.org/10.1097/ede.0000000000002037",
-        "title": "Re: “Survival and Recurrence With GLP-1 Receptor Agonists in Breast Cancer”",
+        "id": "doi:10.1186/s12877-026-08578-1",
+        "doi": "10.1186/s12877-026-08578-1",
+        "url": "https://doi.org/10.1186/s12877-026-08578-1",
+        "title": "Treatment outcomes and influencing factors of older patients with pulmonary tuberculosis complicated with diabetes mellitus in China, 2018–2024",
         "authors": [
-          "Sixten Harborg",
-          "Signe Borgquist",
-          "Deirdre Cronin-Fenton"
+          "Wenbin Ma",
+          "Jia Wang",
+          "Tianxin Yan",
+          "Tao Li",
+          "Hui Zhang",
+          "Xiaofeng Luo",
+          "Yanlin Zhao",
+          "Yan Qu"
         ],
-        "abstract": "",
-        "source": "Epidemiology",
-        "issn": "1044-3983",
-        "date": "2026-11-01",
+        "abstract": "Abstract                                        Background                     The comorbidity of pulmonary tuberculosis (PTB) and diabetes mellitus (DM) is rising among adults aged ≥ 65 years in China. DM comorbidity significantly worsens PTB treatment outcomes. Population-based evidence specific to older Chinese PTB-DM patients remains scarce. This retrospective cohort study aimed to identify independent risk factors for adverse treatment outcomes in older Chinese PTB-DM patients.                                                           Methods                     Data were from the National Tuberculosis Information Management System (2018–2024). Kaplan–Meier analysis was performed to estimate overall event-free survival. Fine–Gray competing risks regression models were used to identify independent factors associated with each adverse outcome subtype, accounting for competing events.                                                           Results                                            Among 56,682 eligible patients, the median follow-up duration was 6.965 months, and the rate of adverse anti-tuberculosis treatment outcomes was 11.08%. Irregular treatment adherence (                       aHR                        = 12.783,                       95%CI                       : 12.008–13.607), male sex (                       aHR                        = 1.246,                       95%CI                       : 1.176–1.319), increased age (                       aHR                        = 1.345–2.459), retreatment (                       aHR                        = 1.112,                       95%CI                       : 1.031–1.199), positive etiological test results (                       aHR                        = 1.338,                       95%CI                       : 1.259–1.421), comorbidities other than diabetes (                       aHR                        = 1.234,                       95%CI                       : 1.154–1.320), and non-guideline-concordant regimens, (                       aHR                        = 1.096,                       95%CI                       : 1.025–1.171) were independent risk factors for adverse treatment outcomes.                                                                                Conclusions                     Adverse treatment outcomes in older adults with PTB-DM are driven by a range of demographic, clinical and adherence-related factors, with irregular medication adherence being the most robust predictor. These risk factors differ across adverse outcome subtypes.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-02",
         "subjects": [],
         "domains": [
-          "agingHealth",
-          "healthReform"
+          "elderCare",
+          "agingHealth"
         ],
-        "firstSeen": "2026-09-26",
+        "firstSeen": "2026-11-02",
         "fetched_from": "crossref"
       },
       {
-        "id": "doi:10.1097/ede.0000000000002036",
-        "doi": "10.1097/ede.0000000000002036",
-        "url": "https://doi.org/10.1097/ede.0000000000002036",
-        "title": "Re: Survival and “Recurrence With GLP-1 Receptor Agonists in Breast Cancer”",
+        "id": "doi:10.1186/s12877-026-08614-0",
+        "doi": "10.1186/s12877-026-08614-0",
+        "url": "https://doi.org/10.1186/s12877-026-08614-0",
+        "title": "Heterogeneity in the timing of instrumental activities of daily living disability onset and associated factors among community-dwelling older adults in Korea: evidence from the Korean Longitudinal Study of Ageing, Waves 1–9 (2006–2022)",
         "authors": [
-          "Maret L. Maliniak",
-          "Julie Barberio",
-          "Rebecca Nash",
-          "Timothy L. Lash"
+          "Jinheum Kim",
+          "Yong Whi Jeong",
+          "Eunjeong Cha"
         ],
         "abstract": "",
-        "source": "Epidemiology",
-        "issn": "1044-3983",
-        "date": "2026-11-01",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-02",
         "subjects": [],
         "domains": [
-          "agingHealth",
-          "healthReform"
+          "elderCare",
+          "agingHealth"
         ],
-        "firstSeen": "2026-09-26",
+        "firstSeen": "2026-11-02",
         "fetched_from": "crossref"
       },
       {
-        "id": "doi:10.1097/ede.0000000000002032",
-        "doi": "10.1097/ede.0000000000002032",
-        "url": "https://doi.org/10.1097/ede.0000000000002032",
-        "title": "Harvest Now, Decrypt Later",
+        "id": "doi:10.1186/s12877-026-08599-w",
+        "doi": "10.1186/s12877-026-08599-w",
+        "url": "https://doi.org/10.1186/s12877-026-08599-w",
+        "title": "Self-management support preferences among older patients with mild cognitive impairment: a Q-methodology study",
         "authors": [
-          "Sarah F. Ackley",
-          "Michael D. Flanders",
-          "Jingxuan Wang"
+          "Yue Han",
+          "Ke Huang",
+          "Minhui Liu",
+          "Zhifei Chen",
+          "Mengyue Zhang",
+          "Tingxuan Wang",
+          "Yan Ji"
         ],
         "abstract": "",
-        "source": "Epidemiology",
-        "issn": "1044-3983",
-        "date": "2026-11-01",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-02",
         "subjects": [],
         "domains": [
-          "agingHealth",
-          "healthReform"
+          "elderCare",
+          "agingHealth"
         ],
-        "firstSeen": "2026-09-26",
+        "firstSeen": "2026-11-02",
         "fetched_from": "crossref"
       },
       {
@@ -84027,6 +84217,201 @@
         "fetched_from": "crossref"
       },
       {
+        "id": "doi:10.1097/ede.0000000000002037",
+        "doi": "10.1097/ede.0000000000002037",
+        "url": "https://doi.org/10.1097/ede.0000000000002037",
+        "title": "Re: “Survival and Recurrence With GLP-1 Receptor Agonists in Breast Cancer”",
+        "authors": [
+          "Sixten Harborg",
+          "Signe Borgquist",
+          "Deirdre Cronin-Fenton"
+        ],
+        "abstract": "",
+        "source": "Epidemiology",
+        "issn": "1044-3983",
+        "date": "2026-11-01",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-26",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1097/ede.0000000000002036",
+        "doi": "10.1097/ede.0000000000002036",
+        "url": "https://doi.org/10.1097/ede.0000000000002036",
+        "title": "Re: Survival and “Recurrence With GLP-1 Receptor Agonists in Breast Cancer”",
+        "authors": [
+          "Maret L. Maliniak",
+          "Julie Barberio",
+          "Rebecca Nash",
+          "Timothy L. Lash"
+        ],
+        "abstract": "",
+        "source": "Epidemiology",
+        "issn": "1044-3983",
+        "date": "2026-11-01",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-26",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1097/ede.0000000000002032",
+        "doi": "10.1097/ede.0000000000002032",
+        "url": "https://doi.org/10.1097/ede.0000000000002032",
+        "title": "Harvest Now, Decrypt Later",
+        "authors": [
+          "Sarah F. Ackley",
+          "Michael D. Flanders",
+          "Jingxuan Wang"
+        ],
+        "abstract": "",
+        "source": "Epidemiology",
+        "issn": "1044-3983",
+        "date": "2026-11-01",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-09-26",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261501861",
+        "doi": "10.1177/13872877261501861",
+        "url": "https://doi.org/10.1177/13872877261501861",
+        "title": "Eyes-open resting-state EEG microstate analysis using ratio-normalized parameters across four- and seven-class solutions in healthy controls, mild cognitive impairment, and Alzheimer's disease",
+        "authors": [
+          "Chanda Simfukwe",
+          "Seong Soo A. An",
+          "Young Chul Youn"
+        ],
+        "abstract": "Background                     Resting-state EEG microstate analysis indexes large-scale network dynamics, yet the value of ratio-normalized temporal parameters under the eyes-open resting (EOR) condition remains unexplored across the cognitive decline continuum.                                                           Objective                     To examine whether ratio-normalized microstate parameters from four- and seven-class clustering solutions under EOR differentiate healthy controls (HC), mild cognitive impairment (MCI), and Alzheimer's disease (AD).                                                           Methods                     One hundred and eighty participants (HC, MCI, and AD; n = 60 each) were recruited from a hospital-based cohort in an elderly Korean population. Resting-state EEG recorded under EOR was analyzed using MICROSTATELAB in EEGLAB. Absolute temporal parameters (duration, occurrence, coverage) and ratio-normalized forms (relative duration, relative occurrence) were compared using ANCOVA with age as covariate, false discovery rate (FDR) correction, and Bonferroni-corrected post-hoc comparisons.                                                           Results                     In the four-class solution, three parameters reached nominal significance, none surviving FDR correction across the full set of 20 tests: coverage of Microstate B (visual network; F(2176) = 3.561, p = 0.030), relative occurrence of Microstate B (F(2176) = 5.281, p = 0.006), and relative occurrence of Microstate E (executive network; F(2176) = 3.816, p = 0.024). MCI showed higher visual and lower executive microstate engagement than AD (p ≤ 0.023); no contrast involving HC was significant. Absolute occurrence parameters were non-significant whereas their ratio-normalized counterparts were significant. The seven-class solution yielded no corrected effects.                                                           Conclusions                     Ratio-normalized EOR microstate parameters distinguished MCI from AD through visual and executive network engagement, with small-to-moderate effects and HC intermediate. The four-class solution outperformed the seven-class solution, contrasting with eyes-closed reports. As these analyses were exploratory and did not survive correction, confirmation in independent cohorts is required.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-11-01",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-02",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261500436",
+        "doi": "10.1177/13872877261500436",
+        "url": "https://doi.org/10.1177/13872877261500436",
+        "title": "Scaling a multimodal mind-body movement intervention for Veterans with dementia in VA nursing homes: A formative evaluation of the Preventing Loss of Independence through Exercise (PLIÉ) program",
+        "authors": [
+          "Francesca M. Nicosia",
+          "Matthew J. Miller",
+          "Benjamin Hung",
+          "Catherine Pham",
+          "Jennifer A. Lee",
+          "Margaret A. Chesney",
+          "Riya Jacob",
+          "Christine W. Hartmann",
+          "Linda Chao",
+          "Deborah E. Barnes"
+        ],
+        "abstract": "Background                     People living with Alzheimer's disease and related dementias constitute a substantial proportion of residents in U.S. Veterans Health Administration nursing homes (Community Living Centers, CLCs). Non-pharmacologic interventions have demonstrated positive effects for people living with dementia (PLWD) but face implementation barriers in nursing homes. The Preventing Loss of Independence through Exercise (PLIÉ) program is an evidence-based multimodal mind-body movement program that supports quality of life and function for PLWD.                                                           Objective                     To identify potential facilitators and barriers that may impact implementation of PLIÉ in CLCs (PLIÉ-CLC) and inform the development of a remote staff training program.                                                           Methods                     We conducted a developmental formative evaluation using qualitative methods, guided by the Consolidated Framework for Implementation Research (CFIR). Semi-structured interviews with 30 CLC staff, directors, and VA health system leaders, explored perspectives on implementing PLIÉ-CLC. Data were analyzed using a template analysis approach.                                                           Results                     Key facilitators included PLIÉ's evidence base, adaptability, and alignment with person-centered care. Barriers included staffing constraints, workload demands, and limited accessible space. Participants emphasized the need for both synchronous and asynchronous training components to fit staff schedules and enhance feasibility.                                                           Conclusions                     This study highlighted the importance of adaptability and evidence-based support in implementing PLIÉ in VA nursing homes. The findings suggest that a flexible, remote training program incorporating both didactic and experiential learning may facilitate the scalability of PLIÉ. Understanding barriers and facilitators can inform strategies to improve the implementation of non-pharmacologic interventions for residents with dementia, ultimately enhancing care quality and outcomes in nursing homes.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-11-01",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-02",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261502863",
+        "doi": "10.1177/13872877261502863",
+        "url": "https://doi.org/10.1177/13872877261502863",
+        "title": "Dry, but not wet, age-related macular degeneration increases Alzheimer's disease risk: Findings from a multidimensional analysis",
+        "authors": [
+          "Linyi Yang",
+          "Jingyan Zeng",
+          "Yanxiu Ding",
+          "Linlin Li"
+        ],
+        "abstract": "Background                     Age-related macular degeneration (AMD) and Alzheimer's disease (AD) share pathophysiological features along the eye–brain axis, but epidemiological, molecular, and causal evidence has not been systematically integrated.                                                           Objective                     To determine whether AMD, particularly its dry subtype, is causally associated with AD by integrating global epidemiological, bibliometric, molecular, and genetic evidence.                                                           Methods                     We analyzed Global Burden of Disease 2021 data, performed a bibliometric analysis, explored shared molecular targets using GeneCards and STRING, and conducted bidirectional two-sample Mendelian randomization (MR) using genome-wide association study summary statistics.                                                           Results                     From 1990 to 2021, AMD and AD prevalence rose in parallel and peaked in high socio-demographic index regions. Bibliometric analysis of 498 publications showed increasing attention to cellular senescence and MR. Bioinformatics identified 241 shared genes between dry AMD and AD, enriched in complement cascades, MAPK/PI3K-Akt signaling, and lipid metabolism. MR showed that dry AMD causally increased AD risk (OR = 1.14, 95% CI: 1.06–1.24, p = 0.0005), whereas overall AMD showed no causal effect and reverse causality was absent.                                                           Conclusions                     Dry AMD, but not AMD overall, is a causal risk factor for AD, providing genetic support for the eye–brain axis hypothesis. Shared pathways, particularly complement dysregulation, may inform risk stratification and therapeutic development.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-11-01",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-02",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261501149",
+        "doi": "10.1177/13872877261501149",
+        "url": "https://doi.org/10.1177/13872877261501149",
+        "title": "Integrated clinical and transcriptomic analysis reveals miRNA-mediated mechanisms linking hearing loss to cognitive decline in Alzheimer's disease",
+        "authors": [
+          "Xin Wang",
+          "Bohan Zhang",
+          "Huixuan Ma",
+          "Aidi Shan",
+          "Qingjie Lian",
+          "Xiaodong Han",
+          "Chang Xu",
+          "Qi Yao",
+          "Boye Wen",
+          "Heya Luan",
+          "Shaoqi Li",
+          "Tong Cui",
+          "Sirong Lv",
+          "Qingyuan Sun",
+          "Jinxuan Guo",
+          "Runqi Chen",
+          "Cuibai Wei"
+        ],
+        "abstract": "Background                     Hearing loss (HL) is a potent, modifiable risk factor for Alzheimer's disease (AD), but the underlying molecular mechanisms remain elusive. microRNAs (miRNAs) are potential key mediators given their roles in both neurodegeneration and auditory function.                                                           Objective                     To investigate whether peripheral blood miRNA profiles differ between AD patients with and without HL, and whether hsa-miR-6875-5p serves as a candidate molecular link.                                                           Methods                     In a case-control study of 41 AD patients (AD-HL n = 24, AD-non-HL n = 17), we performed neuropsychological assessments, plasma miRNA sequencing, target gene prediction, and external validation using public transcriptomic datasets.                                                           Results                     AD-HL patients showed significantly worse Montreal Cognitive Assessment and Auditory Verbal Learning Test delayed recall scores (p &lt; 0.05). We identified 9 differentially expressed miRNAs, with hsa-miR-6875-5p being the most upregulated (3.29-fold, p = 0.041). Its predicted targets were enriched in synaptic plasticity-related pathways. External validation in AD brain datasets supported consistent upregulation of hsa-miR-6875-5p and downregulation of SYN1/PSD95. Validation in mouse cochlear datasets showed concordant expression trends for homologous miRNA and target genes. The absence of healthy control groups precludes determination of whether this miRNA signature is specific to AD-HL or a general feature of HL or AD.                                                           Conclusions                     This preliminary study identifies hsa-miR-6875-5p as a potential circulating biomarker linking HL to cognitive decline in AD. These findings are hypothesis-generating and require confirmation in larger cohorts, including healthy controls, and functional experiments.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-11-01",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-02",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261500407",
+        "doi": "10.1177/13872877261500407",
+        "url": "https://doi.org/10.1177/13872877261500407",
+        "title": "Evaluating plasma phosphorylated tau217 for clinical rule-out of cerebral amyloid pathology: Evidence from a memory clinic cohort",
+        "authors": [
+          "Carolin I. Kurz",
+          "Paulina Tegethoff",
+          "Anna Hufnagel",
+          "Robert Perneczky"
+        ],
+        "abstract": "Background                     Plasma phosphorylated tau 217 (pTau217) is a promising biomarker for Alzheimer's disease amyloid-β (Aβ) pathology, but cut-offs require validation.                                                           Objective                     The aim was to evaluate the diagnostic performance of plasma phosphorylated tau 217 for identifying cerebral amyloid pathology to reduce the need for more invasive or resource-intensive confirmatory testing by identifying individuals with a low likelihood of amyloid pathology.                                                           Methods                                            Elecsys                       ®                       pTau217 was evaluated in a memory clinic cohort using ROC analysis. Cut-offs were derived using sensitivity-weighted Euclidean distance and bootstrap resampling.                                                                                Results                     pTau217 discriminated Aβ-positive from Aβ-negative individuals (AUC 0.854). The cut-off was 0.169 pg/mL (95% CI 0.140–0.200), with 87.7% sensitivity and 77.0% specificity. Age and sex adjustment did not improve performance.                                                           Conclusions                     The threshold was consistent with previously reported low cut-offs, supporting potential rule-out utility; however, its sensitivity precludes stand-alone exclusion of Aβ pathology in memory clinic populations.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-11-01",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-02",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1186/s12877-026-08351-4",
         "doi": "10.1186/s12877-026-08351-4",
         "url": "https://doi.org/10.1186/s12877-026-08351-4",
@@ -84287,6 +84672,30 @@
           "agingHealth"
         ],
         "firstSeen": "2026-11-01",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/ageing/afag315",
+        "doi": "10.1093/ageing/afag315",
+        "url": "https://doi.org/10.1093/ageing/afag315",
+        "title": "New horizons in adaptive capacity and heat-related health in older people: integrating frailty, energy insecurity and social resources",
+        "authors": [
+          "Laura Petraglia",
+          "Maddalena Conte",
+          "Valentina Parisi",
+          "Grazia Daniela Femminella",
+          "Dario Leosco"
+        ],
+        "abstract": "Abstract                   Extreme heat is a major environmental threat to healthy ageing, with older people experiencing the highest rates of heat-related morbidity and mortality. Although age-related physiological changes, multimorbidity and frailty remain key determinants of heat susceptibility, climate change, social inequalities and energy insecurity are reshaping the conditions in which older people experience and respond to thermal stress. This narrative New Horizons review integrates evidence identified through a structured, non-systematic search of peer-reviewed literature and relevant institutional reports across geriatric medicine, environmental health and climate science. It examines how frailty, intrinsic capacity, housing, energy affordability and social frailty influence the ability of older people to recognise risk, access protection and respond effectively to extreme heat. Particular attention is given to energy insecurity and summer cooling poverty, through which limited access to affordable household energy may undermine resilience. Ageing models primarily characterise individual vulnerability and functioning within the environment, whereas climate vulnerability models organise risk around exposure, sensitivity and adaptation; we use adaptive capacity to connect these perspectives by asking whether personal and contextual resources can be mobilised for protection. It may provide a conceptual basis for developing and subsequently validating a heat-adapted comprehensive geriatric assessment and for informing targeted prevention and climate adaptation policies for ageing populations.",
+        "source": "Age and Ageing",
+        "issn": "0002-0729",
+        "date": "2026-10-31",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-02",
         "fetched_from": "crossref"
       },
       {
@@ -84691,6 +85100,35 @@
           "agingHealth"
         ],
         "firstSeen": "2026-10-31",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/gerona/glag256",
+        "doi": "10.1093/gerona/glag256",
+        "url": "https://doi.org/10.1093/gerona/glag256",
+        "title": "Senescence Biomarkers Predict Physical Function and Clinical Outcomes After Heart Failure Hospitalization: Insights From REHAB-HF",
+        "authors": [
+          "Charles T Semelka",
+          "Molly R Ehrig",
+          "Nicholas M Pajewski",
+          "Stephen B Kritchevsky",
+          "Philip A Kramer",
+          "Anthony E Peters",
+          "Robert J Mentz",
+          "Amy M Pastva",
+          "David J Whellan",
+          "Dalane W Kitzman"
+        ],
+        "abstract": "Abstract                                        Background                     Acute decompensated heart failure (ADHF) is the most common cause of hospitalization in older adults. Cellular senescence, a hallmark of aging biology, has been implicated in heart failure pathophysiology and functional decline via the pro-inflammatory senescence-associated secretory phenotype (SASP). We evaluated the association between SASP and physical function in older adults hospitalized for ADHF.                                                           Methods                     REHAB-HF was a trial of older adults hospitalized for ADHF randomized to a novel physical rehabilitation intervention or attention control. We measured a panel of 18-SASP analytes at in-hospital baseline and at 3-month follow-up. Outcomes included short physical performance battery (SPPB) and 6-minute walk distance (6MWD). Statistical analysis included principal component analysis (PCA) of log- and z-transformed SASP values. Associations were evaluated with multivariable regression models adjusted for age, sex, and intervention arm.                                                           Results                     Samples were available for 226 (65%) of the REHAB-HF participants with mean age (SD) 72.3 (8), 53% female, 52% HFpEF, and 53% assigned to rehab intervention. Principal Component 1 (PC1) reflected a coordinated signal across biomarkers of inflammation and immune signaling. PC1 was associated with poorer function at baseline [(SPPB -0.46 [-0.77, -0.14]; p = 0.004 and 6MWD -19.7 meters [-32.7, -6.7]; p = 0.003)]. Increasing SASP over time was associated with clinically significant reduced physical function improvement (ΔSPPB -1.80 [-2.58, -1.03]; p &amp;lt; 0.001 and Δ6MWD -49.7 meters [-77.2, -22.1]; p = 0.001).                                                           Conclusion                     Higher SASP levels were associated with poorer physical function recovery in older patients hospitalized for ADHF. These findings suggest that inflammatory SASP biomarkers may improve risk stratification and potentially guide therapeutic strategies.                                                           REHAB-HF trial is registered at clinicaltrials.gov Clinical Trial Registry                     NCT02196038",
+        "source": "The Journals of Gerontology, Series A: Biological Sciences and Medical Sciences",
+        "issn": "1079-5006",
+        "date": "2026-10-30",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "elderCare"
+        ],
+        "firstSeen": "2026-11-02",
         "fetched_from": "crossref"
       },
       {
@@ -111456,24 +111894,6 @@
     ],
     "socialWork": [
       {
-        "id": "doi:10.1093/hsw/hlag047",
-        "doi": "10.1093/hsw/hlag047",
-        "url": "https://doi.org/10.1093/hsw/hlag047",
-        "title": "Health &amp; Social Work",
-        "authors": [],
-        "abstract": "",
-        "source": "Health &amp; Social Work",
-        "issn": "0360-7283",
-        "date": "2026-11-01",
-        "subjects": [],
-        "domains": [
-          "socialWork",
-          "healthReform"
-        ],
-        "firstSeen": "2026-10-28",
-        "fetched_from": "crossref"
-      },
-      {
         "id": "doi:10.1016/j.socscimed.2026.119508",
         "doi": "10.1016/j.socscimed.2026.119508",
         "url": "https://doi.org/10.1016/j.socscimed.2026.119508",
@@ -113880,6 +114300,24 @@
         "fetched_from": "crossref"
       },
       {
+        "id": "doi:10.1093/hsw/hlag047",
+        "doi": "10.1093/hsw/hlag047",
+        "url": "https://doi.org/10.1093/hsw/hlag047",
+        "title": "Health &amp; Social Work",
+        "authors": [],
+        "abstract": "",
+        "source": "Health &amp; Social Work",
+        "issn": "0360-7283",
+        "date": "2026-11-01",
+        "subjects": [],
+        "domains": [
+          "socialWork",
+          "healthReform"
+        ],
+        "firstSeen": "2026-10-28",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1016/j.childyouth.2026.109187",
         "doi": "10.1016/j.childyouth.2026.109187",
         "url": "https://doi.org/10.1016/j.childyouth.2026.109187",
@@ -114737,6 +115175,26 @@
           "socialWork"
         ],
         "firstSeen": "2026-11-01",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/bjsw/bcag198",
+        "doi": "10.1093/bjsw/bcag198",
+        "url": "https://doi.org/10.1093/bjsw/bcag198",
+        "title": "An interview-based comparative study: User experience and acceptability of scale-based versus DSM-5-based psychological assessment chatbots",
+        "authors": [
+          "Zhizhong Kai",
+          "Micheal L Shier"
+        ],
+        "abstract": "Abstract                   Psychological assessment chatbots are increasingly used in mental health services, yet comparative research on their feasibility and user acceptability remains insufficient. This study compared user experience of scale-based and Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition (DSM-5)-based assessment chatbots to identify their respective strengths, drawbacks, and interaction characteristics. A total of 140 participants aged 18–57 with diverse demographics were recruited via WeChat and equally split into two groups for chatbot trials, followed by semi-structured interviews analysed through hybrid deductive-inductive coding with NVivo 14. Scale-based chatbots relieved self-disclosure pressure and encouraged honest reporting but suffered functional and diagnostic limitations. DSM-5-based chatbots delivered stronger anthropomorphic emotional engagement yet lacked clinical diagnostic rigor. Institutional endorsement, intrinsic motivation, and perceived reliability jointly predicted acceptance. Chatbot-aided assessment improves accessibility of mental health support. Their clinical and social work application relies on balancing empathetic emotional interaction with standardized, valid diagnostic performance.",
+        "source": "The British Journal of Social Work",
+        "issn": "0045-3102",
+        "date": "2026-11-01",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-11-02",
         "fetched_from": "crossref"
       },
       {
@@ -122712,10 +123170,10 @@
   },
   "totals": {
     "socialSecurity": 1605,
-    "elderCare": 870,
-    "healthReform": 1273,
-    "agingHealth": 1218,
-    "socialWork": 491
+    "elderCare": 875,
+    "healthReform": 1274,
+    "agingHealth": 1228,
+    "socialWork": 492
   },
   "feeds_ok": 41
 }
