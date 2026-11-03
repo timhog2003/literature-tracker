@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-02",
-  "fetched": "2026-11-02T07:54:04+00:00",
+  "date": "2026-11-03",
+  "fetched": "2026-11-03T08:12:24+00:00",
   "domains": {
     "socialSecurity": [
       {
@@ -24980,6 +24980,29 @@
     ],
     "elderCare": [
       {
+        "id": "doi:10.1186/s12877-026-08560-x",
+        "doi": "10.1186/s12877-026-08560-x",
+        "url": "https://doi.org/10.1186/s12877-026-08560-x",
+        "title": "The inflammatory potential of diet in older adults: its relationship with sarcopenia components and nutritional status - a multicentre cross-sectional study",
+        "authors": [
+          "Bahanur Karaçar",
+          "Nilgün Seremet Kürklü",
+          "Gülseren Pamuk",
+          "Gülşah Kaner"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-03",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-03",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1186/s12877-026-08578-1",
         "doi": "10.1186/s12877-026-08578-1",
         "url": "https://doi.org/10.1186/s12877-026-08578-1",
@@ -25052,6 +25075,234 @@
           "agingHealth"
         ],
         "firstSeen": "2026-11-02",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/gerona/glag254",
+        "doi": "10.1093/gerona/glag254",
+        "url": "https://doi.org/10.1093/gerona/glag254",
+        "title": "Joint associations of handgrip strength and chair-stand performance with motoric cognitive risk syndrome in older adults",
+        "authors": [
+          "Yangan Li",
+          "Xingyu Wang",
+          "Shiqi Wang",
+          "Feiwen Liu",
+          "Zhiqing Zhang",
+          "Minjian Zhu",
+          "Ran Li",
+          "Rui Liu",
+          "Fengyi Wang",
+          "Lijuan Li",
+          "Yu Yu",
+          "Chengqi He",
+          "Lun Luo",
+          "Chenying Fu",
+          "Quan Wei"
+        ],
+        "abstract": "Abstract                                        Background                     Motor dysfunction is associated with cognitive vulnerability, but whether impairments across body regions jointly contribute to motoric cognitive risk syndrome (MCR) remains unclear. We examined the independent and joint associations of handgrip strength and chair-stand test (CST) with MCR.                                                           Methods                     This cross-sectional study included 6258 dementia-free older adults (mean age 71.5 ± 6.6 years; 63.1% women) from a community-based cohort. Handgrip strength and CST performance were used to define upper- and lower-extremity motor impairment. Participants were classified as normal, handgrip weakness only, CST impairment only, or combined motor impairment. Multivariable logistic regression was performed with adjustment for demographic, socioeconomic, lifestyle, and clinical factors. Additive and multiplicative interactions were assessed.                                                           Results                     MCR was present in 10.4% of participants. Using the A/B CST cutoff as the primary definition, adjusted odds ratios (95% confidence intervals) for MCR, compared with normal function, were 1.84 (1.14–2.97) for handgrip weakness only, 4.17 (2.97–5.85) for CST impairment only, and 9.17 (6.56–12.81) for combined motor impairment. Associations were directionally consistent across alternative CST cutoffs. A positive additive interaction was observed at the A/B CST cutoff (relative excess risk due to interaction = 3.48; attributable proportion = 0.40; and synergy index = 1.83), whereas multiplicative interaction was not positive.                                                           Conclusions                     Combined handgrip weakness and poorer CST performance were strongly associated with prevalent MCR. A positive additive interaction at the primary CST cutoff suggests that joint motor impairment may help characterize MCR-related vulnerability in older adults.",
+        "source": "The Journals of Gerontology, Series A: Biological Sciences and Medical Sciences",
+        "issn": "1079-5006",
+        "date": "2026-11-02",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "elderCare"
+        ],
+        "firstSeen": "2026-11-03",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70810",
+        "doi": "10.1111/jgs.70810",
+        "url": "https://doi.org/10.1111/jgs.70810",
+        "title": "Reply to:\n                    <scp>PRODG</scp>\n                    Multi‐Center Trial: A Critical Appraisal of Efficacy Estimates and Statistical Interpretation",
+        "authors": [
+          "Preeti Sinha",
+          "Prasun Chatterjee",
+          "Preethy Kathiresan",
+          "Karishma Sundara Raju",
+          "Rasika Panwar",
+          "Aparna Mukherjee",
+          "Gunjan Kumar",
+          "Jerin Jose Cherian",
+          "Anoop Velayuthan",
+          "Avinash Chakrawarty",
+          "Sarnendu Mondal",
+          "Manoj Kalita",
+          "Spriha Kamboj",
+          "Sreyashi Sen",
+          "Mounamukhar Bhattacharjee",
+          "Manaswini Mondal",
+          "Kalyan Bhowmik",
+          "Sovonlal Mukherjee",
+          "Indranil Saha",
+          "Atanu Kumar Dutta",
+          "Asim Saha",
+          "Amit Chakrabarti",
+          "Abhinaba Ghosh",
+          "Saibal Das"
+        ],
+        "abstract": "",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-11-02",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-03",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70788",
+        "doi": "10.1111/jgs.70788",
+        "url": "https://doi.org/10.1111/jgs.70788",
+        "title": "Reply to: Dextromethorphan‐Bupropion (Auvelity)—A Drug to Avoid Prescribing, Even if it Were Free",
+        "authors": [
+          "Eric E. Brown",
+          "Todd Semla",
+          "David B. Reuben"
+        ],
+        "abstract": "",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-11-02",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-03",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08612-2",
+        "doi": "10.1186/s12877-026-08612-2",
+        "url": "https://doi.org/10.1186/s12877-026-08612-2",
+        "title": "Supermarket staff attitudes and social distance toward older people: an age-friendly perspective",
+        "authors": [
+          "Sok Leng Che",
+          "Wai In Lei",
+          "Sok Man Leong"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-02",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-03",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08369-8",
+        "doi": "10.1186/s12877-026-08369-8",
+        "url": "https://doi.org/10.1186/s12877-026-08369-8",
+        "title": "Invasive non-mucinous adenocarcinoma with hepatoid adenocarcinoma transformation arising in adult congenital pulmonary airway malformation: a case report",
+        "authors": [
+          "Xiaomin Dai",
+          "Zhen Zheng",
+          "Jing Li",
+          "Jing Luo",
+          "Fang Peng"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-02",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-03",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08597-y",
+        "doi": "10.1186/s12877-026-08597-y",
+        "url": "https://doi.org/10.1186/s12877-026-08597-y",
+        "title": "Impact of comfortable nursing combined with diversified health education on self-management behavior in elderly patients with cardiovascular diseases",
+        "authors": [
+          "Chun’nuan An",
+          "Xiuling Zhan",
+          "Wenjing Li",
+          "Yujie Chen",
+          "Jingjing Liu",
+          "Yun Li",
+          "Li Li"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-02",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-03",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08640-y",
+        "doi": "10.1186/s12877-026-08640-y",
+        "url": "https://doi.org/10.1186/s12877-026-08640-y",
+        "title": "Why is repeated initiation difficult? barriers to and facilitators of home-based exercise among older adults with knee osteoarthritis: a qualitative study",
+        "authors": [
+          "Sisi Ren",
+          "Jieyu Zhang",
+          "Huayu Fan",
+          "Mengyao Liu",
+          "Yongxin Ma",
+          "Jing Wu",
+          "Wen Xu",
+          "Yali Guo",
+          "Chaofan Yang",
+          "Xiangyang Cao",
+          "Rui Chen"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-02",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-03",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08438-y",
+        "doi": "10.1186/s12877-026-08438-y",
+        "url": "https://doi.org/10.1186/s12877-026-08438-y",
+        "title": "Psoas muscle to L3 vertebral body ratio, a CT-based psoas assessment metric, associates with nutritional status and predicts prolonged hospitalization in geriatric trauma patients: a 5-year retrospective study",
+        "authors": [
+          "Wei-Ming Xie",
+          "Meng-Qi Chen",
+          "Qiqi Wu",
+          "Chuntao Wang",
+          "Xiangjun Bai",
+          "Xin-Yu Liu",
+          "Zhanfei Li",
+          "Tianbing Wang"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-02",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-03",
         "fetched_from": "crossref"
       },
       {
@@ -28208,6 +28459,107 @@
         "fetched_from": "crossref"
       },
       {
+        "id": "doi:10.1016/j.socscimed.2026.119997",
+        "doi": "10.1016/j.socscimed.2026.119997",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.119997",
+        "title": "Assembling depression: Ambivalent Relations Between Experiential and Clinical Knowledge",
+        "authors": [
+          "By Xènia Balaguer",
+          "Joan Moyà-Köhler",
+          "Miquel Domènech"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-11-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-11-03",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.socscimed.2026.120001",
+        "doi": "10.1016/j.socscimed.2026.120001",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.120001",
+        "title": "Digital Access as a Conditional Resource: Women's Barriers to Health Care in 20 Demographic and Health Surveys",
+        "authors": [
+          "Jie Zhuo"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-11-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-11-03",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.socscimed.2026.119999",
+        "doi": "10.1016/j.socscimed.2026.119999",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.119999",
+        "title": "Do patients' gender and age profiles influence oncologists' treatment recommendations? A factorial survey experiment",
+        "authors": [
+          "Sandro Tiziano Stoffel",
+          "Matthias Schwenkglenks",
+          "Kathrin Heinrich",
+          "Marina Elena Cazzaniga",
+          "Aitor Azkarate Martinez",
+          "Berna Cennet Özdemir"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-11-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-11-03",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.socscimed.2026.120002",
+        "doi": "10.1016/j.socscimed.2026.120002",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.120002",
+        "title": "A Cross-National Comparison of Mental Health Policy Texts during the COVID-19 Pandemic",
+        "authors": [
+          "Guangjin Xie",
+          "Shen Xu",
+          "Jinghan Hu",
+          "Qiongyao Zhong",
+          "Hanmei Liu",
+          "Ruoqin Cheng",
+          "Zhihong Ren"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-11-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-11-03",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1186/s12877-026-08351-4",
         "doi": "10.1186/s12877-026-08351-4",
         "url": "https://doi.org/10.1186/s12877-026-08351-4",
@@ -28492,6 +28844,82 @@
           "agingHealth"
         ],
         "firstSeen": "2026-11-02",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/ageing/afag317",
+        "doi": "10.1093/ageing/afag317",
+        "url": "https://doi.org/10.1093/ageing/afag317",
+        "title": "Profiling perceived knowledge, relevance and interest across geriatric topics of health and social care professionals: multinational electronic cross-sectional survey",
+        "authors": [
+          "Luca Soraci",
+          "Giulia Ogliari",
+          "Athanase Benetos",
+          "Nenad Bogdanovic",
+          "Sylvie Bonin-Guillaume",
+          "Sofia Duque",
+          "Anne Wissendorff Ekdahl",
+          "Klejda Harasani",
+          "Anna M Herghelegiu",
+          "Dimitrije Jakovljević",
+          "Anastassia Kossioni",
+          "Marina Kotsani",
+          "Evrydiki Kravvariti",
+          "Sonja Lindner-Rabl",
+          "Jūratė Macijauskienė",
+          "Nicolás Martínez-Velilla",
+          "Tahir Masud",
+          "Tajana Pavic",
+          "Mirko Petrovic",
+          "Karolina Piotrowicz",
+          "Roman Romero-Ortuno",
+          "Maria Cristina Polidori-Nelles",
+          "Carmelinda Ruggiero",
+          "Sumru Savas",
+          "George Soulis",
+          "Divya Tiwari",
+          "Lone Winther Lietzen",
+          "Regina Roller-Wirnsberger",
+          "Michael Vassallo"
+        ],
+        "abstract": "Abstract                                        Background                     Interprofessional training is essential for high-quality care of older adults. Despite widespread recognition of its importance, evidence on perceived geriatric competence remains limited to studies on single countries or professions.                                                           Methods                     Secondary analysis of a COST Action multinational multilingual web-based survey (PROmoting GeRiAtric Medicine in countries where it is still eMergING, PROGRAMMING) conducted across the 27 European Union Member States (EU-27) and non-EU-27 countries between 9 October 2023 and 5 June 2024. Four thousand seven hundred eighty-eight professionals from 10 core health and social care groups were included. We explored perceived Knowledge, Relevance and Interest across seven domains required for comprehensive geriatric assessment: frailty, falls and mobility, delirium, depression, mild cognitive impairment and dementia screening, nutritional assessment and malnutrition, polypharmacy and deprescribing. Student’s t test; one-way analysis of variance, hierarchical clustering and latent class analysis were used to identify interprofessional differences and shared patterns across professions.                                                           Results                     Mean age was 42.4 years (SD 11.9); 3432 (71.7%) were women; 2893 (60.4%) worked in EU-27 countries. Interprofessional differences were observed across all topics. Physiotherapists led in falls and mobility (mean 4.21, SD 0.75), pharmacists in polypharmacy and deprescribing (mean 3.51, SD 1.07), and psychologists/psychotherapists in depression (mean 3.96, SD 0.82). A medical doctors–nurses–pharmacists cluster emerged for Knowledge and Interest; 34.4% pharmacists fell in the low relevance class. Social workers and speech and language therapists showed a low Knowledge–high Interest mismatch. EU-27 professionals reported higher scores than non-EU-27 professionals across most topics (P &amp;lt; .001).                                                           Conclusions                     Perceived knowledge, relevance and interest showed substantial variation across professions and regions, while revealing shared professional profiles. This may inform team-based interprofessional education.",
+        "source": "Age and Ageing",
+        "issn": "0002-0729",
+        "date": "2026-10-31",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-03",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/ageing/afag320",
+        "doi": "10.1093/ageing/afag320",
+        "url": "https://doi.org/10.1093/ageing/afag320",
+        "title": "Attitudes of people living with dementia and their carers towards the use of generative artificial intelligence to inform structured medication reviews",
+        "authors": [
+          "Bethany Linder",
+          "Jiamin Du",
+          "Nuno Tavares",
+          "Tingting Zhu",
+          "Prayag Tiwari",
+          "Sundus Jawad",
+          "Anna E Seeley",
+          "Subhashisa Swain",
+          "Jaheeda Gangannagaripalli"
+        ],
+        "abstract": "Abstract                                        Background                     Polypharmacy is common in people living with dementia (PLwD) and associated with adverse outcomes. Although Structured Medication Reviews (SMRs) are recommended to optimise medication regimens, their delivery is often constrained by limited resources. Artificial intelligence (AI) may support SMRs, yet little is known about how it is perceived by PLwD and their carers. This study explored their experiences of polypharmacy, views on SMRs and attitudes towards use of AI tools in SMRs.                                                           Methods                     Semi-structured interviews with 12 PLwD experiencing polypharmacy and two focus groups with 14 carers were conducted via Microsoft Teams or telephone and analysed using Reflexive Thematic Analysis.                                                           Results                     Two themes were constructed: participants’ perspectives on meaningful SMRs, and embracing AI while preserving patient safety and the human touch. Participants described challenges in managing polypharmacy, with carers playing a central role in supporting adherence and monitoring side effects. Experiences of SMRs varied. SMRs were most valued when clinicians were empathetic and able to offer personalised guidance. Participants viewed AI use in SMRs positively, provided that such tools were well validated and used to assist rather than replace healthcare professionals. AI was also seen as potentially reducing administrative burden and supporting more person-centred care. However, some had concerns regarding patient safety and data security, highlighting the need for appropriate regulation and human oversight.                                                           Conclusion                     Participants were supportive of AI use in SMRs, despite concerns about safety, data security and disclosure of AI use, and emphasised the importance of patient-clinician interactions and lived experience involvement in AI tool development.",
+        "source": "Age and Ageing",
+        "issn": "0002-0729",
+        "date": "2026-10-31",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-03",
         "fetched_from": "crossref"
       },
       {
@@ -47049,6 +47477,415 @@
     ],
     "healthReform": [
       {
+        "id": "doi:10.1001/jama.2026.22318",
+        "doi": "10.1001/jama.2026.22318",
+        "url": "https://doi.org/10.1001/jama.2026.22318",
+        "title": "Causal Language for Studies Using Regression Discontinuity Approaches",
+        "authors": [
+          "Issa J. Dahabreh",
+          "Roger J. Lewis"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-02",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-03",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.18872",
+        "doi": "10.1001/jama.2026.18872",
+        "url": "https://doi.org/10.1001/jama.2026.18872",
+        "title": "Review of Alcohol-Related Liver Disease—Reply",
+        "authors": [
+          "Aleksander Krag",
+          "Brian P. Lee",
+          "Mads Israelsen"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-02",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-03",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.22316",
+        "doi": "10.1001/jama.2026.22316",
+        "url": "https://doi.org/10.1001/jama.2026.22316",
+        "title": "Regression Discontinuity Approaches to Evaluate Threshold-Guided Interventions in Observational Studies",
+        "authors": [
+          "Matias D. Cattaneo",
+          "Rocío Titiunik"
+        ],
+        "abstract": "This Guide to Statistics and Methods provides an overview of the regression discontinuity approach, including its use in observational studies, particularly with threshold-guided interventions, and its limitations.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-02",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-03",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.20796",
+        "doi": "10.1001/jama.2026.20796",
+        "url": "https://doi.org/10.1001/jama.2026.20796",
+        "title": "Injuries From Electric Bicycles and Scooters Managed in Pediatric Health Systems",
+        "authors": [
+          "Alan R. Schroeder",
+          "Eric S. Hall",
+          "Sahal Master",
+          "Frederick P. Rivara",
+          "Melissa Bronson",
+          "Suchitra Rao",
+          "Marc Rosenman",
+          "Bethanie S. Van Horne",
+          "Stephanie D. Chao",
+          "Christopher B. Forrest"
+        ],
+        "abstract": "This study used a pediatric database to compare recent trends, rates, and severity of injuries from electric micromobility devices vs injuries from nonmotorized devices.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-02",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-03",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.18869",
+        "doi": "10.1001/jama.2026.18869",
+        "url": "https://doi.org/10.1001/jama.2026.18869",
+        "title": "Review of Alcohol-Related Liver Disease",
+        "authors": [
+          "M. Eugenia Socias",
+          "Evan Wood"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-02",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-03",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.19267",
+        "doi": "10.1001/jama.2026.19267",
+        "url": "https://doi.org/10.1001/jama.2026.19267",
+        "title": "Can Payment Reform Transform Heart Failure Care?",
+        "authors": [
+          "Sarah Chuzi",
+          "Karen Joynt Maddox",
+          "Tara Lagu"
+        ],
+        "abstract": "This Viewpoint discusses how the Ambulatory Specialty Model (ASM) recently announced by the Center for Medicare &amp;amp;amp; Medicaid Innovation might address gaps in implementation of heart failure care, describes 4 categories of performance assessment under the ASM, and suggests several ASM features that could limit its ability to address implementation gaps.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-02",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-03",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.21361",
+        "doi": "10.1001/jama.2026.21361",
+        "url": "https://doi.org/10.1001/jama.2026.21361",
+        "title": "Antithrombotic Therapy After Left Atrial Appendage Occlusion",
+        "authors": [
+          "Vivek Y. Reddy",
+          "Walid I. Saliba",
+          "Thomas Waggoner",
+          "Devi G. Nair",
+          "Stanislav Weiner",
+          "Rudolph Evonich",
+          "Michael Hoskins",
+          "Andrew Dublin",
+          "Michael Rinaldi",
+          "Gaurang Gandhi",
+          "Jonathan W. Dukes",
+          "Madhu Reddy",
+          "David DeLurgio",
+          "Venkat R. Iyer",
+          "Ganesh Venkataraman",
+          "Ashish Sadhu",
+          "Vamsee Yaganti",
+          "Kevin Trulock",
+          "Douglas N. Gibson",
+          "Mohamad Alkhouli",
+          "Manish Shah",
+          "Shephal K. Doshi",
+          "Andrea Natale",
+          "Megan Coylewright",
+          "C. Michael Gibson",
+          "Ahmed A. Kolkailah",
+          "Wael A. Jaber",
+          "Krystal Leger",
+          "Elizabeth Matznick",
+          "Thomas Christen",
+          "Brad S. Sutton",
+          "Kenneth M. Stein",
+          "Saibal Kar"
+        ],
+        "abstract": "Importance                     Following a left atrial appendage closure (LAAC) procedure, antithrombotic therapy is administered to safely allow time for device endothelialization. However, the optimal postimplant antithrombotic regimen is unknown.                                                           Objective                     To determine if either reduced-dose non–vitamin K oral anticoagulants (NOACs) or aspirin alone are noninferior to dual antiplatelet therapy (DAPT) for the composite clinical end point of death, stroke, systemic embolism, or major bleeding through 6 months post LAAC.                                                           Design, Setting, and Participants                     This open-label, 3-group, multicenter clinical trial randomized 1857 patients between October 2024 and December 2025 at 87 US investigational sites, with the final 6-month follow-up in July 2026. Enrolled patients had nonvalvular atrial fibrillation, underwent successful LAAC, and were eligible for all 3 regimens.                                                           Interventions                     Patients were randomly allocated 1:1:1 to DAPT for 6 months followed by aspirin (n = 624), a reduced-dose NOAC for 3 months followed by aspirin (n = 620), or aspirin alone for 12 months (n = 613).                                                           Main Outcomes and Measures                     The primary outcome was the 6-month composite of all-cause death, stroke, systemic embolism, or major bleeding. Noninferiority was tested in the primary analysis population with a 1-sided Farrington-Manning test (α = .025). Bleeding and 45-day device-related thrombus rates were exploratory without multiplicity adjustment.                                                           Results                                            The cohort had a mean age of 76 (SD, 8) years, 42.9% were female, the mean CHA                       2                       DS                       2                       -VASc score was 4.2 (SD, 1.3), and 68.0% had paroxysmal atrial fibrillation. The primary outcome occurred in 41 patients (6.9%) with DAPT vs 31 (5.1%) with a reduced-dose NOAC (risk ratio, 0.75 [95% CI, 0.48-1.18]; risk difference, −1.7 percentage points; 97.5% upper bound, 1.2) and 20 (3.3%) with aspirin alone (risk ratio, 0.49 [95% CI, 0.29-0.82]; risk difference, −3.5 percentage points; 97.5% upper bound, −0.8). Both monotherapy strategies met noninferiority criteria (                       P                        &amp;amp;lt; .001 for noninferiority for both). Major bleeding was 4.5% with DAPT, 2.7% with reduced-dose NOACs, and 1.7% with aspirin alone; clinically relevant nonmajor bleeding was 8.7%, 4.8%, and 3.8%, respectively. Device-related thrombus was observed in 3.4%, 0.9%, and 2.7%, respectively.                                                                                Conclusions and Relevance                     Both reduced-dose NOACs and aspirin alone were noninferior to DAPT for 6-month outcomes after uncomplicated LAAC.                                                           Trial Registration                                            ClinicalTrials.gov Identifier:                       NCT06521463",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-02",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-03",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.22088",
+        "doi": "10.1001/jama.2026.22088",
+        "url": "https://doi.org/10.1001/jama.2026.22088",
+        "title": "Antithrombotic Therapy After Left Atrial Appendage Occlusion",
+        "authors": [],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-02",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-03",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.22275",
+        "doi": "10.1001/jama.2026.22275",
+        "url": "https://doi.org/10.1001/jama.2026.22275",
+        "title": "Optimal Antithrombotics After Left Atrial Appendage Closure",
+        "authors": [
+          "James V. Freeman"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-02",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-03",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejme2613400",
+        "doi": "10.1056/nejme2613400",
+        "url": "https://doi.org/10.1056/nejme2613400",
+        "title": "Management of Moderate Aortic Stenosis in Older Adults — The P in PICOT",
+        "authors": [
+          "Catherine M. Otto"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-11-02",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-03",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmoa2607326",
+        "doi": "10.1056/nejmoa2607326",
+        "url": "https://doi.org/10.1056/nejmoa2607326",
+        "title": "TAVR in Patients with Moderate Aortic Stenosis with At-Risk Features",
+        "authors": [
+          "Philippe Généreux",
+          "Raj R. Makkar",
+          "Philippe Pibarot",
+          "Jeroen J. Bax",
+          "Brian R. Lindman",
+          "Kamran Muhammad",
+          "J. Bradley Oldemeyer",
+          "Mark Pirwitz",
+          "Colin M. Barker",
+          "Vinod H. Thourani",
+          "Pradeep K. Yadav",
+          "Roberto Rodriguez",
+          "Justin Strote",
+          "Rahul Sakhuja",
+          "Ramzi Khalil",
+          "Rahul Sharma",
+          "Adnan Chhatriwalla",
+          "Jacob M. Mishell",
+          "Biswajit Kar",
+          "Sameer Gafoor",
+          "Joseph Walsh",
+          "Daniel Spoon",
+          "Andrew Frutkin",
+          "Andrei Pop",
+          "Nicolas M. Van Mieghem",
+          "Ruby Satpathy",
+          "Kenji Ando",
+          "Joseph Montarello",
+          "John Webb",
+          "Sreekanth Vemulapalli",
+          "David J. Cohen",
+          "Aakriti Gupta",
+          "Brandon Park",
+          "Heather Prince",
+          "Philipp Blanke",
+          "Michael Mack",
+          "Martin B. Leon"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-11-02",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-03",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1007/s40273-026-01661-w",
+        "doi": "10.1007/s40273-026-01661-w",
+        "url": "https://doi.org/10.1007/s40273-026-01661-w",
+        "title": "A Systematic Literature Review on the Economic Burden of Sjögren’s Disease",
+        "authors": [
+          "Nora Sandorfi",
+          "Lisa Shea",
+          "Alexander Keenan",
+          "Elizabeth Adamson",
+          "Federico Zazzetti",
+          "Soumya D. Chakravarty",
+          "Donna Gotshall",
+          "Jyotika Gandhi",
+          "Sandip Ranjan",
+          "Esen Karamursel Akpek"
+        ],
+        "abstract": "",
+        "source": "PharmacoEconomics",
+        "issn": "1170-7690",
+        "date": "2026-11-02",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-03",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1097/ede.0000000000002062",
+        "doi": "10.1097/ede.0000000000002062",
+        "url": "https://doi.org/10.1097/ede.0000000000002062",
+        "title": "Educational Attainment and Cohort Differences in Dementia Prevalence: A Counterfactual Decomposition Analysis",
+        "authors": [
+          "Ruijia Chen",
+          "Rafeya Raquib",
+          "Chang Su",
+          "Maria Gueltzow",
+          "Jingxuan Wang",
+          "Sarah F. Ackley",
+          "Jacqueline M. Torres",
+          "Jennifer Weuve",
+          "Liying Luo",
+          "John Robert Warren",
+          "M. Maria Glymour",
+          "Andrew C. Stokes"
+        ],
+        "abstract": "Background:                     It remains unclear why age-specific dementia prevalence has declined over recent decades. Improvements in educational attainment across cohorts are one potential explanation. We estimated the reduction in dementia prevalence expected if earlier cohorts had attained the educational distribution of the most recent cohort.                                                           Methods:                     We analyzed 17,762 participants (82,856 person-waves) from the 2000-2020 Health and Retirement Study (HRS) and grouped participants into four cohorts: Assets and Health Dynamics Among the Oldest Old (AHEAD; born 1900-1923); Children of the Depression (CODA; 1924-1930); HRS (1931-1941); and War Babies (WB; 1942-1947). We incorporated g-computation with age-period-cohort analyses to compare natural-course dementia prevalence with counterfactual scenarios in which earlier cohorts were assigned WB’s education distribution.                                                           Results:                     If earlier cohorts had the same education distribution as the WB cohort, dementia prevalence would be lower across ages and periods. At age 70 in 2010, prevalence based on the Langa-Weir classification of dementia would be reduced by 14% (95% CI: 11% -16%) in HRS, 21% (95% CI: 19% - 24%) in CODA, and 26% (95% CI: 23% - 29%) in AHEAD. Equalizing educational attainment would close 0.7 percentage points (95% CI: 0.5, 0.8) of the HRS-WB difference, 1.2 (95% CI: 0.9, 1.4) of the CODA-WB difference, and 1.6 (95% CI: 1.3, 1.9) of the AHEAD-WB difference. Reductions in dementia prevalence based on the Gianattasio-Power dementia ascertainment algorithm were smaller. Large reductions were observed within sex/gender and race and ethnicity subgroups.                                                           Conclusions:                     Educational attainment contributes to cohort differences in dementia prevalence overall and across demographic groups.",
+        "source": "Epidemiology",
+        "issn": "1044-3983",
+        "date": "2026-11-02",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-03",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag257",
+        "doi": "10.1093/aje/kwag257",
+        "url": "https://doi.org/10.1093/aje/kwag257",
+        "title": "Prevention of mpox by JYNNEOS vaccination: a case-control study comparing test-negative and alternative-disease control populations",
+        "authors": [
+          "Kayla Saadeh",
+          "Eric Tang",
+          "Kelly Johnson",
+          "Samuel Holland",
+          "Nicole Burghardt",
+          "Roshani Fernando",
+          "Kimberly Gonzalez Barrera",
+          "Cindy Hernandez",
+          "Lauren Granskog",
+          "Kieran Lorenz",
+          "Jarett Maycott",
+          "John McGinley",
+          "Marissa Ramos",
+          "Timothy Lo",
+          "Edwin Chojolan",
+          "Awa Keinde",
+          "Kathleen Jacobson",
+          "Robert E Snyder",
+          "Joseph A Lewnard"
+        ],
+        "abstract": "Abstract                   Risk-based vaccine recommendations complicate observational studies of vaccine effectiveness (VE), since recipients and non-recipients may differ in infection risk and likelihood of testing. For JYNNEOS—recommended for men who have sex with men at high mpox risk—prior studies have used differing control populations to estimate VE, with uncertain comparability. We conducted a multi-armed case-control study enrolling mpox cases (N=198), monkeypox virus (MPXV)-negative controls (N=208), and gonorrhea controls (N=155) reported to the California Department of Public Health between November 2022 and October 2024, conducting telephone interviews to capture behavioral risk data typically absent from surveillance and administrative records. Among recipients of 2 pre-exposure JYNNEOS doses, adjusted VE was 89.9% (95% CI, 69.6–96.7%) versus test-negative controls and 92.0% (70.6–97.8%) versus gonorrhea controls. Without behavioral adjustment, however, VE estimates using MPXV-negative controls were lower (50.4–65.4%) than those using gonorrhea controls (61.3–71.3%). Controls diagnosed with an alternative sexually transmitted infection may offer a better comparison group than test-negative controls for JYNNEOS VE studies based on disease surveillance or administrative records, although collection of risk factor data may be necessary to mitigate bias under either design.",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-11-02",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-03",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag282",
+        "doi": "10.1093/aje/kwag282",
+        "url": "https://doi.org/10.1093/aje/kwag282",
+        "title": "When negative control exposures fail to detect bias",
+        "authors": [
+          "Daniel Nevo",
+          "Raanan Raz"
+        ],
+        "abstract": "Abstract                   Researchers increasingly utilize negative control exposures (NCEs), variables known to have no effect on the outcome, to detect residual confounding. However, an NCE analysis may provide little evidence of confounding despite substantial bias in the estimated exposure effect. We study, analytically and via simulations, how the magnitude and source of exposure-NCE association affect the large-sample NCE coefficient and statistical power of regression-based bias-detection. We show that the power does not always increase with bias, and that stronger confounder-exposure associations can increase bias while reducing the NCE coefficient and power. Furthermore, the correlation between the exposure of interest and the NCE is insufficient to characterize how well the NCE will detect confounding. Additional exposure-NCE common causes that affect the outcome only through the exposure can attenuate the NCE coefficient toward zero or reverse its sign, even when confounding bias remains unchanged. These changes can occur even when the overall exposure-NCE correlation is fixed. Adjusting for such common causes alleviated sign reversal in our simulations but did not uniformly improve power. Negative controls can be a powerful tool to detect unmeasured confounding. Researchers should consider the sources of exposure-NCE association and interpret null or counterintuitive NCE findings with caution.",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-11-02",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-03",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1016/j.jpubeco.2026.105784",
         "doi": "10.1016/j.jpubeco.2026.105784",
         "url": "https://doi.org/10.1016/j.jpubeco.2026.105784",
@@ -50201,6 +51038,577 @@
           "healthReform"
         ],
         "firstSeen": "2026-11-02",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.socscimed.2026.119997",
+        "doi": "10.1016/j.socscimed.2026.119997",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.119997",
+        "title": "Assembling depression: Ambivalent Relations Between Experiential and Clinical Knowledge",
+        "authors": [
+          "By Xènia Balaguer",
+          "Joan Moyà-Köhler",
+          "Miquel Domènech"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-11-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-11-03",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.socscimed.2026.120001",
+        "doi": "10.1016/j.socscimed.2026.120001",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.120001",
+        "title": "Digital Access as a Conditional Resource: Women's Barriers to Health Care in 20 Demographic and Health Surveys",
+        "authors": [
+          "Jie Zhuo"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-11-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-11-03",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.socscimed.2026.119999",
+        "doi": "10.1016/j.socscimed.2026.119999",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.119999",
+        "title": "Do patients' gender and age profiles influence oncologists' treatment recommendations? A factorial survey experiment",
+        "authors": [
+          "Sandro Tiziano Stoffel",
+          "Matthias Schwenkglenks",
+          "Kathrin Heinrich",
+          "Marina Elena Cazzaniga",
+          "Aitor Azkarate Martinez",
+          "Berna Cennet Özdemir"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-11-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-11-03",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.socscimed.2026.120002",
+        "doi": "10.1016/j.socscimed.2026.120002",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.120002",
+        "title": "A Cross-National Comparison of Mental Health Policy Texts during the COVID-19 Pandemic",
+        "authors": [
+          "Guangjin Xie",
+          "Shen Xu",
+          "Jinghan Hu",
+          "Qiongyao Zhong",
+          "Hanmei Liu",
+          "Ruoqin Cheng",
+          "Zhihong Ren"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-11-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-11-03",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1377/hlthaff.2025.01657",
+        "doi": "10.1377/hlthaff.2025.01657",
+        "url": "https://doi.org/10.1377/hlthaff.2025.01657",
+        "title": "Challenges In Weathering The Storm: The Mismatch Between Climate-Health Burdens And Social Protection Policies",
+        "authors": [
+          "Vijay S. Limaye",
+          "Jaime Madrigano",
+          "Kim Knowlton",
+          "Shubhayu Saha",
+          "Chihuu Nguyen",
+          "John Balbus"
+        ],
+        "abstract": "",
+        "source": "Health Affairs",
+        "issn": "0278-2715",
+        "date": "2026-11-01",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-03",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1377/hlthaff.2025.01691",
+        "doi": "10.1377/hlthaff.2025.01691",
+        "url": "https://doi.org/10.1377/hlthaff.2025.01691",
+        "title": "Financial, Environmental, And Health Benefits Of Environmental Sustainability Strategies For Hospitals",
+        "authors": [
+          "Michael Padget",
+          "Akhil Mandalapu",
+          "James K. Hammitt",
+          "Jonathan E. Slutzman"
+        ],
+        "abstract": "",
+        "source": "Health Affairs",
+        "issn": "0278-2715",
+        "date": "2026-11-01",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-03",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1377/hlthaff.2026.00050",
+        "doi": "10.1377/hlthaff.2026.00050",
+        "url": "https://doi.org/10.1377/hlthaff.2026.00050",
+        "title": "Medicare Advantage And Skilled Nursing Facilities: Narrow Networks And Lower Access To High-Quality Care, 2022",
+        "authors": [
+          "Cyrus M. Kosar",
+          "Jeffrey Marr",
+          "Huiying Wang",
+          "Emily A. Gadbois",
+          "Elizabeth M. White",
+          "Fangli Geng",
+          "Vincent Mor",
+          "David J. Meyers",
+          "Momotazur Rahman"
+        ],
+        "abstract": "",
+        "source": "Health Affairs",
+        "issn": "0278-2715",
+        "date": "2026-11-01",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-03",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1377/hlthaff.2026.00211",
+        "doi": "10.1377/hlthaff.2026.00211",
+        "url": "https://doi.org/10.1377/hlthaff.2026.00211",
+        "title": "Changes In Hospice Use, Medicare Spending, And Patient Outcomes After Private Equity Acquisition",
+        "authors": [
+          "Sneha Kannan",
+          "Julia Driessen",
+          "Jeremy M. Kahn",
+          "Catherine Mankiw",
+          "Zirui Song"
+        ],
+        "abstract": "",
+        "source": "Health Affairs",
+        "issn": "0278-2715",
+        "date": "2026-11-01",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-03",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1377/hlthaff.2026.00268",
+        "doi": "10.1377/hlthaff.2026.00268",
+        "url": "https://doi.org/10.1377/hlthaff.2026.00268",
+        "title": "Not-For-Profit Hospitals’ Patient Financial Assistance And Alignment With Community Need: A National Study",
+        "authors": [
+          "Tatiane Santos",
+          "Neelam Ahmed",
+          "Gary J. Young"
+        ],
+        "abstract": "",
+        "source": "Health Affairs",
+        "issn": "0278-2715",
+        "date": "2026-11-01",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-03",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1377/hlthaff.2026.00279",
+        "doi": "10.1377/hlthaff.2026.00279",
+        "url": "https://doi.org/10.1377/hlthaff.2026.00279",
+        "title": "Health Care Purchasers Do Not Consistently Benefit From Lower Administrative Costs Of Large Hospitals And Insurers",
+        "authors": [
+          "Jason D. Buxbaum",
+          "Andrew M. Ryan"
+        ],
+        "abstract": "",
+        "source": "Health Affairs",
+        "issn": "0278-2715",
+        "date": "2026-11-01",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-03",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1377/hlthaff.2026.00342",
+        "doi": "10.1377/hlthaff.2026.00342",
+        "url": "https://doi.org/10.1377/hlthaff.2026.00342",
+        "title": "When The Law Makes You Sick",
+        "authors": [
+          "Shantel Hébert-Magee"
+        ],
+        "abstract": "",
+        "source": "Health Affairs",
+        "issn": "0278-2715",
+        "date": "2026-11-01",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-03",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1377/hlthaff.2026.00357",
+        "doi": "10.1377/hlthaff.2026.00357",
+        "url": "https://doi.org/10.1377/hlthaff.2026.00357",
+        "title": "Inpatient-Only List Removals Shifted Procedures To The Outpatient Setting And Reduced Medicare Spending",
+        "authors": [
+          "David H. Howard",
+          "Michael E. Chernew",
+          "Andrew M. Ryan",
+          "Dana A. Telem"
+        ],
+        "abstract": "",
+        "source": "Health Affairs",
+        "issn": "0278-2715",
+        "date": "2026-11-01",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-03",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1377/hlthaff.2026.00420",
+        "doi": "10.1377/hlthaff.2026.00420",
+        "url": "https://doi.org/10.1377/hlthaff.2026.00420",
+        "title": "System-Affiliated Outpatient Mental Health Sites Linked To Clinical And Community Supports",
+        "authors": [
+          "Yucheng Hou",
+          "Helen Newton",
+          "Susan H. Busch"
+        ],
+        "abstract": "",
+        "source": "Health Affairs",
+        "issn": "0278-2715",
+        "date": "2026-11-01",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-03",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1377/hlthaff.2026.00439",
+        "doi": "10.1377/hlthaff.2026.00439",
+        "url": "https://doi.org/10.1377/hlthaff.2026.00439",
+        "title": "Dual-Eligible Adults With Intellectual And Developmental Disabilities: Enrollment In Integrated D-SNPs Grew, 2021–23",
+        "authors": [
+          "Kenton J. Johnston",
+          "Michelle Hendricks",
+          "Eric T. Roberts",
+          "Eliza Macneal",
+          "Megha Dabas",
+          "Harold A. Pollack",
+          "José F. Figueroa",
+          "Ari Ne’eman"
+        ],
+        "abstract": "",
+        "source": "Health Affairs",
+        "issn": "0278-2715",
+        "date": "2026-11-01",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-03",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1377/hlthaff.2026.00531",
+        "doi": "10.1377/hlthaff.2026.00531",
+        "url": "https://doi.org/10.1377/hlthaff.2026.00531",
+        "title": "Medicare Increased Reimbursement Values For 10 Percent Of Physician Services After Public Comments, 2023–25",
+        "authors": [
+          "Sarah R. Tingley",
+          "Sanket S. Dhruva",
+          "Rita F. Redberg"
+        ],
+        "abstract": "",
+        "source": "Health Affairs",
+        "issn": "0278-2715",
+        "date": "2026-11-01",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-03",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1377/hlthaff.2026.00910",
+        "doi": "10.1377/hlthaff.2026.00910",
+        "url": "https://doi.org/10.1377/hlthaff.2026.00910",
+        "title": "Removal Of Medicare Advantage Broker Commissions Associated With A 21 Percent Enrollment Decline, 2025–26",
+        "authors": [
+          "Jeffrey Marr",
+          "David J. Meyers"
+        ],
+        "abstract": "",
+        "source": "Health Affairs",
+        "issn": "0278-2715",
+        "date": "2026-11-01",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-03",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1377/hlthaff.2026.01020",
+        "doi": "10.1377/hlthaff.2026.01020",
+        "url": "https://doi.org/10.1377/hlthaff.2026.01020",
+        "title": "Bundled Payments For Care Improvement Advanced",
+        "authors": [
+          "Aylin Bradley",
+          "Rachel Mosher Henke",
+          "Kathryn R. Martin",
+          "Ian Morrall",
+          "Daver Kahvecioglu",
+          "Lauren Vanderwerker"
+        ],
+        "abstract": "",
+        "source": "Health Affairs",
+        "issn": "0278-2715",
+        "date": "2026-11-01",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-03",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1377/hlthaff.2026.01330",
+        "doi": "10.1377/hlthaff.2026.01330",
+        "url": "https://doi.org/10.1377/hlthaff.2026.01330",
+        "title": "Orphan Blockbuster Drug Development",
+        "authors": [
+          "Crystal Kuntz"
+        ],
+        "abstract": "",
+        "source": "Health Affairs",
+        "issn": "0278-2715",
+        "date": "2026-11-01",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-03",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1377/hlthaff.2026.01417",
+        "doi": "10.1377/hlthaff.2026.01417",
+        "url": "https://doi.org/10.1377/hlthaff.2026.01417",
+        "title": "Bundled Payments For Care Improvement Advanced: The Authors Reply",
+        "authors": [
+          "Andrew M. Ryan",
+          "Yan Lin",
+          "Jason D. Buxbaum",
+          "Peter Hull"
+        ],
+        "abstract": "",
+        "source": "Health Affairs",
+        "issn": "0278-2715",
+        "date": "2026-11-01",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-03",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1377/hlthaff.2026.01419",
+        "doi": "10.1377/hlthaff.2026.01419",
+        "url": "https://doi.org/10.1377/hlthaff.2026.01419",
+        "title": "For Emergency Medical Services, An Old Threat Resurfaces: Medicaid Cuts",
+        "authors": [
+          "Michael S. Gerber"
+        ],
+        "abstract": "",
+        "source": "Health Affairs",
+        "issn": "0278-2715",
+        "date": "2026-11-01",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-03",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1377/hlthaff.2026.01425",
+        "doi": "10.1377/hlthaff.2026.01425",
+        "url": "https://doi.org/10.1377/hlthaff.2026.01425",
+        "title": "Orphan Blockbuster Drug Development: The Authors Reply",
+        "authors": [
+          "Anna Kaltenboeck"
+        ],
+        "abstract": "",
+        "source": "Health Affairs",
+        "issn": "0278-2715",
+        "date": "2026-11-01",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-03",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1377/hlthaff.2026.01463",
+        "doi": "10.1377/hlthaff.2026.01463",
+        "url": "https://doi.org/10.1377/hlthaff.2026.01463",
+        "title": "Public Comment Moves CMS Toward AMA Relative Value Scale Update Committee Values: The Case For Independent Data",
+        "authors": [
+          "Miriam J. Laugesen"
+        ],
+        "abstract": "",
+        "source": "Health Affairs",
+        "issn": "0278-2715",
+        "date": "2026-11-01",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-03",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1377/hlthaff.2026.01530",
+        "doi": "10.1377/hlthaff.2026.01530",
+        "url": "https://doi.org/10.1377/hlthaff.2026.01530",
+        "title": "Statement Of Ownership &amp; Circulation",
+        "authors": [
+          "Kimberly Steinle"
+        ],
+        "abstract": "",
+        "source": "Health Affairs",
+        "issn": "0278-2715",
+        "date": "2026-11-01",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-03",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1377/hlthaff.2026.01646",
+        "doi": "10.1377/hlthaff.2026.01646",
+        "url": "https://doi.org/10.1377/hlthaff.2026.01646",
+        "title": "Hospitals, Climate, Physician Payment, And More",
+        "authors": [
+          "Donald E. Metz",
+          "The Editorial Staff"
+        ],
+        "abstract": "",
+        "source": "Health Affairs",
+        "issn": "0278-2715",
+        "date": "2026-11-01",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-03",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.jval.2026.10.007",
+        "doi": "10.1016/j.jval.2026.10.007",
+        "url": "https://doi.org/10.1016/j.jval.2026.10.007",
+        "title": "Cost-Utility of Improving Access to Psychological Therapies compared with usual care in Norway: A Registry-Linked Randomised Trial",
+        "authors": [
+          "Otto R.F. Smith",
+          "David M. Clark",
+          "Jan Abel Olsen",
+          "Richard Layard",
+          "Marit Knapstad"
+        ],
+        "abstract": "",
+        "source": "Value in Health",
+        "issn": "1098-3015",
+        "date": "2026-11-01",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-03",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.jval.2026.10.006",
+        "doi": "10.1016/j.jval.2026.10.006",
+        "url": "https://doi.org/10.1016/j.jval.2026.10.006",
+        "title": "Clinical and Regulatory Factors Associated with Pivotal Development Duration in FDA Oncology Accelerated Approvals",
+        "authors": [
+          "Xingyue ZHU",
+          "Ting YU"
+        ],
+        "abstract": "",
+        "source": "Value in Health",
+        "issn": "1098-3015",
+        "date": "2026-11-01",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-03",
         "fetched_from": "crossref"
       },
       {
@@ -80989,6 +82397,29 @@
     ],
     "agingHealth": [
       {
+        "id": "doi:10.1186/s12877-026-08560-x",
+        "doi": "10.1186/s12877-026-08560-x",
+        "url": "https://doi.org/10.1186/s12877-026-08560-x",
+        "title": "The inflammatory potential of diet in older adults: its relationship with sarcopenia components and nutritional status - a multicentre cross-sectional study",
+        "authors": [
+          "Bahanur Karaçar",
+          "Nilgün Seremet Kürklü",
+          "Gülseren Pamuk",
+          "Gülşah Kaner"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-03",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-03",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1186/s12877-026-08578-1",
         "doi": "10.1186/s12877-026-08578-1",
         "url": "https://doi.org/10.1186/s12877-026-08578-1",
@@ -81061,6 +82492,347 @@
           "agingHealth"
         ],
         "firstSeen": "2026-11-02",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/gerona/glag254",
+        "doi": "10.1093/gerona/glag254",
+        "url": "https://doi.org/10.1093/gerona/glag254",
+        "title": "Joint associations of handgrip strength and chair-stand performance with motoric cognitive risk syndrome in older adults",
+        "authors": [
+          "Yangan Li",
+          "Xingyu Wang",
+          "Shiqi Wang",
+          "Feiwen Liu",
+          "Zhiqing Zhang",
+          "Minjian Zhu",
+          "Ran Li",
+          "Rui Liu",
+          "Fengyi Wang",
+          "Lijuan Li",
+          "Yu Yu",
+          "Chengqi He",
+          "Lun Luo",
+          "Chenying Fu",
+          "Quan Wei"
+        ],
+        "abstract": "Abstract                                        Background                     Motor dysfunction is associated with cognitive vulnerability, but whether impairments across body regions jointly contribute to motoric cognitive risk syndrome (MCR) remains unclear. We examined the independent and joint associations of handgrip strength and chair-stand test (CST) with MCR.                                                           Methods                     This cross-sectional study included 6258 dementia-free older adults (mean age 71.5 ± 6.6 years; 63.1% women) from a community-based cohort. Handgrip strength and CST performance were used to define upper- and lower-extremity motor impairment. Participants were classified as normal, handgrip weakness only, CST impairment only, or combined motor impairment. Multivariable logistic regression was performed with adjustment for demographic, socioeconomic, lifestyle, and clinical factors. Additive and multiplicative interactions were assessed.                                                           Results                     MCR was present in 10.4% of participants. Using the A/B CST cutoff as the primary definition, adjusted odds ratios (95% confidence intervals) for MCR, compared with normal function, were 1.84 (1.14–2.97) for handgrip weakness only, 4.17 (2.97–5.85) for CST impairment only, and 9.17 (6.56–12.81) for combined motor impairment. Associations were directionally consistent across alternative CST cutoffs. A positive additive interaction was observed at the A/B CST cutoff (relative excess risk due to interaction = 3.48; attributable proportion = 0.40; and synergy index = 1.83), whereas multiplicative interaction was not positive.                                                           Conclusions                     Combined handgrip weakness and poorer CST performance were strongly associated with prevalent MCR. A positive additive interaction at the primary CST cutoff suggests that joint motor impairment may help characterize MCR-related vulnerability in older adults.",
+        "source": "The Journals of Gerontology, Series A: Biological Sciences and Medical Sciences",
+        "issn": "1079-5006",
+        "date": "2026-11-02",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "elderCare"
+        ],
+        "firstSeen": "2026-11-03",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70810",
+        "doi": "10.1111/jgs.70810",
+        "url": "https://doi.org/10.1111/jgs.70810",
+        "title": "Reply to:\n                    <scp>PRODG</scp>\n                    Multi‐Center Trial: A Critical Appraisal of Efficacy Estimates and Statistical Interpretation",
+        "authors": [
+          "Preeti Sinha",
+          "Prasun Chatterjee",
+          "Preethy Kathiresan",
+          "Karishma Sundara Raju",
+          "Rasika Panwar",
+          "Aparna Mukherjee",
+          "Gunjan Kumar",
+          "Jerin Jose Cherian",
+          "Anoop Velayuthan",
+          "Avinash Chakrawarty",
+          "Sarnendu Mondal",
+          "Manoj Kalita",
+          "Spriha Kamboj",
+          "Sreyashi Sen",
+          "Mounamukhar Bhattacharjee",
+          "Manaswini Mondal",
+          "Kalyan Bhowmik",
+          "Sovonlal Mukherjee",
+          "Indranil Saha",
+          "Atanu Kumar Dutta",
+          "Asim Saha",
+          "Amit Chakrabarti",
+          "Abhinaba Ghosh",
+          "Saibal Das"
+        ],
+        "abstract": "",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-11-02",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-03",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70788",
+        "doi": "10.1111/jgs.70788",
+        "url": "https://doi.org/10.1111/jgs.70788",
+        "title": "Reply to: Dextromethorphan‐Bupropion (Auvelity)—A Drug to Avoid Prescribing, Even if it Were Free",
+        "authors": [
+          "Eric E. Brown",
+          "Todd Semla",
+          "David B. Reuben"
+        ],
+        "abstract": "",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-11-02",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-03",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08612-2",
+        "doi": "10.1186/s12877-026-08612-2",
+        "url": "https://doi.org/10.1186/s12877-026-08612-2",
+        "title": "Supermarket staff attitudes and social distance toward older people: an age-friendly perspective",
+        "authors": [
+          "Sok Leng Che",
+          "Wai In Lei",
+          "Sok Man Leong"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-02",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-03",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08369-8",
+        "doi": "10.1186/s12877-026-08369-8",
+        "url": "https://doi.org/10.1186/s12877-026-08369-8",
+        "title": "Invasive non-mucinous adenocarcinoma with hepatoid adenocarcinoma transformation arising in adult congenital pulmonary airway malformation: a case report",
+        "authors": [
+          "Xiaomin Dai",
+          "Zhen Zheng",
+          "Jing Li",
+          "Jing Luo",
+          "Fang Peng"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-02",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-03",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08597-y",
+        "doi": "10.1186/s12877-026-08597-y",
+        "url": "https://doi.org/10.1186/s12877-026-08597-y",
+        "title": "Impact of comfortable nursing combined with diversified health education on self-management behavior in elderly patients with cardiovascular diseases",
+        "authors": [
+          "Chun’nuan An",
+          "Xiuling Zhan",
+          "Wenjing Li",
+          "Yujie Chen",
+          "Jingjing Liu",
+          "Yun Li",
+          "Li Li"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-02",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-03",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08640-y",
+        "doi": "10.1186/s12877-026-08640-y",
+        "url": "https://doi.org/10.1186/s12877-026-08640-y",
+        "title": "Why is repeated initiation difficult? barriers to and facilitators of home-based exercise among older adults with knee osteoarthritis: a qualitative study",
+        "authors": [
+          "Sisi Ren",
+          "Jieyu Zhang",
+          "Huayu Fan",
+          "Mengyao Liu",
+          "Yongxin Ma",
+          "Jing Wu",
+          "Wen Xu",
+          "Yali Guo",
+          "Chaofan Yang",
+          "Xiangyang Cao",
+          "Rui Chen"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-02",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-03",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08438-y",
+        "doi": "10.1186/s12877-026-08438-y",
+        "url": "https://doi.org/10.1186/s12877-026-08438-y",
+        "title": "Psoas muscle to L3 vertebral body ratio, a CT-based psoas assessment metric, associates with nutritional status and predicts prolonged hospitalization in geriatric trauma patients: a 5-year retrospective study",
+        "authors": [
+          "Wei-Ming Xie",
+          "Meng-Qi Chen",
+          "Qiqi Wu",
+          "Chuntao Wang",
+          "Xiangjun Bai",
+          "Xin-Yu Liu",
+          "Zhanfei Li",
+          "Tianbing Wang"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-02",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-03",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1097/ede.0000000000002062",
+        "doi": "10.1097/ede.0000000000002062",
+        "url": "https://doi.org/10.1097/ede.0000000000002062",
+        "title": "Educational Attainment and Cohort Differences in Dementia Prevalence: A Counterfactual Decomposition Analysis",
+        "authors": [
+          "Ruijia Chen",
+          "Rafeya Raquib",
+          "Chang Su",
+          "Maria Gueltzow",
+          "Jingxuan Wang",
+          "Sarah F. Ackley",
+          "Jacqueline M. Torres",
+          "Jennifer Weuve",
+          "Liying Luo",
+          "John Robert Warren",
+          "M. Maria Glymour",
+          "Andrew C. Stokes"
+        ],
+        "abstract": "Background:                     It remains unclear why age-specific dementia prevalence has declined over recent decades. Improvements in educational attainment across cohorts are one potential explanation. We estimated the reduction in dementia prevalence expected if earlier cohorts had attained the educational distribution of the most recent cohort.                                                           Methods:                     We analyzed 17,762 participants (82,856 person-waves) from the 2000-2020 Health and Retirement Study (HRS) and grouped participants into four cohorts: Assets and Health Dynamics Among the Oldest Old (AHEAD; born 1900-1923); Children of the Depression (CODA; 1924-1930); HRS (1931-1941); and War Babies (WB; 1942-1947). We incorporated g-computation with age-period-cohort analyses to compare natural-course dementia prevalence with counterfactual scenarios in which earlier cohorts were assigned WB’s education distribution.                                                           Results:                     If earlier cohorts had the same education distribution as the WB cohort, dementia prevalence would be lower across ages and periods. At age 70 in 2010, prevalence based on the Langa-Weir classification of dementia would be reduced by 14% (95% CI: 11% -16%) in HRS, 21% (95% CI: 19% - 24%) in CODA, and 26% (95% CI: 23% - 29%) in AHEAD. Equalizing educational attainment would close 0.7 percentage points (95% CI: 0.5, 0.8) of the HRS-WB difference, 1.2 (95% CI: 0.9, 1.4) of the CODA-WB difference, and 1.6 (95% CI: 1.3, 1.9) of the AHEAD-WB difference. Reductions in dementia prevalence based on the Gianattasio-Power dementia ascertainment algorithm were smaller. Large reductions were observed within sex/gender and race and ethnicity subgroups.                                                           Conclusions:                     Educational attainment contributes to cohort differences in dementia prevalence overall and across demographic groups.",
+        "source": "Epidemiology",
+        "issn": "1044-3983",
+        "date": "2026-11-02",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-03",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag257",
+        "doi": "10.1093/aje/kwag257",
+        "url": "https://doi.org/10.1093/aje/kwag257",
+        "title": "Prevention of mpox by JYNNEOS vaccination: a case-control study comparing test-negative and alternative-disease control populations",
+        "authors": [
+          "Kayla Saadeh",
+          "Eric Tang",
+          "Kelly Johnson",
+          "Samuel Holland",
+          "Nicole Burghardt",
+          "Roshani Fernando",
+          "Kimberly Gonzalez Barrera",
+          "Cindy Hernandez",
+          "Lauren Granskog",
+          "Kieran Lorenz",
+          "Jarett Maycott",
+          "John McGinley",
+          "Marissa Ramos",
+          "Timothy Lo",
+          "Edwin Chojolan",
+          "Awa Keinde",
+          "Kathleen Jacobson",
+          "Robert E Snyder",
+          "Joseph A Lewnard"
+        ],
+        "abstract": "Abstract                   Risk-based vaccine recommendations complicate observational studies of vaccine effectiveness (VE), since recipients and non-recipients may differ in infection risk and likelihood of testing. For JYNNEOS—recommended for men who have sex with men at high mpox risk—prior studies have used differing control populations to estimate VE, with uncertain comparability. We conducted a multi-armed case-control study enrolling mpox cases (N=198), monkeypox virus (MPXV)-negative controls (N=208), and gonorrhea controls (N=155) reported to the California Department of Public Health between November 2022 and October 2024, conducting telephone interviews to capture behavioral risk data typically absent from surveillance and administrative records. Among recipients of 2 pre-exposure JYNNEOS doses, adjusted VE was 89.9% (95% CI, 69.6–96.7%) versus test-negative controls and 92.0% (70.6–97.8%) versus gonorrhea controls. Without behavioral adjustment, however, VE estimates using MPXV-negative controls were lower (50.4–65.4%) than those using gonorrhea controls (61.3–71.3%). Controls diagnosed with an alternative sexually transmitted infection may offer a better comparison group than test-negative controls for JYNNEOS VE studies based on disease surveillance or administrative records, although collection of risk factor data may be necessary to mitigate bias under either design.",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-11-02",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-03",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag282",
+        "doi": "10.1093/aje/kwag282",
+        "url": "https://doi.org/10.1093/aje/kwag282",
+        "title": "When negative control exposures fail to detect bias",
+        "authors": [
+          "Daniel Nevo",
+          "Raanan Raz"
+        ],
+        "abstract": "Abstract                   Researchers increasingly utilize negative control exposures (NCEs), variables known to have no effect on the outcome, to detect residual confounding. However, an NCE analysis may provide little evidence of confounding despite substantial bias in the estimated exposure effect. We study, analytically and via simulations, how the magnitude and source of exposure-NCE association affect the large-sample NCE coefficient and statistical power of regression-based bias-detection. We show that the power does not always increase with bias, and that stronger confounder-exposure associations can increase bias while reducing the NCE coefficient and power. Furthermore, the correlation between the exposure of interest and the NCE is insufficient to characterize how well the NCE will detect confounding. Additional exposure-NCE common causes that affect the outcome only through the exposure can attenuate the NCE coefficient toward zero or reverse its sign, even when confounding bias remains unchanged. These changes can occur even when the overall exposure-NCE correlation is fixed. Adjusting for such common causes alleviated sign reversal in our simulations but did not uniformly improve power. Negative controls can be a powerful tool to detect unmeasured confounding. Researchers should consider the sources of exposure-NCE association and interpret null or counterintuitive NCE findings with caution.",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-11-02",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-03",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261500405",
+        "doi": "10.1177/13872877261500405",
+        "url": "https://doi.org/10.1177/13872877261500405",
+        "title": "Former versus current smoking among older adults living with Alzheimer's disease, related dementias, and cognitive impairment",
+        "authors": [
+          "Maria A. Parker",
+          "Eric T. Klopack",
+          "Adrienne L. Johnson",
+          "Lijiang Guo",
+          "Erik S. Parker"
+        ],
+        "abstract": "Smoking is a major modifiable risk factor for Alzheimer's disease and related dementias (ADRD), yet smoking status among older adults with ADRD or cognitive impairment, not dementia (CIND), remains poorly characterized. Using pooled 2010–2020 Health and Retirement Study data, we examined former versus current smoking among US adults aged ≥55 years with lifetime cigarette smoking. In weighted analyses of 13,595 participants, adults with CIND (AOR = 0.83, 95% CI: 0.74, 0.92) and ADRD (AOR = 0.80, 95% CI: 0.65, 0.99) had lower odds of former smoking than cognitively normal adults. Findings highlight the importance of understanding smoking cessation needs in cognitively impaired populations.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-11-02",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-03",
         "fetched_from": "crossref"
       },
       {
@@ -84412,6 +86184,107 @@
         "fetched_from": "crossref"
       },
       {
+        "id": "doi:10.1016/j.socscimed.2026.119997",
+        "doi": "10.1016/j.socscimed.2026.119997",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.119997",
+        "title": "Assembling depression: Ambivalent Relations Between Experiential and Clinical Knowledge",
+        "authors": [
+          "By Xènia Balaguer",
+          "Joan Moyà-Köhler",
+          "Miquel Domènech"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-11-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-11-03",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.socscimed.2026.120001",
+        "doi": "10.1016/j.socscimed.2026.120001",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.120001",
+        "title": "Digital Access as a Conditional Resource: Women's Barriers to Health Care in 20 Demographic and Health Surveys",
+        "authors": [
+          "Jie Zhuo"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-11-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-11-03",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.socscimed.2026.119999",
+        "doi": "10.1016/j.socscimed.2026.119999",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.119999",
+        "title": "Do patients' gender and age profiles influence oncologists' treatment recommendations? A factorial survey experiment",
+        "authors": [
+          "Sandro Tiziano Stoffel",
+          "Matthias Schwenkglenks",
+          "Kathrin Heinrich",
+          "Marina Elena Cazzaniga",
+          "Aitor Azkarate Martinez",
+          "Berna Cennet Özdemir"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-11-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-11-03",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.socscimed.2026.120002",
+        "doi": "10.1016/j.socscimed.2026.120002",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.120002",
+        "title": "A Cross-National Comparison of Mental Health Policy Texts during the COVID-19 Pandemic",
+        "authors": [
+          "Guangjin Xie",
+          "Shen Xu",
+          "Jinghan Hu",
+          "Qiongyao Zhong",
+          "Hanmei Liu",
+          "Ruoqin Cheng",
+          "Zhihong Ren"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-11-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-11-03",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1186/s12877-026-08351-4",
         "doi": "10.1186/s12877-026-08351-4",
         "url": "https://doi.org/10.1186/s12877-026-08351-4",
@@ -84699,6 +86572,82 @@
         "fetched_from": "crossref"
       },
       {
+        "id": "doi:10.1093/ageing/afag317",
+        "doi": "10.1093/ageing/afag317",
+        "url": "https://doi.org/10.1093/ageing/afag317",
+        "title": "Profiling perceived knowledge, relevance and interest across geriatric topics of health and social care professionals: multinational electronic cross-sectional survey",
+        "authors": [
+          "Luca Soraci",
+          "Giulia Ogliari",
+          "Athanase Benetos",
+          "Nenad Bogdanovic",
+          "Sylvie Bonin-Guillaume",
+          "Sofia Duque",
+          "Anne Wissendorff Ekdahl",
+          "Klejda Harasani",
+          "Anna M Herghelegiu",
+          "Dimitrije Jakovljević",
+          "Anastassia Kossioni",
+          "Marina Kotsani",
+          "Evrydiki Kravvariti",
+          "Sonja Lindner-Rabl",
+          "Jūratė Macijauskienė",
+          "Nicolás Martínez-Velilla",
+          "Tahir Masud",
+          "Tajana Pavic",
+          "Mirko Petrovic",
+          "Karolina Piotrowicz",
+          "Roman Romero-Ortuno",
+          "Maria Cristina Polidori-Nelles",
+          "Carmelinda Ruggiero",
+          "Sumru Savas",
+          "George Soulis",
+          "Divya Tiwari",
+          "Lone Winther Lietzen",
+          "Regina Roller-Wirnsberger",
+          "Michael Vassallo"
+        ],
+        "abstract": "Abstract                                        Background                     Interprofessional training is essential for high-quality care of older adults. Despite widespread recognition of its importance, evidence on perceived geriatric competence remains limited to studies on single countries or professions.                                                           Methods                     Secondary analysis of a COST Action multinational multilingual web-based survey (PROmoting GeRiAtric Medicine in countries where it is still eMergING, PROGRAMMING) conducted across the 27 European Union Member States (EU-27) and non-EU-27 countries between 9 October 2023 and 5 June 2024. Four thousand seven hundred eighty-eight professionals from 10 core health and social care groups were included. We explored perceived Knowledge, Relevance and Interest across seven domains required for comprehensive geriatric assessment: frailty, falls and mobility, delirium, depression, mild cognitive impairment and dementia screening, nutritional assessment and malnutrition, polypharmacy and deprescribing. Student’s t test; one-way analysis of variance, hierarchical clustering and latent class analysis were used to identify interprofessional differences and shared patterns across professions.                                                           Results                     Mean age was 42.4 years (SD 11.9); 3432 (71.7%) were women; 2893 (60.4%) worked in EU-27 countries. Interprofessional differences were observed across all topics. Physiotherapists led in falls and mobility (mean 4.21, SD 0.75), pharmacists in polypharmacy and deprescribing (mean 3.51, SD 1.07), and psychologists/psychotherapists in depression (mean 3.96, SD 0.82). A medical doctors–nurses–pharmacists cluster emerged for Knowledge and Interest; 34.4% pharmacists fell in the low relevance class. Social workers and speech and language therapists showed a low Knowledge–high Interest mismatch. EU-27 professionals reported higher scores than non-EU-27 professionals across most topics (P &amp;lt; .001).                                                           Conclusions                     Perceived knowledge, relevance and interest showed substantial variation across professions and regions, while revealing shared professional profiles. This may inform team-based interprofessional education.",
+        "source": "Age and Ageing",
+        "issn": "0002-0729",
+        "date": "2026-10-31",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-03",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/ageing/afag320",
+        "doi": "10.1093/ageing/afag320",
+        "url": "https://doi.org/10.1093/ageing/afag320",
+        "title": "Attitudes of people living with dementia and their carers towards the use of generative artificial intelligence to inform structured medication reviews",
+        "authors": [
+          "Bethany Linder",
+          "Jiamin Du",
+          "Nuno Tavares",
+          "Tingting Zhu",
+          "Prayag Tiwari",
+          "Sundus Jawad",
+          "Anna E Seeley",
+          "Subhashisa Swain",
+          "Jaheeda Gangannagaripalli"
+        ],
+        "abstract": "Abstract                                        Background                     Polypharmacy is common in people living with dementia (PLwD) and associated with adverse outcomes. Although Structured Medication Reviews (SMRs) are recommended to optimise medication regimens, their delivery is often constrained by limited resources. Artificial intelligence (AI) may support SMRs, yet little is known about how it is perceived by PLwD and their carers. This study explored their experiences of polypharmacy, views on SMRs and attitudes towards use of AI tools in SMRs.                                                           Methods                     Semi-structured interviews with 12 PLwD experiencing polypharmacy and two focus groups with 14 carers were conducted via Microsoft Teams or telephone and analysed using Reflexive Thematic Analysis.                                                           Results                     Two themes were constructed: participants’ perspectives on meaningful SMRs, and embracing AI while preserving patient safety and the human touch. Participants described challenges in managing polypharmacy, with carers playing a central role in supporting adherence and monitoring side effects. Experiences of SMRs varied. SMRs were most valued when clinicians were empathetic and able to offer personalised guidance. Participants viewed AI use in SMRs positively, provided that such tools were well validated and used to assist rather than replace healthcare professionals. AI was also seen as potentially reducing administrative burden and supporting more person-centred care. However, some had concerns regarding patient safety and data security, highlighting the need for appropriate regulation and human oversight.                                                           Conclusion                     Participants were supportive of AI use in SMRs, despite concerns about safety, data security and disclosure of AI use, and emphasised the importance of patient-clinician interactions and lived experience involvement in AI tool development.",
+        "source": "Age and Ageing",
+        "issn": "0002-0729",
+        "date": "2026-10-31",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-03",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1215/00703370-12877885",
         "doi": "10.1215/00703370-12877885",
         "url": "https://doi.org/10.1215/00703370-12877885",
@@ -84972,6 +86921,35 @@
         "fetched_from": "crossref"
       },
       {
+        "id": "doi:10.1093/gerona/glag256",
+        "doi": "10.1093/gerona/glag256",
+        "url": "https://doi.org/10.1093/gerona/glag256",
+        "title": "Senescence Biomarkers Predict Physical Function and Clinical Outcomes After Heart Failure Hospitalization: Insights From REHAB-HF",
+        "authors": [
+          "Charles T Semelka",
+          "Molly R Ehrig",
+          "Nicholas M Pajewski",
+          "Stephen B Kritchevsky",
+          "Philip A Kramer",
+          "Anthony E Peters",
+          "Robert J Mentz",
+          "Amy M Pastva",
+          "David J Whellan",
+          "Dalane W Kitzman"
+        ],
+        "abstract": "Abstract                                        Background                     Acute decompensated heart failure (ADHF) is the most common cause of hospitalization in older adults. Cellular senescence, a hallmark of aging biology, has been implicated in heart failure pathophysiology and functional decline via the pro-inflammatory senescence-associated secretory phenotype (SASP). We evaluated the association between SASP and physical function in older adults hospitalized for ADHF.                                                           Methods                     REHAB-HF was a trial of older adults hospitalized for ADHF randomized to a novel physical rehabilitation intervention or attention control. We measured a panel of 18-SASP analytes at in-hospital baseline and at 3-month follow-up. Outcomes included short physical performance battery (SPPB) and 6-minute walk distance (6MWD). Statistical analysis included principal component analysis (PCA) of log- and z-transformed SASP values. Associations were evaluated with multivariable regression models adjusted for age, sex, and intervention arm.                                                           Results                     Samples were available for 226 (65%) of the REHAB-HF participants with mean age (SD) 72.3 (8), 53% female, 52% HFpEF, and 53% assigned to rehab intervention. Principal Component 1 (PC1) reflected a coordinated signal across biomarkers of inflammation and immune signaling. PC1 was associated with poorer function at baseline [(SPPB -0.46 [-0.77, -0.14]; p = 0.004 and 6MWD -19.7 meters [-32.7, -6.7]; p = 0.003)]. Increasing SASP over time was associated with clinically significant reduced physical function improvement (ΔSPPB -1.80 [-2.58, -1.03]; p &amp;lt; 0.001 and Δ6MWD -49.7 meters [-77.2, -22.1]; p = 0.001).                                                           Conclusion                     Higher SASP levels were associated with poorer physical function recovery in older patients hospitalized for ADHF. These findings suggest that inflammatory SASP biomarkers may improve risk stratification and potentially guide therapeutic strategies.                                                           REHAB-HF trial is registered at clinicaltrials.gov Clinical Trial Registry                     NCT02196038",
+        "source": "The Journals of Gerontology, Series A: Biological Sciences and Medical Sciences",
+        "issn": "1079-5006",
+        "date": "2026-10-30",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "elderCare"
+        ],
+        "firstSeen": "2026-11-02",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1177/13872877261502791",
         "doi": "10.1177/13872877261502791",
         "url": "https://doi.org/10.1177/13872877261502791",
@@ -85100,35 +87078,6 @@
           "agingHealth"
         ],
         "firstSeen": "2026-10-31",
-        "fetched_from": "crossref"
-      },
-      {
-        "id": "doi:10.1093/gerona/glag256",
-        "doi": "10.1093/gerona/glag256",
-        "url": "https://doi.org/10.1093/gerona/glag256",
-        "title": "Senescence Biomarkers Predict Physical Function and Clinical Outcomes After Heart Failure Hospitalization: Insights From REHAB-HF",
-        "authors": [
-          "Charles T Semelka",
-          "Molly R Ehrig",
-          "Nicholas M Pajewski",
-          "Stephen B Kritchevsky",
-          "Philip A Kramer",
-          "Anthony E Peters",
-          "Robert J Mentz",
-          "Amy M Pastva",
-          "David J Whellan",
-          "Dalane W Kitzman"
-        ],
-        "abstract": "Abstract                                        Background                     Acute decompensated heart failure (ADHF) is the most common cause of hospitalization in older adults. Cellular senescence, a hallmark of aging biology, has been implicated in heart failure pathophysiology and functional decline via the pro-inflammatory senescence-associated secretory phenotype (SASP). We evaluated the association between SASP and physical function in older adults hospitalized for ADHF.                                                           Methods                     REHAB-HF was a trial of older adults hospitalized for ADHF randomized to a novel physical rehabilitation intervention or attention control. We measured a panel of 18-SASP analytes at in-hospital baseline and at 3-month follow-up. Outcomes included short physical performance battery (SPPB) and 6-minute walk distance (6MWD). Statistical analysis included principal component analysis (PCA) of log- and z-transformed SASP values. Associations were evaluated with multivariable regression models adjusted for age, sex, and intervention arm.                                                           Results                     Samples were available for 226 (65%) of the REHAB-HF participants with mean age (SD) 72.3 (8), 53% female, 52% HFpEF, and 53% assigned to rehab intervention. Principal Component 1 (PC1) reflected a coordinated signal across biomarkers of inflammation and immune signaling. PC1 was associated with poorer function at baseline [(SPPB -0.46 [-0.77, -0.14]; p = 0.004 and 6MWD -19.7 meters [-32.7, -6.7]; p = 0.003)]. Increasing SASP over time was associated with clinically significant reduced physical function improvement (ΔSPPB -1.80 [-2.58, -1.03]; p &amp;lt; 0.001 and Δ6MWD -49.7 meters [-77.2, -22.1]; p = 0.001).                                                           Conclusion                     Higher SASP levels were associated with poorer physical function recovery in older patients hospitalized for ADHF. These findings suggest that inflammatory SASP biomarkers may improve risk stratification and potentially guide therapeutic strategies.                                                           REHAB-HF trial is registered at clinicaltrials.gov Clinical Trial Registry                     NCT02196038",
-        "source": "The Journals of Gerontology, Series A: Biological Sciences and Medical Sciences",
-        "issn": "1079-5006",
-        "date": "2026-10-30",
-        "subjects": [],
-        "domains": [
-          "agingHealth",
-          "elderCare"
-        ],
-        "firstSeen": "2026-11-02",
         "fetched_from": "crossref"
       },
       {
@@ -111894,6 +113843,33 @@
     ],
     "socialWork": [
       {
+        "id": "doi:10.1093/bjsw/bcag276",
+        "doi": "10.1093/bjsw/bcag276",
+        "url": "https://doi.org/10.1093/bjsw/bcag276",
+        "title": "Environmental non-governmental organizations and the natural environment–human interaction in Türkiye: A qualitative case study",
+        "authors": [
+          "Aybüke Yılmaz Hazır",
+          "Mehmet Gökdal",
+          "Elif Ezgi Arslan Şahbaz",
+          "Ayşe Gül Oral Alpay",
+          "Gökben Kangalgil Balta",
+          "Selin Koçak",
+          "Münevver Eryalçın",
+          "Linda Chimwemwe G Banda",
+          "Filiz Yıldırım"
+        ],
+        "abstract": "Abstract                   Climate change, whose impacts are increasingly evident worldwide, is a global problem that affects both the natural environment and human societies. Although environmental non-governmental organizations (ENGOs) are expected to address these challenges, the environmental–human intersection within their activities remains underexplored. The aim of this research, designed as a qualitative multiple case study, is to examine the human–natural environment interaction in the activities of seventeen ENGOs in Türkiye and to make recommendations based on ecosocial work practice to overcome the obstacles they face. A reflective thematic analysis showed that a group of ENGOs from Türkiye encounter institutional and structural barriers that prevent them from prioritizing the natural environment–human relationship in the implementation of their activities. This research highlights how social workers can strengthen ENGOs’ services in ontological, epistemological, and methodological contexts to overcome these barriers. This study emphasizes the importance of collaboration between ecosocial workers need to collaborate with ENGOs in addressing global environmental problems that generate social inequalities.",
+        "source": "The British Journal of Social Work",
+        "issn": "0045-3102",
+        "date": "2026-11-02",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-11-03",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1016/j.socscimed.2026.119508",
         "doi": "10.1016/j.socscimed.2026.119508",
         "url": "https://doi.org/10.1016/j.socscimed.2026.119508",
@@ -115195,6 +117171,107 @@
           "socialWork"
         ],
         "firstSeen": "2026-11-02",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.socscimed.2026.119997",
+        "doi": "10.1016/j.socscimed.2026.119997",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.119997",
+        "title": "Assembling depression: Ambivalent Relations Between Experiential and Clinical Knowledge",
+        "authors": [
+          "By Xènia Balaguer",
+          "Joan Moyà-Köhler",
+          "Miquel Domènech"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-11-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-11-03",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.socscimed.2026.120001",
+        "doi": "10.1016/j.socscimed.2026.120001",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.120001",
+        "title": "Digital Access as a Conditional Resource: Women's Barriers to Health Care in 20 Demographic and Health Surveys",
+        "authors": [
+          "Jie Zhuo"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-11-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-11-03",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.socscimed.2026.119999",
+        "doi": "10.1016/j.socscimed.2026.119999",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.119999",
+        "title": "Do patients' gender and age profiles influence oncologists' treatment recommendations? A factorial survey experiment",
+        "authors": [
+          "Sandro Tiziano Stoffel",
+          "Matthias Schwenkglenks",
+          "Kathrin Heinrich",
+          "Marina Elena Cazzaniga",
+          "Aitor Azkarate Martinez",
+          "Berna Cennet Özdemir"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-11-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-11-03",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.socscimed.2026.120002",
+        "doi": "10.1016/j.socscimed.2026.120002",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.120002",
+        "title": "A Cross-National Comparison of Mental Health Policy Texts during the COVID-19 Pandemic",
+        "authors": [
+          "Guangjin Xie",
+          "Shen Xu",
+          "Jinghan Hu",
+          "Qiongyao Zhong",
+          "Hanmei Liu",
+          "Ruoqin Cheng",
+          "Zhihong Ren"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-11-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-11-03",
         "fetched_from": "crossref"
       },
       {
@@ -123170,10 +125247,10 @@
   },
   "totals": {
     "socialSecurity": 1605,
-    "elderCare": 875,
-    "healthReform": 1274,
-    "agingHealth": 1228,
-    "socialWork": 492
+    "elderCare": 890,
+    "healthReform": 1315,
+    "agingHealth": 1247,
+    "socialWork": 497
   },
   "feeds_ok": 41
 }
