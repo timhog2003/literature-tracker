@@ -1,8 +1,96 @@
 {
-  "date": "2026-11-03",
-  "fetched": "2026-11-03T08:12:24+00:00",
+  "date": "2026-11-04",
+  "fetched": "2026-11-04T07:42:20+00:00",
   "domains": {
     "socialSecurity": [
+      {
+        "id": "doi:10.1215/00703370-12861165",
+        "doi": "10.1215/00703370-12861165",
+        "url": "https://doi.org/10.1215/00703370-12861165",
+        "title": "Is There a Democratization of Joint Physical Custody? Evidence From Europe",
+        "authors": [
+          "Anne Solaz",
+          "Eija Lindroos",
+          "Carole Bonnet",
+          "Mia Hakovirta",
+          "Daniel R. Meyer",
+          "Milla Salin"
+        ],
+        "abstract": "Highlights                   Joint physical custody remains strongly stratified by education, even in European countries where JPC is widespread. Medium-educated parents catch up with highly educated parents where JPC prevalence is high. Low-educated parents remain less likely to use JPC, regardless of its prevalence across countries. JPC use with young children remains lower, even in countries where shared care is widespread. Flexible forms of JPC (unequal share) are more common in low-prevalence countries.",
+        "source": "Demography",
+        "issn": "0070-3370",
+        "date": "2026-11-03",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "socialSecurity"
+        ],
+        "firstSeen": "2026-11-04",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1215/00703370-12871113",
+        "doi": "10.1215/00703370-12871113",
+        "url": "https://doi.org/10.1215/00703370-12871113",
+        "title": "Families, Households, Networks: Rethinking the Relational Structure of Families Through Large-Scale Network Data",
+        "authors": [
+          "Nicolás Soler",
+          "Tom Emery",
+          "Agnieszka Kanas"
+        ],
+        "abstract": "Highlights                   Register data enable researchers to study support availability in country-wide family networks. Survey data can be linked to the register networks to study actual support. Network structure is associated with self-reported availability of family support. Family networks extensively overlap because relatives are present in multiple families.",
+        "source": "Demography",
+        "issn": "0070-3370",
+        "date": "2026-11-03",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "socialSecurity"
+        ],
+        "firstSeen": "2026-11-04",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1215/00703370-12868797",
+        "doi": "10.1215/00703370-12868797",
+        "url": "https://doi.org/10.1215/00703370-12868797",
+        "title": "Parental Separation and the Quality of Ties to Extended Kin",
+        "authors": [
+          "Kateryna Sytkina",
+          "Thomas Leopold"
+        ],
+        "abstract": "Highlights                   Parental separation involves reorganization at all levels of the family system. Young adults who experienced parental separation have weaker ties to extended kin. These ties are especially weaker on the paternal side. The gaps are smaller in cases of joint physical custody after parental separation.",
+        "source": "Demography",
+        "issn": "0070-3370",
+        "date": "2026-11-03",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "socialSecurity"
+        ],
+        "firstSeen": "2026-11-04",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1215/00703370-12901668",
+        "doi": "10.1215/00703370-12901668",
+        "url": "https://doi.org/10.1215/00703370-12901668",
+        "title": "Transforming Manhood: Women's Employment and Other Sociodemographic Predictors of Testosterone in American Men",
+        "authors": [
+          "Andrew Francis-Tan"
+        ],
+        "abstract": "Highlights                   This investigation of the predictors of testosterone in American men focuses on the integration of women in the labor market. Men's exposure to women in the workplace is inversely associated with testosterone levels. Other variables significantly predict testosterone, for example, age, race and ethnicity, and marriage. Our results shed light on population-level declines in testosterone worldwide.",
+        "source": "Demography",
+        "issn": "0070-3370",
+        "date": "2026-11-03",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "socialSecurity"
+        ],
+        "firstSeen": "2026-11-04",
+        "fetched_from": "crossref"
+      },
       {
         "id": "doi:10.1016/j.jpubeco.2026.105784",
         "doi": "10.1016/j.jpubeco.2026.105784",
@@ -25003,6 +25091,398 @@
         "fetched_from": "crossref"
       },
       {
+        "id": "doi:10.1093/gerona/glag255",
+        "doi": "10.1093/gerona/glag255",
+        "url": "https://doi.org/10.1093/gerona/glag255",
+        "title": "Identification of Novel Protein Biomarkers and Lifestyle-Modifiable Targets for Osteoporosis: Evidence from Mendelian Randomization and Colocalization Analyses",
+        "authors": [
+          "Danyang Zhao",
+          "Lidong Su",
+          "Jiubo Fan",
+          "Ziyan Guo",
+          "Xingguang Luo",
+          "Yimin Kang",
+          "Fan Wang"
+        ],
+        "abstract": "Abstract                                        Background                     Osteoporosis (OP), a degenerative bone disease prevalent in aging populations, can lead to various complications and significantly impair the quality of life of elderly patients. We aimed to identify OP-related protein biomarkers and modifiable lifestyle factors for OP prevention in older adults.                                                           Methods                     Summary-data-based Mendelian randomization (SMR) and colocalization analyses were conducted to assess the possible causal effects of plasma protein on OP. Genetic data for plasma proteins were derived from the deCODE (4907 proteins) and UK Biobank-PPP (2923 proteins) datasets. OP summary statistics were obtained from the FinnGen study (10,461 cases). Two-sample Mendelian randomization (TSMR) analyses were subsequently performed to evaluate the effects of lifestyle factors on OP-related proteins.                                                           Results                     Primary SMR analysis identified 31 and 24 OP-related proteins in the deCODE and UKB-PPP cohorts, respectively. Cross-analysis of both datasets identified nine OP-related plasma protein targets. Among them, RSPO3 showed moderate evidence of colocalization with OP (PP.H4 = 0.643). TSMR analysis suggested that genetically predicted higher body mass index (BMI) was associated with increased RSPO3 levels (β = 0.08, 95% CI 0.02 to 0.14, p = 0.001), whereas type 2 diabetes (T2DM) was associated with lower RSPO3 levels (β = -5.71, 95% CI -11.16 to -0.26, p = 0.045).                                                           Conclusions                     This study identified nine plasma protein biomarkers with genetic evidence supporting their association with OP risk, with RSPO3 showing the strongest supportive evidence among the prioritized targets. These findings offer new insights into OP etiology and highlight how metabolic traits may influence bone health via specific protein mediators.",
+        "source": "The Journals of Gerontology, Series A: Biological Sciences and Medical Sciences",
+        "issn": "1079-5006",
+        "date": "2026-11-03",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "elderCare"
+        ],
+        "firstSeen": "2026-11-04",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70822",
+        "doi": "10.1111/jgs.70822",
+        "url": "https://doi.org/10.1111/jgs.70822",
+        "title": "Changes in Social Wellbeing Among Older Adults With Limited Prognosis: Results From a Nationally Representative Cohort",
+        "authors": [
+          "Louise Hawkley",
+          "Kristen Wroblewski",
+          "Linda Waite",
+          "Ashwin Kotwal"
+        ],
+        "abstract": "ABSTRACT                                        Background                     Physicians use clinical prognostic estimates to identify medical tests and treatments likely to benefit patients within their lifetime. Poor social wellbeing is associated with mortality, but it is unclear if prognostic indices can identify older adults at risk for worsening social well‐being. We examined associations between a mortality prognostic index and social wellbeing at baseline and over 2 years to inform care priorities in the context of a limited prognosis.                                                           Methods                     Data from the National Social Life, Health and Aging Project (NSHAP) Round 4 (2021–2023) and Round 4.2 (2024) included 1630 older adults. Social measures included loneliness, living alone, and at least monthly volunteering, socializing, and attending community groups and religious services. Scores of 8 or higher on the Lee Index (range: 0–26) indicated high mortality risk. Survey‐weighted logistic regressions adjusting for sociodemographic and health covariates were used to compare baseline and 2‐year changes in social wellbeing in the high versus low mortality risk group.                                                           Results                     Participants had a mean age of 70.3 years, and were 54% female, 62% White, 20% Black, and 14% non‐Black Hispanic. At baseline, higher mortality risk participants had poorer social wellbeing on all measures except socializing. Among those not lonely at baseline, 24.2% of higher versus 15.6% of lower risk participants became lonely at follow‐up (aOR 1.47; 95% CI: 1.01–2.14). Among those socializing at least monthly at baseline, 19.0% of higher versus 12.3% of lower risk participants transitioned to less‐than‐monthly socializing (aOR 1.60; 95% CI: 0.97–2.65). Higher risk participants had larger declines in all measures of social wellbeing at follow‐up.                                                           Conclusions                     Older adults with higher mortality risk had poorer social wellbeing at baseline and were more likely to become lonely and decrease social participation at follow‐up. Prognostic information may help clinicians avoid low‐value medical interventions while prioritizing interventions to support meaningful social connection.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-11-03",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-04",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70817",
+        "doi": "10.1111/jgs.70817",
+        "url": "https://doi.org/10.1111/jgs.70817",
+        "title": "Weight Trajectories Across Antiretroviral Therapy Regimen Switches in Older People With\n                    <scp>HIV</scp>\n                    in China: A Nationwide Multicenter Cohort Study",
+        "authors": [
+          "Chenrui Li",
+          "Bin Li",
+          "Song Fan",
+          "Lijing Wang",
+          "Xinsheng Wu",
+          "Ping Ma",
+          "Lianguo Ruan",
+          "Yaokai Chen",
+          "Rugang Wang",
+          "Yuxia Song",
+          "Yanshan Cai",
+          "Fengjuan Chen",
+          "Xiaojun Meng",
+          "Ying Qiao",
+          "Yong Gao",
+          "Zhongsi Hong",
+          "Tong Zhang",
+          "Meiyin Zou",
+          "Yanhua Fu",
+          "Bin Su",
+          "Jun Zou",
+          "Hui Wang",
+          "Yong Cai",
+          "Huachun Zou",
+          "Ying Wang"
+        ],
+        "abstract": "ABSTRACT                                        Background                     As China's HIV epidemic ages rapidly, evaluating metabolic risks in older people with HIV (PWH) is increasingly urgent. Weight gain associated with integrase strand transfer inhibitors (INSTIs) has drawn increasing attention, but data on older Chinese PWH remain scarce.                                                           Methods                     We conducted a retrospective cohort study of PWH aged ≥ 50 years across 19 cities in China within the National Free Antiretroviral Therapy Programme. We assessed weight change trajectories across antiretroviral therapy regimen switches among non‐nucleoside reverse transcriptase inhibitors (NNRTIs), INSTIs, and protease inhibitors (PIs), using piecewise mixed‐effects models and restricted cubic splines. We performed subgroup analyses to assess whether associations differed by sex, age, and baseline metabolic risk.                                                           Results                                            Among 5618 participants, the adjusted weight‐change slope increased from 0.41 kg/year before switching to 0.90 kg/year afterward (                       p                        = 0.03). Slope changes were +0.76 kg/year for NNRTI→INSTI (                       p                        = 0.03), +4.76 kg/year for PI→INSTI (                       p                        &lt; 0.01), and −2.07 kg/year for INSTI→NNRTI (                       p                        = 0.03). Exploratory analyses suggested numerically stronger associations among females, adults aged ≥ 65 years, and participants with baseline metabolic risk.                                                                                Conclusions                     Switching to INSTI‐based regimens was associated with steeper weight‐gain trajectories compared to switching to other regimens, while switching from an INSTI to an NNRTI was associated with attenuation. These findings support weight and cardiometabolic monitoring after regimen changes, while decisions regarding ART modification should remain individualized.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-11-03",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-04",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08601-5",
+        "doi": "10.1186/s12877-026-08601-5",
+        "url": "https://doi.org/10.1186/s12877-026-08601-5",
+        "title": "Digital health literacy for older adults: a rapid scoping review",
+        "authors": [
+          "Andrea C. Tricco",
+          "Delana Theiventhiran",
+          "Lahmea Navaratnerajah",
+          "Shahab Sayfi",
+          "Daniella Rangira",
+          "Abisha Arulselvan",
+          "Quenby Mahood",
+          "Janet Gunderson",
+          "Marilyn Macdonald",
+          "Gordon Cormack",
+          "Maura Grossman",
+          "Sharon Straus"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-03",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-04",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08592-3",
+        "doi": "10.1186/s12877-026-08592-3",
+        "url": "https://doi.org/10.1186/s12877-026-08592-3",
+        "title": "Anterior subcutaneous pelvic internal fixation versus conservative treatment for type iib and iic fragility fractures of the pelvis in older adults: a multicentre retrospective study",
+        "authors": [
+          "Fuming Wang",
+          "Shaozheng Yang",
+          "Jianqiang Lai",
+          "Dalong Wu",
+          "Huifeng Zheng",
+          "Yong Lian",
+          "Chao Ding",
+          "Sushuang Ma",
+          "Heng Li",
+          "Hua Zhong",
+          "Zhengcai Yang",
+          "Hongfen Chen"
+        ],
+        "abstract": "Abstract                                        Objective                     To compare anterior subcutaneous pelvic internal fixation with conservative treatment in older adults with type IIb and IIc fragility fractures of the pelvis (FFP).                                                           Methods                                            We included 217 patients with type IIb or IIc FFP treated at five trauma centres between January 2020 and December 2022 (operative,                       n                        = 86; conservative,                       n                        = 131). Demographics, comorbidities, length of stay, complications, costs, visual analogue scale (VAS) pain scores, mortality, Barthel Index (BI), instrumental activities of daily living (IADL) score and walking ability were analysed. Follow-up was ≥ 1 year. Multivariable regression and Kaplan–Meier analyses were performed.                                                                                Results                                            Follow-up duration did not differ between groups (28.3 ± 13.2 vs. 29.0 ± 17.7 months;                       P                        = 0.733). The conservative group was older, with more comorbidities and complications but shorter stays and lower costs. Full weight-bearing occurred earlier in the operative group, whereas fracture-healing time did not differ. After adjustment, surgery was associated with lower odds of poorer walking ability (OR = 0.081,                       P                        = 0.001), higher BI (B = 3.318,                       P                        = 0.018) and lower VAS pain scores (B = − 1.219,                       P                        &lt; 0.001), but not with IADL score (B = 0.844,                       P                        = 0.109). Mortality did not differ significantly (log-rank                       P                        = 0.074).                                                                                Conclusion                     Patients who underwent surgery were younger, had better pre-injury function and showed more favourable outcomes. Causality remains uncertain because of the retrospective design, baseline imbalances and strong correlation between pre- and post-injury walking ability. Surgical indications should balance potential benefits against higher costs and procedure-related complications.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-03",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-04",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08616-y",
+        "doi": "10.1186/s12877-026-08616-y",
+        "url": "https://doi.org/10.1186/s12877-026-08616-y",
+        "title": "Developing and testing the effectiveness of mindfulness intervention for reducing loneliness in Hong Kong older adults: a hybrid sequential multiple assignment randomized trial, micro randomized trial experimental design study protocol",
+        "authors": [
+          "Vivien Foong Yee Tang",
+          "Zhiran Huang",
+          "Da Jiang",
+          "Zhuoyi Wen",
+          "Alex Yuefeng Zhu",
+          "Lina Vyas",
+          "Haoran Xie",
+          "Philip Leung Ho Yu",
+          "Mike Ka Pui So",
+          "Jing Yu",
+          "Phoenix Kit-han Mo",
+          "Jing Liao",
+          "Kee-Lee Chou"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-03",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-04",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08489-1",
+        "doi": "10.1186/s12877-026-08489-1",
+        "url": "https://doi.org/10.1186/s12877-026-08489-1",
+        "title": "Adding blood flow restriction to low-load resistance training for sarcopenia and cognitive function in oldest-old adults: an exploratory randomized controlled trial",
+        "authors": [
+          "Haodong Tian",
+          "Haoran Wang",
+          "Li Huang",
+          "Juncheng Si",
+          "Guo Chen",
+          "Lu Wang",
+          "Jinlong Wu",
+          "Yukun Lu",
+          "Zhaozhi Liu",
+          "Hanglin Yu",
+          "Haowei Liu",
+          "Zhidan Luo",
+          "Jie Zhang",
+          "Xingrong Tan",
+          "Li Peng"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-03",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-04",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08470-y",
+        "doi": "10.1186/s12877-026-08470-y",
+        "url": "https://doi.org/10.1186/s12877-026-08470-y",
+        "title": "Machine learning algorithms for identifying ADL limitation in Chinese older adults with chronic conditions: development and internal-external validation",
+        "authors": [
+          "Yuxin He",
+          "Bo Xin",
+          "Yixin Wu",
+          "Shan Yang",
+          "Na Han",
+          "Jiyun Wu",
+          "Yanping Ren",
+          "Wenhui Jiang"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-03",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-04",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08439-x",
+        "doi": "10.1186/s12877-026-08439-x",
+        "url": "https://doi.org/10.1186/s12877-026-08439-x",
+        "title": "Combined exercise and cognitive stimulation for people with mild cognitive impairment – interdisciplinary perspectives",
+        "authors": [
+          "Catarina Rondão",
+          "Maria Paula Mota",
+          "Paulo Pinheiro",
+          "Dulce Esteves"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-03",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-04",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08515-2",
+        "doi": "10.1186/s12877-026-08515-2",
+        "url": "https://doi.org/10.1186/s12877-026-08515-2",
+        "title": "Machine learning for detection of mild cognitive impairment using VR eye-tracking metrics in older adults: a cross-sectional study",
+        "authors": [
+          "Yinjuan Zhang",
+          "Ayun Hao",
+          "Kai Zhang",
+          "Chao Shen",
+          "Shan Cheng",
+          "Huaning Wang"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-03",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-04",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08373-y",
+        "doi": "10.1186/s12877-026-08373-y",
+        "url": "https://doi.org/10.1186/s12877-026-08373-y",
+        "title": "Evaluation of the relationship between mild cognitive impairment and CRP/Albumin ratio in the geriatric population",
+        "authors": [
+          "Handan Duman",
+          "Mehmet Kivrak",
+          "Omer Lutfi Gundogdu"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-03",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-04",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08579-0",
+        "doi": "10.1186/s12877-026-08579-0",
+        "url": "https://doi.org/10.1186/s12877-026-08579-0",
+        "title": "Cognitive-supportive features in long-term care settings: a cross-sectional observational study",
+        "authors": [
+          "Niina Wahlroos",
+          "Minna Stolt",
+          "Erja Rappe",
+          "Stefan Ahlman",
+          "Riitta Suhonen"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-03",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-04",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08622-0",
+        "doi": "10.1186/s12877-026-08622-0",
+        "url": "https://doi.org/10.1186/s12877-026-08622-0",
+        "title": "Depressive symptoms and sarcopenia risk in older adults with diabetes: a network analysis approach to understanding comorbidity",
+        "authors": [
+          "Ni Sang",
+          "Qiao-ling Yang",
+          "Ya-juan Duan",
+          "Hui Liu",
+          "Lu Han",
+          "Miao-miao Wang",
+          "Shu-han Cheng",
+          "Li Cheng"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-03",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-04",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08544-x",
+        "doi": "10.1186/s12877-026-08544-x",
+        "url": "https://doi.org/10.1186/s12877-026-08544-x",
+        "title": "Exercise snacking and physical performance in older adults: a systematic review, meta-analysis, and qualitative evidence synthesis",
+        "authors": [
+          "Hao Sun",
+          "Liangfei Shang",
+          "Fan Zhang",
+          "Zhijian Wu"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-03",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-04",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1186/s12877-026-08578-1",
         "doi": "10.1186/s12877-026-08578-1",
         "url": "https://doi.org/10.1186/s12877-026-08578-1",
@@ -28557,6 +29037,102 @@
           "socialWork"
         ],
         "firstSeen": "2026-11-03",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.socscimed.2026.120000",
+        "doi": "10.1016/j.socscimed.2026.120000",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.120000",
+        "title": "“Like jail”: A qualitative study of inpatient eating disorder care experiences in Singapore",
+        "authors": [
+          "Pei Xian Tan",
+          "Rayner Kay Jin Tan"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-11-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-11-04",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.socscimed.2026.119989",
+        "doi": "10.1016/j.socscimed.2026.119989",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.119989",
+        "title": "“We’re Like Walking on Thin Ice for Our Happiness”: Platform-mediated Reproductive Governance in Chinese Women’s IVF Narratives on RedNote",
+        "authors": [
+          "Yuying He",
+          "Kaibin Xu"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-11-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-11-04",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.socscimed.2026.120003",
+        "doi": "10.1016/j.socscimed.2026.120003",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.120003",
+        "title": "A cure for cancer... or knee problems? How online search patterns suggest a misalignment between the framing of stem cell medicine in research and its configuration in online search",
+        "authors": [
+          "Anders Grundtvig",
+          "Anders Kristian Munk",
+          "Klaus Lindegaard Hoeyer"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-11-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-11-04",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.socscimed.2026.119998",
+        "doi": "10.1016/j.socscimed.2026.119998",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.119998",
+        "title": "Stigma cycles, epidemic memory, and the social production of transmission conditions: qualitative evidence from Sierra Leone’s 2025 mpox outbreak",
+        "authors": [
+          "Eric Nzirakaindi Ikoona",
+          "Lucy Namulemo",
+          "Mary Magdalene Sinnah",
+          "Mohamed Alex Vandi",
+          "Foday Sahr"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-11-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-11-04",
         "fetched_from": "crossref"
       },
       {
@@ -47477,6 +48053,171 @@
     ],
     "healthReform": [
       {
+        "id": "doi:10.1001/jama.2026.16551",
+        "doi": "10.1001/jama.2026.16551",
+        "url": "https://doi.org/10.1001/jama.2026.16551",
+        "title": "Small Gains but Persistent Gaps in Statin Adherence",
+        "authors": [
+          "Luke J. Laffin"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-03",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-04",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.16372",
+        "doi": "10.1001/jama.2026.16372",
+        "url": "https://doi.org/10.1001/jama.2026.16372",
+        "title": "Digital Outreach to Improve Statin Refills in Patients With Low Statin Adherence",
+        "authors": [
+          "Ankeet S. Bhatt",
+          "Vincent X. Liu",
+          "Baiyang Sun",
+          "Mirasol Apostol-Largeteau",
+          "Ben J. Marafino",
+          "Mariam Amiri",
+          "Duc (Lilly) Tran",
+          "Andrew P. Ambrosy",
+          "Howard H. Dinh",
+          "Lucy Finn",
+          "Payton Watt",
+          "Josephine Au",
+          "Jaya Nadella",
+          "Noreen Jesani",
+          "Jean C. Digitale",
+          "Tor Biering-Sørensen",
+          "Brian L. Claggett",
+          "Scott D. Solomon",
+          "Muthiah Vaduganathan",
+          "Alan S. Go",
+          "Ivy A. Ku",
+          "Gopi Manthripragada",
+          "Kevin Yee",
+          "Kristine Lee",
+          "Mehreen Khan",
+          "David Ouyang",
+          "Erin Wong",
+          "Julisa Carter",
+          "Gurjot Kaur",
+          "Marilena Newberry",
+          "Irina Komardenkova",
+          "Lindsey Burbage"
+        ],
+        "abstract": "Importance                     Statin nonadherence is a leading, addressable driver of preventable cardiovascular events. Although health systems routinely use outreach to promote preventive care, most strategies are static and lack evidence from randomized clinical trials.                                                           Objective                     To determine whether an adaptive, sequential digital outreach strategy improves short-term statin refill vs usual communication among adults with established atherosclerotic cardiovascular disease (ASCVD) or high ASCVD risk and recent nonadherence within a rapidly implemented, health system–embedded randomized clinical trial.                                                           Design, Setting, and Participants                     Pragmatic, health system–embedded, prospective randomized open blinded end point (PROBE) clinical trial using a 2-stage sequential, multiple assignment, randomized trial (SMART) design. The trial was conducted via Kaiser Permanente Northern California, an integrated health care delivery system serving more than 4.6 million members. Eligible participants were adults 18 years or older with established ASCVD or high ASCVD risk, recent statin nonadherence, and eligibility for all study communication modalities.                                                           Interventions                     Participants were randomized 1:1:1:1 to receive secure portal messaging, SMS/text messaging, nonsecure email, or usual communication. Initial nonresponders within 14 days underwent prespecified second-stage randomization to repeat the same outreach, switch communication modality, or receive usual communication.                                                           Main Outcomes and Measures                     Rates of 14-day statin refill following each randomization, with 28-day follow-up.                                                           Results                     Among 20 604 participants (mean [SD] age, 54.8 [9.0] years; 40.9% female; 27.8% Asian, 10.9% Black, 33.6% Hispanic; 15.3% with established ASCVD), initial digital outreach increased 14-day statin refill vs usual communication (14.4% vs 12.0%; adjusted risk difference, 2.3 percentage points [95% CI, 1.3-3.4]; adjusted risk ratio, 1.20 [95% CI, 1.10-1.30]). Among initial nonresponders, second-stage outreach further increased refill (13.0% vs 10.4%; adjusted risk difference, 2.5 percentage points [95% CI, 1.3-3.7]; adjusted risk ratio, 1.25 [95% CI, 1.11-1.39]). Switching communication modalities did not improve refill vs repeating the same modality (13.2% vs 12.5%; adjusted risk ratio, 1.06 [95% CI, 0.94-1.17]). Cumulative statin refill through 28 days was higher in those receiving any digital outreach vs usual communication (24.9% vs 21.2%; adjusted hazard ratio, 1.21 [95% CI, 1.13-1.30]). Results were consistent across prespecified subgroups.                                                           Conclusions and Relevance                     Among adults with a statin indication and recent statin nonadherence, adaptive outreach improved short-term refill vs usual communication. A second outreach produced additional gains among initial nonresponders, although switching communication modalities provided no additional benefit. These findings support adaptive, sequential health system outreach strategies to improve cardiovascular prevention when integrated into population health programs.                                                           Trial Registration                                            ClinicalTrials.gov Identifier:                       NCT07522645",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-03",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-04",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.17092",
+        "doi": "10.1001/jama.2026.17092",
+        "url": "https://doi.org/10.1001/jama.2026.17092",
+        "title": "Digital Outreach to Improve Statin Refills in Patients With Low Statin Adherence",
+        "authors": [],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-03",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-04",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.9970",
+        "doi": "10.1001/jama.2026.9970",
+        "url": "https://doi.org/10.1001/jama.2026.9970",
+        "title": "Communicating With Families About Brain Death",
+        "authors": [
+          "Adela Wu",
+          "Karen G. Hirsch",
+          "David Magnus"
+        ],
+        "abstract": "This JAMA Insights discusses suggested language for clinicians to use when communicating with families about brain death evaluation and determination.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-03",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-04",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.14394",
+        "doi": "10.1001/jama.2026.14394",
+        "url": "https://doi.org/10.1001/jama.2026.14394",
+        "title": "What Is Gastroparesis?",
+        "authors": [
+          "Kristin L. Walter"
+        ],
+        "abstract": "This JAMA Patient Page describes who is affected by gastroparesis, common symptoms and risk factors, and diagnosis and treatment.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-03",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-04",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2025.16088",
+        "doi": "10.1001/jama.2025.16088",
+        "url": "https://doi.org/10.1001/jama.2025.16088",
+        "title": "JAMA",
+        "authors": [],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-03",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-04",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1097/ede.0000000000002063",
+        "doi": "10.1097/ede.0000000000002063",
+        "url": "https://doi.org/10.1097/ede.0000000000002063",
+        "title": "The + Files: Disentangling Different Aspects Of Positivity",
+        "authors": [
+          "Katharina Ring",
+          "Ian Shrier",
+          "Michael Schomaker"
+        ],
+        "abstract": "Positivity is a crucial identification assumption concerning a possible zero density/probability. It is central to most epidemiological studies pursuing causal goals, yet discourse around it is limited and sometimes contradictory. Using the causal roadmap, we identify two issues often considered positivity issues, neither of which coincides with the original density/probability-based definition: the target issue, which stems from logical problems with the scientific question, and the estimation issue, which is often referred to as sparsity or practical positivity violation. Both are related to positivity, but treating them as purely density/probability-driven phenomena often leads to suboptimal handling. We also question whether true positivity violations at the identification stage can even meaningfully arise in real-world settings. We propose a workflow enabling researchers to identify and address all issues discussed under the positivity umbrella adequately. A fictitious study serves as a running example, developing the central insights in an accessible, step-by-step manner.",
+        "source": "Epidemiology",
+        "issn": "1044-3983",
+        "date": "2026-11-03",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-04",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1001/jama.2026.22318",
         "doi": "10.1001/jama.2026.22318",
         "url": "https://doi.org/10.1001/jama.2026.22318",
@@ -50902,6 +51643,107 @@
         "fetched_from": "crossref"
       },
       {
+        "id": "doi:10.1016/j.socscimed.2026.119997",
+        "doi": "10.1016/j.socscimed.2026.119997",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.119997",
+        "title": "Assembling depression: Ambivalent Relations Between Experiential and Clinical Knowledge",
+        "authors": [
+          "By Xènia Balaguer",
+          "Joan Moyà-Köhler",
+          "Miquel Domènech"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-11-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-11-03",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.socscimed.2026.120001",
+        "doi": "10.1016/j.socscimed.2026.120001",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.120001",
+        "title": "Digital Access as a Conditional Resource: Women's Barriers to Health Care in 20 Demographic and Health Surveys",
+        "authors": [
+          "Jie Zhuo"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-11-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-11-03",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.socscimed.2026.119999",
+        "doi": "10.1016/j.socscimed.2026.119999",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.119999",
+        "title": "Do patients' gender and age profiles influence oncologists' treatment recommendations? A factorial survey experiment",
+        "authors": [
+          "Sandro Tiziano Stoffel",
+          "Matthias Schwenkglenks",
+          "Kathrin Heinrich",
+          "Marina Elena Cazzaniga",
+          "Aitor Azkarate Martinez",
+          "Berna Cennet Özdemir"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-11-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-11-03",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.socscimed.2026.120002",
+        "doi": "10.1016/j.socscimed.2026.120002",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.120002",
+        "title": "A Cross-National Comparison of Mental Health Policy Texts during the COVID-19 Pandemic",
+        "authors": [
+          "Guangjin Xie",
+          "Shen Xu",
+          "Jinghan Hu",
+          "Qiongyao Zhong",
+          "Hanmei Liu",
+          "Ruoqin Cheng",
+          "Zhihong Ren"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-11-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-11-03",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1097/ede.0000000000002037",
         "doi": "10.1097/ede.0000000000002037",
         "url": "https://doi.org/10.1097/ede.0000000000002037",
@@ -51038,107 +51880,6 @@
           "healthReform"
         ],
         "firstSeen": "2026-11-02",
-        "fetched_from": "crossref"
-      },
-      {
-        "id": "doi:10.1016/j.socscimed.2026.119997",
-        "doi": "10.1016/j.socscimed.2026.119997",
-        "url": "https://doi.org/10.1016/j.socscimed.2026.119997",
-        "title": "Assembling depression: Ambivalent Relations Between Experiential and Clinical Knowledge",
-        "authors": [
-          "By Xènia Balaguer",
-          "Joan Moyà-Köhler",
-          "Miquel Domènech"
-        ],
-        "abstract": "",
-        "source": "Social Science &amp; Medicine",
-        "issn": "0277-9536",
-        "date": "2026-11-01",
-        "subjects": [],
-        "domains": [
-          "healthReform",
-          "elderCare",
-          "agingHealth",
-          "socialWork"
-        ],
-        "firstSeen": "2026-11-03",
-        "fetched_from": "crossref"
-      },
-      {
-        "id": "doi:10.1016/j.socscimed.2026.120001",
-        "doi": "10.1016/j.socscimed.2026.120001",
-        "url": "https://doi.org/10.1016/j.socscimed.2026.120001",
-        "title": "Digital Access as a Conditional Resource: Women's Barriers to Health Care in 20 Demographic and Health Surveys",
-        "authors": [
-          "Jie Zhuo"
-        ],
-        "abstract": "",
-        "source": "Social Science &amp; Medicine",
-        "issn": "0277-9536",
-        "date": "2026-11-01",
-        "subjects": [],
-        "domains": [
-          "healthReform",
-          "elderCare",
-          "agingHealth",
-          "socialWork"
-        ],
-        "firstSeen": "2026-11-03",
-        "fetched_from": "crossref"
-      },
-      {
-        "id": "doi:10.1016/j.socscimed.2026.119999",
-        "doi": "10.1016/j.socscimed.2026.119999",
-        "url": "https://doi.org/10.1016/j.socscimed.2026.119999",
-        "title": "Do patients' gender and age profiles influence oncologists' treatment recommendations? A factorial survey experiment",
-        "authors": [
-          "Sandro Tiziano Stoffel",
-          "Matthias Schwenkglenks",
-          "Kathrin Heinrich",
-          "Marina Elena Cazzaniga",
-          "Aitor Azkarate Martinez",
-          "Berna Cennet Özdemir"
-        ],
-        "abstract": "",
-        "source": "Social Science &amp; Medicine",
-        "issn": "0277-9536",
-        "date": "2026-11-01",
-        "subjects": [],
-        "domains": [
-          "healthReform",
-          "elderCare",
-          "agingHealth",
-          "socialWork"
-        ],
-        "firstSeen": "2026-11-03",
-        "fetched_from": "crossref"
-      },
-      {
-        "id": "doi:10.1016/j.socscimed.2026.120002",
-        "doi": "10.1016/j.socscimed.2026.120002",
-        "url": "https://doi.org/10.1016/j.socscimed.2026.120002",
-        "title": "A Cross-National Comparison of Mental Health Policy Texts during the COVID-19 Pandemic",
-        "authors": [
-          "Guangjin Xie",
-          "Shen Xu",
-          "Jinghan Hu",
-          "Qiongyao Zhong",
-          "Hanmei Liu",
-          "Ruoqin Cheng",
-          "Zhihong Ren"
-        ],
-        "abstract": "",
-        "source": "Social Science &amp; Medicine",
-        "issn": "0277-9536",
-        "date": "2026-11-01",
-        "subjects": [],
-        "domains": [
-          "healthReform",
-          "elderCare",
-          "agingHealth",
-          "socialWork"
-        ],
-        "firstSeen": "2026-11-03",
         "fetched_from": "crossref"
       },
       {
@@ -51609,6 +52350,232 @@
           "healthReform"
         ],
         "firstSeen": "2026-11-03",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.socscimed.2026.120000",
+        "doi": "10.1016/j.socscimed.2026.120000",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.120000",
+        "title": "“Like jail”: A qualitative study of inpatient eating disorder care experiences in Singapore",
+        "authors": [
+          "Pei Xian Tan",
+          "Rayner Kay Jin Tan"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-11-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-11-04",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.socscimed.2026.119989",
+        "doi": "10.1016/j.socscimed.2026.119989",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.119989",
+        "title": "“We’re Like Walking on Thin Ice for Our Happiness”: Platform-mediated Reproductive Governance in Chinese Women’s IVF Narratives on RedNote",
+        "authors": [
+          "Yuying He",
+          "Kaibin Xu"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-11-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-11-04",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.socscimed.2026.120003",
+        "doi": "10.1016/j.socscimed.2026.120003",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.120003",
+        "title": "A cure for cancer... or knee problems? How online search patterns suggest a misalignment between the framing of stem cell medicine in research and its configuration in online search",
+        "authors": [
+          "Anders Grundtvig",
+          "Anders Kristian Munk",
+          "Klaus Lindegaard Hoeyer"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-11-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-11-04",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.socscimed.2026.119998",
+        "doi": "10.1016/j.socscimed.2026.119998",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.119998",
+        "title": "Stigma cycles, epidemic memory, and the social production of transmission conditions: qualitative evidence from Sierra Leone’s 2025 mpox outbreak",
+        "authors": [
+          "Eric Nzirakaindi Ikoona",
+          "Lucy Namulemo",
+          "Mary Magdalene Sinnah",
+          "Mohamed Alex Vandi",
+          "Foday Sahr"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-11-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-11-04",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/s0140-6736(26)02104-5",
+        "doi": "10.1016/s0140-6736(26)02104-5",
+        "url": "https://doi.org/10.1016/s0140-6736(26)02104-5",
+        "title": "Long-term outcomes after percutaneous coronary intervention with drug-eluting stents versus coronary artery bypass grafting for left main coronary artery disease: a prospective analysis of the multicentre IRIS-MAIN registry",
+        "authors": [
+          "Seong-Bong Wee",
+          "Do-Yoon Kang",
+          "Jung-Min Ahn",
+          "Ju Hyeon Kim",
+          "Min-Ju Kim",
+          "Seung-Woon Rha",
+          "Sung-Ho Her",
+          "Hyo-Soo Kim",
+          "Hanbit Park",
+          "Chang-Wook Nam",
+          "Upendra Kaul",
+          "Won-Yong Shin",
+          "Jay-Young Rhew",
+          "June-Hong Kim",
+          "Jang Young Kim",
+          "Teguh Santoso",
+          "Woo-Young Chung",
+          "Youngkeun Ahn",
+          "Bong-Ki Lee",
+          "Jei Keon Chae",
+          "Jin-Bae Lee",
+          "Soon Jun Hong",
+          "Jin-Ok Jeong",
+          "Kyu-Rok Han",
+          "Alan Fong",
+          "Rakesh Sapra",
+          "Dong-Bin Kim",
+          "Ho Jin Kim",
+          "Kitae Kim",
+          "Joon Bum Kim",
+          "Jae Suk Yoo",
+          "Cheol Hyun Chung",
+          "Seung-Jung Park",
+          "Duk-Woo Park",
+          "Duk-Woo Park",
+          "Seung-Jung Park",
+          "Jung-Min Ahn",
+          "Do-Yoon Kang",
+          "Ju Hyeon Kim",
+          "Seong-Bong Wee",
+          "Cheol-hyun Chung",
+          "Joon Bum Kim",
+          "Jae Suk Yoo",
+          "Ho Jin Kim",
+          "Kitae Kim",
+          "Seung-Woon Rha",
+          "Sung-Ho Her",
+          "Hyo-Soo Kim",
+          "Hanbit Park",
+          "Chang-Wook Nam",
+          "Won-Yong Shin",
+          "Jay-Young Rhew",
+          "June-Hong Kim",
+          "Jang Young Kim",
+          "Woo-Young Chung",
+          "Youngkeun Ahn",
+          "Bong-Ki Lee",
+          "Jei Keon Chae",
+          "Jin-Bae Lee",
+          "Soon Jun Hong",
+          "Jin-Ok Jeong",
+          "Kyu-Rok Han",
+          "Dong-Bin Kim",
+          "Woo-Jung Park",
+          "Seung-Uk Lee",
+          "Sang-Gon Lee",
+          "Jong-Seon Park",
+          "Deuk-Young Nah",
+          "Jong-Min Lee",
+          "Ju-Young Yang",
+          "Hyuck-Moon Kwon",
+          "Tae-Hyun Yang",
+          "Chul-Soo Park",
+          "Ki-Bae Seung",
+          "Keon-Woong Moon",
+          "Nae-Hee Lee",
+          "Byung-Jin Kim",
+          "Shirish Hiremath",
+          "Upendra Kaul",
+          "Rakesh Sapra",
+          "Mathew Samuel Kalarickal",
+          "Parneesh Arora",
+          "Masahiro Natsuaki",
+          "Sunao Nakamura",
+          "Toshiya Muramatsu",
+          "Teguh Santoso",
+          "Muhammad Munawar",
+          "Alan Fong",
+          "Yoon Sin Chong"
+        ],
+        "abstract": "",
+        "source": "The Lancet",
+        "issn": "0140-6736",
+        "date": "2026-11-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-04",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/s0140-6736(26)02048-9",
+        "doi": "10.1016/s0140-6736(26)02048-9",
+        "url": "https://doi.org/10.1016/s0140-6736(26)02048-9",
+        "title": "Foodborne disease outbreaks in the USA and the need for prevention",
+        "authors": [
+          "Shannon E Majowicz",
+          "Lucy J Robertson",
+          "Martyn D Kirk"
+        ],
+        "abstract": "",
+        "source": "The Lancet",
+        "issn": "0140-6736",
+        "date": "2026-11-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-04",
         "fetched_from": "crossref"
       },
       {
@@ -82420,6 +83387,552 @@
         "fetched_from": "crossref"
       },
       {
+        "id": "doi:10.1093/gerona/glag255",
+        "doi": "10.1093/gerona/glag255",
+        "url": "https://doi.org/10.1093/gerona/glag255",
+        "title": "Identification of Novel Protein Biomarkers and Lifestyle-Modifiable Targets for Osteoporosis: Evidence from Mendelian Randomization and Colocalization Analyses",
+        "authors": [
+          "Danyang Zhao",
+          "Lidong Su",
+          "Jiubo Fan",
+          "Ziyan Guo",
+          "Xingguang Luo",
+          "Yimin Kang",
+          "Fan Wang"
+        ],
+        "abstract": "Abstract                                        Background                     Osteoporosis (OP), a degenerative bone disease prevalent in aging populations, can lead to various complications and significantly impair the quality of life of elderly patients. We aimed to identify OP-related protein biomarkers and modifiable lifestyle factors for OP prevention in older adults.                                                           Methods                     Summary-data-based Mendelian randomization (SMR) and colocalization analyses were conducted to assess the possible causal effects of plasma protein on OP. Genetic data for plasma proteins were derived from the deCODE (4907 proteins) and UK Biobank-PPP (2923 proteins) datasets. OP summary statistics were obtained from the FinnGen study (10,461 cases). Two-sample Mendelian randomization (TSMR) analyses were subsequently performed to evaluate the effects of lifestyle factors on OP-related proteins.                                                           Results                     Primary SMR analysis identified 31 and 24 OP-related proteins in the deCODE and UKB-PPP cohorts, respectively. Cross-analysis of both datasets identified nine OP-related plasma protein targets. Among them, RSPO3 showed moderate evidence of colocalization with OP (PP.H4 = 0.643). TSMR analysis suggested that genetically predicted higher body mass index (BMI) was associated with increased RSPO3 levels (β = 0.08, 95% CI 0.02 to 0.14, p = 0.001), whereas type 2 diabetes (T2DM) was associated with lower RSPO3 levels (β = -5.71, 95% CI -11.16 to -0.26, p = 0.045).                                                           Conclusions                     This study identified nine plasma protein biomarkers with genetic evidence supporting their association with OP risk, with RSPO3 showing the strongest supportive evidence among the prioritized targets. These findings offer new insights into OP etiology and highlight how metabolic traits may influence bone health via specific protein mediators.",
+        "source": "The Journals of Gerontology, Series A: Biological Sciences and Medical Sciences",
+        "issn": "1079-5006",
+        "date": "2026-11-03",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "elderCare"
+        ],
+        "firstSeen": "2026-11-04",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70822",
+        "doi": "10.1111/jgs.70822",
+        "url": "https://doi.org/10.1111/jgs.70822",
+        "title": "Changes in Social Wellbeing Among Older Adults With Limited Prognosis: Results From a Nationally Representative Cohort",
+        "authors": [
+          "Louise Hawkley",
+          "Kristen Wroblewski",
+          "Linda Waite",
+          "Ashwin Kotwal"
+        ],
+        "abstract": "ABSTRACT                                        Background                     Physicians use clinical prognostic estimates to identify medical tests and treatments likely to benefit patients within their lifetime. Poor social wellbeing is associated with mortality, but it is unclear if prognostic indices can identify older adults at risk for worsening social well‐being. We examined associations between a mortality prognostic index and social wellbeing at baseline and over 2 years to inform care priorities in the context of a limited prognosis.                                                           Methods                     Data from the National Social Life, Health and Aging Project (NSHAP) Round 4 (2021–2023) and Round 4.2 (2024) included 1630 older adults. Social measures included loneliness, living alone, and at least monthly volunteering, socializing, and attending community groups and religious services. Scores of 8 or higher on the Lee Index (range: 0–26) indicated high mortality risk. Survey‐weighted logistic regressions adjusting for sociodemographic and health covariates were used to compare baseline and 2‐year changes in social wellbeing in the high versus low mortality risk group.                                                           Results                     Participants had a mean age of 70.3 years, and were 54% female, 62% White, 20% Black, and 14% non‐Black Hispanic. At baseline, higher mortality risk participants had poorer social wellbeing on all measures except socializing. Among those not lonely at baseline, 24.2% of higher versus 15.6% of lower risk participants became lonely at follow‐up (aOR 1.47; 95% CI: 1.01–2.14). Among those socializing at least monthly at baseline, 19.0% of higher versus 12.3% of lower risk participants transitioned to less‐than‐monthly socializing (aOR 1.60; 95% CI: 0.97–2.65). Higher risk participants had larger declines in all measures of social wellbeing at follow‐up.                                                           Conclusions                     Older adults with higher mortality risk had poorer social wellbeing at baseline and were more likely to become lonely and decrease social participation at follow‐up. Prognostic information may help clinicians avoid low‐value medical interventions while prioritizing interventions to support meaningful social connection.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-11-03",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-04",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70817",
+        "doi": "10.1111/jgs.70817",
+        "url": "https://doi.org/10.1111/jgs.70817",
+        "title": "Weight Trajectories Across Antiretroviral Therapy Regimen Switches in Older People With\n                    <scp>HIV</scp>\n                    in China: A Nationwide Multicenter Cohort Study",
+        "authors": [
+          "Chenrui Li",
+          "Bin Li",
+          "Song Fan",
+          "Lijing Wang",
+          "Xinsheng Wu",
+          "Ping Ma",
+          "Lianguo Ruan",
+          "Yaokai Chen",
+          "Rugang Wang",
+          "Yuxia Song",
+          "Yanshan Cai",
+          "Fengjuan Chen",
+          "Xiaojun Meng",
+          "Ying Qiao",
+          "Yong Gao",
+          "Zhongsi Hong",
+          "Tong Zhang",
+          "Meiyin Zou",
+          "Yanhua Fu",
+          "Bin Su",
+          "Jun Zou",
+          "Hui Wang",
+          "Yong Cai",
+          "Huachun Zou",
+          "Ying Wang"
+        ],
+        "abstract": "ABSTRACT                                        Background                     As China's HIV epidemic ages rapidly, evaluating metabolic risks in older people with HIV (PWH) is increasingly urgent. Weight gain associated with integrase strand transfer inhibitors (INSTIs) has drawn increasing attention, but data on older Chinese PWH remain scarce.                                                           Methods                     We conducted a retrospective cohort study of PWH aged ≥ 50 years across 19 cities in China within the National Free Antiretroviral Therapy Programme. We assessed weight change trajectories across antiretroviral therapy regimen switches among non‐nucleoside reverse transcriptase inhibitors (NNRTIs), INSTIs, and protease inhibitors (PIs), using piecewise mixed‐effects models and restricted cubic splines. We performed subgroup analyses to assess whether associations differed by sex, age, and baseline metabolic risk.                                                           Results                                            Among 5618 participants, the adjusted weight‐change slope increased from 0.41 kg/year before switching to 0.90 kg/year afterward (                       p                        = 0.03). Slope changes were +0.76 kg/year for NNRTI→INSTI (                       p                        = 0.03), +4.76 kg/year for PI→INSTI (                       p                        &lt; 0.01), and −2.07 kg/year for INSTI→NNRTI (                       p                        = 0.03). Exploratory analyses suggested numerically stronger associations among females, adults aged ≥ 65 years, and participants with baseline metabolic risk.                                                                                Conclusions                     Switching to INSTI‐based regimens was associated with steeper weight‐gain trajectories compared to switching to other regimens, while switching from an INSTI to an NNRTI was associated with attenuation. These findings support weight and cardiometabolic monitoring after regimen changes, while decisions regarding ART modification should remain individualized.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-11-03",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-04",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08601-5",
+        "doi": "10.1186/s12877-026-08601-5",
+        "url": "https://doi.org/10.1186/s12877-026-08601-5",
+        "title": "Digital health literacy for older adults: a rapid scoping review",
+        "authors": [
+          "Andrea C. Tricco",
+          "Delana Theiventhiran",
+          "Lahmea Navaratnerajah",
+          "Shahab Sayfi",
+          "Daniella Rangira",
+          "Abisha Arulselvan",
+          "Quenby Mahood",
+          "Janet Gunderson",
+          "Marilyn Macdonald",
+          "Gordon Cormack",
+          "Maura Grossman",
+          "Sharon Straus"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-03",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-04",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08592-3",
+        "doi": "10.1186/s12877-026-08592-3",
+        "url": "https://doi.org/10.1186/s12877-026-08592-3",
+        "title": "Anterior subcutaneous pelvic internal fixation versus conservative treatment for type iib and iic fragility fractures of the pelvis in older adults: a multicentre retrospective study",
+        "authors": [
+          "Fuming Wang",
+          "Shaozheng Yang",
+          "Jianqiang Lai",
+          "Dalong Wu",
+          "Huifeng Zheng",
+          "Yong Lian",
+          "Chao Ding",
+          "Sushuang Ma",
+          "Heng Li",
+          "Hua Zhong",
+          "Zhengcai Yang",
+          "Hongfen Chen"
+        ],
+        "abstract": "Abstract                                        Objective                     To compare anterior subcutaneous pelvic internal fixation with conservative treatment in older adults with type IIb and IIc fragility fractures of the pelvis (FFP).                                                           Methods                                            We included 217 patients with type IIb or IIc FFP treated at five trauma centres between January 2020 and December 2022 (operative,                       n                        = 86; conservative,                       n                        = 131). Demographics, comorbidities, length of stay, complications, costs, visual analogue scale (VAS) pain scores, mortality, Barthel Index (BI), instrumental activities of daily living (IADL) score and walking ability were analysed. Follow-up was ≥ 1 year. Multivariable regression and Kaplan–Meier analyses were performed.                                                                                Results                                            Follow-up duration did not differ between groups (28.3 ± 13.2 vs. 29.0 ± 17.7 months;                       P                        = 0.733). The conservative group was older, with more comorbidities and complications but shorter stays and lower costs. Full weight-bearing occurred earlier in the operative group, whereas fracture-healing time did not differ. After adjustment, surgery was associated with lower odds of poorer walking ability (OR = 0.081,                       P                        = 0.001), higher BI (B = 3.318,                       P                        = 0.018) and lower VAS pain scores (B = − 1.219,                       P                        &lt; 0.001), but not with IADL score (B = 0.844,                       P                        = 0.109). Mortality did not differ significantly (log-rank                       P                        = 0.074).                                                                                Conclusion                     Patients who underwent surgery were younger, had better pre-injury function and showed more favourable outcomes. Causality remains uncertain because of the retrospective design, baseline imbalances and strong correlation between pre- and post-injury walking ability. Surgical indications should balance potential benefits against higher costs and procedure-related complications.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-03",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-04",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08616-y",
+        "doi": "10.1186/s12877-026-08616-y",
+        "url": "https://doi.org/10.1186/s12877-026-08616-y",
+        "title": "Developing and testing the effectiveness of mindfulness intervention for reducing loneliness in Hong Kong older adults: a hybrid sequential multiple assignment randomized trial, micro randomized trial experimental design study protocol",
+        "authors": [
+          "Vivien Foong Yee Tang",
+          "Zhiran Huang",
+          "Da Jiang",
+          "Zhuoyi Wen",
+          "Alex Yuefeng Zhu",
+          "Lina Vyas",
+          "Haoran Xie",
+          "Philip Leung Ho Yu",
+          "Mike Ka Pui So",
+          "Jing Yu",
+          "Phoenix Kit-han Mo",
+          "Jing Liao",
+          "Kee-Lee Chou"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-03",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-04",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08489-1",
+        "doi": "10.1186/s12877-026-08489-1",
+        "url": "https://doi.org/10.1186/s12877-026-08489-1",
+        "title": "Adding blood flow restriction to low-load resistance training for sarcopenia and cognitive function in oldest-old adults: an exploratory randomized controlled trial",
+        "authors": [
+          "Haodong Tian",
+          "Haoran Wang",
+          "Li Huang",
+          "Juncheng Si",
+          "Guo Chen",
+          "Lu Wang",
+          "Jinlong Wu",
+          "Yukun Lu",
+          "Zhaozhi Liu",
+          "Hanglin Yu",
+          "Haowei Liu",
+          "Zhidan Luo",
+          "Jie Zhang",
+          "Xingrong Tan",
+          "Li Peng"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-03",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-04",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08470-y",
+        "doi": "10.1186/s12877-026-08470-y",
+        "url": "https://doi.org/10.1186/s12877-026-08470-y",
+        "title": "Machine learning algorithms for identifying ADL limitation in Chinese older adults with chronic conditions: development and internal-external validation",
+        "authors": [
+          "Yuxin He",
+          "Bo Xin",
+          "Yixin Wu",
+          "Shan Yang",
+          "Na Han",
+          "Jiyun Wu",
+          "Yanping Ren",
+          "Wenhui Jiang"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-03",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-04",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08439-x",
+        "doi": "10.1186/s12877-026-08439-x",
+        "url": "https://doi.org/10.1186/s12877-026-08439-x",
+        "title": "Combined exercise and cognitive stimulation for people with mild cognitive impairment – interdisciplinary perspectives",
+        "authors": [
+          "Catarina Rondão",
+          "Maria Paula Mota",
+          "Paulo Pinheiro",
+          "Dulce Esteves"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-03",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-04",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08515-2",
+        "doi": "10.1186/s12877-026-08515-2",
+        "url": "https://doi.org/10.1186/s12877-026-08515-2",
+        "title": "Machine learning for detection of mild cognitive impairment using VR eye-tracking metrics in older adults: a cross-sectional study",
+        "authors": [
+          "Yinjuan Zhang",
+          "Ayun Hao",
+          "Kai Zhang",
+          "Chao Shen",
+          "Shan Cheng",
+          "Huaning Wang"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-03",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-04",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08373-y",
+        "doi": "10.1186/s12877-026-08373-y",
+        "url": "https://doi.org/10.1186/s12877-026-08373-y",
+        "title": "Evaluation of the relationship between mild cognitive impairment and CRP/Albumin ratio in the geriatric population",
+        "authors": [
+          "Handan Duman",
+          "Mehmet Kivrak",
+          "Omer Lutfi Gundogdu"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-03",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-04",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08579-0",
+        "doi": "10.1186/s12877-026-08579-0",
+        "url": "https://doi.org/10.1186/s12877-026-08579-0",
+        "title": "Cognitive-supportive features in long-term care settings: a cross-sectional observational study",
+        "authors": [
+          "Niina Wahlroos",
+          "Minna Stolt",
+          "Erja Rappe",
+          "Stefan Ahlman",
+          "Riitta Suhonen"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-03",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-04",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08622-0",
+        "doi": "10.1186/s12877-026-08622-0",
+        "url": "https://doi.org/10.1186/s12877-026-08622-0",
+        "title": "Depressive symptoms and sarcopenia risk in older adults with diabetes: a network analysis approach to understanding comorbidity",
+        "authors": [
+          "Ni Sang",
+          "Qiao-ling Yang",
+          "Ya-juan Duan",
+          "Hui Liu",
+          "Lu Han",
+          "Miao-miao Wang",
+          "Shu-han Cheng",
+          "Li Cheng"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-03",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-04",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08544-x",
+        "doi": "10.1186/s12877-026-08544-x",
+        "url": "https://doi.org/10.1186/s12877-026-08544-x",
+        "title": "Exercise snacking and physical performance in older adults: a systematic review, meta-analysis, and qualitative evidence synthesis",
+        "authors": [
+          "Hao Sun",
+          "Liangfei Shang",
+          "Fan Zhang",
+          "Zhijian Wu"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-03",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-04",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1215/00703370-12861165",
+        "doi": "10.1215/00703370-12861165",
+        "url": "https://doi.org/10.1215/00703370-12861165",
+        "title": "Is There a Democratization of Joint Physical Custody? Evidence From Europe",
+        "authors": [
+          "Anne Solaz",
+          "Eija Lindroos",
+          "Carole Bonnet",
+          "Mia Hakovirta",
+          "Daniel R. Meyer",
+          "Milla Salin"
+        ],
+        "abstract": "Highlights                   Joint physical custody remains strongly stratified by education, even in European countries where JPC is widespread. Medium-educated parents catch up with highly educated parents where JPC prevalence is high. Low-educated parents remain less likely to use JPC, regardless of its prevalence across countries. JPC use with young children remains lower, even in countries where shared care is widespread. Flexible forms of JPC (unequal share) are more common in low-prevalence countries.",
+        "source": "Demography",
+        "issn": "0070-3370",
+        "date": "2026-11-03",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "socialSecurity"
+        ],
+        "firstSeen": "2026-11-04",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1215/00703370-12871113",
+        "doi": "10.1215/00703370-12871113",
+        "url": "https://doi.org/10.1215/00703370-12871113",
+        "title": "Families, Households, Networks: Rethinking the Relational Structure of Families Through Large-Scale Network Data",
+        "authors": [
+          "Nicolás Soler",
+          "Tom Emery",
+          "Agnieszka Kanas"
+        ],
+        "abstract": "Highlights                   Register data enable researchers to study support availability in country-wide family networks. Survey data can be linked to the register networks to study actual support. Network structure is associated with self-reported availability of family support. Family networks extensively overlap because relatives are present in multiple families.",
+        "source": "Demography",
+        "issn": "0070-3370",
+        "date": "2026-11-03",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "socialSecurity"
+        ],
+        "firstSeen": "2026-11-04",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1215/00703370-12868797",
+        "doi": "10.1215/00703370-12868797",
+        "url": "https://doi.org/10.1215/00703370-12868797",
+        "title": "Parental Separation and the Quality of Ties to Extended Kin",
+        "authors": [
+          "Kateryna Sytkina",
+          "Thomas Leopold"
+        ],
+        "abstract": "Highlights                   Parental separation involves reorganization at all levels of the family system. Young adults who experienced parental separation have weaker ties to extended kin. These ties are especially weaker on the paternal side. The gaps are smaller in cases of joint physical custody after parental separation.",
+        "source": "Demography",
+        "issn": "0070-3370",
+        "date": "2026-11-03",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "socialSecurity"
+        ],
+        "firstSeen": "2026-11-04",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1215/00703370-12901668",
+        "doi": "10.1215/00703370-12901668",
+        "url": "https://doi.org/10.1215/00703370-12901668",
+        "title": "Transforming Manhood: Women's Employment and Other Sociodemographic Predictors of Testosterone in American Men",
+        "authors": [
+          "Andrew Francis-Tan"
+        ],
+        "abstract": "Highlights                   This investigation of the predictors of testosterone in American men focuses on the integration of women in the labor market. Men's exposure to women in the workplace is inversely associated with testosterone levels. Other variables significantly predict testosterone, for example, age, race and ethnicity, and marriage. Our results shed light on population-level declines in testosterone worldwide.",
+        "source": "Demography",
+        "issn": "0070-3370",
+        "date": "2026-11-03",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "socialSecurity"
+        ],
+        "firstSeen": "2026-11-04",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1097/ede.0000000000002063",
+        "doi": "10.1097/ede.0000000000002063",
+        "url": "https://doi.org/10.1097/ede.0000000000002063",
+        "title": "The + Files: Disentangling Different Aspects Of Positivity",
+        "authors": [
+          "Katharina Ring",
+          "Ian Shrier",
+          "Michael Schomaker"
+        ],
+        "abstract": "Positivity is a crucial identification assumption concerning a possible zero density/probability. It is central to most epidemiological studies pursuing causal goals, yet discourse around it is limited and sometimes contradictory. Using the causal roadmap, we identify two issues often considered positivity issues, neither of which coincides with the original density/probability-based definition: the target issue, which stems from logical problems with the scientific question, and the estimation issue, which is often referred to as sparsity or practical positivity violation. Both are related to positivity, but treating them as purely density/probability-driven phenomena often leads to suboptimal handling. We also question whether true positivity violations at the identification stage can even meaningfully arise in real-world settings. We propose a workflow enabling researchers to identify and address all issues discussed under the positivity umbrella adequately. A fictitious study serves as a running example, developing the central insights in an accessible, step-by-step manner.",
+        "source": "Epidemiology",
+        "issn": "1044-3983",
+        "date": "2026-11-03",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-04",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261500493",
+        "doi": "10.1177/13872877261500493",
+        "url": "https://doi.org/10.1177/13872877261500493",
+        "title": "White matter injury, brain aging, and cognitive decline beyond amyloid/tau",
+        "authors": [
+          "Iman Beheshti",
+          "Odelia Elkana"
+        ],
+        "abstract": "Background                     White matter injury in Alzheimer's disease is etiologically heterogeneous. Brain-predicted age difference (Brain-PAD) may capture structural vulnerability.                                                           Objective                     To test whether T1-weighted white matter signal abnormality burden (T1W-WMSA) is associated with Brain-PAD and whether Brain-PAD predicts cognitive decline and mild cognitive impairment (MCI)-to-Alzheimer's disease progression beyond white matter injury and amyloid/tau (A/T) status.                                                           Methods                     Harmonized data from the Alzheimer's Disease Sequencing Project Phenotype Harmonization Consortium (ADSP-PHC) were anchored to the cardiovascular-risk baseline. Cross-sectional regression tested associations between cardiovascular risk and T1W-WMSA and between T1W-WMSA and Brain-PAD. Mixed-effects and Cox models assessed cognitive decline and progression. We also evaluated sex interactions and A/T timing. Fluid-attenuated inversion recovery-derived white matter hyperintensity burden (FLAIR-WMH) was examined as a modality comparison.                                                           Results                     Among 601 complete cases, cardiovascular-risk burden was not associated with T1W-WMSA (β = −0.0003, 95% confidence interval [CI] −0.0470 to 0.0463; p = 0.989), whereas T1W-WMSA was associated with higher Brain-PAD (β = 6.95 years per log-unit, 95% CI 5.71 to 8.19; p &lt; 0.001). Among 369 participants, higher Brain-PAD predicted faster memory (β = −0.0244 per year; p &lt; 0.001) and executive-function decline (β = −0.0153 per year; p &lt; 0.001). Among 201 participants with MCI, Brain-PAD predicted progression to Alzheimer's disease (hazard ratio [HR] = 1.268, 95% CI 1.191 to 1.351; p &lt; 0.001). The association persisted in the pre-outcome A/T-adjusted subset (HR = 1.333, 95% CI 1.203 to 1.477; p &lt; 0.001). No prespecified sex interaction survived false-discovery-rate correction.                                                           Conclusions                     White matter injury was associated with older-appearing brain structure but should not be interpreted as exclusively vascular. Brain-PAD provided prognostic information complementary to A/T staging and white matter lesion burden.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-11-03",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-04",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261500367",
+        "doi": "10.1177/13872877261500367",
+        "url": "https://doi.org/10.1177/13872877261500367",
+        "title": "Sex differences in parietal alpha power during sustained attention are related to conflict monitoring performance in mild cognitive impairment",
+        "authors": [
+          "Zhenyu Zhang",
+          "Stefanie Enriquez-Geppert",
+          "Peter P. De Deyn",
+          "Christoph S. Herrmann",
+          "Natasha M. Maurits",
+          "Branislava Ćurčić-Blake"
+        ],
+        "abstract": "Background                     Sex differences in cognition among individuals with dementias and prodromal stages such as amnestic mild cognitive impairment (aMCI) manifest in variations in severity and prevalence, but underlying brain activity patterns remain unclear. This study is a secondary endpoint study of the Cogmax project.                                                           Objective                     We examined sex differences in parietal alpha power during an attention task (Simple Vigilance Task, SVT) and its association with conflict monitoring (Stroop Color-Word Test Part 3, T score) in individuals with aMCI.                                                           Methods                     The SVT served as the EEG recording condition because of its low cognitive demands and visually driven structure, while the Stroop task provided an independent neuropsychological measure of conflict monitoring. Seventy-seven participants (23 females; 54 males) were included. We analyzed average power spectral density (PSD) across occipital and parietal electrodes (O1-Pz-O2-P7-P8) using multitaper Fourier transform. Normalized alpha power was calculated as integrated 7–11 Hz relative to total 0.1–40 Hz PSD.                                                           Results                     All participants showed high accuracy on the SVT, indicating stable attentional engagement. Covariate-adjusted permutation tests, robust to unbalanced sample sizes, showed that females exhibited higher parietal alpha power and higher Stroop Part 3 T-scores than males. However, when Stroop performance was included as a covariate, the sex difference in alpha power became nonsignificant. A positive correlation between Stroop 3 scores and parietal alpha power was observed in females but not in males, suggesting a sex-specific relationship.                                                           Conclusions                     Parietal alpha activity may be associated with conflict monitoring performance in aMCI, particularly among females, providing evidence for sex-related neural differences in aMCI.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-11-03",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-04",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1186/s12877-026-08578-1",
         "doi": "10.1186/s12877-026-08578-1",
         "url": "https://doi.org/10.1186/s12877-026-08578-1",
@@ -85989,6 +87502,107 @@
         "fetched_from": "crossref"
       },
       {
+        "id": "doi:10.1016/j.socscimed.2026.119997",
+        "doi": "10.1016/j.socscimed.2026.119997",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.119997",
+        "title": "Assembling depression: Ambivalent Relations Between Experiential and Clinical Knowledge",
+        "authors": [
+          "By Xènia Balaguer",
+          "Joan Moyà-Köhler",
+          "Miquel Domènech"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-11-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-11-03",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.socscimed.2026.120001",
+        "doi": "10.1016/j.socscimed.2026.120001",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.120001",
+        "title": "Digital Access as a Conditional Resource: Women's Barriers to Health Care in 20 Demographic and Health Surveys",
+        "authors": [
+          "Jie Zhuo"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-11-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-11-03",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.socscimed.2026.119999",
+        "doi": "10.1016/j.socscimed.2026.119999",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.119999",
+        "title": "Do patients' gender and age profiles influence oncologists' treatment recommendations? A factorial survey experiment",
+        "authors": [
+          "Sandro Tiziano Stoffel",
+          "Matthias Schwenkglenks",
+          "Kathrin Heinrich",
+          "Marina Elena Cazzaniga",
+          "Aitor Azkarate Martinez",
+          "Berna Cennet Özdemir"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-11-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-11-03",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.socscimed.2026.120002",
+        "doi": "10.1016/j.socscimed.2026.120002",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.120002",
+        "title": "A Cross-National Comparison of Mental Health Policy Texts during the COVID-19 Pandemic",
+        "authors": [
+          "Guangjin Xie",
+          "Shen Xu",
+          "Jinghan Hu",
+          "Qiongyao Zhong",
+          "Hanmei Liu",
+          "Ruoqin Cheng",
+          "Zhihong Ren"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-11-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-11-03",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1097/ede.0000000000002037",
         "doi": "10.1097/ede.0000000000002037",
         "url": "https://doi.org/10.1097/ede.0000000000002037",
@@ -86184,14 +87798,13 @@
         "fetched_from": "crossref"
       },
       {
-        "id": "doi:10.1016/j.socscimed.2026.119997",
-        "doi": "10.1016/j.socscimed.2026.119997",
-        "url": "https://doi.org/10.1016/j.socscimed.2026.119997",
-        "title": "Assembling depression: Ambivalent Relations Between Experiential and Clinical Knowledge",
+        "id": "doi:10.1016/j.socscimed.2026.120000",
+        "doi": "10.1016/j.socscimed.2026.120000",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.120000",
+        "title": "“Like jail”: A qualitative study of inpatient eating disorder care experiences in Singapore",
         "authors": [
-          "By Xènia Balaguer",
-          "Joan Moyà-Köhler",
-          "Miquel Domènech"
+          "Pei Xian Tan",
+          "Rayner Kay Jin Tan"
         ],
         "abstract": "",
         "source": "Social Science &amp; Medicine",
@@ -86204,16 +87817,17 @@
           "agingHealth",
           "socialWork"
         ],
-        "firstSeen": "2026-11-03",
+        "firstSeen": "2026-11-04",
         "fetched_from": "crossref"
       },
       {
-        "id": "doi:10.1016/j.socscimed.2026.120001",
-        "doi": "10.1016/j.socscimed.2026.120001",
-        "url": "https://doi.org/10.1016/j.socscimed.2026.120001",
-        "title": "Digital Access as a Conditional Resource: Women's Barriers to Health Care in 20 Demographic and Health Surveys",
+        "id": "doi:10.1016/j.socscimed.2026.119989",
+        "doi": "10.1016/j.socscimed.2026.119989",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.119989",
+        "title": "“We’re Like Walking on Thin Ice for Our Happiness”: Platform-mediated Reproductive Governance in Chinese Women’s IVF Narratives on RedNote",
         "authors": [
-          "Jie Zhuo"
+          "Yuying He",
+          "Kaibin Xu"
         ],
         "abstract": "",
         "source": "Social Science &amp; Medicine",
@@ -86226,21 +87840,18 @@
           "agingHealth",
           "socialWork"
         ],
-        "firstSeen": "2026-11-03",
+        "firstSeen": "2026-11-04",
         "fetched_from": "crossref"
       },
       {
-        "id": "doi:10.1016/j.socscimed.2026.119999",
-        "doi": "10.1016/j.socscimed.2026.119999",
-        "url": "https://doi.org/10.1016/j.socscimed.2026.119999",
-        "title": "Do patients' gender and age profiles influence oncologists' treatment recommendations? A factorial survey experiment",
+        "id": "doi:10.1016/j.socscimed.2026.120003",
+        "doi": "10.1016/j.socscimed.2026.120003",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.120003",
+        "title": "A cure for cancer... or knee problems? How online search patterns suggest a misalignment between the framing of stem cell medicine in research and its configuration in online search",
         "authors": [
-          "Sandro Tiziano Stoffel",
-          "Matthias Schwenkglenks",
-          "Kathrin Heinrich",
-          "Marina Elena Cazzaniga",
-          "Aitor Azkarate Martinez",
-          "Berna Cennet Özdemir"
+          "Anders Grundtvig",
+          "Anders Kristian Munk",
+          "Klaus Lindegaard Hoeyer"
         ],
         "abstract": "",
         "source": "Social Science &amp; Medicine",
@@ -86253,22 +87864,20 @@
           "agingHealth",
           "socialWork"
         ],
-        "firstSeen": "2026-11-03",
+        "firstSeen": "2026-11-04",
         "fetched_from": "crossref"
       },
       {
-        "id": "doi:10.1016/j.socscimed.2026.120002",
-        "doi": "10.1016/j.socscimed.2026.120002",
-        "url": "https://doi.org/10.1016/j.socscimed.2026.120002",
-        "title": "A Cross-National Comparison of Mental Health Policy Texts during the COVID-19 Pandemic",
+        "id": "doi:10.1016/j.socscimed.2026.119998",
+        "doi": "10.1016/j.socscimed.2026.119998",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.119998",
+        "title": "Stigma cycles, epidemic memory, and the social production of transmission conditions: qualitative evidence from Sierra Leone’s 2025 mpox outbreak",
         "authors": [
-          "Guangjin Xie",
-          "Shen Xu",
-          "Jinghan Hu",
-          "Qiongyao Zhong",
-          "Hanmei Liu",
-          "Ruoqin Cheng",
-          "Zhihong Ren"
+          "Eric Nzirakaindi Ikoona",
+          "Lucy Namulemo",
+          "Mary Magdalene Sinnah",
+          "Mohamed Alex Vandi",
+          "Foday Sahr"
         ],
         "abstract": "",
         "source": "Social Science &amp; Medicine",
@@ -86281,7 +87890,137 @@
           "agingHealth",
           "socialWork"
         ],
-        "firstSeen": "2026-11-03",
+        "firstSeen": "2026-11-04",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/s0140-6736(26)02104-5",
+        "doi": "10.1016/s0140-6736(26)02104-5",
+        "url": "https://doi.org/10.1016/s0140-6736(26)02104-5",
+        "title": "Long-term outcomes after percutaneous coronary intervention with drug-eluting stents versus coronary artery bypass grafting for left main coronary artery disease: a prospective analysis of the multicentre IRIS-MAIN registry",
+        "authors": [
+          "Seong-Bong Wee",
+          "Do-Yoon Kang",
+          "Jung-Min Ahn",
+          "Ju Hyeon Kim",
+          "Min-Ju Kim",
+          "Seung-Woon Rha",
+          "Sung-Ho Her",
+          "Hyo-Soo Kim",
+          "Hanbit Park",
+          "Chang-Wook Nam",
+          "Upendra Kaul",
+          "Won-Yong Shin",
+          "Jay-Young Rhew",
+          "June-Hong Kim",
+          "Jang Young Kim",
+          "Teguh Santoso",
+          "Woo-Young Chung",
+          "Youngkeun Ahn",
+          "Bong-Ki Lee",
+          "Jei Keon Chae",
+          "Jin-Bae Lee",
+          "Soon Jun Hong",
+          "Jin-Ok Jeong",
+          "Kyu-Rok Han",
+          "Alan Fong",
+          "Rakesh Sapra",
+          "Dong-Bin Kim",
+          "Ho Jin Kim",
+          "Kitae Kim",
+          "Joon Bum Kim",
+          "Jae Suk Yoo",
+          "Cheol Hyun Chung",
+          "Seung-Jung Park",
+          "Duk-Woo Park",
+          "Duk-Woo Park",
+          "Seung-Jung Park",
+          "Jung-Min Ahn",
+          "Do-Yoon Kang",
+          "Ju Hyeon Kim",
+          "Seong-Bong Wee",
+          "Cheol-hyun Chung",
+          "Joon Bum Kim",
+          "Jae Suk Yoo",
+          "Ho Jin Kim",
+          "Kitae Kim",
+          "Seung-Woon Rha",
+          "Sung-Ho Her",
+          "Hyo-Soo Kim",
+          "Hanbit Park",
+          "Chang-Wook Nam",
+          "Won-Yong Shin",
+          "Jay-Young Rhew",
+          "June-Hong Kim",
+          "Jang Young Kim",
+          "Woo-Young Chung",
+          "Youngkeun Ahn",
+          "Bong-Ki Lee",
+          "Jei Keon Chae",
+          "Jin-Bae Lee",
+          "Soon Jun Hong",
+          "Jin-Ok Jeong",
+          "Kyu-Rok Han",
+          "Dong-Bin Kim",
+          "Woo-Jung Park",
+          "Seung-Uk Lee",
+          "Sang-Gon Lee",
+          "Jong-Seon Park",
+          "Deuk-Young Nah",
+          "Jong-Min Lee",
+          "Ju-Young Yang",
+          "Hyuck-Moon Kwon",
+          "Tae-Hyun Yang",
+          "Chul-Soo Park",
+          "Ki-Bae Seung",
+          "Keon-Woong Moon",
+          "Nae-Hee Lee",
+          "Byung-Jin Kim",
+          "Shirish Hiremath",
+          "Upendra Kaul",
+          "Rakesh Sapra",
+          "Mathew Samuel Kalarickal",
+          "Parneesh Arora",
+          "Masahiro Natsuaki",
+          "Sunao Nakamura",
+          "Toshiya Muramatsu",
+          "Teguh Santoso",
+          "Muhammad Munawar",
+          "Alan Fong",
+          "Yoon Sin Chong"
+        ],
+        "abstract": "",
+        "source": "The Lancet",
+        "issn": "0140-6736",
+        "date": "2026-11-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-04",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/s0140-6736(26)02048-9",
+        "doi": "10.1016/s0140-6736(26)02048-9",
+        "url": "https://doi.org/10.1016/s0140-6736(26)02048-9",
+        "title": "Foodborne disease outbreaks in the USA and the need for prevention",
+        "authors": [
+          "Shannon E Majowicz",
+          "Lucy J Robertson",
+          "Martyn D Kirk"
+        ],
+        "abstract": "",
+        "source": "The Lancet",
+        "issn": "0140-6736",
+        "date": "2026-11-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-04",
         "fetched_from": "crossref"
       },
       {
@@ -113843,6 +115582,74 @@
     ],
     "socialWork": [
       {
+        "id": "doi:10.1177/10497315261501950",
+        "doi": "10.1177/10497315261501950",
+        "url": "https://doi.org/10.1177/10497315261501950",
+        "title": "A Qualitative Study of a WeChat Support Prototype for Survivors of Child Sexual Abuse in China",
+        "authors": [
+          "Wenmei Zhou",
+          "Longtao He",
+          "Jason Jean",
+          "Yixi Lu"
+        ],
+        "abstract": "Purpose:                     Using survivor and family perspectives, this study identified priorities for an artificial intelligence (AI)-assisted WeChat prototype for child sexual abuse survivors in China.                     Methods:                     Twenty-three studies informed nine support domains. Twenty stakeholders discussed an initial prototype across two sessions; four adult survivors and two family members were interviewed after using a revised prototype. Qualitative data underwent thematic analysis.                     Results:                     Survivors valued gradual engagement and anonymous expression without immediate trauma disclosure. Named offline services conveyed professional backing, while acceptance of AI remained selective. AI dialogue was viewed as an option when approaching others felt difficult, with reservations about sensitive disclosure and automated medical judgment. Family members valued communication guidance; stakeholders emphasized moderation and clear referral responsibilities.                     Discussion:                     The findings suggest that digital support should preserve survivors’ choice over disclosure and connect them with identifiable human services. AI may support the first approach to care; clinical effectiveness and safety require further evaluation.",
+        "source": "Research on Social Work Practice",
+        "issn": "1049-7315",
+        "date": "2026-11-03",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-11-04",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/10497315261501959",
+        "doi": "10.1177/10497315261501959",
+        "url": "https://doi.org/10.1177/10497315261501959",
+        "title": "Animal-Assisted Interventions for Trauma-Exposed Children and Adolescents: A Systematic Review",
+        "authors": [
+          "Zhipeng Wu",
+          "Hao Wen",
+          "Yun Gao",
+          "Shumin Fang",
+          "Jingyi Du",
+          "Xinyu Meng",
+          "Yunlong Wang",
+          "Siqi Liu"
+        ],
+        "abstract": "Purpose:                     Animal-assisted interventions (AAIs) are widely used with trauma-exposed youth, yet whether the animal adds benefit beyond the accompanying therapy is unclear.                     Methods:                     Five databases were searched from inception to August 2026. Eleven studies yielded 73 effect sizes; uncontrolled pre–post and controlled between-condition effects were modeled separately.                     Results:                     Most studies were at serious or critical risk of bias. During participation, youth improved from posttraumatic stress (                     g                      = 0.70, 95% confidence interval [CI] [0.20, 1.20]) and internalizing symptoms (                     g                      = 0.59, 95% CI [0.24, 0.94]); other domains were positive but imprecise. In four controlled comparisons, no domain showed a detectable AAI advantage; the posttraumatic stress point estimate favored the comparators (                     g                      = −0.30, 95% CI [−1.47, 0.87]) but did not establish a difference.                     Discussion:                     Improvement during participation was observed, but incremental benefit was not. AAIs are best considered potential engagement adjuncts requiring direct evaluation rather than stand-alone trauma treatments.",
+        "source": "Research on Social Work Practice",
+        "issn": "1049-7315",
+        "date": "2026-11-03",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-11-04",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/bjsw/bcag274",
+        "doi": "10.1093/bjsw/bcag274",
+        "url": "https://doi.org/10.1093/bjsw/bcag274",
+        "title": "Empowerment based social work practices: Experiences of social workers in healthcare settings",
+        "authors": [
+          "Murat Derin",
+          "Veli Duyan"
+        ],
+        "abstract": "Abstract                   This study explores how healthcare social workers make sense of empowerment-based practice and how they enact it in everyday interventions. Specifically, it examines how social workers interpret power, powerlessness, and empowerment; how they perceive their own professional power and vulnerability; and how they translate the empowerment approach into practice within complex institutional and relational contexts. The study adopts an interpretative phenomenological approach and draws on in-depth semi-structured interviews with twenty-two social workers (fourteen women and eight men) across five clinical fields in nine cities in Türkiye. Data were analysed through iterative coding and interpretative phenomenological analysis. Three themes were identified: (i) meanings of power, powerlessness, and empowerment; (ii) professional power and powerlessness; and (iii) empowering professional practices. Empowerment was conceptualized as a dynamic, relational, and contextually situated process, negotiated through trust-building, awareness-raising, ethical positioning, and resource mediation, while simultaneously constrained by institutional conditions and interprofessional hierarchies. The study highlights the need to strengthen anti-oppressive approaches, enhance professional recognition, and develop organizational conditions that support empowerment-oriented practice within complex healthcare systems.",
+        "source": "The British Journal of Social Work",
+        "issn": "0045-3102",
+        "date": "2026-11-03",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-11-04",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1093/bjsw/bcag276",
         "doi": "10.1093/bjsw/bcag276",
         "url": "https://doi.org/10.1093/bjsw/bcag276",
@@ -116276,6 +118083,107 @@
         "fetched_from": "crossref"
       },
       {
+        "id": "doi:10.1016/j.socscimed.2026.119997",
+        "doi": "10.1016/j.socscimed.2026.119997",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.119997",
+        "title": "Assembling depression: Ambivalent Relations Between Experiential and Clinical Knowledge",
+        "authors": [
+          "By Xènia Balaguer",
+          "Joan Moyà-Köhler",
+          "Miquel Domènech"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-11-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-11-03",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.socscimed.2026.120001",
+        "doi": "10.1016/j.socscimed.2026.120001",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.120001",
+        "title": "Digital Access as a Conditional Resource: Women's Barriers to Health Care in 20 Demographic and Health Surveys",
+        "authors": [
+          "Jie Zhuo"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-11-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-11-03",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.socscimed.2026.119999",
+        "doi": "10.1016/j.socscimed.2026.119999",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.119999",
+        "title": "Do patients' gender and age profiles influence oncologists' treatment recommendations? A factorial survey experiment",
+        "authors": [
+          "Sandro Tiziano Stoffel",
+          "Matthias Schwenkglenks",
+          "Kathrin Heinrich",
+          "Marina Elena Cazzaniga",
+          "Aitor Azkarate Martinez",
+          "Berna Cennet Özdemir"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-11-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-11-03",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.socscimed.2026.120002",
+        "doi": "10.1016/j.socscimed.2026.120002",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.120002",
+        "title": "A Cross-National Comparison of Mental Health Policy Texts during the COVID-19 Pandemic",
+        "authors": [
+          "Guangjin Xie",
+          "Shen Xu",
+          "Jinghan Hu",
+          "Qiongyao Zhong",
+          "Hanmei Liu",
+          "Ruoqin Cheng",
+          "Zhihong Ren"
+        ],
+        "abstract": "",
+        "source": "Social Science &amp; Medicine",
+        "issn": "0277-9536",
+        "date": "2026-11-01",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "elderCare",
+          "agingHealth",
+          "socialWork"
+        ],
+        "firstSeen": "2026-11-03",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1093/hsw/hlag047",
         "doi": "10.1093/hsw/hlag047",
         "url": "https://doi.org/10.1093/hsw/hlag047",
@@ -117174,14 +119082,13 @@
         "fetched_from": "crossref"
       },
       {
-        "id": "doi:10.1016/j.socscimed.2026.119997",
-        "doi": "10.1016/j.socscimed.2026.119997",
-        "url": "https://doi.org/10.1016/j.socscimed.2026.119997",
-        "title": "Assembling depression: Ambivalent Relations Between Experiential and Clinical Knowledge",
+        "id": "doi:10.1016/j.socscimed.2026.120000",
+        "doi": "10.1016/j.socscimed.2026.120000",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.120000",
+        "title": "“Like jail”: A qualitative study of inpatient eating disorder care experiences in Singapore",
         "authors": [
-          "By Xènia Balaguer",
-          "Joan Moyà-Köhler",
-          "Miquel Domènech"
+          "Pei Xian Tan",
+          "Rayner Kay Jin Tan"
         ],
         "abstract": "",
         "source": "Social Science &amp; Medicine",
@@ -117194,16 +119101,17 @@
           "agingHealth",
           "socialWork"
         ],
-        "firstSeen": "2026-11-03",
+        "firstSeen": "2026-11-04",
         "fetched_from": "crossref"
       },
       {
-        "id": "doi:10.1016/j.socscimed.2026.120001",
-        "doi": "10.1016/j.socscimed.2026.120001",
-        "url": "https://doi.org/10.1016/j.socscimed.2026.120001",
-        "title": "Digital Access as a Conditional Resource: Women's Barriers to Health Care in 20 Demographic and Health Surveys",
+        "id": "doi:10.1016/j.socscimed.2026.119989",
+        "doi": "10.1016/j.socscimed.2026.119989",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.119989",
+        "title": "“We’re Like Walking on Thin Ice for Our Happiness”: Platform-mediated Reproductive Governance in Chinese Women’s IVF Narratives on RedNote",
         "authors": [
-          "Jie Zhuo"
+          "Yuying He",
+          "Kaibin Xu"
         ],
         "abstract": "",
         "source": "Social Science &amp; Medicine",
@@ -117216,21 +119124,18 @@
           "agingHealth",
           "socialWork"
         ],
-        "firstSeen": "2026-11-03",
+        "firstSeen": "2026-11-04",
         "fetched_from": "crossref"
       },
       {
-        "id": "doi:10.1016/j.socscimed.2026.119999",
-        "doi": "10.1016/j.socscimed.2026.119999",
-        "url": "https://doi.org/10.1016/j.socscimed.2026.119999",
-        "title": "Do patients' gender and age profiles influence oncologists' treatment recommendations? A factorial survey experiment",
+        "id": "doi:10.1016/j.socscimed.2026.120003",
+        "doi": "10.1016/j.socscimed.2026.120003",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.120003",
+        "title": "A cure for cancer... or knee problems? How online search patterns suggest a misalignment between the framing of stem cell medicine in research and its configuration in online search",
         "authors": [
-          "Sandro Tiziano Stoffel",
-          "Matthias Schwenkglenks",
-          "Kathrin Heinrich",
-          "Marina Elena Cazzaniga",
-          "Aitor Azkarate Martinez",
-          "Berna Cennet Özdemir"
+          "Anders Grundtvig",
+          "Anders Kristian Munk",
+          "Klaus Lindegaard Hoeyer"
         ],
         "abstract": "",
         "source": "Social Science &amp; Medicine",
@@ -117243,22 +119148,20 @@
           "agingHealth",
           "socialWork"
         ],
-        "firstSeen": "2026-11-03",
+        "firstSeen": "2026-11-04",
         "fetched_from": "crossref"
       },
       {
-        "id": "doi:10.1016/j.socscimed.2026.120002",
-        "doi": "10.1016/j.socscimed.2026.120002",
-        "url": "https://doi.org/10.1016/j.socscimed.2026.120002",
-        "title": "A Cross-National Comparison of Mental Health Policy Texts during the COVID-19 Pandemic",
+        "id": "doi:10.1016/j.socscimed.2026.119998",
+        "doi": "10.1016/j.socscimed.2026.119998",
+        "url": "https://doi.org/10.1016/j.socscimed.2026.119998",
+        "title": "Stigma cycles, epidemic memory, and the social production of transmission conditions: qualitative evidence from Sierra Leone’s 2025 mpox outbreak",
         "authors": [
-          "Guangjin Xie",
-          "Shen Xu",
-          "Jinghan Hu",
-          "Qiongyao Zhong",
-          "Hanmei Liu",
-          "Ruoqin Cheng",
-          "Zhihong Ren"
+          "Eric Nzirakaindi Ikoona",
+          "Lucy Namulemo",
+          "Mary Magdalene Sinnah",
+          "Mohamed Alex Vandi",
+          "Foday Sahr"
         ],
         "abstract": "",
         "source": "Social Science &amp; Medicine",
@@ -117271,7 +119174,29 @@
           "agingHealth",
           "socialWork"
         ],
-        "firstSeen": "2026-11-03",
+        "firstSeen": "2026-11-04",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1016/j.childyouth.2026.109336",
+        "doi": "10.1016/j.childyouth.2026.109336",
+        "url": "https://doi.org/10.1016/j.childyouth.2026.109336",
+        "title": "Across systems and underserved: a systematic scoping review of the overrepresentation of youth with high-incidence disabilities in multiple child-serving systems",
+        "authors": [
+          "Minhae Cho",
+          "Misa Kayama",
+          "Rachael Rief",
+          "Scott Marsalis"
+        ],
+        "abstract": "",
+        "source": "Children and Youth Services Review",
+        "issn": "0190-7409",
+        "date": "2026-11-01",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-11-04",
         "fetched_from": "crossref"
       },
       {
@@ -125246,11 +127171,11 @@
     ]
   },
   "totals": {
-    "socialSecurity": 1605,
-    "elderCare": 890,
-    "healthReform": 1315,
-    "agingHealth": 1247,
-    "socialWork": 497
+    "socialSecurity": 1609,
+    "elderCare": 908,
+    "healthReform": 1328,
+    "agingHealth": 1274,
+    "socialWork": 505
   },
   "feeds_ok": 41
 }
