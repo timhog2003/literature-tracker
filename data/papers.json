@@ -1,8 +1,49 @@
 {
-  "date": "2026-11-09",
-  "fetched": "2026-11-09T08:17:52+00:00",
+  "date": "2026-11-10",
+  "fetched": "2026-11-10T08:37:53+00:00",
   "domains": {
     "socialSecurity": [
+      {
+        "id": "doi:10.1215/00703370-12908775",
+        "doi": "10.1215/00703370-12908775",
+        "url": "https://doi.org/10.1215/00703370-12908775",
+        "title": "When It Rains: The Dual Impact of Rainfall on Child Survival in Rural Senegal",
+        "authors": [
+          "Hamidou Diallo",
+          "Anne-Sophie Robilliard"
+        ],
+        "abstract": "Highlights                   We analyze how rainfall anomalies affect child survival in semiarid rural Senegal. The study uses 50,000 child records over four decades from the Niakhar HDSS, the oldest in Africa. Past rain shortfalls raise child mortality while current rainfall shocks matter less. Rainfall seasonality shapes children’s vulnerability to rainfall anomalies. Food scarcity and disease exposure jointly drive these mortality effects.",
+        "source": "Demography",
+        "issn": "0070-3370",
+        "date": "2026-11-09",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "socialSecurity"
+        ],
+        "firstSeen": "2026-11-10",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1215/00703370-12908899",
+        "doi": "10.1215/00703370-12908899",
+        "url": "https://doi.org/10.1215/00703370-12908899",
+        "title": "Racial Inequalities in Health and Social Policy: Examining the Relationship Between Medicaid Spending and Self-assessed Health Among Poor Single Mothers",
+        "authors": [
+          "Amie Bostic"
+        ],
+        "abstract": "Highlights                   Greater average state Medicaid spending is associated with better self-rated health for poor single mothers. This relationship is stronger for poor, Black single mothers than poor, White or Latina single mothers. Spending variation by state generates substantial spatial inequalities in health. States with larger Black populations spend less, creating a mismatch between effectiveness and implementation.",
+        "source": "Demography",
+        "issn": "0070-3370",
+        "date": "2026-11-09",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "socialSecurity"
+        ],
+        "firstSeen": "2026-11-10",
+        "fetched_from": "crossref"
+      },
       {
         "id": "doi:10.1215/00703370-12901523",
         "doi": "10.1215/00703370-12901523",
@@ -25263,6 +25304,163 @@
     ],
     "elderCare": [
       {
+        "id": "doi:10.1186/s12877-026-08645-7",
+        "doi": "10.1186/s12877-026-08645-7",
+        "url": "https://doi.org/10.1186/s12877-026-08645-7",
+        "title": "Prevalence of sarcopenia and possible sarcopenia and factors associated with muscle strength, muscle mass, and physical performance among institutionalized and community-dwelling older adults in Sri Lanka",
+        "authors": [
+          "Thilini K. Hirimuthugodage",
+          "Thimasha H. Wijesekara",
+          "Kumari M. Rathnayake"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-10",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-10",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08665-3",
+        "doi": "10.1186/s12877-026-08665-3",
+        "url": "https://doi.org/10.1186/s12877-026-08665-3",
+        "title": "Psychometric evaluation of the Chinese version of musculoskeletal self-management questionnaire (MSK-SMQ) in older-adult chronic musculoskeletal pain (CMP) patients",
+        "authors": [
+          "Mei Jiang",
+          "Linghui Kong",
+          "Nathan Hutting",
+          "Meinan Jin"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-10",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-10",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08600-6",
+        "doi": "10.1186/s12877-026-08600-6",
+        "url": "https://doi.org/10.1186/s12877-026-08600-6",
+        "title": "Network analysis of social isolation, loneliness and depression among rural older adults in China",
+        "authors": [
+          "Chaoping Pan",
+          "Na Cao",
+          "Linwei Yu"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-10",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-10",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08681-3",
+        "doi": "10.1186/s12877-026-08681-3",
+        "url": "https://doi.org/10.1186/s12877-026-08681-3",
+        "title": "Hearing assistance technologies and social health among individuals with care and support needs: a scoping review",
+        "authors": [
+          "Bugse Yüceer",
+          "Charlotte Janning",
+          "Seda Güney",
+          "Karin Wolf-Ostermann"
+        ],
+        "abstract": "Abstract                                        Background                     Hearing loss can affect communication, social interaction, participation, and the maintenance of social relationships, particularly among individuals who require care or support in everyday life. Hearing assistance technologies (HATs) may facilitate communication, but their relationship with the multiple dimensions of social health remains insufficiently understood. A multidimensional social-health framework encompassing Capacity, Independence, Social Participation, Structure, Function, and Appraisal provides a basis for examining these relationships beyond individual hearing outcomes. This scoping review aimed to map the existing evidence on HATs in relation to social health among individuals with care and support needs.                                                           Methods                     This scoping review followed the PRISMA-ScR guidelines and the methodological framework proposed by Arksey and O’Malley and further refined by Levac. PubMed, CINAHL, Scopus, the Cochrane Library, Ovid MEDLINE, Web of Science, and IEEE Xplore were searched. Studies were eligible if they included individuals aged ≥ 18 years with care and support needs and examined HATs in relation to findings relevant to social health. Data were charted and synthesised descriptively, and findings were organised according to the six domains of the multidimensional social-health framework, comprising Capacity, Independence, Social Participation, Structure, Function, and Appraisal.                                                           Results                     The searches identified 1,145 records, of which 21 studies met the inclusion criteria. The included samples were predominantly older. Findings were most frequently mapped to the Appraisal and Social Participation domains, whereas Structure and Function were comparatively underrepresented. Intervention findings included improvements in communication-related outcomes and reductions in hearing-related participation restrictions, whereas findings for loneliness, relationship satisfaction, social-network characteristics, and broader social engagement were less consistent. Qualitative findings highlighted stigma and perceived social judgement, with the social acceptability of hearing technologies also described in relation to everyday interaction and technology use.                                                           Conclusions                     Evidence on HATs in relation to social health among individuals with care and support needs remains heterogeneous and uneven across social-health domains. Limited attention to the structural and functional dimensions of social relationships highlights the need for more comprehensive assessment of social health in hearing-care research. Future studies should adopt longitudinal, network-sensitive, and culturally responsive approaches and consider the interpersonal, environmental, and care contexts in which HATs are used.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-10",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-10",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08649-3",
+        "doi": "10.1186/s12877-026-08649-3",
+        "url": "https://doi.org/10.1186/s12877-026-08649-3",
+        "title": "How perceived social support and social engagement shape older people’s well-being in Ethiopia",
+        "authors": [
+          "Keshab Prasad Timalsina",
+          "Habtamu Sewunet Mekonnen"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-10",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-10",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08664-4",
+        "doi": "10.1186/s12877-026-08664-4",
+        "url": "https://doi.org/10.1186/s12877-026-08664-4",
+        "title": "Perspectives and experiences of caregivers regarding nursing home residents: a qualitative research",
+        "authors": [
+          "Gülfidan Başer",
+          "Doğa Başer",
+          "Filiz Hi̇sar"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-10",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-10",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70824",
+        "doi": "10.1111/jgs.70824",
+        "url": "https://doi.org/10.1111/jgs.70824",
+        "title": "<scp>GERI</scp>\n                    ‐\n                    <scp>RISK</scp>\n                    : A Quality Improvement Initiative to Screen for Social Risk in a Geriatric Care Clinic",
+        "authors": [
+          "Lucie Nguyen",
+          "Sapna Vyas",
+          "Patricia Ferguson Reyher",
+          "Ramona Rhodes",
+          "Jessica H. Voit"
+        ],
+        "abstract": "ABSTRACT                                        Background                     Unmet social determinant of health (SDOH) needs can impede access to healthcare and increase morbidity and mortality for older adults. Screening for SDOH takes time, and primary care clinicians often have competing demands.                                                           Methods                     Using a quality improvement (QI) approach, we created a systematic method to screen for SDOH needs as well as perceived health, activities of daily living, instrumental activities of daily living, and internet use among patients seen in a geriatric medicine clinic. Patients screened were from one physician's panel with scheduled primary care appointments in the upcoming 6 months. Epic electronic medical record system and REDCap were used for documentation. We used the plan‐do‐study‐act (PDSA) methodology to improve the screening.                                                           Results                     Of the 368 patients contacted, 224 (61%) completed screening, with 210 (94%) of those patients identifying at least one unmet SDOH need. Excluding screening for tobacco use and depression (which were already screened at a high rate), screening increased by 2%–33% for most SDOH.                                                           Conclusion                     Telephone screening is a feasible method to identify patients' SDOH needs. Next steps include expanding the screening to additional physicians' patient panels, conducting additional PDSA cycles to further improve screening rates, and integrating these methods into the standard clinic workflow.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-11-09",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-10",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1186/s12877-026-08651-9",
         "doi": "10.1186/s12877-026-08651-9",
         "url": "https://doi.org/10.1186/s12877-026-08651-9",
@@ -49724,6 +49922,266 @@
       }
     ],
     "healthReform": [
+      {
+        "id": "doi:10.1001/jama.2026.24080",
+        "doi": "10.1001/jama.2026.24080",
+        "url": "https://doi.org/10.1001/jama.2026.24080",
+        "title": "Orforglipron for Obstructive Sleep Apnea",
+        "authors": [
+          "Atul Malhotra",
+          "Daniel J. Gottlieb",
+          "Holger Woehrle",
+          "Ellen B. Dennehy",
+          "Giulia Calamai",
+          "Zhuqing Liu",
+          "Sujatro Chakladar",
+          "Ronan Grimes",
+          "Beverly L. Falcon",
+          "Vaishnavi Kundel",
+          "Juan Jose Morales Virgen",
+          "Melchor Alpizar Salazar",
+          "Hsueh-Yu Li",
+          "Pablo Costanzo",
+          "Apinya Vutikullird",
+          "Thomas Schürholz",
+          "Ryutaro Shirahama",
+          "Luis Larrateguy",
+          "Gary Soucie",
+          "Katharina Lederer",
+          "Guixia Wang",
+          "Iwao Gohma",
+          "Xiaozhen Jiang",
+          "John Hudson",
+          "Kei Nakamura",
+          "Francisco Lopez Maldonado",
+          "Cintia Cercato",
+          "Liang-Wen Hang",
+          "Thomas Schaum",
+          "Ludger Rose",
+          "Xiaowei Zhu",
+          "Mauricio Waintrub",
+          "Maria Arechavaleta Granell",
+          "Diego Aizenberg",
+          "Jianping Yao",
+          "Chu-Kuang Chou",
+          "James Maynard",
+          "Dirk Weber",
+          "Saeko Osawa",
+          "Gaylon Kipp",
+          "Luis Henrique Canani",
+          "Cesar Calvo Vargas",
+          "Luis Nevarez",
+          "Li Li",
+          "Paul Hartley",
+          "Yan Yang",
+          "Tetsuya Kawano",
+          "Klaudia Halova Karoliova",
+          "John Parker",
+          "Hanrong Cheng",
+          "Carolina Cappelletti",
+          "Bryce Palchick",
+          "Julia Chevts",
+          "Dana Miralles",
+          "Breno Balabem Alves",
+          "Stacey Layle",
+          "Tereza Haasova",
+          "Zuzana Foglarova",
+          "Hongwei Jiang",
+          "Gustavo Augusto",
+          "Maria Grossman",
+          "Johannes Haas",
+          "Wasim Haque",
+          "Aliu Sanni",
+          "Pamela Rossi",
+          "Lawrence Sher",
+          "Kisria Rechul",
+          "Yi-Ching Yang",
+          "Linong Ji",
+          "Zongyou Cheng",
+          "Jose Gerardo González González",
+          "Bruno Halpern",
+          "Ulrike Lengler",
+          "Marcos Mayer",
+          "David Green",
+          "Zhifeng Cheng"
+        ],
+        "abstract": "Importance                     Obstructive sleep apnea (OSA) is a common disorder characterized by repeated upper airway collapse during sleep that is associated with reduced quality of life and increased incidence of cardiometabolic disease.                                                           Objective                     To assess the effects of orforglipron on moderate to severe OSA in adults with obesity or overweight, compared with placebo.                                                           Design, Setting, and Participants                     Two 52-week, phase 3, multicenter, double-blind, placebo-controlled randomized clinical trials were conducted at 66 sites in the US, Argentina, Brazil, China, Czech Republic, Germany, Japan, Mexico, and Taiwan. Adults with moderate to severe OSA and body mass index (BMI; calculated as weight in kilograms divided by height in meters squared) of 27 or higher were enrolled between November 11, 2024, and July 23, 2025. Final follow-up occurred on July 30, 2026. Trial 1 included patients not receiving positive airway pressure treatment and trial 2 included patients receiving positive airway pressure treatment.                                                           Intervention                     Patients were randomized (1:1) to receive either once-daily orforglipron (maximum tolerated dose: equivalent to 9-, 14.5-, or 17.2-mg tablet dose) or placebo.                                                           Main Outcomes and Measures                     The primary end point was change in apnea-hypopnea index (AHI, events/h) from baseline to week 52. Seven key multiplicity-controlled secondary end points included change in sleep apnea–specific hypoxic burden, the Patient-Reported Outcomes Measurement Information System Short Form Sleep-Related Impairment T-score, and high-sensitivity C-reactive protein.                                                           Results                                            A total of 363 patients were randomized in trial 1 (mean age, 48.4 years; BMI, 37.4; AHI, 50.7 events/h; 31.4% female) and 349 patients were randomized in trial 2 (mean age, 51.1 years; BMI, 38.6; AHI, 57.6 events/h; 26.9% female). For the treatment regimen estimand, in trial 1, the mean AHI change was −17.8 for orforglipron compared with −4.5 for placebo (difference, −13.2 [95% CI, −17.7 to −8.7];                       P                        &amp;amp;lt; .001) at 52 weeks. In trial 2, the mean AHI change was −17.3 for orforglipron and −5.3 for placebo (difference, −12.0 [95% CI, −17.1 to −6.9];                       P                        &amp;amp;lt; .001) at 52 weeks. Of 7 key secondary end points, 6 were statistically significant, favoring orforglipron. Gastrointestinal events were the most commonly reported adverse events, occurring in 123 (68.0%) participants randomized to receive orforglipron vs 68 (37.4%) randomized to receive placebo in trial 1 and in 125 (70.6%) participants randomized to receive orforglipron vs 63 (36.6%) randomized to receive placebo in trial 2.                                                                                Conclusions and Relevance                     These results provide evidence for the potential use of oral orforglipron to improve sleep-disordered breathing in adults with moderate to severe OSA and obesity or overweight.                                                           Trial Registration                                            ClinicalTrials.gov Identifier:                       NCT06649045",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-09",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-10",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.23386",
+        "doi": "10.1001/jama.2026.23386",
+        "url": "https://doi.org/10.1001/jama.2026.23386",
+        "title": "An Oral Incretin for OSA",
+        "authors": [
+          "Diego R. Mazzotti",
+          "Damien R. Stevens"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-09",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-10",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.24226",
+        "doi": "10.1001/jama.2026.24226",
+        "url": "https://doi.org/10.1001/jama.2026.24226",
+        "title": "Orforglipron for Obstructive Sleep Apnea",
+        "authors": [],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-09",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-10",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.24617",
+        "doi": "10.1001/jama.2026.24617",
+        "url": "https://doi.org/10.1001/jama.2026.24617",
+        "title": "Error in Author Byline",
+        "authors": [],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-09",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-10",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.19137",
+        "doi": "10.1001/jama.2026.19137",
+        "url": "https://doi.org/10.1001/jama.2026.19137",
+        "title": "Review of Gastroparesis",
+        "authors": [
+          "Hanne Matheussen",
+          "Tim Vanuytsel",
+          "Jan Tack"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-09",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-10",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.21147",
+        "doi": "10.1001/jama.2026.21147",
+        "url": "https://doi.org/10.1001/jama.2026.21147",
+        "title": "Think Outside the Box With Intravenous Iron—The New Ferric Carboxymaltose FDA Boxed Warning",
+        "authors": [
+          "Hanny Al-Samkari",
+          "Scott Olitsky",
+          "Michael Auerbach"
+        ],
+        "abstract": "This Viewpoint discusses the new US Food and Drug Administration (FDA) boxed warning for intravenous ferric carboxymaltose, how the warning does not go far enough in explaining the potential dangers, and the risks vs benefits of the drug’s use.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-09",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-10",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.19140",
+        "doi": "10.1001/jama.2026.19140",
+        "url": "https://doi.org/10.1001/jama.2026.19140",
+        "title": "Review of Gastroparesis",
+        "authors": [
+          "Han Zhang"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-09",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-10",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.19143",
+        "doi": "10.1001/jama.2026.19143",
+        "url": "https://doi.org/10.1001/jama.2026.19143",
+        "title": "Review of Gastroparesis—Reply",
+        "authors": [
+          "Michael Camilleri"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-09",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-10",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmoa2612463",
+        "doi": "10.1056/nejmoa2612463",
+        "url": "https://doi.org/10.1056/nejmoa2612463",
+        "title": "ANGPTL4 Inhibition in Adults with Elevated Triglyceride Levels",
+        "authors": [
+          "Michelle L. O’Donoghue",
+          "Rebecca A. Juliano",
+          "B. Alexander Yi",
+          "Bernard Chung",
+          "Matilda Hughes",
+          "Daniel Gaudet",
+          "Harvey White",
+          "Gerald F. Watts",
+          "Julia Kuder",
+          "KyungAh Im",
+          "Yining Ye",
+          "Ethan J. Weiss",
+          "Joshua Lehrer-Graiwer",
+          "Marc S. Sabatine"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-11-09",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-10",
+        "fetched_from": "crossref"
+      },
       {
         "id": "doi:10.1001/jama.2026.24330",
         "doi": "10.1001/jama.2026.24330",
@@ -89303,6 +89761,204 @@
       }
     ],
     "agingHealth": [
+      {
+        "id": "doi:10.1186/s12877-026-08645-7",
+        "doi": "10.1186/s12877-026-08645-7",
+        "url": "https://doi.org/10.1186/s12877-026-08645-7",
+        "title": "Prevalence of sarcopenia and possible sarcopenia and factors associated with muscle strength, muscle mass, and physical performance among institutionalized and community-dwelling older adults in Sri Lanka",
+        "authors": [
+          "Thilini K. Hirimuthugodage",
+          "Thimasha H. Wijesekara",
+          "Kumari M. Rathnayake"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-10",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-10",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08665-3",
+        "doi": "10.1186/s12877-026-08665-3",
+        "url": "https://doi.org/10.1186/s12877-026-08665-3",
+        "title": "Psychometric evaluation of the Chinese version of musculoskeletal self-management questionnaire (MSK-SMQ) in older-adult chronic musculoskeletal pain (CMP) patients",
+        "authors": [
+          "Mei Jiang",
+          "Linghui Kong",
+          "Nathan Hutting",
+          "Meinan Jin"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-10",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-10",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08600-6",
+        "doi": "10.1186/s12877-026-08600-6",
+        "url": "https://doi.org/10.1186/s12877-026-08600-6",
+        "title": "Network analysis of social isolation, loneliness and depression among rural older adults in China",
+        "authors": [
+          "Chaoping Pan",
+          "Na Cao",
+          "Linwei Yu"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-10",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-10",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08681-3",
+        "doi": "10.1186/s12877-026-08681-3",
+        "url": "https://doi.org/10.1186/s12877-026-08681-3",
+        "title": "Hearing assistance technologies and social health among individuals with care and support needs: a scoping review",
+        "authors": [
+          "Bugse Yüceer",
+          "Charlotte Janning",
+          "Seda Güney",
+          "Karin Wolf-Ostermann"
+        ],
+        "abstract": "Abstract                                        Background                     Hearing loss can affect communication, social interaction, participation, and the maintenance of social relationships, particularly among individuals who require care or support in everyday life. Hearing assistance technologies (HATs) may facilitate communication, but their relationship with the multiple dimensions of social health remains insufficiently understood. A multidimensional social-health framework encompassing Capacity, Independence, Social Participation, Structure, Function, and Appraisal provides a basis for examining these relationships beyond individual hearing outcomes. This scoping review aimed to map the existing evidence on HATs in relation to social health among individuals with care and support needs.                                                           Methods                     This scoping review followed the PRISMA-ScR guidelines and the methodological framework proposed by Arksey and O’Malley and further refined by Levac. PubMed, CINAHL, Scopus, the Cochrane Library, Ovid MEDLINE, Web of Science, and IEEE Xplore were searched. Studies were eligible if they included individuals aged ≥ 18 years with care and support needs and examined HATs in relation to findings relevant to social health. Data were charted and synthesised descriptively, and findings were organised according to the six domains of the multidimensional social-health framework, comprising Capacity, Independence, Social Participation, Structure, Function, and Appraisal.                                                           Results                     The searches identified 1,145 records, of which 21 studies met the inclusion criteria. The included samples were predominantly older. Findings were most frequently mapped to the Appraisal and Social Participation domains, whereas Structure and Function were comparatively underrepresented. Intervention findings included improvements in communication-related outcomes and reductions in hearing-related participation restrictions, whereas findings for loneliness, relationship satisfaction, social-network characteristics, and broader social engagement were less consistent. Qualitative findings highlighted stigma and perceived social judgement, with the social acceptability of hearing technologies also described in relation to everyday interaction and technology use.                                                           Conclusions                     Evidence on HATs in relation to social health among individuals with care and support needs remains heterogeneous and uneven across social-health domains. Limited attention to the structural and functional dimensions of social relationships highlights the need for more comprehensive assessment of social health in hearing-care research. Future studies should adopt longitudinal, network-sensitive, and culturally responsive approaches and consider the interpersonal, environmental, and care contexts in which HATs are used.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-10",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-10",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08649-3",
+        "doi": "10.1186/s12877-026-08649-3",
+        "url": "https://doi.org/10.1186/s12877-026-08649-3",
+        "title": "How perceived social support and social engagement shape older people’s well-being in Ethiopia",
+        "authors": [
+          "Keshab Prasad Timalsina",
+          "Habtamu Sewunet Mekonnen"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-10",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-10",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08664-4",
+        "doi": "10.1186/s12877-026-08664-4",
+        "url": "https://doi.org/10.1186/s12877-026-08664-4",
+        "title": "Perspectives and experiences of caregivers regarding nursing home residents: a qualitative research",
+        "authors": [
+          "Gülfidan Başer",
+          "Doğa Başer",
+          "Filiz Hi̇sar"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-10",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-10",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70824",
+        "doi": "10.1111/jgs.70824",
+        "url": "https://doi.org/10.1111/jgs.70824",
+        "title": "<scp>GERI</scp>\n                    ‐\n                    <scp>RISK</scp>\n                    : A Quality Improvement Initiative to Screen for Social Risk in a Geriatric Care Clinic",
+        "authors": [
+          "Lucie Nguyen",
+          "Sapna Vyas",
+          "Patricia Ferguson Reyher",
+          "Ramona Rhodes",
+          "Jessica H. Voit"
+        ],
+        "abstract": "ABSTRACT                                        Background                     Unmet social determinant of health (SDOH) needs can impede access to healthcare and increase morbidity and mortality for older adults. Screening for SDOH takes time, and primary care clinicians often have competing demands.                                                           Methods                     Using a quality improvement (QI) approach, we created a systematic method to screen for SDOH needs as well as perceived health, activities of daily living, instrumental activities of daily living, and internet use among patients seen in a geriatric medicine clinic. Patients screened were from one physician's panel with scheduled primary care appointments in the upcoming 6 months. Epic electronic medical record system and REDCap were used for documentation. We used the plan‐do‐study‐act (PDSA) methodology to improve the screening.                                                           Results                     Of the 368 patients contacted, 224 (61%) completed screening, with 210 (94%) of those patients identifying at least one unmet SDOH need. Excluding screening for tobacco use and depression (which were already screened at a high rate), screening increased by 2%–33% for most SDOH.                                                           Conclusion                     Telephone screening is a feasible method to identify patients' SDOH needs. Next steps include expanding the screening to additional physicians' patient panels, conducting additional PDSA cycles to further improve screening rates, and integrating these methods into the standard clinic workflow.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-11-09",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-10",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1215/00703370-12908775",
+        "doi": "10.1215/00703370-12908775",
+        "url": "https://doi.org/10.1215/00703370-12908775",
+        "title": "When It Rains: The Dual Impact of Rainfall on Child Survival in Rural Senegal",
+        "authors": [
+          "Hamidou Diallo",
+          "Anne-Sophie Robilliard"
+        ],
+        "abstract": "Highlights                   We analyze how rainfall anomalies affect child survival in semiarid rural Senegal. The study uses 50,000 child records over four decades from the Niakhar HDSS, the oldest in Africa. Past rain shortfalls raise child mortality while current rainfall shocks matter less. Rainfall seasonality shapes children’s vulnerability to rainfall anomalies. Food scarcity and disease exposure jointly drive these mortality effects.",
+        "source": "Demography",
+        "issn": "0070-3370",
+        "date": "2026-11-09",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "socialSecurity"
+        ],
+        "firstSeen": "2026-11-10",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1215/00703370-12908899",
+        "doi": "10.1215/00703370-12908899",
+        "url": "https://doi.org/10.1215/00703370-12908899",
+        "title": "Racial Inequalities in Health and Social Policy: Examining the Relationship Between Medicaid Spending and Self-assessed Health Among Poor Single Mothers",
+        "authors": [
+          "Amie Bostic"
+        ],
+        "abstract": "Highlights                   Greater average state Medicaid spending is associated with better self-rated health for poor single mothers. This relationship is stronger for poor, Black single mothers than poor, White or Latina single mothers. Spending variation by state generates substantial spatial inequalities in health. States with larger Black populations spend less, creating a mismatch between effectiveness and implementation.",
+        "source": "Demography",
+        "issn": "0070-3370",
+        "date": "2026-11-09",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "socialSecurity"
+        ],
+        "firstSeen": "2026-11-10",
+        "fetched_from": "crossref"
+      },
       {
         "id": "doi:10.1186/s12877-026-08651-9",
         "doi": "10.1186/s12877-026-08651-9",
@@ -137695,10 +138351,10 @@
     ]
   },
   "totals": {
-    "socialSecurity": 1618,
-    "elderCare": 970,
-    "healthReform": 1456,
-    "agingHealth": 1401,
+    "socialSecurity": 1620,
+    "elderCare": 977,
+    "healthReform": 1465,
+    "agingHealth": 1410,
     "socialWork": 536
   },
   "feeds_ok": 41
