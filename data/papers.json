@@ -1,8 +1,33 @@
 {
-  "date": "2026-11-10",
-  "fetched": "2026-11-10T08:37:53+00:00",
+  "date": "2026-11-11",
+  "fetched": "2026-11-11T07:57:26+00:00",
   "domains": {
     "socialSecurity": [
+      {
+        "id": "doi:10.1215/00703370-12902176",
+        "doi": "10.1215/00703370-12902176",
+        "url": "https://doi.org/10.1215/00703370-12902176",
+        "title": "Racial Disparities in Infant Drug Testing: A Research Note",
+        "authors": [
+          "Mallory Dreyer",
+          "Cydney M. McGuire",
+          "Jennifer M. Silva",
+          "Kosali Simon",
+          "Coady Wing",
+          "Engy Ziedan"
+        ],
+        "abstract": "Highlights                   Black infants were tested for drug exposure at more than twice the rate of White infants. Among those tested, both groups had similar positive rates—approximately 20%. Clinical risk factors explain only 38% of the racial disparity in testing rates. The remaining 61% may reflect differential treatment or unmeasured clinician observations. These findings raise concerns about fairness and trust in clinical decision-making.",
+        "source": "Demography",
+        "issn": "0070-3370",
+        "date": "2026-11-10",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "socialSecurity"
+        ],
+        "firstSeen": "2026-11-11",
+        "fetched_from": "crossref"
+      },
       {
         "id": "doi:10.1215/00703370-12908775",
         "doi": "10.1215/00703370-12908775",
@@ -25304,6 +25329,57 @@
     ],
     "elderCare": [
       {
+        "id": "doi:10.1186/s12877-026-08673-3",
+        "doi": "10.1186/s12877-026-08673-3",
+        "url": "https://doi.org/10.1186/s12877-026-08673-3",
+        "title": "Social and family health as dual determinants of quality of life among older adults with chronic disease: a population-based study",
+        "authors": [
+          "Zhongbao Xiong",
+          "Chengxu Long",
+          "Yangyang Pan",
+          "Shangfeng Tang",
+          "Min Zhang"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-11",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-11",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08550-z",
+        "doi": "10.1186/s12877-026-08550-z",
+        "url": "https://doi.org/10.1186/s12877-026-08550-z",
+        "title": "Anticholinergic burden and adverse outcomes in older adults with hearing loss: a nationwide Korean cohort study",
+        "authors": [
+          "Hee Song",
+          "Jihye Rhee",
+          "In-Young Yoon",
+          "Jin Hyun Nam",
+          "Jun-Ho Seo",
+          "Wan Seok Jeong",
+          "Hayun Choi",
+          "Ju-Young Shin"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-11",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-11",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1186/s12877-026-08645-7",
         "doi": "10.1186/s12877-026-08645-7",
         "url": "https://doi.org/10.1186/s12877-026-08645-7",
@@ -25434,6 +25510,235 @@
           "agingHealth"
         ],
         "firstSeen": "2026-11-10",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08686-y",
+        "doi": "10.1186/s12877-026-08686-y",
+        "url": "https://doi.org/10.1186/s12877-026-08686-y",
+        "title": "Building diverse participatory research teams in falls prevention: a qualitative interview study",
+        "authors": [
+          "Elisa-Marie Speckmann",
+          "Laura Himmelmann",
+          "Tim Stuckenschneider",
+          "Tania Zieschang",
+          "Milena von Kutzleben",
+          "Kathrin Boerner"
+        ],
+        "abstract": "Abstract                                        Background                     An important area of participatory research and the establishment of participatory research teams (PRT) is falls prevention, as falls pose significant risks not only to individuals but also to healthcare systems worldwide. However, little is known about how PRTs are conducted within falls prevention research. Therefore, this study aimed to identify key factors that facilitate participatory research in this context.                                                           Methods                     The PRT was involved in two projects, focusing on falls prevention: iSeFallED and TRAIL. We conducted eleven semi-structured interviews with each member of the PRT (six patient representatives, five health service representatives). The interviews were transcribed and then analyzed using qualitative content analysis.                                                           Results                     Heterogeneous methods, communication grounded in values such as mutual respect, opportunities for networking, knowledge exchange, and intrinsic motivation were identified as important facilitators.                                                           Conclusion                     This study provides insights into key factors for implementing participatory research in falls prevention.                                                           Trial registration                                            TRAIL NCT06652828,                       https://clinicaltrials.gov/study/NCT06652828#more-information                       , registered on 21stOctober 2024, and iSeFallED DRKS00035322,                       https://drks.de/search/de/trial/DRKS00035322                       , Registered on 5th March 2025.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-10",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-11",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08624-y",
+        "doi": "10.1186/s12877-026-08624-y",
+        "url": "https://doi.org/10.1186/s12877-026-08624-y",
+        "title": "Household fuel type, kitchen ventilation, and frailty trajectory membership among older adults: a community-based longitudinal study in Nanjing, China",
+        "authors": [
+          "Shenao Guo",
+          "Ying Xia",
+          "Jiayang Yu",
+          "Xin Hong",
+          "Nan Zhou"
+        ],
+        "abstract": "Abstract                                        Background                     Longitudinal evidence jointly considering household fuel type and kitchen ventilation in relation to frailty trajectory membership among older adults remains limited. This study aimed to identify frailty index (FI) trajectories among community-dwelling older adults and examine their associations with household fuel type and kitchen ventilation.                                                           Methods                     We analysed annual health examination data from 2020 to 2023 for 47,947 community-dwelling adults aged 65 years or older in Nanjing, China, with at least three valid FI assessments. Frailty was measured using a 34-item FI. Latent class mixed models identified FI trajectories. Multivariable multinomial logistic regression examined the associations of baseline household fuel type and kitchen ventilation with trajectory membership.                                                           Results                     Three trajectories were identified: low-level progressive (26.47%), moderate-level gradual-increase (51.33%) and high-level persistent-burden (22.20%). They differed mainly in sustained FI levels, with modest increases over follow-up. With the low FI trajectory as the reference, solid fuel use versus clean fuel use among participants with ventilation was associated with membership in the moderate and high FI trajectories, with adjusted relative risk ratios (RRRs) of 1.496 (95% confidence interval [CI] 1.400–1.598) and 2.230 (95% CI 2.061–2.414), respectively. Among clean fuel users, the corresponding RRRs for absence versus presence of ventilation were 1.252 (95% CI 1.165–1.346) and 1.614 (95% CI 1.479–1.761). Analyses of follow-up FI adjusted for baseline FI supported these associations.                                                           Conclusions                     Solid fuel use among participants with kitchen ventilation and absence of ventilation among clean fuel users were associated with membership in higher-FI trajectories. These findings support considering both fuel type and ventilation when assessing household environments in older populations.                                                           Clinical trial number                     Not applicable.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-10",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-11",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08628-8",
+        "doi": "10.1186/s12877-026-08628-8",
+        "url": "https://doi.org/10.1186/s12877-026-08628-8",
+        "title": "Omega-3 index in the Spanish population older than 60 years: the OMEGAPRED study protocol",
+        "authors": [
+          "Estefanía Sánchez-Rodríguez",
+          "María Rosa Justicia-Piñar",
+          "Sara Sánchez-Paredes",
+          "Jason Polreis",
+          "María Dolores Ruíz-López",
+          "Reyes Artacho",
+          "María-Dolores Mesa",
+          "Carolina Gómez-Llorente",
+          "Federico Lara-Villoslada",
+          "Gregorio Varela-Moreiras",
+          "Ángel Gil"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-10",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-11",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08687-x",
+        "doi": "10.1186/s12877-026-08687-x",
+        "url": "https://doi.org/10.1186/s12877-026-08687-x",
+        "title": "Implementing community-based heat-health interventions for older adults: a comparative case study of two NGO delivery models in Hong Kong",
+        "authors": [
+          "Karen Lok Yi Wong",
+          "Regina Lo",
+          "Pinjing Su",
+          "Wui Ling Chu",
+          "Michelle Kwan",
+          "Eric Tsz Chun Lai",
+          "Richard Lee",
+          "Jean Woo"
+        ],
+        "abstract": "Abstract                                        Background                     Extreme heat is an increasing threat to the health and wellbeing of older adults, particularly those living in densely populated urban environments with poor housing conditions and limited access to cooling resources. Community-based heat-health interventions have been proposed as an important climate adaptation strategy to reduce heat-related vulnerability among older adults, yet little is known about how such interventions are implemented in real-world settings.                                                           Methods                                            This qualitative case study examined how two nongovernmental organizations (NGOs) implemented a community-based heat-health intervention for vulnerable older adults in Hong Kong. Data were drawn from observations of 51 home visits and 7 community activities, case conference notes, and four semi-structured focus groups with frontline and management staff (                       n                        = 18). Inductive thematic analysis was used to explore how organizational approaches, local contexts, and service-delivery models shaped implementation.                                                                                Results                     Although both NGOs implemented the same core intervention components, they adopted different service-delivery models. NGO 1 employed a relationship-centered approach emphasizing continuity of care, individualized assessment, and trust-building. This approach facilitated rapport-building, individualized support, and identification of misconceptions and environmental risks, but required substantial staff time and resources to maintain continuity of care and individualized engagement. NGO 2 adopted a standardized, outreach-oriented model designed to maximize community outreach, visibility, and awareness. This approach increased visibility and facilitated broad distribution of cooling resources but was sometimes constrained by the diverse housing conditions and complex needs of older adults. Housing characteristics, social isolation, and environmental constraints influenced how both approaches were implemented in practice. Collaboration with an academic team supported ongoing adaptation and capacity building throughout implementation.                                                           Conclusions                     Community-based heat-health interventions can play an important role in protecting older adults from heat-related health risks and supporting climate adaptation in ageing populations, but different delivery models involve distinct implementation strengths and challenges. Relationship-centered approaches may be particularly valuable when ongoing assessment, trust-building, and individualized support are required, whereas outreach-oriented approaches may promote awareness of heat-health risks and community engagement. The findings highlight the importance of aligning intervention strategies with the needs and living environments of older adults and suggest that community-based adaptation efforts should be accompanied by broader policies addressing housing-related heat vulnerability.                                                           Clinical trial number                     not applicable.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-10",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-11",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08618-w",
+        "doi": "10.1186/s12877-026-08618-w",
+        "url": "https://doi.org/10.1186/s12877-026-08618-w",
+        "title": "Insomnia symptoms, daytime sleepiness, and quality of life in people with Alzheimer’s disease: a secondary cross-sectional analysis",
+        "authors": [
+          "Magdalena Wójcik-Pędziwiatr",
+          "Agnieszka Tomaszewska",
+          "Grażyna Dębska",
+          "Monika Rudzińska-Bar"
+        ],
+        "abstract": "Abstract                                        Background                     Sleep disturbances are common in Alzheimer’s disease (AD), but the relation of insomnia symptoms and daytime sleepiness to patient-reported quality of life (QoL) remains uncertain, particularly in people with substantial cognitive impairment. We examined exploratory associations with four QoL domains.                                                           Methods                     This secondary cross-sectional analysis included 70 participants aged 60–94 years with clinically diagnosed AD recruited from nursing homes and community-based support services in Kraków, Poland. Insomnia symptoms were assessed using the Athens Insomnia Scale (AIS), daytime sleepiness using the Epworth Sleepiness Scale (ESS), and QoL using the World Health Organization Quality of Life–Brief Version (WHOQOL-BREF). Cognitive impairment was assessed using an abbreviated version of the Blessed Dementia Scale (BDS). Associations between sleep measures and the Physical Health, Psychological, Social Relationships, and Environment domains of the WHOQOL-BREF were examined using Spearman correlations and multivariable linear regression. AIS and ESS were entered simultaneously into the regression models, which were adjusted for age, sex, continuous abbreviated BDS score, depressive symptoms, functional status, and care setting. HC3 robust standard errors were used, and the Benjamini–Hochberg false discovery rate (FDR) procedure was applied across eight prespecified sleep–QoL associations.                                                           Results                                            Participants were aged 60–94 years, with a mean age of 78.5 ± 7.9 years, and 45.7% were women. The mean AIS score was 9.31 ± 4.01, with 80.0% of participants meeting the AIS threshold for clinically relevant insomnia symptoms. The mean ESS score was 8.91 ± 2.83, and 30.0% had excessive daytime sleepiness. AIS and ESS scores were positively correlated (Spearman’s ρ = 0.622,                       p                        &lt; 0.001). In multivariable analyses, greater daytime sleepiness was nominally associated with poorer Physical Health (B = − 1.045, 95% CI − 1.973 to − 0.117;                       p                        = 0.027; FDR q = 0.128), whereas greater insomnia symptom severity was nominally associated with poorer Psychological QoL (B = − 0.512, 95% CI − 0.980 to − 0.044;                       p                        = 0.032; FDR q = 0.128). Neither association remained statistically significant after FDR correction. No adjusted associations of AIS or ESS with the Social Relationships or Environment domains were observed. The direction of the two principal associations was maintained in expanded and influence sensitivity analyses.                                                                                Conclusions                     In this exploratory sample, two adjusted associations were nominally significant, but neither survived correction for eight comparisons. Overlap among questionnaire constructs, uncertainty in self-report with cognitive impairment, and the modest sample size limit interpretation. Larger studies with documented response assistance and complementary sleep assessments are needed.                                                           Clinical trial number                     Not applicable.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-10",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-11",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08683-1",
+        "doi": "10.1186/s12877-026-08683-1",
+        "url": "https://doi.org/10.1186/s12877-026-08683-1",
+        "title": "Association of skeletal muscle microvascular function with physical fitness and body composition in older adults",
+        "authors": [
+          "Haizheng Huang",
+          "Bin Leng",
+          "Yadan He",
+          "Zitian Liu",
+          "Jiajing Sun",
+          "Chuan Zhang"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-10",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-11",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08682-2",
+        "doi": "10.1186/s12877-026-08682-2",
+        "url": "https://doi.org/10.1186/s12877-026-08682-2",
+        "title": "Metabolic frailty measured by TyG-HFRS and atrial fibrillation in elderly GERD patients admitted to the ICU",
+        "authors": [
+          "Zeng Huang",
+          "Yong’An Jiang",
+          "Peng Chen",
+          "MiaoLong Zhang"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-10",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-11",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08572-7",
+        "doi": "10.1186/s12877-026-08572-7",
+        "url": "https://doi.org/10.1186/s12877-026-08572-7",
+        "title": "Latent profiles and factors associated with self-management among older adults with osteoporosis: a cross-sectional study",
+        "authors": [
+          "Yuanyuan Zhang",
+          "Caiping Jin",
+          "Hui Zhu",
+          "Ying Hu",
+          "Chenqiong Wu",
+          "Jing Qiu",
+          "Haiping Yu",
+          "Zeguo Shao",
+          "Yue Li"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-10",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-11",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08571-8",
+        "doi": "10.1186/s12877-026-08571-8",
+        "url": "https://doi.org/10.1186/s12877-026-08571-8",
+        "title": "Quality of life among the elderly population in Jordan: descriptive correlational cross-sectional study",
+        "authors": [
+          "Wafa’a Ta’an",
+          "Nik Hazimi Mohammed Foziah",
+          "Khetam AlNaamneh",
+          "Mohammed M. Al-Hammouri",
+          "Mohammed A. Ababneh"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-10",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-11",
         "fetched_from": "crossref"
       },
       {
@@ -49923,6 +50228,93 @@
     ],
     "healthReform": [
       {
+        "id": "doi:10.1001/jama.2026.14866",
+        "doi": "10.1001/jama.2026.14866",
+        "url": "https://doi.org/10.1001/jama.2026.14866",
+        "title": "What Is Cyclosporiasis?",
+        "authors": [
+          "Kathleen A. Linder",
+          "Preeti N. Malani"
+        ],
+        "abstract": "This JAMA Patient Page describes cyclosporiasis symptoms, diagnosis, treatment, and prevention.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-10",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-11",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.7873",
+        "doi": "10.1001/jama.2026.7873",
+        "url": "https://doi.org/10.1001/jama.2026.7873",
+        "title": "Cannabinoid Hyperemesis Syndrome",
+        "authors": [
+          "Thangam Venkatesan",
+          "William L. Hasler",
+          "Michael Camilleri"
+        ],
+        "abstract": "This JAMA Insights discusses cannabinoid hyperemesis syndrome, including pathophysiology, clinical presentation, and the epidemiology and risk factors.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-10",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-11",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2025.16096",
+        "doi": "10.1001/jama.2025.16096",
+        "url": "https://doi.org/10.1001/jama.2025.16096",
+        "title": "JAMA",
+        "authors": [],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-10",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-11",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1007/s40273-026-01679-0",
+        "doi": "10.1007/s40273-026-01679-0",
+        "url": "https://doi.org/10.1007/s40273-026-01679-0",
+        "title": "The Accumulation of Healthcare, Benefit and Social Care Costs of Depression Before and After Diagnosis: A Six-Year Observational Cohort Study",
+        "authors": [
+          "Petri Näätänen",
+          "Jonne Juntura",
+          "Grigori Joffe",
+          "Jesper Ekelund",
+          "Riikka-Leena Leskelä",
+          "Tetsuro Ito",
+          "Benoit Rive",
+          "Petri Vänni",
+          "Outi Isomeri",
+          "Irene Eriksson",
+          "Paulus Torkki"
+        ],
+        "abstract": "",
+        "source": "PharmacoEconomics",
+        "issn": "1170-7690",
+        "date": "2026-11-10",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-11",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1001/jama.2026.24080",
         "doi": "10.1001/jama.2026.24080",
         "url": "https://doi.org/10.1001/jama.2026.24080",
@@ -50180,6 +50572,26 @@
           "healthReform"
         ],
         "firstSeen": "2026-11-10",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag286",
+        "doi": "10.1093/aje/kwag286",
+        "url": "https://doi.org/10.1093/aje/kwag286",
+        "title": "The intersectional compass: the purpose and future of MAIHDA",
+        "authors": [
+          "Gabrielle Jacob"
+        ],
+        "abstract": "",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-11-09",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-11",
         "fetched_from": "crossref"
       },
       {
@@ -89762,6 +90174,57 @@
     ],
     "agingHealth": [
       {
+        "id": "doi:10.1186/s12877-026-08673-3",
+        "doi": "10.1186/s12877-026-08673-3",
+        "url": "https://doi.org/10.1186/s12877-026-08673-3",
+        "title": "Social and family health as dual determinants of quality of life among older adults with chronic disease: a population-based study",
+        "authors": [
+          "Zhongbao Xiong",
+          "Chengxu Long",
+          "Yangyang Pan",
+          "Shangfeng Tang",
+          "Min Zhang"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-11",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-11",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08550-z",
+        "doi": "10.1186/s12877-026-08550-z",
+        "url": "https://doi.org/10.1186/s12877-026-08550-z",
+        "title": "Anticholinergic burden and adverse outcomes in older adults with hearing loss: a nationwide Korean cohort study",
+        "authors": [
+          "Hee Song",
+          "Jihye Rhee",
+          "In-Young Yoon",
+          "Jin Hyun Nam",
+          "Jun-Ho Seo",
+          "Wan Seok Jeong",
+          "Hayun Choi",
+          "Ju-Young Shin"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-11",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-11",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1186/s12877-026-08645-7",
         "doi": "10.1186/s12877-026-08645-7",
         "url": "https://doi.org/10.1186/s12877-026-08645-7",
@@ -89895,27 +90358,278 @@
         "fetched_from": "crossref"
       },
       {
-        "id": "doi:10.1111/jgs.70824",
-        "doi": "10.1111/jgs.70824",
-        "url": "https://doi.org/10.1111/jgs.70824",
-        "title": "<scp>GERI</scp>\n                    ‐\n                    <scp>RISK</scp>\n                    : A Quality Improvement Initiative to Screen for Social Risk in a Geriatric Care Clinic",
+        "id": "doi:10.1186/s12877-026-08686-y",
+        "doi": "10.1186/s12877-026-08686-y",
+        "url": "https://doi.org/10.1186/s12877-026-08686-y",
+        "title": "Building diverse participatory research teams in falls prevention: a qualitative interview study",
         "authors": [
-          "Lucie Nguyen",
-          "Sapna Vyas",
-          "Patricia Ferguson Reyher",
-          "Ramona Rhodes",
-          "Jessica H. Voit"
+          "Elisa-Marie Speckmann",
+          "Laura Himmelmann",
+          "Tim Stuckenschneider",
+          "Tania Zieschang",
+          "Milena von Kutzleben",
+          "Kathrin Boerner"
         ],
-        "abstract": "ABSTRACT                                        Background                     Unmet social determinant of health (SDOH) needs can impede access to healthcare and increase morbidity and mortality for older adults. Screening for SDOH takes time, and primary care clinicians often have competing demands.                                                           Methods                     Using a quality improvement (QI) approach, we created a systematic method to screen for SDOH needs as well as perceived health, activities of daily living, instrumental activities of daily living, and internet use among patients seen in a geriatric medicine clinic. Patients screened were from one physician's panel with scheduled primary care appointments in the upcoming 6 months. Epic electronic medical record system and REDCap were used for documentation. We used the plan‐do‐study‐act (PDSA) methodology to improve the screening.                                                           Results                     Of the 368 patients contacted, 224 (61%) completed screening, with 210 (94%) of those patients identifying at least one unmet SDOH need. Excluding screening for tobacco use and depression (which were already screened at a high rate), screening increased by 2%–33% for most SDOH.                                                           Conclusion                     Telephone screening is a feasible method to identify patients' SDOH needs. Next steps include expanding the screening to additional physicians' patient panels, conducting additional PDSA cycles to further improve screening rates, and integrating these methods into the standard clinic workflow.",
-        "source": "Journal of the American Geriatrics Society",
-        "issn": "0002-8614",
-        "date": "2026-11-09",
+        "abstract": "Abstract                                        Background                     An important area of participatory research and the establishment of participatory research teams (PRT) is falls prevention, as falls pose significant risks not only to individuals but also to healthcare systems worldwide. However, little is known about how PRTs are conducted within falls prevention research. Therefore, this study aimed to identify key factors that facilitate participatory research in this context.                                                           Methods                     The PRT was involved in two projects, focusing on falls prevention: iSeFallED and TRAIL. We conducted eleven semi-structured interviews with each member of the PRT (six patient representatives, five health service representatives). The interviews were transcribed and then analyzed using qualitative content analysis.                                                           Results                     Heterogeneous methods, communication grounded in values such as mutual respect, opportunities for networking, knowledge exchange, and intrinsic motivation were identified as important facilitators.                                                           Conclusion                     This study provides insights into key factors for implementing participatory research in falls prevention.                                                           Trial registration                                            TRAIL NCT06652828,                       https://clinicaltrials.gov/study/NCT06652828#more-information                       , registered on 21stOctober 2024, and iSeFallED DRKS00035322,                       https://drks.de/search/de/trial/DRKS00035322                       , Registered on 5th March 2025.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-10",
         "subjects": [],
         "domains": [
           "elderCare",
           "agingHealth"
         ],
-        "firstSeen": "2026-11-10",
+        "firstSeen": "2026-11-11",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08624-y",
+        "doi": "10.1186/s12877-026-08624-y",
+        "url": "https://doi.org/10.1186/s12877-026-08624-y",
+        "title": "Household fuel type, kitchen ventilation, and frailty trajectory membership among older adults: a community-based longitudinal study in Nanjing, China",
+        "authors": [
+          "Shenao Guo",
+          "Ying Xia",
+          "Jiayang Yu",
+          "Xin Hong",
+          "Nan Zhou"
+        ],
+        "abstract": "Abstract                                        Background                     Longitudinal evidence jointly considering household fuel type and kitchen ventilation in relation to frailty trajectory membership among older adults remains limited. This study aimed to identify frailty index (FI) trajectories among community-dwelling older adults and examine their associations with household fuel type and kitchen ventilation.                                                           Methods                     We analysed annual health examination data from 2020 to 2023 for 47,947 community-dwelling adults aged 65 years or older in Nanjing, China, with at least three valid FI assessments. Frailty was measured using a 34-item FI. Latent class mixed models identified FI trajectories. Multivariable multinomial logistic regression examined the associations of baseline household fuel type and kitchen ventilation with trajectory membership.                                                           Results                     Three trajectories were identified: low-level progressive (26.47%), moderate-level gradual-increase (51.33%) and high-level persistent-burden (22.20%). They differed mainly in sustained FI levels, with modest increases over follow-up. With the low FI trajectory as the reference, solid fuel use versus clean fuel use among participants with ventilation was associated with membership in the moderate and high FI trajectories, with adjusted relative risk ratios (RRRs) of 1.496 (95% confidence interval [CI] 1.400–1.598) and 2.230 (95% CI 2.061–2.414), respectively. Among clean fuel users, the corresponding RRRs for absence versus presence of ventilation were 1.252 (95% CI 1.165–1.346) and 1.614 (95% CI 1.479–1.761). Analyses of follow-up FI adjusted for baseline FI supported these associations.                                                           Conclusions                     Solid fuel use among participants with kitchen ventilation and absence of ventilation among clean fuel users were associated with membership in higher-FI trajectories. These findings support considering both fuel type and ventilation when assessing household environments in older populations.                                                           Clinical trial number                     Not applicable.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-10",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-11",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08628-8",
+        "doi": "10.1186/s12877-026-08628-8",
+        "url": "https://doi.org/10.1186/s12877-026-08628-8",
+        "title": "Omega-3 index in the Spanish population older than 60 years: the OMEGAPRED study protocol",
+        "authors": [
+          "Estefanía Sánchez-Rodríguez",
+          "María Rosa Justicia-Piñar",
+          "Sara Sánchez-Paredes",
+          "Jason Polreis",
+          "María Dolores Ruíz-López",
+          "Reyes Artacho",
+          "María-Dolores Mesa",
+          "Carolina Gómez-Llorente",
+          "Federico Lara-Villoslada",
+          "Gregorio Varela-Moreiras",
+          "Ángel Gil"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-10",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-11",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08687-x",
+        "doi": "10.1186/s12877-026-08687-x",
+        "url": "https://doi.org/10.1186/s12877-026-08687-x",
+        "title": "Implementing community-based heat-health interventions for older adults: a comparative case study of two NGO delivery models in Hong Kong",
+        "authors": [
+          "Karen Lok Yi Wong",
+          "Regina Lo",
+          "Pinjing Su",
+          "Wui Ling Chu",
+          "Michelle Kwan",
+          "Eric Tsz Chun Lai",
+          "Richard Lee",
+          "Jean Woo"
+        ],
+        "abstract": "Abstract                                        Background                     Extreme heat is an increasing threat to the health and wellbeing of older adults, particularly those living in densely populated urban environments with poor housing conditions and limited access to cooling resources. Community-based heat-health interventions have been proposed as an important climate adaptation strategy to reduce heat-related vulnerability among older adults, yet little is known about how such interventions are implemented in real-world settings.                                                           Methods                                            This qualitative case study examined how two nongovernmental organizations (NGOs) implemented a community-based heat-health intervention for vulnerable older adults in Hong Kong. Data were drawn from observations of 51 home visits and 7 community activities, case conference notes, and four semi-structured focus groups with frontline and management staff (                       n                        = 18). Inductive thematic analysis was used to explore how organizational approaches, local contexts, and service-delivery models shaped implementation.                                                                                Results                     Although both NGOs implemented the same core intervention components, they adopted different service-delivery models. NGO 1 employed a relationship-centered approach emphasizing continuity of care, individualized assessment, and trust-building. This approach facilitated rapport-building, individualized support, and identification of misconceptions and environmental risks, but required substantial staff time and resources to maintain continuity of care and individualized engagement. NGO 2 adopted a standardized, outreach-oriented model designed to maximize community outreach, visibility, and awareness. This approach increased visibility and facilitated broad distribution of cooling resources but was sometimes constrained by the diverse housing conditions and complex needs of older adults. Housing characteristics, social isolation, and environmental constraints influenced how both approaches were implemented in practice. Collaboration with an academic team supported ongoing adaptation and capacity building throughout implementation.                                                           Conclusions                     Community-based heat-health interventions can play an important role in protecting older adults from heat-related health risks and supporting climate adaptation in ageing populations, but different delivery models involve distinct implementation strengths and challenges. Relationship-centered approaches may be particularly valuable when ongoing assessment, trust-building, and individualized support are required, whereas outreach-oriented approaches may promote awareness of heat-health risks and community engagement. The findings highlight the importance of aligning intervention strategies with the needs and living environments of older adults and suggest that community-based adaptation efforts should be accompanied by broader policies addressing housing-related heat vulnerability.                                                           Clinical trial number                     not applicable.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-10",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-11",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08618-w",
+        "doi": "10.1186/s12877-026-08618-w",
+        "url": "https://doi.org/10.1186/s12877-026-08618-w",
+        "title": "Insomnia symptoms, daytime sleepiness, and quality of life in people with Alzheimer’s disease: a secondary cross-sectional analysis",
+        "authors": [
+          "Magdalena Wójcik-Pędziwiatr",
+          "Agnieszka Tomaszewska",
+          "Grażyna Dębska",
+          "Monika Rudzińska-Bar"
+        ],
+        "abstract": "Abstract                                        Background                     Sleep disturbances are common in Alzheimer’s disease (AD), but the relation of insomnia symptoms and daytime sleepiness to patient-reported quality of life (QoL) remains uncertain, particularly in people with substantial cognitive impairment. We examined exploratory associations with four QoL domains.                                                           Methods                     This secondary cross-sectional analysis included 70 participants aged 60–94 years with clinically diagnosed AD recruited from nursing homes and community-based support services in Kraków, Poland. Insomnia symptoms were assessed using the Athens Insomnia Scale (AIS), daytime sleepiness using the Epworth Sleepiness Scale (ESS), and QoL using the World Health Organization Quality of Life–Brief Version (WHOQOL-BREF). Cognitive impairment was assessed using an abbreviated version of the Blessed Dementia Scale (BDS). Associations between sleep measures and the Physical Health, Psychological, Social Relationships, and Environment domains of the WHOQOL-BREF were examined using Spearman correlations and multivariable linear regression. AIS and ESS were entered simultaneously into the regression models, which were adjusted for age, sex, continuous abbreviated BDS score, depressive symptoms, functional status, and care setting. HC3 robust standard errors were used, and the Benjamini–Hochberg false discovery rate (FDR) procedure was applied across eight prespecified sleep–QoL associations.                                                           Results                                            Participants were aged 60–94 years, with a mean age of 78.5 ± 7.9 years, and 45.7% were women. The mean AIS score was 9.31 ± 4.01, with 80.0% of participants meeting the AIS threshold for clinically relevant insomnia symptoms. The mean ESS score was 8.91 ± 2.83, and 30.0% had excessive daytime sleepiness. AIS and ESS scores were positively correlated (Spearman’s ρ = 0.622,                       p                        &lt; 0.001). In multivariable analyses, greater daytime sleepiness was nominally associated with poorer Physical Health (B = − 1.045, 95% CI − 1.973 to − 0.117;                       p                        = 0.027; FDR q = 0.128), whereas greater insomnia symptom severity was nominally associated with poorer Psychological QoL (B = − 0.512, 95% CI − 0.980 to − 0.044;                       p                        = 0.032; FDR q = 0.128). Neither association remained statistically significant after FDR correction. No adjusted associations of AIS or ESS with the Social Relationships or Environment domains were observed. The direction of the two principal associations was maintained in expanded and influence sensitivity analyses.                                                                                Conclusions                     In this exploratory sample, two adjusted associations were nominally significant, but neither survived correction for eight comparisons. Overlap among questionnaire constructs, uncertainty in self-report with cognitive impairment, and the modest sample size limit interpretation. Larger studies with documented response assistance and complementary sleep assessments are needed.                                                           Clinical trial number                     Not applicable.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-10",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-11",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08683-1",
+        "doi": "10.1186/s12877-026-08683-1",
+        "url": "https://doi.org/10.1186/s12877-026-08683-1",
+        "title": "Association of skeletal muscle microvascular function with physical fitness and body composition in older adults",
+        "authors": [
+          "Haizheng Huang",
+          "Bin Leng",
+          "Yadan He",
+          "Zitian Liu",
+          "Jiajing Sun",
+          "Chuan Zhang"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-10",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-11",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08682-2",
+        "doi": "10.1186/s12877-026-08682-2",
+        "url": "https://doi.org/10.1186/s12877-026-08682-2",
+        "title": "Metabolic frailty measured by TyG-HFRS and atrial fibrillation in elderly GERD patients admitted to the ICU",
+        "authors": [
+          "Zeng Huang",
+          "Yong’An Jiang",
+          "Peng Chen",
+          "MiaoLong Zhang"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-10",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-11",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08572-7",
+        "doi": "10.1186/s12877-026-08572-7",
+        "url": "https://doi.org/10.1186/s12877-026-08572-7",
+        "title": "Latent profiles and factors associated with self-management among older adults with osteoporosis: a cross-sectional study",
+        "authors": [
+          "Yuanyuan Zhang",
+          "Caiping Jin",
+          "Hui Zhu",
+          "Ying Hu",
+          "Chenqiong Wu",
+          "Jing Qiu",
+          "Haiping Yu",
+          "Zeguo Shao",
+          "Yue Li"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-10",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-11",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08571-8",
+        "doi": "10.1186/s12877-026-08571-8",
+        "url": "https://doi.org/10.1186/s12877-026-08571-8",
+        "title": "Quality of life among the elderly population in Jordan: descriptive correlational cross-sectional study",
+        "authors": [
+          "Wafa’a Ta’an",
+          "Nik Hazimi Mohammed Foziah",
+          "Khetam AlNaamneh",
+          "Mohammed M. Al-Hammouri",
+          "Mohammed A. Ababneh"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-10",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-11",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1215/00703370-12902176",
+        "doi": "10.1215/00703370-12902176",
+        "url": "https://doi.org/10.1215/00703370-12902176",
+        "title": "Racial Disparities in Infant Drug Testing: A Research Note",
+        "authors": [
+          "Mallory Dreyer",
+          "Cydney M. McGuire",
+          "Jennifer M. Silva",
+          "Kosali Simon",
+          "Coady Wing",
+          "Engy Ziedan"
+        ],
+        "abstract": "Highlights                   Black infants were tested for drug exposure at more than twice the rate of White infants. Among those tested, both groups had similar positive rates—approximately 20%. Clinical risk factors explain only 38% of the racial disparity in testing rates. The remaining 61% may reflect differential treatment or unmeasured clinician observations. These findings raise concerns about fairness and trust in clinical decision-making.",
+        "source": "Demography",
+        "issn": "0070-3370",
+        "date": "2026-11-10",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "socialSecurity"
+        ],
+        "firstSeen": "2026-11-11",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261505070",
+        "doi": "10.1177/13872877261505070",
+        "url": "https://doi.org/10.1177/13872877261505070",
+        "title": "Chinese herbal medicine formulas for Alzheimer's disease: Evidence, mechanisms, and translational standards",
+        "authors": [
+          "Er-xin Liang",
+          "Qi-wei Li",
+          "Hua Liang"
+        ],
+        "abstract": "Alzheimer's disease (AD) is defined biologically by amyloid and tau pathology. The emergence of biomarker-based diagnostic criteria, blood-based assays, and anti-amyloid therapeutic trials has substantially raised the evidentiary standard for all candidate AD interventions, including Chinese herbal medicine (CHM) formulas. However, CHM formula evidence for AD lacks critical appraisal and methodological standards. Thus, this review aims to: (1) critically evaluate the clinical, mechanistic, and translational evidence for oral or topical CHM formulas used in AD, specifically those selected according to Traditional Chinese Medicine (TCM) diagnostic; and (2) assess the methodological requirements necessary for credible development of such formulas in AD research. Preclinical studies suggest plausible effects of CHM formulas on amyloid-related pathways, tau phosphorylation, neuroinflammation, oxidative stress, and energy metabolism, but these findings remain hypothesis-generating rather than clinically validated. Most included studies relied on clinical diagnoses, likely encompassing mixed pathologies (e.g., vascular dementia, dementia with Lewy bodies, or depression-related cognitive impairment), rendering their results preliminary rather than confirmatory for biologically defined AD. Current evidence does not support CHM formulas as established therapies for AD. Future studies will require biomarker-confirmed diagnosis, rigorous formula quality control, prespecified TCM pattern stratification, clinically meaningful cognitive and functional endpoints, mechanistic target-engagement measures, and prospective safety and herb-drug interaction monitoring.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-11-10",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-11",
         "fetched_from": "crossref"
       },
       {
@@ -89957,6 +90671,50 @@
           "socialSecurity"
         ],
         "firstSeen": "2026-11-10",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70824",
+        "doi": "10.1111/jgs.70824",
+        "url": "https://doi.org/10.1111/jgs.70824",
+        "title": "<scp>GERI</scp>\n                    ‐\n                    <scp>RISK</scp>\n                    : A Quality Improvement Initiative to Screen for Social Risk in a Geriatric Care Clinic",
+        "authors": [
+          "Lucie Nguyen",
+          "Sapna Vyas",
+          "Patricia Ferguson Reyher",
+          "Ramona Rhodes",
+          "Jessica H. Voit"
+        ],
+        "abstract": "ABSTRACT                                        Background                     Unmet social determinant of health (SDOH) needs can impede access to healthcare and increase morbidity and mortality for older adults. Screening for SDOH takes time, and primary care clinicians often have competing demands.                                                           Methods                     Using a quality improvement (QI) approach, we created a systematic method to screen for SDOH needs as well as perceived health, activities of daily living, instrumental activities of daily living, and internet use among patients seen in a geriatric medicine clinic. Patients screened were from one physician's panel with scheduled primary care appointments in the upcoming 6 months. Epic electronic medical record system and REDCap were used for documentation. We used the plan‐do‐study‐act (PDSA) methodology to improve the screening.                                                           Results                     Of the 368 patients contacted, 224 (61%) completed screening, with 210 (94%) of those patients identifying at least one unmet SDOH need. Excluding screening for tobacco use and depression (which were already screened at a high rate), screening increased by 2%–33% for most SDOH.                                                           Conclusion                     Telephone screening is a feasible method to identify patients' SDOH needs. Next steps include expanding the screening to additional physicians' patient panels, conducting additional PDSA cycles to further improve screening rates, and integrating these methods into the standard clinic workflow.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-11-09",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-10",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag286",
+        "doi": "10.1093/aje/kwag286",
+        "url": "https://doi.org/10.1093/aje/kwag286",
+        "title": "The intersectional compass: the purpose and future of MAIHDA",
+        "authors": [
+          "Gabrielle Jacob"
+        ],
+        "abstract": "",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-11-09",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-11",
         "fetched_from": "crossref"
       },
       {
@@ -126046,6 +126804,71 @@
     ],
     "socialWork": [
       {
+        "id": "doi:10.1177/10497315261501958",
+        "doi": "10.1177/10497315261501958",
+        "url": "https://doi.org/10.1177/10497315261501958",
+        "title": "Expressive Writing Interventions Reduce Unforgiveness: Two Controlled Trials in Chinese Young Adults",
+        "authors": [
+          "Wenjie Li",
+          "Fei Yang",
+          "Yue Hu",
+          "Yingyi Ou",
+          "Xuanru Gong",
+          "Keyi He",
+          "Ping Zheng",
+          "Man Yee Ho",
+          "Jin You"
+        ],
+        "abstract": "Purpose:                     This study aims to evaluate the efficacy and effectiveness of expressive writing in reducing unforgiveness among Chinese young adults, with particular focus on the role letter writing (RLW).                     Methods:                     Two trials were conducted with Chinese participants experiencing interpersonal transgressions (Study 1: laboratory-based trial with university students,                     N                      = 114; Study 2: online-intensive trial with young adults,                     N                      = 98). Participants were assigned to RLW, benefit finding, emotional disclosure, or neutral control conditions.                     Results:                     Across two studies, RLW reduced unforgiveness (                     p                     s                      &lt;                      .01), avoidance (                     p                     s                      &lt;                      .05), and revenge motivations (                     p                     s                      &lt;                      .05) up to the 3-month follow-up. These effects were mediated by perspective taking and cognitive processing linguistic markers. Benefit finding, especially on consecutive days, also reduced unforgiveness (                     p                     s                      &lt;                      .05) at follow-ups, an effect mediated by cognitive processing linguistic markers.                     Discussion:                     Findings highlight the potential of RLW and benefit-finding writing in reducing unforgiveness among Chinese young adults.",
+        "source": "Research on Social Work Practice",
+        "issn": "1049-7315",
+        "date": "2026-11-10",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-11-11",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/bjsw/bcag279",
+        "doi": "10.1093/bjsw/bcag279",
+        "url": "https://doi.org/10.1093/bjsw/bcag279",
+        "title": "Preparing for trauma-exposed practice: Adverse childhood experiences, professional socialization, and ethical risk in social work education",
+        "authors": [
+          "Kim M Anderson"
+        ],
+        "abstract": "Abstract                   Social work students enter professional education with considerable rates of adverse childhood experiences (ACEs) while also preparing for practice that involves sustained engagement with trauma-exposed clients and communities. Although lived adversity may contribute to empathy, resilience, and growth, it may also intersect with emotional responses to trauma-related learning and practice. This conceptual article examines these intersecting experiences through a professional socialization lens and considers how trauma-informed approaches can contribute to ethical preparation for trauma-exposed practice without pathologizing lived experience. Drawing on empirical and conceptual scholarship across social work education, ACEs, trauma-informed education, and professional practice, the article examines individual, relational, curricular, field-based, and institutional approaches. These approaches are organized according to their ethical purpose, the professional risks they address, and anticipated practice-relevant outcomes. The synthesis highlights emotional regulation, reflective capacity, boundary awareness, and intentional use of self as capacities relevant to professional competence and ethical practice. It also identifies limitations in the evidence base, including reliance on individual-level interventions and wellness-oriented outcomes, and emphasizes the shared responsibilities of students, educators, programs, and field supervisors. Implications for social work education, gatekeeping, supervision, and practice highlight the role of trauma-informed preparation in professional development and sustained engagement in trauma-exposed social work practice.",
+        "source": "The British Journal of Social Work",
+        "issn": "0045-3102",
+        "date": "2026-11-10",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-11-11",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/bjsw/bcag283",
+        "doi": "10.1093/bjsw/bcag283",
+        "url": "https://doi.org/10.1093/bjsw/bcag283",
+        "title": "School social workers’ perspectives on parents’ knowledge, involvement, and capacity to prevent sexting among adolescents in South African schools",
+        "authors": [
+          "Anri Gretha Adlem"
+        ],
+        "abstract": "Abstract                   Sexting, including the consensual and non-consensual sharing of sexually explicit images, messages, or content through digital platforms, presents a growing challenge in South African schools, and parents are central to the prevention of adolescents’ digital risks. Although school responses have been the focus of research, limited attention has been given to school social workers’ perspectives on parents’ knowledge of sexting, involvement, and their capacity to support adolescents’ safe use of digital technologies. The aim of the study was to explore South African school social workers’ perceptions of parents’ knowledge, involvement, and capacity to prevent adolescent sexting. The study adopted a qualitative phenomenological research design. A total of thirty-six participants were identified through purposive and snowball sampling. Data were generated through face-to-face and online semi-structured interviews. Data were analysed using Tesch’s eight-step inductive content analysis. Participants reported gaps in parents’ digital literacy, limited supervision, and weak boundaries within the home environment, as well as uncertainty regarding how to discuss online sexual behaviour with adolescents. Participants reported that many parents felt overwhelmed by changing technologies and relied on schools to manage sexting-related issues. The study suggests that parent-targeted digital literacy training, social worker support, and school–community collaboration could strengthen parents’ capacity.",
+        "source": "The British Journal of Social Work",
+        "issn": "0045-3102",
+        "date": "2026-11-10",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-11-11",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1093/sw/swag050",
         "doi": "10.1093/sw/swag050",
         "url": "https://doi.org/10.1093/sw/swag050",
@@ -138351,11 +139174,11 @@
     ]
   },
   "totals": {
-    "socialSecurity": 1620,
-    "elderCare": 977,
-    "healthReform": 1465,
-    "agingHealth": 1410,
-    "socialWork": 536
+    "socialSecurity": 1621,
+    "elderCare": 988,
+    "healthReform": 1470,
+    "agingHealth": 1424,
+    "socialWork": 539
   },
   "feeds_ok": 41
 }
