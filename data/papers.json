@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-11",
-  "fetched": "2026-11-11T07:57:26+00:00",
+  "date": "2026-11-12",
+  "fetched": "2026-11-12T08:34:44+00:00",
   "domains": {
     "socialSecurity": [
       {
@@ -25329,6 +25329,29 @@
     ],
     "elderCare": [
       {
+        "id": "doi:10.1186/s12877-026-08655-5",
+        "doi": "10.1186/s12877-026-08655-5",
+        "url": "https://doi.org/10.1186/s12877-026-08655-5",
+        "title": "Factors associated with in-hospital mortality in adults ≥ 65 years with bacteremia in a tertiary referral hospital in Manizales, Colombia, 2020–2023",
+        "authors": [
+          "Ana María Marín-González",
+          "Fernando Arango Gómez",
+          "Diego Alfonso Sánchez Rodríguez",
+          "Johan Sebastián Villada Gómez"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-12",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-12",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1186/s12877-026-08673-3",
         "doi": "10.1186/s12877-026-08673-3",
         "url": "https://doi.org/10.1186/s12877-026-08673-3",
@@ -25377,6 +25400,228 @@
           "agingHealth"
         ],
         "firstSeen": "2026-11-11",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70827",
+        "doi": "10.1111/jgs.70827",
+        "url": "https://doi.org/10.1111/jgs.70827",
+        "title": "Reducing Physical Restraints in Older Adults on an Acute Care of the Elderly Service: A Pragmatic Before–After Quality Improvement Initiative",
+        "authors": [
+          "Monidipa Dasgupta",
+          "Lyndsay Beker",
+          "Alexander Tischenko",
+          "Sushant Arora",
+          "Cyan Wen",
+          "Suzanne Bell"
+        ],
+        "abstract": "ABSTRACT                                        Background                     Physical restraints are sometimes used in acute medical wards despite being ineffective and potentially harmful. We conducted a quality improvement project to decrease physical restraint use in hospitalized older adults admitted to an academic acute care of the elderly medical service.                                                           Methods                     In this non‐randomized, before‐after project, restrained patients were identified in routine morning rounds and assigned to the geriatric nurse practitioner on the team. Individualized approaches to decrease restraint use were derived. Discussions with substitute decision makers highlighting the harms and ineffectiveness of physical restraints were held, and their input informed decision making on restraint use. This discussion was documented in the medical record. The hospital restraint policy was also modified to require a physician order for all restraints and the expiration of these orders after 24 h. Patients were followed throughout their hospitalization, and physical restraint use (torso, pelvic, or limb restraints) was compared in two similar 6‐month periods, prior to (Period 1) and after (Period 2) introducing this initiative.                                                           Results                                            In controlled analyses the percentage of patients who were ever restrained decreased from a level of 44.9% (95% CI: 41.2%–48.6%) to 37.2% (95% CI: 33.7%–40.7%) (                       p                        &lt; 0.003), and median length of time spent in restraints decreased from 2.27 (95% CI: 1.94–2.61) days to 1.48 days (95% CI: 1.28–1.67) (                       p                        &lt; 0.001). There was no accompanying increase in the use of benzodiazepines or neuroleptics (trend toward less drug use in Period 2) or falls. There were fewer violent events in Period 2 (                       p                        &lt; 0.05).                                                                                Conclusions                     Physical restraint use was decreased in older adults on an acute care of the elderly medical service, through various strategies. This suggests that physical restraints should be monitored and that hospitals should implement quality improvement programs to decrease physical restraint use.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-11-11",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-12",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08653-7",
+        "doi": "10.1186/s12877-026-08653-7",
+        "url": "https://doi.org/10.1186/s12877-026-08653-7",
+        "title": "Prevalence of sarcopenic obesity in older stroke rehabilitation patients and association with outcomes: a meta-analysis and systematic review",
+        "authors": [
+          "Hongyan Li",
+          "Bingyan Zhao",
+          "Leilei Bao",
+          "Lingyin Chen",
+          "Jindong Ling",
+          "Dimei Pu",
+          "Zhiting Guo"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-11",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-12",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08646-6",
+        "doi": "10.1186/s12877-026-08646-6",
+        "url": "https://doi.org/10.1186/s12877-026-08646-6",
+        "title": "Staff clothing and uniforms in care homes for older people: a scoping review and analysis of online content",
+        "authors": [
+          "Jennifer Liddle",
+          "Barbara Hanratty",
+          "Abdulwahab Alazawi",
+          "Dawn Esslemont",
+          "Christine Henderson",
+          "Louise Jones",
+          "Louise Nicholson",
+          "Lisa Wilson",
+          "Katie H. Thomson"
+        ],
+        "abstract": "Abstract                                        Background                     Long-term care policy and practice continue to promote institutional living at the expense of support for ageing in place. Improving experiences of care home residents requires recognising care homes as places of everyday living, moving beyond clinical models to support ‘living with care’ rather than ‘existing in care’. Staff uniforms are ubiquitous in care homes yet remain relatively unexamined. Unlike hospitals, care homes are places where older people live, and uniforms may contribute to the medicalisation of ageing. Non-uniform approaches could support home-like environments and resident wellbeing. An emerging trend of non-uniform dress codes in UK care homes warrants evidence synthesis.                                                           Methods                     We conducted a scoping review in accordance with PRISMA-ScR guidelines, searching six bibliographic databases to April 2026. Supplementary searches of care sector websites, charity platforms, and public discussion forums captured perspectives beyond academic literature. Included sources spanned empirical studies and non-academic public content addressing staff clothing in care homes for older adults.                                                           Results                     Fifty-eight records were included, describing 13 empirical studies and 36 public discourse cases; only a minority of research records (8; 35%) were peer-reviewed. Seven themes were identified: health and hygiene; identification, care home atmosphere; changing behaviours; perspectives and preferences; perceptions and connotations; and decision making. Despite a limited evidence base, available research suggests non-uniform policies do not compromise hygiene or resident health, and may reduce anxiety, support independence and foster relational, homelike environments. Public discourse presented a more contested picture, with both approaches carrying perceived advantages and tensions.                                                           Conclusion                     Staff clothing is a socially embedded aspect of care practice. Research evidence suggests non-uniform policies do not compromise safety and may actively support resident wellbeing and relational engagement. However, public discourse reflects genuine concerns around professionalism, identification and individuality that empirical research has not fully addressed. Context-sensitive, resident-centred decision making and research prioritising direct engagement with residents are needed.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-11",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-12",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08684-0",
+        "doi": "10.1186/s12877-026-08684-0",
+        "url": "https://doi.org/10.1186/s12877-026-08684-0",
+        "title": "Association between dominant and non-dominant limb concentric quadriceps strength and low skeletal muscle mass index in community-dwelling older adults: a cross-sectional study",
+        "authors": [
+          "Aenon Lee",
+          "Yea Jin Jo",
+          "Sarang Lee",
+          "Eun Surk Yi"
+        ],
+        "abstract": "Abstract                                        Background                     Sarcopenia is common in older adults and predicts adverse outcomes. Contemporary consensus definitions use low muscle strength as the entry point for case-finding, but confirmation requires demonstration of low muscle mass, typically quantified by dual-energy X-ray absorptiometry (DXA) or bioelectrical impedance analysis (BIA), which are not universally accessible. Quadriceps strength is functionally central to lower-limb health and can be objectively measured by concentric dynamometry. However, previous concentric studies in sarcopenia have typically assessed a single, usually dominant, limb, and the relative contribution of the dominant and non-dominant limbs to the association with muscle mass has not been examined. We therefore compared concentric knee muscle performance between the dominant and non-dominant limbs and examined the association of dominant and non-dominant limb quadriceps strength with low skeletal muscle mass index (low SMI) in community-dwelling older adults.                                                           Methods                     In this cross-sectional study, community-dwelling adults aged ≥ 60 years underwent concentric knee strength testing at an angular velocity of 60°/s. Peak torque, total work, and average power of the quadriceps and hamstrings were measured bilaterally, and the hamstring-to-quadriceps (H: Q) ratio was calculated. Leg dominance was self-reported, and right- and left-side values were reassigned to the dominant and non-dominant limbs. Participants were classified as normal SMI or low SMI using sex-specific Asian Working Group for Sarcopenia (AWGS) 2019 criteria. Paired t-tests compared dominant and non-dominant limb variables; age- and sex-adjusted binary logistic regression, receiver operating characteristic (ROC) curve analysis with DeLong comparison, and a mixed-design (limb SMI group) analysis evaluated the contribution of each limb to low SMI.                                                           Results                                            A total of 171 participants were included in the analysis (139 normal SMI, 32 low SMI; mean age 69.88 ± 7.97 years). Dominant limb quadriceps peak torque, total work, and average power were significantly greater than the corresponding non-dominant limb values (all                       p                        ≤ 0.004), whereas hamstring variables showed no significant between-limb differences. In adjusted models, higher quadriceps peak torque, total work, and average power of the dominant limb were associated with lower odds of low SMI (odds ratios [ORs] 0.968, 0.993, and 0.958; all                       p                        ≤ 0.010); in the non-dominant limb, total work and average power were significantly associated (ORs 0.994 and 0.966;                       p                        = 0.049 and 0.030), whereas peak torque was not (OR 0.976;                       p                        = 0.058). The limb × SMI group interaction was not significant for any quadriceps variable (all                       p                        &gt; 0.10). Area-under-the-curve (AUC) values were similar for the dominant (0.63–0.64) and non-dominant limbs (0.60–0.64; all DeLong                       p                        ≥ 0.34), and all remained below 0.70.                                                                                Conclusions                     Lower quadriceps strength in both the dominant and non-dominant limbs was associated with low SMI, and neither limb contributed disproportionately to this association or showed superior discriminative ability. These findings indicate a bilateral reduction in knee-extensor strength that is independent of limb dominance; given the modest discrimination, quadriceps concentric strength should complement, rather than replace, established muscle mass assessment.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-11",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-12",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08642-w",
+        "doi": "10.1186/s12877-026-08642-w",
+        "url": "https://doi.org/10.1186/s12877-026-08642-w",
+        "title": "Orthogeriatric admission biomarker profiles across hip fragility fracture phenotypes: a real-world cohort study",
+        "authors": [
+          "José Luis Dinamarca-Montecinos",
+          "Miguel Yáñez",
+          "Diego Mellado",
+          "Constanza Toloza Zamora",
+          "Ana Aguilera",
+          "Jean-Gabriel Minonzio"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-11",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-12",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08661-7",
+        "doi": "10.1186/s12877-026-08661-7",
+        "url": "https://doi.org/10.1186/s12877-026-08661-7",
+        "title": "Profiles of healthy ageing among older adults in China: a latent profile analysis",
+        "authors": [
+          "Yuxia Ma",
+          "Yu Zhu",
+          "Yifang Yang",
+          "Mengyu Yang",
+          "Nini Shi",
+          "Huanhuan Wang",
+          "Jing Liu",
+          "Hongxia Lu",
+          "Bo Liu"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-11",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-12",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08696-w",
+        "doi": "10.1186/s12877-026-08696-w",
+        "url": "https://doi.org/10.1186/s12877-026-08696-w",
+        "title": "Development and feasibility of a theory-driven multidomain intervention for community-dwelling older adults with mild cognitive impairment: a quasi-experimental pilot study based on the Multi-Theory Model",
+        "authors": [
+          "Rui Ren",
+          "Xiaoxiao Wei",
+          "Yuxin Han",
+          "Qing Wang",
+          "Shaoting Sheng",
+          "Ke Liu",
+          "Lijun Wei",
+          "Ling Sha",
+          "Xiaomin Zhang"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-11",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-12",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08569-2",
+        "doi": "10.1186/s12877-026-08569-2",
+        "url": "https://doi.org/10.1186/s12877-026-08569-2",
+        "title": "Handgrip strength and 4-meter walk performance as practical functional measures of sarcopenia and physiologic reserve in acute hospital care: a prospective cohort study",
+        "authors": [
+          "Sapir Kon Kfir",
+          "Haim Krupkin",
+          "Ana Belkin",
+          "Yifan Chen",
+          "Gadi Shlomai",
+          "Jonathan Bleier",
+          "Shiri Weinstein",
+          "Liora Bruckmayer",
+          "Elad Prinz",
+          "Alon Kaplan",
+          "Michal Goldenberg Shraga",
+          "Dana Lev",
+          "Shahar Dekel",
+          "Noa Shalmon",
+          "Nurit Tsarfaty",
+          "Niv Reiss Gindi",
+          "Ofir Deri",
+          "Batya Sarna",
+          "Evelyne Bischof",
+          "Avshalom Leibowitz"
+        ],
+        "abstract": "Abstract                                        Background                     Functional reserve is difficult to characterize during routine acute hospital care. Sarcopenia is associated with frailty, disability, and mortality, but rapid functional assessment remains underused in hospitalized older adults. We evaluated handgrip strength and 4-meter walk test (4MWT) performance as pragmatic measures of probable sarcopenia and physiologic reserve during acute illness.                                                           Methods                     We conducted a prospective cohort study of 279 hospitalized adults aged 65–95 years at a tertiary medical center. Handgrip strength was measured using dynamometry; values &lt; 27 kg in men and &lt; 16 kg in women were classified as probable sarcopenia according to EWGSOP2. Among 169 participants who completed the 4MWT without an assistive device, associations between probable sarcopenia, walk time, age, and sex were evaluated using linear regression. Selection into the 4MWT subgroup was examined using inverse-probability weighting (IPW).                                                           Results                                            Participants with probable sarcopenia were underrepresented in the 4MWT subgroup. In the 169 participants with eligible 4MWT measurements, probable sarcopenia was independently associated with a 1.59-second longer walk time after adjustment for age and sex (95% CI 0.55–2.63;                       P                        = 0.003). The IPW estimate was similar (β = 1.62 s, 95% CI 0.49–2.75;                       P                        = 0.005). In an exploratory overlapping age-window analysis, concordance was greatest in the 73–84-year interval (AUC = 0.69, bootstrap 95% CI 0.58–0.80).                                                                                Conclusions                     Handgrip strength is a rapid bedside-feasible measure, whereas the 4MWT is a complementary ward-based assessment for sufficiently mobile and clinically stable hospitalized older adults. These state-dependent measures characterize functional performance and physiologic reserve during acute illness; longitudinal studies are required to determine their relationship to baseline function, recovery, and healthspan outcomes.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-11",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-12",
         "fetched_from": "crossref"
       },
       {
@@ -25739,6 +25984,26 @@
           "agingHealth"
         ],
         "firstSeen": "2026-11-11",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/geront/gnag253",
+        "doi": "10.1093/geront/gnag253",
+        "url": "https://doi.org/10.1093/geront/gnag253",
+        "title": "Navigating turbulent waters in\n                    <i>Queen at Sea</i>",
+        "authors": [
+          "Rose Capp"
+        ],
+        "abstract": "",
+        "source": "The Gerontologist",
+        "issn": "0016-9013",
+        "date": "2026-11-10",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-12",
         "fetched_from": "crossref"
       },
       {
@@ -50227,6 +50492,742 @@
       }
     ],
     "healthReform": [
+      {
+        "id": "doi:10.1056/nejmoa2603649",
+        "doi": "10.1056/nejmoa2603649",
+        "url": "https://doi.org/10.1056/nejmoa2603649",
+        "title": "Rivaroxaban Then Aspirin vs. Aspirin Alone after Total Hip or Knee Arthroplasty",
+        "authors": [
+          "Sudeep Shivakumar",
+          "Davide Matino",
+          "David Zukor",
+          "Susan R. Kahn",
+          "George Vincent",
+          "Raman Mundi",
+          "Pascal-Andre Vendittoli",
+          "Mohammad Refaei",
+          "Eric Bohm",
+          "Michael Tanzer",
+          "Stéphane Pelet",
+          "Glen Richardson",
+          "James Powell",
+          "Rick Ikesaka",
+          "James Douketis",
+          "Sarah Ward",
+          "Paul Kim",
+          "Stephen Mann",
+          "Susan Pleasance",
+          "Jocelyn Cormier",
+          "Pantelis Andreou",
+          "Kara Matheson",
+          "Chris Theriault",
+          "Carol West",
+          "David Anderson",
+          "Peter L. Gross"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-11-12",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-12",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmoa2609057",
+        "doi": "10.1056/nejmoa2609057",
+        "url": "https://doi.org/10.1056/nejmoa2609057",
+        "title": "Prasugrel versus Ticagrelor in Acute Coronary Syndromes",
+        "authors": [
+          "Elmir Omerovic",
+          "Sasha Koul",
+          "Jonas Andersson",
+          "Johan Pontén",
+          "Fredrik Björklund",
+          "Robert Kastberg",
+          "Mila Sun",
+          "Charlotta Ljungman",
+          "Ole Fröbert",
+          "Kristian Bolin",
+          "Kristofer Skoglund",
+          "Carl-David Dolata",
+          "Mats Birgander",
+          "Helena Wikström",
+          "Truls Råmunddal",
+          "Oskar Angerås",
+          "Petur Petursson",
+          "David Erlinge",
+          "Björn Redfors"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-11-12",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-12",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejme2610678",
+        "doi": "10.1056/nejme2610678",
+        "url": "https://doi.org/10.1056/nejme2610678",
+        "title": "The Emerging Role of Treatment Policy Implementation Trials in Acute Coronary Syndrome",
+        "authors": [
+          "Robert A. Byrne"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-11-12",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-12",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmc2607434",
+        "doi": "10.1056/nejmc2607434",
+        "url": "https://doi.org/10.1056/nejmc2607434",
+        "title": "Interferon-γ Underlying Thymoma-Associated Immune Dysregulation",
+        "authors": [
+          "Iivo Hetemäki",
+          "Chen Wang",
+          "Rachel Wu",
+          "Joseph Pechacek",
+          "Taura Webb",
+          "Deanna Riley",
+          "Lucas dos Santos Dias",
+          "Heather Moorman",
+          "Princess Barber",
+          "Lindsey B. Rosen",
+          "Annalie Harris",
+          "Sebastian Ochoa",
+          "Karthik Darma",
+          "Maria Semenova",
+          "Laercio Lopez Da Silva",
+          "Kai Kisand",
+          "Tovah E. Markowitz",
+          "Peter D. Burbelo",
+          "Monika Fischer",
+          "Mark Raffeld",
+          "Tyler Hulett",
+          "Jennifer Stoddard",
+          "Sergio D. Rosenzweig",
+          "Christopher G. Kanakry",
+          "Kathy L. McGraw",
+          "Joseph Rocco",
+          "Luigi D. Notarangelo",
+          "Christa S. Zerbe",
+          "Ivan Fuss",
+          "Anjali Rai",
+          "Theo Heller",
+          "Patrick J. Loehrer",
+          "Eliisa Kekäläinen",
+          "Alexandra F. Freeman",
+          "Arun Rajan",
+          "Timi Martelius",
+          "Katherine R. Calvo",
+          "Steven M. Holland",
+          "Roderick Marion",
+          "Stefania Pittaluga",
+          "Michail S. Lionakis"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-11-12",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-12",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmc2608446",
+        "doi": "10.1056/nejmc2608446",
+        "url": "https://doi.org/10.1056/nejmc2608446",
+        "title": "Autoantibodies against Type I Interferons and Death from H7N7 Avian Influenza",
+        "authors": [
+          "Qian Zhang",
+          "Ron A.M. Fouchier",
+          "Marcela Moncada-Vélez",
+          "Adam Meijer",
+          "Yingzi Cui",
+          "Anne Puel",
+          "Paul Bastard",
+          "Aurelie Cobat",
+          "Shen-Ying Zhang",
+          "Ruyue Chen",
+          "Ryan A. Langlois",
+          "Adolfo García-Sastre",
+          "Jean-Laurent Casanova"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-11-12",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-12",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmc2609517",
+        "doi": "10.1056/nejmc2609517",
+        "url": "https://doi.org/10.1056/nejmc2609517",
+        "title": "Subretinal Gene Therapy in X-Linked Retinoschisis",
+        "authors": [],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-11-12",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-12",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmc2611338",
+        "doi": "10.1056/nejmc2611338",
+        "url": "https://doi.org/10.1056/nejmc2611338",
+        "title": "Iptacopan in IgA Nephropathy — Final 24-Month Data",
+        "authors": [],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-11-12",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-12",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmc2611613",
+        "doi": "10.1056/nejmc2611613",
+        "url": "https://doi.org/10.1056/nejmc2611613",
+        "title": "Perioperative Apalutamide in High-Risk Localized Prostate Cancer",
+        "authors": [],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-11-12",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-12",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmcpc2301034",
+        "doi": "10.1056/nejmcpc2301034",
+        "url": "https://doi.org/10.1056/nejmcpc2301034",
+        "title": "Case 32-2026: A 50-Year-Old Man with Recurrent Cardiomyopathy",
+        "authors": [
+          "Dale S. Adler",
+          "Christopher H. Newton-Cheh",
+          "Shahmir C. Kamalian",
+          "Margaret F. Lippincott",
+          "Harrison G. Pope",
+          "Soma Jobbagy"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-11-12",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-12",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejme2612392",
+        "doi": "10.1056/nejme2612392",
+        "url": "https://doi.org/10.1056/nejme2612392",
+        "title": "Aspirin Therapy — Enough after Arthroplasty?",
+        "authors": [
+          "John W. Eikelboom"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-11-12",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-12",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmicm2607906",
+        "doi": "10.1056/nejmicm2607906",
+        "url": "https://doi.org/10.1056/nejmicm2607906",
+        "title": "Lung Hernia with a Chest-Wall Bulge",
+        "authors": [
+          "Elnur Tahirović"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-11-12",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-12",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmoa2602435",
+        "doi": "10.1056/nejmoa2602435",
+        "url": "https://doi.org/10.1056/nejmoa2602435",
+        "title": "Prevention of Venous Thromboembolism after Total Hip or Knee Replacement",
+        "authors": [
+          "Vincent D. Pellegrini",
+          "Carol A. Lambourne",
+          "Laurence S. Magder",
+          "Patricia D. Franklin",
+          "Jay S. Magaziner",
+          "Brook I. Martin",
+          "Richard Iorio",
+          "Kevin L. Garvin",
+          "Michael A. Mont",
+          "Wayne E. Moschetti",
+          "Antonia F. Chen",
+          "David Warwick",
+          "C. McCollister Evarts",
+          "Adina Harri",
+          "Laura M. Kernan",
+          "Samuel Z. Goldhaber",
+          "William J. Maloney",
+          "Zeke J. Walton",
+          "James A. Browne",
+          "Harry A. Demos",
+          "James I. Huddleston",
+          "Stephen L. Kates",
+          "Peter J. Brooks",
+          "Navin D. Fernando",
+          "Brock A. Lindsey",
+          "Matthew J. Dietz",
+          "James Nace",
+          "Ronald E. Delanois",
+          "Michael S. Kain",
+          "Mark J. Spangehl",
+          "Brent A. Lanting",
+          "Eric M. Cohen",
+          "Lisa K. Moores",
+          "William L. Healy",
+          "Charles W. Francis"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-11-12",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-12",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmra2508563",
+        "doi": "10.1056/nejmra2508563",
+        "url": "https://doi.org/10.1056/nejmra2508563",
+        "title": "Preventing Malaria Infections and Moving toward Malaria Elimination",
+        "authors": [
+          "Andre Marie Tchouatieu",
+          "Timothy N.C. Wells",
+          "Jane Achan"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-11-12",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-12",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmvcm2517207",
+        "doi": "10.1056/nejmvcm2517207",
+        "url": "https://doi.org/10.1056/nejmvcm2517207",
+        "title": "High-Flow Oxygen Therapy with Nasal Cannula",
+        "authors": [
+          "Melissa Nadler",
+          "Kevin Fung Cai",
+          "Parth Jalihal",
+          "Rafael Ortega"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-11-12",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-12",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.24600",
+        "doi": "10.1001/jama.2026.24600",
+        "url": "https://doi.org/10.1001/jama.2026.24600",
+        "title": "Missing Information in End Matter and Errors in eTable",
+        "authors": [],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-11",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-12",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.21948",
+        "doi": "10.1001/jama.2026.21948",
+        "url": "https://doi.org/10.1001/jama.2026.21948",
+        "title": "Medical Countermeasures for Radionuclide Internal Contamination",
+        "authors": [
+          "Arthur Chang",
+          "Carol J. Iddins",
+          "Roger J. Lewis"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-11",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-12",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.19524",
+        "doi": "10.1001/jama.2026.19524",
+        "url": "https://doi.org/10.1001/jama.2026.19524",
+        "title": "Acute Vestibular Syndrome",
+        "authors": [
+          "Jonathan A. Edlow",
+          "Daniel Gold"
+        ],
+        "abstract": "This JAMA Insights discusses the clinical presentation, diagnostic approach, and treatment of acute vestibular syndrome.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-11",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-12",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.19202",
+        "doi": "10.1001/jama.2026.19202",
+        "url": "https://doi.org/10.1001/jama.2026.19202",
+        "title": "P-Tau217 Levels and Cognitive Impairment",
+        "authors": [
+          "Subrata Pal",
+          "Soumendra N. Lahiri",
+          "Ganesh M. Babulal"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-11",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-12",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.16515",
+        "doi": "10.1001/jama.2026.16515",
+        "url": "https://doi.org/10.1001/jama.2026.16515",
+        "title": "The Art of Staying",
+        "authors": [
+          "Yosra Raziani"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-11",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-12",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.16547",
+        "doi": "10.1001/jama.2026.16547",
+        "url": "https://doi.org/10.1001/jama.2026.16547",
+        "title": "Palliative Care, or to Help “Carry the Sky”",
+        "authors": [
+          "Rafael Campo"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-11",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-12",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.19196",
+        "doi": "10.1001/jama.2026.19196",
+        "url": "https://doi.org/10.1001/jama.2026.19196",
+        "title": "P-Tau217 Levels and Cognitive Impairment",
+        "authors": [
+          "Twiza Chard",
+          "Jinyu Lin",
+          "Hansong Sheng"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-11",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-12",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.19199",
+        "doi": "10.1001/jama.2026.19199",
+        "url": "https://doi.org/10.1001/jama.2026.19199",
+        "title": "P-Tau217 Levels and Cognitive Impairment—Reply",
+        "authors": [
+          "Rachel F. Buckley",
+          "Reisa A. Sperling"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-11",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-12",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.19809",
+        "doi": "10.1001/jama.2026.19809",
+        "url": "https://doi.org/10.1001/jama.2026.19809",
+        "title": "HOPO 14-1, an Oral Actinide Chelator",
+        "authors": [
+          "Sascha N. Goonewardena",
+          "Laura Atleski",
+          "Deborah I. Bunin",
+          "Anna M. Furimsky",
+          "Sandra Pui",
+          "Carol E. Green",
+          "Polly Y. Chang"
+        ],
+        "abstract": "Importance                     Current treatments approved by the US Food and Drug Administration for internal actinide contamination (pentetate calcium trisodium and pentetate zinc trisodium) require intravenous injection or nebulized inhalation under medical supervision and have limited radionuclide coverage. HOPO 14-1, an oral form of 3,4,3-LI(1,2-HOPO), is the first shelf-stable, broad-spectrum actinide chelator in clinical development that does not require intravenous access or trained personnel. In preclinical models, 3,4,3-LI(1,2-HOPO) removed a broad range of actinides, and its oral route supports scalable emergency medical use.                                                           Objective                     To evaluate the safety, tolerability, pharmacokinetic parameters, and excretion of  a single dose of HOPO 14-1 in healthy adults.                                                           Design, Setting, and Participants                     This was a phase 1 nonrandomized clinical trial including 42 healthy adults (6 per dose level) with evaluations for 14 days after administration of a single dose and conducted at a single site in the US. Participants were recruited and screened between March 2023 and July 2025 and follow-up was completed in August 2025.                                                           Intervention                     Single oral dose of HOPO 14-1 administered at 1 of 7 dose levels (100 mg, 200 mg, 500 mg, 1200 mg, 2500 mg, 5000 mg, or 7500 mg) with follow-up through day 14 after dose administration.                                                           Main Outcomes and Measures                     The primary outcomes were the incidence and severity of adverse events, drug-related adverse events, and serious adverse events. The secondary outcomes were plasma pharmacokinetic parameters and cumulative urinary and fecal excretion.                                                           Results                     Of the 42 healthy adults enrolled (median age, 43 [IQR, 34-51] years; 64% female), all received a single dose of HOPO 14-1 (administered across all dose levels as assigned). There were no serious adverse events or dose-limiting toxic effects. The drug-related adverse events included diarrhea (31%), vomiting (14%), headache (12%), and fatigue (7%); all were mild to moderate in severity. Gastrointestinal adverse events were the principal tolerability findings and most evident at the highest doses. The plasma pharmacokinetic parameters demonstrated rapid absorption (median time of maximum plasma concentration, 0.86 [range, 0.53-1.60] hours to 1.90 [range, 1.40-2.90] hours) and dose-dependent increases in systemic exposure, with greater than proportional increases at higher doses. Fecal excretion was the primary route of elimination; urinary excretion was minimal.                                                           Conclusions and Relevance                     Single oral doses of HOPO 14-1 up to 7500 mg were administered without dose-limiting toxicity or serious adverse events in healthy adults. Gastrointestinal tolerability defined the practical single-dose ceiling. These findings establish the first human safety and pharmacokinetic profile of a novel, orally administered actinide chelator and support further clinical evaluation of HOPO 14-1 as a countermeasure for internal radionuclide and heavy metal contamination. Development of a deployable and population-level emergency intervention addresses a long-standing unmet need with important implications for public health preparedness.                                                           Trial Registration                                            ClinicalTrials.gov Identifier:                       NCT05628961",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-11",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-12",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.21767",
+        "doi": "10.1001/jama.2026.21767",
+        "url": "https://doi.org/10.1001/jama.2026.21767",
+        "title": "Beyond Screening—Building a Maternal Mental Health Care System",
+        "authors": [
+          "Sugy Choi",
+          "Jonathan Cantor",
+          "Elizabeth Fitelson",
+          "Catherine Monk"
+        ],
+        "abstract": "This Viewpoint, using postpartum psychosis (PPP) as an example, raises questions about the ability of the US health care system to identify and treat perinatal mental illnesses; highlights recent progress and suggests ways to further improve; and calls for system changes to ensure that all patients with perinatal mental illnesses are identified and treated.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-11",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-12",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejme2614041",
+        "doi": "10.1056/nejme2614041",
+        "url": "https://doi.org/10.1056/nejme2614041",
+        "title": "Cancer Vaccines — From Treatment to Prevention",
+        "authors": [
+          "Mark Yarchoan"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-11-11",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-12",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmoa2609762",
+        "doi": "10.1056/nejmoa2609762",
+        "url": "https://doi.org/10.1056/nejmoa2609762",
+        "title": "Intismeran Autogene plus Pembrolizumab for Resected Stage IIB to IV Melanoma",
+        "authors": [
+          "Georgina V. Long",
+          "Muhammad A. Khattak",
+          "Helen J. Gogas",
+          "Dirk Schadendorf",
+          "Ana Arance",
+          "Matteo S. Carlino",
+          "Piotr Rutkowski",
+          "Gareth Rivalland",
+          "Antoni Ribas",
+          "Janice M. Mehnert",
+          "Patrick A. Ott",
+          "Reinhard Dummer",
+          "Paola Queirolo",
+          "Christoffer Gebhardt",
+          "Caroline Dutriaux",
+          "Carlos Rojas",
+          "Yuanbin Chen",
+          "Lisa M. Tachiki",
+          "Ronnie Shapira-Frommer",
+          "Oliver Bechter",
+          "Ryan J. Sullivan",
+          "Alexander M.M. Eggermont",
+          "Laureen S. Ojalvo",
+          "Michelle Brown",
+          "Jinchun Zhang",
+          "Dmitri O. Grebennik",
+          "Mizuho Fukunaga-Kalabis",
+          "Paolo A. Ascierto",
+          "Michele Del Vecchio"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-11-11",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-12",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag289",
+        "doi": "10.1093/aje/kwag289",
+        "url": "https://doi.org/10.1093/aje/kwag289",
+        "title": "Multi-model insights into racial and ethnic heterogeneities in early COVID-19 transmission and severity in the U.S.",
+        "authors": [
+          "Samantha J Bents",
+          "Soren L Larsen",
+          "Sung-mok Jung",
+          "Emily Howerton",
+          "Lucie Contamin",
+          "Sara L Loo",
+          "Nicolò Gozzi",
+          "Jessica T Davis",
+          "Alessandro Vespignani",
+          "Matteo Chinazzi",
+          "Nicola Perra",
+          "Shraddha Ramdas Bandekar",
+          "Kaiming Bi",
+          "Anass Bouchnita",
+          "Spencer J Fox",
+          "Lauren Ancel Meyers",
+          "Ajitesh Srivastava",
+          "Majd Al Aawar",
+          "Jiangzhuo Chen",
+          "Srinivasan Venkatramanan",
+          "Stefan Hoops",
+          "Bryan Lewis",
+          "Parantapa Bhattacharya",
+          "Dustin Machi",
+          "Madhav Marathe",
+          "Sen Pei",
+          "Q Yao",
+          "Qiqi Yang",
+          "Alison Hill",
+          "Anjalika Nande",
+          "Joseph Lemaitre",
+          "Timothy Willard",
+          "Carl A B Pearson",
+          "Emily Przykucki",
+          "Clifton McKee",
+          "Joshua Macdonald",
+          "Tijs Alleman",
+          "Claire P Smith",
+          "Erica Carcelen",
+          "Abas Shkembi",
+          "Katie Yan",
+          "Harry Hochheiser",
+          "Cecile Viboud",
+          "Justin Lessler",
+          "Katriona Shea",
+          "Tomás M León",
+          "Shaun Truelove"
+        ],
+        "abstract": "Abstract                   The COVID-19 pandemic was marked by unequal disease burden across racial and ethnic groups in the US. Using a multi-model ensemble framework, we retrospectively assessed the impact of racial and ethnic heterogeneities in COVID-19 transmission and disease severity on mortality during the winter 2020–2021 surge in California and North Carolina. Models incorporating race and ethnicity projected mortality more accurately than null models, while the ensemble outperformed all individual models on average by weighted interval scores. Eliminating transmission heterogeneities produced larger mortality reductions than eliminating severity differences alone, particularly for Latino populations in California (55% reduction) and Black populations in North Carolina (28% reduction). Reducing severity heterogeneity also lowered mortality, with the greatest benefit among Black populations in both states (21% and 16% reductions in California and North Carolina, respectively). Eliminating both transmission and severity heterogeneity yielded the largest reductions overall, predicting 49–70% lower mortality across racial and ethnic groups in California and 23–40% in North Carolina. Mitigating transmission inequities also produced indirect benefits for non-targeted populations, highlighting the broad impact of reducing disparities in exposure risk and access to protective resources.",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-11-11",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-12",
+        "fetched_from": "crossref"
+      },
       {
         "id": "doi:10.1001/jama.2026.14866",
         "doi": "10.1001/jama.2026.14866",
@@ -90174,6 +91175,29 @@
     ],
     "agingHealth": [
       {
+        "id": "doi:10.1186/s12877-026-08655-5",
+        "doi": "10.1186/s12877-026-08655-5",
+        "url": "https://doi.org/10.1186/s12877-026-08655-5",
+        "title": "Factors associated with in-hospital mortality in adults ≥ 65 years with bacteremia in a tertiary referral hospital in Manizales, Colombia, 2020–2023",
+        "authors": [
+          "Ana María Marín-González",
+          "Fernando Arango Gómez",
+          "Diego Alfonso Sánchez Rodríguez",
+          "Johan Sebastián Villada Gómez"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-12",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-12",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1186/s12877-026-08673-3",
         "doi": "10.1186/s12877-026-08673-3",
         "url": "https://doi.org/10.1186/s12877-026-08673-3",
@@ -90220,6 +91244,319 @@
         "domains": [
           "elderCare",
           "agingHealth"
+        ],
+        "firstSeen": "2026-11-11",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70827",
+        "doi": "10.1111/jgs.70827",
+        "url": "https://doi.org/10.1111/jgs.70827",
+        "title": "Reducing Physical Restraints in Older Adults on an Acute Care of the Elderly Service: A Pragmatic Before–After Quality Improvement Initiative",
+        "authors": [
+          "Monidipa Dasgupta",
+          "Lyndsay Beker",
+          "Alexander Tischenko",
+          "Sushant Arora",
+          "Cyan Wen",
+          "Suzanne Bell"
+        ],
+        "abstract": "ABSTRACT                                        Background                     Physical restraints are sometimes used in acute medical wards despite being ineffective and potentially harmful. We conducted a quality improvement project to decrease physical restraint use in hospitalized older adults admitted to an academic acute care of the elderly medical service.                                                           Methods                     In this non‐randomized, before‐after project, restrained patients were identified in routine morning rounds and assigned to the geriatric nurse practitioner on the team. Individualized approaches to decrease restraint use were derived. Discussions with substitute decision makers highlighting the harms and ineffectiveness of physical restraints were held, and their input informed decision making on restraint use. This discussion was documented in the medical record. The hospital restraint policy was also modified to require a physician order for all restraints and the expiration of these orders after 24 h. Patients were followed throughout their hospitalization, and physical restraint use (torso, pelvic, or limb restraints) was compared in two similar 6‐month periods, prior to (Period 1) and after (Period 2) introducing this initiative.                                                           Results                                            In controlled analyses the percentage of patients who were ever restrained decreased from a level of 44.9% (95% CI: 41.2%–48.6%) to 37.2% (95% CI: 33.7%–40.7%) (                       p                        &lt; 0.003), and median length of time spent in restraints decreased from 2.27 (95% CI: 1.94–2.61) days to 1.48 days (95% CI: 1.28–1.67) (                       p                        &lt; 0.001). There was no accompanying increase in the use of benzodiazepines or neuroleptics (trend toward less drug use in Period 2) or falls. There were fewer violent events in Period 2 (                       p                        &lt; 0.05).                                                                                Conclusions                     Physical restraint use was decreased in older adults on an acute care of the elderly medical service, through various strategies. This suggests that physical restraints should be monitored and that hospitals should implement quality improvement programs to decrease physical restraint use.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-11-11",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-12",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08653-7",
+        "doi": "10.1186/s12877-026-08653-7",
+        "url": "https://doi.org/10.1186/s12877-026-08653-7",
+        "title": "Prevalence of sarcopenic obesity in older stroke rehabilitation patients and association with outcomes: a meta-analysis and systematic review",
+        "authors": [
+          "Hongyan Li",
+          "Bingyan Zhao",
+          "Leilei Bao",
+          "Lingyin Chen",
+          "Jindong Ling",
+          "Dimei Pu",
+          "Zhiting Guo"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-11",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-12",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08646-6",
+        "doi": "10.1186/s12877-026-08646-6",
+        "url": "https://doi.org/10.1186/s12877-026-08646-6",
+        "title": "Staff clothing and uniforms in care homes for older people: a scoping review and analysis of online content",
+        "authors": [
+          "Jennifer Liddle",
+          "Barbara Hanratty",
+          "Abdulwahab Alazawi",
+          "Dawn Esslemont",
+          "Christine Henderson",
+          "Louise Jones",
+          "Louise Nicholson",
+          "Lisa Wilson",
+          "Katie H. Thomson"
+        ],
+        "abstract": "Abstract                                        Background                     Long-term care policy and practice continue to promote institutional living at the expense of support for ageing in place. Improving experiences of care home residents requires recognising care homes as places of everyday living, moving beyond clinical models to support ‘living with care’ rather than ‘existing in care’. Staff uniforms are ubiquitous in care homes yet remain relatively unexamined. Unlike hospitals, care homes are places where older people live, and uniforms may contribute to the medicalisation of ageing. Non-uniform approaches could support home-like environments and resident wellbeing. An emerging trend of non-uniform dress codes in UK care homes warrants evidence synthesis.                                                           Methods                     We conducted a scoping review in accordance with PRISMA-ScR guidelines, searching six bibliographic databases to April 2026. Supplementary searches of care sector websites, charity platforms, and public discussion forums captured perspectives beyond academic literature. Included sources spanned empirical studies and non-academic public content addressing staff clothing in care homes for older adults.                                                           Results                     Fifty-eight records were included, describing 13 empirical studies and 36 public discourse cases; only a minority of research records (8; 35%) were peer-reviewed. Seven themes were identified: health and hygiene; identification, care home atmosphere; changing behaviours; perspectives and preferences; perceptions and connotations; and decision making. Despite a limited evidence base, available research suggests non-uniform policies do not compromise hygiene or resident health, and may reduce anxiety, support independence and foster relational, homelike environments. Public discourse presented a more contested picture, with both approaches carrying perceived advantages and tensions.                                                           Conclusion                     Staff clothing is a socially embedded aspect of care practice. Research evidence suggests non-uniform policies do not compromise safety and may actively support resident wellbeing and relational engagement. However, public discourse reflects genuine concerns around professionalism, identification and individuality that empirical research has not fully addressed. Context-sensitive, resident-centred decision making and research prioritising direct engagement with residents are needed.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-11",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-12",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08684-0",
+        "doi": "10.1186/s12877-026-08684-0",
+        "url": "https://doi.org/10.1186/s12877-026-08684-0",
+        "title": "Association between dominant and non-dominant limb concentric quadriceps strength and low skeletal muscle mass index in community-dwelling older adults: a cross-sectional study",
+        "authors": [
+          "Aenon Lee",
+          "Yea Jin Jo",
+          "Sarang Lee",
+          "Eun Surk Yi"
+        ],
+        "abstract": "Abstract                                        Background                     Sarcopenia is common in older adults and predicts adverse outcomes. Contemporary consensus definitions use low muscle strength as the entry point for case-finding, but confirmation requires demonstration of low muscle mass, typically quantified by dual-energy X-ray absorptiometry (DXA) or bioelectrical impedance analysis (BIA), which are not universally accessible. Quadriceps strength is functionally central to lower-limb health and can be objectively measured by concentric dynamometry. However, previous concentric studies in sarcopenia have typically assessed a single, usually dominant, limb, and the relative contribution of the dominant and non-dominant limbs to the association with muscle mass has not been examined. We therefore compared concentric knee muscle performance between the dominant and non-dominant limbs and examined the association of dominant and non-dominant limb quadriceps strength with low skeletal muscle mass index (low SMI) in community-dwelling older adults.                                                           Methods                     In this cross-sectional study, community-dwelling adults aged ≥ 60 years underwent concentric knee strength testing at an angular velocity of 60°/s. Peak torque, total work, and average power of the quadriceps and hamstrings were measured bilaterally, and the hamstring-to-quadriceps (H: Q) ratio was calculated. Leg dominance was self-reported, and right- and left-side values were reassigned to the dominant and non-dominant limbs. Participants were classified as normal SMI or low SMI using sex-specific Asian Working Group for Sarcopenia (AWGS) 2019 criteria. Paired t-tests compared dominant and non-dominant limb variables; age- and sex-adjusted binary logistic regression, receiver operating characteristic (ROC) curve analysis with DeLong comparison, and a mixed-design (limb SMI group) analysis evaluated the contribution of each limb to low SMI.                                                           Results                                            A total of 171 participants were included in the analysis (139 normal SMI, 32 low SMI; mean age 69.88 ± 7.97 years). Dominant limb quadriceps peak torque, total work, and average power were significantly greater than the corresponding non-dominant limb values (all                       p                        ≤ 0.004), whereas hamstring variables showed no significant between-limb differences. In adjusted models, higher quadriceps peak torque, total work, and average power of the dominant limb were associated with lower odds of low SMI (odds ratios [ORs] 0.968, 0.993, and 0.958; all                       p                        ≤ 0.010); in the non-dominant limb, total work and average power were significantly associated (ORs 0.994 and 0.966;                       p                        = 0.049 and 0.030), whereas peak torque was not (OR 0.976;                       p                        = 0.058). The limb × SMI group interaction was not significant for any quadriceps variable (all                       p                        &gt; 0.10). Area-under-the-curve (AUC) values were similar for the dominant (0.63–0.64) and non-dominant limbs (0.60–0.64; all DeLong                       p                        ≥ 0.34), and all remained below 0.70.                                                                                Conclusions                     Lower quadriceps strength in both the dominant and non-dominant limbs was associated with low SMI, and neither limb contributed disproportionately to this association or showed superior discriminative ability. These findings indicate a bilateral reduction in knee-extensor strength that is independent of limb dominance; given the modest discrimination, quadriceps concentric strength should complement, rather than replace, established muscle mass assessment.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-11",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-12",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08642-w",
+        "doi": "10.1186/s12877-026-08642-w",
+        "url": "https://doi.org/10.1186/s12877-026-08642-w",
+        "title": "Orthogeriatric admission biomarker profiles across hip fragility fracture phenotypes: a real-world cohort study",
+        "authors": [
+          "José Luis Dinamarca-Montecinos",
+          "Miguel Yáñez",
+          "Diego Mellado",
+          "Constanza Toloza Zamora",
+          "Ana Aguilera",
+          "Jean-Gabriel Minonzio"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-11",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-12",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08661-7",
+        "doi": "10.1186/s12877-026-08661-7",
+        "url": "https://doi.org/10.1186/s12877-026-08661-7",
+        "title": "Profiles of healthy ageing among older adults in China: a latent profile analysis",
+        "authors": [
+          "Yuxia Ma",
+          "Yu Zhu",
+          "Yifang Yang",
+          "Mengyu Yang",
+          "Nini Shi",
+          "Huanhuan Wang",
+          "Jing Liu",
+          "Hongxia Lu",
+          "Bo Liu"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-11",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-12",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08696-w",
+        "doi": "10.1186/s12877-026-08696-w",
+        "url": "https://doi.org/10.1186/s12877-026-08696-w",
+        "title": "Development and feasibility of a theory-driven multidomain intervention for community-dwelling older adults with mild cognitive impairment: a quasi-experimental pilot study based on the Multi-Theory Model",
+        "authors": [
+          "Rui Ren",
+          "Xiaoxiao Wei",
+          "Yuxin Han",
+          "Qing Wang",
+          "Shaoting Sheng",
+          "Ke Liu",
+          "Lijun Wei",
+          "Ling Sha",
+          "Xiaomin Zhang"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-11",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-12",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08569-2",
+        "doi": "10.1186/s12877-026-08569-2",
+        "url": "https://doi.org/10.1186/s12877-026-08569-2",
+        "title": "Handgrip strength and 4-meter walk performance as practical functional measures of sarcopenia and physiologic reserve in acute hospital care: a prospective cohort study",
+        "authors": [
+          "Sapir Kon Kfir",
+          "Haim Krupkin",
+          "Ana Belkin",
+          "Yifan Chen",
+          "Gadi Shlomai",
+          "Jonathan Bleier",
+          "Shiri Weinstein",
+          "Liora Bruckmayer",
+          "Elad Prinz",
+          "Alon Kaplan",
+          "Michal Goldenberg Shraga",
+          "Dana Lev",
+          "Shahar Dekel",
+          "Noa Shalmon",
+          "Nurit Tsarfaty",
+          "Niv Reiss Gindi",
+          "Ofir Deri",
+          "Batya Sarna",
+          "Evelyne Bischof",
+          "Avshalom Leibowitz"
+        ],
+        "abstract": "Abstract                                        Background                     Functional reserve is difficult to characterize during routine acute hospital care. Sarcopenia is associated with frailty, disability, and mortality, but rapid functional assessment remains underused in hospitalized older adults. We evaluated handgrip strength and 4-meter walk test (4MWT) performance as pragmatic measures of probable sarcopenia and physiologic reserve during acute illness.                                                           Methods                     We conducted a prospective cohort study of 279 hospitalized adults aged 65–95 years at a tertiary medical center. Handgrip strength was measured using dynamometry; values &lt; 27 kg in men and &lt; 16 kg in women were classified as probable sarcopenia according to EWGSOP2. Among 169 participants who completed the 4MWT without an assistive device, associations between probable sarcopenia, walk time, age, and sex were evaluated using linear regression. Selection into the 4MWT subgroup was examined using inverse-probability weighting (IPW).                                                           Results                                            Participants with probable sarcopenia were underrepresented in the 4MWT subgroup. In the 169 participants with eligible 4MWT measurements, probable sarcopenia was independently associated with a 1.59-second longer walk time after adjustment for age and sex (95% CI 0.55–2.63;                       P                        = 0.003). The IPW estimate was similar (β = 1.62 s, 95% CI 0.49–2.75;                       P                        = 0.005). In an exploratory overlapping age-window analysis, concordance was greatest in the 73–84-year interval (AUC = 0.69, bootstrap 95% CI 0.58–0.80).                                                                                Conclusions                     Handgrip strength is a rapid bedside-feasible measure, whereas the 4MWT is a complementary ward-based assessment for sufficiently mobile and clinically stable hospitalized older adults. These state-dependent measures characterize functional performance and physiologic reserve during acute illness; longitudinal studies are required to determine their relationship to baseline function, recovery, and healthspan outcomes.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-11",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-12",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag289",
+        "doi": "10.1093/aje/kwag289",
+        "url": "https://doi.org/10.1093/aje/kwag289",
+        "title": "Multi-model insights into racial and ethnic heterogeneities in early COVID-19 transmission and severity in the U.S.",
+        "authors": [
+          "Samantha J Bents",
+          "Soren L Larsen",
+          "Sung-mok Jung",
+          "Emily Howerton",
+          "Lucie Contamin",
+          "Sara L Loo",
+          "Nicolò Gozzi",
+          "Jessica T Davis",
+          "Alessandro Vespignani",
+          "Matteo Chinazzi",
+          "Nicola Perra",
+          "Shraddha Ramdas Bandekar",
+          "Kaiming Bi",
+          "Anass Bouchnita",
+          "Spencer J Fox",
+          "Lauren Ancel Meyers",
+          "Ajitesh Srivastava",
+          "Majd Al Aawar",
+          "Jiangzhuo Chen",
+          "Srinivasan Venkatramanan",
+          "Stefan Hoops",
+          "Bryan Lewis",
+          "Parantapa Bhattacharya",
+          "Dustin Machi",
+          "Madhav Marathe",
+          "Sen Pei",
+          "Q Yao",
+          "Qiqi Yang",
+          "Alison Hill",
+          "Anjalika Nande",
+          "Joseph Lemaitre",
+          "Timothy Willard",
+          "Carl A B Pearson",
+          "Emily Przykucki",
+          "Clifton McKee",
+          "Joshua Macdonald",
+          "Tijs Alleman",
+          "Claire P Smith",
+          "Erica Carcelen",
+          "Abas Shkembi",
+          "Katie Yan",
+          "Harry Hochheiser",
+          "Cecile Viboud",
+          "Justin Lessler",
+          "Katriona Shea",
+          "Tomás M León",
+          "Shaun Truelove"
+        ],
+        "abstract": "Abstract                   The COVID-19 pandemic was marked by unequal disease burden across racial and ethnic groups in the US. Using a multi-model ensemble framework, we retrospectively assessed the impact of racial and ethnic heterogeneities in COVID-19 transmission and disease severity on mortality during the winter 2020–2021 surge in California and North Carolina. Models incorporating race and ethnicity projected mortality more accurately than null models, while the ensemble outperformed all individual models on average by weighted interval scores. Eliminating transmission heterogeneities produced larger mortality reductions than eliminating severity differences alone, particularly for Latino populations in California (55% reduction) and Black populations in North Carolina (28% reduction). Reducing severity heterogeneity also lowered mortality, with the greatest benefit among Black populations in both states (21% and 16% reductions in California and North Carolina, respectively). Eliminating both transmission and severity heterogeneity yielded the largest reductions overall, predicting 49–70% lower mortality across racial and ethnic groups in California and 23–40% in North Carolina. Mitigating transmission inequities also produced indirect benefits for non-targeted populations, highlighting the broad impact of reducing disparities in exposure risk and access to protective resources.",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-11-11",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-12",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1215/00703370-12902176",
+        "doi": "10.1215/00703370-12902176",
+        "url": "https://doi.org/10.1215/00703370-12902176",
+        "title": "Racial Disparities in Infant Drug Testing: A Research Note",
+        "authors": [
+          "Mallory Dreyer",
+          "Cydney M. McGuire",
+          "Jennifer M. Silva",
+          "Kosali Simon",
+          "Coady Wing",
+          "Engy Ziedan"
+        ],
+        "abstract": "Highlights                   Black infants were tested for drug exposure at more than twice the rate of White infants. Among those tested, both groups had similar positive rates—approximately 20%. Clinical risk factors explain only 38% of the racial disparity in testing rates. The remaining 61% may reflect differential treatment or unmeasured clinician observations. These findings raise concerns about fairness and trust in clinical decision-making.",
+        "source": "Demography",
+        "issn": "0070-3370",
+        "date": "2026-11-10",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "socialSecurity"
         ],
         "firstSeen": "2026-11-11",
         "fetched_from": "crossref"
@@ -90587,31 +91924,6 @@
         "fetched_from": "crossref"
       },
       {
-        "id": "doi:10.1215/00703370-12902176",
-        "doi": "10.1215/00703370-12902176",
-        "url": "https://doi.org/10.1215/00703370-12902176",
-        "title": "Racial Disparities in Infant Drug Testing: A Research Note",
-        "authors": [
-          "Mallory Dreyer",
-          "Cydney M. McGuire",
-          "Jennifer M. Silva",
-          "Kosali Simon",
-          "Coady Wing",
-          "Engy Ziedan"
-        ],
-        "abstract": "Highlights                   Black infants were tested for drug exposure at more than twice the rate of White infants. Among those tested, both groups had similar positive rates—approximately 20%. Clinical risk factors explain only 38% of the racial disparity in testing rates. The remaining 61% may reflect differential treatment or unmeasured clinician observations. These findings raise concerns about fairness and trust in clinical decision-making.",
-        "source": "Demography",
-        "issn": "0070-3370",
-        "date": "2026-11-10",
-        "subjects": [],
-        "domains": [
-          "agingHealth",
-          "socialSecurity"
-        ],
-        "firstSeen": "2026-11-11",
-        "fetched_from": "crossref"
-      },
-      {
         "id": "doi:10.1177/13872877261505070",
         "doi": "10.1177/13872877261505070",
         "url": "https://doi.org/10.1177/13872877261505070",
@@ -90630,6 +91942,26 @@
           "agingHealth"
         ],
         "firstSeen": "2026-11-11",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/geront/gnag253",
+        "doi": "10.1093/geront/gnag253",
+        "url": "https://doi.org/10.1093/geront/gnag253",
+        "title": "Navigating turbulent waters in\n                    <i>Queen at Sea</i>",
+        "authors": [
+          "Rose Capp"
+        ],
+        "abstract": "",
+        "source": "The Gerontologist",
+        "issn": "0016-9013",
+        "date": "2026-11-10",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-12",
         "fetched_from": "crossref"
       },
       {
@@ -126804,6 +128136,46 @@
     ],
     "socialWork": [
       {
+        "id": "doi:10.1093/sw/swag060",
+        "doi": "10.1093/sw/swag060",
+        "url": "https://doi.org/10.1093/sw/swag060",
+        "title": "Ethical Challenges Encountered by Social Workers and Guidelines for Conducting Research among Individuals with Intellectual and Developmental Disabilities",
+        "authors": [
+          "Tehila Raftar-Ozery",
+          "Orly Shapira-Lishchinsky"
+        ],
+        "abstract": "Abstract                   Social workers encounter ethical challenges during their work that intensify when conducting research among individuals with intellectual and developmental disabilities (IDD). Research may be characterized by excessive protectiveness, exploitation, and exclusion of people with IDD. The main goal of this study was to explore the ethical challenges of social workers in Israel and the guidelines applied to their work. The researchers interviewed 22 social workers and used grounded theory based on open coding, axial coding, and selective coding. Three main ethical challenges emerged: (1) Social workers lack a support system for managing ethical dilemmas involving individuals with IDD; (2) social workers can have difficulties reaching ethical decisions, which can reduce the participation of people with IDD in research; and (3) social workers can encounter difficulty obtaining informed consent. Based on these results, the authors propose three ethical guidelines: (1) preventing and minimizing harm, (2) work rules, and (3) involvement of individuals with IDD in research. These findings can inform ethical guidelines that include unique ethical challenges for application in Israel as well as in other countries.",
+        "source": "Social Work",
+        "issn": "0037-8046",
+        "date": "2026-11-11",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-11-12",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1007/s10896-026-01207-w",
+        "doi": "10.1007/s10896-026-01207-w",
+        "url": "https://doi.org/10.1007/s10896-026-01207-w",
+        "title": "Women’s Political Representation and Intimate Partner Violence: Evidence From 28 Low- and Middle-Income Countries",
+        "authors": [
+          "Jacqueline Strenio",
+          "Rafi Amir-ud-Din"
+        ],
+        "abstract": "",
+        "source": "Journal of Family Violence",
+        "issn": "0885-7482",
+        "date": "2026-11-11",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-11-12",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1177/10497315261501958",
         "doi": "10.1177/10497315261501958",
         "url": "https://doi.org/10.1177/10497315261501958",
@@ -139175,10 +140547,10 @@
   },
   "totals": {
     "socialSecurity": 1621,
-    "elderCare": 988,
-    "healthReform": 1470,
-    "agingHealth": 1424,
-    "socialWork": 539
+    "elderCare": 998,
+    "healthReform": 1497,
+    "agingHealth": 1435,
+    "socialWork": 541
   },
   "feeds_ok": 41
 }
