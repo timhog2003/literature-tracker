@@ -1,8 +1,29 @@
 {
-  "date": "2026-11-12",
-  "fetched": "2026-11-12T08:34:44+00:00",
+  "date": "2026-11-13",
+  "fetched": "2026-11-13T08:21:04+00:00",
   "domains": {
     "socialSecurity": [
+      {
+        "id": "doi:10.1215/00703370-12916203",
+        "doi": "10.1215/00703370-12916203",
+        "url": "https://doi.org/10.1215/00703370-12916203",
+        "title": "Citizenship and Immigrant Longevity: Evidence From U.S. Census–Linked Social Security Administration Death Records",
+        "authors": [
+          "Jiaxin Shi",
+          "Jason M. Fletcher"
+        ],
+        "abstract": "Highlights                   We link full-count 1920–1940 U.S. censuses to death records to study citizenship and longevity. Immigrant men who were citizens by 1930 lived 7.6 months longer than those without first papers. Sons whose fathers were citizens by 1920 lived 4.1 months longer than sons of noncitizens. Earlier naturalization is associated with greater longevity gains in both generations. Adjusting for fathers’ SES and sons’ early-adult SES reduces the fathers’ citizenship effect.",
+        "source": "Demography",
+        "issn": "0070-3370",
+        "date": "2026-11-12",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "socialSecurity"
+        ],
+        "firstSeen": "2026-11-13",
+        "fetched_from": "crossref"
+      },
       {
         "id": "doi:10.1215/00703370-12902176",
         "doi": "10.1215/00703370-12902176",
@@ -25329,6 +25350,52 @@
     ],
     "elderCare": [
       {
+        "id": "doi:10.1186/s12877-026-08679-x",
+        "doi": "10.1186/s12877-026-08679-x",
+        "url": "https://doi.org/10.1186/s12877-026-08679-x",
+        "title": "Differential care demands on Medicare patients by multimorbidity group: care continuity, care coordination, and contact days",
+        "authors": [
+          "Viktoria Steinbeck",
+          "Nicholas E. Daley",
+          "Audrey D. Zhang",
+          "Ishani Ganguli"
+        ],
+        "abstract": "Abstract                                        Background                     Patients with multimorbidity face multiple care demands, including the time to access care and the cognitive effort of coordinating care. It is unclear how patients’ experiences with care continuity, coordination, and time burdens (i.e., health care contact days) vary across multimorbidity groups or what role potential protective factors may play.                                                           Methods                     This cross-sectional study used the nationally representative 2022 Medicare Current Beneficiary Survey linked with traditional Medicare claims from the United States. We included continuously enrolled, community-dwelling adults aged ≥ 65 with ≥ 2 chronic conditions. We described self-reported experiences of care continuity and care coordination, health care contact days (receiving ambulatory or institutional care), and telehealth days, home visits, and remote monitoring by multimorbidity group (low: 2–3 chronic conditions, medium: 4–6, high: 7+).                                                           Results                     Among 4424 respondents, care experiences varied by multimorbidity group. Adults in the high multimorbidity group often reported having a usual source of care (96.6%), one provider knowing all of their medical needs (84.4%), and their primary care physician (PCP) being informed about specialist care (81.3%). Fewer patients in the medium and high multimorbidity groups reported satisfaction with co-localized care and ease of managing care, while fewer patients in the low multimorbidity group reported satisfaction with specialist availability. Mean contact days ranged from 12.6 (SD 13.4) per year (low multimorbidity group) to 31.3 (SD 23.9) (high multimorbidity). More patients in the high multimorbidity group used telehealth, home care, and remote monitoring.                                                           Conclusions                     Care experiences vary across multimorbidity groups, with high-multimorbidity patients experiencing greater continuity but also greater difficulty managing care. The findings suggest a potential need to improve specialist access and informational continuity in the low multimorbidity group, support care management and co-localized care in the higher multimorbidity groups and reduce care complexity and potentially avoidable contact days across multimorbidity groups.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-13",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-13",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08690-2",
+        "doi": "10.1186/s12877-026-08690-2",
+        "url": "https://doi.org/10.1186/s12877-026-08690-2",
+        "title": "Translation, cultural adaptation and psychometric evaluation of the age-friendly cities and communities questionnaire for Sweden",
+        "authors": [
+          "Nina Buer",
+          "Jeroen Dikken",
+          "Joost van Hoof",
+          "Helen Lindner"
+        ],
+        "abstract": "Abstract                                        Background                     The Age-Friendly Cities and Communities Questionnaire (AFCCQ) measures how older people perceive the age-friendliness of their city or community. With 23% of Swedish residents projected to be aged ≥ 65 years by 2040, a culturally adapted and psychometrically validated Swedish version (AFCCQ-SE) is needed to guide age-friendly initiatives nationally. This study aimed to translate the AFCCQ into Swedish and to conduct its cross-cultural adaptation and psychometric validation.                                                           Methods                     In Phase I, the AFCCQ-EN was independently forward-translated into Swedish and back-translated into English. Ten older adults and ten academic experts then rated each item’s relevance on a 4-point scale. In Phase II, 874 community-dwelling Swedes aged ≥ 65 years (64.9% female; mean age 75.7 ± 5.8 years; 82.8% urban) from two regions completed the AFCCQ-SE. Confirmatory factor analysis (CFA) was used to assess the nine-domain structure against fit criteria and composite reliability (CR) was used to evaluate internal consistency. Rasch analysis examined various aspects of the AFCCQ at the item and rating scale level.                                                           Results                                            I-CVI values of all items ranged from 0.80 to 1.00 (mostly 0.90). CFA supported the proposed nine-domain structure (χ²[194] = 562.9; normed χ² = 2.90; CFI = 0.962; TLI = 0.951; SRMR = 0.0335; RMSEA = 0.047). CR values were acceptable across most domains (0.783–0.937), with two domains marginally below the threshold (0.658–0.699). Rasch analyses showed acceptable rating categories and satisfactory item fit. Urban–rural DIF was found for two transportation items (0.51 &amp; 0.71 logits, Holm adjusted                       p =                        0.000). PCA supported unidimensionality within each domain rather than for the questionnaire as a whole. Twenty-two item pairs showed local dependence (                       r                        = 0.16–0.84), 21 of them within a single domain. Aggregating the items into nine testlets largely resolved local dependence (largest residual correlation = 0.10), and the first residual contrast eigenvalue decreased from 3.32 to 1.52 (&lt; 2.0), supporting unidimensionality of the testlet model.                                                                                Conclusions                     This AFCCQ-SE study, using both CFA and Rasch analysis, provided preliminary support for its psychometric properties in this Swedish sample. Further validation using samples from larger regions and longitudinal study designs is needed to verify these findings.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-13",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-13",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1186/s12877-026-08655-5",
         "doi": "10.1186/s12877-026-08655-5",
         "url": "https://doi.org/10.1186/s12877-026-08655-5",
@@ -25349,6 +25416,155 @@
           "agingHealth"
         ],
         "firstSeen": "2026-11-12",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/gerona/glag257",
+        "doi": "10.1093/gerona/glag257",
+        "url": "https://doi.org/10.1093/gerona/glag257",
+        "title": "Chronobiology of Aging: Interactions Between Circadian Rhythms, Oxidative Stress, and Inflammation",
+        "authors": [
+          "Bharti Chauhan",
+          "Ishanka Singh",
+          "Pawan Kumar Maurya"
+        ],
+        "abstract": "Abstract                   Chronodisruption is increasingly recognised as a fundamental driver of biological aging rather than merely a consequence of advancing age. Although substantial evidence links circadian dysfunction with individual age-related diseases, the mechanistic integration of chronodisruption across the hallmarks of aging and its therapeutic implications remains fragmented. This review provides a comprehensive synthesis of current evidence describing how age-associated deterioration of the circadian timing system interacts with established hallmarks of aging, including genomic instability, epigenetic alterations, mitochondrial dysfunction, dysregulated nutrient sensing, impaired proteostasis, chronic inflammation, and cellular senescence. This article also incorporates how these interconnected mechanisms contribute to the development and progression of major age-related disorders, including neurodegenerative, cardiovascular, metabolic diseases, and cancer, highlighting shared molecular regulators such as BMAL1, CLOCK, PER, CRY, REV-ERBs, SIRT1, AMPK, and mTOR. Although several reviews exist that focus on individual diseases or isolated circadian mechanisms, this review integrates molecular, cellular, and translational evidence into a unified framework linking chronodisruption to systemic aging. This article discusses emerging chronotherapeutic strategies including chrono-phototherapy, chrono-nutrition, chrono-exercise, natural chrono-modulators, chrono-pharmacology, and precision geromedicine that aim to restore circadian homeostasis and improve healthy aging. Collectively, this review identifies circadian rhythm restoration as a promising systems-level therapeutic approach and outlines future directions for integrating chronobiology into precision interventions for age-related diseases.",
+        "source": "The Journals of Gerontology, Series A: Biological Sciences and Medical Sciences",
+        "issn": "1079-5006",
+        "date": "2026-11-12",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "elderCare"
+        ],
+        "firstSeen": "2026-11-13",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/gerona/glag258",
+        "doi": "10.1093/gerona/glag258",
+        "url": "https://doi.org/10.1093/gerona/glag258",
+        "title": "Youthful circulation reshapes age-associated DNA methylation across blood and liver",
+        "authors": [
+          "Igor Kovalchuk",
+          "Olga Kovalchuk"
+        ],
+        "abstract": "Abstract                   Prolonged heterochronic parabiosis (HPB) reduces DNA methylation (DNAm) age in old mice, but how age-opposing methylation changes are organized across tissues and retained after removal of youthful circulation is unclear. We analyzed processed reduced-representation bisulfite sequencing data from 78 blood and liver samples from a published prolonged-HPB experiment. Across 1,008,133 CpGs with at least 10-fold coverage in every sample, we quantified normal-aging and HPB effects, defined directional reversal by effect size, tested exact cross-tissue and post-detachment persistence, and used chromosome-aware null models for overlap and gene-convergence analyses. HPB-associated methylation changes opposed normal aging in blood and liver, including in independent-cohort comparisons that avoided a shared Old-ISO reference. At the primary 10-percentage-point threshold, 22,424 blood and 22,286 liver CpGs were reversed immediately after HPB; 1,792 were shared at identical loci. After two months of recovery, 25,867 blood and 15,437 liver CpGs were reversed, with 1,387 exact shared loci. A 64-CpG cross-tissue core persisted across both time points. Reversed CpGs were depleted from promoters and CpG islands and enriched in gene bodies and open-sea regions. After exact shared CpGs were removed, tissue-specific sites showed a modest excess of nearest-gene convergence (4,716 observed vs 4,215 expected; empirical P≈.001), whereas promoter/gene-body and Gene Ontology convergence were not supported by stricter genomic null models. Youthful circulation produces both conserved and tissue-specific reversal of age-associated methylation. Persistence after detachment and modest cross-tissue genomic-neighborhood convergence suggest that systemic rejuvenation is encoded at multiple levels of epigenomic organization.",
+        "source": "The Journals of Gerontology, Series A: Biological Sciences and Medical Sciences",
+        "issn": "1079-5006",
+        "date": "2026-11-12",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "elderCare"
+        ],
+        "firstSeen": "2026-11-13",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08694-y",
+        "doi": "10.1186/s12877-026-08694-y",
+        "url": "https://doi.org/10.1186/s12877-026-08694-y",
+        "title": "Serum proteomics reveal frailty signatures among older people living with HIV in the CHANGE HIV cohort",
+        "authors": [
+          "Jholene Massy",
+          "Maysa Niazy",
+          "Abrha G. Gebrehiwot",
+          "Alador Bereketab",
+          "Marina Klein",
+          "Julian Falutz",
+          "Mona Loutfy",
+          "Alice Zhabokritsky",
+          "Bryan Boyachuk",
+          "Charu Kaushic",
+          "Dawn M.E. Bowdish",
+          "Sharon Walmsley",
+          "Chris P. Verschoor",
+          "Dawit Wolday"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-12",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-13",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08691-1",
+        "doi": "10.1186/s12877-026-08691-1",
+        "url": "https://doi.org/10.1186/s12877-026-08691-1",
+        "title": "Risk prediction for venous thromboembolism among older adult internal medicine inpatients: development and validation of a machine learning-based model",
+        "authors": [
+          "Zhenfei Chen",
+          "Chenglin Yang",
+          "Jiaze Dai",
+          "Meihong Cai",
+          "Guangyan Liu",
+          "Xiaoyong Xu",
+          "Chunxia Li",
+          "Haizhu Lin",
+          "Qinqi Qi",
+          "Liping Wang",
+          "Yu Yang"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-12",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-13",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08658-2",
+        "doi": "10.1186/s12877-026-08658-2",
+        "url": "https://doi.org/10.1186/s12877-026-08658-2",
+        "title": "Association between adherence to healthy lifestyle factors and handgrip strength among Korean older adults",
+        "authors": [
+          "Jihoon You",
+          "Dabin Jeong",
+          "Yujin Kim",
+          "Hannah Oh"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-12",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-13",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08678-y",
+        "doi": "10.1186/s12877-026-08678-y",
+        "url": "https://doi.org/10.1186/s12877-026-08678-y",
+        "title": "Handgrip strength relative to DXA-measured appendicular lean mass and life functioning in older Korean adults: a nationwide cross-sectional study",
+        "authors": [
+          "Eunjin Jeong"
+        ],
+        "abstract": "Abstract                                        Background                     Muscle strength and muscle quantity may become dissociated with aging, but whether strength relative to directly measured appendicular lean mass is associated with life functioning remains uncertain. We examined whether handgrip strength relative to dual-energy X-ray absorptiometry (DXA)-measured appendicular lean mass was associated with life functioning in older adults.                                                           Methods                     This cross-sectional study used nationally representative data from the 2024 Korea National Health and Nutrition Examination Survey. Participants were 1,133 adults aged 65 years or older with valid DXA-derived appendicular lean mass, maximal handgrip strength, and 10-item Life Functioning Scale (LF-10) data. Within each sex, maximal handgrip strength was regressed on appendicular lean mass using survey weights, and the standardized observed-minus-predicted residual represented relative strength. Survey-weighted regression accounted for sampling weights, strata, and clusters. Secondary, supplementary, and exploratory analyses examined EQ-5D-3L ​utility, phase angle, and falls, respectively.                                                           Results                                            The fully adjusted analysis included 1,069 participants. Each 1-standard-deviation higher relative strength was associated with a 2.95-point higher LF-10 score (95% confidence interval [CI], 2.08–3.82;                       P                        &lt; 0.001). Compared with the lowest quartile, the highest quartile had a 7.80-point higher LF-10 score (95% CI, 5.62–9.98;                       P                        &lt; 0.001). Model-adjusted mean LF-10 scores increased from 85.30 (95% CI, 83.21–87.38) in the lowest quartile to 93.09 (95% CI, 91.87–94.32) in the highest. The association was approximately linear (P for nonlinearity = 0.202) and remained similar across sensitivity analyses. Higher relative strength was also associated with higher EQ-5D utility and phase angle, whereas the association with falls was not statistically significant.                                                                                Conclusions                     In older Korean adults, handgrip strength relative to DXA-measured appendicular lean mass was associated with better life functioning. This population-referenced measure may help characterize functional heterogeneity not apparent from muscle quantity alone but does not establish a diagnostic or clinically actionable index. Prospective and external validation are needed before clinical application.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-12",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-13",
         "fetched_from": "crossref"
       },
       {
@@ -50889,6 +51105,363 @@
           "healthReform"
         ],
         "firstSeen": "2026-11-12",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.24927",
+        "doi": "10.1001/jama.2026.24927",
+        "url": "https://doi.org/10.1001/jama.2026.24927",
+        "title": "Report of Committee on Otorhinologic Hygiene of Swimming",
+        "authors": [],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-12",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-13",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.19487",
+        "doi": "10.1001/jama.2026.19487",
+        "url": "https://doi.org/10.1001/jama.2026.19487",
+        "title": "A Review of Hip Fractures",
+        "authors": [
+          "Michael Gottlieb"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-12",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-13",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.24928",
+        "doi": "10.1001/jama.2026.24928",
+        "url": "https://doi.org/10.1001/jama.2026.24928",
+        "title": "Approved Form of Notice",
+        "authors": [],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-12",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-13",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.19490",
+        "doi": "10.1001/jama.2026.19490",
+        "url": "https://doi.org/10.1001/jama.2026.19490",
+        "title": "A Review of Hip Fractures",
+        "authors": [
+          "Paul D. Miller"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-12",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-13",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.22125",
+        "doi": "10.1001/jama.2026.22125",
+        "url": "https://doi.org/10.1001/jama.2026.22125",
+        "title": "Preference Signaling for Interview Selection",
+        "authors": [
+          "A. David Paltiel",
+          "Rochelle P. Walensky"
+        ],
+        "abstract": "This Viewpoint discusses the concept of preference signaling in the medical school application process.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-12",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-13",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.23165",
+        "doi": "10.1001/jama.2026.23165",
+        "url": "https://doi.org/10.1001/jama.2026.23165",
+        "title": "Izalontamab Brengitecan in Recurrent or Metastatic Esophageal Squamous Cell Carcinoma",
+        "authors": [],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-12",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-13",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.19531",
+        "doi": "10.1001/jama.2026.19531",
+        "url": "https://doi.org/10.1001/jama.2026.19531",
+        "title": "Finerenone and CKD Due to Glomerular Diseases",
+        "authors": [
+          "Li Xiao",
+          "Zurong Zhang",
+          "Lin Sun"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-12",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-13",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.22625",
+        "doi": "10.1001/jama.2026.22625",
+        "url": "https://doi.org/10.1001/jama.2026.22625",
+        "title": "Too Tall",
+        "authors": [
+          "Forrest Bohler"
+        ],
+        "abstract": "In this narrative medicine essay, a physician discusses the way his tall height changed his perspective during his residency.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-12",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-13",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.18692",
+        "doi": "10.1001/jama.2026.18692",
+        "url": "https://doi.org/10.1001/jama.2026.18692",
+        "title": "What Is Postural Orthostatic Tachycardia Syndrome?",
+        "authors": [
+          "Kristin L. Walter"
+        ],
+        "abstract": "This JAMA Patient Page describes who is typically affected by postural orthostatic tachycardia syndrome, the risk factors, and the diagnosis and treatment.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-12",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-13",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.19534",
+        "doi": "10.1001/jama.2026.19534",
+        "url": "https://doi.org/10.1001/jama.2026.19534",
+        "title": "Finerenone and CKD Due to Glomerular Diseases—Reply",
+        "authors": [
+          "Brendon L. Neuen",
+          "Hiddo J. L. Heerspink",
+          "Vlado Perkovic"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-12",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-13",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.19482",
+        "doi": "10.1001/jama.2026.19482",
+        "url": "https://doi.org/10.1001/jama.2026.19482",
+        "title": "Treatment of Acute Ischemic Stroke",
+        "authors": [
+          "Gregory W. Albers",
+          "Jeremy J. Heit"
+        ],
+        "abstract": "Importance                     Acute ischemic stroke, caused by thrombotic or embolic occlusion of a cervical or cerebral artery, leads to neurologic injury due to sudden disruption of blood flow to the brain. Ischemic stroke is a leading cause of disability and death and accounts for about 85% of strokes in the US.                                                           Observations                     Symptoms of acute ischemic stroke vary based on the area of the affected brain. Common presentations include sudden arm or leg weakness, aphasia or slurred speech, sudden loss of balance or coordination, sudden visual difficulties, and/or facial drooping. Patients with suspected stroke should be transported to the nearest emergency department for urgent brain imaging, typically noncontrast computed tomography (CT). Based on 2026 American Heart Association/American Stroke Association (AHA/ASA) guidelines, first-line therapy for patients with acute ischemic stroke presenting within 4.5 hours from symptom onset with disabling symptoms (eg, affecting the ability to perform activities of daily living) is intravenous thrombolysis (tenecteplase or alteplase) in those without intracranial hemorrhage or other contraindications to thrombolysis. The treatment window can be extended to 9 hours—and up to 24 hours in patients with large vessel occlusion (eg, involving the internal carotid artery or proximal middle cerebral artery [M1 segment]) who are unable to receive thrombectomy—based on identification of salvageable tissue using perfusion imaging with CT perfusion or magnetic resonance imaging. In appropriately selected patients with acute ischemic stroke, pooled randomized trial data show an approximately 10% absolute increase in the probability of a better functional outcome with intravenous thrombolysis. Based on 2026 AHA/ASA guidelines, endovascular thrombectomy, which involves clot removal with an intra-arterial mechanical device, is recommended for patients with large vessel occlusion within 6 hours of stroke onset (class 1 recommendation) and is recommended in selected patients with large vessel occlusion within 24 hours of last known well (class 1 recommendation). Endovascular therapy should be performed after intravenous thrombolysis unless patients have contraindications to thrombolytic therapy. Compared with medical management, which includes intravenous thrombolysis when indicated, endovascular thrombectomy produces an approximately 20% absolute increase in functional independence.                                                           Conclusions and Relevance                     Acute ischemic stroke causes substantial disability and mortality. First-line therapy for patients with disabling acute stroke symptoms is intravenous thrombolysis (if no contraindications) within 4.5 hours of stroke onset and up to 24 hours in carefully selected patients not receiving mechanical thrombectomy; for large vessel occlusions, mechanical thrombectomy may be performed up to 24 hours after stroke onset in eligible patients.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-12",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-13",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.19493",
+        "doi": "10.1001/jama.2026.19493",
+        "url": "https://doi.org/10.1001/jama.2026.19493",
+        "title": "A Review of Hip Fractures—Reply",
+        "authors": [
+          "Douglas P. Kiel",
+          "Joy N. Tsai"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-12",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-13",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.20250",
+        "doi": "10.1001/jama.2026.20250",
+        "url": "https://doi.org/10.1001/jama.2026.20250",
+        "title": "Izalontamab Brengitecan in Recurrent or Metastatic Esophageal Squamous Cell Carcinoma",
+        "authors": [
+          "Zhihao Lu",
+          "Zhangzhou Huang",
+          "Xiangjiao Meng",
+          "Yun Fan",
+          "Tao Wu",
+          "Qingsong Pang",
+          "Feng Wang",
+          "Yanqiao Zhang",
+          "Shegan Gao",
+          "Tianshu Liu",
+          "Jin Zhou",
+          "Yong Fang",
+          "Ning Li",
+          "Wei Li",
+          "Guochun Cao",
+          "Shoubing Zhou",
+          "Na Li",
+          "Feng Ye",
+          "Yinghua Ji",
+          "Jingdong Zhang",
+          "Xuwei Cai",
+          "Jianping Xiong",
+          "Mingjun Zhang",
+          "Lixin Wan",
+          "Yanhong Gu",
+          "Hui Luo",
+          "Xiaotian Zhang",
+          "Jinglei Qu",
+          "Wenhui Yang",
+          "Jianzhong Cao",
+          "Xueqiang Zhu",
+          "Jiayan Chen",
+          "Tienan Yi",
+          "Yongli Gao",
+          "Jiangqiong Huang",
+          "Zhenhua Liu",
+          "Jun Wang",
+          "Fang Ma",
+          "Yan Luo",
+          "Xuelei Ma",
+          "Jianfei Fu",
+          "Shubo Ding",
+          "Yu Liu",
+          "Sa Xiao",
+          "Hai Zhu",
+          "Yi Zhu",
+          "Lin Shen",
+          "Yueyin Pan",
+          "Shouguo Li",
+          "Yan Yang",
+          "Zheng Liu",
+          "Wenbin Yue",
+          "Tiejun Ren",
+          "Yi Peng",
+          "Zhenyang Liu",
+          "Haifeng Liu",
+          "Yong Gao",
+          "Liying Xue",
+          "Junye Wang",
+          "Meili Sun",
+          "Jing Lu",
+          "Ruiqiang Ma",
+          "Jun Bie",
+          "Li Zhang",
+          "Gaofeng Li",
+          "Jianfei Tu",
+          "Hongming Pan",
+          "Dong Yan",
+          "Qingshan Li",
+          "Jun Guo",
+          "Yonghui Di",
+          "Daiyuan Ma",
+          "Guohua Yu",
+          "Buhai Wang",
+          "Wei Ren",
+          "Xicheng Wang",
+          "Jun Zhao",
+          "Yong Xin",
+          "Zhixiang Zhan",
+          "Xiaobing Han",
+          "Yu Zhang",
+          "Yongqiang Li",
+          "Yanru Qin",
+          "Yuhua Chi",
+          "Liying Zhu",
+          "Zishu Wang",
+          "Aili Suo",
+          "Min Shi",
+          "Yi Jiang"
+        ],
+        "abstract": "Importance                     Effective therapy remains lacking for patients with advanced esophageal squamous cell carcinoma (ESCC) whose disease progressed after standard treatment. Izalontamab brengitecan, an epidermal growth factor receptor and human epidermal growth factor receptor 3 bispecific antibody-drug conjugate with a topoisomerase I inhibitor, Ed-04, has shown clinical activity in ESCC in a phase 1b study.                                                           Objective                     To evaluate the efficacy and safety of izalontamab brengitecan compared with chemotherapy in patients with advanced ESCC who progressed after first-line programmed cell death 1 protein (PD-1)/programmed cell death 1 ligand 1 (PD-L1) inhibitor plus platinum-containing chemotherapy.                                                           Design, Setting, and Participants                     This phase 3, open-label, randomized clinical trial was conducted across 80 hospitals in China. Patients with recurrent or metastatic ESCC that had progressed with first-line PD-1/PD-L1 inhibitor plus platinum-containing chemotherapy were enrolled. Between March 19, 2024, and August 1, 2025 (final follow-up, October 17, 2025), a total of 704 patients were screened, and 497 were enrolled and randomized.                                                           Interventions                     Patients were randomly assigned (1:1) to receive either izalontamab brengitecan (n = 249; 2.5 mg/kg on days 1 and 8 every 3 weeks) or physician-selected chemotherapy (n = 248; irinotecan, paclitaxel, or docetaxel) every 3 weeks.                                                           Main Outcomes and Measures                     The dual primary end points were progression-free survival (PFS) assessed by blinded independent central review according to Response Evaluation Criteria in Solid Tumors version 1.1 and overall survival (OS).                                                           Results                                            Of 497 patients who underwent randomization (median age, 61.0 years [range, 34-76]; 448 male patients [90.1%]), 493 received study treatment. At this interim analysis, izalontamab brengitecan demonstrated statistically significant improvement in both PFS and OS. Median PFS by blinded independent central review was 4.17 months (95% CI, 3.61-4.53 months) with izalontamab brengitecan vs 1.97 months (95% CI, 1.61-2.73 months) with chemotherapy (hazard ratio, 0.50; 95% CI, 0.40-0.63; log-rank                       P                        &amp;amp;lt; .001). Median OS was 9.79 months (95% CI, 7.89-11.01 months) with izalontamab brengitecan vs 7.20 months (95% CI, 6.18-7.82 months) with chemotherapy (hazard ratio, 0.63; 95% CI, 0.48-0.82; log-rank                       P                        &amp;amp;lt; .001). Grade 3 or higher treatment-related adverse events occurred in 212 of 249 patients (85.1%) with izalontamab brengitecan and 147 of 248 patients (59.3%) with chemotherapy and were predominantly hematologic.                                                                                Conclusions and Relevance                     Izalontamab brengitecan significantly improved PFS and OS vs chemotherapy in patients with recurrent or metastatic ESCC whose disease had progressed after first-line treatment. These findings support izalontamab brengitecan as a new second-line treatment for this population in China.                                                           Trial Registration                                            ClinicalTrials.gov Identifier:                       NCT06304974",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-12",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-13",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.24040",
+        "doi": "10.1001/jama.2026.24040",
+        "url": "https://doi.org/10.1001/jama.2026.24040",
+        "title": "Beyond the Rogue Agent—Preparing Health Systems for AI Failure",
+        "authors": [
+          "Attila J. Hertelendy",
+          "Aaron Miri",
+          "Christian Dameff"
+        ],
+        "abstract": "This Viewpoint discusses the role of artificial intelligence (AI) and health system preparedness and resilience in the event of an AI failure in clinical operations.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-12",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-13",
         "fetched_from": "crossref"
       },
       {
@@ -91175,6 +91748,52 @@
     ],
     "agingHealth": [
       {
+        "id": "doi:10.1186/s12877-026-08679-x",
+        "doi": "10.1186/s12877-026-08679-x",
+        "url": "https://doi.org/10.1186/s12877-026-08679-x",
+        "title": "Differential care demands on Medicare patients by multimorbidity group: care continuity, care coordination, and contact days",
+        "authors": [
+          "Viktoria Steinbeck",
+          "Nicholas E. Daley",
+          "Audrey D. Zhang",
+          "Ishani Ganguli"
+        ],
+        "abstract": "Abstract                                        Background                     Patients with multimorbidity face multiple care demands, including the time to access care and the cognitive effort of coordinating care. It is unclear how patients’ experiences with care continuity, coordination, and time burdens (i.e., health care contact days) vary across multimorbidity groups or what role potential protective factors may play.                                                           Methods                     This cross-sectional study used the nationally representative 2022 Medicare Current Beneficiary Survey linked with traditional Medicare claims from the United States. We included continuously enrolled, community-dwelling adults aged ≥ 65 with ≥ 2 chronic conditions. We described self-reported experiences of care continuity and care coordination, health care contact days (receiving ambulatory or institutional care), and telehealth days, home visits, and remote monitoring by multimorbidity group (low: 2–3 chronic conditions, medium: 4–6, high: 7+).                                                           Results                     Among 4424 respondents, care experiences varied by multimorbidity group. Adults in the high multimorbidity group often reported having a usual source of care (96.6%), one provider knowing all of their medical needs (84.4%), and their primary care physician (PCP) being informed about specialist care (81.3%). Fewer patients in the medium and high multimorbidity groups reported satisfaction with co-localized care and ease of managing care, while fewer patients in the low multimorbidity group reported satisfaction with specialist availability. Mean contact days ranged from 12.6 (SD 13.4) per year (low multimorbidity group) to 31.3 (SD 23.9) (high multimorbidity). More patients in the high multimorbidity group used telehealth, home care, and remote monitoring.                                                           Conclusions                     Care experiences vary across multimorbidity groups, with high-multimorbidity patients experiencing greater continuity but also greater difficulty managing care. The findings suggest a potential need to improve specialist access and informational continuity in the low multimorbidity group, support care management and co-localized care in the higher multimorbidity groups and reduce care complexity and potentially avoidable contact days across multimorbidity groups.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-13",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-13",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08690-2",
+        "doi": "10.1186/s12877-026-08690-2",
+        "url": "https://doi.org/10.1186/s12877-026-08690-2",
+        "title": "Translation, cultural adaptation and psychometric evaluation of the age-friendly cities and communities questionnaire for Sweden",
+        "authors": [
+          "Nina Buer",
+          "Jeroen Dikken",
+          "Joost van Hoof",
+          "Helen Lindner"
+        ],
+        "abstract": "Abstract                                        Background                     The Age-Friendly Cities and Communities Questionnaire (AFCCQ) measures how older people perceive the age-friendliness of their city or community. With 23% of Swedish residents projected to be aged ≥ 65 years by 2040, a culturally adapted and psychometrically validated Swedish version (AFCCQ-SE) is needed to guide age-friendly initiatives nationally. This study aimed to translate the AFCCQ into Swedish and to conduct its cross-cultural adaptation and psychometric validation.                                                           Methods                     In Phase I, the AFCCQ-EN was independently forward-translated into Swedish and back-translated into English. Ten older adults and ten academic experts then rated each item’s relevance on a 4-point scale. In Phase II, 874 community-dwelling Swedes aged ≥ 65 years (64.9% female; mean age 75.7 ± 5.8 years; 82.8% urban) from two regions completed the AFCCQ-SE. Confirmatory factor analysis (CFA) was used to assess the nine-domain structure against fit criteria and composite reliability (CR) was used to evaluate internal consistency. Rasch analysis examined various aspects of the AFCCQ at the item and rating scale level.                                                           Results                                            I-CVI values of all items ranged from 0.80 to 1.00 (mostly 0.90). CFA supported the proposed nine-domain structure (χ²[194] = 562.9; normed χ² = 2.90; CFI = 0.962; TLI = 0.951; SRMR = 0.0335; RMSEA = 0.047). CR values were acceptable across most domains (0.783–0.937), with two domains marginally below the threshold (0.658–0.699). Rasch analyses showed acceptable rating categories and satisfactory item fit. Urban–rural DIF was found for two transportation items (0.51 &amp; 0.71 logits, Holm adjusted                       p =                        0.000). PCA supported unidimensionality within each domain rather than for the questionnaire as a whole. Twenty-two item pairs showed local dependence (                       r                        = 0.16–0.84), 21 of them within a single domain. Aggregating the items into nine testlets largely resolved local dependence (largest residual correlation = 0.10), and the first residual contrast eigenvalue decreased from 3.32 to 1.52 (&lt; 2.0), supporting unidimensionality of the testlet model.                                                                                Conclusions                     This AFCCQ-SE study, using both CFA and Rasch analysis, provided preliminary support for its psychometric properties in this Swedish sample. Further validation using samples from larger regions and longitudinal study designs is needed to verify these findings.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-13",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-13",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1186/s12877-026-08655-5",
         "doi": "10.1186/s12877-026-08655-5",
         "url": "https://doi.org/10.1186/s12877-026-08655-5",
@@ -91195,6 +91814,199 @@
           "agingHealth"
         ],
         "firstSeen": "2026-11-12",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/gerona/glag257",
+        "doi": "10.1093/gerona/glag257",
+        "url": "https://doi.org/10.1093/gerona/glag257",
+        "title": "Chronobiology of Aging: Interactions Between Circadian Rhythms, Oxidative Stress, and Inflammation",
+        "authors": [
+          "Bharti Chauhan",
+          "Ishanka Singh",
+          "Pawan Kumar Maurya"
+        ],
+        "abstract": "Abstract                   Chronodisruption is increasingly recognised as a fundamental driver of biological aging rather than merely a consequence of advancing age. Although substantial evidence links circadian dysfunction with individual age-related diseases, the mechanistic integration of chronodisruption across the hallmarks of aging and its therapeutic implications remains fragmented. This review provides a comprehensive synthesis of current evidence describing how age-associated deterioration of the circadian timing system interacts with established hallmarks of aging, including genomic instability, epigenetic alterations, mitochondrial dysfunction, dysregulated nutrient sensing, impaired proteostasis, chronic inflammation, and cellular senescence. This article also incorporates how these interconnected mechanisms contribute to the development and progression of major age-related disorders, including neurodegenerative, cardiovascular, metabolic diseases, and cancer, highlighting shared molecular regulators such as BMAL1, CLOCK, PER, CRY, REV-ERBs, SIRT1, AMPK, and mTOR. Although several reviews exist that focus on individual diseases or isolated circadian mechanisms, this review integrates molecular, cellular, and translational evidence into a unified framework linking chronodisruption to systemic aging. This article discusses emerging chronotherapeutic strategies including chrono-phototherapy, chrono-nutrition, chrono-exercise, natural chrono-modulators, chrono-pharmacology, and precision geromedicine that aim to restore circadian homeostasis and improve healthy aging. Collectively, this review identifies circadian rhythm restoration as a promising systems-level therapeutic approach and outlines future directions for integrating chronobiology into precision interventions for age-related diseases.",
+        "source": "The Journals of Gerontology, Series A: Biological Sciences and Medical Sciences",
+        "issn": "1079-5006",
+        "date": "2026-11-12",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "elderCare"
+        ],
+        "firstSeen": "2026-11-13",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/gerona/glag258",
+        "doi": "10.1093/gerona/glag258",
+        "url": "https://doi.org/10.1093/gerona/glag258",
+        "title": "Youthful circulation reshapes age-associated DNA methylation across blood and liver",
+        "authors": [
+          "Igor Kovalchuk",
+          "Olga Kovalchuk"
+        ],
+        "abstract": "Abstract                   Prolonged heterochronic parabiosis (HPB) reduces DNA methylation (DNAm) age in old mice, but how age-opposing methylation changes are organized across tissues and retained after removal of youthful circulation is unclear. We analyzed processed reduced-representation bisulfite sequencing data from 78 blood and liver samples from a published prolonged-HPB experiment. Across 1,008,133 CpGs with at least 10-fold coverage in every sample, we quantified normal-aging and HPB effects, defined directional reversal by effect size, tested exact cross-tissue and post-detachment persistence, and used chromosome-aware null models for overlap and gene-convergence analyses. HPB-associated methylation changes opposed normal aging in blood and liver, including in independent-cohort comparisons that avoided a shared Old-ISO reference. At the primary 10-percentage-point threshold, 22,424 blood and 22,286 liver CpGs were reversed immediately after HPB; 1,792 were shared at identical loci. After two months of recovery, 25,867 blood and 15,437 liver CpGs were reversed, with 1,387 exact shared loci. A 64-CpG cross-tissue core persisted across both time points. Reversed CpGs were depleted from promoters and CpG islands and enriched in gene bodies and open-sea regions. After exact shared CpGs were removed, tissue-specific sites showed a modest excess of nearest-gene convergence (4,716 observed vs 4,215 expected; empirical P≈.001), whereas promoter/gene-body and Gene Ontology convergence were not supported by stricter genomic null models. Youthful circulation produces both conserved and tissue-specific reversal of age-associated methylation. Persistence after detachment and modest cross-tissue genomic-neighborhood convergence suggest that systemic rejuvenation is encoded at multiple levels of epigenomic organization.",
+        "source": "The Journals of Gerontology, Series A: Biological Sciences and Medical Sciences",
+        "issn": "1079-5006",
+        "date": "2026-11-12",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "elderCare"
+        ],
+        "firstSeen": "2026-11-13",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08694-y",
+        "doi": "10.1186/s12877-026-08694-y",
+        "url": "https://doi.org/10.1186/s12877-026-08694-y",
+        "title": "Serum proteomics reveal frailty signatures among older people living with HIV in the CHANGE HIV cohort",
+        "authors": [
+          "Jholene Massy",
+          "Maysa Niazy",
+          "Abrha G. Gebrehiwot",
+          "Alador Bereketab",
+          "Marina Klein",
+          "Julian Falutz",
+          "Mona Loutfy",
+          "Alice Zhabokritsky",
+          "Bryan Boyachuk",
+          "Charu Kaushic",
+          "Dawn M.E. Bowdish",
+          "Sharon Walmsley",
+          "Chris P. Verschoor",
+          "Dawit Wolday"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-12",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-13",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08691-1",
+        "doi": "10.1186/s12877-026-08691-1",
+        "url": "https://doi.org/10.1186/s12877-026-08691-1",
+        "title": "Risk prediction for venous thromboembolism among older adult internal medicine inpatients: development and validation of a machine learning-based model",
+        "authors": [
+          "Zhenfei Chen",
+          "Chenglin Yang",
+          "Jiaze Dai",
+          "Meihong Cai",
+          "Guangyan Liu",
+          "Xiaoyong Xu",
+          "Chunxia Li",
+          "Haizhu Lin",
+          "Qinqi Qi",
+          "Liping Wang",
+          "Yu Yang"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-12",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-13",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08658-2",
+        "doi": "10.1186/s12877-026-08658-2",
+        "url": "https://doi.org/10.1186/s12877-026-08658-2",
+        "title": "Association between adherence to healthy lifestyle factors and handgrip strength among Korean older adults",
+        "authors": [
+          "Jihoon You",
+          "Dabin Jeong",
+          "Yujin Kim",
+          "Hannah Oh"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-12",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-13",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08678-y",
+        "doi": "10.1186/s12877-026-08678-y",
+        "url": "https://doi.org/10.1186/s12877-026-08678-y",
+        "title": "Handgrip strength relative to DXA-measured appendicular lean mass and life functioning in older Korean adults: a nationwide cross-sectional study",
+        "authors": [
+          "Eunjin Jeong"
+        ],
+        "abstract": "Abstract                                        Background                     Muscle strength and muscle quantity may become dissociated with aging, but whether strength relative to directly measured appendicular lean mass is associated with life functioning remains uncertain. We examined whether handgrip strength relative to dual-energy X-ray absorptiometry (DXA)-measured appendicular lean mass was associated with life functioning in older adults.                                                           Methods                     This cross-sectional study used nationally representative data from the 2024 Korea National Health and Nutrition Examination Survey. Participants were 1,133 adults aged 65 years or older with valid DXA-derived appendicular lean mass, maximal handgrip strength, and 10-item Life Functioning Scale (LF-10) data. Within each sex, maximal handgrip strength was regressed on appendicular lean mass using survey weights, and the standardized observed-minus-predicted residual represented relative strength. Survey-weighted regression accounted for sampling weights, strata, and clusters. Secondary, supplementary, and exploratory analyses examined EQ-5D-3L ​utility, phase angle, and falls, respectively.                                                           Results                                            The fully adjusted analysis included 1,069 participants. Each 1-standard-deviation higher relative strength was associated with a 2.95-point higher LF-10 score (95% confidence interval [CI], 2.08–3.82;                       P                        &lt; 0.001). Compared with the lowest quartile, the highest quartile had a 7.80-point higher LF-10 score (95% CI, 5.62–9.98;                       P                        &lt; 0.001). Model-adjusted mean LF-10 scores increased from 85.30 (95% CI, 83.21–87.38) in the lowest quartile to 93.09 (95% CI, 91.87–94.32) in the highest. The association was approximately linear (P for nonlinearity = 0.202) and remained similar across sensitivity analyses. Higher relative strength was also associated with higher EQ-5D utility and phase angle, whereas the association with falls was not statistically significant.                                                                                Conclusions                     In older Korean adults, handgrip strength relative to DXA-measured appendicular lean mass was associated with better life functioning. This population-referenced measure may help characterize functional heterogeneity not apparent from muscle quantity alone but does not establish a diagnostic or clinically actionable index. Prospective and external validation are needed before clinical application.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-12",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-13",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1215/00703370-12916203",
+        "doi": "10.1215/00703370-12916203",
+        "url": "https://doi.org/10.1215/00703370-12916203",
+        "title": "Citizenship and Immigrant Longevity: Evidence From U.S. Census–Linked Social Security Administration Death Records",
+        "authors": [
+          "Jiaxin Shi",
+          "Jason M. Fletcher"
+        ],
+        "abstract": "Highlights                   We link full-count 1920–1940 U.S. censuses to death records to study citizenship and longevity. Immigrant men who were citizens by 1930 lived 7.6 months longer than those without first papers. Sons whose fathers were citizens by 1920 lived 4.1 months longer than sons of noncitizens. Earlier naturalization is associated with greater longevity gains in both generations. Adjusting for fathers’ SES and sons’ early-adult SES reduces the fathers’ citizenship effect.",
+        "source": "Demography",
+        "issn": "0070-3370",
+        "date": "2026-11-12",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "socialSecurity"
+        ],
+        "firstSeen": "2026-11-13",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261505301",
+        "doi": "10.1177/13872877261505301",
+        "url": "https://doi.org/10.1177/13872877261505301",
+        "title": "In vivo biomarkers for limbic-predominant age-related TDP-43 encephalopathy neuropathologic change (LATE-NC): A scoping review of proposed measures",
+        "authors": [
+          "Ravi Singh",
+          "Soala Reuben",
+          "Mathew Oyelami",
+          "Adesola Adeleye",
+          "Ewarld Marshall"
+        ],
+        "abstract": "Background                     Limbic-predominant age-related TDP-43 encephalopathy neuropathologic change (LATE-NC) is a common cause of late-life amnestic dementia that mimics Alzheimer's disease but lacks a validated in vivo biomarker.                                                           Objective                     The authors sought to map the in vivo biomarker candidates for LATE-NC, characterize the type and quality of evidence for each, highlight their validation against postmortem TDP-43 staging and map their performance in both pure LATE-NC and mixed pathology.                                                           Methods                     Five databases were searched (PubMed/MEDLINE, EMBASE, Web of Science, Cochrane Library, Scopus). Eligible studies investigated in vivo biomarkers for LATE-NC in adults with mean age above 65. Two reviewers independently screened all records; a third adjudicated disagreements. Data were extracted across 24 fields and synthesized narratively.                                                           Results                     43 studies covering structural MRI (19), FDG-PET (8), plasma (7), diffusion MRI (4), multimodal MRI (1), CSF (2), TDP-43 PET (1), and linguistic markers (1) were reviewed. The most replicated signal was medial temporal lobe atrophy and hypometabolism. Several studies framed their candidate as a diagnostic validation against autopsy; yet only three reported formal performance metrics with stated cut-off values. A handful of studies (12%) tested in an independent cohort and the corpus contains only one study from outside North America and Europe (Japan).                                                           Conclusions                     Imaging evidence is well-anchored but mostly exploratory or surrogate validated at this stage. Plasma TDP-43 elevation is consistent but no commercial assay has a validated cut-point. Clinical translation requires external validation, cut-point-anchored diagnostic accuracy, and cohort diversification.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-11-12",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-13",
         "fetched_from": "crossref"
       },
       {
@@ -91924,6 +92736,26 @@
         "fetched_from": "crossref"
       },
       {
+        "id": "doi:10.1093/geront/gnag253",
+        "doi": "10.1093/geront/gnag253",
+        "url": "https://doi.org/10.1093/geront/gnag253",
+        "title": "Navigating turbulent waters in\n                    <i>Queen at Sea</i>",
+        "authors": [
+          "Rose Capp"
+        ],
+        "abstract": "",
+        "source": "The Gerontologist",
+        "issn": "0016-9013",
+        "date": "2026-11-10",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-12",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1177/13872877261505070",
         "doi": "10.1177/13872877261505070",
         "url": "https://doi.org/10.1177/13872877261505070",
@@ -91942,26 +92774,6 @@
           "agingHealth"
         ],
         "firstSeen": "2026-11-11",
-        "fetched_from": "crossref"
-      },
-      {
-        "id": "doi:10.1093/geront/gnag253",
-        "doi": "10.1093/geront/gnag253",
-        "url": "https://doi.org/10.1093/geront/gnag253",
-        "title": "Navigating turbulent waters in\n                    <i>Queen at Sea</i>",
-        "authors": [
-          "Rose Capp"
-        ],
-        "abstract": "",
-        "source": "The Gerontologist",
-        "issn": "0016-9013",
-        "date": "2026-11-10",
-        "subjects": [],
-        "domains": [
-          "elderCare",
-          "agingHealth"
-        ],
-        "firstSeen": "2026-11-12",
         "fetched_from": "crossref"
       },
       {
@@ -128136,6 +128948,25 @@
     ],
     "socialWork": [
       {
+        "id": "doi:10.1093/bjsw/bcag280",
+        "doi": "10.1093/bjsw/bcag280",
+        "url": "https://doi.org/10.1093/bjsw/bcag280",
+        "title": "The influence of the European Court of Human Rights on the discretion of street-level bureaucrats",
+        "authors": [
+          "Hege Stein Helland"
+        ],
+        "abstract": "Abstract                   This article examines the influence of the European Court of Human Rights (ECtHR) on the discretion of street-level bureaucrats (SLBs) in Norwegian child protection services (CPS). Drawing on survey data from 143 social workers at the frontline of the CPS, the study analyses whether, why, and how the Court’s critique has impacted their perceived discretionary space. With Norway facing multiple ECtHR rulings concerning violations of Article 8 of the European Convention on Human Rights regarding the right to private and family life, Norwegian child protection practice has changed in ways that fall beyond the scope of the Court’s critique. This study argues that some of the explanations lie in SLB’s exercise of discretion. The findings reveal that the ECtHR’s critique of Norwegian CPS has influenced SLB’s perceptions of discretionary freedom and decision-making thresholds, and that operational powerlessness and meaningfulness correlate with perceptions of discretion. Moreover, the study identifies substantial individual variation in the Court’s influence on SLB’s perceived discretion. The challenges and policy implications of disparate influence and potential tensions between law and professional discretion are discussed.",
+        "source": "The British Journal of Social Work",
+        "issn": "0045-3102",
+        "date": "2026-11-12",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-11-13",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1093/sw/swag060",
         "doi": "10.1093/sw/swag060",
         "url": "https://doi.org/10.1093/sw/swag060",
@@ -140546,11 +141377,11 @@
     ]
   },
   "totals": {
-    "socialSecurity": 1621,
-    "elderCare": 998,
-    "healthReform": 1497,
-    "agingHealth": 1435,
-    "socialWork": 541
+    "socialSecurity": 1622,
+    "elderCare": 1006,
+    "healthReform": 1511,
+    "agingHealth": 1445,
+    "socialWork": 542
   },
   "feeds_ok": 41
 }
