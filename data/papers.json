@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-13",
-  "fetched": "2026-11-13T08:21:04+00:00",
+  "date": "2026-11-14",
+  "fetched": "2026-11-14T07:45:57+00:00",
   "domains": {
     "socialSecurity": [
       {
@@ -25350,6 +25350,49 @@
     ],
     "elderCare": [
       {
+        "id": "doi:10.1186/s12877-026-08706-x",
+        "doi": "10.1186/s12877-026-08706-x",
+        "url": "https://doi.org/10.1186/s12877-026-08706-x",
+        "title": "Remnant cholesterol combined with LDL-C and risk of major adverse cardiovascular events in elderly hypertensive Patients: A retrospective cohort study",
+        "authors": [
+          "Fang Chen",
+          "Yujing Zheng",
+          "Pei Wang"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-14",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-14",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08539-8",
+        "doi": "10.1186/s12877-026-08539-8",
+        "url": "https://doi.org/10.1186/s12877-026-08539-8",
+        "title": "Occult kidney dysfunction despite preserved creatinine-based kidney function in older adults: a two-cohort study of clinical characteristics and mortality risk",
+        "authors": [
+          "Sirui Sun",
+          "Jie Zhang"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-14",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-14",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1186/s12877-026-08679-x",
         "doi": "10.1186/s12877-026-08679-x",
         "url": "https://doi.org/10.1186/s12877-026-08679-x",
@@ -25393,6 +25436,133 @@
           "agingHealth"
         ],
         "firstSeen": "2026-11-13",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70841",
+        "doi": "10.1111/jgs.70841",
+        "url": "https://doi.org/10.1111/jgs.70841",
+        "title": "Measuring Quality in Assisted Living: The Oregon Way",
+        "authors": [
+          "Sarah Dys",
+          "Tao Li",
+          "Jeff Luck",
+          "David Berger",
+          "Ozcan Tunalilar"
+        ],
+        "abstract": "ABSTRACT                                        Background                     Assisted living (AL) is the largest residential long‐term care provider for dementia specific services in the United States (US), but no nationally accepted standards exist for measuring AL quality in the US Oregon's legislatively mandated Quality Measurement Program (QMP) requires all licensed AL communities to report five quality indicators annually: direct care staff retention, training compliance, falls with injury, prescriptions for nonstandard antipsychotic medication use, and resident satisfaction scores as measured by CoreQ.                                                           Methods                                            We linked the 2024 QMP quality measure data to administrative data for all licensed Oregon AL communities with 25 or more beds (                       n                        = 450). We examined whether these indicators differ by organizational characteristics. We used ordinary least squares regression models to examine the associations between these quality metrics and memory care (MC) endorsement, profit status, Medicaid contract, size, and rural location.                                                                                Results                     MC communities reported a higher rate of falls with injury (11.6% vs. 7.3%) and double the rate of nonstandard antipsychotic prescriptions (18.6% vs. 9.1%) compared to standalone AL, with no statistically significant differences in staff retention, training compliance, or overall resident satisfaction scores. Nonprofit communities had higher staff retention (+11.5 percentage points) and higher resident satisfaction scores across all CoreQ domains compared to their for‐profit counterparts. Finally, communities with a Medicaid contract reported higher nonstandard antipsychotic prescription rates (+4.7 percentage points) and lower overall CoreQ scores compared to non‐Medicaid communities.                                                           Conclusions                     Performance on some QMP measures differed by MC endorsement, ownership structure, and Medicaid contract. Because QMP does not capture measures of resident acuity, these differences should not be read as differences in overall care quality. Future work should examine whether and how contextual information such as payer‐mix and case‐mix adjustment and ownership data could make public reporting more informative.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-11-13",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-14",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70828",
+        "doi": "10.1111/jgs.70828",
+        "url": "https://doi.org/10.1111/jgs.70828",
+        "title": "Editor's Note on Reducing Physical Restraints in Older Adults on an Acute Care for the Elderly Service—A Pragmatic Before‐After Quality Improvement Initiative",
+        "authors": [
+          "Michael L. Malone"
+        ],
+        "abstract": "",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-11-13",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-14",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08670-6",
+        "doi": "10.1186/s12877-026-08670-6",
+        "url": "https://doi.org/10.1186/s12877-026-08670-6",
+        "title": "Pain and self-rated health in the very old: Individual participant data meta-analysis from five TULIP Consortium cohorts",
+        "authors": [
+          "Leah Palapar",
+          "Andrew Kingston",
+          "Ruth Teh",
+          "Ngaire Kerse",
+          "Joanna Hikaka",
+          "Katrina Allen MBChB",
+          "Stella Trompet",
+          "Jacobijn Gussekloo",
+          "Yasumichi Arai",
+          "Yukiko Abe",
+          "Louise Robinson",
+          "Jeanet W. Blom"
+        ],
+        "abstract": "Abstract                                        Background                     In adults and older adults, pain is inversely associated with self-rated health (SRH) independent of health status. Less is known about this association in the very old. This paper aims to determine how pain is associated with SRH in very old people with and without adjustment for individual health status.                                                           Methods                     Using data from five cohorts of very old people aged 80+ from different cultural contexts (n=2,664), we separately fitted single- and multi-level logistic models of SRH to examine cross-sectional and longitudinal associations with pain, respectively. We performed random effects meta-analysis to combine cohort-specific odds ratios (ORs) of positive SRH (selecting response options ‘good’ and above) for those reporting any pain in the past month, at baseline and then over time for up to 10 years follow-up, with adjustment for sociodemographic (age, sex, income status) and individual health (multimorbidity, depressive symptoms, functional ability) variables.                                                           Results                     Over half of participants across cohorts (55.4%) reported having pain and 71.1% had positive SRH at baseline. At baseline, the odds of positive SRH were significantly lower in those with pain in all cohorts when we adjusted for sociodemographic variables (combined OR 0.37; 95% CI 0.28, 0.48), which persisted when we added health-related variables to the models (combined OR 0.42; 95% CI 0.34, 0.54). In longitudinal analysis, over time pain remained significantly associated with lower odds of positive SRH throughout follow-up (combined OR 0.45; 95% CI 0.35, 0.58) after adjusting for sociodemographic and individual health variables.                                                           Conclusion                     Pain is common in very old people, and it is associated with worse SRH independent of health status at baseline and over time. This inverse association is consistent across cultures and time, highlighting the importance of addressing pain in this age group.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-13",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-14",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08693-z",
+        "doi": "10.1186/s12877-026-08693-z",
+        "url": "https://doi.org/10.1186/s12877-026-08693-z",
+        "title": "Informal care gaps, associated factors and support pathways among older adults with chronic diseases: a cross-sectional survey in China",
+        "authors": [
+          "Jianping Liu",
+          "Siyi He",
+          "Yutong Fu",
+          "Qimeng Song",
+          "Wentian Jiang",
+          "Hongjun Ma"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-13",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-14",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08621-1",
+        "doi": "10.1186/s12877-026-08621-1",
+        "url": "https://doi.org/10.1186/s12877-026-08621-1",
+        "title": "Domain-specific effects of dual-task interventions on cognitive function in older adults: a systematic review and three-level meta-analysis",
+        "authors": [
+          "Ruilong Wang",
+          "Hongyun Zheng",
+          "Anzhou Zhu",
+          "Yicong Cui",
+          "Yuan Li",
+          "Xinyang Bao",
+          "Wen Fang",
+          "Xinming Ye"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-13",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-14",
         "fetched_from": "crossref"
       },
       {
@@ -50708,6 +50878,288 @@
       }
     ],
     "healthReform": [
+      {
+        "id": "doi:10.1001/jama.2026.20046",
+        "doi": "10.1001/jama.2026.20046",
+        "url": "https://doi.org/10.1001/jama.2026.20046",
+        "title": "US Health Insurance Coverage Declines",
+        "authors": [
+          "Samantha Anderer"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-13",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-14",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.22638",
+        "doi": "10.1001/jama.2026.22638",
+        "url": "https://doi.org/10.1001/jama.2026.22638",
+        "title": "After COVID-19 Vaccination, Why Do Some People Run a Fever?",
+        "authors": [
+          "Rita Rubin"
+        ],
+        "abstract": "This Medical News article discusses a study that linked the gut microbiome to fever after COVID-19 vaccination.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-13",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-14",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.22660",
+        "doi": "10.1001/jama.2026.22660",
+        "url": "https://doi.org/10.1001/jama.2026.22660",
+        "title": "Study Finds Nearly 75% of Deceased Former NFL Players Had CTE",
+        "authors": [
+          "Sari Richmond"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-13",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-14",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.20048",
+        "doi": "10.1001/jama.2026.20048",
+        "url": "https://doi.org/10.1001/jama.2026.20048",
+        "title": "Updated Guidance Released for Type 2 Diabetes Care",
+        "authors": [
+          "Samantha Anderer"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-13",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-14",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.20047",
+        "doi": "10.1001/jama.2026.20047",
+        "url": "https://doi.org/10.1001/jama.2026.20047",
+        "title": "Personalized mRNA Cancer Vaccine Reduces Melanoma Recurrence Risk",
+        "authors": [
+          "Samantha Anderer"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-13",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-14",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.20050",
+        "doi": "10.1001/jama.2026.20050",
+        "url": "https://doi.org/10.1001/jama.2026.20050",
+        "title": "CDC Report Highlights Growing Threat From Drug-Resistant Germs",
+        "authors": [
+          "Sari Richmond"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-13",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-14",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.22661",
+        "doi": "10.1001/jama.2026.22661",
+        "url": "https://doi.org/10.1001/jama.2026.22661",
+        "title": "Nicotine Vaping Linked to Reduced Vascular Function in Young Adults",
+        "authors": [
+          "Sari Richmond"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-13",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-14",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.20051",
+        "doi": "10.1001/jama.2026.20051",
+        "url": "https://doi.org/10.1001/jama.2026.20051",
+        "title": "FDA Approves First Generic Hormone Therapy Patch for Women",
+        "authors": [
+          "Sari Richmond"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-13",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-14",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.20049",
+        "doi": "10.1001/jama.2026.20049",
+        "url": "https://doi.org/10.1001/jama.2026.20049",
+        "title": "FDA Approves Novel Treatment for Chronic Hepatitis B",
+        "authors": [
+          "Sari Richmond"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-13",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-14",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.22659",
+        "doi": "10.1001/jama.2026.22659",
+        "url": "https://doi.org/10.1001/jama.2026.22659",
+        "title": "ACOG Releases Guidance on GLP-1 Use in Pregnancy and Lactation",
+        "authors": [
+          "Sari Richmond"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-13",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-14",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.23873",
+        "doi": "10.1001/jama.2026.23873",
+        "url": "https://doi.org/10.1001/jama.2026.23873",
+        "title": "In an Effort to Reduce Hypertension, Salt Substitutes Come to the Table",
+        "authors": [
+          "Linda Rodgers"
+        ],
+        "abstract": "This Medical News article discusses efforts to increase the use of potassium-enriched salt substitutes to lower sodium intake and prevent and manage hypertension.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-13",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-14",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2025.16129",
+        "doi": "10.1001/jama.2025.16129",
+        "url": "https://doi.org/10.1001/jama.2025.16129",
+        "title": "JAMA Editors' Summary Podcast",
+        "authors": [],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-13",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-14",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.24689",
+        "doi": "10.1001/jama.2026.24689",
+        "url": "https://doi.org/10.1001/jama.2026.24689",
+        "title": "Fluid eMTBR-tau243 as a Biomarker of Mixed 3-Repeat and 4-Repeat Tau Pathology",
+        "authors": [
+          "Kanta Horie",
+          "Rama K. Koppisetti",
+          "Lawren VandeVrede",
+          "Breton M. Asken",
+          "Yan Li",
+          "Daniel Yen",
+          "Nupur Ghoshal",
+          "Ross W. Paterson",
+          "Argentina Lario Lago",
+          "William W. Seeley",
+          "Lea T. Grinberg",
+          "Randall J. Bateman",
+          "Adam L. Boxer",
+          "Salvatore Spina",
+          "Chihiro Sato"
+        ],
+        "abstract": "Importance                     Neurodegenerative diseases with abnormal tau protein aggregation in the brain (ie, tauopathies) can be classified by the tau isoform that accumulates: 3-repeat (3R), 4-repeat (4R), or mixed 3R/4R tauopathies, which include chronic traumatic encephalopathy (CTE), some forms of frontotemporal lobar degeneration, and Alzheimer disease (AD). The endogenously cleaved form of tau microtubule binding region containing the residue 243 (eMTBR-tau243) can be detected in cerebrospinal fluid (CSF) and blood and has been associated with AD tau pathology, but its specificity and biological interpretation in non-AD tauopathies remains unclear.                                                           Objective                     To evaluate biofluid eMTBR-tau243 in a range of tauopathies.                                                           Design, Setting, and Participants                     This case-control study included 4 biorepositories based in the US that contributed CSF and plasma samples from participants with and without tauopathies, many of whom had antemortem biofluid samples paired with autopsy or genetically defined neuropathology. Samples were analyzed between August 2023 and December 2025. Data analysis occurred from August 2024 to July 2026.                                                           Exposure                     CSF and plasma eMTBR-tau243 concentrations measured using a mass spectrometry–based assay.                                                           Main Outcomes and Measures                                            Outcomes included mixed 3R/4R tauopathy (eg, AD and CTE) based on autopsy, frontotemporal lobar degeneration with                       MAPT                       variants (FTLD-                       MAPT                       ), and CTE stage. Differences in biomarker levels between groups were evaluated using analysis of variance or analysis of covariance, and area under the receiver operating characteristic curve (AUC) was calculated to evaluate the discriminative performance of fluid eMTBR-tau243.                                                                                Results                                            Among the 229 participants (196 with CSF samples and 55 with plasma samples [22 with both]), mean (SD) age at fluid sample collection was 63 (13) years and 108 (47%) were female. Median (IQR) CSF eMTBR-tau243 was increased in 10 patients with AD (0.459 [0.246-0.801] fmol/mL) compared with 29 cognitively unimpaired controls (0.002 [0.001-0.005] fmol/mL) (adjusted                       P                        &amp;amp;lt; .001), but other autopsy-confirmed non-AD tauopathies (which included 52 individuals with conditions including progressive supranuclear palsy and corticobasal degeneration) did not demonstrate an increase (0.015 [0.008, 0.039] fmol/mL). Six symptomatic FTLD-                       MAPT                       variant carriers with mixed 3R/4R tauopathy (R406W, V337M, and G389R) had increased median (IQR) CSF eMTBR-tau243 (0.140 [0.055-0.174] fmol/mL) compared with 15 4R tauopathy variant carriers including N279K and P301L (0.004 [0.001-0.044] fmol/mL) (                       P                        = .001). Median (IQR) plasma eMTBR-tau243 was increased in 11 patients with CTE (1.93 [0.42-3.68] fmol/L) compared with 20 cognitively unimpaired controls (0.29 [0.05-0.62] fmol/L) (adjusted                       P                        = .007), but did not increase as high as among 14 patients with AD (11.25 [2.29-19.38] fmol/L). Plasma eMTBR-tau243 distinguished CTE stage III and IV from controls (AUC, 0.97; 95% CI, 0.92-1.00), but not CTE stage I from controls (AUC, 0.64; 95% CI, 0.32-0.97).                                                                                Conclusions and Relevance                                            This study found that plasma and CSF eMTBR-tau243 were increased in mixed 3R/4R tauopathies including AD, high-stage CTE, and a subset of genetic FTLD-                       MAPT                       , compared with cognitively unimpaired controls. Further validation in larger cohorts is needed to determine the clinical utility of eMTBR-tau243 as a potential diagnostic biomarker for CTE and other tauopathies beyond AD.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-13",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-14",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag294",
+        "doi": "10.1093/aje/kwag294",
+        "url": "https://doi.org/10.1093/aje/kwag294",
+        "title": "Causal Machine Learning for Treatment Effect Heterogeneity: Interpretation, Benchmarking, Validation",
+        "authors": [
+          "Philip Heesen",
+          "Maresa Schröder",
+          "Rishi J Desai",
+          "Stefan Feuerriegel"
+        ],
+        "abstract": "Abstract                   Causal machine learning (ML) has emerged as a promising approach for predicting individualized treatment effects and advancing precision medicine, moving beyond the limitations of conventional one-variable-at-a-time subgroup analyses of randomized trials. A recent benchmarking study by Chen and colleagues evaluated several causal ML learners across two large trials and concluded that current methods do not yet demonstrate reliable performance for clinical application. While such applied methodological investigations are valuable, this conclusion warrants a more nuanced examination. Multiple independent research groups have successfully applied causal ML across respiratory medicine and critical care, identifying clinically meaningful treatment effect heterogeneity that prior subgroup analyses had not resolved, although these applications have methodological limitations and do not yet establish that the detected heterogeneity is robust across internal and external validation. We outline four sequential and iterative dimensions central to credible causal ML analyses: choice of learner, model training with cross-fitting, internal validation using calibration-for-benefit and rank-weighted metrics, and external validation aligned with the original causal question. With careful methodological execution, causal ML holds considerable promise for personalized treatment decisions and warrants continued development; dismissing the field prematurely risks overlooking a powerful tool for personalized treatment decisions.",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-11-13",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-14",
+        "fetched_from": "crossref"
+      },
       {
         "id": "doi:10.1056/nejmoa2603649",
         "doi": "10.1056/nejmoa2603649",
@@ -91748,6 +92200,49 @@
     ],
     "agingHealth": [
       {
+        "id": "doi:10.1186/s12877-026-08706-x",
+        "doi": "10.1186/s12877-026-08706-x",
+        "url": "https://doi.org/10.1186/s12877-026-08706-x",
+        "title": "Remnant cholesterol combined with LDL-C and risk of major adverse cardiovascular events in elderly hypertensive Patients: A retrospective cohort study",
+        "authors": [
+          "Fang Chen",
+          "Yujing Zheng",
+          "Pei Wang"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-14",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-14",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08539-8",
+        "doi": "10.1186/s12877-026-08539-8",
+        "url": "https://doi.org/10.1186/s12877-026-08539-8",
+        "title": "Occult kidney dysfunction despite preserved creatinine-based kidney function in older adults: a two-cohort study of clinical characteristics and mortality risk",
+        "authors": [
+          "Sirui Sun",
+          "Jie Zhang"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-14",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-14",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1186/s12877-026-08679-x",
         "doi": "10.1186/s12877-026-08679-x",
         "url": "https://doi.org/10.1186/s12877-026-08679-x",
@@ -91789,6 +92284,300 @@
         "domains": [
           "elderCare",
           "agingHealth"
+        ],
+        "firstSeen": "2026-11-13",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70841",
+        "doi": "10.1111/jgs.70841",
+        "url": "https://doi.org/10.1111/jgs.70841",
+        "title": "Measuring Quality in Assisted Living: The Oregon Way",
+        "authors": [
+          "Sarah Dys",
+          "Tao Li",
+          "Jeff Luck",
+          "David Berger",
+          "Ozcan Tunalilar"
+        ],
+        "abstract": "ABSTRACT                                        Background                     Assisted living (AL) is the largest residential long‐term care provider for dementia specific services in the United States (US), but no nationally accepted standards exist for measuring AL quality in the US Oregon's legislatively mandated Quality Measurement Program (QMP) requires all licensed AL communities to report five quality indicators annually: direct care staff retention, training compliance, falls with injury, prescriptions for nonstandard antipsychotic medication use, and resident satisfaction scores as measured by CoreQ.                                                           Methods                                            We linked the 2024 QMP quality measure data to administrative data for all licensed Oregon AL communities with 25 or more beds (                       n                        = 450). We examined whether these indicators differ by organizational characteristics. We used ordinary least squares regression models to examine the associations between these quality metrics and memory care (MC) endorsement, profit status, Medicaid contract, size, and rural location.                                                                                Results                     MC communities reported a higher rate of falls with injury (11.6% vs. 7.3%) and double the rate of nonstandard antipsychotic prescriptions (18.6% vs. 9.1%) compared to standalone AL, with no statistically significant differences in staff retention, training compliance, or overall resident satisfaction scores. Nonprofit communities had higher staff retention (+11.5 percentage points) and higher resident satisfaction scores across all CoreQ domains compared to their for‐profit counterparts. Finally, communities with a Medicaid contract reported higher nonstandard antipsychotic prescription rates (+4.7 percentage points) and lower overall CoreQ scores compared to non‐Medicaid communities.                                                           Conclusions                     Performance on some QMP measures differed by MC endorsement, ownership structure, and Medicaid contract. Because QMP does not capture measures of resident acuity, these differences should not be read as differences in overall care quality. Future work should examine whether and how contextual information such as payer‐mix and case‐mix adjustment and ownership data could make public reporting more informative.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-11-13",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-14",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70828",
+        "doi": "10.1111/jgs.70828",
+        "url": "https://doi.org/10.1111/jgs.70828",
+        "title": "Editor's Note on Reducing Physical Restraints in Older Adults on an Acute Care for the Elderly Service—A Pragmatic Before‐After Quality Improvement Initiative",
+        "authors": [
+          "Michael L. Malone"
+        ],
+        "abstract": "",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-11-13",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-14",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08670-6",
+        "doi": "10.1186/s12877-026-08670-6",
+        "url": "https://doi.org/10.1186/s12877-026-08670-6",
+        "title": "Pain and self-rated health in the very old: Individual participant data meta-analysis from five TULIP Consortium cohorts",
+        "authors": [
+          "Leah Palapar",
+          "Andrew Kingston",
+          "Ruth Teh",
+          "Ngaire Kerse",
+          "Joanna Hikaka",
+          "Katrina Allen MBChB",
+          "Stella Trompet",
+          "Jacobijn Gussekloo",
+          "Yasumichi Arai",
+          "Yukiko Abe",
+          "Louise Robinson",
+          "Jeanet W. Blom"
+        ],
+        "abstract": "Abstract                                        Background                     In adults and older adults, pain is inversely associated with self-rated health (SRH) independent of health status. Less is known about this association in the very old. This paper aims to determine how pain is associated with SRH in very old people with and without adjustment for individual health status.                                                           Methods                     Using data from five cohorts of very old people aged 80+ from different cultural contexts (n=2,664), we separately fitted single- and multi-level logistic models of SRH to examine cross-sectional and longitudinal associations with pain, respectively. We performed random effects meta-analysis to combine cohort-specific odds ratios (ORs) of positive SRH (selecting response options ‘good’ and above) for those reporting any pain in the past month, at baseline and then over time for up to 10 years follow-up, with adjustment for sociodemographic (age, sex, income status) and individual health (multimorbidity, depressive symptoms, functional ability) variables.                                                           Results                     Over half of participants across cohorts (55.4%) reported having pain and 71.1% had positive SRH at baseline. At baseline, the odds of positive SRH were significantly lower in those with pain in all cohorts when we adjusted for sociodemographic variables (combined OR 0.37; 95% CI 0.28, 0.48), which persisted when we added health-related variables to the models (combined OR 0.42; 95% CI 0.34, 0.54). In longitudinal analysis, over time pain remained significantly associated with lower odds of positive SRH throughout follow-up (combined OR 0.45; 95% CI 0.35, 0.58) after adjusting for sociodemographic and individual health variables.                                                           Conclusion                     Pain is common in very old people, and it is associated with worse SRH independent of health status at baseline and over time. This inverse association is consistent across cultures and time, highlighting the importance of addressing pain in this age group.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-13",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-14",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08693-z",
+        "doi": "10.1186/s12877-026-08693-z",
+        "url": "https://doi.org/10.1186/s12877-026-08693-z",
+        "title": "Informal care gaps, associated factors and support pathways among older adults with chronic diseases: a cross-sectional survey in China",
+        "authors": [
+          "Jianping Liu",
+          "Siyi He",
+          "Yutong Fu",
+          "Qimeng Song",
+          "Wentian Jiang",
+          "Hongjun Ma"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-13",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-14",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08621-1",
+        "doi": "10.1186/s12877-026-08621-1",
+        "url": "https://doi.org/10.1186/s12877-026-08621-1",
+        "title": "Domain-specific effects of dual-task interventions on cognitive function in older adults: a systematic review and three-level meta-analysis",
+        "authors": [
+          "Ruilong Wang",
+          "Hongyun Zheng",
+          "Anzhou Zhu",
+          "Yicong Cui",
+          "Yuan Li",
+          "Xinyang Bao",
+          "Wen Fang",
+          "Xinming Ye"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-13",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-14",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag294",
+        "doi": "10.1093/aje/kwag294",
+        "url": "https://doi.org/10.1093/aje/kwag294",
+        "title": "Causal Machine Learning for Treatment Effect Heterogeneity: Interpretation, Benchmarking, Validation",
+        "authors": [
+          "Philip Heesen",
+          "Maresa Schröder",
+          "Rishi J Desai",
+          "Stefan Feuerriegel"
+        ],
+        "abstract": "Abstract                   Causal machine learning (ML) has emerged as a promising approach for predicting individualized treatment effects and advancing precision medicine, moving beyond the limitations of conventional one-variable-at-a-time subgroup analyses of randomized trials. A recent benchmarking study by Chen and colleagues evaluated several causal ML learners across two large trials and concluded that current methods do not yet demonstrate reliable performance for clinical application. While such applied methodological investigations are valuable, this conclusion warrants a more nuanced examination. Multiple independent research groups have successfully applied causal ML across respiratory medicine and critical care, identifying clinically meaningful treatment effect heterogeneity that prior subgroup analyses had not resolved, although these applications have methodological limitations and do not yet establish that the detected heterogeneity is robust across internal and external validation. We outline four sequential and iterative dimensions central to credible causal ML analyses: choice of learner, model training with cross-fitting, internal validation using calibration-for-benefit and rank-weighted metrics, and external validation aligned with the original causal question. With careful methodological execution, causal ML holds considerable promise for personalized treatment decisions and warrants continued development; dismissing the field prematurely risks overlooking a powerful tool for personalized treatment decisions.",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-11-13",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-14",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261505047",
+        "doi": "10.1177/13872877261505047",
+        "url": "https://doi.org/10.1177/13872877261505047",
+        "title": "Multimodal neuroimaging in Alzheimer's disease: A practical, case-illustrated review of quantitative MRI and molecular PET",
+        "authors": [
+          "Iman Dajani",
+          "Nila Alsheik",
+          "Ali Chaari"
+        ],
+        "abstract": "Alzheimer's disease (AD) accounts for 60–70% of dementia cases worldwide. Current diagnostic pathways rely on structural magnetic resonance imaging (MRI) to exclude secondary causes, amyloid positron emission tomography (PET) to confirm pathology, and tau PET for disease staging. However, these approaches are limited by subjectivity, cost, accessibility, and variability in interpretation. Quantitative imaging tools such as volumetric MRI and NeuroQuant offer reproducible metrics that may enhance diagnostic precision and standardization. This review synthesizes literature published between 2000 and 2026 evaluating structural MRI, quantitative volumetric MRI, amyloid PET, tau PET, FDG PET, and emerging adjunctive imaging techniques, supplemented by illustrative clinical cases demonstrating multimodal integration in practice. Particular emphasis is placed on the role of NeuroQuant in standardized atrophy quantification and its integration with molecular imaging modalities. Volumetric MRI enhances PET-based diagnosis and staging by contextualizing amyloid and tau pathology within patterns of selective neurodegeneration. Quantitative metrics correlate with cognitive decline and disease progression. Multimodal imaging strategies improve diagnostic specificity, longitudinal monitoring, and phenotypic stratification across the AD. Multimodal imaging provides a comprehensive framework for AD management. Quantitative MRI using NeuroQuant bridges structural and molecular domains, supporting standardized assessment and integration with emerging precision diagnostic approaches.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-11-13",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-14",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261502862",
+        "doi": "10.1177/13872877261502862",
+        "url": "https://doi.org/10.1177/13872877261502862",
+        "title": "Olfactory network variability is associated with odor identification and cognitive performance in mild cognitive impairment",
+        "authors": [
+          "Yujing Gan",
+          "Mingfeng Yang",
+          "Jiafu Li",
+          "Haoye Tan",
+          "Qiang Wang",
+          "Danyan Xu",
+          "Shuang Liang",
+          "Zhidai Xiao",
+          "Shihan Tian",
+          "Zihan Wang",
+          "Yijie Zeng",
+          "Qin Liu",
+          "Kexin Yao",
+          "Yicheng Lin",
+          "Yuping Ning",
+          "Ben Chen",
+          "Xiaomei Zhong"
+        ],
+        "abstract": "Background                     Odor identification impairment is an early marker of Alzheimer's disease pathology and predicts dementia conversion in mild cognitive impairment (MCI). However, the pathophysiological role of dynamic functional connectivity (dFC) variability within olfactory networks remains unclear.                                                           Objective                     To characterize seed-based dFC variability across olfactory pathways in MCI with odor identification impairment (MCI-OII) and examine its associations with olfactory and cognitive performance.                                                           Methods                     Ninety-seven patients with MCI were recruited and subdivided into MCI-OII and those without odor identification impairment (MCI-NOII), along with 97 age-matched healthy controls (HC). All participants underwent neuropsychological assessment, olfactory testing, and resting-state functional magnetic resonance imaging. Seed-based dFC variability was computed using a sliding window approach. Correlation and exploratory mediation analyses examined associations among abnormal dFC, odor identification, and cognition.                                                           Results                     Compared to MCI-NOII and HC, MCI-OII exhibited increased dFC variability between the left piriform cortex/right insula and right caudate nucleus, and between the left insula and left middle frontal gyrus. For the connection between the left insula and left cerebellar lobule VI, dFC variability showed a graded pattern from MCI-OII to HC to MCI-NOII. Increased caudate-centered dFC variability was associated with poorer odor identification, memory, and executive performance. Furthermore, exploratory mediation analyses suggested indirect associations involving odor identification, caudate-centered dFC variability, and memory or executive function.                                                           Conclusions                     MCI-OII is characterized by increased olfactory-network dFC variability, particularly in caudate-centered pathways. These findings suggest that dFC variability may serve as a candidate network-level marker of concurrent olfactory impairment and cognitive dysfunction in MCI.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-11-13",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-14",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261502871",
+        "doi": "10.1177/13872877261502871",
+        "url": "https://doi.org/10.1177/13872877261502871",
+        "title": "Reading the gene in the eye: Clinical discrimination and confidence-accuracy calibration in genetic frontotemporal dementia",
+        "authors": [
+          "Alexandre Morin",
+          "Jasmine Carlier",
+          "Sherri Lee Jones",
+          "Kristy K.L. Coleman",
+          "Arabella Bouzigues",
+          "Eve Ferry-Bolder",
+          "Eva Cullen",
+          "Lucy L. Russell",
+          "Phoebe H. Foster",
+          "Sophie Farley",
+          "Rhian Convery",
+          "John C. van Swieten",
+          "Lize C. Jiskoot",
+          "Harro Seelaar",
+          "Daniela Galimberti",
+          "Rik Vandenberghe",
+          "Robert Laforce",
+          "Elizabeth Finger",
+          "Rose Bruffaerts",
+          "Maxime Bertoux",
+          "Thibaud Lebouvier",
+          "Eino Solje",
+          "Johannes Levin",
+          "Giuseppe di Fede",
+          "Alexander Thompson",
+          "Isabelle Le Ber",
+          "Raffaella L. Migliaccio",
+          "Peter Körtvélyessy",
+          "Matthias L. Schroeter",
+          "Giancarlo Logroscino",
+          "Markus Otto",
+          "Zeljko Uzelac",
+          "Ignacio Illán-Gala",
+          "Johanna Krüger",
+          "Benedetta Nacmias",
+          "Alexander Gerhard",
+          "Tobias Langheinrich",
+          "Isabel Santana",
+          "Maria Carmela Tartaglia",
+          "Mario Masellis",
+          "Alexandre de Mendonça",
+          "James B. Rowe",
+          "Caroline Graff",
+          "Fermin Moreno",
+          "Matthis Synofzik",
+          "Barbara Borroni",
+          "Raquel Sanchez-Valle",
+          "Jonathan D. Rohrer",
+          "Simon Ducharme"
+        ],
+        "abstract": "Background                     Clinical evaluation in frontotemporal dementia (FTD) occurs under diagnostic uncertainty, particularly in stages when symptoms are subtle, heterogeneous, and may resemble primary psychiatric disorders. Less attention has been devoted to clinicians’ evaluation of judgment reliability.                                                           Objective                     To characterize clinicians’ decision-making and confidence calibration when evaluating individuals at risk for genetic FTD within the Genetic Frontotemporal Dementia Initiative (GENFI) cohort.                                                           Methods                     Two analyses were conducted. First, determinants of diagnostic confidence were examined in asymptomatic participants (N = 837) using univariate analysis and logistic regression including demographic, neuropsychological, and clinical factors. Second, clinicians’ ability to predict disease, based on mutation status, was evaluated in a subset of asymptomatic individuals (N = 133) using signal detection theory. Discriminability (d′), response bias (c), and metacognitive performance (meta-d′ and M-ratio) were estimated from confidence ratings.                                                           Results                     Lower diagnostic confidence clustered around boundary neuropsychiatric presentations characterized by subtle symptoms, lower cognitive scores, older age, and features including psychiatric history and current depression or anxiety. Clinicians predicted mutation status above chance level (accuracy ≈ 0.71), with better identification of non-carriers than carriers. Metacognitive modelling revealed imperfect calibration between confidence and accuracy (d′ ≈ 1.06; meta-d′ ≈ 0.85; M-ratio ≈ 0.80), indicating that confidence carried information about reliability but did not fully reflect available evidence.                                                           Conclusions                     Clinical decision-making in genetic FTD shows moderate accuracy, with lower confidence at the interface between neurodegenerative and psychiatric symptoms. Improving clinical decisions requires not only diagnostic accuracy, but also awareness of when judgments are correct. Biomarkers and structured assessments may help identify cases requiring evaluation.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-11-13",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-14",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1215/00703370-12916203",
+        "doi": "10.1215/00703370-12916203",
+        "url": "https://doi.org/10.1215/00703370-12916203",
+        "title": "Citizenship and Immigrant Longevity: Evidence From U.S. Census–Linked Social Security Administration Death Records",
+        "authors": [
+          "Jiaxin Shi",
+          "Jason M. Fletcher"
+        ],
+        "abstract": "Highlights                   We link full-count 1920–1940 U.S. censuses to death records to study citizenship and longevity. Immigrant men who were citizens by 1930 lived 7.6 months longer than those without first papers. Sons whose fathers were citizens by 1920 lived 4.1 months longer than sons of noncitizens. Earlier naturalization is associated with greater longevity gains in both generations. Adjusting for fathers’ SES and sons’ early-adult SES reduces the fathers’ citizenship effect.",
+        "source": "Demography",
+        "issn": "0070-3370",
+        "date": "2026-11-12",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "socialSecurity"
         ],
         "firstSeen": "2026-11-13",
         "fetched_from": "crossref"
@@ -91961,27 +92750,6 @@
         "domains": [
           "elderCare",
           "agingHealth"
-        ],
-        "firstSeen": "2026-11-13",
-        "fetched_from": "crossref"
-      },
-      {
-        "id": "doi:10.1215/00703370-12916203",
-        "doi": "10.1215/00703370-12916203",
-        "url": "https://doi.org/10.1215/00703370-12916203",
-        "title": "Citizenship and Immigrant Longevity: Evidence From U.S. Census–Linked Social Security Administration Death Records",
-        "authors": [
-          "Jiaxin Shi",
-          "Jason M. Fletcher"
-        ],
-        "abstract": "Highlights                   We link full-count 1920–1940 U.S. censuses to death records to study citizenship and longevity. Immigrant men who were citizens by 1930 lived 7.6 months longer than those without first papers. Sons whose fathers were citizens by 1920 lived 4.1 months longer than sons of noncitizens. Earlier naturalization is associated with greater longevity gains in both generations. Adjusting for fathers’ SES and sons’ early-adult SES reduces the fathers’ citizenship effect.",
-        "source": "Demography",
-        "issn": "0070-3370",
-        "date": "2026-11-12",
-        "subjects": [],
-        "domains": [
-          "agingHealth",
-          "socialSecurity"
         ],
         "firstSeen": "2026-11-13",
         "fetched_from": "crossref"
@@ -128948,6 +129716,32 @@
     ],
     "socialWork": [
       {
+        "id": "doi:10.1093/bjsw/bcag288",
+        "doi": "10.1093/bjsw/bcag288",
+        "url": "https://doi.org/10.1093/bjsw/bcag288",
+        "title": "Designing child-centred social work services for high-conflict parental separation: Clients’ experiential knowledge as a foundation",
+        "authors": [
+          "Milla Mäkinen",
+          "Susanna Rautio",
+          "Agnieszka Repo",
+          "Anna Nikupeteri",
+          "Kati Kallinen",
+          "Johanna Lehtonen",
+          "Riitta Vornanen",
+          "Merja Laitinen"
+        ],
+        "abstract": "Abstract                   The aim of this study is to explore how social work services can be designed to meet the needs of children and adolescents experiencing high-conflict parental separations. We do this by examining experiential knowledge. High-conflict parental separations are prolonged parental disputes that can significantly harm children and adolescents. To respond effectively, we need to enrich the strong traditional understanding of social work with system-oriented service design. Data was collected through four online workshops involving young people and adults (n = 23) with lived experience of high-conflict parental separation and analysed with Applied Interpretative Phenomenological Analysis. The research questions are: (1) How do young adults and parents define and describe service needs in high-conflict parental separations, based on their lived experiences? (2) What insights does this experiential knowledge offer for the child-centred design of social work services in these situations? Findings indicate that high-conflict parental separations are experienced as long-lasting family crises with nano-, micro-, meso-, and macro-level implications for social work services design. Services need to be cognitively ergonomic and appreciative of children and adolescents. Children and adolescents need to be positioned as two particular client groups, and to be included in both design and implementation of the right services for them.",
+        "source": "The British Journal of Social Work",
+        "issn": "0045-3102",
+        "date": "2026-11-13",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-11-14",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1093/bjsw/bcag280",
         "doi": "10.1093/bjsw/bcag280",
         "url": "https://doi.org/10.1093/bjsw/bcag280",
@@ -141378,10 +142172,10 @@
   },
   "totals": {
     "socialSecurity": 1622,
-    "elderCare": 1006,
-    "healthReform": 1511,
-    "agingHealth": 1445,
-    "socialWork": 542
+    "elderCare": 1013,
+    "healthReform": 1525,
+    "agingHealth": 1456,
+    "socialWork": 543
   },
   "feeds_ok": 41
 }
