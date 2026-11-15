@@ -1,8 +1,28 @@
 {
-  "date": "2026-11-14",
-  "fetched": "2026-11-14T07:45:57+00:00",
+  "date": "2026-11-15",
+  "fetched": "2026-11-15T08:02:31+00:00",
   "domains": {
     "socialSecurity": [
+      {
+        "id": "doi:10.1111/jori.70089",
+        "doi": "10.1111/jori.70089",
+        "url": "https://doi.org/10.1111/jori.70089",
+        "title": "Falsification fraud in insurance markets: Algorithms, auditing, and nitpicking",
+        "authors": [
+          "Hong Li",
+          "Tao Li"
+        ],
+        "abstract": "Abstract                   This paper studies falsification fraud, where a policy holder suffers a real loss that is excluded from coverage but reports it as covered. Without commitment to costly auditing, equilibrium features positive auditing and falsification, and contracts may exhibit either under‐ or overinsurance. We study two claims‐handling tools: pre‐audit screening and post‐audit payment reductions (“nitpicking”). Under CARA preferences, a sufficiently sensitive screening algorithm concentrates audits on flagged claims and lowers falsification, premiums, and equilibrium coverage; when sensitivity is low, these effects reverse. Nitpicking strengthens audit incentives by reducing payments on audited insurable claims, but its role diminishes as screening improves, implying substitution between the two tools. The welfare comparison between screening and no screening extends to general preferences, as does the weak welfare gain from allowing nitpicking. Numerical exercises under IARA and DARA preferences yield the same qualitative equilibrium patterns.",
+        "source": "Journal of Risk and Insurance",
+        "issn": "0022-4367",
+        "date": "2026-11-14",
+        "subjects": [],
+        "domains": [
+          "socialSecurity"
+        ],
+        "firstSeen": "2026-11-15",
+        "fetched_from": "crossref"
+      },
       {
         "id": "doi:10.1215/00703370-12916203",
         "doi": "10.1215/00703370-12916203",
@@ -25390,6 +25410,34 @@
           "agingHealth"
         ],
         "firstSeen": "2026-11-14",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/gerona/glag259",
+        "doi": "10.1093/gerona/glag259",
+        "url": "https://doi.org/10.1093/gerona/glag259",
+        "title": "Association between Brain Amyloid Status and Cognitive and Physical Performance in Older Adults with Frailty Criteria: Longitudinal Data from the CogFrail Study",
+        "authors": [
+          "Davide Angioni",
+          "Federico Bellelli",
+          "Christelle Cantet",
+          "Gaelle Soriano",
+          "Pierre Payoux",
+          "Bruno Vellas",
+          "Julien Delrieu",
+          "Sandrine Andrieu",
+          "Sandrine Sourdet"
+        ],
+        "abstract": "Abstract                                        BACKGROUND                     The impact of cerebral amyloid pathology on cognitive and functional decline may differ with age. Evidence linking brain amyloidopathy to physical decline remains limited and inconsistent. This study investigated the association between brain amyloid status and cognitive and physical decline in (pre)frail older adults with cognitive impairment.                                                           METHODS                     This longitudinal analysis used data from the CogFrail study. Brain amyloid pathology was assessed using amyloid-positron emission tomography (visual reading). Linear mixed-effects models examined differences over a two-year follow-up between amyloid-positive and amyloid-negative participants in cognitive, functional, and physical trajectories. Cognitive and functional outcomes included the Mini-Mental State Examination, the Clinical Dementia Rating–Sum of Boxes, the Activities of Daily Living Index, and a neuropsychological battery, while the physical domain was assessed using handgrip strength, chair rise time, gait speed, and the Short Physical Performance Battery.                                                           RESULTS                     Among 199 participants (mean age 82.3 ± 4.8 years; 65.3% women), 108(54.3%) were amyloid-positive. Amyloid-positive participants experienced greater decline in the Clinical Dementia Rating–Sum of Boxes (β = 0.30, 95% CI 0.10–0.49; p = 0.003, log-transformed) and the Mini-Mental State Examination (β = –1.62, 95% CI –2.74 to –0.49; p = 0.005). No significant longitudinal differences were observed between groups in the Activities of Daily Living Index, neuropsychological outcomes, or physical performance measures.                                                           CONCLUSION                     Amyloid pathology assessment may help differentiate cognitive trajectories in cognitively impaired (pre)frail older adults. Greater cognitive decline in amyloid-positive participants was not associated with greater loss of independence or additional physical decline over time.                                                           TRIAL REGISTRATION                     NCT03129269",
+        "source": "The Journals of Gerontology, Series A: Biological Sciences and Medical Sciences",
+        "issn": "1079-5006",
+        "date": "2026-11-14",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "elderCare"
+        ],
+        "firstSeen": "2026-11-15",
         "fetched_from": "crossref"
       },
       {
@@ -50878,6 +50926,84 @@
       }
     ],
     "healthReform": [
+      {
+        "id": "doi:10.1056/nejmicm2608021",
+        "doi": "10.1056/nejmicm2608021",
+        "url": "https://doi.org/10.1056/nejmicm2608021",
+        "title": "Functional Fixed Dystonia of the Foot",
+        "authors": [
+          "Jorik Nonnekes",
+          "Annemieke de Greef-Rotteveel"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-11-14",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-15",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmp2606894",
+        "doi": "10.1056/nejmp2606894",
+        "url": "https://doi.org/10.1056/nejmp2606894",
+        "title": "What the Robot Still Can’t Do",
+        "authors": [
+          "Shantanu Nundy"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-11-14",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-15",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmp2611160",
+        "doi": "10.1056/nejmp2611160",
+        "url": "https://doi.org/10.1056/nejmp2611160",
+        "title": "The Unexamined Subsidy — Rethinking Incentives for Outpatient Clinical Preceptors",
+        "authors": [
+          "Hannah L. Maxey",
+          "Mykayla Moore"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-11-14",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-15",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmp2611665",
+        "doi": "10.1056/nejmp2611665",
+        "url": "https://doi.org/10.1056/nejmp2611665",
+        "title": "Reimagining Health Policy Research",
+        "authors": [
+          "Emma E. McGinty"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-11-14",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-15",
+        "fetched_from": "crossref"
+      },
       {
         "id": "doi:10.1001/jama.2026.20046",
         "doi": "10.1001/jama.2026.20046",
@@ -92240,6 +92366,127 @@
           "agingHealth"
         ],
         "firstSeen": "2026-11-14",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/gerona/glag259",
+        "doi": "10.1093/gerona/glag259",
+        "url": "https://doi.org/10.1093/gerona/glag259",
+        "title": "Association between Brain Amyloid Status and Cognitive and Physical Performance in Older Adults with Frailty Criteria: Longitudinal Data from the CogFrail Study",
+        "authors": [
+          "Davide Angioni",
+          "Federico Bellelli",
+          "Christelle Cantet",
+          "Gaelle Soriano",
+          "Pierre Payoux",
+          "Bruno Vellas",
+          "Julien Delrieu",
+          "Sandrine Andrieu",
+          "Sandrine Sourdet"
+        ],
+        "abstract": "Abstract                                        BACKGROUND                     The impact of cerebral amyloid pathology on cognitive and functional decline may differ with age. Evidence linking brain amyloidopathy to physical decline remains limited and inconsistent. This study investigated the association between brain amyloid status and cognitive and physical decline in (pre)frail older adults with cognitive impairment.                                                           METHODS                     This longitudinal analysis used data from the CogFrail study. Brain amyloid pathology was assessed using amyloid-positron emission tomography (visual reading). Linear mixed-effects models examined differences over a two-year follow-up between amyloid-positive and amyloid-negative participants in cognitive, functional, and physical trajectories. Cognitive and functional outcomes included the Mini-Mental State Examination, the Clinical Dementia Rating–Sum of Boxes, the Activities of Daily Living Index, and a neuropsychological battery, while the physical domain was assessed using handgrip strength, chair rise time, gait speed, and the Short Physical Performance Battery.                                                           RESULTS                     Among 199 participants (mean age 82.3 ± 4.8 years; 65.3% women), 108(54.3%) were amyloid-positive. Amyloid-positive participants experienced greater decline in the Clinical Dementia Rating–Sum of Boxes (β = 0.30, 95% CI 0.10–0.49; p = 0.003, log-transformed) and the Mini-Mental State Examination (β = –1.62, 95% CI –2.74 to –0.49; p = 0.005). No significant longitudinal differences were observed between groups in the Activities of Daily Living Index, neuropsychological outcomes, or physical performance measures.                                                           CONCLUSION                     Amyloid pathology assessment may help differentiate cognitive trajectories in cognitively impaired (pre)frail older adults. Greater cognitive decline in amyloid-positive participants was not associated with greater loss of independence or additional physical decline over time.                                                           TRIAL REGISTRATION                     NCT03129269",
+        "source": "The Journals of Gerontology, Series A: Biological Sciences and Medical Sciences",
+        "issn": "1079-5006",
+        "date": "2026-11-14",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "elderCare"
+        ],
+        "firstSeen": "2026-11-15",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261507606",
+        "doi": "10.1177/13872877261507606",
+        "url": "https://doi.org/10.1177/13872877261507606",
+        "title": "Primary non-adherence to anti-dementia drugs, antidepressants, antipsychotics and benzodiazepines in individuals with dementia in Germany: A cohort study of primary care prescriptions",
+        "authors": [
+          "Jens Bohlken",
+          "Steffi Riedel-Heller",
+          "Karel Kostev"
+        ],
+        "abstract": "Background                     Individuals with dementia frequently receive psychotropic and anti-dementia medication. Primary non-adherence (PNA), the failure to dispense a newly initiated medication, is an early and overlooked treatment barrier.                                                           Objective                     To estimate PNA at treatment initiation across four medication classes in dementia, to analyse subsequent prescriptions separately, and to identify associated patient factors.                                                           Methods                     Retrospective cohort study using German primary care records linked to pharmacy dispensing data. Individuals aged 65 years and older with dementia who initiated anti-dementia drugs, antidepressants, antipsychotics, or benzodiazepines and related sedatives in general practices were included. Treatment initiation required 365 days of prior observation and no dispensing of the same class in that period. PNA was defined as failure to dispense within 30 days. Generalized estimating equations accounted for repeated observations within patients.                                                           Results                     Among 10,746 initiations from 8634 individuals (mean age 83.4 years; 64.3% women), PNA occurred in 13.4% (95% CI 11.8–15.1) of anti-dementia drug, 11.5% (10.2–12.9) of antidepressant, 8.7% (7.9–9.5) of antipsychotic and 25.7% (23.8–27.7) of benzodiazepine initiations. Compared with antipsychotics, odds were higher for anti-dementia drugs (OR 1.54; 1.30–1.82), antidepressants (1.29; 1.11–1.51) and benzodiazepines (3.63; 3.14–4.20). Results were homogeneous across age cohorts (interaction p = 0.97). Among 180,796 subsequent prescriptions, non-dispensing was lower than at initiation except for benzodiazepines (31.5%).                                                           Conclusions                     PNA at initiation was moderate for anti-dementia drugs, antidepressants and antipsychotics, and considerably higher for benzodiazepines and related sedatives. The latter warrants investigation into access barriers, preferences, safety concerns, and incomplete capture of privately issued prescriptions.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-11-14",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-15",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261506457",
+        "doi": "10.1177/13872877261506457",
+        "url": "https://doi.org/10.1177/13872877261506457",
+        "title": "Integrated single-cell RNA sequencing and two-sample Mendelian randomization reveal CD4\n                    <sup>+</sup>\n                    T cell-expressed\n                    <i>COMT</i>\n                    and\n                    <i>JUN</i>\n                    as shared candidate genes for Alzheimer's disease and type 2 diabetes mellitus",
+        "authors": [
+          "Changze Ou",
+          "Binbin Chen",
+          "Haidong Yu",
+          "Jun Deng",
+          "Huajun Long"
+        ],
+        "abstract": "Background                     Alzheimer's disease (AD) and type 2 diabetes mellitus (T2DM) are high-burden diseases; T2DM independently elevates AD risk via shared pathogenesis, yet their shared peripheral immune pathways and genetically supported cell-specific targets remain undefined.                                                           Objective                     To identify shared immune subsets, key genes and candidate compounds for AD and T2DM via integrated scRNA-seq and two-sample Mendelian randomization.                                                           Methods                     We constructed an integrated multi-omics framework combining peripheral blood mononuclear cell (PBMC) single-cell RNA sequencing (scRNA-seq) and two-sample Mendelian randomization (2SMR) using 10 public GEO datasets, with core analyses covering cell annotation, cell-cell communication profiling, differential expression analysis, eQTL-based 2SMR, in silico gene function prediction, and molecular docking with dynamics simulation for compound screening.                                                           Results                                            CD4                       +                       T cells were inferred as the most abundant adaptive immune subset and a potential intercellular communication hub in peripheral blood of both AD and T2DM. Dual scRNA-seq/2SMR screening identified consistently upregulated shared candidate genes                       COMT                       and                       JUN                       , validated at single-cell and bulk transcriptome levels; myricetin and tauroursodeoxycholic acid were screened as candidate compounds with high predicted binding affinity to the encoded proteins. The 100 ns molecular dynamics simulation confirmed favorable structural stability of the                       COMT                       -myricetin complex (RMSD ∼1.2 Å).                                                                                Conclusions                                            As an exploratory bioinformatics investigation, this study proposes a testable hypothesis that CD4                       +                       T cells and the                       COMT                       /                       JUN                       axis may act as a potential shared immune regulatory node in the concurrent pathogenesis of AD and T2DM, differing from the canonical T cell-driven pathological process in classic autoimmune diseases. All findings remain preliminary and require dedicated experimental validation.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-11-14",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-15",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261505501",
+        "doi": "10.1177/13872877261505501",
+        "url": "https://doi.org/10.1177/13872877261505501",
+        "title": "Economics of dementia care across five developed countries: A scoping review",
+        "authors": [
+          "Zoe C. Gurney",
+          "Shusei Yokota",
+          "Angelina-Jessica Vita",
+          "Joshua Jargowsky",
+          "Gregory D. Shumer",
+          "Hai Fang",
+          "Elham Mahmoudi"
+        ],
+        "abstract": "Background                     As the global population ages, the number of people living with dementia is rising rapidly, creating substantial economic challenges for healthcare systems, caregivers, and societies worldwide.                                                           Objective                     We examined the economics of dementia care across five developed countries to identify potentially transferable care practices and policy approaches relevant to the U.S.                                                           Methods                     We conducted a scoping review of studies involving adults with dementia that assessed dementia care, healthcare utilization, or costs in Canada, France, Germany, China, and Japan. Searches were performed in Ovid MEDLINE and Ovid Embase for January 2017–December 2023.                                                           Results                     Of 12,286 titles and abstracts screened, 266 articles underwent full-text review, and 63 met inclusion criteria. Studies were categorized into three areas: prescription drug use, direct medical costs, and economic impacts of care models or policies. We found that use of antidementia medications generally decreases with increasing dementia severity. Higher severity and greater burden of comorbidity were associated with increased costs, largely driven by frequent hospitalizations and long-term care. Policies incentivizing informal caregiving were associated with delayed long-term care but may reduce caregivers’ labor-force participation, while in-kind, service-based models showed more consistent evidence of delaying costly institutional care. Evidence on integrated care models was mixed.                                                           Conclusions                     Rising dementia-related healthcare costs in aging populations represent a shared global challenge. Aligning reimbursement policies, care models, and service delivery with disease severity and care needs can improve efficiency, equity, and sustainability.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-11-14",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-15",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261503497",
+        "doi": "10.1177/13872877261503497",
+        "url": "https://doi.org/10.1177/13872877261503497",
+        "title": "Potential synergy of cerebrospinal fluid TREM2 and BDNF/TrkB pathways promote mild depressive symptoms in Alzheimer's disease through tau pathology",
+        "authors": [
+          "Man Zhang",
+          "Yuhao Chen",
+          "Zehu Sheng",
+          "Weihua Yu",
+          "Fan Guo",
+          "Yang Lü"
+        ],
+        "abstract": "Background                     Early identification of Alzheimer's disease (AD) remains challenging. Mild depressive symptoms (MDSs) during the prodromal stage accelerate cognitive decline, but the underlying mechanisms remain unclear. Neuroinflammation and neurotrophic support are implicated in cognitive impairment, yet the interaction between triggering receptor expressed on myeloid cells 2 (TREM2)-mediated neuroimmune dysregulation and brain derived neurotrophic factor (BDNF)/tropomyosin receptor kinase B (TrkB) deficits has not been established.                                                           Objective                     This study aimed to investigate whether alterations in cerebrospinal fluid (CSF) TREM2/sTREM2 and BDNF/TrkB interact to affect cognition in patients with AD and MDSs and whether tau pathology mediates this relationship, using observational data from the Alzheimer's Disease Neuroimaging Initiative (ADNI).                                                           Methods                                            ADNI data collected from 2005 to 2013 included 653 eligible participants. CSF TREM2, sTREM2, BDNF, TrkB, Aβ                       42                       , pTau181, and tTau levels, neuropsychiatric measures, and cognitive scores were analyzed using analysis of covariance, stratified analyses, mediation analyses, and multivariable linear regression adjusted for age, sex, education, and                       APOE                       ε4 status.                                                                                Results                     CSF BDNF, TREM2, and sTREM2 levels varied significantly with age. sTREM2 appeared protective in early but not late disease stages. Reduced BDNF/TrkB signaling was associated with MDSs and poorer memory and executive function. Mediation analyses indicated that MDS-related cognitive impairment was partly mediated by TREM2/sTREM2-associated neuroinflammation and BDNF/TrkB dysfunction, particularly with elevated tau pathology.                                                           Conclusions                     TREM2-mediated neuroimmune dysfunction and impaired BDNF/TrkB support may jointly exacerbate tau-related cognitive decline in preclinical AD with MDSs. This immune-neurotrophic interaction may promote dysfunctional microglial activation, excessive inflammation, and reduced clearance, offering a potential mechanism linking depressive symptoms to accelerated AD progression and informing early risk stratification and targeted intervention.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-11-14",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-15",
         "fetched_from": "crossref"
       },
       {
@@ -142171,10 +142418,10 @@
     ]
   },
   "totals": {
-    "socialSecurity": 1622,
-    "elderCare": 1013,
-    "healthReform": 1525,
-    "agingHealth": 1456,
+    "socialSecurity": 1623,
+    "elderCare": 1014,
+    "healthReform": 1529,
+    "agingHealth": 1461,
     "socialWork": 543
   },
   "feeds_ok": 41
