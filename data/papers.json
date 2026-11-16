@@ -1,8 +1,64 @@
 {
-  "date": "2026-11-15",
-  "fetched": "2026-11-15T08:02:31+00:00",
+  "date": "2026-11-16",
+  "fetched": "2026-11-16T08:13:13+00:00",
   "domains": {
     "socialSecurity": [
+      {
+        "id": "doi:10.1111/1468-0009.70138",
+        "doi": "10.1111/1468-0009.70138",
+        "url": "https://doi.org/10.1111/1468-0009.70138",
+        "title": "Trust Beyond Words: Why Public Health Cannot Communicate Its Way Into Rebuilding Trust With the Public",
+        "authors": [
+          "KARL JOHNSON",
+          "ZOEY KERNODLE"
+        ],
+        "abstract": "Policy Points                                                                                                                                         We challenge the assumption that communication failures are the central cause of declining trust.                                                                                         Amid a widely acknowledged crisis of trust in public health, we argue that an overemphasis on communication obscures deeper, upstream failures in the ability of public health to exercise authentic presence and accountability.                                                                                         Community listening and engagement should be a core metric of public health practice:                                                                                         Incentives for public health practice, such as program funding mechanisms, research funding, and leadership promotions, should expand or realign with a bias toward improving community engagement.                                                                                                                                                                                        Context                     The public health profession is experiencing a widely recognized crisis of trust among the communities it seeks to serve. Leading public health advocates have suggested that the roots of this crisis lie not in the inherent practices of public health, but rather in failures to communicate effectively with the public. Accordingly, they have proposed improved communication strategies as a primary response.                                                           Methods                     Drawing on philosophical literature and applied public health examples, we argue that efforts to restore trust between public health and communities must center on cultivating trustworthiness—an internal quality of public health professionals and institutions—rather than simply developing more effective strategies for eliciting trust through communication.                                                           Findings                     Trustworthiness is rarely established apart from concrete acts of patiently listening to and practically responding to the needs of communities. Without these practices of meaningful engagement, improvements in public health communication may simply reinforce a transmissive model of communication, one that seeks to cultivate public trust primarily to secure community adherence acceptance of public health priorities and interventions. This tendency toward transmissive communication is a subtle, yet pervasive feature of many contemporary proposals for addressing public health's crisis of trust.                                                           Conclusion                     Restoring public trust requires more than improving how public health communicates about its science and interventions. It requires cultivating the values, practices, and institutional arrangements that enable public health professionals and institutions to be meaningfully present in the communities they serve. Rather than prioritizing one‐way, transmissive unidirectional communication from at a distance, the profession must first develop the capacity to listen, respond, and demonstrate its trustworthiness through sustained engagement.",
+        "source": "The Milbank Quarterly",
+        "issn": "0887-378X",
+        "date": "2026-11-15",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "socialSecurity"
+        ],
+        "firstSeen": "2026-11-16",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/1468-0009.70137",
+        "doi": "10.1111/1468-0009.70137",
+        "url": "https://doi.org/10.1111/1468-0009.70137",
+        "title": "Trustworthy Crisis Mental Health Care: Key Values and Features",
+        "authors": [
+          "MORGAN C. SHIELDS",
+          "HYEIN S. LEE",
+          "EMMA C. BURRIS",
+          "KELLEY McCALL",
+          "LUCY REGALES",
+          "LENA SCHULHOFER",
+          "JENNIFER A. POON",
+          "SASHA ZABELSKI",
+          "JAI‐LAAN BLACKMON",
+          "CHACKU M. MATHAI",
+          "JULIE SEIBERT",
+          "AMY C. WATSON",
+          "CHIH‐HUNG CHANG",
+          "KAREN E. JOYNT MADDOX",
+          "ANA CAROLINA FLORENCE",
+          "TRAVIS J. ATKINSON"
+        ],
+        "abstract": "Context                     Mental health crises are increasing in the United States. Local and national policy efforts have focused on increasing access to crisis services, but little attention has been given to the quality of services delivered, or their perceived trustworthiness by people who use them. While trust in health care has been well studied in general health care settings, there has been a gap in the context of crisis mental health care. This gap exists despite the central role of relationships in mental health care, the vulnerability of people experiencing crises, and the use of practices known to erode trust (e.g., involuntary hospitalization). Our aim was to develop a framework for conceptualizing values and features of trustworthy crisis mental health care.                                                           Methods                     With ongoing consultation from an advisory board, we conducted seven semistructured 1.5‐hour virtual focus groups with 27 adults with lived experience of crisis mental health care to understand how trust in services is shaped. Transcripts were analyzed abductively for emergent themes through a rigorous process of codebook development and validation.                                                           Findings                     We identified four core values underpinning beliefs in a trustworthy crisis mental health care system (human connection, autonomy, transparency, and respect), and four supporting values (personalization, benevolence, competence, and access). A trustworthy crisis mental health care system that expresses these values would exhibit a range of features across relational, organizational, systems, and societal levels. Participants emphasized the need to invest in non‐medical, alternative crisis models. A central tension in current services emerged between risk management (e.g., concern over liability and physical safety) and therapeutic benefit, undermining trustworthiness at all levels.                                                           Conclusions                     Beliefs in trustworthy crisis mental health care are unique to this setting. While we have outlined values and features of trustworthy crisis services, future work is needed to identify appropriate strategies to operationalize these values, as well as ways to address salient tension points that compromise trustworthiness.",
+        "source": "The Milbank Quarterly",
+        "issn": "0887-378X",
+        "date": "2026-11-15",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "socialSecurity"
+        ],
+        "firstSeen": "2026-11-16",
+        "fetched_from": "crossref"
+      },
       {
         "id": "doi:10.1111/jori.70089",
         "doi": "10.1111/jori.70089",
@@ -25370,6 +25426,27 @@
     ],
     "elderCare": [
       {
+        "id": "doi:10.1186/s12877-026-08668-0",
+        "doi": "10.1186/s12877-026-08668-0",
+        "url": "https://doi.org/10.1186/s12877-026-08668-0",
+        "title": "Factors associated with depressive symptoms and life satisfaction in individuals aged 65 and over: a cross-sectional study",
+        "authors": [
+          "Berna Bilgin Şahin",
+          "Vildan Küçüksümbül"
+        ],
+        "abstract": "Abstract                                        Background                     Although depression is prevalent among older adults, it is not an inevitable consequence of aging; most still report life satisfaction despite greater health challenges. This study determined the prevalence of depressive symptoms among individuals aged ≥ 65 and identified factors associated with both depressive symptoms and life satisfaction.                                                           Methods                                            We recruited residents aged ≥ 65 from three neighborhoods in Manisa, Türkiye. Assuming a 26.6% depression prevalence, 95% confidence interval, 5% margin of error, and 1.45 design effect, Epi Info calculated a sample size of 380. Of 520 households visited, 94 refused and 46 were ineligible or unreachable, yielding an 80.2% participation rate (                       n                        = 380). Face-to-face home interviews used a sociodemographic form, the Yesavage Geriatric Depression Scale, the Katz Index of Activities of Daily Living, and the Life Satisfaction Scale. Data were analyzed with descriptive statistics, chi-square tests, t-tests, ANOVA, Kruskal–Wallis tests, and logistic and linear regression (α = 0.05).                                                                                Results                                            Participants’ mean age was 70.8 ± 4.9 years; 53.4% were female; 54.4% had primary education or less; and 20.0% lived alone. Moderate-to-severe depressive symptoms were observed in 21.3%. Higher odds of moderate-to-severe depressive symptoms were associated with moderate or poor sleep quality, occasional or frequent loneliness, and partial or full dependency in activities of daily living (                       p                        &lt; 0.05). The mean life satisfaction score was 20.9 ± 7.1, with lower scores among participants in the lower social class, those using antidepressants, and those reporting occasional or frequent loneliness (                       p                        &lt; 0.05).                                                                                Conclusions                     Loneliness was significantly associated with both moderate-to-severe depressive symptoms and lower life satisfaction in older adults. Dependency in activities of daily living and poorer sleep quality were other important factors associated with moderate-to-severe depressive symptoms. Lower social class and antidepressant use were associated with lower life satisfaction.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-16",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-16",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1186/s12877-026-08706-x",
         "doi": "10.1186/s12877-026-08706-x",
         "url": "https://doi.org/10.1186/s12877-026-08706-x",
@@ -25438,6 +25515,29 @@
           "elderCare"
         ],
         "firstSeen": "2026-11-15",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/gerona/glag260",
+        "doi": "10.1093/gerona/glag260",
+        "url": "https://doi.org/10.1093/gerona/glag260",
+        "title": "Contributions of lifestyle risk factors to socio-economic disparities in active and total life expectancy among older adults: A longitudinal cohort study",
+        "authors": [
+          "Olivia S Malkowski",
+          "Kendra Davis-Plourde",
+          "Max J Western",
+          "Thomas M Gill"
+        ],
+        "abstract": "Abstract                                        Background                     Older adults of lower socio-economic position have a shorter active life expectancy (ALE) and total life expectancy (TLE). This study aimed to determine the extent to which these disparities could be explained by lifestyle risk factors.                                                           Methods                     We used data (1998–2024) from 754 participants aged 70+ years of the Precipitating Events Project study in South Central Connecticut. Socio-economic indicators (i.e., years of education, income, and neighborhood disadvantage) and alcohol consumption were assessed at baseline only, whereas smoking, low physical activity, and obesity were updated at 18-month intervals. Disability was assessed monthly and defined as dependence in essential activities of daily living. We used discrete-time multistate modeling to estimate sex-specific ALE and TLE at age 70 years, and simulated elimination scenarios (in which the prevalence of the lifestyle risk factors was set to zero one-at-a-time and then jointly) to quantify the contributions of lifestyle risk factors to socio-economic disparities in ALE and TLE.                                                           Results                     Low physical activity made the largest contribution to disparities based on years of education (ALE: 35.4%; TLE: 54.5%) and neighborhood disadvantage (ALE: 49.4%; TLE: 53.4%) among men, and to disparities based on years of education (ALE: 67.4%; TLE: 93.4%), income (ALE: 39.9%; TLE: 55.3%), and neighborhood disadvantage (ALE: 23.8%; TLE: 20.1%) among women. The contributions of alcohol consumption, smoking, and obesity to disparities in ALE and TLE were negligible.                                                           Conclusions                     To reduce socio-economic disparities in ALE and TLE in later life, priority should be given to policies and interventions designed to support more healthful behaviors.",
+        "source": "The Journals of Gerontology, Series A: Biological Sciences and Medical Sciences",
+        "issn": "1079-5006",
+        "date": "2026-11-14",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "elderCare"
+        ],
+        "firstSeen": "2026-11-16",
         "fetched_from": "crossref"
       },
       {
@@ -50926,6 +51026,210 @@
       }
     ],
     "healthReform": [
+      {
+        "id": "doi:10.1001/jama.2026.24386",
+        "doi": "10.1001/jama.2026.24386",
+        "url": "https://doi.org/10.1001/jama.2026.24386",
+        "title": "Tale of Two Estimands",
+        "authors": [
+          "Patrick J. Heagerty",
+          "Roger J. Lewis"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-15",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-16",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.22895",
+        "doi": "10.1001/jama.2026.22895",
+        "url": "https://doi.org/10.1001/jama.2026.22895",
+        "title": "Pediatric Obesity Pharmacotherapy",
+        "authors": [
+          "William J. Heerman",
+          "Lilianna Suarez",
+          "Sarah C. Armstrong"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-15",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-16",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.24796",
+        "doi": "10.1001/jama.2026.24796",
+        "url": "https://doi.org/10.1001/jama.2026.24796",
+        "title": "Once-Weekly Ribupatide for Weight Loss in Adults in China With Overweight or Obesity",
+        "authors": [
+          "Lin Zhao",
+          "Ying Chen",
+          "Zhifeng Cheng",
+          "Dan Zhu",
+          "Qifu Li",
+          "Hanqing Cai",
+          "Yuan Hui",
+          "Qi Wang",
+          "Junfeng Han",
+          "Zongyou Cheng",
+          "Guiping Li",
+          "Shumei Zhong",
+          "Jinyang Wang",
+          "Lianwei Wang",
+          "Chao Meng",
+          "Shu Li",
+          "Hongye Su",
+          "Yi Xu",
+          "Meifang Zeng",
+          "Yue Zuo",
+          "Lei Zhang",
+          "Wenhua Wei",
+          "Lihao Wang",
+          "Yike Wang",
+          "Minzhi Lv",
+          "Hong Chen",
+          "Xiaoying Li"
+        ],
+        "abstract": "IMPORTANCE                     Obesity is a major health problem in China; more pharmacotherapy choices for long-term weight management are needed.                                                           OBJECTIVE                     To evaluate the efficacy and safety of once-weekly subcutaneous ribupatide, a dual glucose-dependent insulinotropic polypeptide/glucagon-like peptide-1 receptor agonist, for weight loss in adults in China with overweight or obesity without diabetes.                                                           DESIGN, SETTING, AND PARTICIPANTS                     This multicenter, randomized, double-blind, placebo-controlled, phase 3 clinical trial was conducted at 55 sites in China. From May to June 2024, adults without diabetes who had a body mass index of 28 or greater or 24 or greater with at least 1 weight-related comorbidity were enrolled, with final follow-up on June 20, 2025.                                                           INTERVENTIONS                     Participants were randomized to receive once-weekly subcutaneous ribupatide (target doses of 2 mg, 4 mg, or 6 mg) or matching placebo for 48 weeks, with dose escalation for up to 20 weeks and concomitant lifestyle intervention.                                                           MAIN OUTCOMES AND MEASURES                     The primary outcome was change in body weight from baseline to week 48, including percent change in body weight and the percentage of participants achieving at least 5% body weight reduction, analyzed under the treatment policy estimand.                                                           RESULTS                                            Among 567 randomized participants (309 [54.5%] female; mean [SD] age was 34.4 [8.4] years, body weight was 93.0 [17.3] kg, and body mass index was 33.3 [4.5]), 514 (90.7%) completed the 48-week treatment period. Least-squares mean percentage changes in body weight at week 48 were −10.7%, −16.4%, and −17.7% with ribupatide 2, 4, and 6 mg, respectively, vs −1.4% with placebo. At week 48, the placebo-adjusted differences in percentage change in body weight were −9.3 (95% CI, −11.4 to −7.3) percentage points with ribupatide 2 mg, −15.0 (95% CI, −17.1 to −12.9) percentage points with ribupatide 4 mg, and −16.3 (95% CI, −18.4 to −14.2) percentage points with ribupatide 6 mg (                       P                        &amp;amp;lt; .001 for all). For at least 5% body weight reduction at week 48, the multiply imputed response rates were 68.1% (95% CI, 59.9% to 75.3%) for ribupatide 2 mg (97 of 142), 88.0% (95% CI, 81.3% to 92.6%) for ribupatide 4 mg (124 of 141), 85.7% (95% CI, 78.6% to 90.7%) with ribupatide 6 mg (121 of 141), and 16.0% (95% CI, 10.8% to 23.1%) with placebo (23 of 143). Placebo-adjusted differences for ribupatide 2, 4, and 6 mg were 52.0 (95% CI, 42.2 to 61.9), 72.0 (95% CI, 63.7 to 80.2), and 69.7 (95% CI, 61.1 to 78.3) percentage points, respectively (all                       P                        &amp;amp;lt; .001). The most frequent treatment-emergent adverse events with ribupatide were gastrointestinal events, occurring in 47.9%, 58.2%, and 63.1% of participants receiving ribupatide 2 mg, 4  mg, and 6 mg, respectively, compared with 23.1% receiving placebo; most were mild to moderate in severity and few participants (0.7%) permanently discontinued study treatment because of adverse events.                                                                                CONCLUSIONS AND RELEVANCE                     Among adults in China with overweight or obesity without diabetes, once-weekly subcutaneous ribupatide resulted in significantly greater weight loss at 48 weeks. Gastrointestinal adverse events were the most frequent tolerability findings.                                                           TRIAL REGISTRATION                                            ClinicalTrials.gov Identifier:                       NCT06396429",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-15",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-16",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.23420",
+        "doi": "10.1001/jama.2026.23420",
+        "url": "https://doi.org/10.1001/jama.2026.23420",
+        "title": "Tirzepatide in Adolescents With Obesity",
+        "authors": [
+          "Aaron S. Kelly",
+          "Karthik Chandrasekhar Pamidipati",
+          "Marianna Rachmiel",
+          "Gitanjali Srivastava",
+          "Daniel S. Hsia",
+          "Claudia K. Fox",
+          "Erika Fortes",
+          "Lisa McLeod",
+          "Madhumita Murphy",
+          "Apurva Prakash"
+        ],
+        "abstract": "Importance                     Information on the effects of tirzepatide, a once-weekly glucose-dependent insulinotropic polypeptide and glucagon-like peptide-1 receptor agonist approved for obesity management in adults with obesity, remains limited in adolescents.                                                           Objective                     To evaluate the efficacy and safety of once-weekly tirzepatide in adolescents with obesity or overweight with at least 1 obesity-related complication.                                                           Design, Setting, and Participants                     This phase 3, randomized, double-blind, 72-week clinical trial was conducted at 31 medical research centers and hospitals in Canada, the Czech Republic, Israel, Italy, Poland, and the US from October 16, 2023, to June 2, 2026, among adolescents aged 12 years to younger than 18 years with obesity or overweight with at least 1 obesity-related complication.                                                           Interventions                     Participants were randomized 2:1 to receive once-weekly subcutaneous tirzepatide, escalated to a maximum tolerated dose (5, 10, or 15 mg), or placebo for 72 weeks, in addition to healthy lifestyle intervention.                                                           Main Outcomes and Measures                     The primary end point was percent change in body mass index (BMI; calculated as weight in kilograms divided by height in meters squared) from baseline to week 72. Key secondary end points included percentages of participants achieving BMI reductions of at least 5%, at least 10%, at least 15%, and at least 20%; changes in BMI SD score; BMI expressed as a percentage of the 95th percentile; and body weight, waist circumference, and physical functioning from baseline to week 72. Safety outcomes included treatment-emergent adverse events, serious adverse events, and discontinuations due to adverse events.                                                           Results                                            A total of 160 participants were randomized to receive tirzepatide (n = 109) or placebo (n = 51). Mean (SD) age at baseline was 14.6 (1.6) years, 99 participants (61.9%) were female, mean body weight was 109.7 kg, and mean BMI was 38.6. At week 72, tirzepatide was associated with 18.5% reduction in BMI, compared with 0.5% increase in BMI with placebo, demonstrating superiority over placebo (estimated treatment difference, −19.0 [95% CI, −23.9 to −14.1] percentage points;                       P                        &amp;amp;lt; .001). Of 10 key secondary outcomes, all demonstrated statistically significant differences favoring tirzepatide compared with placebo. Overall, 79.6% of tirzepatide-treated participants achieved BMI reduction of at least 5% compared with 28.5% of participants in the placebo group (risk difference, 51.2 [95% CI, 36.3-66.1] percentage points;                       P                        &amp;amp;lt; .001). The most common adverse events with tirzepatide treatment were gastrointestinal (mostly mild to moderate).                                                                                Conclusions and Relevance                     In adolescents with obesity or overweight with obesity-related complications, tirzepatide, in addition to healthy lifestyle intervention, led to significant reductions in percent change in BMI compared with placebo at 72 weeks.                                                           Trial Registration                                            ClinicalTrials.gov Identifier:                       NCT06075667",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-15",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-16",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.23448",
+        "doi": "10.1001/jama.2026.23448",
+        "url": "https://doi.org/10.1001/jama.2026.23448",
+        "title": "Tirzepatide in Adolescents With Obesity",
+        "authors": [],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-15",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-16",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.24848",
+        "doi": "10.1001/jama.2026.24848",
+        "url": "https://doi.org/10.1001/jama.2026.24848",
+        "title": "Once-Weekly Ribupatide for Weight Loss in Adults in China With Overweight or Obesity",
+        "authors": [],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-15",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-16",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/1468-0009.70138",
+        "doi": "10.1111/1468-0009.70138",
+        "url": "https://doi.org/10.1111/1468-0009.70138",
+        "title": "Trust Beyond Words: Why Public Health Cannot Communicate Its Way Into Rebuilding Trust With the Public",
+        "authors": [
+          "KARL JOHNSON",
+          "ZOEY KERNODLE"
+        ],
+        "abstract": "Policy Points                                                                                                                                         We challenge the assumption that communication failures are the central cause of declining trust.                                                                                         Amid a widely acknowledged crisis of trust in public health, we argue that an overemphasis on communication obscures deeper, upstream failures in the ability of public health to exercise authentic presence and accountability.                                                                                         Community listening and engagement should be a core metric of public health practice:                                                                                         Incentives for public health practice, such as program funding mechanisms, research funding, and leadership promotions, should expand or realign with a bias toward improving community engagement.                                                                                                                                                                                        Context                     The public health profession is experiencing a widely recognized crisis of trust among the communities it seeks to serve. Leading public health advocates have suggested that the roots of this crisis lie not in the inherent practices of public health, but rather in failures to communicate effectively with the public. Accordingly, they have proposed improved communication strategies as a primary response.                                                           Methods                     Drawing on philosophical literature and applied public health examples, we argue that efforts to restore trust between public health and communities must center on cultivating trustworthiness—an internal quality of public health professionals and institutions—rather than simply developing more effective strategies for eliciting trust through communication.                                                           Findings                     Trustworthiness is rarely established apart from concrete acts of patiently listening to and practically responding to the needs of communities. Without these practices of meaningful engagement, improvements in public health communication may simply reinforce a transmissive model of communication, one that seeks to cultivate public trust primarily to secure community adherence acceptance of public health priorities and interventions. This tendency toward transmissive communication is a subtle, yet pervasive feature of many contemporary proposals for addressing public health's crisis of trust.                                                           Conclusion                     Restoring public trust requires more than improving how public health communicates about its science and interventions. It requires cultivating the values, practices, and institutional arrangements that enable public health professionals and institutions to be meaningfully present in the communities they serve. Rather than prioritizing one‐way, transmissive unidirectional communication from at a distance, the profession must first develop the capacity to listen, respond, and demonstrate its trustworthiness through sustained engagement.",
+        "source": "The Milbank Quarterly",
+        "issn": "0887-378X",
+        "date": "2026-11-15",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "socialSecurity"
+        ],
+        "firstSeen": "2026-11-16",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/1468-0009.70137",
+        "doi": "10.1111/1468-0009.70137",
+        "url": "https://doi.org/10.1111/1468-0009.70137",
+        "title": "Trustworthy Crisis Mental Health Care: Key Values and Features",
+        "authors": [
+          "MORGAN C. SHIELDS",
+          "HYEIN S. LEE",
+          "EMMA C. BURRIS",
+          "KELLEY McCALL",
+          "LUCY REGALES",
+          "LENA SCHULHOFER",
+          "JENNIFER A. POON",
+          "SASHA ZABELSKI",
+          "JAI‐LAAN BLACKMON",
+          "CHACKU M. MATHAI",
+          "JULIE SEIBERT",
+          "AMY C. WATSON",
+          "CHIH‐HUNG CHANG",
+          "KAREN E. JOYNT MADDOX",
+          "ANA CAROLINA FLORENCE",
+          "TRAVIS J. ATKINSON"
+        ],
+        "abstract": "Context                     Mental health crises are increasing in the United States. Local and national policy efforts have focused on increasing access to crisis services, but little attention has been given to the quality of services delivered, or their perceived trustworthiness by people who use them. While trust in health care has been well studied in general health care settings, there has been a gap in the context of crisis mental health care. This gap exists despite the central role of relationships in mental health care, the vulnerability of people experiencing crises, and the use of practices known to erode trust (e.g., involuntary hospitalization). Our aim was to develop a framework for conceptualizing values and features of trustworthy crisis mental health care.                                                           Methods                     With ongoing consultation from an advisory board, we conducted seven semistructured 1.5‐hour virtual focus groups with 27 adults with lived experience of crisis mental health care to understand how trust in services is shaped. Transcripts were analyzed abductively for emergent themes through a rigorous process of codebook development and validation.                                                           Findings                     We identified four core values underpinning beliefs in a trustworthy crisis mental health care system (human connection, autonomy, transparency, and respect), and four supporting values (personalization, benevolence, competence, and access). A trustworthy crisis mental health care system that expresses these values would exhibit a range of features across relational, organizational, systems, and societal levels. Participants emphasized the need to invest in non‐medical, alternative crisis models. A central tension in current services emerged between risk management (e.g., concern over liability and physical safety) and therapeutic benefit, undermining trustworthiness at all levels.                                                           Conclusions                     Beliefs in trustworthy crisis mental health care are unique to this setting. While we have outlined values and features of trustworthy crisis services, future work is needed to identify appropriate strategies to operationalize these values, as well as ways to address salient tension points that compromise trustworthiness.",
+        "source": "The Milbank Quarterly",
+        "issn": "0887-378X",
+        "date": "2026-11-15",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "socialSecurity"
+        ],
+        "firstSeen": "2026-11-16",
+        "fetched_from": "crossref"
+      },
       {
         "id": "doi:10.1056/nejmicm2608021",
         "doi": "10.1056/nejmicm2608021",
@@ -92326,6 +92630,27 @@
     ],
     "agingHealth": [
       {
+        "id": "doi:10.1186/s12877-026-08668-0",
+        "doi": "10.1186/s12877-026-08668-0",
+        "url": "https://doi.org/10.1186/s12877-026-08668-0",
+        "title": "Factors associated with depressive symptoms and life satisfaction in individuals aged 65 and over: a cross-sectional study",
+        "authors": [
+          "Berna Bilgin Şahin",
+          "Vildan Küçüksümbül"
+        ],
+        "abstract": "Abstract                                        Background                     Although depression is prevalent among older adults, it is not an inevitable consequence of aging; most still report life satisfaction despite greater health challenges. This study determined the prevalence of depressive symptoms among individuals aged ≥ 65 and identified factors associated with both depressive symptoms and life satisfaction.                                                           Methods                                            We recruited residents aged ≥ 65 from three neighborhoods in Manisa, Türkiye. Assuming a 26.6% depression prevalence, 95% confidence interval, 5% margin of error, and 1.45 design effect, Epi Info calculated a sample size of 380. Of 520 households visited, 94 refused and 46 were ineligible or unreachable, yielding an 80.2% participation rate (                       n                        = 380). Face-to-face home interviews used a sociodemographic form, the Yesavage Geriatric Depression Scale, the Katz Index of Activities of Daily Living, and the Life Satisfaction Scale. Data were analyzed with descriptive statistics, chi-square tests, t-tests, ANOVA, Kruskal–Wallis tests, and logistic and linear regression (α = 0.05).                                                                                Results                                            Participants’ mean age was 70.8 ± 4.9 years; 53.4% were female; 54.4% had primary education or less; and 20.0% lived alone. Moderate-to-severe depressive symptoms were observed in 21.3%. Higher odds of moderate-to-severe depressive symptoms were associated with moderate or poor sleep quality, occasional or frequent loneliness, and partial or full dependency in activities of daily living (                       p                        &lt; 0.05). The mean life satisfaction score was 20.9 ± 7.1, with lower scores among participants in the lower social class, those using antidepressants, and those reporting occasional or frequent loneliness (                       p                        &lt; 0.05).                                                                                Conclusions                     Loneliness was significantly associated with both moderate-to-severe depressive symptoms and lower life satisfaction in older adults. Dependency in activities of daily living and poorer sleep quality were other important factors associated with moderate-to-severe depressive symptoms. Lower social class and antidepressant use were associated with lower life satisfaction.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-16",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-16",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1186/s12877-026-08706-x",
         "doi": "10.1186/s12877-026-08706-x",
         "url": "https://doi.org/10.1186/s12877-026-08706-x",
@@ -92487,6 +92812,29 @@
           "agingHealth"
         ],
         "firstSeen": "2026-11-15",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/gerona/glag260",
+        "doi": "10.1093/gerona/glag260",
+        "url": "https://doi.org/10.1093/gerona/glag260",
+        "title": "Contributions of lifestyle risk factors to socio-economic disparities in active and total life expectancy among older adults: A longitudinal cohort study",
+        "authors": [
+          "Olivia S Malkowski",
+          "Kendra Davis-Plourde",
+          "Max J Western",
+          "Thomas M Gill"
+        ],
+        "abstract": "Abstract                                        Background                     Older adults of lower socio-economic position have a shorter active life expectancy (ALE) and total life expectancy (TLE). This study aimed to determine the extent to which these disparities could be explained by lifestyle risk factors.                                                           Methods                     We used data (1998–2024) from 754 participants aged 70+ years of the Precipitating Events Project study in South Central Connecticut. Socio-economic indicators (i.e., years of education, income, and neighborhood disadvantage) and alcohol consumption were assessed at baseline only, whereas smoking, low physical activity, and obesity were updated at 18-month intervals. Disability was assessed monthly and defined as dependence in essential activities of daily living. We used discrete-time multistate modeling to estimate sex-specific ALE and TLE at age 70 years, and simulated elimination scenarios (in which the prevalence of the lifestyle risk factors was set to zero one-at-a-time and then jointly) to quantify the contributions of lifestyle risk factors to socio-economic disparities in ALE and TLE.                                                           Results                     Low physical activity made the largest contribution to disparities based on years of education (ALE: 35.4%; TLE: 54.5%) and neighborhood disadvantage (ALE: 49.4%; TLE: 53.4%) among men, and to disparities based on years of education (ALE: 67.4%; TLE: 93.4%), income (ALE: 39.9%; TLE: 55.3%), and neighborhood disadvantage (ALE: 23.8%; TLE: 20.1%) among women. The contributions of alcohol consumption, smoking, and obesity to disparities in ALE and TLE were negligible.                                                           Conclusions                     To reduce socio-economic disparities in ALE and TLE in later life, priority should be given to policies and interventions designed to support more healthful behaviors.",
+        "source": "The Journals of Gerontology, Series A: Biological Sciences and Medical Sciences",
+        "issn": "1079-5006",
+        "date": "2026-11-14",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "elderCare"
+        ],
+        "firstSeen": "2026-11-16",
         "fetched_from": "crossref"
       },
       {
@@ -129963,6 +130311,27 @@
     ],
     "socialWork": [
       {
+        "id": "doi:10.1007/s10896-026-01208-9",
+        "doi": "10.1007/s10896-026-01208-9",
+        "url": "https://doi.org/10.1007/s10896-026-01208-9",
+        "title": "Navigating Intimate Partner Violence: How Korean Cultural Messages Shape Coping and Help-Seeking among Korean American Women",
+        "authors": [
+          "Jeeeun Kim",
+          "Leena Bowman",
+          "Courtney Ahrens"
+        ],
+        "abstract": "",
+        "source": "Journal of Family Violence",
+        "issn": "0885-7482",
+        "date": "2026-11-16",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-11-16",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1093/bjsw/bcag288",
         "doi": "10.1093/bjsw/bcag288",
         "url": "https://doi.org/10.1093/bjsw/bcag288",
@@ -142418,11 +142787,11 @@
     ]
   },
   "totals": {
-    "socialSecurity": 1623,
-    "elderCare": 1014,
-    "healthReform": 1529,
-    "agingHealth": 1461,
-    "socialWork": 543
+    "socialSecurity": 1625,
+    "elderCare": 1016,
+    "healthReform": 1537,
+    "agingHealth": 1463,
+    "socialWork": 544
   },
   "feeds_ok": 41
 }
