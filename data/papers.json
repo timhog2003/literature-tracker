@@ -1,8 +1,29 @@
 {
-  "date": "2026-11-16",
-  "fetched": "2026-11-16T08:13:13+00:00",
+  "date": "2026-11-17",
+  "fetched": "2026-11-17T09:29:12+00:00",
   "domains": {
     "socialSecurity": [
+      {
+        "id": "doi:10.1215/00703370-12912843",
+        "doi": "10.1215/00703370-12912843",
+        "url": "https://doi.org/10.1215/00703370-12912843",
+        "title": "DNA, Self-reported Ancestry, and Social Scientific Inquiry",
+        "authors": [
+          "Luyin Zhang",
+          "Sam Trejo"
+        ],
+        "abstract": "Highlights                   All humans share one vast family tree, and our place in it leaves a partial imprint on our DNA. Genetic similarity proportions estimate how closely one’s DNA resembles that of various reference groups. Our framework estimates genetic similarity while limiting bias from researchers’ cultural schemas. Within ancestry groups, genetic similarity varies widely and indexes racialized physical traits. Genetic data offer researchers a lens for studying, not disputing, the social construction of race.",
+        "source": "Demography",
+        "issn": "0070-3370",
+        "date": "2026-11-16",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "socialSecurity"
+        ],
+        "firstSeen": "2026-11-17",
+        "fetched_from": "crossref"
+      },
       {
         "id": "doi:10.1111/1468-0009.70138",
         "doi": "10.1111/1468-0009.70138",
@@ -25426,6 +25447,79 @@
     ],
     "elderCare": [
       {
+        "id": "doi:10.1186/s12877-026-08689-9",
+        "doi": "10.1186/s12877-026-08689-9",
+        "url": "https://doi.org/10.1186/s12877-026-08689-9",
+        "title": "Medication burden and sarcopenia in older adults: a systematic review and meta-analysis",
+        "authors": [
+          "Xiang Li",
+          "Yifei Wang",
+          "Linjie Zhang",
+          "Jinyang Li",
+          "Zexing Wen",
+          "Yujian Chen",
+          "Wei Xie",
+          "Rui Li"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-17",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08692-0",
+        "doi": "10.1186/s12877-026-08692-0",
+        "url": "https://doi.org/10.1186/s12877-026-08692-0",
+        "title": "Risk prediction models for progression from subjective cognitive decline to cognitive impairment: a systematic review and critical appraisal",
+        "authors": [
+          "TangTang Zhao",
+          "QingChi Wang",
+          "ShiCong Liang",
+          "XinYue Zhang",
+          "XiaoPeng Huo"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-17",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08586-1",
+        "doi": "10.1186/s12877-026-08586-1",
+        "url": "https://doi.org/10.1186/s12877-026-08586-1",
+        "title": "Associations between religious health fatalism and health-promoting behaviors among Turkish Muslim older adults *",
+        "authors": [
+          "Öznur Adadıoğlu",
+          "Fatma Özkal",
+          "Sena Mercan"
+        ],
+        "abstract": "Abstract                                        Background                     This study was conducted to determine the relationship between religious health fatalism and health-promoting behaviors among Turkish Muslim older adults.                                                           Method                     Designed as a descriptive, cross-sectional, and correlational study, it included 165 individuals aged 65 years and older who presented to a family health center between June and October 2021. Data were collected using the Descriptive Information Form, the Religious Health Fatalism Scale, and the Geriatric Health Promotion Scale. In the data analysis, parametric tests including one-way ANOVA and independent samples t-test were utilized, and Pearson correlation and regression analyses were employed.                                                           Results                     The study results indicated that women, single participants, those aged 75 years and older, and individuals with lower educational levels had significantly higher health fatalism scores (p &lt; 0.05). Moreover, a significant negative relationship was found between religious health fatalism and health-promoting behaviors among older adults (r = −0.159, p = 0.041; small effect size). A one-unit increase in the health fatalism scale score decreases the geriatric health promotion scale score by 0.075 units (p = 0.039).                                                           Conclusion                     This study demonstrated that religious health fatalism is significantly associated with health-promoting behaviors among older adults. The hypothesis tested was non-directional (two-tailed), assuming only the existence of a relationship between religious health fatalism and health-promoting behaviors. The findings revealed that this relationship was negative, indicating that higher levels of fatalism were associated with lower engagement in health-promoting behaviors. Reducing fatalistic perceptions in older populations may therefore contribute to greater participation in health-promoting behaviors.                                                           Clinical trial number                     Not applicable.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-17",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-17",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1186/s12877-026-08668-0",
         "doi": "10.1186/s12877-026-08668-0",
         "url": "https://doi.org/10.1186/s12877-026-08668-0",
@@ -25444,6 +25538,305 @@
           "agingHealth"
         ],
         "firstSeen": "2026-11-16",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70843",
+        "doi": "10.1111/jgs.70843",
+        "url": "https://doi.org/10.1111/jgs.70843",
+        "title": "Measurement Invariance of the Informant Questionnaire on Cognitive Decline in the Elderly (\n                    <scp>IQCODE</scp>\n                    ) Across Ethnicity and Language",
+        "authors": [
+          "Emily M. Briceño",
+          "Bernardo Flores",
+          "Roshanak Mehdipanah",
+          "Deborah A. Levine",
+          "Nelda Garcia",
+          "Carmen Ortiz",
+          "Irma Mireles",
+          "Wen Chang",
+          "Xavier F. Gonzales",
+          "Bruno Giordani",
+          "Steven G. Heeringa",
+          "Darin B. Zahuranec",
+          "Kenneth M. Langa",
+          "Richard N. Jones",
+          "Lewis B. Morgenstern"
+        ],
+        "abstract": "",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-11-16",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70846",
+        "doi": "10.1111/jgs.70846",
+        "url": "https://doi.org/10.1111/jgs.70846",
+        "title": "Around the\n                    <scp>EQUATOR</scp>\n                    With Clin‐\n                    <scp>STAR</scp>\n                    : Challenges and Opportunities in Reporting Qualitative Aging‐Related Research",
+        "authors": [
+          "Daniel Shalev",
+          "Catherine A. Riffin",
+          "Veerawat Phongtankuel",
+          "Anita N. Chary"
+        ],
+        "abstract": "ABSTRACT                   Qualitative research is essential for understanding the experiences, preferences, and care contexts of older adults, and transparent reporting enables readers to appraise its methodological quality and relevance. The EQUATOR Network maintains two complementary reporting guidelines for qualitative research: the consolidated criteria for reporting qualitative research (COREQ), a 32‐item checklist for interview and focus group studies, and the standards for reporting qualitative research (SRQR), a 21‐item framework applicable across all qualitative designs. In this article, part of the Around the EQUATOR with Clin‐STAR series, we introduce both guidelines, identify challenges that arise when applying them to aging‐focused research, including clinician‐researcher dual roles, proxy and dyadic data, cognitive and sensory adaptations, companion co‐presence, and ensuring adaptiveness to the sequelae of frailty, and offer population‐specific reporting guidance for investigators.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-11-16",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70837",
+        "doi": "10.1111/jgs.70837",
+        "url": "https://doi.org/10.1111/jgs.70837",
+        "title": "The Oral‐Systemic Interface in Healthy Longevity: A Narrative Review of Inflammaging and Functional Resilience",
+        "authors": [
+          "Guy Tobias",
+          "Avi Zini",
+          "Yuval Vered",
+          "Alexander Khaimov",
+          "Yehuda Zadik",
+          "Jonathan Mann"
+        ],
+        "abstract": "ABSTRACT                                        Background                     While the global burden of oral diseases remains high, their role in the biological and functional trajectories of aging is often underrepresented in geriatric clinical practice. This narrative review explores the shift from viewing oral health as an isolated dental concern to an integrated pillar of geroscience and longevity. This aim of this study was to synthesize recent evidence linking oral inflammation and functional decline to systemic frailty, emphasizing the necessity of objective clinical metrics over traditional self‐reported data.                                                           Methods                     A comprehensive review of biological, epidemiological, and clinical literature was conducted, focusing on the mechanisms of “inflammaging,” the oral–gut axis, and the predictive value of oral frailty.                                                           Results                     Traditional markers, such as tooth count and subjective chewing difficulty, are frequently confounded by cognitive status and compensatory behaviors. Observational evidence links oral frailty and impaired oral function with sarcopenia, disability, and mortality, supporting the clinical relevance of assessing oral function alongside tooth counts. Furthermore, chronic periodontal inflammation acts as a systemic stimulus, contributing to endothelial dysfunction and multimorbidity through pro‐inflammatory signaling pathways.                                                           Conclusion                     Integrating objective oral functional assessments into the Comprehensive Geriatric Assessment (CGA) is essential for early identification of frailty. Moving toward a “preservation‐first” clinical model supported by AI‐assisted diagnostics offers a cost‐effective pathway to enhance systemic resilience and extend healthspan in aging populations.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-11-16",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70840",
+        "doi": "10.1111/jgs.70840",
+        "url": "https://doi.org/10.1111/jgs.70840",
+        "title": "Information Sharing Between Family and Friend Carers of Older Adults and Healthcare Professionals: A Systematic Review of Qualitative Studies",
+        "authors": [
+          "Steven Hall",
+          "Allison Cammer",
+          "Kelly Baskerville",
+          "Cavan Fani",
+          "Ziyu Li",
+          "Christina Shaw",
+          "Adrian Wagg",
+          "William Gibson"
+        ],
+        "abstract": "ABSTRACT                                        Background                     Family and friend carers are central to care for older adults, but communication with healthcare professionals (HCPs) is often inconsistent, poorly structured, and dependent on local relationships. This review synthesized qualitative evidence on experiences, barriers, and facilitators of information sharing between carers of older adults and HCPs across care settings.                                                           Methods                     We searched MEDLINE, Embase, CENTRAL, CINAHL, and PsycINFO on May 5, 2025. Eligible studies were empirical qualitative or mixed methods studies reporting direct information sharing between carers of adults aged 60 years or older and HCPs. Risk of bias was assessed using the JBI Critical Appraisal Checklist for Qualitative Research. Findings were synthesized using meta‐aggregation, supported by qualitative meta‐summary and frequency effect sizes.                                                           Findings                     Sixty‐two studies were included. Studies were conducted in community, residential or long‐term care, and acute care settings. Seven synthesized findings were generated: Information sharing needed to be timely, clear, tailored, and continuous (frequency effect size 48%); organizational, workforce, and policy contexts shaped communication sustainability (38%); trust, respect, and empathy were foundational to collaboration (37%); carers needed recognition as legitimate partners in person‐centered care (35%); perceived poor information sharing increased uncertainty, burden, and distress (32%); sensitive conversations required skillful, iterative communication (32%); and care transitions and system navigation required coordinated supports (29%).                                                           Discussion                     Information sharing should be understood as a triadic process involving the care recipient, carer, and HCP. Multi‐level interventions are needed to make carers visible, formalize information‐sharing pathways, and support respectful, coordinated, person‐centered communication.                                                           Review Registration                     PROSPERO CRD420250636906",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-11-16",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70834",
+        "doi": "10.1111/jgs.70834",
+        "url": "https://doi.org/10.1111/jgs.70834",
+        "title": "Who's on the Guest List? Rethinking Adverse Drug Withdrawal Events",
+        "authors": [
+          "Eva Filosa",
+          "Todd C. Lee",
+          "Emily G. McDonald"
+        ],
+        "abstract": "",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-11-16",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08700-3",
+        "doi": "10.1186/s12877-026-08700-3",
+        "url": "https://doi.org/10.1186/s12877-026-08700-3",
+        "title": "From exclusion to inclusion: addressing ageism in residential care outdoor environments through the lens of age-friendly design",
+        "authors": [
+          "Madeleine Liljegren",
+          "Anna Bengtsson",
+          "Göran Lindahl",
+          "Helle Wijk"
+        ],
+        "abstract": "Abstract                                        Background                     Ageism in residential care facilities (RCFs) extends beyond individual prejudice to structural and environmental conditions that shape older adults’ access to outdoor environments, mobility, autonomy, and social participation. Outdoor environments, including balconies, patios, gardens, and surrounding areas, support place attachment, identity, and well-being, yet access is often restricted. This study re-analysed walking interview data from older adults in RCFs to explore how structural ageism may be expressed through outdoor access and how age-friendly design across Zones 1–4 may support autonomy and reduce environmental barriers.                                                           Methods                     A qualitative secondary analysis was conducted using walking interviews with 12 older adults from three Swedish RCFs with variation in building structure, geographic location, and outdoor accessibility. Data were re-analysed using inductive qualitative content analysis, guided by a structural ageism perspective and followed by deductive mapping onto the zone model.                                                           Results                     Three interrelated categories were identified: (1) structural barriers, including thresholds, uneven surfaces, and limited access to outdoor environments, constraining mobility and autonomy; (2) dependence on care workers for safe access and navigation; and (3) supportive environmental conditions, including accessible balconies, patios, gardens, and surrounding environments, enabling independence, social interaction, and well-being. Outdoor access was also shaped by the interaction between the built environment and organisational practices related to safety, assistance, and care worker availability. Across Zones 1–4, age-friendly design aspects, including visual access to outdoors, accessible transitions, elevators, adaptable entrance areas, inclusive balconies, sensory-rich gardens, and even surfaces supported outdoor engagement and participation.                                                           Conclusions                     Access to outdoor environments in RCFs may reflect structural ageism when environmental and organisational arrangements translate age-related differences in functional capacity into unequal opportunities for participation. Age-friendly environments therefore require attention to both physical design and the organisational practices through which outdoor access is enabled or restricted. The findings provide implications for policymakers, architects, landscape architects, and care providers seeking to promote inclusive RCF environments.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-16",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08648-4",
+        "doi": "10.1186/s12877-026-08648-4",
+        "url": "https://doi.org/10.1186/s12877-026-08648-4",
+        "title": "Five-year time spent ADL independent, ADL limited, or not alive after first observed survey reports of major conditions in older adults: a harmonized multicohort study",
+        "authors": [
+          "Linjiang Wei",
+          "Ying Han"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-16",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08632-y",
+        "doi": "10.1186/s12877-026-08632-y",
+        "url": "https://doi.org/10.1186/s12877-026-08632-y",
+        "title": "Identification and prediction of frailty in elderly inpatients with diabetes based on Bayesian network analysis: a multicenter cross-sectional study",
+        "authors": [
+          "Shuyi Peng",
+          "Jingcan Xu",
+          "Runpu Guo",
+          "Lin Tan",
+          "Zelin Tao",
+          "Xiao Wan",
+          "Xiaoai Fu",
+          "Hui Feng"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-16",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08685-z",
+        "doi": "10.1186/s12877-026-08685-z",
+        "url": "https://doi.org/10.1186/s12877-026-08685-z",
+        "title": "Development and internal validation of a nomogram for predicting postoperative pneumonia within 7 days after hip fracture surgery in older adults: a retrospective cohort study",
+        "authors": [
+          "Xiaopeng Chen",
+          "Lili Zou",
+          "Chuying Chen",
+          "Ling Li",
+          "Hongjian Li",
+          "Jiusheng He"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-16",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08541-0",
+        "doi": "10.1186/s12877-026-08541-0",
+        "url": "https://doi.org/10.1186/s12877-026-08541-0",
+        "title": "Identifying key features associated with medical visit companion services needs among older adults in China using interpretable machine learning",
+        "authors": [
+          "Jiabin Xu",
+          "Jiayu Mao",
+          "Yan Cai",
+          "Suning Zhang",
+          "Haotian Chi",
+          "Ziyan Zheng",
+          "Yingying Chen",
+          "Chenchen Gao"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-16",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08711-0",
+        "doi": "10.1186/s12877-026-08711-0",
+        "url": "https://doi.org/10.1186/s12877-026-08711-0",
+        "title": "Wearable activity-sequence measures and subsequent handgrip strength in adults aged 65 years and older: measurement characteristics and longitudinal associations",
+        "authors": [
+          "Yifu Zhu"
+        ],
+        "abstract": "Abstract                                        Background                     Temporal organization of everyday activity may provide information complementary to conventional movement-volume summaries. We examined the measurement properties of activity-state sequence descriptors and their longitudinal associations with handgrip strength.                                                           Methods                     We analyzed SHARE Wave 8 three-day thigh accelerometry and Wave 9 handgrip data. There were 490 participants aged at least 65 years with eligible sequences; follow-up grip was available for 410 and the negative-code-corrected, fully adjusted model included 391. Five activity states were coded in 5-second epochs. The original research workflow prioritized run-collapsed LZ76, while the H1–H3 conditional-entropy analysis was an exploratory evaluation whose final screening took place after initial outcome analyses. Daily-average ICC and correlation-based redundancy were distinguished from a new post hoc two-window evaluation of the identical nonlinear 72-hour scores among 407 participants with six valid days in the same wear episode; inference was limited to within-wear agreement. Participant-level analyses were replayed locally from the three licensed SHARE source archives.                                                           Results                                            In corrected complete cases, the adjusted 72-hour H1–H3 coefficient was β = 0.535 kg/SD (95% CI -0.335 to 1.404;                       P                        = 0.228), with ΔR²=0.00067. The original historically prioritized run-collapsed LZ76 measure gave β = 0.906 kg/SD (95% CI 0.171 to 1.641;                       P                        = 0.016), ΔR²=0.00301; this age-restricted contrast is not an independent preregistered confirmatory test. Fifty repeated, strictly foldwise 10-fold validation analyses yielded mean ΔR²=-0.000341 and mean ΔRMSE = 0.0038 kg on adding H1–H3. Twenty-draw predictive-mean-matching sensitivity gave β = 0.471 kg/SD (95% CI -0.380 to 1.322;                       P                        = 0.278). In a post hoc within-wear paired-window analysis (                       n                        = 407), the complete-72-hour H1–H3 had ICC(A,1) = 0.775 (participant-bootstrap 95% interval 0.723–0.822), and run-collapsed LZ76 had ICC(A,1) = 0.876 (0.848–0.898).                                                                                Conclusions                     Activity-sequence descriptors differed in their relationships with conventional movement measures and later handgrip strength. Among participants with two complete 72-hour windows within one wear episode, H1–H3 and run-collapsed LZ76 showed absolute-agreement ICCs of 0.775 and 0.876, respectively. H1–H3 showed an imprecise handgrip association and no mean gain in repeated cross-validated prediction. These findings highlight the value of assessing temporal activity organization and its measurement properties alongside conventional activity summaries.                                                           Clinical trial registration                     Not applicable.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-16",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08680-4",
+        "doi": "10.1186/s12877-026-08680-4",
+        "url": "https://doi.org/10.1186/s12877-026-08680-4",
+        "title": "Transitions in depressive symptom states and depression-free life expectancy among older adults with arthritis",
+        "authors": [
+          "Shengyuan Zheng",
+          "Ziyuan Liu",
+          "Yingqiao Sun",
+          "Zehao Yu",
+          "Xiongfeng Tang",
+          "Yanguo Qin"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-16",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-17",
         "fetched_from": "crossref"
       },
       {
@@ -51027,6 +51420,207 @@
     ],
     "healthReform": [
       {
+        "id": "doi:10.1001/jama.2026.22008",
+        "doi": "10.1001/jama.2026.22008",
+        "url": "https://doi.org/10.1001/jama.2026.22008",
+        "title": "Glucagon-Like Peptide-1 Utilization Following Withdrawal of Medicaid Coverage for Weight Loss",
+        "authors": [
+          "Bryant Shuey",
+          "James Franklin Wharam",
+          "Jing Luo",
+          "Elizabeth Nguyen",
+          "Timothy S. Anderson"
+        ],
+        "abstract": "This cross-sectional study uses data from Medicaid State Drug Utilization Data to examine associations of coverage withdrawal with Medicaid beneficiaries’ utilization of weight loss–approved glucagon-like peptide-1s.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-16",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.19735",
+        "doi": "10.1001/jama.2026.19735",
+        "url": "https://doi.org/10.1001/jama.2026.19735",
+        "title": "Alcohol Consumption During Pregnancy in the US",
+        "authors": [
+          "Dazhi Fan",
+          "Dongxin Lin",
+          "Jiaming Rao"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-16",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.22620",
+        "doi": "10.1001/jama.2026.22620",
+        "url": "https://doi.org/10.1001/jama.2026.22620",
+        "title": "Blood Conservation and Choice in Surgical Transfusion",
+        "authors": [
+          "Jean Gonçalves de Oliveira",
+          "Luis Alencar Biurrum Borba",
+          "José Carlos Esteves Veiga"
+        ],
+        "abstract": "This Viewpoint discusses blood conservation and surgical transfusion, including patient blood management and bloodless medicine and surgery, among patients who refuse blood.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-16",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.19738",
+        "doi": "10.1001/jama.2026.19738",
+        "url": "https://doi.org/10.1001/jama.2026.19738",
+        "title": "Alcohol Consumption During Pregnancy in the US—Reply",
+        "authors": [
+          "Emilie Bruzelius",
+          "Gretchen Bandoli",
+          "Silvia Martins"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-16",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.25143",
+        "doi": "10.1001/jama.2026.25143",
+        "url": "https://doi.org/10.1001/jama.2026.25143",
+        "title": "A Plasma eMTBR-Tau Immunoassay for Detection of Advanced Insoluble Tau Pathology",
+        "authors": [
+          "Wagner S. Brum",
+          "Shorena Janelidze",
+          "Alpana Singh",
+          "Nesrine Rahmouni",
+          "Seyyed Ali Hosseini",
+          "Marisa N. Denkinger",
+          "Gleb Bezgin",
+          "Tevy Chan",
+          "Arthur C. Macedo",
+          "Joseph Therriault",
+          "Lydia Trudel",
+          "Serge Gauthier",
+          "Paolo Vitali",
+          "Geidy E. Serrano",
+          "Thomas G. Beach",
+          "Alireza Atri",
+          "Taina M. Marques",
+          "Taraneh E. Atri",
+          "Erik Stomrud",
+          "Eric M. Reiman",
+          "Jessica B. Langbaum",
+          "Peter Harrison",
+          "Claire Brooks",
+          "Michael Turton",
+          "Jon Springett",
+          "Henrik Zetterberg",
+          "Suzanne E. Schindler",
+          "Antoine Leuzy",
+          "Kanta Horie",
+          "Randall J. Bateman",
+          "Craig E. L. Stark",
+          "Joshua D. Grill",
+          "Oskar Hansson",
+          "Sebastian Palmqvist",
+          "Kevin A. Wood",
+          "Edwin S. Monuki",
+          "William H. Yong",
+          "Elizabeth Head",
+          "Pedro Rosa-Neto",
+          "Niklas Mattsson-Carlgren",
+          "Nicholas J. Ashton"
+        ],
+        "abstract": "Importance                     Blood biomarkers that reflect neurofibrillary tau burden, a defining hallmark of Alzheimer disease (AD), remain limited. Endogenously cleaved microtubule-binding region tau 243 (eMTBR-tau243) has shown promise when measured by mass spectrometry; a scalable immunoassay could broaden research access and support clinical evaluation.                                                           Objective                     To determine whether plasma levels of eMTBR-tau measured by a novel immunoassay are associated with tau neurofibrillary tangle pathology defined by neuropathology and tau positron emission tomography (PET).                                                           Design, Setting, and Participants                     This cross-sectional study included brain donors with antemortem plasma from 2 US autopsy cohorts, and individuals with plasma samples and tau PET from 2 imaging cohorts in Canada and Sweden, with visits between 2002 and 2025 depending on the cohort.                                                           Exposures                     Plasma eMTBR-tau measured with an immunoassay and eMTBR-tau243 measured with mass spectrometry.                                                           Main Outcomes and Measures                     Plasma eMTBR-tau levels across neuropathologic Braak neurofibrillary tangle stages (I-VI, ranging from tangles confined to the entorhinal region to widespread neocortical tangles) and tau-PET Braak stages (0-VI), expressed as fold changes. Correlations with regional tau-PET standardized uptake value ratios (SUVRs; higher values indicating more tau tangles), discrimination of regional tau-PET positivity (area under the curve [AUC]), and correlation with mass spectrometry–based eMTBR-tau243.                                                           Results                                            The study included 728 participants in 4 cohorts (median age by cohort, 71.0-83.5 years; 41.3%-56.6% female). In the 2 autopsy cohorts (n = 241 and n = 240), eMTBR-tau age- and sex-adjusted geometric means were 0.0021 pg/mL and 0.0040 pg/mL, respectively, at Braak stages I-II vs 0.107 pg/mL and 0.101 pg/mL at Braak stage VI (50.5-fold [95% CI, 26.3-97.0] and 25.2-fold [95% CI, 15.8-40.3] higher for stage VI vs stages I-II;                       P                        &amp;amp;lt; .001 for both cohorts). In one imaging cohort (n = 99), compared with tau-PET Braak stage 0, eMTBR-tau levels were 11.0-fold (95% CI, 6.9-17.5) higher at stages III-IV and 59.9-fold (95% CI, 39.5-90.7) higher at stages V-VI. Among participants positive for amyloid-β (Aβ) in another imaging cohort (n = 50), the Spearman rank correlations for eMTBR-tau with tau-PET SUVRs were ρ = 0.52 (95% CI, 0.28-0.70) in Braak regions I-II, 0.76 (95% CI, 0.61-0.86) in regions III-IV, and 0.85 (95% CI, 0.75-0.91) in regions V-VI (all                       P                        &amp;amp;lt; .001). Immunoassay and mass spectrometry measurements were strongly correlated (Spearman rank correlation, ρ = 0.93 in all participants [n = 108] and ρ = 0.96 in Aβ-positive participants [n = 54]) and discriminated tau-PET positivity similarly (n = 102; AUC range, 0.96-0.99 for the immunoassay and 0.97-0.99 for mass spectrometry).                                                                                Conclusions and Relevance                     A plasma eMTBR-tau immunoassay identified neocortical tau pathology in autopsy and tau-PET cohorts and correlated strongly with mass spectrometry measurements, a proof of principle that eMTBR-tau can be measured by immunoassay as a marker of advanced neurofibrillary tangle pathology.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-16",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/1468-0009.70138",
+        "doi": "10.1111/1468-0009.70138",
+        "url": "https://doi.org/10.1111/1468-0009.70138",
+        "title": "Trust Beyond Words: Why Public Health Cannot Communicate Its Way Into Rebuilding Trust With the Public",
+        "authors": [
+          "KARL JOHNSON",
+          "ZOEY KERNODLE"
+        ],
+        "abstract": "Policy Points                                                                                                                                         We challenge the assumption that communication failures are the central cause of declining trust.                                                                                         Amid a widely acknowledged crisis of trust in public health, we argue that an overemphasis on communication obscures deeper, upstream failures in the ability of public health to exercise authentic presence and accountability.                                                                                         Community listening and engagement should be a core metric of public health practice:                                                                                         Incentives for public health practice, such as program funding mechanisms, research funding, and leadership promotions, should expand or realign with a bias toward improving community engagement.                                                                                                                                                                                        Context                     The public health profession is experiencing a widely recognized crisis of trust among the communities it seeks to serve. Leading public health advocates have suggested that the roots of this crisis lie not in the inherent practices of public health, but rather in failures to communicate effectively with the public. Accordingly, they have proposed improved communication strategies as a primary response.                                                           Methods                     Drawing on philosophical literature and applied public health examples, we argue that efforts to restore trust between public health and communities must center on cultivating trustworthiness—an internal quality of public health professionals and institutions—rather than simply developing more effective strategies for eliciting trust through communication.                                                           Findings                     Trustworthiness is rarely established apart from concrete acts of patiently listening to and practically responding to the needs of communities. Without these practices of meaningful engagement, improvements in public health communication may simply reinforce a transmissive model of communication, one that seeks to cultivate public trust primarily to secure community adherence acceptance of public health priorities and interventions. This tendency toward transmissive communication is a subtle, yet pervasive feature of many contemporary proposals for addressing public health's crisis of trust.                                                           Conclusion                     Restoring public trust requires more than improving how public health communicates about its science and interventions. It requires cultivating the values, practices, and institutional arrangements that enable public health professionals and institutions to be meaningfully present in the communities they serve. Rather than prioritizing one‐way, transmissive unidirectional communication from at a distance, the profession must first develop the capacity to listen, respond, and demonstrate its trustworthiness through sustained engagement.",
+        "source": "The Milbank Quarterly",
+        "issn": "0887-378X",
+        "date": "2026-11-15",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "socialSecurity"
+        ],
+        "firstSeen": "2026-11-16",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/1468-0009.70137",
+        "doi": "10.1111/1468-0009.70137",
+        "url": "https://doi.org/10.1111/1468-0009.70137",
+        "title": "Trustworthy Crisis Mental Health Care: Key Values and Features",
+        "authors": [
+          "MORGAN C. SHIELDS",
+          "HYEIN S. LEE",
+          "EMMA C. BURRIS",
+          "KELLEY McCALL",
+          "LUCY REGALES",
+          "LENA SCHULHOFER",
+          "JENNIFER A. POON",
+          "SASHA ZABELSKI",
+          "JAI‐LAAN BLACKMON",
+          "CHACKU M. MATHAI",
+          "JULIE SEIBERT",
+          "AMY C. WATSON",
+          "CHIH‐HUNG CHANG",
+          "KAREN E. JOYNT MADDOX",
+          "ANA CAROLINA FLORENCE",
+          "TRAVIS J. ATKINSON"
+        ],
+        "abstract": "Context                     Mental health crises are increasing in the United States. Local and national policy efforts have focused on increasing access to crisis services, but little attention has been given to the quality of services delivered, or their perceived trustworthiness by people who use them. While trust in health care has been well studied in general health care settings, there has been a gap in the context of crisis mental health care. This gap exists despite the central role of relationships in mental health care, the vulnerability of people experiencing crises, and the use of practices known to erode trust (e.g., involuntary hospitalization). Our aim was to develop a framework for conceptualizing values and features of trustworthy crisis mental health care.                                                           Methods                     With ongoing consultation from an advisory board, we conducted seven semistructured 1.5‐hour virtual focus groups with 27 adults with lived experience of crisis mental health care to understand how trust in services is shaped. Transcripts were analyzed abductively for emergent themes through a rigorous process of codebook development and validation.                                                           Findings                     We identified four core values underpinning beliefs in a trustworthy crisis mental health care system (human connection, autonomy, transparency, and respect), and four supporting values (personalization, benevolence, competence, and access). A trustworthy crisis mental health care system that expresses these values would exhibit a range of features across relational, organizational, systems, and societal levels. Participants emphasized the need to invest in non‐medical, alternative crisis models. A central tension in current services emerged between risk management (e.g., concern over liability and physical safety) and therapeutic benefit, undermining trustworthiness at all levels.                                                           Conclusions                     Beliefs in trustworthy crisis mental health care are unique to this setting. While we have outlined values and features of trustworthy crisis services, future work is needed to identify appropriate strategies to operationalize these values, as well as ways to address salient tension points that compromise trustworthiness.",
+        "source": "The Milbank Quarterly",
+        "issn": "0887-378X",
+        "date": "2026-11-15",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "socialSecurity"
+        ],
+        "firstSeen": "2026-11-16",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1001/jama.2026.24386",
         "doi": "10.1001/jama.2026.24386",
         "url": "https://doi.org/10.1001/jama.2026.24386",
@@ -51170,62 +51764,6 @@
         "subjects": [],
         "domains": [
           "healthReform"
-        ],
-        "firstSeen": "2026-11-16",
-        "fetched_from": "crossref"
-      },
-      {
-        "id": "doi:10.1111/1468-0009.70138",
-        "doi": "10.1111/1468-0009.70138",
-        "url": "https://doi.org/10.1111/1468-0009.70138",
-        "title": "Trust Beyond Words: Why Public Health Cannot Communicate Its Way Into Rebuilding Trust With the Public",
-        "authors": [
-          "KARL JOHNSON",
-          "ZOEY KERNODLE"
-        ],
-        "abstract": "Policy Points                                                                                                                                         We challenge the assumption that communication failures are the central cause of declining trust.                                                                                         Amid a widely acknowledged crisis of trust in public health, we argue that an overemphasis on communication obscures deeper, upstream failures in the ability of public health to exercise authentic presence and accountability.                                                                                         Community listening and engagement should be a core metric of public health practice:                                                                                         Incentives for public health practice, such as program funding mechanisms, research funding, and leadership promotions, should expand or realign with a bias toward improving community engagement.                                                                                                                                                                                        Context                     The public health profession is experiencing a widely recognized crisis of trust among the communities it seeks to serve. Leading public health advocates have suggested that the roots of this crisis lie not in the inherent practices of public health, but rather in failures to communicate effectively with the public. Accordingly, they have proposed improved communication strategies as a primary response.                                                           Methods                     Drawing on philosophical literature and applied public health examples, we argue that efforts to restore trust between public health and communities must center on cultivating trustworthiness—an internal quality of public health professionals and institutions—rather than simply developing more effective strategies for eliciting trust through communication.                                                           Findings                     Trustworthiness is rarely established apart from concrete acts of patiently listening to and practically responding to the needs of communities. Without these practices of meaningful engagement, improvements in public health communication may simply reinforce a transmissive model of communication, one that seeks to cultivate public trust primarily to secure community adherence acceptance of public health priorities and interventions. This tendency toward transmissive communication is a subtle, yet pervasive feature of many contemporary proposals for addressing public health's crisis of trust.                                                           Conclusion                     Restoring public trust requires more than improving how public health communicates about its science and interventions. It requires cultivating the values, practices, and institutional arrangements that enable public health professionals and institutions to be meaningfully present in the communities they serve. Rather than prioritizing one‐way, transmissive unidirectional communication from at a distance, the profession must first develop the capacity to listen, respond, and demonstrate its trustworthiness through sustained engagement.",
-        "source": "The Milbank Quarterly",
-        "issn": "0887-378X",
-        "date": "2026-11-15",
-        "subjects": [],
-        "domains": [
-          "healthReform",
-          "socialSecurity"
-        ],
-        "firstSeen": "2026-11-16",
-        "fetched_from": "crossref"
-      },
-      {
-        "id": "doi:10.1111/1468-0009.70137",
-        "doi": "10.1111/1468-0009.70137",
-        "url": "https://doi.org/10.1111/1468-0009.70137",
-        "title": "Trustworthy Crisis Mental Health Care: Key Values and Features",
-        "authors": [
-          "MORGAN C. SHIELDS",
-          "HYEIN S. LEE",
-          "EMMA C. BURRIS",
-          "KELLEY McCALL",
-          "LUCY REGALES",
-          "LENA SCHULHOFER",
-          "JENNIFER A. POON",
-          "SASHA ZABELSKI",
-          "JAI‐LAAN BLACKMON",
-          "CHACKU M. MATHAI",
-          "JULIE SEIBERT",
-          "AMY C. WATSON",
-          "CHIH‐HUNG CHANG",
-          "KAREN E. JOYNT MADDOX",
-          "ANA CAROLINA FLORENCE",
-          "TRAVIS J. ATKINSON"
-        ],
-        "abstract": "Context                     Mental health crises are increasing in the United States. Local and national policy efforts have focused on increasing access to crisis services, but little attention has been given to the quality of services delivered, or their perceived trustworthiness by people who use them. While trust in health care has been well studied in general health care settings, there has been a gap in the context of crisis mental health care. This gap exists despite the central role of relationships in mental health care, the vulnerability of people experiencing crises, and the use of practices known to erode trust (e.g., involuntary hospitalization). Our aim was to develop a framework for conceptualizing values and features of trustworthy crisis mental health care.                                                           Methods                     With ongoing consultation from an advisory board, we conducted seven semistructured 1.5‐hour virtual focus groups with 27 adults with lived experience of crisis mental health care to understand how trust in services is shaped. Transcripts were analyzed abductively for emergent themes through a rigorous process of codebook development and validation.                                                           Findings                     We identified four core values underpinning beliefs in a trustworthy crisis mental health care system (human connection, autonomy, transparency, and respect), and four supporting values (personalization, benevolence, competence, and access). A trustworthy crisis mental health care system that expresses these values would exhibit a range of features across relational, organizational, systems, and societal levels. Participants emphasized the need to invest in non‐medical, alternative crisis models. A central tension in current services emerged between risk management (e.g., concern over liability and physical safety) and therapeutic benefit, undermining trustworthiness at all levels.                                                           Conclusions                     Beliefs in trustworthy crisis mental health care are unique to this setting. While we have outlined values and features of trustworthy crisis services, future work is needed to identify appropriate strategies to operationalize these values, as well as ways to address salient tension points that compromise trustworthiness.",
-        "source": "The Milbank Quarterly",
-        "issn": "0887-378X",
-        "date": "2026-11-15",
-        "subjects": [],
-        "domains": [
-          "healthReform",
-          "socialSecurity"
         ],
         "firstSeen": "2026-11-16",
         "fetched_from": "crossref"
@@ -92630,6 +93168,79 @@
     ],
     "agingHealth": [
       {
+        "id": "doi:10.1186/s12877-026-08689-9",
+        "doi": "10.1186/s12877-026-08689-9",
+        "url": "https://doi.org/10.1186/s12877-026-08689-9",
+        "title": "Medication burden and sarcopenia in older adults: a systematic review and meta-analysis",
+        "authors": [
+          "Xiang Li",
+          "Yifei Wang",
+          "Linjie Zhang",
+          "Jinyang Li",
+          "Zexing Wen",
+          "Yujian Chen",
+          "Wei Xie",
+          "Rui Li"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-17",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08692-0",
+        "doi": "10.1186/s12877-026-08692-0",
+        "url": "https://doi.org/10.1186/s12877-026-08692-0",
+        "title": "Risk prediction models for progression from subjective cognitive decline to cognitive impairment: a systematic review and critical appraisal",
+        "authors": [
+          "TangTang Zhao",
+          "QingChi Wang",
+          "ShiCong Liang",
+          "XinYue Zhang",
+          "XiaoPeng Huo"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-17",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08586-1",
+        "doi": "10.1186/s12877-026-08586-1",
+        "url": "https://doi.org/10.1186/s12877-026-08586-1",
+        "title": "Associations between religious health fatalism and health-promoting behaviors among Turkish Muslim older adults *",
+        "authors": [
+          "Öznur Adadıoğlu",
+          "Fatma Özkal",
+          "Sena Mercan"
+        ],
+        "abstract": "Abstract                                        Background                     This study was conducted to determine the relationship between religious health fatalism and health-promoting behaviors among Turkish Muslim older adults.                                                           Method                     Designed as a descriptive, cross-sectional, and correlational study, it included 165 individuals aged 65 years and older who presented to a family health center between June and October 2021. Data were collected using the Descriptive Information Form, the Religious Health Fatalism Scale, and the Geriatric Health Promotion Scale. In the data analysis, parametric tests including one-way ANOVA and independent samples t-test were utilized, and Pearson correlation and regression analyses were employed.                                                           Results                     The study results indicated that women, single participants, those aged 75 years and older, and individuals with lower educational levels had significantly higher health fatalism scores (p &lt; 0.05). Moreover, a significant negative relationship was found between religious health fatalism and health-promoting behaviors among older adults (r = −0.159, p = 0.041; small effect size). A one-unit increase in the health fatalism scale score decreases the geriatric health promotion scale score by 0.075 units (p = 0.039).                                                           Conclusion                     This study demonstrated that religious health fatalism is significantly associated with health-promoting behaviors among older adults. The hypothesis tested was non-directional (two-tailed), assuming only the existence of a relationship between religious health fatalism and health-promoting behaviors. The findings revealed that this relationship was negative, indicating that higher levels of fatalism were associated with lower engagement in health-promoting behaviors. Reducing fatalistic perceptions in older populations may therefore contribute to greater participation in health-promoting behaviors.                                                           Clinical trial number                     Not applicable.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-17",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-17",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1186/s12877-026-08668-0",
         "doi": "10.1186/s12877-026-08668-0",
         "url": "https://doi.org/10.1186/s12877-026-08668-0",
@@ -92648,6 +93259,326 @@
           "agingHealth"
         ],
         "firstSeen": "2026-11-16",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70843",
+        "doi": "10.1111/jgs.70843",
+        "url": "https://doi.org/10.1111/jgs.70843",
+        "title": "Measurement Invariance of the Informant Questionnaire on Cognitive Decline in the Elderly (\n                    <scp>IQCODE</scp>\n                    ) Across Ethnicity and Language",
+        "authors": [
+          "Emily M. Briceño",
+          "Bernardo Flores",
+          "Roshanak Mehdipanah",
+          "Deborah A. Levine",
+          "Nelda Garcia",
+          "Carmen Ortiz",
+          "Irma Mireles",
+          "Wen Chang",
+          "Xavier F. Gonzales",
+          "Bruno Giordani",
+          "Steven G. Heeringa",
+          "Darin B. Zahuranec",
+          "Kenneth M. Langa",
+          "Richard N. Jones",
+          "Lewis B. Morgenstern"
+        ],
+        "abstract": "",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-11-16",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70846",
+        "doi": "10.1111/jgs.70846",
+        "url": "https://doi.org/10.1111/jgs.70846",
+        "title": "Around the\n                    <scp>EQUATOR</scp>\n                    With Clin‐\n                    <scp>STAR</scp>\n                    : Challenges and Opportunities in Reporting Qualitative Aging‐Related Research",
+        "authors": [
+          "Daniel Shalev",
+          "Catherine A. Riffin",
+          "Veerawat Phongtankuel",
+          "Anita N. Chary"
+        ],
+        "abstract": "ABSTRACT                   Qualitative research is essential for understanding the experiences, preferences, and care contexts of older adults, and transparent reporting enables readers to appraise its methodological quality and relevance. The EQUATOR Network maintains two complementary reporting guidelines for qualitative research: the consolidated criteria for reporting qualitative research (COREQ), a 32‐item checklist for interview and focus group studies, and the standards for reporting qualitative research (SRQR), a 21‐item framework applicable across all qualitative designs. In this article, part of the Around the EQUATOR with Clin‐STAR series, we introduce both guidelines, identify challenges that arise when applying them to aging‐focused research, including clinician‐researcher dual roles, proxy and dyadic data, cognitive and sensory adaptations, companion co‐presence, and ensuring adaptiveness to the sequelae of frailty, and offer population‐specific reporting guidance for investigators.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-11-16",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70837",
+        "doi": "10.1111/jgs.70837",
+        "url": "https://doi.org/10.1111/jgs.70837",
+        "title": "The Oral‐Systemic Interface in Healthy Longevity: A Narrative Review of Inflammaging and Functional Resilience",
+        "authors": [
+          "Guy Tobias",
+          "Avi Zini",
+          "Yuval Vered",
+          "Alexander Khaimov",
+          "Yehuda Zadik",
+          "Jonathan Mann"
+        ],
+        "abstract": "ABSTRACT                                        Background                     While the global burden of oral diseases remains high, their role in the biological and functional trajectories of aging is often underrepresented in geriatric clinical practice. This narrative review explores the shift from viewing oral health as an isolated dental concern to an integrated pillar of geroscience and longevity. This aim of this study was to synthesize recent evidence linking oral inflammation and functional decline to systemic frailty, emphasizing the necessity of objective clinical metrics over traditional self‐reported data.                                                           Methods                     A comprehensive review of biological, epidemiological, and clinical literature was conducted, focusing on the mechanisms of “inflammaging,” the oral–gut axis, and the predictive value of oral frailty.                                                           Results                     Traditional markers, such as tooth count and subjective chewing difficulty, are frequently confounded by cognitive status and compensatory behaviors. Observational evidence links oral frailty and impaired oral function with sarcopenia, disability, and mortality, supporting the clinical relevance of assessing oral function alongside tooth counts. Furthermore, chronic periodontal inflammation acts as a systemic stimulus, contributing to endothelial dysfunction and multimorbidity through pro‐inflammatory signaling pathways.                                                           Conclusion                     Integrating objective oral functional assessments into the Comprehensive Geriatric Assessment (CGA) is essential for early identification of frailty. Moving toward a “preservation‐first” clinical model supported by AI‐assisted diagnostics offers a cost‐effective pathway to enhance systemic resilience and extend healthspan in aging populations.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-11-16",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70840",
+        "doi": "10.1111/jgs.70840",
+        "url": "https://doi.org/10.1111/jgs.70840",
+        "title": "Information Sharing Between Family and Friend Carers of Older Adults and Healthcare Professionals: A Systematic Review of Qualitative Studies",
+        "authors": [
+          "Steven Hall",
+          "Allison Cammer",
+          "Kelly Baskerville",
+          "Cavan Fani",
+          "Ziyu Li",
+          "Christina Shaw",
+          "Adrian Wagg",
+          "William Gibson"
+        ],
+        "abstract": "ABSTRACT                                        Background                     Family and friend carers are central to care for older adults, but communication with healthcare professionals (HCPs) is often inconsistent, poorly structured, and dependent on local relationships. This review synthesized qualitative evidence on experiences, barriers, and facilitators of information sharing between carers of older adults and HCPs across care settings.                                                           Methods                     We searched MEDLINE, Embase, CENTRAL, CINAHL, and PsycINFO on May 5, 2025. Eligible studies were empirical qualitative or mixed methods studies reporting direct information sharing between carers of adults aged 60 years or older and HCPs. Risk of bias was assessed using the JBI Critical Appraisal Checklist for Qualitative Research. Findings were synthesized using meta‐aggregation, supported by qualitative meta‐summary and frequency effect sizes.                                                           Findings                     Sixty‐two studies were included. Studies were conducted in community, residential or long‐term care, and acute care settings. Seven synthesized findings were generated: Information sharing needed to be timely, clear, tailored, and continuous (frequency effect size 48%); organizational, workforce, and policy contexts shaped communication sustainability (38%); trust, respect, and empathy were foundational to collaboration (37%); carers needed recognition as legitimate partners in person‐centered care (35%); perceived poor information sharing increased uncertainty, burden, and distress (32%); sensitive conversations required skillful, iterative communication (32%); and care transitions and system navigation required coordinated supports (29%).                                                           Discussion                     Information sharing should be understood as a triadic process involving the care recipient, carer, and HCP. Multi‐level interventions are needed to make carers visible, formalize information‐sharing pathways, and support respectful, coordinated, person‐centered communication.                                                           Review Registration                     PROSPERO CRD420250636906",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-11-16",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70834",
+        "doi": "10.1111/jgs.70834",
+        "url": "https://doi.org/10.1111/jgs.70834",
+        "title": "Who's on the Guest List? Rethinking Adverse Drug Withdrawal Events",
+        "authors": [
+          "Eva Filosa",
+          "Todd C. Lee",
+          "Emily G. McDonald"
+        ],
+        "abstract": "",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-11-16",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08700-3",
+        "doi": "10.1186/s12877-026-08700-3",
+        "url": "https://doi.org/10.1186/s12877-026-08700-3",
+        "title": "From exclusion to inclusion: addressing ageism in residential care outdoor environments through the lens of age-friendly design",
+        "authors": [
+          "Madeleine Liljegren",
+          "Anna Bengtsson",
+          "Göran Lindahl",
+          "Helle Wijk"
+        ],
+        "abstract": "Abstract                                        Background                     Ageism in residential care facilities (RCFs) extends beyond individual prejudice to structural and environmental conditions that shape older adults’ access to outdoor environments, mobility, autonomy, and social participation. Outdoor environments, including balconies, patios, gardens, and surrounding areas, support place attachment, identity, and well-being, yet access is often restricted. This study re-analysed walking interview data from older adults in RCFs to explore how structural ageism may be expressed through outdoor access and how age-friendly design across Zones 1–4 may support autonomy and reduce environmental barriers.                                                           Methods                     A qualitative secondary analysis was conducted using walking interviews with 12 older adults from three Swedish RCFs with variation in building structure, geographic location, and outdoor accessibility. Data were re-analysed using inductive qualitative content analysis, guided by a structural ageism perspective and followed by deductive mapping onto the zone model.                                                           Results                     Three interrelated categories were identified: (1) structural barriers, including thresholds, uneven surfaces, and limited access to outdoor environments, constraining mobility and autonomy; (2) dependence on care workers for safe access and navigation; and (3) supportive environmental conditions, including accessible balconies, patios, gardens, and surrounding environments, enabling independence, social interaction, and well-being. Outdoor access was also shaped by the interaction between the built environment and organisational practices related to safety, assistance, and care worker availability. Across Zones 1–4, age-friendly design aspects, including visual access to outdoors, accessible transitions, elevators, adaptable entrance areas, inclusive balconies, sensory-rich gardens, and even surfaces supported outdoor engagement and participation.                                                           Conclusions                     Access to outdoor environments in RCFs may reflect structural ageism when environmental and organisational arrangements translate age-related differences in functional capacity into unequal opportunities for participation. Age-friendly environments therefore require attention to both physical design and the organisational practices through which outdoor access is enabled or restricted. The findings provide implications for policymakers, architects, landscape architects, and care providers seeking to promote inclusive RCF environments.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-16",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08648-4",
+        "doi": "10.1186/s12877-026-08648-4",
+        "url": "https://doi.org/10.1186/s12877-026-08648-4",
+        "title": "Five-year time spent ADL independent, ADL limited, or not alive after first observed survey reports of major conditions in older adults: a harmonized multicohort study",
+        "authors": [
+          "Linjiang Wei",
+          "Ying Han"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-16",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08632-y",
+        "doi": "10.1186/s12877-026-08632-y",
+        "url": "https://doi.org/10.1186/s12877-026-08632-y",
+        "title": "Identification and prediction of frailty in elderly inpatients with diabetes based on Bayesian network analysis: a multicenter cross-sectional study",
+        "authors": [
+          "Shuyi Peng",
+          "Jingcan Xu",
+          "Runpu Guo",
+          "Lin Tan",
+          "Zelin Tao",
+          "Xiao Wan",
+          "Xiaoai Fu",
+          "Hui Feng"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-16",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08685-z",
+        "doi": "10.1186/s12877-026-08685-z",
+        "url": "https://doi.org/10.1186/s12877-026-08685-z",
+        "title": "Development and internal validation of a nomogram for predicting postoperative pneumonia within 7 days after hip fracture surgery in older adults: a retrospective cohort study",
+        "authors": [
+          "Xiaopeng Chen",
+          "Lili Zou",
+          "Chuying Chen",
+          "Ling Li",
+          "Hongjian Li",
+          "Jiusheng He"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-16",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08541-0",
+        "doi": "10.1186/s12877-026-08541-0",
+        "url": "https://doi.org/10.1186/s12877-026-08541-0",
+        "title": "Identifying key features associated with medical visit companion services needs among older adults in China using interpretable machine learning",
+        "authors": [
+          "Jiabin Xu",
+          "Jiayu Mao",
+          "Yan Cai",
+          "Suning Zhang",
+          "Haotian Chi",
+          "Ziyan Zheng",
+          "Yingying Chen",
+          "Chenchen Gao"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-16",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08711-0",
+        "doi": "10.1186/s12877-026-08711-0",
+        "url": "https://doi.org/10.1186/s12877-026-08711-0",
+        "title": "Wearable activity-sequence measures and subsequent handgrip strength in adults aged 65 years and older: measurement characteristics and longitudinal associations",
+        "authors": [
+          "Yifu Zhu"
+        ],
+        "abstract": "Abstract                                        Background                     Temporal organization of everyday activity may provide information complementary to conventional movement-volume summaries. We examined the measurement properties of activity-state sequence descriptors and their longitudinal associations with handgrip strength.                                                           Methods                     We analyzed SHARE Wave 8 three-day thigh accelerometry and Wave 9 handgrip data. There were 490 participants aged at least 65 years with eligible sequences; follow-up grip was available for 410 and the negative-code-corrected, fully adjusted model included 391. Five activity states were coded in 5-second epochs. The original research workflow prioritized run-collapsed LZ76, while the H1–H3 conditional-entropy analysis was an exploratory evaluation whose final screening took place after initial outcome analyses. Daily-average ICC and correlation-based redundancy were distinguished from a new post hoc two-window evaluation of the identical nonlinear 72-hour scores among 407 participants with six valid days in the same wear episode; inference was limited to within-wear agreement. Participant-level analyses were replayed locally from the three licensed SHARE source archives.                                                           Results                                            In corrected complete cases, the adjusted 72-hour H1–H3 coefficient was β = 0.535 kg/SD (95% CI -0.335 to 1.404;                       P                        = 0.228), with ΔR²=0.00067. The original historically prioritized run-collapsed LZ76 measure gave β = 0.906 kg/SD (95% CI 0.171 to 1.641;                       P                        = 0.016), ΔR²=0.00301; this age-restricted contrast is not an independent preregistered confirmatory test. Fifty repeated, strictly foldwise 10-fold validation analyses yielded mean ΔR²=-0.000341 and mean ΔRMSE = 0.0038 kg on adding H1–H3. Twenty-draw predictive-mean-matching sensitivity gave β = 0.471 kg/SD (95% CI -0.380 to 1.322;                       P                        = 0.278). In a post hoc within-wear paired-window analysis (                       n                        = 407), the complete-72-hour H1–H3 had ICC(A,1) = 0.775 (participant-bootstrap 95% interval 0.723–0.822), and run-collapsed LZ76 had ICC(A,1) = 0.876 (0.848–0.898).                                                                                Conclusions                     Activity-sequence descriptors differed in their relationships with conventional movement measures and later handgrip strength. Among participants with two complete 72-hour windows within one wear episode, H1–H3 and run-collapsed LZ76 showed absolute-agreement ICCs of 0.775 and 0.876, respectively. H1–H3 showed an imprecise handgrip association and no mean gain in repeated cross-validated prediction. These findings highlight the value of assessing temporal activity organization and its measurement properties alongside conventional activity summaries.                                                           Clinical trial registration                     Not applicable.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-16",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08680-4",
+        "doi": "10.1186/s12877-026-08680-4",
+        "url": "https://doi.org/10.1186/s12877-026-08680-4",
+        "title": "Transitions in depressive symptom states and depression-free life expectancy among older adults with arthritis",
+        "authors": [
+          "Shengyuan Zheng",
+          "Ziyuan Liu",
+          "Yingqiao Sun",
+          "Zehao Yu",
+          "Xiongfeng Tang",
+          "Yanguo Qin"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-16",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1215/00703370-12912843",
+        "doi": "10.1215/00703370-12912843",
+        "url": "https://doi.org/10.1215/00703370-12912843",
+        "title": "DNA, Self-reported Ancestry, and Social Scientific Inquiry",
+        "authors": [
+          "Luyin Zhang",
+          "Sam Trejo"
+        ],
+        "abstract": "Highlights                   All humans share one vast family tree, and our place in it leaves a partial imprint on our DNA. Genetic similarity proportions estimate how closely one’s DNA resembles that of various reference groups. Our framework estimates genetic similarity while limiting bias from researchers’ cultural schemas. Within ancestry groups, genetic similarity varies widely and indexes racialized physical traits. Genetic data offer researchers a lens for studying, not disputing, the social construction of race.",
+        "source": "Demography",
+        "issn": "0070-3370",
+        "date": "2026-11-16",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "socialSecurity"
+        ],
+        "firstSeen": "2026-11-17",
         "fetched_from": "crossref"
       },
       {
@@ -92719,6 +93650,29 @@
           "elderCare"
         ],
         "firstSeen": "2026-11-15",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/gerona/glag260",
+        "doi": "10.1093/gerona/glag260",
+        "url": "https://doi.org/10.1093/gerona/glag260",
+        "title": "Contributions of lifestyle risk factors to socio-economic disparities in active and total life expectancy among older adults: A longitudinal cohort study",
+        "authors": [
+          "Olivia S Malkowski",
+          "Kendra Davis-Plourde",
+          "Max J Western",
+          "Thomas M Gill"
+        ],
+        "abstract": "Abstract                                        Background                     Older adults of lower socio-economic position have a shorter active life expectancy (ALE) and total life expectancy (TLE). This study aimed to determine the extent to which these disparities could be explained by lifestyle risk factors.                                                           Methods                     We used data (1998–2024) from 754 participants aged 70+ years of the Precipitating Events Project study in South Central Connecticut. Socio-economic indicators (i.e., years of education, income, and neighborhood disadvantage) and alcohol consumption were assessed at baseline only, whereas smoking, low physical activity, and obesity were updated at 18-month intervals. Disability was assessed monthly and defined as dependence in essential activities of daily living. We used discrete-time multistate modeling to estimate sex-specific ALE and TLE at age 70 years, and simulated elimination scenarios (in which the prevalence of the lifestyle risk factors was set to zero one-at-a-time and then jointly) to quantify the contributions of lifestyle risk factors to socio-economic disparities in ALE and TLE.                                                           Results                     Low physical activity made the largest contribution to disparities based on years of education (ALE: 35.4%; TLE: 54.5%) and neighborhood disadvantage (ALE: 49.4%; TLE: 53.4%) among men, and to disparities based on years of education (ALE: 67.4%; TLE: 93.4%), income (ALE: 39.9%; TLE: 55.3%), and neighborhood disadvantage (ALE: 23.8%; TLE: 20.1%) among women. The contributions of alcohol consumption, smoking, and obesity to disparities in ALE and TLE were negligible.                                                           Conclusions                     To reduce socio-economic disparities in ALE and TLE in later life, priority should be given to policies and interventions designed to support more healthful behaviors.",
+        "source": "The Journals of Gerontology, Series A: Biological Sciences and Medical Sciences",
+        "issn": "1079-5006",
+        "date": "2026-11-14",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "elderCare"
+        ],
+        "firstSeen": "2026-11-16",
         "fetched_from": "crossref"
       },
       {
@@ -92812,29 +93766,6 @@
           "agingHealth"
         ],
         "firstSeen": "2026-11-15",
-        "fetched_from": "crossref"
-      },
-      {
-        "id": "doi:10.1093/gerona/glag260",
-        "doi": "10.1093/gerona/glag260",
-        "url": "https://doi.org/10.1093/gerona/glag260",
-        "title": "Contributions of lifestyle risk factors to socio-economic disparities in active and total life expectancy among older adults: A longitudinal cohort study",
-        "authors": [
-          "Olivia S Malkowski",
-          "Kendra Davis-Plourde",
-          "Max J Western",
-          "Thomas M Gill"
-        ],
-        "abstract": "Abstract                                        Background                     Older adults of lower socio-economic position have a shorter active life expectancy (ALE) and total life expectancy (TLE). This study aimed to determine the extent to which these disparities could be explained by lifestyle risk factors.                                                           Methods                     We used data (1998–2024) from 754 participants aged 70+ years of the Precipitating Events Project study in South Central Connecticut. Socio-economic indicators (i.e., years of education, income, and neighborhood disadvantage) and alcohol consumption were assessed at baseline only, whereas smoking, low physical activity, and obesity were updated at 18-month intervals. Disability was assessed monthly and defined as dependence in essential activities of daily living. We used discrete-time multistate modeling to estimate sex-specific ALE and TLE at age 70 years, and simulated elimination scenarios (in which the prevalence of the lifestyle risk factors was set to zero one-at-a-time and then jointly) to quantify the contributions of lifestyle risk factors to socio-economic disparities in ALE and TLE.                                                           Results                     Low physical activity made the largest contribution to disparities based on years of education (ALE: 35.4%; TLE: 54.5%) and neighborhood disadvantage (ALE: 49.4%; TLE: 53.4%) among men, and to disparities based on years of education (ALE: 67.4%; TLE: 93.4%), income (ALE: 39.9%; TLE: 55.3%), and neighborhood disadvantage (ALE: 23.8%; TLE: 20.1%) among women. The contributions of alcohol consumption, smoking, and obesity to disparities in ALE and TLE were negligible.                                                           Conclusions                     To reduce socio-economic disparities in ALE and TLE in later life, priority should be given to policies and interventions designed to support more healthful behaviors.",
-        "source": "The Journals of Gerontology, Series A: Biological Sciences and Medical Sciences",
-        "issn": "1079-5006",
-        "date": "2026-11-14",
-        "subjects": [],
-        "domains": [
-          "agingHealth",
-          "elderCare"
-        ],
-        "firstSeen": "2026-11-16",
         "fetched_from": "crossref"
       },
       {
@@ -130311,6 +131242,28 @@
     ],
     "socialWork": [
       {
+        "id": "doi:10.1007/s10896-026-01209-8",
+        "doi": "10.1007/s10896-026-01209-8",
+        "url": "https://doi.org/10.1007/s10896-026-01209-8",
+        "title": "‘Nothing About him and Everything About you’: A Framework of Recovery Strategies from IPV in the Context of Online Discussion Forums",
+        "authors": [
+          "Anat Vass",
+          "Julia Krane",
+          "Eli Buchbinder",
+          "Mariyah Jaffer"
+        ],
+        "abstract": "Abstract                                        Purpose                     While research has examined women’s help-seeking and recovery from intimate partner violence (IPV), less attention has been given to these processes in online discussions, particularly for Jewish-identified women. This study examined how Jewish women in Montreal described their experiences of help-seeking for IPV during the initial waves of COVID-19, with specific attention to recovery through online discussion forums.                                                           Methods                     The sample included 79 adult women from three Jewish congregations in Montreal, Canada, participating in remote focus groups and face-to-face interviews conducted during the COVID-19 pandemic. Data were analyzed using Reflective Thematic Analysis. Trustworthiness was established in accordance with Shenton’s criteria, through peer debriefing, and reflexivity.                                                           Results                     Three interrelated themes emerged characterizing women’s recovery journeys during social distancing and lockdowns: (1) ‘What should you do’ (doing); (2) ‘What you should not do’ (avoidance); and (3) ‘What should you accept’ (acceptance). Findings revealed a deep focus of online support, incorporating both universal and religious aspects of recovery.                                                           Conclusions                     The findings demonstrate that during periods of enforced social isolation, online discussion forums play a decisive role in shaping IPV recovery strategies. For women from religious minority communities, self-focused recovery strategies offered an accessible pathway to self-directed healing. The study underscores the need for culturally responsive approaches to online support for Jewish women experiencing IPV, with broader relevance for contexts of social crisis in which formal services are severely restricted.",
+        "source": "Journal of Family Violence",
+        "issn": "0885-7482",
+        "date": "2026-11-17",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-11-17",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1007/s10896-026-01208-9",
         "doi": "10.1007/s10896-026-01208-9",
         "url": "https://doi.org/10.1007/s10896-026-01208-9",
@@ -130329,6 +131282,48 @@
           "socialWork"
         ],
         "firstSeen": "2026-11-16",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/bjsw/bcag215",
+        "doi": "10.1093/bjsw/bcag215",
+        "url": "https://doi.org/10.1093/bjsw/bcag215",
+        "title": "Institutionalizing social work through bottom-up policymaking: Evidence from Central Asia",
+        "authors": [
+          "Ayagoz Aubakirova",
+          "Kuralay Mukhambetova",
+          "Nurgul Musaeva",
+          "Ulla Pape",
+          "Dinara Yessimova"
+        ],
+        "abstract": "Abstract                   Social work is a relatively new profession in Central Asia, where the field emerged following the Soviet Union’s collapse in the 1990s. It operates within a post-Soviet transitional context exhibiting Global South characteristics. While international standards promote social workers as agents of change, in partially regulated systems like those of Central Asia, they remain service providers. The study draws on an online survey with social workers in Kazakhstan and Kyrgyzstan (n = 776; 388 in each country). A mixed-methods design integrated quantitative analysis, performed using R software, and thematic coding of open-ended responses conducted via MAXQDA. The analysis is grounded in street-level bureaucracy theory, exploring how practitioners navigate structural constraints and resource scarcity. The findings show that self-reported burnout was associated with greater willingness to participate in discussions of legislative and professional reform. Willingness to engage in reform discussions was also more pronounced among practitioners with specialized social work education. These results suggest that, in partially regulated professional systems, structural strain and professional identity may be linked to reform-oriented engagement rather than only professional withdrawal. The study concludes that social work professionalization requires integrating practitioner-led advocacy within legislative frameworks to ensure reform and bridge the gap between frontline practice and national policy-making.",
+        "source": "The British Journal of Social Work",
+        "issn": "0045-3102",
+        "date": "2026-11-16",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-11-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/bjsw/bcag293",
+        "doi": "10.1093/bjsw/bcag293",
+        "url": "https://doi.org/10.1093/bjsw/bcag293",
+        "title": "Book Review – Engaged Jainism: critical and constructive studies of Jain social engagement. Christopher Jain Miller and Cogen Bohanec (eds.)",
+        "authors": [
+          "Rose Parkes"
+        ],
+        "abstract": "",
+        "source": "The British Journal of Social Work",
+        "issn": "0045-3102",
+        "date": "2026-11-16",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-11-17",
         "fetched_from": "crossref"
       },
       {
@@ -142787,11 +143782,11 @@
     ]
   },
   "totals": {
-    "socialSecurity": 1625,
-    "elderCare": 1016,
-    "healthReform": 1537,
-    "agingHealth": 1463,
-    "socialWork": 544
+    "socialSecurity": 1626,
+    "elderCare": 1031,
+    "healthReform": 1542,
+    "agingHealth": 1479,
+    "socialWork": 547
   },
   "feeds_ok": 41
 }
