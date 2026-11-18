@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-17",
-  "fetched": "2026-11-17T09:29:12+00:00",
+  "date": "2026-11-18",
+  "fetched": "2026-11-18T08:44:41+00:00",
   "domains": {
     "socialSecurity": [
       {
@@ -25447,6 +25447,79 @@
     ],
     "elderCare": [
       {
+        "id": "doi:10.1186/s12877-026-08697-9",
+        "doi": "10.1186/s12877-026-08697-9",
+        "url": "https://doi.org/10.1186/s12877-026-08697-9",
+        "title": "Sociodemographic heterogeneity in the associations between social isolation and depressive symptoms among rural older adults in Zhejiang Province, China",
+        "authors": [
+          "Chaoping Pan",
+          "Jianmin Lin",
+          "Linwei Yu",
+          "Na Cao"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-18",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-18",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08644-8",
+        "doi": "10.1186/s12877-026-08644-8",
+        "url": "https://doi.org/10.1186/s12877-026-08644-8",
+        "title": "Cognitive reserve and dual-task walking performance in older adults with functional limitations",
+        "authors": [
+          "Pei-An Lee",
+          "Thomas G Travison",
+          "Alvaro Pascual-Leone",
+          "Lewis Lipsitz",
+          "On-Yee Lo",
+          "Brad Manor"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-18",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-18",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08707-w",
+        "doi": "10.1186/s12877-026-08707-w",
+        "url": "https://doi.org/10.1186/s12877-026-08707-w",
+        "title": "Association of preoperative and postoperative inflammatory indices with 30-day mortality and intensive care unit length of stay after proximal femoral nailing for intertrochanteric femoral fractures in geriatric patients",
+        "authors": [
+          "Selen Topalel",
+          "Hülya Tosun Söner",
+          "Mehmet Özkılıç",
+          "Fatime Zehra Şenses",
+          "Kudbettin Dinçer",
+          "Osman Uzundere"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-18",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-18",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1186/s12877-026-08689-9",
         "doi": "10.1186/s12877-026-08689-9",
         "url": "https://doi.org/10.1186/s12877-026-08689-9",
@@ -25517,6 +25590,214 @@
           "agingHealth"
         ],
         "firstSeen": "2026-11-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70838",
+        "doi": "10.1111/jgs.70838",
+        "url": "https://doi.org/10.1111/jgs.70838",
+        "title": "Comparison of Two Dementia Care Interventions and Usual Care on Days Spent at Home: The D‐\n                    <scp>CARE</scp>\n                    Randomized Clinical Trial",
+        "authors": [
+          "Thomas M. Gill",
+          "David B. Reuben",
+          "Katy Araujo",
+          "Jodi L. Liu",
+          "Alan B. Stevens",
+          "Jeff D. Williamson",
+          "Mia Yang",
+          "Rebecca Galloway",
+          "Elena Volpi",
+          "Maya Lichtenstein",
+          "Lee A. Jennings",
+          "Jenny Summapund",
+          "Yunshan Xu",
+          "Peter Peduzzi",
+          "Erich J. Greene"
+        ],
+        "abstract": "ABSTRACT                                        Background                     Days spent at home (DSAH) is a clinically meaningful patient‐centered outcome among persons living with dementia (PLWD).                                                           Objective                     To evaluate whether either of two dementia care interventions increased the number of DSAH compared with each other and with usual care.                                                           Design                     Pragmatic 18‐month 3‐arm randomized clinical trial conducted from June 2019 through August 2023.                                                           Setting                     Four clinical trial sites in North Carolina, Texas, and Pennsylvania.                                                           Participants                     Total of 1968 (90.4% of 2176) community‐living PLWD with complete Medicare data.                                                           Interventions                     Health‐system dementia care (HSDC) co‐management by advance practice providers, community‐based dementia care (CBDC) provided telephonically by a social worker, nurse, or licensed therapist, and usual care (UC), each lasting up to 18 months.                                                           Main Outcome                     The number of DSAH was calculated as 546 (i.e., 18 months) minus the number of overnight days in a health care facility and days not alive, using data from Medicare.                                                           Results                     The percentages of DSAH were 83.5, 84.9, and 83.6 for the HSDC, CBDC, and UC groups, respectively. For each pairwise comparison among the three groups, incidence rate ratios for DSAH approximated 1.0, denoting no differences, and the corresponding mean differences in DSAH were small and not statistically significant: −7.2 (98.3% CI: −31.4 to 17.0) for HSDC versus CBDC; −0.3 (−48.4 to 47.7) for HSDC versus UC; and 6.9 (−41.3 to 55.5) for CBDC versus UC. There were no substantive differences in mean values across the three groups for days in any of the health care facilities. Mean [SD] days not alive were greatest for UC (68.3 [134.4]), followed by HSDC (65.3 [133.3]) and CBDC (60.0 [129.8]).                                                           Conclusions                     In this pragmatic randomized clinical trial of dementia care programs, health system–based and community‐based interventions did not differ from each other or from usual care in the number of DSAH for PLWD over the 18‐month intervention period.                                                           Trial Registration                                            Clinicaltrials.gov                       identifier: NCT03786471",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-11-17",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-18",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08638-6",
+        "doi": "10.1186/s12877-026-08638-6",
+        "url": "https://doi.org/10.1186/s12877-026-08638-6",
+        "title": "Older people’s compliance with external hip protectors and the associated moderators: a systematic review and meta-analysis",
+        "authors": [
+          "Ringo Tang-Long Zhu",
+          "Chen Huang",
+          "Weitao He",
+          "Yu-Yan Luo",
+          "Dahua Shou",
+          "Christina Zong-Hao Ma"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-17",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-18",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08708-9",
+        "doi": "10.1186/s12877-026-08708-9",
+        "url": "https://doi.org/10.1186/s12877-026-08708-9",
+        "title": "Quality of life and spatiotemporal evolution of older adults with disabilities in China (2011–2020)",
+        "authors": [
+          "Chunling Wang",
+          "Yanyan Li"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-17",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-18",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08604-2",
+        "doi": "10.1186/s12877-026-08604-2",
+        "url": "https://doi.org/10.1186/s12877-026-08604-2",
+        "title": "Effects of lidocaine combined with dexmedetomidine or remimazolam on early quality of recovery in older adult patients undergoing lumbar spine surgery: a six-arm randomized controlled trial",
+        "authors": [
+          "Qing Liu",
+          "Jingwen Wei",
+          "Sining Pan",
+          "Xin Lu",
+          "Liyun Zou",
+          "Yubo Xie"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-17",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-18",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08715-w",
+        "doi": "10.1186/s12877-026-08715-w",
+        "url": "https://doi.org/10.1186/s12877-026-08715-w",
+        "title": "Discursive construction of China’s aged care system over 32 years (1994–2026): a longitudinal discourse analysis of national policy documents and implications for geriatric care practice",
+        "authors": [
+          "Wei CHENG",
+          "Xiangdong WANG",
+          "Danyang MA",
+          "Guohui DU",
+          "Juan CUI",
+          "Zhaofeng ZHANG",
+          "Ting ZHAO"
+        ],
+        "abstract": "Abstract                                        Background                     China’s population aged 60 and above surpassed 300 million in 2025, generating substantial demand for geriatric care services. While prior studies have examined specific aged care policies, none have systematically analyzed how national policy discourse has constructed geriatric care governance across three decades.                                                           Methods                     We conducted a longitudinal discourse analysis of all 96 national-level aged care policy documents issued between 1994 and 2026, integrating systematic quantitative content analysis (a 69-keyword coding dictionary across nine discourse dimensions; inter-coder reliability Cohen’s κ = 0.87) within a qualitative critical discourse analysis following Fairclough’s three-dimensional model. Python 3.12 was used for text processing. Documents were periodized into four stages based on critical demographic and policy junctures. Reporting followed the Standards for Reporting Qualitative Research (SRQR).                                                           Results                     Aged care policy discourse evolved through four stages: residual welfare (1994–2005), socialized care emergence (2006–2012), institutional expansion (2013–2020), and active aging paradigm (2021–2026). Three discursive processes were identified: naming, semantic expansion, and label upgrading. Inter-departmental discourse competition among eight central government ministries was associated with a “competitive-collaborative discourse synergy” pattern. The core concept “elderly care service” appeared 2,081 times across the corpus, while mental health support (45 mentions) and rural elderly care (160 mentions) received comparatively limited discursive attention.                                                           Conclusions                     China’s aged care policy evolution exemplifies a pattern of “discursive policy layering”, the incremental accretion of policy vocabulary without the displacement of prior frameworks. To improve geriatric care quality and health equity, future policy development should explicitly integrate mental health and rural elderly care into core policy vocabulary, establish formal cross-ministerial coordination mechanisms led by a high-level national aging agency, and develop systematic frameworks for family caregiver support including financial compensation, training, and respite care.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-17",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-18",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08717-8",
+        "doi": "10.1186/s12877-026-08717-8",
+        "url": "https://doi.org/10.1186/s12877-026-08717-8",
+        "title": "Role of central obesity and overall obesity on cardiorespiratory fitness in older adults with dynapenic obesity",
+        "authors": [
+          "Sothida Nantakool",
+          "Nadnapa Promlan",
+          "Punyisa Sritonchai",
+          "Yardpirun Sangsuk",
+          "Supatcha Konghakote",
+          "Busaba Chuatrakoon"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-17",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-18",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08596-z",
+        "doi": "10.1186/s12877-026-08596-z",
+        "url": "https://doi.org/10.1186/s12877-026-08596-z",
+        "title": "Effectiveness, acceptability, and completeness of intervention reporting of psychological interventions for people with dementia or mild cognitive impairment: a mixed-methods systematic review",
+        "authors": [
+          "Oscar Blomberg",
+          "Frida Svedin",
+          "Ida Österman Menander",
+          "Paul Farrand",
+          "Marie Birkebaek Pihl",
+          "Anders Brantnell",
+          "Louise von Essen",
+          "Holly Victoria Rose Sugg",
+          "Anna Cristina Åberg",
+          "Joanne Woodford"
+        ],
+        "abstract": "Abstract                                        Background                     People living with dementia or mild cognitive impairment (MCI) commonly experience difficulties with mental health and psychological well-being. Given the dyadic interdependence of well-being, these difficulties may also affect informal caregivers. However, access to psychological interventions remains limited for people living with dementia. Our overall aim was to perform a systematic review and meta-analysis of the current research evidence for psychological interventions intended to improve mental health and psychological well-being in people living with dementia or MCI.                                                           Methods                     We systematically searched electronic databases ASSIA, CENTRAL, CINAHL, EMBASE, MEDLINE and PsycINFO for eligible randomized controlled trials (RCTs) and identified qualitative studies associated with eligible RCTs via hand searching. Two reviewers independently screened titles and abstracts, assessed full-texts, and completed quality appraisal. Quantitative studies with sufficient data were included in a meta-analysis, and qualitative studies were synthesized using framework analysis. A convergent mixed-methods design was adopted to integrate quantitative and qualitative results in the discussion.                                                           Results                                            We included 15 quantitative studies in the review (                       n                        = 1,742 people living with dementia or MCI). Our meta-analysis showed a small-to-moderate effect size favoring the intervention for depressive symptoms in people living with dementia or MCI (                       n                        = 11 studies; Hedges’ g = -0.36 [95% CI = -0.61 to -0.11]                       p                       &lt;.05). Substantial heterogeneity was observed, prediction interval crossed the null, and certainty of evidence was very low. No effect was found for depressive symptoms in caregivers (                       n                        = 5 studies; Hedges’ g = 0.01,                       p                       &gt;.05). It was not appropriate to conduct a meta-analysis for other outcomes associated with mental health and psychological well-being in people living with dementia, MCI, or their caregivers due to insufficient data. We included six qualitative studies related to the included quantitative studies. In our meta-synthesis (                       n                        = 6 studies), we identified factors associated with intervention acceptability corresponding to six of the seven Theoretical Framework of Acceptability constructs. Completeness of intervention reporting was inadequate across studies.                                                                                Conclusion                     Higher-quality RCTs with larger sample sizes, improved intervention reporting, and methodological rigor are needed to strengthen the evidence base for psychological interventions for people living with dementia or MCI, and their caregivers. Further research should explore intervention acceptability from the perspectives of key interest-holders.                                                           PROSPERO registration number                     CRD42023400514.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-17",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-18",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08587-0",
+        "doi": "10.1186/s12877-026-08587-0",
+        "url": "https://doi.org/10.1186/s12877-026-08587-0",
+        "title": "Multidimensional swallowing assessment in older adults: a scoping review",
+        "authors": [
+          "Vera Braga",
+          "Ricardo Braga",
+          "Ana Filipa Ramos",
+          "Helena José"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-17",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-18",
         "fetched_from": "crossref"
       },
       {
@@ -51420,6 +51701,246 @@
     ],
     "healthReform": [
       {
+        "id": "doi:10.1001/jama.2026.17332",
+        "doi": "10.1001/jama.2026.17332",
+        "url": "https://doi.org/10.1001/jama.2026.17332",
+        "title": "Cardiovascular Magnetic Resonance to Guide Defibrillator Implantation for LVEF of 36% to 50%",
+        "authors": [],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-17",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-18",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.16582",
+        "doi": "10.1001/jama.2026.16582",
+        "url": "https://doi.org/10.1001/jama.2026.16582",
+        "title": "Implantable Cardioverter-Defibrillators for Preventing Sudden Cardiac Death in Patients With an LVEF &amp;gt;35%",
+        "authors": [
+          "Sana M. Al-Khatib"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-17",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-18",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.17078",
+        "doi": "10.1001/jama.2026.17078",
+        "url": "https://doi.org/10.1001/jama.2026.17078",
+        "title": "Cardiovascular Magnetic Resonance to Guide Defibrillator Implantation for LVEF of 36% to 50%",
+        "authors": [
+          "Joseph B. Selvanayagam",
+          "John G. F. Cleland",
+          "Graham S. Hillis",
+          "Sivabaskari Pasupathy",
+          "Laurent Billot",
+          "Katherine E. George",
+          "John J. Atherton",
+          "Colin Berry",
+          "Ivaylo Tonchev",
+          "Chris Gianacas",
+          "Werner Jung",
+          "Sanjay K. Prasad",
+          "Carmine G. De Pasquale",
+          "Johannes Brachmann",
+          "Anand Ganesan",
+          "Rajiv Ananthakrishna",
+          "Margaret Arstall",
+          "Niall Campbell",
+          "Derek T Connelly",
+          "David Ferreira",
+          "Daniel Garofalo",
+          "Jemima Gore",
+          "Suchi Grover",
+          "John Hill",
+          "Nicola Johnston",
+          "Alamgir Kabir",
+          "David Kaye",
+          "Sau Lee",
+          "Tina Lin",
+          "Scott Lorensini",
+          "Jakob Lüker",
+          "Paul D MacIntyre",
+          "Christian Mahnkopf",
+          "Andrew Martin",
+          "Gerry P McCann",
+          "Ashley Nisbet",
+          "Gaetano Nucifora",
+          "Bhupesh Pathik",
+          "Andreas Pflaumer",
+          "Sven Plein,",
+          "David Prior",
+          "Kurt C Roberts-Thomson",
+          "Wolfgang Rudolf Bauer",
+          "Ranjit Shah",
+          "Karthigesh Sree Raman",
+          "Martin Stiles",
+          "Paul Stobie",
+          "Nikola Stoyanov",
+          "Rajesh Subbiah",
+          "Miriyalini Sundararajah",
+          "Sukumaran Thevathasan",
+          "Julia Vogler",
+          "Tom Wong",
+          "Glenn Young",
+          "John F Younger",
+          "Jufen Zhang",
+          "Vlada Zvereva"
+        ],
+        "abstract": "Importance                     Current guidelines do not recommend primary prevention implantable cardioverter-defibrillators (ICDs) unless a patient’s left ventricular ejection fraction (LVEF) is 35% or less. Many sudden cardiac deaths (SCD) occur when LVEF is 36% to 50%. Myocardial scar (a key arrhythmic substrate) can be assessed by late gadolinium enhancement on cardiovascular magnetic resonance (CMR), but robust evidence is lacking regarding a scar-based approach to ICD insertion.                                                           Objective                     To determine whether implantation of ICDs reduces SCD or hemodynamically significant ventricular arrhythmia (HSVA) in patients with an LVEF of 36% to 50% and myocardial scar.                                                           Design, Setting, and Participants                     An open-label randomized clinical trial enrolled adults between 2015 and 2022 who had ischemic or nonischemic cardiomyopathy, an LVEF of 36% to 50%, CMR-defined myocardial scar, and were receiving guideline-directed medical therapy at 18 sites in Australia, Germany, and the UK. Follow-up assessments were completed in 2026.                                                           Interventions                     A primary prevention ICD (n = 180) vs an implantable loop recorder (ILR) (n = 173).                                                           Main Outcomes and Measures                     The primary composite outcome was SCD or HSVA. Five secondary outcomes were evaluated: SCD, HSVA, heart failure–related hospitalization, cardiovascular mortality, and all-cause mortality.                                                           Results                                            Of 353 patients randomized (median age, 65 years [IQR, 57-61 years]; 18% female; and 72% had an ischemic etiology), 70% had an LVEF of 40% or greater. The median follow-up was 6.3 years (IQR, 4.8-7.6 years). The primary composite outcome occurred in 14 patients (7.8%) in the ICD group compared with 16 patients (9.2%) in the ILR group (hazard ratio [HR], 0.76 [95% CI, 0.37-1.58]). For the individual components of the primary composite outcome, SCD occurred in 3 patients (1.7%) vs 10 patients (5.8%) in the ILR group (HR, 0.26 [95% CI, 0.07-0.95]) and HSVA occurred in 12 patients (6.7%) vs 6 patients (3.5%), respectively (HR, 1.77 [95% CI, 0.65-4.81]). The rates for all-cause mortality, cardiovascular mortality, and heart failure–related hospitalization were similar between groups. In a prespecified analysis of 6 subgroups, the primary outcome occurred less often in patients younger than 70 years in the ICD group (3.3%) vs patients in the ILR group (10.0%) (HR, 0.28 [95% CI, 0.09-0.89]) but not in those aged 70 years or older (16.9% vs 7.5%, respectively) (HR, 2.33 [95% CI, 0.75-7.26];                       P                        = .01 for interaction).                                                                                Conclusions and Relevance                     Implantation of an ICD did not reduce the composite outcome of SCD or HSVA in patients with an LVEF of 36% to 50% and myocardial scar.                                                           Trial Registration                                            ClinicalTrials.gov Identifier:                       NCT01918215",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-17",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-18",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.14245",
+        "doi": "10.1001/jama.2026.14245",
+        "url": "https://doi.org/10.1001/jama.2026.14245",
+        "title": "A Model Patient",
+        "authors": [
+          "Alisha J. Steigerwald"
+        ],
+        "abstract": "In this narrative medicine essay, a medical student is caught between a before-and-after identity crisis resulting from a dramatic weight loss.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-17",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-18",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.19759",
+        "doi": "10.1001/jama.2026.19759",
+        "url": "https://doi.org/10.1001/jama.2026.19759",
+        "title": "Toward a Healthier Future Through Obesity Prevention and Care",
+        "authors": [
+          "Anne R. Cappola",
+          "Derek C. Angus",
+          "Rexford S. Ahima",
+          "Louis J. Aronne",
+          "Kirsten Bibbins-Domingo",
+          "Lindsay Dawson",
+          "Robert F. Kushner",
+          "Mary M. McDermott",
+          "Timothy S. Anderson",
+          "Jamy D. Ard",
+          "David E. Arterburn",
+          "Rachel L. Batterham",
+          "Kim Boyd",
+          "Jason Brett",
+          "Francesca Celletti",
+          "Rachel Cox",
+          "Deidra C. Crews",
+          "Julie M. Donohue",
+          "Gregory J. Esper",
+          "Gary D. Foster",
+          "Beth Frates",
+          "W. Timothy Garvey",
+          "Kimberly A. Gudzune",
+          "Jens Juul Holst",
+          "Jeffrey Huebner",
+          "John M. Jakicic",
+          "Linong Ji",
+          "Lee M. Kaplan",
+          "Dhruv S. Kazi",
+          "Samuel Klein",
+          "Lotte Bjerre Knudsen",
+          "Rekha B. Kumar",
+          "David S. Ludwig",
+          "T. Joseph Mattingly",
+          "Michelle McRae",
+          "Purnima Menon",
+          "Rhonda E. Monroe",
+          "John Magaña Morton",
+          "Dariush Mozaffarian",
+          "Joseph F. Nadglowski",
+          "Chiadi E. Ndumele",
+          "Marion Nestle",
+          "Alexis Ogdie",
+          "Francisco J. Pasquel",
+          "Jennifer L. Pomeranz",
+          "Nicolaas P. Pronk",
+          "Johanna Ralston",
+          "Joseph S. Ross",
+          "Naveed Sattar",
+          "Hilary K. Seligman",
+          "B. Gabriel Smolarz",
+          "Fatima Cody Stanford",
+          "Shannon N. Zenk",
+          "Hannah Park",
+          "Wendy C. Whitehead"
+        ],
+        "abstract": "Importance                     Obesity is one of the most difficult challenges of the modern era, affecting more than 1 billion people worldwide. Nearly half of US adults and 1 in 5 US children meet the medical definition of having obesity, with major consequences for cardiometabolic, kidney, hepatic, pulmonary, musculoskeletal, reproductive, oncologic, and mental health. Obesity also carries social and economic harms through stigma, discrimination, and bias.                                                           Observations                     Drivers of the obesity epidemic include changes in food production and consumption accompanied by social, economic, and technological shifts that reduce food preparation, disrupt sleep, and decrease physical activity. The burden of these changes is not equally distributed, with higher obesity prevalence among socioeconomically disadvantaged populations. Current prevention measures include nutrition standards, food and menu labeling, school meal policies, sugar-sweetened beverage taxes, community-based lifestyle programs, and public assistance efforts. The impact of these approaches has been inadequate.                     Contemporary clinical management recognizes obesity as a chronic disease characterized by genetic, biological, and behavioral susceptibilities. Access, affordability, tolerability, and the chronicity of use remain major challenges for all available obesity management strategies, including new glucagon-like peptide-1 receptor agonist therapies.                     Potential solutions require a coordinated, multisector response and include efforts to prevent obesity at the societal level, improve care of individuals with obesity, and strengthen research and innovation. Priority areas include improving the food and physical activity environment; strengthening communication and education; strengthening childhood obesity prevention; addressing health inequities; reducing stigma and bias; modernizing obesity care delivery; expanding access to lifestyle, healthy food, medication, and surgical interventions; and supporting long-term treatment adherence and maintenance. Proposed actions include new government policies on food production, labeling, marketing, and school nutrition; modernization of drug evaluation; payment reform to support comprehensive obesity treatment; development of multidisciplinary care models; incentives to promote cross-sector partnerships; and research to advance personalized prevention and treatment strategies.                                                           Conclusions and Relevance                     The emergence of effective obesity management medications offers a significant opportunity to curb the prevalence of obesity. However, no single intervention will be enough. Sustained improvement will require addressing the underlying structural and environmental drivers of obesity, along with person-centered, multilevel strategies that simultaneously improve prevention, reduce stigma, and expand equitable access to evidence-based treatment. Coordinated action across government, health care systems, clinicians, payers, industry, schools, communities, and researchers will be essential to achieving long-term improvement.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-17",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-18",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.26288",
+        "doi": "10.1001/jama.2026.26288",
+        "url": "https://doi.org/10.1001/jama.2026.26288",
+        "title": "Call for Papers on the Future of Obesity",
+        "authors": [
+          "Deborah Wexler",
+          "Kirsten Bibbins-Domingo"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-17",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-18",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2025.16104",
+        "doi": "10.1001/jama.2025.16104",
+        "url": "https://doi.org/10.1001/jama.2025.16104",
+        "title": "JAMA",
+        "authors": [],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-17",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-18",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1001/jama.2026.22008",
         "doi": "10.1001/jama.2026.22008",
         "url": "https://doi.org/10.1001/jama.2026.22008",
@@ -51562,6 +52083,35 @@
           "healthReform"
         ],
         "firstSeen": "2026-11-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmoa2604058",
+        "doi": "10.1056/nejmoa2604058",
+        "url": "https://doi.org/10.1056/nejmoa2604058",
+        "title": "Semaglutide for the Treatment of Obesity in Children 6 to &lt;12 Years of Age",
+        "authors": [
+          "Ania M. Jastreboff",
+          "Nina M. Harder-Lauridsen",
+          "Michelle Van Name",
+          "Antje Körner",
+          "Aaron S. Kelly",
+          "Daniel Weghuber",
+          "Jens-Christian Holm",
+          "Christine Frithioff-Bøjsøe",
+          "Shilpa Middolu",
+          "Tina Buch",
+          "Martin Wabitsch"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-11-16",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-18",
         "fetched_from": "crossref"
       },
       {
@@ -93168,6 +93718,79 @@
     ],
     "agingHealth": [
       {
+        "id": "doi:10.1186/s12877-026-08697-9",
+        "doi": "10.1186/s12877-026-08697-9",
+        "url": "https://doi.org/10.1186/s12877-026-08697-9",
+        "title": "Sociodemographic heterogeneity in the associations between social isolation and depressive symptoms among rural older adults in Zhejiang Province, China",
+        "authors": [
+          "Chaoping Pan",
+          "Jianmin Lin",
+          "Linwei Yu",
+          "Na Cao"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-18",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-18",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08644-8",
+        "doi": "10.1186/s12877-026-08644-8",
+        "url": "https://doi.org/10.1186/s12877-026-08644-8",
+        "title": "Cognitive reserve and dual-task walking performance in older adults with functional limitations",
+        "authors": [
+          "Pei-An Lee",
+          "Thomas G Travison",
+          "Alvaro Pascual-Leone",
+          "Lewis Lipsitz",
+          "On-Yee Lo",
+          "Brad Manor"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-18",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-18",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08707-w",
+        "doi": "10.1186/s12877-026-08707-w",
+        "url": "https://doi.org/10.1186/s12877-026-08707-w",
+        "title": "Association of preoperative and postoperative inflammatory indices with 30-day mortality and intensive care unit length of stay after proximal femoral nailing for intertrochanteric femoral fractures in geriatric patients",
+        "authors": [
+          "Selen Topalel",
+          "Hülya Tosun Söner",
+          "Mehmet Özkılıç",
+          "Fatime Zehra Şenses",
+          "Kudbettin Dinçer",
+          "Osman Uzundere"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-18",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-18",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1186/s12877-026-08689-9",
         "doi": "10.1186/s12877-026-08689-9",
         "url": "https://doi.org/10.1186/s12877-026-08689-9",
@@ -93236,6 +93859,256 @@
         "domains": [
           "elderCare",
           "agingHealth"
+        ],
+        "firstSeen": "2026-11-17",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70838",
+        "doi": "10.1111/jgs.70838",
+        "url": "https://doi.org/10.1111/jgs.70838",
+        "title": "Comparison of Two Dementia Care Interventions and Usual Care on Days Spent at Home: The D‐\n                    <scp>CARE</scp>\n                    Randomized Clinical Trial",
+        "authors": [
+          "Thomas M. Gill",
+          "David B. Reuben",
+          "Katy Araujo",
+          "Jodi L. Liu",
+          "Alan B. Stevens",
+          "Jeff D. Williamson",
+          "Mia Yang",
+          "Rebecca Galloway",
+          "Elena Volpi",
+          "Maya Lichtenstein",
+          "Lee A. Jennings",
+          "Jenny Summapund",
+          "Yunshan Xu",
+          "Peter Peduzzi",
+          "Erich J. Greene"
+        ],
+        "abstract": "ABSTRACT                                        Background                     Days spent at home (DSAH) is a clinically meaningful patient‐centered outcome among persons living with dementia (PLWD).                                                           Objective                     To evaluate whether either of two dementia care interventions increased the number of DSAH compared with each other and with usual care.                                                           Design                     Pragmatic 18‐month 3‐arm randomized clinical trial conducted from June 2019 through August 2023.                                                           Setting                     Four clinical trial sites in North Carolina, Texas, and Pennsylvania.                                                           Participants                     Total of 1968 (90.4% of 2176) community‐living PLWD with complete Medicare data.                                                           Interventions                     Health‐system dementia care (HSDC) co‐management by advance practice providers, community‐based dementia care (CBDC) provided telephonically by a social worker, nurse, or licensed therapist, and usual care (UC), each lasting up to 18 months.                                                           Main Outcome                     The number of DSAH was calculated as 546 (i.e., 18 months) minus the number of overnight days in a health care facility and days not alive, using data from Medicare.                                                           Results                     The percentages of DSAH were 83.5, 84.9, and 83.6 for the HSDC, CBDC, and UC groups, respectively. For each pairwise comparison among the three groups, incidence rate ratios for DSAH approximated 1.0, denoting no differences, and the corresponding mean differences in DSAH were small and not statistically significant: −7.2 (98.3% CI: −31.4 to 17.0) for HSDC versus CBDC; −0.3 (−48.4 to 47.7) for HSDC versus UC; and 6.9 (−41.3 to 55.5) for CBDC versus UC. There were no substantive differences in mean values across the three groups for days in any of the health care facilities. Mean [SD] days not alive were greatest for UC (68.3 [134.4]), followed by HSDC (65.3 [133.3]) and CBDC (60.0 [129.8]).                                                           Conclusions                     In this pragmatic randomized clinical trial of dementia care programs, health system–based and community‐based interventions did not differ from each other or from usual care in the number of DSAH for PLWD over the 18‐month intervention period.                                                           Trial Registration                                            Clinicaltrials.gov                       identifier: NCT03786471",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-11-17",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-18",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08638-6",
+        "doi": "10.1186/s12877-026-08638-6",
+        "url": "https://doi.org/10.1186/s12877-026-08638-6",
+        "title": "Older people’s compliance with external hip protectors and the associated moderators: a systematic review and meta-analysis",
+        "authors": [
+          "Ringo Tang-Long Zhu",
+          "Chen Huang",
+          "Weitao He",
+          "Yu-Yan Luo",
+          "Dahua Shou",
+          "Christina Zong-Hao Ma"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-17",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-18",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08708-9",
+        "doi": "10.1186/s12877-026-08708-9",
+        "url": "https://doi.org/10.1186/s12877-026-08708-9",
+        "title": "Quality of life and spatiotemporal evolution of older adults with disabilities in China (2011–2020)",
+        "authors": [
+          "Chunling Wang",
+          "Yanyan Li"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-17",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-18",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08604-2",
+        "doi": "10.1186/s12877-026-08604-2",
+        "url": "https://doi.org/10.1186/s12877-026-08604-2",
+        "title": "Effects of lidocaine combined with dexmedetomidine or remimazolam on early quality of recovery in older adult patients undergoing lumbar spine surgery: a six-arm randomized controlled trial",
+        "authors": [
+          "Qing Liu",
+          "Jingwen Wei",
+          "Sining Pan",
+          "Xin Lu",
+          "Liyun Zou",
+          "Yubo Xie"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-17",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-18",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08715-w",
+        "doi": "10.1186/s12877-026-08715-w",
+        "url": "https://doi.org/10.1186/s12877-026-08715-w",
+        "title": "Discursive construction of China’s aged care system over 32 years (1994–2026): a longitudinal discourse analysis of national policy documents and implications for geriatric care practice",
+        "authors": [
+          "Wei CHENG",
+          "Xiangdong WANG",
+          "Danyang MA",
+          "Guohui DU",
+          "Juan CUI",
+          "Zhaofeng ZHANG",
+          "Ting ZHAO"
+        ],
+        "abstract": "Abstract                                        Background                     China’s population aged 60 and above surpassed 300 million in 2025, generating substantial demand for geriatric care services. While prior studies have examined specific aged care policies, none have systematically analyzed how national policy discourse has constructed geriatric care governance across three decades.                                                           Methods                     We conducted a longitudinal discourse analysis of all 96 national-level aged care policy documents issued between 1994 and 2026, integrating systematic quantitative content analysis (a 69-keyword coding dictionary across nine discourse dimensions; inter-coder reliability Cohen’s κ = 0.87) within a qualitative critical discourse analysis following Fairclough’s three-dimensional model. Python 3.12 was used for text processing. Documents were periodized into four stages based on critical demographic and policy junctures. Reporting followed the Standards for Reporting Qualitative Research (SRQR).                                                           Results                     Aged care policy discourse evolved through four stages: residual welfare (1994–2005), socialized care emergence (2006–2012), institutional expansion (2013–2020), and active aging paradigm (2021–2026). Three discursive processes were identified: naming, semantic expansion, and label upgrading. Inter-departmental discourse competition among eight central government ministries was associated with a “competitive-collaborative discourse synergy” pattern. The core concept “elderly care service” appeared 2,081 times across the corpus, while mental health support (45 mentions) and rural elderly care (160 mentions) received comparatively limited discursive attention.                                                           Conclusions                     China’s aged care policy evolution exemplifies a pattern of “discursive policy layering”, the incremental accretion of policy vocabulary without the displacement of prior frameworks. To improve geriatric care quality and health equity, future policy development should explicitly integrate mental health and rural elderly care into core policy vocabulary, establish formal cross-ministerial coordination mechanisms led by a high-level national aging agency, and develop systematic frameworks for family caregiver support including financial compensation, training, and respite care.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-17",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-18",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08717-8",
+        "doi": "10.1186/s12877-026-08717-8",
+        "url": "https://doi.org/10.1186/s12877-026-08717-8",
+        "title": "Role of central obesity and overall obesity on cardiorespiratory fitness in older adults with dynapenic obesity",
+        "authors": [
+          "Sothida Nantakool",
+          "Nadnapa Promlan",
+          "Punyisa Sritonchai",
+          "Yardpirun Sangsuk",
+          "Supatcha Konghakote",
+          "Busaba Chuatrakoon"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-17",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-18",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08596-z",
+        "doi": "10.1186/s12877-026-08596-z",
+        "url": "https://doi.org/10.1186/s12877-026-08596-z",
+        "title": "Effectiveness, acceptability, and completeness of intervention reporting of psychological interventions for people with dementia or mild cognitive impairment: a mixed-methods systematic review",
+        "authors": [
+          "Oscar Blomberg",
+          "Frida Svedin",
+          "Ida Österman Menander",
+          "Paul Farrand",
+          "Marie Birkebaek Pihl",
+          "Anders Brantnell",
+          "Louise von Essen",
+          "Holly Victoria Rose Sugg",
+          "Anna Cristina Åberg",
+          "Joanne Woodford"
+        ],
+        "abstract": "Abstract                                        Background                     People living with dementia or mild cognitive impairment (MCI) commonly experience difficulties with mental health and psychological well-being. Given the dyadic interdependence of well-being, these difficulties may also affect informal caregivers. However, access to psychological interventions remains limited for people living with dementia. Our overall aim was to perform a systematic review and meta-analysis of the current research evidence for psychological interventions intended to improve mental health and psychological well-being in people living with dementia or MCI.                                                           Methods                     We systematically searched electronic databases ASSIA, CENTRAL, CINAHL, EMBASE, MEDLINE and PsycINFO for eligible randomized controlled trials (RCTs) and identified qualitative studies associated with eligible RCTs via hand searching. Two reviewers independently screened titles and abstracts, assessed full-texts, and completed quality appraisal. Quantitative studies with sufficient data were included in a meta-analysis, and qualitative studies were synthesized using framework analysis. A convergent mixed-methods design was adopted to integrate quantitative and qualitative results in the discussion.                                                           Results                                            We included 15 quantitative studies in the review (                       n                        = 1,742 people living with dementia or MCI). Our meta-analysis showed a small-to-moderate effect size favoring the intervention for depressive symptoms in people living with dementia or MCI (                       n                        = 11 studies; Hedges’ g = -0.36 [95% CI = -0.61 to -0.11]                       p                       &lt;.05). Substantial heterogeneity was observed, prediction interval crossed the null, and certainty of evidence was very low. No effect was found for depressive symptoms in caregivers (                       n                        = 5 studies; Hedges’ g = 0.01,                       p                       &gt;.05). It was not appropriate to conduct a meta-analysis for other outcomes associated with mental health and psychological well-being in people living with dementia, MCI, or their caregivers due to insufficient data. We included six qualitative studies related to the included quantitative studies. In our meta-synthesis (                       n                        = 6 studies), we identified factors associated with intervention acceptability corresponding to six of the seven Theoretical Framework of Acceptability constructs. Completeness of intervention reporting was inadequate across studies.                                                                                Conclusion                     Higher-quality RCTs with larger sample sizes, improved intervention reporting, and methodological rigor are needed to strengthen the evidence base for psychological interventions for people living with dementia or MCI, and their caregivers. Further research should explore intervention acceptability from the perspectives of key interest-holders.                                                           PROSPERO registration number                     CRD42023400514.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-17",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-18",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08587-0",
+        "doi": "10.1186/s12877-026-08587-0",
+        "url": "https://doi.org/10.1186/s12877-026-08587-0",
+        "title": "Multidimensional swallowing assessment in older adults: a scoping review",
+        "authors": [
+          "Vera Braga",
+          "Ricardo Braga",
+          "Ana Filipa Ramos",
+          "Helena José"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-17",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-18",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261507060",
+        "doi": "10.1177/13872877261507060",
+        "url": "https://doi.org/10.1177/13872877261507060",
+        "title": "Development and regional validation of a literacy-fair verbal cognitive screen for older adults in India",
+        "authors": [
+          "Bhrigu Jain",
+          "Sharmistha Dey",
+          "A. B. Dey"
+        ],
+        "abstract": "Background                     Brief cognitive screens could narrow India's dementia detection gap, but widely used instruments depend on reading, writing, or clock-drawing and lose accuracy in the large illiterate older population; Alzheimer's disease and related dementias drive most of this burden.                                                           Objective                     To derive and validate a fully verbal, literacy-fair candidate cognitive screening model.                                                           Methods                     In LASI-DAD Wave 1 (n = 4096) we derived a screen from prop-free verbal tasks (LASSO then forward selection) against algorithmic DSM-5 classification, compared discrimination (AUC) with reconstructed Hindi Mental State Examination (HMSE), Mini-Cog, Community Screening Instrument for Dementia (CSID) and Telephone Interview for Cognitive Status (TICS), performed leave-one-region-out validation and addressed incorporation bias using clinician Clinical Dementia Rating (CDR) ratings (n = 2527).                                                           Results                     The sample was 57.5% illiterate; weighted prevalence was 26.7% (any impairment) and 9.0% (dementia). A four-item model—word-list learning, orientation to time, object naming, animal fluency (“Verbal-4”)—reached AUC 0.757 for any impairment and 0.785 for dementia, indistinguishable from the HMSE, higher than the Mini-Cog, CSID and TICS (all p &lt; 0.001), and similar across literacy (0.778 versus 0.776). In the non-random CDR-rated subsample, dementia discrimination was 0.872 against the clinician CDR versus 0.775 against the DSM-5 algorithm. Any-impairment discrimination attenuated in South India (0.688), analyses suggesting substantial case-mix and/or reference-standard contributions. A positive screen predicted mortality (adjusted HR 1.63, 95% CI 1.39–1.90).                                                           Conclusions                     This candidate screening model matched full-battery accuracy without a literacy gradient, held against a partially independent clinician standard, and carried independent prognostic information; it requires prospective calibration into an operational score before field use.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-11-17",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-18",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1215/00703370-12912843",
+        "doi": "10.1215/00703370-12912843",
+        "url": "https://doi.org/10.1215/00703370-12912843",
+        "title": "DNA, Self-reported Ancestry, and Social Scientific Inquiry",
+        "authors": [
+          "Luyin Zhang",
+          "Sam Trejo"
+        ],
+        "abstract": "Highlights                   All humans share one vast family tree, and our place in it leaves a partial imprint on our DNA. Genetic similarity proportions estimate how closely one’s DNA resembles that of various reference groups. Our framework estimates genetic similarity while limiting bias from researchers’ cultural schemas. Within ancestry groups, genetic similarity varies widely and indexes racialized physical traits. Genetic data offer researchers a lens for studying, not disputing, the social construction of race.",
+        "source": "Demography",
+        "issn": "0070-3370",
+        "date": "2026-11-16",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "socialSecurity"
         ],
         "firstSeen": "2026-11-17",
         "fetched_from": "crossref"
@@ -93556,27 +94429,6 @@
         "domains": [
           "elderCare",
           "agingHealth"
-        ],
-        "firstSeen": "2026-11-17",
-        "fetched_from": "crossref"
-      },
-      {
-        "id": "doi:10.1215/00703370-12912843",
-        "doi": "10.1215/00703370-12912843",
-        "url": "https://doi.org/10.1215/00703370-12912843",
-        "title": "DNA, Self-reported Ancestry, and Social Scientific Inquiry",
-        "authors": [
-          "Luyin Zhang",
-          "Sam Trejo"
-        ],
-        "abstract": "Highlights                   All humans share one vast family tree, and our place in it leaves a partial imprint on our DNA. Genetic similarity proportions estimate how closely one’s DNA resembles that of various reference groups. Our framework estimates genetic similarity while limiting bias from researchers’ cultural schemas. Within ancestry groups, genetic similarity varies widely and indexes racialized physical traits. Genetic data offer researchers a lens for studying, not disputing, the social construction of race.",
-        "source": "Demography",
-        "issn": "0070-3370",
-        "date": "2026-11-16",
-        "subjects": [],
-        "domains": [
-          "agingHealth",
-          "socialSecurity"
         ],
         "firstSeen": "2026-11-17",
         "fetched_from": "crossref"
@@ -131242,6 +132094,33 @@
     ],
     "socialWork": [
       {
+        "id": "doi:10.1007/s10896-026-01205-y",
+        "doi": "10.1007/s10896-026-01205-y",
+        "url": "https://doi.org/10.1007/s10896-026-01205-y",
+        "title": "Screening Tools and Interventions Used by Healthcare Professionals to Identify and Support Victims of Coercive Control: a Scoping Review",
+        "authors": [
+          "Anna Sydor",
+          "Deborah Edwards",
+          "Dominic Roche",
+          "Catherine Dunn",
+          "Jessica Baillie",
+          "Clare Hawker",
+          "Elizabeth Gillen",
+          "Julia Sanders",
+          "Simon Moore"
+        ],
+        "abstract": "Abstract                                        Purpose                     Coercive and controlling behaviour can have long-term consequences for victims and often precedes physical violence or homicide. Due to its subtle presentation and the normalisation of abusive behaviours, it frequently goes unrecognised. Healthcare settings provide an opportunity to identify abuse, enabling earlier intervention and potentially better long-term outcomes. This review sought to identify screening tools and interventions used by healthcare professionals to detect and support individuals experiencing domestic abuse, and to evaluate their relevance for recognising and responding to coercive control.                                                           Methods                     JBI scoping review methodology was used. Any screening tool undertaken by a healthcare professional in an OECD country was included as well as any intervention that a survivor could be referred to; 149 studies met inclusion criteria. Relevance to Coercive control was refined through consultation with professionals and individuals with lived experience.                                                           Results                                            Thirty-nine screening tools and seventy-one interventions were identified. Most tools (                       n                        = 35) focused on specific forms of violence and were mapped into thematic domains. Ninety-two studies described interventions, although detail varied. No tool or intervention was specifically designed to identify or respond to coercive control.                                                                                Conclusions                     Existing screening tools and interventions are largely violence-focused and are insufficient for identifying or responding to coercive control. Recognition and disclosure depend on professional knowledge, confidence, and supportive organisational systems rather than tools alone. The absence of responses specific to coercive control represents a significant gap in healthcare practice, underscoring the need for trauma-informed, relational, and system-level approaches that better reflect survivors’ lived experiences.",
+        "source": "Journal of Family Violence",
+        "issn": "0885-7482",
+        "date": "2026-11-18",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-11-18",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1007/s10896-026-01209-8",
         "doi": "10.1007/s10896-026-01209-8",
         "url": "https://doi.org/10.1007/s10896-026-01209-8",
@@ -143783,10 +144662,10 @@
   },
   "totals": {
     "socialSecurity": 1626,
-    "elderCare": 1031,
-    "healthReform": 1542,
-    "agingHealth": 1479,
-    "socialWork": 547
+    "elderCare": 1042,
+    "healthReform": 1550,
+    "agingHealth": 1491,
+    "socialWork": 548
   },
   "feeds_ok": 41
 }
