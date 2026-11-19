@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-18",
-  "fetched": "2026-11-18T08:44:41+00:00",
+  "date": "2026-11-19",
+  "fetched": "2026-11-19T08:59:56+00:00",
   "domains": {
     "socialSecurity": [
       {
@@ -25447,6 +25447,74 @@
     ],
     "elderCare": [
       {
+        "id": "doi:10.1186/s12877-026-08566-5",
+        "doi": "10.1186/s12877-026-08566-5",
+        "url": "https://doi.org/10.1186/s12877-026-08566-5",
+        "title": "Care home activity providers facilitating public involvement in research as meaningful activity for care home residents (CHAPPI)",
+        "authors": [
+          "Megan Davies",
+          "Elspeth Mathie",
+          "Lisa Irvine",
+          "Michelle Drury-Mulholland",
+          "Marlene Kelly",
+          "Anne Killett"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-19",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-19",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08676-0",
+        "doi": "10.1186/s12877-026-08676-0",
+        "url": "https://doi.org/10.1186/s12877-026-08676-0",
+        "title": "Directional coupled trajectories of stress burden and physical function among older adults in Taiwan",
+        "authors": [
+          "Duan-Rung Chen",
+          "Chun-Tung Kuo",
+          "Yu-Kang Tu"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-19",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-19",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08721-y",
+        "doi": "10.1186/s12877-026-08721-y",
+        "url": "https://doi.org/10.1186/s12877-026-08721-y",
+        "title": "A retrospective medico-legal analysis of geriatric forensic deaths: the interplay between living arrangement, trauma, and autopsy status",
+        "authors": [
+          "Zafer LİMAN",
+          "Uğur KAYHAN"
+        ],
+        "abstract": "Abstract                                        Background                     This study aims to evaluate the sociodemographic characteristics, scene features, injury mechanisms, and autopsy status of geriatric forensic deaths (≥ 65 years), and to examine the associations between living arrangements, scenes of occurrence, and manners of death.                                                           Methods                                            A retrospective analysis was conducted on 130 geriatric forensic cases undergoing autopsy or external examination between 2018 and 2022 in Karabük, Turkey. Demographic data, scene characteristics, living arrangements, and toxicological findings were analyzed using SPSS 27.0. Categorical relationships were evaluated using Chi-square and exact tests (                       p                        &lt; 0.05).                                                                                Results                                            The median age of the cases was 74 years (IQR: 12 years), with a male predominance (69.2%); a full autopsy was performed in 89.2% of cases. Accidental deaths were the most frequent manner of death (48.5%), while natural death (40.0%) was the most frequent Death Category, followed by blunt trauma (37.7%). Among natural deaths, cardiovascular causes were the most common (51.9%). Living arrangement was significantly associated with scene of occurrence, type of death, and manner of death. Among individuals living alone, 82.1% of the deaths occurred at the residence. Homicide-related deaths were observed in 2 individuals living alone (7.1%) and 1 individual living with family (1.1%); however, the small number of homicide cases precludes further interpretation of this descriptive difference. Autopsy status differed significantly across scene categories (                       p                        &lt; 0.001), although this association was interpreted cautiously because of sparse cell counts. A full autopsy was performed in all cases in the Residence/Annex, Public/Facility Settings, and Workplace groups, whereas 14 of 29 cases (48.3%) in the Outdoor Spaces/Roadways group were concluded by external examination. Among the five intoxication cases with negative postmortem toxicological findings, three were classified as wild mushroom poisoning based on the integrated evaluation of documented exposure, antemortem clinical findings, and compatible postmortem findings.                                                                                Conclusions                     Geriatric forensic deaths showed distinct socio-spatial patterns according to living arrangement and scene of occurrence. The predominance of deaths occurring at the residence among individuals living alone suggests that the domestic setting may represent an important context for targeted investigation of potentially preventable hazards in this group. However, because population denominators according to living arrangements were unavailable, these findings should not be interpreted as evidence of increased incidence or relative vulnerability among older adults living alone. Further studies incorporating measures of social support, environmental conditions, and circumstances surrounding death are needed to clarify the mechanisms underlying these observed patterns.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-19",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-19",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1186/s12877-026-08697-9",
         "doi": "10.1186/s12877-026-08697-9",
         "url": "https://doi.org/10.1186/s12877-026-08697-9",
@@ -25517,6 +25585,273 @@
           "agingHealth"
         ],
         "firstSeen": "2026-11-18",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/geront/gnag257",
+        "doi": "10.1093/geront/gnag257",
+        "url": "https://doi.org/10.1093/geront/gnag257",
+        "title": "Loneliness intervention in later life: a gerontological social work perspective",
+        "authors": [
+          "Joan Casas-Martí",
+          "Sonia García-Aguña",
+          "Pablo De Gea-Grela",
+          "Rubén Yusta-Tirado"
+        ],
+        "abstract": "Abstract                                        Background and Objectives                     Loneliness in later life is recognized as a determinant of health and wellbeing, yet its integration into gerontological social services and social work practice remains underexplored. This study examines how social services address loneliness among older adults, focusing on its incorporation into intervention processes, the distribution of responses across intervention levels, and the organizational barriers shaping preventive approaches.                                                           Research Design and Methods                     An exploratory mixed-methods study was conducted in Barcelona (Spain) with 388 participants. Qualitative data were obtained through 15 interviews and two focus groups with 22 professionals working in services for older adults. The quantitative component consisted of a questionnaire completed by 351 gerontological social workers. Data were analyzed using grounded-theory-informed coding and descriptive statistics, with findings integrated through triangulation.                                                           Results                     Loneliness was addressed in intervention processes mainly once it had developed into an established problem, reflecting the predominance of secondary intervention. Preventive engagement was less frequent and constrained by crisis-driven access pathways, limited time and resources, and eligibility frameworks prioritizing administratively codified vulnerability. Participants described gerontological social work as playing a central coordinating role within interdisciplinary practice. Core actions emphasized the professional relationship, empowerment, family involvement, and community activation, whereas structural strategies such as addressing ageism and promoting digital inclusion were less consistently embedded.                                                           Discussion and Implications                     Findings reveal a preventive governance gap: loneliness is recognized as relational and structural, yet service architectures remain largely reactive. Strengthening responses requires aligning eligibility criteria with life-course transitions and reinforcing community-based infrastructures capable of sustaining belonging over time.",
+        "source": "The Gerontologist",
+        "issn": "0016-9013",
+        "date": "2026-11-18",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-19",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/geront/gnag258",
+        "doi": "10.1093/geront/gnag258",
+        "url": "https://doi.org/10.1093/geront/gnag258",
+        "title": "Smart Cities and Healthy Ageing: A Rapid Scoping Review of Enablers, Barriers, and Equity Considerations for Age-Inclusive Urban Transformation",
+        "authors": [
+          "Jed Montayre",
+          "Nga Kwan Karen Lee",
+          "Kar Kan Ling"
+        ],
+        "abstract": "Abstract                                        Background and Objectives                     Smart-city initiatives have become increasingly prominent in urban policy, yet evidence on how they relate to healthy ageing remains fragmented. This rapid scoping review synthesised evidence on smart-city developments relevant to healthy ageing across diverse contexts.                                                           Research Design and Methods                     Five databases and a targeted ScienceDirect journal search were used to identify studies published between 2015 and 2025. Eligible studies examined digitally enabled or data-informed urban or community systems relevant to healthy ageing; standalone individual or domestic technologies without wider system integration were excluded.                                                           Results                     Twenty-six studies were included, of which 19 (73.1%) were published between 2023 and 2025 and 14 were conducted in Asia. Evidence clustered into four domains: smart governance, participation, and digital public services; smart mobility, public space, and everyday access; data-informed planning and age-friendly environments; and community-integrated care, living, and service ecosystems. Reported outcomes primarily concerned mobility, accessibility, safety, social participation, autonomy, digital inclusion, service access, and ageing in place. Key enablers included accessible design, human support, digital and non-digital service options, service integration, and co-design. Barriers included limited digital literacy, affordability and connectivity constraints, privacy concerns, inaccessible interfaces, and fragmented governance and services.                                                           Discussion and Implications                     Smart-city development was most relevant to healthy ageing when digital and data-enabled systems complemented accessible environments, responsive services, and opportunities for participation. Age-inclusive smart-city development should integrate technology with age-friendly environments, human support, equitable access, and meaningful involvement of older adults. Longitudinal and age-specific evaluations using validated functional and wellbeing outcomes remain limited.",
+        "source": "The Gerontologist",
+        "issn": "0016-9013",
+        "date": "2026-11-18",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-19",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/gerona/glag264",
+        "doi": "10.1093/gerona/glag264",
+        "url": "https://doi.org/10.1093/gerona/glag264",
+        "title": "Electro-Responsive Biomaterials as Mechanobiological Regulators of Infection and Immunity in Aging Tissues",
+        "authors": [
+          "Sumaira Kutub",
+          "Seungil Kim"
+        ],
+        "abstract": "Abstract                   Aging is accompanied by profound and coordinated alterations in immune function, tissue mechanics, and bioelectrical signaling that collectively increase susceptibility to infection and impair tissue repair. Immunosenescence, chronic inflammation (inflammaging), vascular insufficiency, and dysregulated mechanotransduction create tissue microenvironments in which conventional antimicrobial therapies exhibit reduced efficacy and increased potential for adverse effects in older adults. Increasing evidence indicates that endogenous electrical fields and mechanically coupled bioelectrical cues play roles in directing immune cell migration, coordinating wound healing, and regulating host–pathogen interactions—processes that are increasingly recognized to be altered during aging.                   Electro‑responsive biomaterials, including conducting polymeric nanoparticles and hydrogels, have recently emerged as versatile platforms capable of interfacing with these age‑altered mechanobiological pathways. By translating externally applied or self‑generated electrical stimuli into controlled drug release, direct antimicrobial activity, immune modulation, and pro‑regenerative signaling, these materials offer opportunities for spatiotemporally controlled therapeutic interventions, although their added clinical benefit in older adults remains to be established.                   In this review, we examine recent advances in electro‑responsive nanoparticles and hydrogels—particularly systems based on polypyrrole, poly(3,4‑ethylenedioxythiophene), and polyaniline—and critically evaluate their mechanisms of action in the context of aging‑associated infection and tissue dysfunction. We highlight how age‑related changes in tissue mechanics, immune responsiveness, and bioelectrical signaling influence biomaterial performance, and discuss opportunities for integrating electro‑responsive platforms into wearable, implantable, and self‑powered systems for regenerative medicine and geriatric care. Finally, we identify key translational challenges—including biocompatibility in aged tissues, dosing of electrical stimuli, and regulatory considerations—and outline future directions for leveraging electro‑mechanobiological biomaterials to improve infection control and tissue regeneration in aging populations.",
+        "source": "The Journals of Gerontology, Series A: Biological Sciences and Medical Sciences",
+        "issn": "1079-5006",
+        "date": "2026-11-18",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "elderCare"
+        ],
+        "firstSeen": "2026-11-19",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/gerona/glag262",
+        "doi": "10.1093/gerona/glag262",
+        "url": "https://doi.org/10.1093/gerona/glag262",
+        "title": "Differences in ectopic adiposity of skeletal muscle and the liver among Black Caribbeans, Black Americans, and White Americans",
+        "authors": [
+          "Megan M Marron",
+          "Sangeeta Nair",
+          "John Jeffrey Carr",
+          "James G Terry",
+          "Ryan Cvejkus",
+          "Joseph M Zmuda",
+          "David R Jacobs",
+          "Lyn M Steffen",
+          "C Barrett Bowling",
+          "Victor Wheeler",
+          "Iva Miljkovic"
+        ],
+        "abstract": "Abstract                                        Background                     Ectopic adiposity of skeletal muscle and the liver share common pathophysiological mechanisms predictive of physical disability. Here, we sought to characterize muscle and liver adiposity among Black Caribbeans, Black Americans, and White Americans and determine whether muscle and liver adiposity predict future gait speed.                                                           Methods                     Computed tomography-derived abdominal lean muscle attenuation, intermuscular adipose tissue volume, and liver attenuation were measured in 749 Black Caribbean men ages 50-91 from the Tobago Longitudinal Study of Aging and 1061 Black and White American men and women ages 42-57 from the Coronary Artery Risk Development in Young Adults (CARDIA) study. Gait speed was measured 7-13 years later.                                                           Results                     On average, Black Caribbean men had lean muscle attenuation that was ≥8 Hounsfield Unit (HU) higher and intermuscular adipose tissue that was ≥11 cm3 lower than Americans (p-values&amp;lt;0.0001), even after adjusting for age, height, walking, smoking, alcohol, energy intake, total muscle volume, and visceral adiposity. White and Black American women had lean muscle attenuation that was ≥3 HU lower and intermuscular adipose tissue that was ≥2% more of their total muscle volume (p-values&amp;lt;0.0001). White American men had liver attenuation that was ≥4 HU lower (p-values&amp;lt;0.0002), which was explained by higher visceral adiposity. Higher lean muscle attenuation and lower intermuscular adiposity were associated with faster future gait speeds (p-values≤0.007).                                                           Conclusions                     Black Caribbean men had a more favorable muscle composition, specifically higher lean muscle attenuation and lower intermuscular adiposity; characteristics that predicted better physical performance. Identifying factors explaining less myosteatosis may indicate targets to prevent physical disability.",
+        "source": "The Journals of Gerontology, Series A: Biological Sciences and Medical Sciences",
+        "issn": "1079-5006",
+        "date": "2026-11-18",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "elderCare"
+        ],
+        "firstSeen": "2026-11-19",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70805",
+        "doi": "10.1111/jgs.70805",
+        "url": "https://doi.org/10.1111/jgs.70805",
+        "title": "Healthcare‐Related\n                    <scp>AI</scp>\n                    Priorities for\n                    <scp>US</scp>\n                    Older Adults—Results From a National Survey",
+        "authors": [
+          "Nancy L. Schoenborn",
+          "Phillip Phan",
+          "Haiyang Yang",
+          "Soo‐Hoon Lee",
+          "Thomas K. M. Cudjoe"
+        ],
+        "abstract": "",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-11-18",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-19",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08630-0",
+        "doi": "10.1186/s12877-026-08630-0",
+        "url": "https://doi.org/10.1186/s12877-026-08630-0",
+        "title": "Hospital Frailty Risk Score and treatment allocation, treatment intolerance, healthcare utilization, and survival in older adults with hepatocellular carcinoma in C​hina: a single-center retrospective cohort study",
+        "authors": [
+          "Yuyan Xu",
+          "Yaohong Wen",
+          "Hongkun Tan",
+          "Lei Cai",
+          "Mingxin Pan"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-18",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-19",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08552-x",
+        "doi": "10.1186/s12877-026-08552-x",
+        "url": "https://doi.org/10.1186/s12877-026-08552-x",
+        "title": "The longitudinal association between physical exercise and relative health disadvantage among older adults",
+        "authors": [
+          "Kai Guo",
+          "Chenya Li",
+          "Yihao Kang"
+        ],
+        "abstract": "Abstract                                        Background                     Health inequality among older adults is a critical issue in the governance of health equity within the context of population aging, reflecting structural disparities in health resources, capabilities, and outcomes across different older adult groups. Physical exercise, as a key form of health behavior intervention and active aging practice, may improve the overall health status of older adults, while its association with their relative disadvantage within the health distribution also warrants further investigation.                                                           Methods                     This study utilizes panel data from the 2020 and 2023 waves of the China Longitudinal Aging Social Survey (CLASS) to characterize older adults’ relative health disadvantage within the contemporaneous health distribution using an individual-level Kakwani Relative Deprivation Index. Employing individual fixed-effects models, mediation analysis, moderation analysis, and propensity score matching, the study systematically examines the association between physical exercise and relative health disadvantage among older adults and its potential pathways.                                                           Results                     The findings indicate that physical exercise is significantly associated with lower levels of relative health disadvantage, and this conclusion remains robust across multiple robustness checks. Analysis of potential pathways shows a significant negative indirect effect through self-efficacy, whereas the indirect effect through social networks is opposite in direction to the direct effect, indicating a statistical masking effect. Moderation analysis shows that the lower the subjective economic status, the stronger the negative association between physical exercise and relative health disadvantage. Heterogeneity analysis further shows that this negative association is more pronounced in central and western regions, with no statistically significant difference between the two, whereas the between-group differences by age and chronic disease status do not reach statistical significance. Further analysis indicates that physical exercise is significantly associated with lower relative deprivation in self-rated health, whereas the corresponding association in the mental health dimension does not reach statistical significance.                                                           Conclusions                     These findings extend research on physical exercise and health inequality among older adults from the perspective of individual relative health disadvantage and provide empirical evidence and policy implications for optimizing public sports services for older adults, enhancing the health agency of disadvantaged groups, and advancing health equity governance.                                                           Clinical trial number                     Not applicable.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-18",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-19",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08701-2",
+        "doi": "10.1186/s12877-026-08701-2",
+        "url": "https://doi.org/10.1186/s12877-026-08701-2",
+        "title": "Structural MRI-based machine learning classification of mild cognitive impairment in the Alzheimer’s Disease Neuroimaging Initiative",
+        "authors": [
+          "Liu Wu",
+          "Yu-Ting Dong",
+          "Xiao-Xiang Sun",
+          "Yong Chen",
+          "Xiao Luo",
+          "Xin Mu",
+          "Ze-Jun Chen"
+        ],
+        "abstract": "Abstract                                        Background                     Structural magnetic resonance imaging (MRI)-based machine learning has shown potential for distinguishing cognitively normal (CN) individuals from those with mild cognitive impairment (MCI). However, previous classification studies have often emphasized discrimination, while calibration, comparative evaluation across different algorithms, and anatomically interpretable model contributions have been less consistently integrated. Moreover, the identification of important MRI features does not necessarily establish their independent biological significance. This study aimed to develop and internally evaluate a structural MRI-based machine-learning framework for CN–MCI classification using data from the Alzheimer’s Disease Neuroimaging Initiative (ADNI).                                                           Methods                     This retrospective cross-sectional study included 2,649 participants aged over 65 years from ADNI, comprising 1,285 CN individuals and 1,364 participants with MCI. Eighteen MRI-derived morphometric features selected using least absolute shrinkage and selection operator (LASSO) regression in the training set were combined with age, sex, and education. Five algorithms—logistic regression, support vector machine (SVM), random forest, Light Gradient Boosting Machine (LightGBM), and extreme gradient boosting (XGBoost)—were compared using an internally held-out test set. Model performance was assessed using discrimination, classification metrics, calibration, and decision-curve analysis. Shapley Additive Explanations (SHAP) were used for post hoc model interpretation.                                                           Results                                            The XGBoost-based final model achieved an area under the receiver operating characteristic curve (AUC) of 0.917 (95% confidence interval [CI], 0.889–0.945), compared with 0.865 (95% CI, 0.836–0.894) for logistic regression (paired DeLong                       P                        = 0.048). The final model achieved an accuracy of 0.847, sensitivity of 0.854, specificity of 0.839, and Brier score of 0.143. The most influential MRI features included bilateral inferior lateral ventricular and hippocampal volumes and left middle temporal cortical thickness. These rankings describe contributions to model predictions rather than independently established biomarkers or disease mechanisms.                                                                                Conclusions                     A structural MRI-based machine-learning framework incorporating demographic information demonstrated good internal discrimination between CN and MCI participants in the ADNI cohort. Calibration assessment and post hoc feature interpretation provided complementary information beyond discrimination alone. The findings should be interpreted as cohort-specific classification evidence, and independent external validation is required before clinical application.                                                           Clinical trial number                     Not applicable.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-18",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-19",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08677-z",
+        "doi": "10.1186/s12877-026-08677-z",
+        "url": "https://doi.org/10.1186/s12877-026-08677-z",
+        "title": "Lifestyle interventions for improving social function and quality of life in older adults: a network meta-analysis",
+        "authors": [
+          "Chaofan Wang",
+          "Xiang Qiu",
+          "Ni Gong",
+          "Xinfeng Lai",
+          "Jiagui Liang"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-18",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-19",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08450-2",
+        "doi": "10.1186/s12877-026-08450-2",
+        "url": "https://doi.org/10.1186/s12877-026-08450-2",
+        "title": "Health utility values and associated factors among hospitalized older adults with chronic diseases in Western China: a cross-sectional study",
+        "authors": [
+          "Zhiping Liu",
+          "Xin Tian",
+          "Rong Li",
+          "Xue Zhang",
+          "Jilong Duan",
+          "Wenyue Zhang",
+          "Hongyan Lu"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-18",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-19",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08666-2",
+        "doi": "10.1186/s12877-026-08666-2",
+        "url": "https://doi.org/10.1186/s12877-026-08666-2",
+        "title": "Loneliness, social isolation, and their change patterns as predictors of incident depressive symptoms in Chinese older adults: a prospective cohort study",
+        "authors": [
+          "Chuiran Kong",
+          "Jing Qi",
+          "Xiaozhen Song",
+          "Wangmu",
+          "Peiyuan Qiu",
+          "Yang Wan"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-18",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-19",
         "fetched_from": "crossref"
       },
       {
@@ -51700,6 +52035,455 @@
       }
     ],
     "healthReform": [
+      {
+        "id": "doi:10.1056/nejmoa2606997",
+        "doi": "10.1056/nejmoa2606997",
+        "url": "https://doi.org/10.1056/nejmoa2606997",
+        "title": "Aspirin Omission at the Time of Primary Percutaneous Coronary Intervention in STEMI",
+        "authors": [
+          "Kuniaki Takahashi",
+          "Ken Kozuma",
+          "Yoshihiro Morino",
+          "Kosuke Kashiwabara",
+          "Hiromasa Otake",
+          "Satoru Suwa",
+          "Mamoru Nanasato",
+          "Takashi Muramatsu",
+          "Hitoshi Anzai",
+          "Akihiro Shirakabe",
+          "Masashi Yamamoto",
+          "Yasuhide Asaumi",
+          "Masashi Sakuma",
+          "Hideki Okayama",
+          "Keisuke Nakabayashi",
+          "Nobuhiko Ogata",
+          "Kentaro Jujo",
+          "Kohei Wakabayashi",
+          "Takanori Kusuyama",
+          "Yuko Onishi",
+          "Kazuhiro Ashida",
+          "Yuya Mitsuhashi",
+          "Yuji Nishimoto",
+          "Seiji Yamazaki",
+          "Nehiro Kuriyama",
+          "Yuji Ikari",
+          "Gaku Nakazawa"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-11-19",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-19",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmc2517823",
+        "doi": "10.1056/nejmc2517823",
+        "url": "https://doi.org/10.1056/nejmc2517823",
+        "title": "Revertant Autograft Replacement in Recessive Dystrophic Epidermolysis Bullosa",
+        "authors": [
+          "Akiharu Kubo",
+          "Hisato Suzuki",
+          "Noriko Ono",
+          "Sonoko Saito",
+          "Satomi Aoki",
+          "Yuki Ogawa",
+          "Hiroto Horikawa",
+          "Yoshio Nakamura",
+          "Takeru Funakoshi",
+          "Tomoyo Tanaka",
+          "Masukazu Inoie",
+          "Kenjiro Kosaki",
+          "Masayuki Amagai"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-11-19",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-19",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmc2610895",
+        "doi": "10.1056/nejmc2610895",
+        "url": "https://doi.org/10.1056/nejmc2610895",
+        "title": "Enfortumab Vedotin and Pembrolizumab for Cisplatin-Eligible Bladder Cancer",
+        "authors": [],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-11-19",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-19",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmc2611609",
+        "doi": "10.1056/nejmc2611609",
+        "url": "https://doi.org/10.1056/nejmc2611609",
+        "title": "Meningococcal B Vaccine to Prevent Gonorrhea",
+        "authors": [],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-11-19",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-19",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmcpc2603186",
+        "doi": "10.1056/nejmcpc2603186",
+        "url": "https://doi.org/10.1056/nejmcpc2603186",
+        "title": "Case 33-2026: A 73-Year-Old Woman with Fever, Weight Loss, and Leg Weakness",
+        "authors": [
+          "Michael P. Janjigian",
+          "Monica Cheng",
+          "Cory A. Perugino",
+          "Jonathan S. Hausmann"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-11-19",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-19",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejme2612576",
+        "doi": "10.1056/nejme2612576",
+        "url": "https://doi.org/10.1056/nejme2612576",
+        "title": "Too Soon to Say Goodbye — Aspirin at the Door in STEMI",
+        "authors": [
+          "Kevin R. Bainey"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-11-19",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-19",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmicm2608816",
+        "doi": "10.1056/nejmicm2608816",
+        "url": "https://doi.org/10.1056/nejmicm2608816",
+        "title": "Cutaneous Anthrax",
+        "authors": [
+          "Dilsat Tepe",
+          "Gurdal Yilmaz"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-11-19",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-19",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmp2516854",
+        "doi": "10.1056/nejmp2516854",
+        "url": "https://doi.org/10.1056/nejmp2516854",
+        "title": "Closing the Gap",
+        "authors": [
+          "Lakshmi Ravindra",
+          "Kimberly Knoper",
+          "Nadine Tan",
+          "Caren G. Solomon"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-11-19",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-19",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmra2601172",
+        "doi": "10.1056/nejmra2601172",
+        "url": "https://doi.org/10.1056/nejmra2601172",
+        "title": "Acute Respiratory Distress Syndrome",
+        "authors": [
+          "Carolyn S. Calfee",
+          "Daniel F. McAuley"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-11-19",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-19",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmsr2607321",
+        "doi": "10.1056/nejmsr2607321",
+        "url": "https://doi.org/10.1056/nejmsr2607321",
+        "title": "Healing Health Care in Rural America — Toward Community-Centered Learning Health Systems",
+        "authors": [
+          "Monica M. Bertagnolli"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-11-19",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-19",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.16779",
+        "doi": "10.1001/jama.2026.16779",
+        "url": "https://doi.org/10.1001/jama.2026.16779",
+        "title": "Poetry, and Medicine’s Hidden Curriculum",
+        "authors": [
+          "Rafael Campo"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-18",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-19",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.21646",
+        "doi": "10.1001/jama.2026.21646",
+        "url": "https://doi.org/10.1001/jama.2026.21646",
+        "title": "Terminating Trials Early—Reply",
+        "authors": [
+          "Alison J. Huang",
+          "Roger J. Lewis"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-18",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-19",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.23534",
+        "doi": "10.1001/jama.2026.23534",
+        "url": "https://doi.org/10.1001/jama.2026.23534",
+        "title": "Blood-Based Biomarker Testing for Alzheimer Disease in US Clinical Practice",
+        "authors": [
+          "Mengyuan Fu",
+          "Matthew Andersen",
+          "Reshma Ramachandran",
+          "Karina M. Berg",
+          "Joseph S. Ross"
+        ],
+        "abstract": "This cohort study examines the rates of blood-based biomarker testing for Alzheimer disease in US clinical practice, exploring patient characteristics, ordering clinician specialty, and diagnostic and treatment events.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-18",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-19",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.21648",
+        "doi": "10.1001/jama.2026.21648",
+        "url": "https://doi.org/10.1001/jama.2026.21648",
+        "title": "Terminating Trials Early",
+        "authors": [
+          "Rafael Dal-Ré",
+          "Barbara E. Bierer",
+          "Arthur L. Caplan"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-18",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-19",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.18067",
+        "doi": "10.1001/jama.2026.18067",
+        "url": "https://doi.org/10.1001/jama.2026.18067",
+        "title": "Conversations With Vaccine-Hesitant Patients",
+        "authors": [
+          "Stephan Lewandowsky",
+          "Dawn Holford",
+          "Emma Anderson"
+        ],
+        "abstract": "This JAMA Insights discusses different ways for clinicians to approach conversations with vaccine-hesitant patients, including understanding patients’ attitude roots and empathetic refutational interviewing.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-18",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-19",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.24032",
+        "doi": "10.1001/jama.2026.24032",
+        "url": "https://doi.org/10.1001/jama.2026.24032",
+        "title": "Vaccines: The Best of Times, the Worst of Times",
+        "authors": [
+          "Derek C. Angus",
+          "Matthew B. O’Connor"
+        ],
+        "abstract": "The history of vaccines and vaccine hesitancy are discussed by                     JAMA                     Senior Editor Derek C. Angus, MD, MPH, and Paul Offit, MD, director of the Vaccine Education Center and an attending physician at the Children’s Hospital of Philadelphia, for this episode of the                     Healthy Dialogue                     podcast.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-18",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-19",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.16776",
+        "doi": "10.1001/jama.2026.16776",
+        "url": "https://doi.org/10.1001/jama.2026.16776",
+        "title": "M&amp;M",
+        "authors": [
+          "Rebi Nahum"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-18",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-19",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1377/hlthaff.2026.00944",
+        "doi": "10.1377/hlthaff.2026.00944",
+        "url": "https://doi.org/10.1377/hlthaff.2026.00944",
+        "title": "Effects Of A Grocery Support Program In California’s Health Insurance Marketplace",
+        "authors": [
+          "Emma L. Tucher",
+          "Danielle Hessler Jones",
+          "Caroline Fichtenberg",
+          "S. Monica Soni",
+          "Marisol Meza-Badran",
+          "Joy Dionisio",
+          "Taylor Priestley",
+          "Laura M. Gottlieb"
+        ],
+        "abstract": "",
+        "source": "Health Affairs",
+        "issn": "0278-2715",
+        "date": "2026-11-18",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-19",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag297",
+        "doi": "10.1093/aje/kwag297",
+        "url": "https://doi.org/10.1093/aje/kwag297",
+        "title": "Response to: The French Paradox 2, a remake for Norway?",
+        "authors": [
+          "Fjorida Llaha",
+          "Idlir Licaj",
+          "Kristin Benjaminsen Borch"
+        ],
+        "abstract": "",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-11-18",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-19",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag295",
+        "doi": "10.1093/aje/kwag295",
+        "url": "https://doi.org/10.1093/aje/kwag295",
+        "title": "Using probabilistic bias analysis to adjust for selection bias in retrospective case-control studies",
+        "authors": [
+          "Huda Bashir",
+          "Anke Hüls",
+          "Richard MacLehose",
+          "Thomas Ahern",
+          "Lindsay J Collin",
+          "Joshua Wallach",
+          "Timothy L Lash"
+        ],
+        "abstract": "Abstract                   Retrospective case-control studies are susceptible to selection bias from differential participation. Knowledge of non-participation proportions by outcome and exposure status is difficult to estimate. This knowledge gap can be treated as a missing data problem through the implementation of imputation strategies to reduce potential bias. We used information about participants’ exposure prevalence to inform non-participants’ exposure prevalence and applied these estimates in probabilistic bias analysis to address the missing data problem. We conducted a simulation study using four probability distributions (uniform, triangular, trapezoidal, and beta) assigned to the exposure prevalence in non-participants for use in bias-adjustment, identifying the trapezoidal distribution as the most principled approach. We applied the trapezoidal distribution to a meta-analysis on passive smoking and breast cancer, with a recomputed summary OR=1.23 (95% CI, 1.00, 1.51) in retrospective case-control studies and a recomputed summary RR=1.07 (95% CI, 0.92, 1.24) in prospective cohort studies. Applying our bias adjustment to the retrospective ORs, we obtained a summary OR=1.16 (95% CI, 0.99, 1.35) from a meta-analysis of the retrospective studies; closer to the prospective studies’ summary estimate. In the simulation and applied example, making defensible assumptions about the exposure prevalence of non-participants yielded more valid estimates compared with ignoring selection forces.",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-11-18",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-19",
+        "fetched_from": "crossref"
+      },
       {
         "id": "doi:10.1001/jama.2026.17332",
         "doi": "10.1001/jama.2026.17332",
@@ -93718,6 +94502,74 @@
     ],
     "agingHealth": [
       {
+        "id": "doi:10.1186/s12877-026-08566-5",
+        "doi": "10.1186/s12877-026-08566-5",
+        "url": "https://doi.org/10.1186/s12877-026-08566-5",
+        "title": "Care home activity providers facilitating public involvement in research as meaningful activity for care home residents (CHAPPI)",
+        "authors": [
+          "Megan Davies",
+          "Elspeth Mathie",
+          "Lisa Irvine",
+          "Michelle Drury-Mulholland",
+          "Marlene Kelly",
+          "Anne Killett"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-19",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-19",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08676-0",
+        "doi": "10.1186/s12877-026-08676-0",
+        "url": "https://doi.org/10.1186/s12877-026-08676-0",
+        "title": "Directional coupled trajectories of stress burden and physical function among older adults in Taiwan",
+        "authors": [
+          "Duan-Rung Chen",
+          "Chun-Tung Kuo",
+          "Yu-Kang Tu"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-19",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-19",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08721-y",
+        "doi": "10.1186/s12877-026-08721-y",
+        "url": "https://doi.org/10.1186/s12877-026-08721-y",
+        "title": "A retrospective medico-legal analysis of geriatric forensic deaths: the interplay between living arrangement, trauma, and autopsy status",
+        "authors": [
+          "Zafer LİMAN",
+          "Uğur KAYHAN"
+        ],
+        "abstract": "Abstract                                        Background                     This study aims to evaluate the sociodemographic characteristics, scene features, injury mechanisms, and autopsy status of geriatric forensic deaths (≥ 65 years), and to examine the associations between living arrangements, scenes of occurrence, and manners of death.                                                           Methods                                            A retrospective analysis was conducted on 130 geriatric forensic cases undergoing autopsy or external examination between 2018 and 2022 in Karabük, Turkey. Demographic data, scene characteristics, living arrangements, and toxicological findings were analyzed using SPSS 27.0. Categorical relationships were evaluated using Chi-square and exact tests (                       p                        &lt; 0.05).                                                                                Results                                            The median age of the cases was 74 years (IQR: 12 years), with a male predominance (69.2%); a full autopsy was performed in 89.2% of cases. Accidental deaths were the most frequent manner of death (48.5%), while natural death (40.0%) was the most frequent Death Category, followed by blunt trauma (37.7%). Among natural deaths, cardiovascular causes were the most common (51.9%). Living arrangement was significantly associated with scene of occurrence, type of death, and manner of death. Among individuals living alone, 82.1% of the deaths occurred at the residence. Homicide-related deaths were observed in 2 individuals living alone (7.1%) and 1 individual living with family (1.1%); however, the small number of homicide cases precludes further interpretation of this descriptive difference. Autopsy status differed significantly across scene categories (                       p                        &lt; 0.001), although this association was interpreted cautiously because of sparse cell counts. A full autopsy was performed in all cases in the Residence/Annex, Public/Facility Settings, and Workplace groups, whereas 14 of 29 cases (48.3%) in the Outdoor Spaces/Roadways group were concluded by external examination. Among the five intoxication cases with negative postmortem toxicological findings, three were classified as wild mushroom poisoning based on the integrated evaluation of documented exposure, antemortem clinical findings, and compatible postmortem findings.                                                                                Conclusions                     Geriatric forensic deaths showed distinct socio-spatial patterns according to living arrangement and scene of occurrence. The predominance of deaths occurring at the residence among individuals living alone suggests that the domestic setting may represent an important context for targeted investigation of potentially preventable hazards in this group. However, because population denominators according to living arrangements were unavailable, these findings should not be interpreted as evidence of increased incidence or relative vulnerability among older adults living alone. Further studies incorporating measures of social support, environmental conditions, and circumstances surrounding death are needed to clarify the mechanisms underlying these observed patterns.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-19",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-19",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1186/s12877-026-08697-9",
         "doi": "10.1186/s12877-026-08697-9",
         "url": "https://doi.org/10.1186/s12877-026-08697-9",
@@ -93788,6 +94640,466 @@
           "agingHealth"
         ],
         "firstSeen": "2026-11-18",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/geront/gnag257",
+        "doi": "10.1093/geront/gnag257",
+        "url": "https://doi.org/10.1093/geront/gnag257",
+        "title": "Loneliness intervention in later life: a gerontological social work perspective",
+        "authors": [
+          "Joan Casas-Martí",
+          "Sonia García-Aguña",
+          "Pablo De Gea-Grela",
+          "Rubén Yusta-Tirado"
+        ],
+        "abstract": "Abstract                                        Background and Objectives                     Loneliness in later life is recognized as a determinant of health and wellbeing, yet its integration into gerontological social services and social work practice remains underexplored. This study examines how social services address loneliness among older adults, focusing on its incorporation into intervention processes, the distribution of responses across intervention levels, and the organizational barriers shaping preventive approaches.                                                           Research Design and Methods                     An exploratory mixed-methods study was conducted in Barcelona (Spain) with 388 participants. Qualitative data were obtained through 15 interviews and two focus groups with 22 professionals working in services for older adults. The quantitative component consisted of a questionnaire completed by 351 gerontological social workers. Data were analyzed using grounded-theory-informed coding and descriptive statistics, with findings integrated through triangulation.                                                           Results                     Loneliness was addressed in intervention processes mainly once it had developed into an established problem, reflecting the predominance of secondary intervention. Preventive engagement was less frequent and constrained by crisis-driven access pathways, limited time and resources, and eligibility frameworks prioritizing administratively codified vulnerability. Participants described gerontological social work as playing a central coordinating role within interdisciplinary practice. Core actions emphasized the professional relationship, empowerment, family involvement, and community activation, whereas structural strategies such as addressing ageism and promoting digital inclusion were less consistently embedded.                                                           Discussion and Implications                     Findings reveal a preventive governance gap: loneliness is recognized as relational and structural, yet service architectures remain largely reactive. Strengthening responses requires aligning eligibility criteria with life-course transitions and reinforcing community-based infrastructures capable of sustaining belonging over time.",
+        "source": "The Gerontologist",
+        "issn": "0016-9013",
+        "date": "2026-11-18",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-19",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/geront/gnag258",
+        "doi": "10.1093/geront/gnag258",
+        "url": "https://doi.org/10.1093/geront/gnag258",
+        "title": "Smart Cities and Healthy Ageing: A Rapid Scoping Review of Enablers, Barriers, and Equity Considerations for Age-Inclusive Urban Transformation",
+        "authors": [
+          "Jed Montayre",
+          "Nga Kwan Karen Lee",
+          "Kar Kan Ling"
+        ],
+        "abstract": "Abstract                                        Background and Objectives                     Smart-city initiatives have become increasingly prominent in urban policy, yet evidence on how they relate to healthy ageing remains fragmented. This rapid scoping review synthesised evidence on smart-city developments relevant to healthy ageing across diverse contexts.                                                           Research Design and Methods                     Five databases and a targeted ScienceDirect journal search were used to identify studies published between 2015 and 2025. Eligible studies examined digitally enabled or data-informed urban or community systems relevant to healthy ageing; standalone individual or domestic technologies without wider system integration were excluded.                                                           Results                     Twenty-six studies were included, of which 19 (73.1%) were published between 2023 and 2025 and 14 were conducted in Asia. Evidence clustered into four domains: smart governance, participation, and digital public services; smart mobility, public space, and everyday access; data-informed planning and age-friendly environments; and community-integrated care, living, and service ecosystems. Reported outcomes primarily concerned mobility, accessibility, safety, social participation, autonomy, digital inclusion, service access, and ageing in place. Key enablers included accessible design, human support, digital and non-digital service options, service integration, and co-design. Barriers included limited digital literacy, affordability and connectivity constraints, privacy concerns, inaccessible interfaces, and fragmented governance and services.                                                           Discussion and Implications                     Smart-city development was most relevant to healthy ageing when digital and data-enabled systems complemented accessible environments, responsive services, and opportunities for participation. Age-inclusive smart-city development should integrate technology with age-friendly environments, human support, equitable access, and meaningful involvement of older adults. Longitudinal and age-specific evaluations using validated functional and wellbeing outcomes remain limited.",
+        "source": "The Gerontologist",
+        "issn": "0016-9013",
+        "date": "2026-11-18",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-19",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/gerona/glag264",
+        "doi": "10.1093/gerona/glag264",
+        "url": "https://doi.org/10.1093/gerona/glag264",
+        "title": "Electro-Responsive Biomaterials as Mechanobiological Regulators of Infection and Immunity in Aging Tissues",
+        "authors": [
+          "Sumaira Kutub",
+          "Seungil Kim"
+        ],
+        "abstract": "Abstract                   Aging is accompanied by profound and coordinated alterations in immune function, tissue mechanics, and bioelectrical signaling that collectively increase susceptibility to infection and impair tissue repair. Immunosenescence, chronic inflammation (inflammaging), vascular insufficiency, and dysregulated mechanotransduction create tissue microenvironments in which conventional antimicrobial therapies exhibit reduced efficacy and increased potential for adverse effects in older adults. Increasing evidence indicates that endogenous electrical fields and mechanically coupled bioelectrical cues play roles in directing immune cell migration, coordinating wound healing, and regulating host–pathogen interactions—processes that are increasingly recognized to be altered during aging.                   Electro‑responsive biomaterials, including conducting polymeric nanoparticles and hydrogels, have recently emerged as versatile platforms capable of interfacing with these age‑altered mechanobiological pathways. By translating externally applied or self‑generated electrical stimuli into controlled drug release, direct antimicrobial activity, immune modulation, and pro‑regenerative signaling, these materials offer opportunities for spatiotemporally controlled therapeutic interventions, although their added clinical benefit in older adults remains to be established.                   In this review, we examine recent advances in electro‑responsive nanoparticles and hydrogels—particularly systems based on polypyrrole, poly(3,4‑ethylenedioxythiophene), and polyaniline—and critically evaluate their mechanisms of action in the context of aging‑associated infection and tissue dysfunction. We highlight how age‑related changes in tissue mechanics, immune responsiveness, and bioelectrical signaling influence biomaterial performance, and discuss opportunities for integrating electro‑responsive platforms into wearable, implantable, and self‑powered systems for regenerative medicine and geriatric care. Finally, we identify key translational challenges—including biocompatibility in aged tissues, dosing of electrical stimuli, and regulatory considerations—and outline future directions for leveraging electro‑mechanobiological biomaterials to improve infection control and tissue regeneration in aging populations.",
+        "source": "The Journals of Gerontology, Series A: Biological Sciences and Medical Sciences",
+        "issn": "1079-5006",
+        "date": "2026-11-18",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "elderCare"
+        ],
+        "firstSeen": "2026-11-19",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/gerona/glag262",
+        "doi": "10.1093/gerona/glag262",
+        "url": "https://doi.org/10.1093/gerona/glag262",
+        "title": "Differences in ectopic adiposity of skeletal muscle and the liver among Black Caribbeans, Black Americans, and White Americans",
+        "authors": [
+          "Megan M Marron",
+          "Sangeeta Nair",
+          "John Jeffrey Carr",
+          "James G Terry",
+          "Ryan Cvejkus",
+          "Joseph M Zmuda",
+          "David R Jacobs",
+          "Lyn M Steffen",
+          "C Barrett Bowling",
+          "Victor Wheeler",
+          "Iva Miljkovic"
+        ],
+        "abstract": "Abstract                                        Background                     Ectopic adiposity of skeletal muscle and the liver share common pathophysiological mechanisms predictive of physical disability. Here, we sought to characterize muscle and liver adiposity among Black Caribbeans, Black Americans, and White Americans and determine whether muscle and liver adiposity predict future gait speed.                                                           Methods                     Computed tomography-derived abdominal lean muscle attenuation, intermuscular adipose tissue volume, and liver attenuation were measured in 749 Black Caribbean men ages 50-91 from the Tobago Longitudinal Study of Aging and 1061 Black and White American men and women ages 42-57 from the Coronary Artery Risk Development in Young Adults (CARDIA) study. Gait speed was measured 7-13 years later.                                                           Results                     On average, Black Caribbean men had lean muscle attenuation that was ≥8 Hounsfield Unit (HU) higher and intermuscular adipose tissue that was ≥11 cm3 lower than Americans (p-values&amp;lt;0.0001), even after adjusting for age, height, walking, smoking, alcohol, energy intake, total muscle volume, and visceral adiposity. White and Black American women had lean muscle attenuation that was ≥3 HU lower and intermuscular adipose tissue that was ≥2% more of their total muscle volume (p-values&amp;lt;0.0001). White American men had liver attenuation that was ≥4 HU lower (p-values&amp;lt;0.0002), which was explained by higher visceral adiposity. Higher lean muscle attenuation and lower intermuscular adiposity were associated with faster future gait speeds (p-values≤0.007).                                                           Conclusions                     Black Caribbean men had a more favorable muscle composition, specifically higher lean muscle attenuation and lower intermuscular adiposity; characteristics that predicted better physical performance. Identifying factors explaining less myosteatosis may indicate targets to prevent physical disability.",
+        "source": "The Journals of Gerontology, Series A: Biological Sciences and Medical Sciences",
+        "issn": "1079-5006",
+        "date": "2026-11-18",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "elderCare"
+        ],
+        "firstSeen": "2026-11-19",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70805",
+        "doi": "10.1111/jgs.70805",
+        "url": "https://doi.org/10.1111/jgs.70805",
+        "title": "Healthcare‐Related\n                    <scp>AI</scp>\n                    Priorities for\n                    <scp>US</scp>\n                    Older Adults—Results From a National Survey",
+        "authors": [
+          "Nancy L. Schoenborn",
+          "Phillip Phan",
+          "Haiyang Yang",
+          "Soo‐Hoon Lee",
+          "Thomas K. M. Cudjoe"
+        ],
+        "abstract": "",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-11-18",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-19",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08630-0",
+        "doi": "10.1186/s12877-026-08630-0",
+        "url": "https://doi.org/10.1186/s12877-026-08630-0",
+        "title": "Hospital Frailty Risk Score and treatment allocation, treatment intolerance, healthcare utilization, and survival in older adults with hepatocellular carcinoma in C​hina: a single-center retrospective cohort study",
+        "authors": [
+          "Yuyan Xu",
+          "Yaohong Wen",
+          "Hongkun Tan",
+          "Lei Cai",
+          "Mingxin Pan"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-18",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-19",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08552-x",
+        "doi": "10.1186/s12877-026-08552-x",
+        "url": "https://doi.org/10.1186/s12877-026-08552-x",
+        "title": "The longitudinal association between physical exercise and relative health disadvantage among older adults",
+        "authors": [
+          "Kai Guo",
+          "Chenya Li",
+          "Yihao Kang"
+        ],
+        "abstract": "Abstract                                        Background                     Health inequality among older adults is a critical issue in the governance of health equity within the context of population aging, reflecting structural disparities in health resources, capabilities, and outcomes across different older adult groups. Physical exercise, as a key form of health behavior intervention and active aging practice, may improve the overall health status of older adults, while its association with their relative disadvantage within the health distribution also warrants further investigation.                                                           Methods                     This study utilizes panel data from the 2020 and 2023 waves of the China Longitudinal Aging Social Survey (CLASS) to characterize older adults’ relative health disadvantage within the contemporaneous health distribution using an individual-level Kakwani Relative Deprivation Index. Employing individual fixed-effects models, mediation analysis, moderation analysis, and propensity score matching, the study systematically examines the association between physical exercise and relative health disadvantage among older adults and its potential pathways.                                                           Results                     The findings indicate that physical exercise is significantly associated with lower levels of relative health disadvantage, and this conclusion remains robust across multiple robustness checks. Analysis of potential pathways shows a significant negative indirect effect through self-efficacy, whereas the indirect effect through social networks is opposite in direction to the direct effect, indicating a statistical masking effect. Moderation analysis shows that the lower the subjective economic status, the stronger the negative association between physical exercise and relative health disadvantage. Heterogeneity analysis further shows that this negative association is more pronounced in central and western regions, with no statistically significant difference between the two, whereas the between-group differences by age and chronic disease status do not reach statistical significance. Further analysis indicates that physical exercise is significantly associated with lower relative deprivation in self-rated health, whereas the corresponding association in the mental health dimension does not reach statistical significance.                                                           Conclusions                     These findings extend research on physical exercise and health inequality among older adults from the perspective of individual relative health disadvantage and provide empirical evidence and policy implications for optimizing public sports services for older adults, enhancing the health agency of disadvantaged groups, and advancing health equity governance.                                                           Clinical trial number                     Not applicable.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-18",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-19",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08701-2",
+        "doi": "10.1186/s12877-026-08701-2",
+        "url": "https://doi.org/10.1186/s12877-026-08701-2",
+        "title": "Structural MRI-based machine learning classification of mild cognitive impairment in the Alzheimer’s Disease Neuroimaging Initiative",
+        "authors": [
+          "Liu Wu",
+          "Yu-Ting Dong",
+          "Xiao-Xiang Sun",
+          "Yong Chen",
+          "Xiao Luo",
+          "Xin Mu",
+          "Ze-Jun Chen"
+        ],
+        "abstract": "Abstract                                        Background                     Structural magnetic resonance imaging (MRI)-based machine learning has shown potential for distinguishing cognitively normal (CN) individuals from those with mild cognitive impairment (MCI). However, previous classification studies have often emphasized discrimination, while calibration, comparative evaluation across different algorithms, and anatomically interpretable model contributions have been less consistently integrated. Moreover, the identification of important MRI features does not necessarily establish their independent biological significance. This study aimed to develop and internally evaluate a structural MRI-based machine-learning framework for CN–MCI classification using data from the Alzheimer’s Disease Neuroimaging Initiative (ADNI).                                                           Methods                     This retrospective cross-sectional study included 2,649 participants aged over 65 years from ADNI, comprising 1,285 CN individuals and 1,364 participants with MCI. Eighteen MRI-derived morphometric features selected using least absolute shrinkage and selection operator (LASSO) regression in the training set were combined with age, sex, and education. Five algorithms—logistic regression, support vector machine (SVM), random forest, Light Gradient Boosting Machine (LightGBM), and extreme gradient boosting (XGBoost)—were compared using an internally held-out test set. Model performance was assessed using discrimination, classification metrics, calibration, and decision-curve analysis. Shapley Additive Explanations (SHAP) were used for post hoc model interpretation.                                                           Results                                            The XGBoost-based final model achieved an area under the receiver operating characteristic curve (AUC) of 0.917 (95% confidence interval [CI], 0.889–0.945), compared with 0.865 (95% CI, 0.836–0.894) for logistic regression (paired DeLong                       P                        = 0.048). The final model achieved an accuracy of 0.847, sensitivity of 0.854, specificity of 0.839, and Brier score of 0.143. The most influential MRI features included bilateral inferior lateral ventricular and hippocampal volumes and left middle temporal cortical thickness. These rankings describe contributions to model predictions rather than independently established biomarkers or disease mechanisms.                                                                                Conclusions                     A structural MRI-based machine-learning framework incorporating demographic information demonstrated good internal discrimination between CN and MCI participants in the ADNI cohort. Calibration assessment and post hoc feature interpretation provided complementary information beyond discrimination alone. The findings should be interpreted as cohort-specific classification evidence, and independent external validation is required before clinical application.                                                           Clinical trial number                     Not applicable.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-18",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-19",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08677-z",
+        "doi": "10.1186/s12877-026-08677-z",
+        "url": "https://doi.org/10.1186/s12877-026-08677-z",
+        "title": "Lifestyle interventions for improving social function and quality of life in older adults: a network meta-analysis",
+        "authors": [
+          "Chaofan Wang",
+          "Xiang Qiu",
+          "Ni Gong",
+          "Xinfeng Lai",
+          "Jiagui Liang"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-18",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-19",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08450-2",
+        "doi": "10.1186/s12877-026-08450-2",
+        "url": "https://doi.org/10.1186/s12877-026-08450-2",
+        "title": "Health utility values and associated factors among hospitalized older adults with chronic diseases in Western China: a cross-sectional study",
+        "authors": [
+          "Zhiping Liu",
+          "Xin Tian",
+          "Rong Li",
+          "Xue Zhang",
+          "Jilong Duan",
+          "Wenyue Zhang",
+          "Hongyan Lu"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-18",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-19",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08666-2",
+        "doi": "10.1186/s12877-026-08666-2",
+        "url": "https://doi.org/10.1186/s12877-026-08666-2",
+        "title": "Loneliness, social isolation, and their change patterns as predictors of incident depressive symptoms in Chinese older adults: a prospective cohort study",
+        "authors": [
+          "Chuiran Kong",
+          "Jing Qi",
+          "Xiaozhen Song",
+          "Wangmu",
+          "Peiyuan Qiu",
+          "Yang Wan"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-18",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-19",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag297",
+        "doi": "10.1093/aje/kwag297",
+        "url": "https://doi.org/10.1093/aje/kwag297",
+        "title": "Response to: The French Paradox 2, a remake for Norway?",
+        "authors": [
+          "Fjorida Llaha",
+          "Idlir Licaj",
+          "Kristin Benjaminsen Borch"
+        ],
+        "abstract": "",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-11-18",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-19",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag295",
+        "doi": "10.1093/aje/kwag295",
+        "url": "https://doi.org/10.1093/aje/kwag295",
+        "title": "Using probabilistic bias analysis to adjust for selection bias in retrospective case-control studies",
+        "authors": [
+          "Huda Bashir",
+          "Anke Hüls",
+          "Richard MacLehose",
+          "Thomas Ahern",
+          "Lindsay J Collin",
+          "Joshua Wallach",
+          "Timothy L Lash"
+        ],
+        "abstract": "Abstract                   Retrospective case-control studies are susceptible to selection bias from differential participation. Knowledge of non-participation proportions by outcome and exposure status is difficult to estimate. This knowledge gap can be treated as a missing data problem through the implementation of imputation strategies to reduce potential bias. We used information about participants’ exposure prevalence to inform non-participants’ exposure prevalence and applied these estimates in probabilistic bias analysis to address the missing data problem. We conducted a simulation study using four probability distributions (uniform, triangular, trapezoidal, and beta) assigned to the exposure prevalence in non-participants for use in bias-adjustment, identifying the trapezoidal distribution as the most principled approach. We applied the trapezoidal distribution to a meta-analysis on passive smoking and breast cancer, with a recomputed summary OR=1.23 (95% CI, 1.00, 1.51) in retrospective case-control studies and a recomputed summary RR=1.07 (95% CI, 0.92, 1.24) in prospective cohort studies. Applying our bias adjustment to the retrospective ORs, we obtained a summary OR=1.16 (95% CI, 0.99, 1.35) from a meta-analysis of the retrospective studies; closer to the prospective studies’ summary estimate. In the simulation and applied example, making defensible assumptions about the exposure prevalence of non-participants yielded more valid estimates compared with ignoring selection forces.",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-11-18",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-19",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261509410",
+        "doi": "10.1177/13872877261509410",
+        "url": "https://doi.org/10.1177/13872877261509410",
+        "title": "Circular RNAs as emerging multi-pathway blood-based biomarkers for Alzheimer's disease: Clinical need, biological rationale, and translational considerations",
+        "authors": [
+          "Jessica DeHart",
+          "Susan S. Song",
+          "Vaibhav A. Janve",
+          "Timothy J. Hohman",
+          "Nikolaos Mellios"
+        ],
+        "abstract": "Alzheimer's disease (AD) remains underdiagnosed in its earliest and most modifiable stages. Most patients present in primary care with mild cognitive concerns, yet diagnostic pathways are fragmented, specialist-dependent, and poorly optimized for scalable early detection, while specialists face rising referral volume and limited capacity. Positron emission tomography, cerebrospinal fluid biomarkers, and blood-based biomarkers (BBMs) are constrained by accessibility, reimbursement, indeterminate results, and inconsistent performance across populations and disease stages. This narrative review summarizes clinical and system-level barriers across primary and specialty care and highlights emerging biomarker strategies supporting earlier diagnosis. Within the expanded A/T/N/X framework, biomarkers capturing upstream, multi-domain signals may enable earlier, more comprehensive detection. Circular RNAs (circRNAs), a novel class of BBMs, are highly stable, brain-enriched, and detectable in peripheral blood, enabling minimally invasive testing. Specific circRNAs have been shown to be altered in AD and associated with core AD mechanistic processes, including circHOMER1 in synaptic function, circAβ-a and circPSEN1 in amyloid processing, circTau6 in tau pathology, and circTREM2 in neuroinflammation. In the largest blood-based circRNA study to date, a 34-circRNA signature classified biomarker-confirmed AD with an area under the curve of 0.945 versus 0.877 for plasma p-tau217, predicted progression to symptomatic AD more strongly than p-tau217 (hazard ratio 2.92 versus 1.81), showed low predictive power in non-AD dementias, and changed 2–4 years before symptom onset. These features position circRNAs as candidates for next-generation blood-based diagnosis that could streamline triage and reduce reliance on confirmatory testing. Prospective validation, assay standardization, and health economic evidence remain essential.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-11-18",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-19",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261506208",
+        "doi": "10.1177/13872877261506208",
+        "url": "https://doi.org/10.1177/13872877261506208",
+        "title": "Piloting an integrated assessment tool for measuring cognitive, affective, sensory, and social resources in dementia care settings",
+        "authors": [
+          "Alexandra Hering",
+          "Catherine Bassal",
+          "Maximilian Haas",
+          "Matthias Kliegel",
+          "Damaris Aschwanden"
+        ],
+        "abstract": "Background                     Person-centered dementia care, for example for persons with Alzheimer's disease, requires holistic assessment tools, but traditional methods focus mainly on cognition, neglecting well-being, sensory functions, and social skills. The newly developed Person-Centered Modular Assessment Tool (PCMAT) aims to evaluate cognitive, affective, sensory, and social capacities in people with dementia.                                                           Objective                     Designed for both stationary and ambulatory nursing contexts, the aim was to pilot a preliminary screening tool to assess multi-domain resources, ensuring a more comprehensive approach applicable to dementia care.                                                           Methods                     The present paper presents the PCMAT and reports on pilot data from 21 persons with dementia and 22 healthy older adults, also presenting comparative data from single-domain scales targeting the PCMAT modules. Most module scores showed medium-to-large differences between the two samples with lower scores in the clinical sample.                                                           Results                     In both samples, the results provided preliminary support for feasibility and selected validity indicators. Correlational analyses of the PCMAT modules indicated that the different areas of resources were assessed independently. In the clinical sample, evidence for preliminary convergent validity was found for the cognition module and the Montreal Cognitive Assessment score, in the healthy sample, data suggested preliminary convergent validity for the module on affective states.                                                           Conclusions                     These initial results demonstrated that assessing cognitive, affective, sensory and social capacities with the PCMAT seems feasible among individuals with dementia in early to moderate stages. The preliminary evidence further indicates the potential and suitability of the tool for the care context.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-11-18",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-19",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261506461",
+        "doi": "10.1177/13872877261506461",
+        "url": "https://doi.org/10.1177/13872877261506461",
+        "title": "Sex-specific cognitive predictors of conversion from mild cognitive impairment to Alzheimer's disease",
+        "authors": [
+          "Xanthy Lajoie",
+          "Sophie Boutin",
+          "Natasha Clarke",
+          "Bérengère Houzé",
+          "Simona Maria Brambati"
+        ],
+        "abstract": "Background                     Mild cognitive impairment (MCI) involves cognitive decline without impaired daily functioning. Although it increases risk for Alzheimer's disease (AD), many remain stable or revert to normal cognition. Identifying those most likely to convert is essential for early intervention. Despite women comprising two-thirds of AD cases, sex differences in cognitive predictors of MCI conversion remain underexplored.                                                           Objective                     To identify baseline neuropsychological and sociodemographic factors associated with progression from MCI to AD and determine whether these conversion predictors differ by sex.                                                           Methods                     Using baseline data from the ADNI cohort and longitudinal follow-up to determine clinical outcomes, we compared baseline profiles of 435 MCI non converter individuals and 328 MCI converters, who later converted to AD, using linear regression and classification approaches, including sex effects and sex-stratified analyses.                                                           Results                     Converters had greater baseline impairments not only in episodic memory and executive function, but also language. Significant, but small, sex-by-conversion interactions in memory indicated slightly more pronounced conversion-related decline among women. Machine learning classifier achieved a mean bootstrap accuracy of 74.0% in distinguishing converters from non-converters, slightly improving in sex-specific models for women (76.2%) but not for men (71.4%). Predictive features differed by sex: memory (recognition), global cognition and executive function were most informative in men, while functional ability, memory (encoding), demographics and language were stronger predictors in women.                                                           Conclusions                     These findings highlight the value of neuropsychological assessments for predicting progression from MCI to AD and underscore the importance of incorporating sex-specific approaches to improve the clinical relevance of dementia risk prediction.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-11-18",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-19",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261507113",
+        "doi": "10.1177/13872877261507113",
+        "url": "https://doi.org/10.1177/13872877261507113",
+        "title": "Network proximity-based drug repurposing identifies anti-inflammatory therapies for Alzheimer's disease",
+        "authors": [
+          "Davis Cammann",
+          "Jeffrey L. Cummings",
+          "Yadi Zhou",
+          "Feixiong Cheng",
+          "Jingchun Chen"
+        ],
+        "abstract": "Background                     Neuroinflammation is implicated as a driver of cellular dysfunction in Alzheimer's disease (AD), yet there are currently no FDA-approved drugs to treat this pathology. Network models of protein-protein interactions (PPI) show promise in identifying drug mechanisms of action targeted towards disease pathologies.                                                           Objective                     We sought to identify repurposable drugs to treat neuroinflammation by screening drug targets on an extensive PPI network against proteins involved in AD neuroinflammatory pathways.                                                           Methods                                            We identified 133 immune system pathway genes from AD genomic and transcriptomic studies, creating a network module on a human PPI network. We assessed the network proximity of this module to drug target modules across three screenings: inflammation-targeted drugs with a negative AD clinical trial, repurposed compounds in AD clinical trials as of 2025, and 1700 FDA-approved compounds. Drugs were prioritized if they had Z-scored proximity less than −2.0, a false-discovery rate corrected                       p                       -value less than 0.05, and evidence in transgenic mouse models or AD clinical trials.                                                                                Results                     We found that anti-inflammatory drugs with negative AD clinical trials had low proximity to AD-neuroinflammatory targets, while the phase 2 drug baricitinib was significantly proximal. Screening 1700 FDA-approved compounds, we found 15 with significant network proximity to AD-immune system targets. Notably, cabozantinib, plerixafor, and bevacizumab had positive biomarker effects in AD mouse models.                                                           Conclusions                                            We provide an in-silico line of evidence for several repurposable drugs to be tested further                       in-vitro                       and                       in-vivo                       studies of AD.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-11-18",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-19",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261507268",
+        "doi": "10.1177/13872877261507268",
+        "url": "https://doi.org/10.1177/13872877261507268",
+        "title": "Insulin resistance is associated with lower cerebral myelin content in cognitively unimpaired women across the adult lifespan",
+        "authors": [
+          "Nathan Zhang",
+          "Noam Y. Fox",
+          "Angelique De Rouen",
+          "Aaliya Taranath",
+          "Jonghyun Bae",
+          "Alex Guo",
+          "Luigi Ferrucci",
+          "Josephine M. Egan",
+          "Zhaoyuan Gong",
+          "Mustapha Bouhrara"
+        ],
+        "abstract": "Background                     Insulin resistance (IR) has been implicated in brain aging and Alzheimer's disease (AD), yet its relationship with cerebral myelin content in cognitively unimpaired adults remains unclear, particularly regarding sex differences.                                                           Objective                     To investigate whether peripheral IR is associated with white matter (WM) myelin content and microstructural integrity in cognitively unimpaired adults, and whether these associations differ by sex.                                                           Methods                                            We used multicomponent relaxometry (n = 125) and diffusion tensor imaging (n = 116) to obtain myelin water fraction (MWF), longitudinal relaxation rate (R1), transverse relaxation rate (R2), and diffusion measures of WM microstructure. Multiple linear regression models adjusted for age, age                       2                       , sex, and IR-by-sex interactions across fifteen WM regions.                                                                                Results                     Higher IR was associated with lower MWF across widespread WM regions, including frontal, temporal, and parietal lobes, corpus callosum, internal capsule, and thalamic radiation. Similar but weaker negative trends were observed for R1, R2, and fractional anisotropy, whereas diffusivity metrics showed opposite but nonsignificant trends. Significant IR-by-sex interactions indicated stronger inverse associations between IR and MWF in women, in whom higher IR was consistently associated with lower MWF across most regions. However, the dynamic range of IR for men was limited.                                                           Conclusions                     Higher peripheral IR is associated with lower myelin-sensitive WM MRI measures in cognitively unimpaired adults, with stronger associations in women. These findings identify WM myelin alterations as a potential neurobiological correlate of metabolic dysfunction and provide evidence linking peripheral metabolic dysfunction to brain changes relevant to AD pathophysiology. The findings highlight a potential sex-dependent pathway linking metabolic dysfunction to WM alterations associated with AD risk.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-11-18",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-19",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261507326",
+        "doi": "10.1177/13872877261507326",
+        "url": "https://doi.org/10.1177/13872877261507326",
+        "title": "Cerebrospinal fluid sTREM2 and PGRN in the early diagnosis and progression monitoring of Alzheimer's disease: A longitudinal study",
+        "authors": [
+          "Xifen Gong",
+          "Muhammad Uzair Khalid",
+          "Jinyun Long",
+          "Ziqi Zhou",
+          "Jiayu Li",
+          "Kemeng Bai",
+          "Xiaofeng Li"
+        ],
+        "abstract": "Background                     Alzheimer's disease (AD) features amyloid-β (Aβ) deposition and tau pathology, with microglial dysfunction and neuroinflammation increasingly implicated. Soluble triggering receptor expressed on myeloid cells-2 (sTREM2) and progranulin (PGRN) regulate microglial function and lysosomal homeostasis, but their dynamics across the AD continuum remain unclear.                                                           Objective                     To investigate cerebrospinal fluid (CSF) sTREM2 and PGRN in the early diagnosis and progression monitoring of AD, and their associations with Aβ pathology and other biomarkers.                                                           Methods                                            Data were from the Alzheimer's Disease Neuroimaging Initiative (ADNI). Based on CSF Aβ                       42                       and Clinical Dementia Rating (CDR) scores, subjects were categorized into Aβ−CN (n = 196), Aβ+CN (n = 101), Aβ+MCI (n = 378), and Aβ+AD (n = 96). Baseline demographics, neuropsychological assessments, imaging indices, and CSF biomarkers were compared. Spearman correlation, ROC curve analysis, and linear mixed-effects models (n = 255) were used.                                                                                Results                     Baseline CSF sTREM2 was lower in Aβ+CN than Aβ−CN. PGRN was lower in Aβ+CN and Aβ+MCI than Aβ−CN. Over 2 years, sTREM2 increased most in Aβ+MCI and moderately in Aβ+CN, while PGRN declined in Aβ−CN, Aβ+MCI, and Aβ+AD. Both biomarkers correlated with CSF tau and p-tau in Aβ+ individuals.                                                           Conclusions                     Baseline CSF sTREM2 and PGRN have limited cross-sectional diagnostic value for AD. However, their longitudinal trajectories raise the possibility that they may reflect the microglia-lysosome axis. Combined biomarker strategies and multi-targeted therapeutic interventions warrant further investigation.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-11-18",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-19",
         "fetched_from": "crossref"
       },
       {
@@ -132143,6 +133455,47 @@
         "fetched_from": "crossref"
       },
       {
+        "id": "doi:10.1093/sw/swag058",
+        "doi": "10.1093/sw/swag058",
+        "url": "https://doi.org/10.1093/sw/swag058",
+        "title": "Personal Trauma History and Secondary Traumatic Stress Symptoms: The Mediating Role of Trauma Impact",
+        "authors": [
+          "Brian Bride",
+          "Erick da Luz Scherf",
+          "Schnavia Hatcher"
+        ],
+        "abstract": "Abstract                   Personal trauma history (PTH) is commonly cited as a risk factor for secondary traumatic stress (STS) among social workers, yet empirical evidence yields mixed findings. This study examined the nuanced relationship between PTH and STS symptoms by investigating the mediating roles of past and present trauma impact. A national sample of 470 clinical social workers completed measures assessing childhood and adult trauma experiences, their impact currently and at the time of occurrence, and STS symptoms. Serial mediation analyses revealed that 78 percent of participants reported lifetime trauma exposure. Neither childhood nor adult trauma directly predicted STS symptoms; however, both demonstrated significant indirect effects through the serial mediation of past and present trauma impact. Social workers who experienced more negative impact when trauma occurred reported greater present negative impact, which in turn predicted higher STS symptoms. These findings challenge the simplistic view that trauma occurrence alone constitutes a risk factor, highlighting instead that unresolved trauma impact is the salient predictor of STS. Results underscore the importance of trauma-informed therapy and supervision to address residual trauma effects, thereby reducing STS risk among trauma-exposed professionals.",
+        "source": "Social Work",
+        "issn": "0037-8046",
+        "date": "2026-11-17",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-11-19",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/sw/swag063",
+        "doi": "10.1093/sw/swag063",
+        "url": "https://doi.org/10.1093/sw/swag063",
+        "title": "Embracing Disability-Affirming Practice",
+        "authors": [
+          "Elspeth M Slayter",
+          "Mbita Mbao"
+        ],
+        "abstract": "",
+        "source": "Social Work",
+        "issn": "0037-8046",
+        "date": "2026-11-17",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-11-19",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1007/s10896-026-01208-9",
         "doi": "10.1007/s10896-026-01208-9",
         "url": "https://doi.org/10.1007/s10896-026-01208-9",
@@ -144662,10 +146015,10 @@
   },
   "totals": {
     "socialSecurity": 1626,
-    "elderCare": 1042,
-    "healthReform": 1550,
-    "agingHealth": 1491,
-    "socialWork": 548
+    "elderCare": 1056,
+    "healthReform": 1570,
+    "agingHealth": 1513,
+    "socialWork": 550
   },
   "feeds_ok": 41
 }
