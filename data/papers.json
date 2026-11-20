@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-19",
-  "fetched": "2026-11-19T08:59:56+00:00",
+  "date": "2026-11-20",
+  "fetched": "2026-11-20T08:47:15+00:00",
   "domains": {
     "socialSecurity": [
       {
@@ -25447,6 +25447,93 @@
     ],
     "elderCare": [
       {
+        "id": "doi:10.1186/s12877-026-08722-x",
+        "doi": "10.1186/s12877-026-08722-x",
+        "url": "https://doi.org/10.1186/s12877-026-08722-x",
+        "title": "Effects of volunteer-facilitated life review intervention on meaning in life among older adults with disabilities: a randomized controlled trial",
+        "authors": [
+          "Huimin Bao",
+          "Xuejiao Zhu",
+          "Zhiyun Zhou",
+          "Yue Hu",
+          "Shinan Han",
+          "Jinping Ying",
+          "Liuqian Zhang"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-20",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-20",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08719-6",
+        "doi": "10.1186/s12877-026-08719-6",
+        "url": "https://doi.org/10.1186/s12877-026-08719-6",
+        "title": "Longitudinal associations between loneliness-related experiences and changes in naming ability among US older adults: evidence from the bivariate latent change score models",
+        "authors": [
+          "Yanbing Hu",
+          "Xiaoyue Zhao",
+          "Chang Wei",
+          "Chenguang Du"
+        ],
+        "abstract": "Abstract                                        Background                     Naming ability is a key indicator of language-related cognitive function in older adults, but its longitudinal relationship with different loneliness-related dimensions remains unclear. This study investigated prospective associations between baseline levels and 12-year changes in ability and two loneliness-related dimensions, Feeling isolated and Lack of social connection, among older adults in the US.                                                           Methods                     The main analyses used baseline and 12-year follow-up data from the 2008 and 2020 waves of the Health and Retirement Study. The analytic sample included 2,960 adults aged 65 years and older at baseline. Naming ability was measured using TICS-based naming-related items. Feeling isolated and Lack of social connection were derived from the 11-item UCLA Loneliness Scale. Two bivariate latent change score models were estimated to examine self-feedback effects and cross-domain coupling effects between naming ability and each loneliness-related dimension. The models adjusted for demographic characteristics, socioeconomic status, physical health, depressive symptoms, and family structure.                                                           Results                     From 2008 to 2020, naming ability was lower at follow-up, whereas Feeling isolated and Lack of social connection were higher. In the model of naming ability and Feeling isolated, baseline naming ability significantly and positively predicted subsequent change in Feeling isolated, while baseline Feeling isolated significantly and negatively predicted subsequent change in naming ability. In the model of naming ability and Lack of social connection, baseline Lack of social connection significantly and negatively predicted subsequent change in naming ability, whereas baseline naming ability did not significantly predict change in Lack of social connection. Both models showed significant self-feedback effects, but the associations between change in naming ability and change in loneliness-related dimensions were not significant.                                                           Conclusion                     Higher baseline levels of loneliness-related experiences were prospectively associated with less favorable changes in naming ability among older adults. Feeling isolated and Lack of social connection were both linked to later changes in naming ability, but their longitudinal patterns differed. These findings highlight the importance of understanding language-related cognitive aging within the broader context of social interaction and social connection. Future intervention studies should evaluate whether supporting daily communication, social participation, and stable social relationships can help maintain language-related cognitive function in later life.                                                           Clinical trial number                     Not applicable.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-20",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-20",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08555-8",
+        "doi": "10.1186/s12877-026-08555-8",
+        "url": "https://doi.org/10.1186/s12877-026-08555-8",
+        "title": "Enhanced management of home-based elders with depression (EMBED): protocol for a cluster randomised controlled trial",
+        "authors": [
+          "Tanya E. Davison",
+          "Marissa Dickins",
+          "Sunil Bhar",
+          "Osvaldo Almeida",
+          "Yun-Hee Jeon",
+          "Viviana Wuthrich",
+          "Leon Flicker",
+          "Rachel Milte",
+          "Henry Brodaty",
+          "Sze-Ee Soh",
+          "Katya Numbers",
+          "Darshini Ayton",
+          "Julie Kelly",
+          "Leah Heiss",
+          "Tuan Nguyen",
+          "Monica Cations",
+          "Suzanne Robinson",
+          "Nilmini Wickramasinghe",
+          "Karen Smith"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-20",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-20",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1186/s12877-026-08566-5",
         "doi": "10.1186/s12877-026-08566-5",
         "url": "https://doi.org/10.1186/s12877-026-08566-5",
@@ -25512,6 +25599,253 @@
           "agingHealth"
         ],
         "firstSeen": "2026-11-19",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/geront/gnag255",
+        "doi": "10.1093/geront/gnag255",
+        "url": "https://doi.org/10.1093/geront/gnag255",
+        "title": "Patient and Caregiver Experiences of Multimorbidity in Primary and Community Care: A Qualitative Systematic Review",
+        "authors": [
+          "Patcharin Namuangrak",
+          "Kanlayawee Anonjarn"
+        ],
+        "abstract": "Abstract                                        Background and Objectives                     Multimorbidity is common among older adults, shifting care coordination responsibilities to individuals and family caregivers in community settings. This qualitative systematic review synthesizes evidence regarding the care needs, experiences, and challenges of community-dwelling older adults and their caregivers.                                                           Research Design and Methods                     Following PRISMA 2020 guidelines and PROSPERO registration (PROSPERO: CRD420251148165), a comprehensive search across five databases (CINAHL, MEDLINE, PsycINFO, Scopus, ThaiJO) identified relevant qualitative studies published between January 2015 and April 2025 across high- and middle-income countries. Twenty-five studies (reported in 26 publications) were selected, analyzed via thematic synthesis, and appraised using the JBI Critical Appraisal Checklist.                                                           Results                     Twenty-five qualitative studies were included, representing a pooled total of 599 older adults (aged ≥ 60 years) and 376 family caregivers across studies reporting these participant groups. Four analytical themes emerged: 1) navigating fragmented and burdensome care systems; 2) balancing treatment burden, daily life, and personal goals; 3) participation, control, and shared decision-making; 4) the invisible work and emotional toll of family caregiving. Older adults prioritized functional independence, while caregivers acted as de facto care coordinators.                                                           Discussion and Implications                     Multimorbidity care is a complex clinical and socio-cultural process. Although the evidence base is primarily limited by the geographic predominance of Western contexts and participant heterogeneity, these findings suggest that primary care models must transition to person-centered and family-sensitive approaches that integrate patient priorities and provide structured support for informal caregivers.",
+        "source": "The Gerontologist",
+        "issn": "0016-9013",
+        "date": "2026-11-19",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-20",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/geront/gnag259",
+        "doi": "10.1093/geront/gnag259",
+        "url": "https://doi.org/10.1093/geront/gnag259",
+        "title": "The Challenges and Opportunities of Artificial Intelligence for Supporting Health Behavior Change in Older Adults: A Research Centers Collaborative Network Workshop Report",
+        "authors": [
+          "J Fanning",
+          "T E Brinkley",
+          "N K Choudhry",
+          "D E Conroy",
+          "J M Faieta",
+          "F A Jain",
+          "T G Kannampallil",
+          "A Lazar",
+          "T M Manini",
+          "R S McGinnis",
+          "O Ogungbe",
+          "S B Kritchevsky"
+        ],
+        "abstract": "Abstract                   Nearly a century of focused behavioral sciences research has attempted to tackle widespread behavioral challenges, including insufficient levels of physical activity, poor quality eating patterns, poor adherence to medical regimens, and more. Behavioral scientists are increasingly using artificial intelligence (AI)-based technologies to advance the study of behavioral sciences, extend the precision and reach of their programs, and improve their ability to intervene at key moments. There are also new challenges associated with AI technologies, including a discrepancy between the speed of technological development and that of scientific process, ethical and environmental concerns, and the need to ensure that AI-enabled tools are appropriate, accessible, and attractive to diverse older adult users. At this early stage, it is critical that experts from diverse and relevant fields provide their perspectives on opportunities and challenges in the implementation of AI for guiding behavior change in older adults. To this end, the National Institute on Aging Research Centers Collaborative Network hosted a workshop, where a various body of scientific and clinical experts discussed opportunities and challenges regarding the use of AI in behavior change interventions for older adults. We summarize this discussion, highlighting both opportunities and challenges, and present several key areas for future research.",
+        "source": "The Gerontologist",
+        "issn": "0016-9013",
+        "date": "2026-11-19",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-20",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70831",
+        "doi": "10.1111/jgs.70831",
+        "url": "https://doi.org/10.1111/jgs.70831",
+        "title": "Lessons From a Trial of Best Case/Worst Case Communication Tool in Older Adults With Kidney Disease",
+        "authors": [
+          "Samiddhi D. Weerasiri",
+          "Devika Nair",
+          "Rasheeda K. Hall"
+        ],
+        "abstract": "",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-11-19",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-20",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70792",
+        "doi": "10.1111/jgs.70792",
+        "url": "https://doi.org/10.1111/jgs.70792",
+        "title": "Association of Measured and Functional Hearing Loss With Falls and Fear of Falling: A Nationally Representative Study of Older Adults in the\n                    <scp>US</scp>",
+        "authors": [
+          "Sahar Assi",
+          "Carlotta M. Jarach",
+          "Clarice A. Myers",
+          "Sarah Bessen",
+          "Wuyang Zhang",
+          "Jennifer A. Deal",
+          "Alison Huang",
+          "Matthew B. Fitzgerald",
+          "Pablo Martinez‐Amezcua",
+          "Emmanuel E. Garcia Morales",
+          "Nicholas S. Reed"
+        ],
+        "abstract": "ABSTRACT                                        Background                     Falls and fear of falling (FoF) are common among older adults and contribute to increased morbidity, mortality, and healthcare costs. Hearing loss affects two in three people aged 70+ and has been linked to falls. However, the association of hearing loss with falls and FoF is not well established as existing studies use heterogeneous measures for hearing loss (audiometry versus functional/self‐reported), examine restricted age ranges within older adults, and frequently lack national representativeness.                                                           Methods                     We conducted a cross‐sectional analysis of 4745 adults ≥ 65 years from the National Health and Aging Trends Study (NHATS). Measured hearing loss was assessed by pure‐tone audiometry (better‐hearing ear's 4‐frequency pure‐tone average [BPTA] in decibels [dB], categorized as normal [≤ 25 dB], mild [26–40 dB], or moderate or greater hearing loss [&gt; 40 dB]). Functional hearing loss was defined by self‐reported hearing difficulty during common activities. Fall‐related outcomes included falls in the last year, recurrent falls, FoF, and activity limitation due to FoF. We used weighted logistic regression models adjusted for sociodemographic factors, health conditions including vision loss, and fall history to evaluate the association between hearing and fall‐related outcomes.                                                           Results                     56.9% had measured hearing loss, and 11.8% had functional hearing loss. Measured moderate or greater hearing loss was associated with FoF (OR = 1.64, 95% CI: 1.17–2.31) in those without Activities of Daily Living (ADL) disability and recurrent falls both in those without (OR = 2.01, 95% CI: 1.02–3.96) and in those with ADL disability (OR = 2.98, 95% CI: 1.65–5.39). Functional hearing loss was associated with activity limitation from FoF (OR = 1.68, 95% CI: 1.04–2.70) in those with ADL disability. There were no associations between fall‐related outcomes and hearing aid use among those with hearing loss. Associations with falls were qualitatively stronger with functional hearing loss in those aged 65–75.                                                           Conclusions                     Measured and functional hearing loss are associated with fall‐related outcomes with distinct age‐related patterns. Future studies of fall prevention should consider interventions that target hearing impairment.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-11-19",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-20",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70820",
+        "doi": "10.1111/jgs.70820",
+        "url": "https://doi.org/10.1111/jgs.70820",
+        "title": "Trends in Google Searches Regarding “Beers Criteria” Before and Following an Episode of\n                    <scp>\n                      <i>The Pitt</i>\n                    </scp>",
+        "authors": [
+          "Benjamin E. Canter"
+        ],
+        "abstract": "",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-11-19",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-20",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08449-9",
+        "doi": "10.1186/s12877-026-08449-9",
+        "url": "https://doi.org/10.1186/s12877-026-08449-9",
+        "title": "A self-support programme is associated with improved activities of daily living in institutionalized patients with dementia: a 1-year quasi-experimental study",
+        "authors": [
+          "Kaihang Zhang",
+          "Xiaojun Wu",
+          "Yangkun Chen",
+          "Jinxiao Yang",
+          "Jinghong Yuan",
+          "Xiaoqiong Huang"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-19",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-20",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08729-4",
+        "doi": "10.1186/s12877-026-08729-4",
+        "url": "https://doi.org/10.1186/s12877-026-08729-4",
+        "title": "Preoperative geriatric nutritional risk index and postoperative acute kidney injury in older patients undergoing noncardiac surgery: evaluation of incremental predictive value beyond serum albumin",
+        "authors": [
+          "Yanlin Wu",
+          "Min Chen",
+          "Lihua Lei",
+          "Zhisen Dai"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-19",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-20",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08575-4",
+        "doi": "10.1186/s12877-026-08575-4",
+        "url": "https://doi.org/10.1186/s12877-026-08575-4",
+        "title": "Depressive symptoms and sleep quality in caregivers of individuals with Alzheimer’s disease: independent associations in a cross-sectional study",
+        "authors": [
+          "Yasin Tekeci",
+          "Berkan Torpil",
+          "Büşra Kaplan Kılıç",
+          "Turan Emre Özdemir",
+          "Hatice Ünlüsoy",
+          "Dilşah Şimşek"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-19",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-20",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08724-9",
+        "doi": "10.1186/s12877-026-08724-9",
+        "url": "https://doi.org/10.1186/s12877-026-08724-9",
+        "title": "Association between polypharmacy, fall-risk increasing drugs, and fall characteristics in older adults discharged from the emergency department: cross-sectional data from the SeFallED study",
+        "authors": [
+          "Svea Wilkens",
+          "Tim Stuckenschneider",
+          "Kathrin Jobski",
+          "Laura Himmelmann",
+          "Lotta Seppala",
+          "Nathalie van der Velde",
+          "Tania Zieschang"
+        ],
+        "abstract": "Abstract                                        Background                     Polypharmacy and fall-risk-increasing drugs (FRIDs) are known risk factors for falls in older adults. However, the prevalence of polypharmacy and FRIDs in high-risk older adults presenting to the emergency department (ED) after a fall, without hospitalization, is unclear. This study aimed to examine the prevalence of polypharmacy and FRIDs and their associations with specific fall characteristics in this population.                                                           Methods                     The SeFallED study included individuals aged ≥ 60 years who visited an ED in Oldenburg, Germany, after a fall without subsequent hospitalization. Data on fall characteristics and medication use were collected within four weeks of the ED visit. Cross-sectional associations between medication use and fall characteristics were analysed using binary and multinomial logistic regression models. Fall characteristics were characterized by recovery status (recovered vs. unrecovered), location of the fall (indoor vs. outdoor), and direction of the fall (sideways, backward, forward, or collapse).                                                           Results                     Among 335 participants (75.4 ± 9.1 years), the average number of regular medications was 3.6 ± 3.1; with polypharmacy present in 31.3%. FRIDs were identified in 44.5% of participants using STOPPFall medications and 8.4% using medications from the PRISCUS list. No significant associations were found between polypharmacy or FRID use and fall characteristics.                                                           Conclusions                     The high prevalence of polypharmacy and FRID use underscores the importance of systematic medication reviews, as recommended in the global guidelines for falls prevention. Implementing medication reviews at the point of care – such as during ED visits – may represent a valuable opportunity to reduce future fall risk in this vulnerable population.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-19",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-20",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08732-9",
+        "doi": "10.1186/s12877-026-08732-9",
+        "url": "https://doi.org/10.1186/s12877-026-08732-9",
+        "title": "Serum creatinine trajectories and 28-day mortality in older patients with sepsis-associated acute kidney injury: a retrospective cohort study",
+        "authors": [
+          "Changqin Chen",
+          "Yumei Zhang",
+          "Wenchao Mao",
+          "Kailun Cai",
+          "Changyun Zhao"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-19",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-20",
         "fetched_from": "crossref"
       },
       {
@@ -52265,6 +52599,385 @@
           "healthReform"
         ],
         "firstSeen": "2026-11-19",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.20441",
+        "doi": "10.1001/jama.2026.20441",
+        "url": "https://doi.org/10.1001/jama.2026.20441",
+        "title": "Medical Imaging and Pediatric and Adolescent Brain Tumor Risk",
+        "authors": [
+          "Diana L. Miglioretti",
+          "Susan A. Alber",
+          "Marilyn L. Kwan",
+          "Priscila Pequeno",
+          "Erin J. A. Bowles",
+          "Robert T. Greenlee",
+          "Natasha K. Stout",
+          "Sheila Weinmann",
+          "Malini Mahendra",
+          "Melanie Francisco",
+          "Lisa M. Moy",
+          "Carly Stewart",
+          "Wesley E. Bolch",
+          "James R. Duncan",
+          "Jason D. Pole",
+          "Rebecca Smith-Bindman"
+        ],
+        "abstract": "Importance                     Ionizing radiation from medical imaging may increase brain tumor risk.                                                           Objective                     To quantify brain tumor risk associated with radiation exposure from medical imaging in children and adolescents.                                                           Design, Setting, and Participants                     Retrospective cohort study of children born from 1996 through 2016 who were enrolled from birth in 6 US health care systems or Ontario, Canada, and were alive and cancer-free at age 2 years, with follow-up through December 31, 2017 (US sites), and December 31, 2024 (Ontario).                                                           Exposures                     Cumulative radiation dose to the brain from medical imaging, lagged by 2 years.                                                           Main Outcomes and Measures                     Incident brain or other central nervous system tumors. Hazard ratios (HRs) were estimated using Cox proportional hazards models for categorical dose, and excess relative risks (ERRs) were estimated using linear dose-response models for continuous dose.                                                           Results                                            Among 3 704 860 children (1 900 285 [51.3%] male) followed up for 45 671 641 person-years (mean follow-up, 12.3 years), 1536 brain tumors were diagnosed. Mean radiation dose from 1 head computed tomography (CT) examination was 66.2 mGy (SD, 22.2). Among children with cumulative dose of 1 mGy or greater, mean cumulative dose was 73 mGy (SD, 95) overall and 100 mGy (SD, 105) among those diagnosed with brain tumors. Compared with no exposure, brain tumor risk increased with cumulative dose (&amp;amp;gt;0 to &amp;amp;lt;1 mGy: HR, 1.12 [95% CI, 1.01-1.26]; 1 to &amp;amp;lt;5 mGy: HR, 1.71 [95% CI, 0.88-2.96]; 5 to &amp;amp;lt;50 mGy: HR, 1.86 [95% CI, 1.16-2.81]; 50 to &amp;amp;lt;75 mGy: HR, 2.30 [95% CI, 1.64-3.12]; 75 to &amp;amp;lt;100 mGy: HR, 2.02 [95% CI, 1.13-3.30]; 100 to &amp;amp;lt;150 mGy: HR, 2.81 [95% CI, 1.53-4.66]; ≥150 mGy: HR, 3.85 [95% CI, 2.43-5.75]). Cumulative dose was associated with brain tumor risk overall (ERR per 100 mGy, 1.27 [95% CI, 0.83-1.77];                       P                        &amp;amp;lt; .001), with stronger associations for aggressive histologies (ERR per 100 mGy, 1.51 [95% CI, 1.00-2.11];                       P                        &amp;amp;lt; .001). By age 21 years, exposure comparable to 1 head CT was associated with 7.9 excess brain tumors per 10 000 children, or approximately 1 excess tumor per 1266 head CT examinations. The estimated population-attributable fraction was 10.1% (95% CI, 5.8%-14.2%).                                                                                Conclusions and Relevance                     Medical imaging in children and adolescents was associated with a dose-related increase in brain tumor risk. These findings support careful clinical justification and dose minimization when pediatric imaging using ionizing radiation is indicated.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-19",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-20",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.21735",
+        "doi": "10.1001/jama.2026.21735",
+        "url": "https://doi.org/10.1001/jama.2026.21735",
+        "title": "Global Burden of Disease Assessment of Elevated LDL-C—Reply",
+        "authors": [
+          "Christian Razo",
+          "Gregory Roth"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-19",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-20",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.22619",
+        "doi": "10.1001/jama.2026.22619",
+        "url": "https://doi.org/10.1001/jama.2026.22619",
+        "title": "Trends in Menopause Hormone Therapy",
+        "authors": [
+          "Dana O. Sarnak",
+          "Wen Shen",
+          "G. Caleb Alexander"
+        ],
+        "abstract": "This cross-sectional study uses national pharmacy dispensing data to examine menopause hormone therapy dispensing in the US, including by age group as well as formulation and route.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-19",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-20",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.21732",
+        "doi": "10.1001/jama.2026.21732",
+        "url": "https://doi.org/10.1001/jama.2026.21732",
+        "title": "Global Burden of Disease Assessment of Elevated LDL-C",
+        "authors": [
+          "Jiang-Shan Tan",
+          "Zhigang Fu",
+          "Lu Hua"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-19",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-20",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2025.16138",
+        "doi": "10.1001/jama.2025.16138",
+        "url": "https://doi.org/10.1001/jama.2025.16138",
+        "title": "Some Anniversaries of 1926",
+        "authors": [],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-19",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-20",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.16050",
+        "doi": "10.1001/jama.2026.16050",
+        "url": "https://doi.org/10.1001/jama.2026.16050",
+        "title": "Like Self-Driving Cars, Who or What Do We Actually Want Driving Health Care?",
+        "authors": [
+          "Yulin Hswen"
+        ],
+        "abstract": "The balance between efficiency and value in AI is discussed by                     JAMA                     and JAMA+ AI Associate Editor Yulin Hswen, ScD, MPH, and Wilko Schulz-Mahlendorf, PhD, director of Amazon Health Services, for this episode of the                     JAMA+ AI Conversations                     podcast.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-19",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-20",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.21697",
+        "doi": "10.1001/jama.2026.21697",
+        "url": "https://doi.org/10.1001/jama.2026.21697",
+        "title": "What Is Motion Sickness?",
+        "authors": [
+          "Sumit Agarwal",
+          "Preeti N. Malani"
+        ],
+        "abstract": "This JAMA Patient Page describes the common symptoms, risk factors, and causes of motion sickness.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-19",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-20",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.22996",
+        "doi": "10.1001/jama.2026.22996",
+        "url": "https://doi.org/10.1001/jama.2026.22996",
+        "title": "Make It Beautiful",
+        "authors": [
+          "Megan Brandeland"
+        ],
+        "abstract": "In this narrative medicine essay, a physician discusses the way in which her own mental health challenges help her to be more compassionate and empathetic when treating patients.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-19",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-20",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.20669",
+        "doi": "10.1001/jama.2026.20669",
+        "url": "https://doi.org/10.1001/jama.2026.20669",
+        "title": "Pediatric Medical Imaging and Brain Tumor Risk",
+        "authors": [
+          "Federica Persiani",
+          "Luca Boldrini",
+          "Ruggero De Maria"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-19",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-20",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.24588",
+        "doi": "10.1001/jama.2026.24588",
+        "url": "https://doi.org/10.1001/jama.2026.24588",
+        "title": "Plasma eMTBR-Tau as a Potential Biomarker Across Tauopathies",
+        "authors": [
+          "Carla Palleis",
+          "Günter U. Höglinger"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-19",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-20",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.24780",
+        "doi": "10.1001/jama.2026.24780",
+        "url": "https://doi.org/10.1001/jama.2026.24780",
+        "title": "Plasma eMTBR-tau as a Biomarker for Chronic Traumatic Encephalopathy Tau Tangle Neuropathology",
+        "authors": [
+          "Annalise E. Miner",
+          "Thor D. Stein",
+          "Ann C. McKee",
+          "Jesse Mez",
+          "Breton M. Asken",
+          "Alpana Singh",
+          "Davron Hanley",
+          "Henrik Zetterberg",
+          "Kelsey Goostrey",
+          "Sophia B. Nosek",
+          "Jacob Labonte",
+          "Christopher J. Nowinski",
+          "Daniel H. Daneshvar",
+          "Jeremy A. Tanner",
+          "Yorghos Tripodis",
+          "Abigail Young",
+          "Bobak Abdolmohammadi",
+          "Keaden Morisaki",
+          "Matthew Roebuck",
+          "Joseph N. Palmisano",
+          "Brett Martin",
+          "Rachel Nosheny",
+          "Martha E. Shenton",
+          "Jeffrey L. Cummings",
+          "Eric M. Reiman",
+          "Robert A. Stern",
+          "Gil D. Rabinovici",
+          "Nicholas J. Ashton",
+          "Michael L. Alosco"
+        ],
+        "abstract": "Importance                     Chronic traumatic encephalopathy (CTE) is a neurodegenerative disease that cannot accurately be diagnosed during life due to the absence of in vivo biomarkers for CTE neuropathology.                                                           Objective                     To evaluate plasma endogenously cleaved microtubule-binding region tau (eMTBR-tau) as a candidate biomarker for CTE tau tangle neuropathology.                                                           Design, Setting, and Participants                     This case series included 21 former American-style football players who completed a blood draw as part of participation in clinical research at Boston University beginning April 17, 2008, and who subsequently died, donated their brain, and had completed autopsy by October 9, 2026.                                                           Exposures                     Plasma eMTBR-tau nucleic acid–linked immunosandwich assay single-plex immunoassay and plasma phosphorylated tau 217 (p-tau217) (SP-X n = 20; Elecsys n = 1).                                                           Main Outcomes and Measures                     CTE status and stage. Cumulative neuropathologic tau burden scores ranged from 0 to 33 (higher scores indicate tau burden; 0, no tau burden).                                                           Results                     Among 21 male brain donors (median age at blood draw, CTE positive: 68 years [IQR, 61-77]; CTE negative: 49 years [IQR, 47-56]), 18 had a neuropathologic diagnosis of CTE. Of these participants, 16 had a diagnosis of high-stage CTE (stage IV = 8, stage III = 8); and 2, of low-stage CTE (stage II = 1, stage I = 1). Five CTE-positive participants had intermediate or high Alzheimer disease neuropathologic change (ADNC). Plasma eMTBR-tau concentration was significantly higher in CTE-positive participants (median, 0.019 pg/mL [IQR, 0.004-0.030]) compared with CTE-negative participants (0.001 pg/mL [IQR, 0.001-0.001]; β = 1.61 [95% CI, 0.51-2.70]). Plasma eMTBR-tau concentrations were highest among CTE-positive participants with comorbid ADNC (0.082 pg/mL [IQR, 0.059-0.131]) and intermediate among those with high-stage CTE without ADNC (n = 11; median, 0.009 pg/mL [IQR, 0.004-0.021]). Plasma eMTBR-tau concentration was significantly higher in high-stage CTE (median, 0.021 pg/mL [IQR, 0.006-0.038]) compared with low-stage CTE (median, 0.001 pg/mL [IQR, 0.001-0.002]; β = 1.79 [95% CI, 0.45-3.13]) or no CTE (median, 0.001 pg/mL [IQR, 0.001-0.001]; β = 1.78 [95% CI, 0.85-2.71]). Differences remained significant after exclusion of 5 cases with comorbid ADNC. Plasma eMTBR-tau concentration was associated with higher cumulative neuropathologic tau burden score across 11 brain regions (β = 0.71 [95% CI, 0.38-1.05]). Plasma p-tau217 concentration was positively associated with eMTBR-tau (β = 0.68 [95% CI, 0.32-1.04]) but was not associated with CTE. P-tau217 concentrations were in the negative range (n = 11) or intermediate range (n = 5) for participants without ADNC copathology. Four participants with ADNC had p-tau217 concentrations in the positive range; and 1, in the intermediate range.                                                           Conclusions and Relevance                     Participants with high-stage CTE had higher concentrations of plasma eMTBR-tau than those with low-stage or no CTE; concentrations were highest among those with CTE and comorbid ADNC. Plasma eMTBR-tau may represent a feasible biomarker candidate for high-stage CTE tau tangle neuropathology. Larger autopsy and clinical validation studies are needed to establish overall diagnostic accuracy and specificity of plasma eMTBR-tau for CTE neuropathology, in addition to the associated prognostic and clinical implications.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-19",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-20",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejme2614653",
+        "doi": "10.1056/nejme2614653",
+        "url": "https://doi.org/10.1056/nejme2614653",
+        "title": "Slightly Alive — Improving Antituberculosis Therapy",
+        "authors": [
+          "Eric J. Rubin"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-11-19",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-20",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmoa2611913",
+        "doi": "10.1056/nejmoa2611913",
+        "url": "https://doi.org/10.1056/nejmoa2611913",
+        "title": "Assessing Multiple Treatment Regimens for Tuberculosis",
+        "authors": [
+          "Hanif Esmail",
+          "Nicholas I. Paton",
+          "Jodie A. Schildkraut",
+          "Ilaria Motta",
+          "Alexander J. Szubert",
+          "Suzanne M. Dufault",
+          "Norbert Heinrich",
+          "Simon Tiberi",
+          "Cissy M. Kityo",
+          "Timothy D. McHugh",
+          "Fairoez Ryklief",
+          "Daniela M. Cirillo",
+          "Rodney Dawson",
+          "Karen Sanders",
+          "Stellah Mpagama",
+          "Lindsay C. Thompson",
+          "Le Hong Van",
+          "Dominic Wakerley",
+          "Elena Tudor",
+          "Angela M. Crook",
+          "Patrick P.J. Phillips",
+          "Guy Thwaites",
+          "Christoph Lange",
+          "Martin J. Boeree",
+          "Gareth Maher-Edwards",
+          "Natasa Lazarevic",
+          "Jolanda E. van de Logt",
+          "Derek J. Sloan",
+          "David Barros-Aguirre",
+          "Michael Hoelscher"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-11-19",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-20",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1097/ede.0000000000002065",
+        "doi": "10.1097/ede.0000000000002065",
+        "url": "https://doi.org/10.1097/ede.0000000000002065",
+        "title": "What is the key bias that the test-negative design is intended to remove?",
+        "authors": [
+          "Neil Pearce",
+          "Thiago Cerqueira-Silva",
+          "Elizabeth Williamson",
+          "Matthew P. Fox",
+          "Jan Vandenbroucke"
+        ],
+        "abstract": "Test-negative studies recruit ‘cases’ who test positive for a particular disease; ‘controls’ are patients undergoing the same tests for the same medical reasons and who test negative. The design is often used for vaccine effectiveness studies but has also, with certain assumptions, been used to assess risk factors for disease. However, although the test-negative design (TND) has been widely used, and also explored theoretically, there has been little agreement on what type of bias the TND is intended to address, or what the corresponding Directed Acyclic Graph (DAG) is. In this paper, we consider the situation where the only available disease outcome is that available from the natural process of people being tested in a particular population (i.e. no additional testing is done for the study), and those who test positive (the cases) are compared to the rest of the general population (or a sample of general population controls), not all of whom have been tested. In this situation, we show that the bias that the TND is intended to address arises from misclassification of the outcome due to incomplete testing. This bias occurs irrespective of whether the entire source population is studied, or a standard case-control study (with general population controls) is conducted. This bias can be eliminated or minimized by restricting the source population to the subpopulation who get tested. Once again, this restriction works whether all of this tested subpopulation is studied, or if controls are sampled from the non-cases. Using either design within the tested subpopulation controls (fully or in part) for determinants of who gets tested, including health-seeking behaviour. We then briefly consider other biases that may occur in a TND study (e.g. imperfect testing, residual confounding). However, we emphasize that these additional biases generally can occur in any observational study, and are not unique to the TND. The unique bias which the TND is intended to address is misclassification of the outcome due to incomplete testing.",
+        "source": "Epidemiology",
+        "issn": "1044-3983",
+        "date": "2026-11-19",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-20",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag296",
+        "doi": "10.1093/aje/kwag296",
+        "url": "https://doi.org/10.1093/aje/kwag296",
+        "title": "The influence of pre-diagnostic allostatic load on mortality after incident colorectal cancer",
+        "authors": [
+          "Zoe Walts",
+          "Oluwatoyosi Ogunmuyiwa",
+          "Amy Cochran",
+          "Amy Trentham-Dietz",
+          "Melissa Rosenkranz",
+          "Anne D Letocha",
+          "Tiffany L Carson",
+          "Doratha A Byrd",
+          "Martha J Shrubsole",
+          "Shaneda Warren Andersen"
+        ],
+        "abstract": "Abstract                   Allostatic load is an emerging stress biomarker capturing immune, cardiovascular, and metabolic dysregulations. We evaluated associations between allostatic load and mortality after colorectal cancer (CRC) diagnosis, comparing allostatic load to metabolic syndrome to determine if including additional domains beyond metabolism strengthens associations with mortality. Southern Community Cohort Study participants who developed incident CRC after enrollment (2002-2009) were included; most self-identified as Black (69%) and report &amp;lt;$15,000 annual household income (55%). Enrollment samples were analyzed for immune, metabolic, and cardiovascular biomarkers. A standard metabolic syndrome definition was used (3/5 traits); most (N=1007) had available information to calculate metabolic syndrome. To calculate allostatic load, biomarkers above clinical risk cutoffs were summed; counts above median indicated high allostatic load (4/10 traits). A subsample of 303 had additional information to calculate allostatic load. Mortality was ascertained through 2020 via National Death Index linkage. Multivariate-adjusted Cox models estimated hazard ratios and 95% confidence intervals (HR[95%CI]). High allostatic load was associated with higher risk of all-cause (1.81[1.25-2.62]) and CRC-specific mortality (HR:1.81[1.07-3.07]). The latter attenuated after controlling for health behaviors (HR:1.57[0.91-2.70]). Metabolic syndrome was not associated with mortality (all-cause: 1.06[0.88-1.28]; CRC-specific: 1.08[0.83-1.40]). Allostatic load may be a clinically actionable biomarker to readily identify cancer patients with comorbidity.",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-11-19",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-20",
         "fetched_from": "crossref"
       },
       {
@@ -94502,6 +95215,93 @@
     ],
     "agingHealth": [
       {
+        "id": "doi:10.1186/s12877-026-08722-x",
+        "doi": "10.1186/s12877-026-08722-x",
+        "url": "https://doi.org/10.1186/s12877-026-08722-x",
+        "title": "Effects of volunteer-facilitated life review intervention on meaning in life among older adults with disabilities: a randomized controlled trial",
+        "authors": [
+          "Huimin Bao",
+          "Xuejiao Zhu",
+          "Zhiyun Zhou",
+          "Yue Hu",
+          "Shinan Han",
+          "Jinping Ying",
+          "Liuqian Zhang"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-20",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-20",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08719-6",
+        "doi": "10.1186/s12877-026-08719-6",
+        "url": "https://doi.org/10.1186/s12877-026-08719-6",
+        "title": "Longitudinal associations between loneliness-related experiences and changes in naming ability among US older adults: evidence from the bivariate latent change score models",
+        "authors": [
+          "Yanbing Hu",
+          "Xiaoyue Zhao",
+          "Chang Wei",
+          "Chenguang Du"
+        ],
+        "abstract": "Abstract                                        Background                     Naming ability is a key indicator of language-related cognitive function in older adults, but its longitudinal relationship with different loneliness-related dimensions remains unclear. This study investigated prospective associations between baseline levels and 12-year changes in ability and two loneliness-related dimensions, Feeling isolated and Lack of social connection, among older adults in the US.                                                           Methods                     The main analyses used baseline and 12-year follow-up data from the 2008 and 2020 waves of the Health and Retirement Study. The analytic sample included 2,960 adults aged 65 years and older at baseline. Naming ability was measured using TICS-based naming-related items. Feeling isolated and Lack of social connection were derived from the 11-item UCLA Loneliness Scale. Two bivariate latent change score models were estimated to examine self-feedback effects and cross-domain coupling effects between naming ability and each loneliness-related dimension. The models adjusted for demographic characteristics, socioeconomic status, physical health, depressive symptoms, and family structure.                                                           Results                     From 2008 to 2020, naming ability was lower at follow-up, whereas Feeling isolated and Lack of social connection were higher. In the model of naming ability and Feeling isolated, baseline naming ability significantly and positively predicted subsequent change in Feeling isolated, while baseline Feeling isolated significantly and negatively predicted subsequent change in naming ability. In the model of naming ability and Lack of social connection, baseline Lack of social connection significantly and negatively predicted subsequent change in naming ability, whereas baseline naming ability did not significantly predict change in Lack of social connection. Both models showed significant self-feedback effects, but the associations between change in naming ability and change in loneliness-related dimensions were not significant.                                                           Conclusion                     Higher baseline levels of loneliness-related experiences were prospectively associated with less favorable changes in naming ability among older adults. Feeling isolated and Lack of social connection were both linked to later changes in naming ability, but their longitudinal patterns differed. These findings highlight the importance of understanding language-related cognitive aging within the broader context of social interaction and social connection. Future intervention studies should evaluate whether supporting daily communication, social participation, and stable social relationships can help maintain language-related cognitive function in later life.                                                           Clinical trial number                     Not applicable.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-20",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-20",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08555-8",
+        "doi": "10.1186/s12877-026-08555-8",
+        "url": "https://doi.org/10.1186/s12877-026-08555-8",
+        "title": "Enhanced management of home-based elders with depression (EMBED): protocol for a cluster randomised controlled trial",
+        "authors": [
+          "Tanya E. Davison",
+          "Marissa Dickins",
+          "Sunil Bhar",
+          "Osvaldo Almeida",
+          "Yun-Hee Jeon",
+          "Viviana Wuthrich",
+          "Leon Flicker",
+          "Rachel Milte",
+          "Henry Brodaty",
+          "Sze-Ee Soh",
+          "Katya Numbers",
+          "Darshini Ayton",
+          "Julie Kelly",
+          "Leah Heiss",
+          "Tuan Nguyen",
+          "Monica Cations",
+          "Suzanne Robinson",
+          "Nilmini Wickramasinghe",
+          "Karen Smith"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-20",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-20",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1186/s12877-026-08566-5",
         "doi": "10.1186/s12877-026-08566-5",
         "url": "https://doi.org/10.1186/s12877-026-08566-5",
@@ -94567,6 +95367,306 @@
           "agingHealth"
         ],
         "firstSeen": "2026-11-19",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/geront/gnag255",
+        "doi": "10.1093/geront/gnag255",
+        "url": "https://doi.org/10.1093/geront/gnag255",
+        "title": "Patient and Caregiver Experiences of Multimorbidity in Primary and Community Care: A Qualitative Systematic Review",
+        "authors": [
+          "Patcharin Namuangrak",
+          "Kanlayawee Anonjarn"
+        ],
+        "abstract": "Abstract                                        Background and Objectives                     Multimorbidity is common among older adults, shifting care coordination responsibilities to individuals and family caregivers in community settings. This qualitative systematic review synthesizes evidence regarding the care needs, experiences, and challenges of community-dwelling older adults and their caregivers.                                                           Research Design and Methods                     Following PRISMA 2020 guidelines and PROSPERO registration (PROSPERO: CRD420251148165), a comprehensive search across five databases (CINAHL, MEDLINE, PsycINFO, Scopus, ThaiJO) identified relevant qualitative studies published between January 2015 and April 2025 across high- and middle-income countries. Twenty-five studies (reported in 26 publications) were selected, analyzed via thematic synthesis, and appraised using the JBI Critical Appraisal Checklist.                                                           Results                     Twenty-five qualitative studies were included, representing a pooled total of 599 older adults (aged ≥ 60 years) and 376 family caregivers across studies reporting these participant groups. Four analytical themes emerged: 1) navigating fragmented and burdensome care systems; 2) balancing treatment burden, daily life, and personal goals; 3) participation, control, and shared decision-making; 4) the invisible work and emotional toll of family caregiving. Older adults prioritized functional independence, while caregivers acted as de facto care coordinators.                                                           Discussion and Implications                     Multimorbidity care is a complex clinical and socio-cultural process. Although the evidence base is primarily limited by the geographic predominance of Western contexts and participant heterogeneity, these findings suggest that primary care models must transition to person-centered and family-sensitive approaches that integrate patient priorities and provide structured support for informal caregivers.",
+        "source": "The Gerontologist",
+        "issn": "0016-9013",
+        "date": "2026-11-19",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-20",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/geront/gnag259",
+        "doi": "10.1093/geront/gnag259",
+        "url": "https://doi.org/10.1093/geront/gnag259",
+        "title": "The Challenges and Opportunities of Artificial Intelligence for Supporting Health Behavior Change in Older Adults: A Research Centers Collaborative Network Workshop Report",
+        "authors": [
+          "J Fanning",
+          "T E Brinkley",
+          "N K Choudhry",
+          "D E Conroy",
+          "J M Faieta",
+          "F A Jain",
+          "T G Kannampallil",
+          "A Lazar",
+          "T M Manini",
+          "R S McGinnis",
+          "O Ogungbe",
+          "S B Kritchevsky"
+        ],
+        "abstract": "Abstract                   Nearly a century of focused behavioral sciences research has attempted to tackle widespread behavioral challenges, including insufficient levels of physical activity, poor quality eating patterns, poor adherence to medical regimens, and more. Behavioral scientists are increasingly using artificial intelligence (AI)-based technologies to advance the study of behavioral sciences, extend the precision and reach of their programs, and improve their ability to intervene at key moments. There are also new challenges associated with AI technologies, including a discrepancy between the speed of technological development and that of scientific process, ethical and environmental concerns, and the need to ensure that AI-enabled tools are appropriate, accessible, and attractive to diverse older adult users. At this early stage, it is critical that experts from diverse and relevant fields provide their perspectives on opportunities and challenges in the implementation of AI for guiding behavior change in older adults. To this end, the National Institute on Aging Research Centers Collaborative Network hosted a workshop, where a various body of scientific and clinical experts discussed opportunities and challenges regarding the use of AI in behavior change interventions for older adults. We summarize this discussion, highlighting both opportunities and challenges, and present several key areas for future research.",
+        "source": "The Gerontologist",
+        "issn": "0016-9013",
+        "date": "2026-11-19",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-20",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70831",
+        "doi": "10.1111/jgs.70831",
+        "url": "https://doi.org/10.1111/jgs.70831",
+        "title": "Lessons From a Trial of Best Case/Worst Case Communication Tool in Older Adults With Kidney Disease",
+        "authors": [
+          "Samiddhi D. Weerasiri",
+          "Devika Nair",
+          "Rasheeda K. Hall"
+        ],
+        "abstract": "",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-11-19",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-20",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70792",
+        "doi": "10.1111/jgs.70792",
+        "url": "https://doi.org/10.1111/jgs.70792",
+        "title": "Association of Measured and Functional Hearing Loss With Falls and Fear of Falling: A Nationally Representative Study of Older Adults in the\n                    <scp>US</scp>",
+        "authors": [
+          "Sahar Assi",
+          "Carlotta M. Jarach",
+          "Clarice A. Myers",
+          "Sarah Bessen",
+          "Wuyang Zhang",
+          "Jennifer A. Deal",
+          "Alison Huang",
+          "Matthew B. Fitzgerald",
+          "Pablo Martinez‐Amezcua",
+          "Emmanuel E. Garcia Morales",
+          "Nicholas S. Reed"
+        ],
+        "abstract": "ABSTRACT                                        Background                     Falls and fear of falling (FoF) are common among older adults and contribute to increased morbidity, mortality, and healthcare costs. Hearing loss affects two in three people aged 70+ and has been linked to falls. However, the association of hearing loss with falls and FoF is not well established as existing studies use heterogeneous measures for hearing loss (audiometry versus functional/self‐reported), examine restricted age ranges within older adults, and frequently lack national representativeness.                                                           Methods                     We conducted a cross‐sectional analysis of 4745 adults ≥ 65 years from the National Health and Aging Trends Study (NHATS). Measured hearing loss was assessed by pure‐tone audiometry (better‐hearing ear's 4‐frequency pure‐tone average [BPTA] in decibels [dB], categorized as normal [≤ 25 dB], mild [26–40 dB], or moderate or greater hearing loss [&gt; 40 dB]). Functional hearing loss was defined by self‐reported hearing difficulty during common activities. Fall‐related outcomes included falls in the last year, recurrent falls, FoF, and activity limitation due to FoF. We used weighted logistic regression models adjusted for sociodemographic factors, health conditions including vision loss, and fall history to evaluate the association between hearing and fall‐related outcomes.                                                           Results                     56.9% had measured hearing loss, and 11.8% had functional hearing loss. Measured moderate or greater hearing loss was associated with FoF (OR = 1.64, 95% CI: 1.17–2.31) in those without Activities of Daily Living (ADL) disability and recurrent falls both in those without (OR = 2.01, 95% CI: 1.02–3.96) and in those with ADL disability (OR = 2.98, 95% CI: 1.65–5.39). Functional hearing loss was associated with activity limitation from FoF (OR = 1.68, 95% CI: 1.04–2.70) in those with ADL disability. There were no associations between fall‐related outcomes and hearing aid use among those with hearing loss. Associations with falls were qualitatively stronger with functional hearing loss in those aged 65–75.                                                           Conclusions                     Measured and functional hearing loss are associated with fall‐related outcomes with distinct age‐related patterns. Future studies of fall prevention should consider interventions that target hearing impairment.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-11-19",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-20",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70820",
+        "doi": "10.1111/jgs.70820",
+        "url": "https://doi.org/10.1111/jgs.70820",
+        "title": "Trends in Google Searches Regarding “Beers Criteria” Before and Following an Episode of\n                    <scp>\n                      <i>The Pitt</i>\n                    </scp>",
+        "authors": [
+          "Benjamin E. Canter"
+        ],
+        "abstract": "",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-11-19",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-20",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08449-9",
+        "doi": "10.1186/s12877-026-08449-9",
+        "url": "https://doi.org/10.1186/s12877-026-08449-9",
+        "title": "A self-support programme is associated with improved activities of daily living in institutionalized patients with dementia: a 1-year quasi-experimental study",
+        "authors": [
+          "Kaihang Zhang",
+          "Xiaojun Wu",
+          "Yangkun Chen",
+          "Jinxiao Yang",
+          "Jinghong Yuan",
+          "Xiaoqiong Huang"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-19",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-20",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08729-4",
+        "doi": "10.1186/s12877-026-08729-4",
+        "url": "https://doi.org/10.1186/s12877-026-08729-4",
+        "title": "Preoperative geriatric nutritional risk index and postoperative acute kidney injury in older patients undergoing noncardiac surgery: evaluation of incremental predictive value beyond serum albumin",
+        "authors": [
+          "Yanlin Wu",
+          "Min Chen",
+          "Lihua Lei",
+          "Zhisen Dai"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-19",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-20",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08575-4",
+        "doi": "10.1186/s12877-026-08575-4",
+        "url": "https://doi.org/10.1186/s12877-026-08575-4",
+        "title": "Depressive symptoms and sleep quality in caregivers of individuals with Alzheimer’s disease: independent associations in a cross-sectional study",
+        "authors": [
+          "Yasin Tekeci",
+          "Berkan Torpil",
+          "Büşra Kaplan Kılıç",
+          "Turan Emre Özdemir",
+          "Hatice Ünlüsoy",
+          "Dilşah Şimşek"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-19",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-20",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08724-9",
+        "doi": "10.1186/s12877-026-08724-9",
+        "url": "https://doi.org/10.1186/s12877-026-08724-9",
+        "title": "Association between polypharmacy, fall-risk increasing drugs, and fall characteristics in older adults discharged from the emergency department: cross-sectional data from the SeFallED study",
+        "authors": [
+          "Svea Wilkens",
+          "Tim Stuckenschneider",
+          "Kathrin Jobski",
+          "Laura Himmelmann",
+          "Lotta Seppala",
+          "Nathalie van der Velde",
+          "Tania Zieschang"
+        ],
+        "abstract": "Abstract                                        Background                     Polypharmacy and fall-risk-increasing drugs (FRIDs) are known risk factors for falls in older adults. However, the prevalence of polypharmacy and FRIDs in high-risk older adults presenting to the emergency department (ED) after a fall, without hospitalization, is unclear. This study aimed to examine the prevalence of polypharmacy and FRIDs and their associations with specific fall characteristics in this population.                                                           Methods                     The SeFallED study included individuals aged ≥ 60 years who visited an ED in Oldenburg, Germany, after a fall without subsequent hospitalization. Data on fall characteristics and medication use were collected within four weeks of the ED visit. Cross-sectional associations between medication use and fall characteristics were analysed using binary and multinomial logistic regression models. Fall characteristics were characterized by recovery status (recovered vs. unrecovered), location of the fall (indoor vs. outdoor), and direction of the fall (sideways, backward, forward, or collapse).                                                           Results                     Among 335 participants (75.4 ± 9.1 years), the average number of regular medications was 3.6 ± 3.1; with polypharmacy present in 31.3%. FRIDs were identified in 44.5% of participants using STOPPFall medications and 8.4% using medications from the PRISCUS list. No significant associations were found between polypharmacy or FRID use and fall characteristics.                                                           Conclusions                     The high prevalence of polypharmacy and FRID use underscores the importance of systematic medication reviews, as recommended in the global guidelines for falls prevention. Implementing medication reviews at the point of care – such as during ED visits – may represent a valuable opportunity to reduce future fall risk in this vulnerable population.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-19",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-20",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08732-9",
+        "doi": "10.1186/s12877-026-08732-9",
+        "url": "https://doi.org/10.1186/s12877-026-08732-9",
+        "title": "Serum creatinine trajectories and 28-day mortality in older patients with sepsis-associated acute kidney injury: a retrospective cohort study",
+        "authors": [
+          "Changqin Chen",
+          "Yumei Zhang",
+          "Wenchao Mao",
+          "Kailun Cai",
+          "Changyun Zhao"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-19",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-20",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1097/ede.0000000000002065",
+        "doi": "10.1097/ede.0000000000002065",
+        "url": "https://doi.org/10.1097/ede.0000000000002065",
+        "title": "What is the key bias that the test-negative design is intended to remove?",
+        "authors": [
+          "Neil Pearce",
+          "Thiago Cerqueira-Silva",
+          "Elizabeth Williamson",
+          "Matthew P. Fox",
+          "Jan Vandenbroucke"
+        ],
+        "abstract": "Test-negative studies recruit ‘cases’ who test positive for a particular disease; ‘controls’ are patients undergoing the same tests for the same medical reasons and who test negative. The design is often used for vaccine effectiveness studies but has also, with certain assumptions, been used to assess risk factors for disease. However, although the test-negative design (TND) has been widely used, and also explored theoretically, there has been little agreement on what type of bias the TND is intended to address, or what the corresponding Directed Acyclic Graph (DAG) is. In this paper, we consider the situation where the only available disease outcome is that available from the natural process of people being tested in a particular population (i.e. no additional testing is done for the study), and those who test positive (the cases) are compared to the rest of the general population (or a sample of general population controls), not all of whom have been tested. In this situation, we show that the bias that the TND is intended to address arises from misclassification of the outcome due to incomplete testing. This bias occurs irrespective of whether the entire source population is studied, or a standard case-control study (with general population controls) is conducted. This bias can be eliminated or minimized by restricting the source population to the subpopulation who get tested. Once again, this restriction works whether all of this tested subpopulation is studied, or if controls are sampled from the non-cases. Using either design within the tested subpopulation controls (fully or in part) for determinants of who gets tested, including health-seeking behaviour. We then briefly consider other biases that may occur in a TND study (e.g. imperfect testing, residual confounding). However, we emphasize that these additional biases generally can occur in any observational study, and are not unique to the TND. The unique bias which the TND is intended to address is misclassification of the outcome due to incomplete testing.",
+        "source": "Epidemiology",
+        "issn": "1044-3983",
+        "date": "2026-11-19",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-20",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag296",
+        "doi": "10.1093/aje/kwag296",
+        "url": "https://doi.org/10.1093/aje/kwag296",
+        "title": "The influence of pre-diagnostic allostatic load on mortality after incident colorectal cancer",
+        "authors": [
+          "Zoe Walts",
+          "Oluwatoyosi Ogunmuyiwa",
+          "Amy Cochran",
+          "Amy Trentham-Dietz",
+          "Melissa Rosenkranz",
+          "Anne D Letocha",
+          "Tiffany L Carson",
+          "Doratha A Byrd",
+          "Martha J Shrubsole",
+          "Shaneda Warren Andersen"
+        ],
+        "abstract": "Abstract                   Allostatic load is an emerging stress biomarker capturing immune, cardiovascular, and metabolic dysregulations. We evaluated associations between allostatic load and mortality after colorectal cancer (CRC) diagnosis, comparing allostatic load to metabolic syndrome to determine if including additional domains beyond metabolism strengthens associations with mortality. Southern Community Cohort Study participants who developed incident CRC after enrollment (2002-2009) were included; most self-identified as Black (69%) and report &amp;lt;$15,000 annual household income (55%). Enrollment samples were analyzed for immune, metabolic, and cardiovascular biomarkers. A standard metabolic syndrome definition was used (3/5 traits); most (N=1007) had available information to calculate metabolic syndrome. To calculate allostatic load, biomarkers above clinical risk cutoffs were summed; counts above median indicated high allostatic load (4/10 traits). A subsample of 303 had additional information to calculate allostatic load. Mortality was ascertained through 2020 via National Death Index linkage. Multivariate-adjusted Cox models estimated hazard ratios and 95% confidence intervals (HR[95%CI]). High allostatic load was associated with higher risk of all-cause (1.81[1.25-2.62]) and CRC-specific mortality (HR:1.81[1.07-3.07]). The latter attenuated after controlling for health behaviors (HR:1.57[0.91-2.70]). Metabolic syndrome was not associated with mortality (all-cause: 1.06[0.88-1.28]; CRC-specific: 1.08[0.83-1.40]). Allostatic load may be a clinically actionable biomarker to readily identify cancer patients with comorbidity.",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-11-19",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-20",
         "fetched_from": "crossref"
       },
       {
@@ -133406,6 +134506,66 @@
     ],
     "socialWork": [
       {
+        "id": "doi:10.1177/14680173261503796",
+        "doi": "10.1177/14680173261503796",
+        "url": "https://doi.org/10.1177/14680173261503796",
+        "title": "Searching for Origins After Adoption: Social Workers’ Perspectives on Barriers and Challenges in Spain",
+        "authors": [
+          "María del Valle Medina Rodríguez",
+          "Chandra Kala Clemente-Martínez",
+          "Aranzazu Gallego Molinero"
+        ],
+        "abstract": "Summary                                            In Spain, adoptees’ right to access information about their origins is legally recognized, yet implementation remains uneven and difficult. This article examines how origins-search processes are understood, mediated, and constrained within the Spanish post-adoption system, focusing on intercountry adoption. Drawing on semi-structured interviews with 10 professionals in adoption, post-adoption services, mediation, and social work, the study uses                       Braun and Clarke’s (2006)                       thematic analysis, informed by a rights-based and relational approach to access to origins. This framework captures the institutional, ethical, emotional, and transnational dimensions of searches, and the role of social work in supporting adoptees, adoptive families, and birth relatives.                                                                                Findings                     The findings reveal a gap between formal recognition of the right to know one's origins and the conditions needed to exercise it. Professionals identified barriers including institutional fragmentation, uneven provision across Autonomous Communities, limited public resources, insufficient training, and restrictive interpretations of confidentiality and data protection. In intercountry adoption, these difficulties are intensified by weak cooperation with countries of origin, inconsistent record-keeping, inaccessible archives, and unclear procedures. Searches are not always directed towards family reunification, but often involve identity construction, biographical continuity, cultural belonging, and emotional meaning-making. The study also highlights birth mothers and first families, whose rights and vulnerabilities remain insufficiently recognized.                                                           Applications                     The article calls for comprehensive, publicly funded, rights-based post-adoption services, including interoperable records, common protocols, counselling, mediation, intercultural and legal support, and stronger international cooperation. For social work, the findings underline psychosocial accompaniment, trauma-informed practice, and intercultural competence in facilitating ethical, context-sensitive origins searches.",
+        "source": "Journal of Social Work",
+        "issn": "1468-0173",
+        "date": "2026-11-19",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-11-20",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1007/s10896-026-01203-0",
+        "doi": "10.1007/s10896-026-01203-0",
+        "url": "https://doi.org/10.1007/s10896-026-01203-0",
+        "title": "Witnessing and Experiencing Family Violence as Predictors of Sibling Violence Perpetration: The Moderating Role of Political Violence",
+        "authors": [
+          "Heba F. Zedan",
+          "Muhammad M. Haj-Yahia"
+        ],
+        "abstract": "",
+        "source": "Journal of Family Violence",
+        "issn": "0885-7482",
+        "date": "2026-11-19",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-11-20",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/bjsw/bcag289",
+        "doi": "10.1093/bjsw/bcag289",
+        "url": "https://doi.org/10.1093/bjsw/bcag289",
+        "title": "Resettlement, culturally grounded social support, and mental health among Rwandan refugees in the United States",
+        "authors": [
+          "Betty C Tonui"
+        ],
+        "abstract": "Abstract                   Refugees face complex challenges during and after resettlement that affect mental health. Despite growing research on refugee mental health, limited attention has been given to how sociocultural factors shape the experiences of Rwandan refugees resettled in the U.S. Guided by Ecological Systems Theory, this qualitative study examines how sociocultural factors and informal support networks shape the experiences and psychological integration of Rwandan refugees in the USA. Using a Descriptive Phenomenological Approach and Colaizzi’s method, in-depth interviews with thirteen adults revealed two themes. Theme 1 highlights the protective role of mutual aid, faith-based networks, and informal mentorship in fostering resilience, maintaining cultural identity, and providing emotional and practical support. Participants emphasized the importance of role models, financial assistance, and culturally relevant spiritual practices in reducing social isolation and strengthening community connections. Theme 2 reveals the psychological consequences of social disconnection, stigma, and trauma during early resettlement. The absence of culturally grounded support, barriers to services, and social isolation contributed to increased distress and challenges to integration. These findings underscore the need for culturally responsive mental health services and community-based support that honor refugees’ cultural contexts. The study advocates strengths-based social work practices and policies that promote well-being and successful integration.",
+        "source": "The British Journal of Social Work",
+        "issn": "0045-3102",
+        "date": "2026-11-19",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-11-20",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1007/s10896-026-01205-y",
         "doi": "10.1007/s10896-026-01205-y",
         "url": "https://doi.org/10.1007/s10896-026-01205-y",
@@ -133430,6 +134590,25 @@
           "socialWork"
         ],
         "firstSeen": "2026-11-18",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/14680173261503084",
+        "doi": "10.1177/14680173261503084",
+        "url": "https://doi.org/10.1177/14680173261503084",
+        "title": "Mediation of Theory in Social Work Textbooks",
+        "authors": [
+          "Siri Fjeldheim"
+        ],
+        "abstract": "Summary                                            The relationship between theory and practice has long been debated in social work, often with practice prioritised as central and theory framed as abstract or marginal. While scepticism towards theory is well documented among students and practitioners, less attention has been paid to how textbooks contribute to constructing such perceptions. This article analyses how theory is mediated in influential social work textbooks from the early 20                       th                       century to the present. The study analyses 13 influential social work textbooks published between 1917 and 2023 in order to examine how theory is mediated across changing historical contexts. Drawing on Bauman's concept of mediation and theories of intertextuality, the textbooks are analysed as discursive sites in which theory is authorised and communicated.                                                                                Findings                     The analysis identifies three dominant mediation strategies: (i) legitimising theory through its use-value; (ii) framing theory and practice through dualisms and value-laden contrasts; and (iii) broadening and blurring theoretical boundaries through semantic expansion and interchangeable terminology. These strategies contribute to a discursive pattern in which theory is positioned as indispensable yet intellectually constrained, and reinforce hierarchical distinctions between practice and theory.                                                           Applications                     The findings highlight how educational texts contribute to shaping social work's academic foundations and professional self-understanding. By exposing how theory is selectively legitimised in teaching materials, the article encourages critical reflection on curriculum design and textbook use. This has implications for how future practitioners are socialised into the profession and for efforts to strengthen social work's theoretical and academic base.",
+        "source": "Journal of Social Work",
+        "issn": "1468-0173",
+        "date": "2026-11-18",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-11-20",
         "fetched_from": "crossref"
       },
       {
@@ -146015,10 +147194,10 @@
   },
   "totals": {
     "socialSecurity": 1626,
-    "elderCare": 1056,
-    "healthReform": 1570,
-    "agingHealth": 1513,
-    "socialWork": 550
+    "elderCare": 1069,
+    "healthReform": 1585,
+    "agingHealth": 1528,
+    "socialWork": 554
   },
   "feeds_ok": 41
 }
