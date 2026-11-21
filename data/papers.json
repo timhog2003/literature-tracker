@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-20",
-  "fetched": "2026-11-20T08:47:15+00:00",
+  "date": "2026-11-21",
+  "fetched": "2026-11-21T08:29:21+00:00",
   "domains": {
     "socialSecurity": [
       {
@@ -25447,6 +25447,31 @@
     ],
     "elderCare": [
       {
+        "id": "doi:10.1186/s12877-026-08709-8",
+        "doi": "10.1186/s12877-026-08709-8",
+        "url": "https://doi.org/10.1186/s12877-026-08709-8",
+        "title": "Unpacking what works in home rehabilitation in relation to contexts, mechanisms, and outcomes in a qualitative scoping review",
+        "authors": [
+          "Anette Johansson",
+          "Maria Ranner",
+          "Susanne Guidetti",
+          "Katarina Baudin",
+          "Elisabeth Rydwik",
+          "Sofi Fristedt"
+        ],
+        "abstract": "Abstract                                        Background                     Understanding how home rehabilitation works, for whom, and under what circumstances is essential for developing effective person-centred services for older adults. Therefore, the aim is to systematically map and summarise the contexts and mechanisms described in qualitative studies of home rehabilitation, and to describe how these are understood in relation to outcomes from the perspectives of older adults, their relatives, and staff.                                                           Methods                     A scoping review was conducted in accordance with the Joanna Briggs Institute methodology to explore qualitative evidence on home rehabilitation for older adults. Peer-reviewed qualitative studies published in English between 2006 and 2026 were identified through searches in Medline, Web of Science, CINAHL, and SweMed + . Studies were included if they explored experiences and views of older adults, relatives, or rehabilitation staff in home rehabilitation involving occupational therapists and/or physiotherapists. Data were extracted and mapped using a Context–Mechanism–Outcome (CMO) framework to identify mechanisms (including resources or reasoning) and contextual factors relevant to outcomes of home rehabilitation.                                                           Results                     A total of 62 qualitative studies were included. Analysis identified three categories with subcategories. The categories are (1) Professional knowledge and approach, (2) Home and everyday life, and (3) Focus on personalisation. The categories illustrate how contextual conditions shape mechanisms, i.e., resources or reasoning that contribute to rehabilitation outcomes for older adults receiving home rehabilitation.                                                           Conclusions                     This review identified key contextual factors and mechanisms that influence outcomes of home rehabilitation for older adults. The findings provide an empirical foundation for the development of a programme theory and may support the design of more integrated and person-centred home rehabilitation services.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-21",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-21",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1186/s12877-026-08722-x",
         "doi": "10.1186/s12877-026-08722-x",
         "url": "https://doi.org/10.1186/s12877-026-08722-x",
@@ -25531,6 +25556,192 @@
           "agingHealth"
         ],
         "firstSeen": "2026-11-20",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/geront/gnag262",
+        "doi": "10.1093/geront/gnag262",
+        "url": "https://doi.org/10.1093/geront/gnag262",
+        "title": "From Depression to Expression: A Community Expressive Arts Program for Alleviating Depressive Symptoms in Community-Dwelling Older Adults",
+        "authors": [
+          "Rainbow T H Ho",
+          "Caitlin K P Chan",
+          "Temmy L T Lo",
+          "Ted C T Fong"
+        ],
+        "abstract": "Abstract                                        Background and Objectives                     Growing evidence supports the use of arts to improve older adults’ psychosocial and spiritual well-being. This study evaluated the effects of an expressive arts-based intervention (EABI) under the train-the-trainer program on depressive symptoms, spiritual well-being, and quality of life of older adults in Hong Kong.                                                           Research Design and Methods                     In a mixed-methods design, 84 healthcare workers in Hong Kong completed the train-the-trainer program as ambassadors and delivered the 8-week EABI to 915 older adults with mild to moderate depressive symptoms. Older adults completed validated measures of depression, spirituality, and quality of life (QoL) before and after EABI. Ten ambassadors and 34 older adults participated in focus groups. The EABI effects were analyzed by paired sample t-tests and multilevel modeling evaluated the associations between ambassadors’ and older adults’ changes.                                                           Results                     Ambassadors showed increased self-efficacy (d = 0.53) and older adults showed substantial declines in depressive symptoms (d = 0.91) and significant improvements in spiritual well-being, overall QoL, and QoL subscales (d = 0.18–0.45). Changes in ambassadors’ self-efficacy showed significant indirect effects on older adults’ depressive symptoms (αβ = –0.23, 95% CI: −0.46, −0.01) and overall QoL (αβ = 0.27, 95% CI: 0.01, 0.52) via changes in spiritual well-being. Thematic analysis indicated improved psychosocial well-being among older adults and enhanced knowledge and service-delivery skills among ambassadors.                                                           Discussion and Implications                     The EABI showed preliminary benefits on healthcare workers’ self-efficacy and older adults’ psychosocial well-being. The findings provide initial support on using EABI in geriatric care via a train-the-trainer framework.",
+        "source": "The Gerontologist",
+        "issn": "0016-9013",
+        "date": "2026-11-20",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-21",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/geront/gnag264",
+        "doi": "10.1093/geront/gnag264",
+        "url": "https://doi.org/10.1093/geront/gnag264",
+        "title": "Navigating the Transition to Hospice in Dementia: A Qualitative Study of Family Caregivers’ Experiences",
+        "authors": [
+          "Oonjee Oh",
+          "Connie Ulrich",
+          "Lauren Massimo",
+          "Janet A Deatrick",
+          "Karla Washington",
+          "Debra Parker Oliver",
+          "George Demiris"
+        ],
+        "abstract": "Abstract                                        Background and Objectives                     Hospice transition is traditionally understood as the shift from a curative to exclusively palliative plan of care. However, because the end-of-life trajectory in dementia is often uncertain, a better understanding of hospice transition is needed for persons with dementia. We explored how family caregivers decide to enroll persons with dementia in hospice and experience hospice transition.                                                           Research Design and Methods                     We used content analysis informed by Janis and Mann’s (1977) conflict theory of decision-making and McCarthy et al.’s (2023) narrative synthesis on caregivers’ experiences during end-of-life care transitions. We included 25 caregivers of hospice patients with dementia.                                                           Results                     Theme 1: The decision to pursue hospice is inseparable from caregivers’ cumulative experience of varying degrees of support across the dementia care trajectory. Antecedents included dementia progression, negative appraisal of previous care, and insufficient support networks. Decision-making components encompassed the risks and benefits of hospice, patients’ wishes, alternative options, and caregivers’ preparedness to enroll; emotional responses extended beyond the moment of decision. Theme 2: Transitioning to hospice requires caregivers to shift from managing dementia as a chronic condition to seeking comfort-focused support, yet this reframing is complicated by the disease’s unpredictable course. This theme included how caregivers’ responsibilities evolved, how patients’ health changed, and how they found meaning and hope in hospice and maintained normality during transitions.                                                           Discussion and Implication                     Caregivers’ profound need for support was central to both themes, with hospice perceived as a vital resource in end-of-life dementia care and caregiving. Yet caregiver needs remain largely unrecognized.",
+        "source": "The Gerontologist",
+        "issn": "0016-9013",
+        "date": "2026-11-20",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-21",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/geront/gnag263",
+        "doi": "10.1093/geront/gnag263",
+        "url": "https://doi.org/10.1093/geront/gnag263",
+        "title": "Beyond Behaviour: A Trauma-Informed Behaviour Assessment Framework for Understanding and Preventing Behavioural Distress in Dementia",
+        "authors": [
+          "Rebecca Bates"
+        ],
+        "abstract": "Abstract                   Behavioural and psychological symptoms of dementia are common and clinically important, yet behavioural distress is multifactorial and may arise through interactions among neurological, medical, psychological, relational, environmental, and social factors. Contemporary dementia care therefore emphasizes comprehensive assessment, person-centred care, attention to life history and environmental context, and individualized non-pharmacological responses. However, trauma-informed considerations may not always be made explicit within behavioural formulation and care planning.                   This Forum paper proposes Trauma-Informed Behaviour Assessment, a dementia-specific conceptual framework for incorporating trauma-informed considerations into existing approaches to behavioural assessment. Trauma-Informed Behaviour Assessment does not replace multifactorial assessment, person-centred care, or established approaches such as Describe, Investigate, Create and Evaluate approach, nor does it assume that trauma causes behavioural expressions. Instead, it provides a structured lens through which clinicians can consider relevant adversity and trauma history, behavioural context and triggers, possible trauma-related responses, sensory and environmental conditions, relational and biographical meaning, and sources of safety and control. Trauma-Informed Behaviour Assessment does not replace multifactorial assessment, person-centred care, or established approaches such as the Describe, Investigate, Create, and Evaluate approach, a four-step framework for identifying potential contributors to behavioural distress and developing individualized responses (Kales et al., 2014).                   Trauma-Informed Behaviour Assessment is proposed as a conceptual clinical formulation framework rather than a validated assessment instrument or diagnostic tool. Its contribution is to make trauma-related threat, safety, control, and retraumatization explicit considerations within existing dementia behavioural assessment. The framework requires participatory refinement, operationalization, feasibility testing, and empirical evaluation before routine clinical implementation.",
+        "source": "The Gerontologist",
+        "issn": "0016-9013",
+        "date": "2026-11-20",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-21",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/geront/gnag261",
+        "doi": "10.1093/geront/gnag261",
+        "url": "https://doi.org/10.1093/geront/gnag261",
+        "title": "“We take care of ours”: Dementia Care Partner Perspectives on Consumer- vs Agency-Directed Care",
+        "authors": [
+          "Julia G Burgdorf",
+          "Chanee Fabius",
+          "Jennifer M Reckrey",
+          "David Russell"
+        ],
+        "abstract": "Abstract                                        Background and Objectives                     Medicaid-funded personal care provides essential support enabling persons with dementia to remain in the community. This care is managed either by an agency (agency-direction) or by the care recipient or their designee (consumer-direction). Persons with dementia are more likely to use consumer-direction, but little is known about what drives care model choice, or how the motivations for seeking care and resulting care experiences differ for users of each model.                                                           Research Design and Methods                     We conducted semi-structured interviews with care partners of community-living persons with dementia receiving personal care through New York Medicaid (n = 18), using directed content analysis to identify key themes.                                                           Results                     Three common goals guided the choice of consumer- vs agency-direction: maximize care quality, ensure provider continuity, and minimize care partner burden. The same goal could lead families to opposite decisions: some chose consumer-direction believing family provided higher-quality care, whereas others chose agency-direction trusting that aides were better trained. Ensuring continuity was most salient for consumer-direction users; minimizing burden most salient for agency-direction users. Regardless of care model, cultural norms and negative experiences with institutional care were primary motivators for using home-based personal care. Common challenges included service hours lagging escalating care needs, administrative obstacles to managing care, and insufficient support from the broader social network.                                                           Discussion and Implications                     Personal care recipients and their families need flexible Medicaid policies enabling them to choose arrangements―including care setting and model―that best align with their needs and preferences, alongside resources to navigate a complex benefits system.",
+        "source": "The Gerontologist",
+        "issn": "0016-9013",
+        "date": "2026-11-20",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-21",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/gerona/glag266",
+        "doi": "10.1093/gerona/glag266",
+        "url": "https://doi.org/10.1093/gerona/glag266",
+        "title": "Intrinsic capacity and plasma p-tau217 among community-dwelling older adults: a cross-sectional analysis of the SPICE study",
+        "authors": [
+          "Reshma A Merchant",
+          "Bruno Vellas",
+          "Jean Woo"
+        ],
+        "abstract": "Abstract                   Plasma phosphorylated tau 217 (p-tau217) is a promising blood-based biomarker of Alzheimer’s disease (AD) pathology, but its association with multidomain intrinsic capacity (IC) remains unclear. We examined associations between IC and plasma p-tau217 in community-dwelling older adults. This cross-sectional study included 200 community-dwelling participants aged ≥60 years. Cognitive, locomotor, psychological and vitality capacities were assessed using the Montreal Cognitive Assessment (MoCA), Short Physical Performance Battery (SPPB), Patient Health Questionnaire-9 (PHQ-9) and Mini Nutritional Assessment–Short Form (MNA-SF), respectively. Scores were rescaled to 0–100 and averaged to derive the IC composite. Plasma biomarkers were measured using the Olink Target 48 Neurodegeneration panel. Multivariable linear regression were adjusted for age, sex, BMI, education and multimorbidity. Mean age was 71.9 years and 74.0% were women. Median IC decreased across increasing p-tau217 tertiles (95.0, 93.5 and 90.5; p &amp;lt; 0.001). Standardised composite IC was inversely associated with ln(p-tau217) (B=-0.162; 95% CI -0.258 to -0.066; p = 0.001). Similar inverse associations were observed for cognitive, psychological and vitality capacities as well as gait speed (all p &amp;lt; 0.05). Each 10-point decrease in composite IC was associated with higher adjusted odds of belonging to the combined middle and highest p-tau217 tertiles (T2/T3) compared with the lowest tertile (T1) (aOR=2.11; 95% CI 1.13–3.98; p = 0.019). The association between composite IC and p-tau217 remained significant after separate adjustment for GFAP, NfL, BACE1 and the Aβ42/Aβ40 ratio. These findings suggest that the relationship between multidomain IC and plasma p-tau217 extends beyond cognition alone. Longitudinal studies are needed to determine its clinical and prognostic significance.",
+        "source": "The Journals of Gerontology, Series A: Biological Sciences and Medical Sciences",
+        "issn": "1079-5006",
+        "date": "2026-11-20",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "elderCare"
+        ],
+        "firstSeen": "2026-11-21",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08636-8",
+        "doi": "10.1186/s12877-026-08636-8",
+        "url": "https://doi.org/10.1186/s12877-026-08636-8",
+        "title": "Joint contractures in the institutionalized old adults: a systematic review",
+        "authors": [
+          "Maxime Lombard",
+          "Jean-Pierre Karam",
+          "Moustapha Drame",
+          "Nicolas Kerjean",
+          "David Romain",
+          "Patrick Dehail",
+          "Maturin Tabue-Teguo",
+          "José-Luis Barnay"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-20",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-21",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08727-6",
+        "doi": "10.1186/s12877-026-08727-6",
+        "url": "https://doi.org/10.1186/s12877-026-08727-6",
+        "title": "Exercise delivery strategies and functional outcomes in community-dwelling older adults: A systematic review and network meta-analysis",
+        "authors": [
+          "Kaiqi Wang",
+          "Junhao He",
+          "Anjing Zhu",
+          "Xuecui Bi"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-20",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-21",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08739-2",
+        "doi": "10.1186/s12877-026-08739-2",
+        "url": "https://doi.org/10.1186/s12877-026-08739-2",
+        "title": "Clinical pharmacist–led medication reconciliation improves prescribing quality and reduces inappropriate medication use in hospitalized geriatric patients",
+        "authors": [
+          "Denisa Olbertova",
+          "Katarina Chromekova",
+          "Stanislava Kosirova"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-20",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-21",
         "fetched_from": "crossref"
       },
       {
@@ -25846,6 +26057,75 @@
           "agingHealth"
         ],
         "firstSeen": "2026-11-20",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/gerona/glag261",
+        "doi": "10.1093/gerona/glag261",
+        "url": "https://doi.org/10.1093/gerona/glag261",
+        "title": "Objective-Informant Cognitive Discordance and All-Cause Mortality Among Older Adults in India: The LASI-DAD Study",
+        "authors": [
+          "Bhrigu Jain",
+          "A B Dey",
+          "Sharmistha Dey"
+        ],
+        "abstract": "Abstract                                        Background                     In low-literacy settings, cognitive impairment is often judged by family report rather than objective testing, and the two frequently disagree. We examined whether objective-informant discordance is associated with mortality among older adults in India, and whether objective testing adds prognostic information beyond informant report.                                                           Methods                     Among 4,096 adults aged ≥60 in the Harmonized Longitudinal Aging Study in India-Diagnostic Assessment of Dementia (LASI-DAD) with objective cognition and an Informant Questionnaire on Cognitive Decline in the Elderly (IQCODE), four discordance groups were cross-classified. All-cause mortality (939 deaths among 3,505 participants with resolved vital status) was modeled with Cox regression, adjusted for demographics and, in extended models, for social, health, and informant covariates.                                                           Results                     Participants objectively impaired but rated normal by informants had elevated mortality (hazard ratio [HR], 1.87; 95% CI, 1.42-2.45), although lower than those impaired on both measures (HR, 2.67; P = .02 for the difference). The association was similar with and without schooling (interaction P = .82) and stable across IQCODE cut-points, wider adjustment, and analyses of loss to follow-up. Informant-reported decline without objective impairment carried no clear excess risk (HR, 1.14; 95% CI, 0.98-1.32). Objective cognition improved prediction beyond clinical information and the IQCODE (gain in Harrell’s C, 0.011; P &amp;lt; .001), whereas the IQCODE added nothing beyond objective cognition (P = .31).                                                           Conclusions                     Objective testing identifies a mortality-relevant impairment phenotype that informant report does not capture. An informant account of no decline does not exclude prognostically relevant impairment.",
+        "source": "The Journals of Gerontology, Series A: Biological Sciences and Medical Sciences",
+        "issn": "1079-5006",
+        "date": "2026-11-19",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "elderCare"
+        ],
+        "firstSeen": "2026-11-21",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/gerona/glag265",
+        "doi": "10.1093/gerona/glag265",
+        "url": "https://doi.org/10.1093/gerona/glag265",
+        "title": "Housekeeping Genes as the Cellular Maintenance Layer of Ontogenesis and Aging",
+        "authors": [
+          "Lev Salnikov",
+          "Saveli Goldberg",
+          "Eugene Pinsky"
+        ],
+        "abstract": "Abstract                   Housekeeping genes (HG) sustain the basic functions of the cell and form an evolutionarily ancient layer of cellular maintenance. We examined how this layer is organized across tissues with different renewal capacities and how its transcript representation changes with age. A curated set of 2,474 HG was defined from HRT Atlas v1.0 using functional criteria, paralog relationships, and expression breadth. HG were enriched for conserved orthologs across six model organisms, with enrichment increasing from mouse to yeast. In human tissues, the age-associated contrast between post-mitotic and high-renewal tissues changed with the transcript denominator and the inclusion of mtDNA-encoded genes. The contrast was negative when mitochondrial transcripts remained in the denominator, was not significant with a nuclear protein-coding denominator, and became positive when mtDNA-encoded genes were included in HG. No robust contrast for total HG was found in mouse; a relative decline of non-mitochondrial HG was detected under the nuclear protein-coding specification. At baseline, post-mitotic tissues had a greater mitochondrial contribution relative to non-mitochondrial HG, whereas the cytoplasmic ribosomal share increased with tissue renewal class. MaxToki predictions further distinguished mtDNA-encoded from nuclear-encoded OXPHOS subunits in cardiomyocytes and capillary endothelium. These findings support the analysis of HG as a maintenance layer with distinct functional modules. Their differing representation across tissues is supported more consistently than an age-related decline of the compartment as a whole. Age-dependent changes in the balance between modules remain to be established.",
+        "source": "The Journals of Gerontology, Series A: Biological Sciences and Medical Sciences",
+        "issn": "1079-5006",
+        "date": "2026-11-19",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "elderCare"
+        ],
+        "firstSeen": "2026-11-21",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/gerona/glag267",
+        "doi": "10.1093/gerona/glag267",
+        "url": "https://doi.org/10.1093/gerona/glag267",
+        "title": "Aged Extracellular Vesicles and Whole Serum Disrupt a Multicellular Human Blood-Brain Barrier Model Through Distinct Mechanisms",
+        "authors": [
+          "Lin Li",
+          "Simon Katz",
+          "Micaela Brianne Houston",
+          "Jindi Sun",
+          "Kai Wang",
+          "Shang Song"
+        ],
+        "abstract": "Abstract                   Age-associated changes in circulating factors contribute to blood-brain barrier (BBB) dysfunction, yet the relative effects of serum and serum-derived extracellular vesicles (EVs) remain unclear. Here, we used a human multicellular transwell BBB model, composed of primary brain microvascular endothelial cells (BMECs), astrocytes, pericytes, and neural progenitor cells (hNPCs) derived from human induced pluripotent stem cells (iPSCs), to compare the effects of serum and serum-derived EVs from young-adult and aged mice on BBB integrity. Barrier function was assessed by transendothelial electrical resistance (TEER) and permeability to 3-5 and 40 kDa FITC-dextran, and cellular organization and junctional integrity were evaluated by immunofluorescence. Although TEER exhibited treatment-dependent differences, permeability assays revealed distinct age- and treatment-associated changes in macromolecular transport. Aged EVs increased permeability to both dextran tracers relative to young EVs and markedly reduced ZO-1 coverage, whereas aged serum produced the greatest permeability to the 40 kDa tracer and the most pronounced loss of BMEC alignment. These changes occurred without a significant reduction in overall vWF-positive endothelial area, indicating structural and functional remodeling rather than overt endothelial loss. Additionally, young serum increased TUJ1-positive area and claudin-5 coverage, pointing to broader cell-type-specific effects. Together, these findings show that aging shifted the BBB toward greater macromolecular permeability and poorer endothelial organization, with aged EVs acting primarily on junctional integrity and aged serum driving the larger increase in permeability and loss of endothelial alignment.",
+        "source": "The Journals of Gerontology, Series A: Biological Sciences and Medical Sciences",
+        "issn": "1079-5006",
+        "date": "2026-11-19",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "elderCare"
+        ],
+        "firstSeen": "2026-11-21",
         "fetched_from": "crossref"
       },
       {
@@ -52369,6 +52649,175 @@
       }
     ],
     "healthReform": [
+      {
+        "id": "doi:10.1001/jama.2026.24054",
+        "doi": "10.1001/jama.2026.24054",
+        "url": "https://doi.org/10.1001/jama.2026.24054",
+        "title": "NASEM Report Calls for New Funding Model to Strengthen Primary Care Access",
+        "authors": [
+          "Sari Richmond"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-20",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-21",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.24772",
+        "doi": "10.1001/jama.2026.24772",
+        "url": "https://doi.org/10.1001/jama.2026.24772",
+        "title": "“Bikini Medicine” No More—Major Medical Societies Propose New Framework for Female Heart Health",
+        "authors": [
+          "Samantha Anderer"
+        ],
+        "abstract": "This Medical News article discusses joint guidance from the American Heart Association, the American Academy of Pediatrics, the American College of Obstetricians and Gynecologists, and the Society for Maternal-Fetal Medicine recommending the use of a life course framework for cardiovascular health in women and girls.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-20",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-21",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.24053",
+        "doi": "10.1001/jama.2026.24053",
+        "url": "https://doi.org/10.1001/jama.2026.24053",
+        "title": "Symptom Misrepresentation May Contribute to Antibiotic Overuse",
+        "authors": [
+          "Sari Richmond"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-20",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-21",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.22534",
+        "doi": "10.1001/jama.2026.22534",
+        "url": "https://doi.org/10.1001/jama.2026.22534",
+        "title": "Lp(a) Lowering, a GLP-1 Drug for Sleep Apnea, Stopping Statins in Older Age, and More From AHA 2026",
+        "authors": [
+          "Jennifer Abbasi"
+        ],
+        "abstract": "This Medical News article is an interview with Brahmajee Nallamothu, MD, vice chair of this year’s American Heart Association Scientific Sessions.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-20",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-21",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.24050",
+        "doi": "10.1001/jama.2026.24050",
+        "url": "https://doi.org/10.1001/jama.2026.24050",
+        "title": "CDC Imposes New Ebola-Related Air Travel Regulations",
+        "authors": [
+          "Sari Richmond"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-20",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-21",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.24051",
+        "doi": "10.1001/jama.2026.24051",
+        "url": "https://doi.org/10.1001/jama.2026.24051",
+        "title": "Delirium During Hospitalization Linked to Long-Term Cognitive Decline",
+        "authors": [
+          "Sari Richmond"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-20",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-21",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.24049",
+        "doi": "10.1001/jama.2026.24049",
+        "url": "https://doi.org/10.1001/jama.2026.24049",
+        "title": "FDA Approves Weekly Insulin for Pediatric Type 2 Diabetes",
+        "authors": [
+          "Sari Richmond"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-20",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-21",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.24052",
+        "doi": "10.1001/jama.2026.24052",
+        "url": "https://doi.org/10.1001/jama.2026.24052",
+        "title": "Global Burden of Anorexia and Bulimia Continues to Rise",
+        "authors": [
+          "Sari Richmond"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-20",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-21",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2025.16137",
+        "doi": "10.1001/jama.2025.16137",
+        "url": "https://doi.org/10.1001/jama.2025.16137",
+        "title": "JAMA Editors' Summary Podcast",
+        "authors": [],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-20",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-21",
+        "fetched_from": "crossref"
+      },
       {
         "id": "doi:10.1056/nejmoa2606997",
         "doi": "10.1056/nejmoa2606997",
@@ -95215,6 +95664,31 @@
     ],
     "agingHealth": [
       {
+        "id": "doi:10.1186/s12877-026-08709-8",
+        "doi": "10.1186/s12877-026-08709-8",
+        "url": "https://doi.org/10.1186/s12877-026-08709-8",
+        "title": "Unpacking what works in home rehabilitation in relation to contexts, mechanisms, and outcomes in a qualitative scoping review",
+        "authors": [
+          "Anette Johansson",
+          "Maria Ranner",
+          "Susanne Guidetti",
+          "Katarina Baudin",
+          "Elisabeth Rydwik",
+          "Sofi Fristedt"
+        ],
+        "abstract": "Abstract                                        Background                     Understanding how home rehabilitation works, for whom, and under what circumstances is essential for developing effective person-centred services for older adults. Therefore, the aim is to systematically map and summarise the contexts and mechanisms described in qualitative studies of home rehabilitation, and to describe how these are understood in relation to outcomes from the perspectives of older adults, their relatives, and staff.                                                           Methods                     A scoping review was conducted in accordance with the Joanna Briggs Institute methodology to explore qualitative evidence on home rehabilitation for older adults. Peer-reviewed qualitative studies published in English between 2006 and 2026 were identified through searches in Medline, Web of Science, CINAHL, and SweMed + . Studies were included if they explored experiences and views of older adults, relatives, or rehabilitation staff in home rehabilitation involving occupational therapists and/or physiotherapists. Data were extracted and mapped using a Context–Mechanism–Outcome (CMO) framework to identify mechanisms (including resources or reasoning) and contextual factors relevant to outcomes of home rehabilitation.                                                           Results                     A total of 62 qualitative studies were included. Analysis identified three categories with subcategories. The categories are (1) Professional knowledge and approach, (2) Home and everyday life, and (3) Focus on personalisation. The categories illustrate how contextual conditions shape mechanisms, i.e., resources or reasoning that contribute to rehabilitation outcomes for older adults receiving home rehabilitation.                                                           Conclusions                     This review identified key contextual factors and mechanisms that influence outcomes of home rehabilitation for older adults. The findings provide an empirical foundation for the development of a programme theory and may support the design of more integrated and person-centred home rehabilitation services.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-21",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-21",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1186/s12877-026-08722-x",
         "doi": "10.1186/s12877-026-08722-x",
         "url": "https://doi.org/10.1186/s12877-026-08722-x",
@@ -95299,6 +95773,241 @@
           "agingHealth"
         ],
         "firstSeen": "2026-11-20",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/geront/gnag262",
+        "doi": "10.1093/geront/gnag262",
+        "url": "https://doi.org/10.1093/geront/gnag262",
+        "title": "From Depression to Expression: A Community Expressive Arts Program for Alleviating Depressive Symptoms in Community-Dwelling Older Adults",
+        "authors": [
+          "Rainbow T H Ho",
+          "Caitlin K P Chan",
+          "Temmy L T Lo",
+          "Ted C T Fong"
+        ],
+        "abstract": "Abstract                                        Background and Objectives                     Growing evidence supports the use of arts to improve older adults’ psychosocial and spiritual well-being. This study evaluated the effects of an expressive arts-based intervention (EABI) under the train-the-trainer program on depressive symptoms, spiritual well-being, and quality of life of older adults in Hong Kong.                                                           Research Design and Methods                     In a mixed-methods design, 84 healthcare workers in Hong Kong completed the train-the-trainer program as ambassadors and delivered the 8-week EABI to 915 older adults with mild to moderate depressive symptoms. Older adults completed validated measures of depression, spirituality, and quality of life (QoL) before and after EABI. Ten ambassadors and 34 older adults participated in focus groups. The EABI effects were analyzed by paired sample t-tests and multilevel modeling evaluated the associations between ambassadors’ and older adults’ changes.                                                           Results                     Ambassadors showed increased self-efficacy (d = 0.53) and older adults showed substantial declines in depressive symptoms (d = 0.91) and significant improvements in spiritual well-being, overall QoL, and QoL subscales (d = 0.18–0.45). Changes in ambassadors’ self-efficacy showed significant indirect effects on older adults’ depressive symptoms (αβ = –0.23, 95% CI: −0.46, −0.01) and overall QoL (αβ = 0.27, 95% CI: 0.01, 0.52) via changes in spiritual well-being. Thematic analysis indicated improved psychosocial well-being among older adults and enhanced knowledge and service-delivery skills among ambassadors.                                                           Discussion and Implications                     The EABI showed preliminary benefits on healthcare workers’ self-efficacy and older adults’ psychosocial well-being. The findings provide initial support on using EABI in geriatric care via a train-the-trainer framework.",
+        "source": "The Gerontologist",
+        "issn": "0016-9013",
+        "date": "2026-11-20",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-21",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/geront/gnag264",
+        "doi": "10.1093/geront/gnag264",
+        "url": "https://doi.org/10.1093/geront/gnag264",
+        "title": "Navigating the Transition to Hospice in Dementia: A Qualitative Study of Family Caregivers’ Experiences",
+        "authors": [
+          "Oonjee Oh",
+          "Connie Ulrich",
+          "Lauren Massimo",
+          "Janet A Deatrick",
+          "Karla Washington",
+          "Debra Parker Oliver",
+          "George Demiris"
+        ],
+        "abstract": "Abstract                                        Background and Objectives                     Hospice transition is traditionally understood as the shift from a curative to exclusively palliative plan of care. However, because the end-of-life trajectory in dementia is often uncertain, a better understanding of hospice transition is needed for persons with dementia. We explored how family caregivers decide to enroll persons with dementia in hospice and experience hospice transition.                                                           Research Design and Methods                     We used content analysis informed by Janis and Mann’s (1977) conflict theory of decision-making and McCarthy et al.’s (2023) narrative synthesis on caregivers’ experiences during end-of-life care transitions. We included 25 caregivers of hospice patients with dementia.                                                           Results                     Theme 1: The decision to pursue hospice is inseparable from caregivers’ cumulative experience of varying degrees of support across the dementia care trajectory. Antecedents included dementia progression, negative appraisal of previous care, and insufficient support networks. Decision-making components encompassed the risks and benefits of hospice, patients’ wishes, alternative options, and caregivers’ preparedness to enroll; emotional responses extended beyond the moment of decision. Theme 2: Transitioning to hospice requires caregivers to shift from managing dementia as a chronic condition to seeking comfort-focused support, yet this reframing is complicated by the disease’s unpredictable course. This theme included how caregivers’ responsibilities evolved, how patients’ health changed, and how they found meaning and hope in hospice and maintained normality during transitions.                                                           Discussion and Implication                     Caregivers’ profound need for support was central to both themes, with hospice perceived as a vital resource in end-of-life dementia care and caregiving. Yet caregiver needs remain largely unrecognized.",
+        "source": "The Gerontologist",
+        "issn": "0016-9013",
+        "date": "2026-11-20",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-21",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/geront/gnag263",
+        "doi": "10.1093/geront/gnag263",
+        "url": "https://doi.org/10.1093/geront/gnag263",
+        "title": "Beyond Behaviour: A Trauma-Informed Behaviour Assessment Framework for Understanding and Preventing Behavioural Distress in Dementia",
+        "authors": [
+          "Rebecca Bates"
+        ],
+        "abstract": "Abstract                   Behavioural and psychological symptoms of dementia are common and clinically important, yet behavioural distress is multifactorial and may arise through interactions among neurological, medical, psychological, relational, environmental, and social factors. Contemporary dementia care therefore emphasizes comprehensive assessment, person-centred care, attention to life history and environmental context, and individualized non-pharmacological responses. However, trauma-informed considerations may not always be made explicit within behavioural formulation and care planning.                   This Forum paper proposes Trauma-Informed Behaviour Assessment, a dementia-specific conceptual framework for incorporating trauma-informed considerations into existing approaches to behavioural assessment. Trauma-Informed Behaviour Assessment does not replace multifactorial assessment, person-centred care, or established approaches such as Describe, Investigate, Create and Evaluate approach, nor does it assume that trauma causes behavioural expressions. Instead, it provides a structured lens through which clinicians can consider relevant adversity and trauma history, behavioural context and triggers, possible trauma-related responses, sensory and environmental conditions, relational and biographical meaning, and sources of safety and control. Trauma-Informed Behaviour Assessment does not replace multifactorial assessment, person-centred care, or established approaches such as the Describe, Investigate, Create, and Evaluate approach, a four-step framework for identifying potential contributors to behavioural distress and developing individualized responses (Kales et al., 2014).                   Trauma-Informed Behaviour Assessment is proposed as a conceptual clinical formulation framework rather than a validated assessment instrument or diagnostic tool. Its contribution is to make trauma-related threat, safety, control, and retraumatization explicit considerations within existing dementia behavioural assessment. The framework requires participatory refinement, operationalization, feasibility testing, and empirical evaluation before routine clinical implementation.",
+        "source": "The Gerontologist",
+        "issn": "0016-9013",
+        "date": "2026-11-20",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-21",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/geront/gnag261",
+        "doi": "10.1093/geront/gnag261",
+        "url": "https://doi.org/10.1093/geront/gnag261",
+        "title": "“We take care of ours”: Dementia Care Partner Perspectives on Consumer- vs Agency-Directed Care",
+        "authors": [
+          "Julia G Burgdorf",
+          "Chanee Fabius",
+          "Jennifer M Reckrey",
+          "David Russell"
+        ],
+        "abstract": "Abstract                                        Background and Objectives                     Medicaid-funded personal care provides essential support enabling persons with dementia to remain in the community. This care is managed either by an agency (agency-direction) or by the care recipient or their designee (consumer-direction). Persons with dementia are more likely to use consumer-direction, but little is known about what drives care model choice, or how the motivations for seeking care and resulting care experiences differ for users of each model.                                                           Research Design and Methods                     We conducted semi-structured interviews with care partners of community-living persons with dementia receiving personal care through New York Medicaid (n = 18), using directed content analysis to identify key themes.                                                           Results                     Three common goals guided the choice of consumer- vs agency-direction: maximize care quality, ensure provider continuity, and minimize care partner burden. The same goal could lead families to opposite decisions: some chose consumer-direction believing family provided higher-quality care, whereas others chose agency-direction trusting that aides were better trained. Ensuring continuity was most salient for consumer-direction users; minimizing burden most salient for agency-direction users. Regardless of care model, cultural norms and negative experiences with institutional care were primary motivators for using home-based personal care. Common challenges included service hours lagging escalating care needs, administrative obstacles to managing care, and insufficient support from the broader social network.                                                           Discussion and Implications                     Personal care recipients and their families need flexible Medicaid policies enabling them to choose arrangements―including care setting and model―that best align with their needs and preferences, alongside resources to navigate a complex benefits system.",
+        "source": "The Gerontologist",
+        "issn": "0016-9013",
+        "date": "2026-11-20",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-21",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/gerona/glag266",
+        "doi": "10.1093/gerona/glag266",
+        "url": "https://doi.org/10.1093/gerona/glag266",
+        "title": "Intrinsic capacity and plasma p-tau217 among community-dwelling older adults: a cross-sectional analysis of the SPICE study",
+        "authors": [
+          "Reshma A Merchant",
+          "Bruno Vellas",
+          "Jean Woo"
+        ],
+        "abstract": "Abstract                   Plasma phosphorylated tau 217 (p-tau217) is a promising blood-based biomarker of Alzheimer’s disease (AD) pathology, but its association with multidomain intrinsic capacity (IC) remains unclear. We examined associations between IC and plasma p-tau217 in community-dwelling older adults. This cross-sectional study included 200 community-dwelling participants aged ≥60 years. Cognitive, locomotor, psychological and vitality capacities were assessed using the Montreal Cognitive Assessment (MoCA), Short Physical Performance Battery (SPPB), Patient Health Questionnaire-9 (PHQ-9) and Mini Nutritional Assessment–Short Form (MNA-SF), respectively. Scores were rescaled to 0–100 and averaged to derive the IC composite. Plasma biomarkers were measured using the Olink Target 48 Neurodegeneration panel. Multivariable linear regression were adjusted for age, sex, BMI, education and multimorbidity. Mean age was 71.9 years and 74.0% were women. Median IC decreased across increasing p-tau217 tertiles (95.0, 93.5 and 90.5; p &amp;lt; 0.001). Standardised composite IC was inversely associated with ln(p-tau217) (B=-0.162; 95% CI -0.258 to -0.066; p = 0.001). Similar inverse associations were observed for cognitive, psychological and vitality capacities as well as gait speed (all p &amp;lt; 0.05). Each 10-point decrease in composite IC was associated with higher adjusted odds of belonging to the combined middle and highest p-tau217 tertiles (T2/T3) compared with the lowest tertile (T1) (aOR=2.11; 95% CI 1.13–3.98; p = 0.019). The association between composite IC and p-tau217 remained significant after separate adjustment for GFAP, NfL, BACE1 and the Aβ42/Aβ40 ratio. These findings suggest that the relationship between multidomain IC and plasma p-tau217 extends beyond cognition alone. Longitudinal studies are needed to determine its clinical and prognostic significance.",
+        "source": "The Journals of Gerontology, Series A: Biological Sciences and Medical Sciences",
+        "issn": "1079-5006",
+        "date": "2026-11-20",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "elderCare"
+        ],
+        "firstSeen": "2026-11-21",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08636-8",
+        "doi": "10.1186/s12877-026-08636-8",
+        "url": "https://doi.org/10.1186/s12877-026-08636-8",
+        "title": "Joint contractures in the institutionalized old adults: a systematic review",
+        "authors": [
+          "Maxime Lombard",
+          "Jean-Pierre Karam",
+          "Moustapha Drame",
+          "Nicolas Kerjean",
+          "David Romain",
+          "Patrick Dehail",
+          "Maturin Tabue-Teguo",
+          "José-Luis Barnay"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-20",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-21",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08727-6",
+        "doi": "10.1186/s12877-026-08727-6",
+        "url": "https://doi.org/10.1186/s12877-026-08727-6",
+        "title": "Exercise delivery strategies and functional outcomes in community-dwelling older adults: A systematic review and network meta-analysis",
+        "authors": [
+          "Kaiqi Wang",
+          "Junhao He",
+          "Anjing Zhu",
+          "Xuecui Bi"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-20",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-21",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08739-2",
+        "doi": "10.1186/s12877-026-08739-2",
+        "url": "https://doi.org/10.1186/s12877-026-08739-2",
+        "title": "Clinical pharmacist–led medication reconciliation improves prescribing quality and reduces inappropriate medication use in hospitalized geriatric patients",
+        "authors": [
+          "Denisa Olbertova",
+          "Katarina Chromekova",
+          "Stanislava Kosirova"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-20",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-21",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261507291",
+        "doi": "10.1177/13872877261507291",
+        "url": "https://doi.org/10.1177/13872877261507291",
+        "title": "Clinical value of plasma p-tau217 in identifying mild cognitive impairment due to Alzheimer's disease: A comparative multimarker analysis",
+        "authors": [
+          "Xiaocong Guo",
+          "Yue Liu",
+          "Zilin Wang",
+          "Xiaoya Xu"
+        ],
+        "abstract": "Background                     Alzheimer's disease (AD) causes progressive neurodegeneration, and mild cognitive impairment due to AD (AD-MCI) represents a critical window for intervention. Invasive or costly diagnostic tools hinder early detection. The 2024 NIA-AA criteria recognize plasma p-tau217 as a core blood-based biomarker for prodromal AD, supporting the clinical translation of peripheral pathological markers.                                                           Objective                                            To compare plasma biomarker profiles between AD-MCI and cognitively unimpaired (CU) participants, evaluate the diagnostic performance of p-tau217, p-tau181, and Aβ                       42                       /Aβ                       40                       ratio for detecting this AD-MCI group, and assess correlations between these plasma biomarkers and cognitive function in the cohort.                                                                                Methods                                            Fifty-one participants were enrolled from a single center in China. Plasma p-tau217, p-tau181, and the Aβ                       42                       /Aβ                       40                       ratio were measured using a domestically developed fluorescent magnetic-particle immunoassay (FMIA). ROC curve analysis was used to assess diagnostic performance, and Spearman correlation analysis was used to test biomarker-cognition associations.                                                                                Results                                            Plasma p-tau217 yielded the highest AUC = 0.923 (cut-off: 4.35 pg/mL; sensitivity 80.9%; specificity 96.6%), outperforming p-tau181 (AUC = 0.902) and the Aβ                       42                       /Aβ                       40                       ratio (AUC = 0.714). Only weak, non-significant correlations were observed between biomarkers and cognitive scores in the AD-MCI group (r ranged from −0.22 to 0.05).                                                                                Conclusions                     Plasma p-tau217 measured using this FMIA showed excellent diagnostic performance for AD-MCI in a cohort from southwestern China. The population- and platform-specific cut-offs differed from those reported in Western cohorts using Simoa-based assays. Weak cognitive correlations suggest that plasma p-tau217 primarily reflects brain amyloid and tau pathology rather than cognitive severity, supporting its use for community-based triage screening for early AD.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-11-20",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-21",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261507975",
+        "doi": "10.1177/13872877261507975",
+        "url": "https://doi.org/10.1177/13872877261507975",
+        "title": "Association of cumulative cholesterol-HDL-glucose index with cognitive function changes and risk of new-onset mild cognitive impairment in middle-aged and older adults: A prospective cohort study",
+        "authors": [
+          "Huishi Huang",
+          "Sikai Chen",
+          "Yao Chen",
+          "Qun Liu",
+          "Yating Wu",
+          "Nanxi Fu",
+          "Qian Wu",
+          "Hua Lin",
+          "Qiyuan Lyu"
+        ],
+        "abstract": "Background                     Metabolic dysfunction is a modifiable contributor to cognitive impairment and Alzheimer's disease risk. The cholesterol-HDL-glucose (CHG) index integrates atherogenic dyslipidemia and hyperglycemia, but the cognitive implications of cumulative CHG exposure are unknown.                                                           Objective                     To examine the association of cumulative CHG (cuCHG) exposure with cognitive trajectories and new-onset mild cognitive impairment (MCI).                                                           Methods                     Adults aged ≥45 years were drawn from the China Health and Retirement Longitudinal Study (CHARLS, 2011–2020). MCI was defined using ageing-associated cognitive decline criteria. K-means clustering classified longitudinal CHG trajectories, and cuCHG was calculated as [(CHG2012 + CHG2015)/2] × time interval. Linear mixed-effects models assessed cognitive trajectories, and Cox regression with restricted cubic splines evaluated incident MCI risk.                                                           Results                     Among 2646 participants, 404 (15.3%) developed MCI over 5 years. All cognitive domains declined significantly (global cognition β/year = −0.343, 95% CI −0.367 to −0.320; all p &lt; 0.001), but no time × cuCHG interaction was detected (all p &gt; 0.05). In fully adjusted Cox models, the middle-CHG cluster showed 21% lower MCI risk than the low-CHG cluster (HR = 0.79, 95% CI 0.62–0.99, p = 0.043); the high-CHG cluster did not differ. Restricted cubic splines showed a non-linear relationship (p for non-linearity &lt; 0.05), with elevated risk at both extremes. A significant sex interaction was observed (p = 0.015).                                                           Conclusions                     Cumulative CHG exposure showed a non-linear association with incident MCI, with a middle-range trajectory independently associated with lower risk. Balanced metabolic homeostasis, rather than indiscriminately minimizing metabolic indices, may be relevant to cognitive ageing.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-11-20",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-21",
         "fetched_from": "crossref"
       },
       {
@@ -95667,6 +96376,230 @@
           "healthReform"
         ],
         "firstSeen": "2026-11-20",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/gerona/glag261",
+        "doi": "10.1093/gerona/glag261",
+        "url": "https://doi.org/10.1093/gerona/glag261",
+        "title": "Objective-Informant Cognitive Discordance and All-Cause Mortality Among Older Adults in India: The LASI-DAD Study",
+        "authors": [
+          "Bhrigu Jain",
+          "A B Dey",
+          "Sharmistha Dey"
+        ],
+        "abstract": "Abstract                                        Background                     In low-literacy settings, cognitive impairment is often judged by family report rather than objective testing, and the two frequently disagree. We examined whether objective-informant discordance is associated with mortality among older adults in India, and whether objective testing adds prognostic information beyond informant report.                                                           Methods                     Among 4,096 adults aged ≥60 in the Harmonized Longitudinal Aging Study in India-Diagnostic Assessment of Dementia (LASI-DAD) with objective cognition and an Informant Questionnaire on Cognitive Decline in the Elderly (IQCODE), four discordance groups were cross-classified. All-cause mortality (939 deaths among 3,505 participants with resolved vital status) was modeled with Cox regression, adjusted for demographics and, in extended models, for social, health, and informant covariates.                                                           Results                     Participants objectively impaired but rated normal by informants had elevated mortality (hazard ratio [HR], 1.87; 95% CI, 1.42-2.45), although lower than those impaired on both measures (HR, 2.67; P = .02 for the difference). The association was similar with and without schooling (interaction P = .82) and stable across IQCODE cut-points, wider adjustment, and analyses of loss to follow-up. Informant-reported decline without objective impairment carried no clear excess risk (HR, 1.14; 95% CI, 0.98-1.32). Objective cognition improved prediction beyond clinical information and the IQCODE (gain in Harrell’s C, 0.011; P &amp;lt; .001), whereas the IQCODE added nothing beyond objective cognition (P = .31).                                                           Conclusions                     Objective testing identifies a mortality-relevant impairment phenotype that informant report does not capture. An informant account of no decline does not exclude prognostically relevant impairment.",
+        "source": "The Journals of Gerontology, Series A: Biological Sciences and Medical Sciences",
+        "issn": "1079-5006",
+        "date": "2026-11-19",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "elderCare"
+        ],
+        "firstSeen": "2026-11-21",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/gerona/glag265",
+        "doi": "10.1093/gerona/glag265",
+        "url": "https://doi.org/10.1093/gerona/glag265",
+        "title": "Housekeeping Genes as the Cellular Maintenance Layer of Ontogenesis and Aging",
+        "authors": [
+          "Lev Salnikov",
+          "Saveli Goldberg",
+          "Eugene Pinsky"
+        ],
+        "abstract": "Abstract                   Housekeeping genes (HG) sustain the basic functions of the cell and form an evolutionarily ancient layer of cellular maintenance. We examined how this layer is organized across tissues with different renewal capacities and how its transcript representation changes with age. A curated set of 2,474 HG was defined from HRT Atlas v1.0 using functional criteria, paralog relationships, and expression breadth. HG were enriched for conserved orthologs across six model organisms, with enrichment increasing from mouse to yeast. In human tissues, the age-associated contrast between post-mitotic and high-renewal tissues changed with the transcript denominator and the inclusion of mtDNA-encoded genes. The contrast was negative when mitochondrial transcripts remained in the denominator, was not significant with a nuclear protein-coding denominator, and became positive when mtDNA-encoded genes were included in HG. No robust contrast for total HG was found in mouse; a relative decline of non-mitochondrial HG was detected under the nuclear protein-coding specification. At baseline, post-mitotic tissues had a greater mitochondrial contribution relative to non-mitochondrial HG, whereas the cytoplasmic ribosomal share increased with tissue renewal class. MaxToki predictions further distinguished mtDNA-encoded from nuclear-encoded OXPHOS subunits in cardiomyocytes and capillary endothelium. These findings support the analysis of HG as a maintenance layer with distinct functional modules. Their differing representation across tissues is supported more consistently than an age-related decline of the compartment as a whole. Age-dependent changes in the balance between modules remain to be established.",
+        "source": "The Journals of Gerontology, Series A: Biological Sciences and Medical Sciences",
+        "issn": "1079-5006",
+        "date": "2026-11-19",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "elderCare"
+        ],
+        "firstSeen": "2026-11-21",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/gerona/glag267",
+        "doi": "10.1093/gerona/glag267",
+        "url": "https://doi.org/10.1093/gerona/glag267",
+        "title": "Aged Extracellular Vesicles and Whole Serum Disrupt a Multicellular Human Blood-Brain Barrier Model Through Distinct Mechanisms",
+        "authors": [
+          "Lin Li",
+          "Simon Katz",
+          "Micaela Brianne Houston",
+          "Jindi Sun",
+          "Kai Wang",
+          "Shang Song"
+        ],
+        "abstract": "Abstract                   Age-associated changes in circulating factors contribute to blood-brain barrier (BBB) dysfunction, yet the relative effects of serum and serum-derived extracellular vesicles (EVs) remain unclear. Here, we used a human multicellular transwell BBB model, composed of primary brain microvascular endothelial cells (BMECs), astrocytes, pericytes, and neural progenitor cells (hNPCs) derived from human induced pluripotent stem cells (iPSCs), to compare the effects of serum and serum-derived EVs from young-adult and aged mice on BBB integrity. Barrier function was assessed by transendothelial electrical resistance (TEER) and permeability to 3-5 and 40 kDa FITC-dextran, and cellular organization and junctional integrity were evaluated by immunofluorescence. Although TEER exhibited treatment-dependent differences, permeability assays revealed distinct age- and treatment-associated changes in macromolecular transport. Aged EVs increased permeability to both dextran tracers relative to young EVs and markedly reduced ZO-1 coverage, whereas aged serum produced the greatest permeability to the 40 kDa tracer and the most pronounced loss of BMEC alignment. These changes occurred without a significant reduction in overall vWF-positive endothelial area, indicating structural and functional remodeling rather than overt endothelial loss. Additionally, young serum increased TUJ1-positive area and claudin-5 coverage, pointing to broader cell-type-specific effects. Together, these findings show that aging shifted the BBB toward greater macromolecular permeability and poorer endothelial organization, with aged EVs acting primarily on junctional integrity and aged serum driving the larger increase in permeability and loss of endothelial alignment.",
+        "source": "The Journals of Gerontology, Series A: Biological Sciences and Medical Sciences",
+        "issn": "1079-5006",
+        "date": "2026-11-19",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "elderCare"
+        ],
+        "firstSeen": "2026-11-21",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261506370",
+        "doi": "10.1177/13872877261506370",
+        "url": "https://doi.org/10.1177/13872877261506370",
+        "title": "Development of a novel neuronal phenotypic in vitro model of familial Alzheimer's disease using the human neuroblastoma-derived immortalized SH-SY5Y cell line",
+        "authors": [
+          "Mateo Barro",
+          "Antón L. Martínez",
+          "David Moreira",
+          "Neila Cosme",
+          "Magdalena Asensio",
+          "José Brea",
+          "María Isabel Loza"
+        ],
+        "abstract": "Background                     Alzheimer's disease (AD) is the most prevalent neurodegenerative disorder and the leading cause of dementia. Despite its undeniable effect on current society, it remains one of the diseases for which clinical trials have the highest failure rate, and therapeutic interventions remain palliative, thus creating an unmet demand to develop translational models that can accelerate pre-clinical drug discovery.                                                           Objective                     We aimed to develop a scalable neuronal phenotypic model using differentiated SH-SY5Y cells with mature neuronal phenotypes.                                                           Methods                                            SH-SY5Y were differentiated by exposure to either retinoic acid and phorbol 12-myristate 13-acetate or retinoic acid and GLP-1. Cells differentiated with retinoic acid and GLP-1 were transfected with                       APP V717I                       and                       MAPT P301L                       mutants. Mutation-induced morphological alterations were measured by immunocytochemistry and neuron activation through intracellular calcium accumulation.                                                                                Results                     Transfection induced alterations, including reduced cell densities, neurite lengths, and dendritic arborization, together with increase of amyloid-β (Aβ) aggregation and ROS activity, which are compatible with the neurodegenerative changes observed in AD. A physiological assay based on intracellular calcium imaging revealed hypoexcitability in transfected cultures, suggesting a neurodegenerative process compatible with the later stages of the disease. Treatment of cell cultures with the reference neuroprotective compounds melatonin and resveratrol exerted a significant restorative effect on the morphophysiological variables studied.                                                           Conclusions                                            Therefore, we introduce a novel, miniaturized, and automatable                       in vitro                       AD model that enables studies on the neurodegenerative mechanisms related to the disease and supports high-throughput screening assays for pre-clinical drug discovery.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-11-19",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-21",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261506460",
+        "doi": "10.1177/13872877261506460",
+        "url": "https://doi.org/10.1177/13872877261506460",
+        "title": "Cerebrospinal fluid dynamics associated with neurovascular coupling and cognitive and depressive symptoms in cerebral small vessel disease",
+        "authors": [
+          "Kaigui Wang",
+          "Xia Zhou",
+          "Yali Chen",
+          "Mingxu Li",
+          "Zhiwei Li",
+          "Meihui Zhang",
+          "Xiaoqun Zhu",
+          "Zhongwu Sun"
+        ],
+        "abstract": "Background                     Depressive symptoms and cognitive decline are common in cerebral small vessel disease (CSVD) and linked to abnormal cerebrospinal fluid (CSF) dynamics, but mechanisms remain unclear.                                                           Objective                     To investigate whether neurovascular coupling links CSF dynamics dysfunction to cognitive and depressive symptoms in CSVD.                                                           Methods                     We enrolled 317 CSVD patients and 95 healthy controls. Neurovascular coupling was assessed using correlations between cerebral blood flow (CBF) and resting-state functional measures: fractional amplitude of low-frequency fluctuations (fALFF) and regional homogeneity (ReHo). CSF dynamics were evaluated using diffusion tensor imaging–analysis along the perivascular space (DTI-ALPS).                                                           Results                                            DTI-ALPS was reduced in CSVD, with decreased global and regional CBF–fALFF coupling. Greater depressive (β = −0.200, 95% CI: −0.326 to −0.074) and anxiety severity (β = −0.254, 95% CI: −0.382 to −0.126) were associated with lower DTI-ALPS, whereas cognitive performance was positively associated with DTI-ALPS (β = 0.164, 95% CI: 0.049–0.280; all                       p                       FDR                       &lt; 0.05). Cognitive performance positively correlated with whole-brain coupling but not depressive symptoms (β = 0.176, 95% CI: 0.070–0.283; all                       p                       FDR                       &lt; 0.05). DTI-ALPS partially mediated associations between CBF–fALFF coupling and cognitive performance (CBF-fALFF → DTI-ALPS → MMSE: 17.3%; CBF-fALFF (Right Putamen) → DTI-ALPS → MMSE: 20.9%) and showed bidirectional mediation between depressive and cognitive performance (MMSE → DTI-ALPS → HAMD: 18.6%; HAMD → DTI-ALPS → MMSE: 18.9%).                                                                                Conclusions                     Neurovascular coupling dysfunction may contribute to CSF dynamics dysfunction in CSVD. Altered CSF dynamics may bidirectionally mediate cognitive impairment and depressive symptoms, providing mechanistic insight into their co-occurrence.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-11-19",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-21",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261506500",
+        "doi": "10.1177/13872877261506500",
+        "url": "https://doi.org/10.1177/13872877261506500",
+        "title": "Association of the Area Deprivation Index with cognitive function in individuals with acute ischemic stroke",
+        "authors": [
+          "Klodian Dhana",
+          "Laurel J. Cherian",
+          "Dixon Yang",
+          "Puja Agarwal",
+          "Jameszetta E. James",
+          "Amy Tran",
+          "Pyone Maung",
+          "Chiquia Hollings",
+          "Lisa L. Barnes",
+          "Christy Tangney",
+          "Neelum T. Aggarwal"
+        ],
+        "abstract": "Background                     Neighborhood socioeconomic disadvantage is associated with lower cognitive function, but whether this association persists in individuals with acute ischemic stroke is unclear.                                                           Objective                     To assess whether the Area Deprivation Index (ADI) is associated with global and domain-specific cognition in individuals with acute ischemic stroke.                                                           Methods                     The Nutrition Effects on Brain Outcomes and Recovery in Stroke after Hospitalization (NOURISH) study enrolled 266 patients with ischemic stroke aged 55 years and older. ADI is an area-level composite measure derived from 17 U.S. Census indicators spanning education, employment, income, poverty, and housing quality. Cognitive function was assessed using a standardized neuropsychological battery comprising 19 cognitive tests, from which global cognition and five cognitive domains were computed.                                                           Results                     Among the 266 participants included in the analysis, 152 (57.1%) were women and 159 (59.8%) were Black individuals. The mean age was 68.3 years (SD = 8.0). Higher ADI at both the state and national levels was associated with lower global cognitive z-scores; each 1-decile increase in State ADI rank was associated with a 0.044-unit lower global cognitive z-score (β = −0.044; SE = 0.017; p = 0.010), and each 10-percentage-point increase in National ADI rank was associated with a 0.056-unit lower global cognitive z-score (β = −0.056; SE = 0.020; p = 0.005). Higher ADI rank was also associated with lower executive function, episodic memory, and perceptual speed.                                                           Conclusions                     Neighborhood socioeconomic disadvantage, as measured by ADI, was associated with lower cognitive function in individuals with acute ischemic stroke.                                                           Trial Registration                     ClinicalTrials.gov Identifier: NCT04337255",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-11-19",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-21",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261507111",
+        "doi": "10.1177/13872877261507111",
+        "url": "https://doi.org/10.1177/13872877261507111",
+        "title": "Sleep quality moderating the relationship between hearing loss and cognition in older adults: Implications for Alzheimer's disease risk",
+        "authors": [
+          "Keri Justice",
+          "David J. White",
+          "David Sly",
+          "Denny Meyer",
+          "Greg Kennedy",
+          "Andrew Pipingas"
+        ],
+        "abstract": "Background                     Hearing impairment and poor sleep quality are prevalent, modifiable risk factors for cognitive decline and Alzheimer's disease (AD), but their combined influence on cognition remains unclear.                                                           Objective                     To examine whether sleep quality modifies the association between hearing impairment and cognitive performance in older adults.                                                           Methods                     Data were drawn from 122 older adults in the MedWalk study. Peripheral hearing (pure-tone average), speech-in-noise (SiN), sleep quality (PSQI), and cognition (CANTAB) were assessed. Generalized linear models tested whether sleep quality moderated associations between hearing and cognition, adjusting for age, sex, and education.                                                           Results                                            Sleep quality moderated these associations, with effects differing by hearing type and cognitive domain. Poorer sleep quality strengthened the association between peripheral hearing loss and associative learning, with greater total errors (Exp(β) = 1.005,                       p                        = 0.010) and lower first attempt accuracy (Exp(β) = 0.998,                       p                        = 0.021). Poorer sleep quality also strengthened the association between poorer SiN performance and increased spatial working memory errors (Exp(β) = 1.009,                       p                        = 0.004) and slower reaction times (Exp(β) = 1.002,                       p                        = 0.031). A threshold effect emerged, with poor sleep quality associated with worse associative learning in individuals with moderate-or-greater peripheral hearing loss. Final stratified analysis showed a 15 dB increase in hearing loss was associated with 38.6% more associative learning errors among poor sleepers (PSQI &gt; 5).                                                                                Conclusions                     Findings suggest hearing and sleep quality interact to affect cognition in domain specific ways that are relevant to AD risk. Prospective studies are needed to identify if joint interventions can reduce AD risk.                                                           Trial Registration                                            This study was registered with the Australian New Zealand Clinical trials Registry ACTRN12620000978965 (                       https://www.anzctr.org.au                       ).",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-11-19",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-21",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261507254",
+        "doi": "10.1177/13872877261507254",
+        "url": "https://doi.org/10.1177/13872877261507254",
+        "title": "Venous and glymphatic alterations and their associations with cognition in mild cognitive impairment: A cross-sectional MRI study",
+        "authors": [
+          "Ziyi He",
+          "Xiaoqin Cheng",
+          "Jianbo Li",
+          "Ting Qian",
+          "Shen Zhao",
+          "Rui Hua",
+          "Feng Shi",
+          "Xiaoli Pan",
+          "Sirui Liu"
+        ],
+        "abstract": "Background                     The glymphatic system facilitates brain waste clearance along perivascular pathways, which are related to the cerebral venous system. Its dysfunction is increasingly implicated in mild cognitive impairment (MCI) pathogenesis.                                                           Objective                     This cross-sectional study investigated whether specific venous and glymphatic MRI markers—namely deep medullary veins (DMVs), perivascular spaces (PVS), and the diffusion tensor image analysis along the perivascular space (DTI-ALPS) index—are associated with MCI.                                                           Methods                     Ninety-five participants underwent multi-modal MRI to assess DMVs, PVS, and the DTI-ALPS index. Receiver operating characteristic (ROC) curves evaluated diagnostic discriminative power. Mediation analysis explored whether the DTI-ALPS index mediates the association between DMVs and cognition.                                                           Results                     MCI patients showed significantly higher DMVs scores [10 (8, 14) versus 7.5 (6, 10)] and lower DTI-ALPS index (1.23 ± 0.15 versus 1.40 ± 0.21) than cognitively normal (CN) controls (both p &lt; 0.001), whereas PVS did not differ. Combining the DTI-ALPS index and DMVs score yielded an AUC of 0.780 (95% bootstrap CI: 0.669 to 0.864; p &lt; 0.001) for distinguishing MCI. Exploratory cross-sectional mediation analysis suggested that the DTI-ALPS index accounted for the association between DMVs and AVLT-DR (indirect effect β= −0.083, 95% CI = -0.170 to −0.018).                                                           Conclusions                     Concurrent venous and glymphatic alterations are associated with behaviorally defined MCI. Although combining DMVs and DTI-ALPS did not significantly improve diagnostic accuracy, they provide complementary mechanistic insights, with perivascular transport efficiency accounting for the association between venous impairment and cognition. These markers remain valuable non-invasive tools for MCI screening.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-11-19",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-21",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261507716",
+        "doi": "10.1177/13872877261507716",
+        "url": "https://doi.org/10.1177/13872877261507716",
+        "title": "Neuropathology-defined Alzheimer's disease transcriptomic programs converge in blood at mild cognitive impairment",
+        "authors": [
+          "Songnian Lu",
+          "Hongyuan Mao",
+          "Xiaoya Rui",
+          "Xiaohui Hou",
+          "Mengcen Qian",
+          "Xingjiao Wu"
+        ],
+        "abstract": "Background                     Blood transcriptomic studies in Alzheimer's disease (AD) often train signatures directly in blood, making it unclear whether signals reflect brain disease programs, blood-cell composition, or cohort structure.                                                           Objective                     To test how neuropathology-defined AD transcriptional programs appear in blood, whether distinct brain programs show a shared peripheral pattern, and whether that pattern is most evident during mild cognitive impairment (MCI).                                                           Methods                     Three directional gene sets were derived before blood analysis from postmortem brain RNA-seq (GSE278723) to represent amyloid-associated, neurodegeneration-related, and core AD changes. These brain-defined programs were projected into five whole-blood cohorts (1975 participants) using directional single-sample Gene Set Enrichment Analysis and assessed for stage-specific patterns, comparison with size-matched random sets, sensitivity to estimated cell composition, dimensionality, held-out classification, and association with Alzheimer's Disease Neuroimaging Initiative (ADNI) genetic and fluid biomarkers.                                                           Results                                            Brain-derived AD programs were detected across blood cohorts and showed a shared rather than separable pattern. Scores were highest at MCI, exceeded size-matched random baselines, and were not primarily explained by estimated blood-cell proportions. In GSE63060, P1/P2/P5 scores formed a dominant axis, with PC1 explaining 92.2% of directional half-score variance. A held-out classifier achieved AUC = 0.822, and ADNI analyses showed information beyond                       APOE                       ε4 and improved discrimination when blood scores were combined with cerebrospinal fluid pTau181/Aβ                       42                       .                                                                                Conclusions                     Neuropathology-defined AD transcriptomic programs form a shared peripheral axis that is most evident at MCI. This brain-anchored signal adds a systemic transcriptional dimension to genetic and fluid biomarkers and provides a biological framework for studying early AD-related disease in blood.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-11-19",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-21",
         "fetched_from": "crossref"
       },
       {
@@ -134506,6 +135439,67 @@
     ],
     "socialWork": [
       {
+        "id": "doi:10.1007/s10896-026-01204-z",
+        "doi": "10.1007/s10896-026-01204-z",
+        "url": "https://doi.org/10.1007/s10896-026-01204-z",
+        "title": "Phases of Resistance to Spiritual Abuse in Intimate Partner Violence",
+        "authors": [
+          "Christine N D’Souza",
+          "Jenny M. Sharples",
+          "Kim M. Shearson"
+        ],
+        "abstract": "Abstract                                        Purpose                     Women experiencing intimate partner violence (IPV) have been recognized as active agents in preserving their safety and dignity, often demonstrating significant resourcefulness in resisting abuse. The purpose of this study is to explore how Christian women’s experiences of spiritual abuse (SA) in IPV influences the formation, evolution and expression of resistance, and to deepen understanding of victimization patterns and processes of SA.                                                           Method                     Adopting a phenomenological design, twelve female victim/survivors of SA were interviewed to explore their lived experiences of directly experiencing and resisting SA used in IPV. Data was analyzed using Reflexive Thematic Analysis.                                                           Results                     Resistance is understood across five distinct yet interconnected phases in response to SA: Ambivalent, Strategic, Epistemic, Hermeneutic and Empowered. These phases reveal a complex, multi-layered, nuanced and reflective process that women experience as they reconcile and negotiate resistance to SA.                                                           Conclusions                     Central to the process of resisting SA is the recognition and reconciliation of SA and transformations to a woman’s spiritual identity. This identity and her faith beliefs are initially manipulated to entrap her but ultimately become the instrument of her awakening and liberation. What is initially used to justify and coerce submission is later reclaimed as a lens through which she discerns and subsequently makes sense of SA, questions the intentions of her husband, deconstructs entrapment, and reasserts her spiritual agency. Women’s resistance to SA across the phases is neither passive nor misguided. The process reflects a deeply thoughtful, discerning, and integrous approach to understanding the intentionality and manipulative coercion of SA.",
+        "source": "Journal of Family Violence",
+        "issn": "0885-7482",
+        "date": "2026-11-21",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-11-21",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/14680173261509845",
+        "doi": "10.1177/14680173261509845",
+        "url": "https://doi.org/10.1177/14680173261509845",
+        "title": "The Future of Ecological Social Work: Exploring the Hopes and Tensions of Implementing a Framework for Safeguarding Adolescents Beyond the Home",
+        "authors": [
+          "Rachael Owens",
+          "Jenny Lloyd"
+        ],
+        "abstract": "Summary                     This article examines the potential for ecological social work within neoliberal systems through an analysis of Contextual Safeguarding, a framework developed in the United Kingdom to address adolescent harm beyond the family home. Drawing on a 2-year qualitative study with over 60 practitioners, the analysis applies Ungar’s deep ecology framework to explore how social workers conceptualise and enact contextual, systems-oriented practice within neoliberal service environments. Social workers found ecological approaches both professionally sustaining and personally taxing: while contextual safeguarding offered a hopeful, values-based vision of practice, implementing it within individualised and risk-focused systems generated profound contradictions, pressures and emotional burdens.                                                           Findings                     The paper evidences a contrast between the generative potential of ecological approaches and the constraints of systems. Practitioners could recognise young people’s value, develop interventions and build alliances. However, these were undermined by power relations, bureaucratic processes, misaligned agencies and politicised policy contexts, causing strain, powerlessness and exhaustion. Three tensions emerged between 1) localised responses to harm and standardised practice models; 2) holistic recognition of young people’s circumstances and de-contextualised, individualistic responses and 3) social workers relinquishing power when positioned as relatively powerless within the hierarchies of child welfare institutions.                                                           Applications                     The study provides a framework for leaders and practitioners to understand the tensions between ecological aspirations and neoliberal welfare systems. By making visible the structural sources of ethical strain and exhaustion, it supports practitioners to resist personal blame for system failure. The accounts of hopeful practice provide inspiration for a social work future aligned with global movements seeking relational, reciprocal and community-connected approaches.",
+        "source": "Journal of Social Work",
+        "issn": "1468-0173",
+        "date": "2026-11-20",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-11-21",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/14680173261509849",
+        "doi": "10.1177/14680173261509849",
+        "url": "https://doi.org/10.1177/14680173261509849",
+        "title": "Book Review:\n                    <i>Dialectical behavior therapy for sex offenders: A treatment guide</i>\n                    by Kolb, Abigail KolbAbigail, Dialectical behavior therapy for sex offenders: A treatment guide. New York, NY: Routledge, 2023; 214 pp. (includes index), ISBN: 978-1-03-245679-9, $53.43 (pbk).",
+        "authors": [
+          "Sarah A. Dávalos",
+          "Thomas W. Starkey"
+        ],
+        "abstract": "",
+        "source": "Journal of Social Work",
+        "issn": "1468-0173",
+        "date": "2026-11-20",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-11-21",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1177/14680173261503796",
         "doi": "10.1177/14680173261503796",
         "url": "https://doi.org/10.1177/14680173261503796",
@@ -147194,10 +148188,10 @@
   },
   "totals": {
     "socialSecurity": 1626,
-    "elderCare": 1069,
-    "healthReform": 1585,
-    "agingHealth": 1528,
-    "socialWork": 554
+    "elderCare": 1081,
+    "healthReform": 1594,
+    "agingHealth": 1548,
+    "socialWork": 557
   },
   "feeds_ok": 41
 }
