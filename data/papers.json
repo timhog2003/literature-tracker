@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-21",
-  "fetched": "2026-11-21T08:29:21+00:00",
+  "date": "2026-11-22",
+  "fetched": "2026-11-22T08:22:14+00:00",
   "domains": {
     "socialSecurity": [
       {
@@ -52650,6 +52650,85 @@
     ],
     "healthReform": [
       {
+        "id": "doi:10.1056/nejmicm2609236",
+        "doi": "10.1056/nejmicm2609236",
+        "url": "https://doi.org/10.1056/nejmicm2609236",
+        "title": "Papulopustular Rosacea Associated with Demodex Mites",
+        "authors": [
+          "Gerardo Rivera Silva",
+          "Pablo Martinez Fernandez"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-11-21",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmp2606018",
+        "doi": "10.1056/nejmp2606018",
+        "url": "https://doi.org/10.1056/nejmp2606018",
+        "title": "From Cold War Politics to Hot Domestic Politics — The Epidemic Intelligence Service at 75",
+        "authors": [
+          "Amy L. Fairchild",
+          "James Colgrove"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-11-21",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmp2606324",
+        "doi": "10.1056/nejmp2606324",
+        "url": "https://doi.org/10.1056/nejmp2606324",
+        "title": "Two Ways of Seeing",
+        "authors": [
+          "James Lee"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-11-21",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmp2611049",
+        "doi": "10.1056/nejmp2611049",
+        "url": "https://doi.org/10.1056/nejmp2611049",
+        "title": "Declining Fertility Rates — The Role of Assisted Reproductive Technology",
+        "authors": [
+          "Elias M. Dahdouh",
+          "Jacques Balayla"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-11-21",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-22",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1001/jama.2026.24054",
         "doi": "10.1001/jama.2026.24054",
         "url": "https://doi.org/10.1001/jama.2026.24054",
@@ -52816,6 +52895,58 @@
           "healthReform"
         ],
         "firstSeen": "2026-11-21",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1007/s40273-026-01680-7",
+        "doi": "10.1007/s40273-026-01680-7",
+        "url": "https://doi.org/10.1007/s40273-026-01680-7",
+        "title": "Economic Evaluations of Narcolepsy Treatments: A Systematic Review and Critical Appraisal to Inform Future Health Economic Models",
+        "authors": [
+          "Sarah L. Bermingham",
+          "Dalia Dawoud",
+          "Sathushan Thurairajah",
+          "Louise Hartley",
+          "Miriam L. Zichlin",
+          "Tiago Matos",
+          "Alan Douglass",
+          "Paul Reading",
+          "Stephen Palmer"
+        ],
+        "abstract": "",
+        "source": "PharmacoEconomics",
+        "issn": "1170-7690",
+        "date": "2026-11-20",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1007/s40273-026-01677-2",
+        "doi": "10.1007/s40273-026-01677-2",
+        "url": "https://doi.org/10.1007/s40273-026-01677-2",
+        "title": "Distributional Cost-Effectiveness Analysis of Blood-Based Noninvasive Screening for MASLD among US Veterans: Assessing Health Equity Impact in the Era of Emerging Therapies",
+        "authors": [
+          "Wanyi Chen",
+          "Stephanie T. Chang",
+          "Ramsey C. Cheung",
+          "Donald B. Chalfin",
+          "Kinpritma Sangha",
+          "Szu-Yu Zoe Kao",
+          "Artem T. Boltyenkov"
+        ],
+        "abstract": "",
+        "source": "PharmacoEconomics",
+        "issn": "1170-7690",
+        "date": "2026-11-20",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-22",
         "fetched_from": "crossref"
       },
       {
@@ -95689,6 +95820,155 @@
         "fetched_from": "crossref"
       },
       {
+        "id": "doi:10.1177/13872877261504983",
+        "doi": "10.1177/13872877261504983",
+        "url": "https://doi.org/10.1177/13872877261504983",
+        "title": "Pharmacological and non-pharmacological management of sleep disturbances in Alzheimer's disease: A systematic review and meta-analysis",
+        "authors": [
+          "Arkansh Sharma",
+          "Rishu Raj",
+          "Mohammad Orooj Azmi",
+          "Nishmitha Puchakayala",
+          "Anmol Kaur",
+          "Poorvikha S",
+          "Vinay Suresh",
+          "Abhigyan Datta",
+          "Anusha Rai Deka",
+          "Suhrud Panchawagh",
+          "Allimuthu Nithyanandam",
+          "Hardeep Singh Malhotra",
+          "Ravindra Kumar Garg",
+          "Olivier Uwishema"
+        ],
+        "abstract": "Background                     Sleep disturbances affect half of Alzheimer's disease patients, accelerating cognitive decline and increasing caregiver burden. The comparative effectiveness of available interventions remains unclear.                                                           Objective                     To compare pharmacological and non-pharmacological interventions on sleep outcomes in Alzheimer's disease using network meta-analysis of randomized controlled trials (RCTs).                                                           Methods                     Following PRISMA and a registered PROSPERO protocol (CRD420250653178), four databases (PubMed/MEDLINE, EMBASE, Scopus, Web of Science) were searched through July 2026 for RCTs. Pairwise and frequentist random-effects network meta-analyses using Hedges’ g were performed for six sleep outcomes: total sleep time (TST), wake after sleep onset (WASO), nocturnal awakenings (NoA), sleep efficiency, daytime sleep, and daytime naps. A Bayesian network meta-analysis served as a sensitivity analysis.                                                           Results                     Twelve RCTs (N = 936, 32 study arms) were included. Zolpidem and zopiclone reduced sleep fragmentation, with improvements in NoA (SMD −1.09) and WASO (SMD −0.86), although these findings were based on a single short-term trial. Suvorexant increased TST (SMD 0.376) and increased TST (SMD 0.376), while lemborexant 2.5 mg reduced NoA (SMD −0.98), with favorable short-term tolerability. Walking (SMD −0.48), bright light therapy (SMD −0.37), and NITE-AD (SMD −0.52) reduced NoA, while combined light therapy and melatonin reduced daytime sleep (SMD −0.858). Melatonin monotherapy, trazodone, and mirtazapine showed limited or inconsistent effects.                                                           Conclusions                     Non-pharmacological interventions may be considered before pharmacological treatment. When pharmacotherapy is required, dual orexin receptor antagonists may be useful for selected sleep outcomes, whereas Z-drugs should be used cautiously given their established safety concerns. Larger, longer-duration head-to-head trials using standardized sleep outcomes are needed.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-11-21",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261507035",
+        "doi": "10.1177/13872877261507035",
+        "url": "https://doi.org/10.1177/13872877261507035",
+        "title": "Serum fibroblast growth factor-23 and risk of incident stroke and dementia: The Atherosclerosis Risk in Communities Study",
+        "authors": [
+          "Pamela L. Lutsey",
+          "Devon M. Sauerer",
+          "Erin D. Michos",
+          "Elizabeth Selvin",
+          "Casey M. Rebholz",
+          "Rebecca F. Gottesman",
+          "Alvaro Alonso",
+          "Kunihiro Matsushita",
+          "Sanaz Sedaghat"
+        ],
+        "abstract": "Background                     Elevated concentrations of fibroblast growth factor 23 (FGF23), a hormone involved in bone mineral and vitamin D metabolism, may be associated with risk of stroke and dementia through inflammation, endothelial dysfunction, vessel calcification and stiffness, and axonal degeneration.                                                           Objective                     We tested the hypothesis that elevated FGF23 is associated with increased risk of dementia and stroke.                                                           Methods                     FGF23 was measured in serum samples collected in 1990–1992 from 12,391 participants of the Atherosclerosis Risk in Communities study. Participants were followed through 2019 for incident stroke and dementia. Cox regression was used to examine the associations of FGF23 (in quintiles) with risk of stroke and dementia, with adjustment for demographics, cardiovascular and dementia risk factors, and kidney function.                                                           Results                                            Participants (mean 56.9 years; 57% female) were followed a median of 24 years; 1183 developed stroke and 2402 developed dementia. Participants in the highest versus lowest quintile of serum FGF23 were at elevated risk of stroke [HR (95% CI): 1.27 (1.06–1.51)] and dementia [HR: 1.21 (1.06–1.38)] independent of baseline demographics. Associations attenuated with additional adjustment for traditional cardiovascular risk factors [HR                       stroke                       : 1.20 (1.00–1.45); HR                       dementia                       : 1.17 (1.03–1.35)], and became even weaker after accounting for eGFR [HR                       stroke                       : 1.13 (0.94–1.37); HR                       dementia                       : 1.14 (1.00–1.31)]. The associations of FGF23 with incident stroke and dementia were not modified by categories of age, sex, race, or eGFR.                                                                                Conclusions                     Higher FGF23 was associated with modestly greater risk of stroke and dementia in this population-based sample, though the association was largely attenuated after adjustment for traditional cardiovascular risk factors and kidney function.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-11-21",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261507101",
+        "doi": "10.1177/13872877261507101",
+        "url": "https://doi.org/10.1177/13872877261507101",
+        "title": "External validation of a mathematical model of brain health",
+        "authors": [
+          "Halima Sadia",
+          "Nicolas Doyon",
+          "Simon Duchesne"
+        ],
+        "abstract": "Background                     Understanding the mechanisms underlying brain aging and age-related pathological changes is essential for advancing brain health research. Our group previously developed a mechanistic mathematical model of healthy brain that integrates key biological processes involved in normal aging, from which Alzheimer's disease (AD)-related changes may emerge naturally.                                                           Objective                     To characterize and validate this brain model by evaluating its sensitivity, calibrating its parameters, and assessing generalizability in independent populations.                                                           Methods                                            The model represents the evolution of key biological processes associated with brain aging, including amyloid-β (Aβ), tau pathologies, neuroinflammation, and neuronal death. After identifying the 30 most influential parameters, we calibrated the model using cognitively normal participants from the Alzheimer's Disease Neuroimaging Initiative (ADNI) database (n = 211) by minimizing a loss function composed of three outcomes (Aβ plaques, tau tangles, and neuronal density). The calibrated model was then applied to the UK Biobank cohort (n = 35,899) of normal controls (aged 44–82 years). The effects of sex and                       APOE                       were evaluated using stratified simulations.                                                                                Results                                            Parameter calibration significantly reduced the prediction errors for Aβ and tau. Neuronal density predictions showed strong agreement in the UK Biobank cohort. The variance decomposition identified                       APOE                       status as a major contributor to variability in Aβ.                                                                                Conclusions                     Our validated brain health model links mechanistic pathways with population data and reproduces neuronal density patterns in an independent cohort. These findings support its use as a framework for studying brain aging and investigating how AD-related pathological changes may emerge with aging.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-11-21",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261507355",
+        "doi": "10.1177/13872877261507355",
+        "url": "https://doi.org/10.1177/13872877261507355",
+        "title": "A comparison of data reduction approaches for the identification of non-cognitive symptom subsyndromes in Alzheimer's disease, based on Neuropsychiatric Inventory scores",
+        "authors": [
+          "Peter Patrick Henley",
+          "Peter Holmans",
+          "Patrick Gavin Kehoe",
+          "Rebecca Sims",
+          "Lindsey Sinclair"
+        ],
+        "abstract": "Background                     Within Alzheimer's disease, attempts to perform data reduction on the non-cognitive symptoms comprising the Neuropsychiatric Inventory (NPI) have been inconsistent. Here, most studies used principal component analysis (PCA), despite reports that exploratory factor analysis (EFA) estimates loadings more accurately.                                                           Objective                     We compared how well different data reduction approaches derived NPI models in a discovery dataset (Alzheimer's Disease Neuroimaging Initiative, n = 460), based on confirmatory factor analysis (CFA) in two independent datasets (Brains for Dementia Research, n = 337 and Memento, n = 211). Specifically, we assessed PCA, maximum likelihood (ML) EFA, principal axis (PA) EFA, and a PCA extension that adjusts for zero inflation. For each method, we additionally compared how different approaches to determine the number of factors/components affected CFA fit indices.                                                           Methods                     EFA and standard PCA were performed using PSYCH, the zero-inflation adjusted PCA using zibppca, and CFA was performed in Lavaan (all R packages).                                                           Results                     In both confirmatory datasets, PA EFA yielded the closest fitting model (Tucker Lewis Index &gt; 0.95). This model comprised [agitation and irritability], [depression and anxiety], [delusions and hallucinations], and [elation and disinhibition]. We also demonstrated that selecting the number of latent constructs to retain using parallel analysis based on null factors, as opposed to component eigenvalues, was necessary to identify this best fitting model.                                                           Conclusions                     PA EFA allowed the identification of an acceptable CFA verified NPI subsyndrome structure. Our findings also indicate that previous attempts to identify NPI subsyndrome structure might have been hindered by extracting too few factors/components.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-11-21",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261509096",
+        "doi": "10.1177/13872877261509096",
+        "url": "https://doi.org/10.1177/13872877261509096",
+        "title": "TToTP model: An automated detection of Alzheimer's disease and frontotemporal dementia using Tesla Tree of Thought Pattern with EEG signals",
+        "authors": [
+          "Irem Tasci",
+          "Turker Tuncer",
+          "Prabal Datta Barua",
+          "Sengul Dogan",
+          "Burak Taşcı",
+          "Abdul Hafeez-Baig",
+          "Ru-San Tan",
+          "U. R. Acharya"
+        ],
+        "abstract": "Background                     Alzheimer's disease (AD) and frontotemporal dementia (FTD) are common neurological disorders.                                            Objective:                       To facilitate the early detection of these conditions, we aimed to propose a new self-organized explainable feature engineering (SOXFE) model. Additionally, we sought to investigate the feature extraction capabilities.                                                                                Methods                     We used a publicly available electroencephalography (EEG) dementia detection dataset. This dataset was created to collect EEG signals from participants in three categories: (i) AD, (ii) FTD, and (iii) healthy control (HC). To automatically detect these groups, we proposed a new SOXFE model. This model includes a novel feature extraction function inspired by Tesla's 369 vortex and the Tree of Thought (ToT), termed the Tesla Tree of Thought Pattern (TToTP). In the feature selection phase, we applied cumulative weighted iterative neighborhood component analysis (CWINCA), to select the most informative features. In the classification phase, we employed the t algorithm-based k-nearest neighbors (tkNN). The fourth phase involves information fusion, where the results from each channel are voted on using iterative majority voting (IMV), and the best outcome is selected. The final phase is explainable results generation, in which a cortical channel map (CCMap) is created based on the findings from the information fusion phase.                                                           Results                     We applied the TToTP-based SOXFE model to the EEG dementia dataset, achieving over 99% classification accuracy. Additionally, a cortical channel map was generated using the classification results.                                                           Conclusions                     The proposed TToTP-based SOXFE model achieved high classification performance and successfully generated a cortical channel map. The model contributes to both feature engineering and neuroscience",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-11-21",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261509203",
+        "doi": "10.1177/13872877261509203",
+        "url": "https://doi.org/10.1177/13872877261509203",
+        "title": "Shifting landscapes of disease definition and language use in the Alzheimer's disease clinic: A study of specialist clinicians",
+        "authors": [
+          "Twisha Bhardwaj",
+          "Seth A. Gale"
+        ],
+        "abstract": "Background                     Accompanying paradigm shifts in our biological understanding and treatment of Alzheimer's disease (AD) has been a parallel evolution in conceptualizations of the disease and the culture of clinical care. Diagnostic criteria offer biological and clinical-biological constructs which shape clinicians’ mental models of AD, their language use in the clinic, and their patients’ experience in society.                                                           Objective                     To examine how specialist clinicians navigate evolving biological advances in AD, how their perspectives may affect who gets diagnosed and treated, and how patients’ lives are impacted outside of the clinic.                                                           Methods                     Online survey exploring beliefs and practices of AD specialty clinicians (ASCs) regarding conceptualizations of AD within evolving clinical and biological frameworks. Rapid qualitative analysis was utilized to thematically analyze open-ended responses.                                                           Results                                            Twenty ASCs completed the survey. Most view AD as a                       disease                       or                       pathology                       , while less than half view it as an                       illness                       . All in this sample actively consider a clinical continuum model of AD when communicating with patients. All cite the opportunity for forthcoming therapeutics, enrolling in clinical trials, future planning, lifestyle changes, and clarified prognosis as advantages of diagnosing early AD in asymptomatic individuals. Disadvantages include emotional distress, potential misunderstandings accompanying the diagnosis, implications for insurance coverage, and stigma.                                                                                Conclusions                     It is imperative to understand the views and enacted behaviors of all stakeholders in AD care to optimize its many goals. Among ASCs, a deeper fluency with philosophical foundations and assumptions surrounding AD concepts may improve desired outcomes, enable ethically attuned communication, and strengthen therapeutic alliance.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-11-21",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-22",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1186/s12877-026-08722-x",
         "doi": "10.1186/s12877-026-08722-x",
         "url": "https://doi.org/10.1186/s12877-026-08722-x",
@@ -96326,59 +96606,6 @@
         "fetched_from": "crossref"
       },
       {
-        "id": "doi:10.1097/ede.0000000000002065",
-        "doi": "10.1097/ede.0000000000002065",
-        "url": "https://doi.org/10.1097/ede.0000000000002065",
-        "title": "What is the key bias that the test-negative design is intended to remove?",
-        "authors": [
-          "Neil Pearce",
-          "Thiago Cerqueira-Silva",
-          "Elizabeth Williamson",
-          "Matthew P. Fox",
-          "Jan Vandenbroucke"
-        ],
-        "abstract": "Test-negative studies recruit ‘cases’ who test positive for a particular disease; ‘controls’ are patients undergoing the same tests for the same medical reasons and who test negative. The design is often used for vaccine effectiveness studies but has also, with certain assumptions, been used to assess risk factors for disease. However, although the test-negative design (TND) has been widely used, and also explored theoretically, there has been little agreement on what type of bias the TND is intended to address, or what the corresponding Directed Acyclic Graph (DAG) is. In this paper, we consider the situation where the only available disease outcome is that available from the natural process of people being tested in a particular population (i.e. no additional testing is done for the study), and those who test positive (the cases) are compared to the rest of the general population (or a sample of general population controls), not all of whom have been tested. In this situation, we show that the bias that the TND is intended to address arises from misclassification of the outcome due to incomplete testing. This bias occurs irrespective of whether the entire source population is studied, or a standard case-control study (with general population controls) is conducted. This bias can be eliminated or minimized by restricting the source population to the subpopulation who get tested. Once again, this restriction works whether all of this tested subpopulation is studied, or if controls are sampled from the non-cases. Using either design within the tested subpopulation controls (fully or in part) for determinants of who gets tested, including health-seeking behaviour. We then briefly consider other biases that may occur in a TND study (e.g. imperfect testing, residual confounding). However, we emphasize that these additional biases generally can occur in any observational study, and are not unique to the TND. The unique bias which the TND is intended to address is misclassification of the outcome due to incomplete testing.",
-        "source": "Epidemiology",
-        "issn": "1044-3983",
-        "date": "2026-11-19",
-        "subjects": [],
-        "domains": [
-          "agingHealth",
-          "healthReform"
-        ],
-        "firstSeen": "2026-11-20",
-        "fetched_from": "crossref"
-      },
-      {
-        "id": "doi:10.1093/aje/kwag296",
-        "doi": "10.1093/aje/kwag296",
-        "url": "https://doi.org/10.1093/aje/kwag296",
-        "title": "The influence of pre-diagnostic allostatic load on mortality after incident colorectal cancer",
-        "authors": [
-          "Zoe Walts",
-          "Oluwatoyosi Ogunmuyiwa",
-          "Amy Cochran",
-          "Amy Trentham-Dietz",
-          "Melissa Rosenkranz",
-          "Anne D Letocha",
-          "Tiffany L Carson",
-          "Doratha A Byrd",
-          "Martha J Shrubsole",
-          "Shaneda Warren Andersen"
-        ],
-        "abstract": "Abstract                   Allostatic load is an emerging stress biomarker capturing immune, cardiovascular, and metabolic dysregulations. We evaluated associations between allostatic load and mortality after colorectal cancer (CRC) diagnosis, comparing allostatic load to metabolic syndrome to determine if including additional domains beyond metabolism strengthens associations with mortality. Southern Community Cohort Study participants who developed incident CRC after enrollment (2002-2009) were included; most self-identified as Black (69%) and report &amp;lt;$15,000 annual household income (55%). Enrollment samples were analyzed for immune, metabolic, and cardiovascular biomarkers. A standard metabolic syndrome definition was used (3/5 traits); most (N=1007) had available information to calculate metabolic syndrome. To calculate allostatic load, biomarkers above clinical risk cutoffs were summed; counts above median indicated high allostatic load (4/10 traits). A subsample of 303 had additional information to calculate allostatic load. Mortality was ascertained through 2020 via National Death Index linkage. Multivariate-adjusted Cox models estimated hazard ratios and 95% confidence intervals (HR[95%CI]). High allostatic load was associated with higher risk of all-cause (1.81[1.25-2.62]) and CRC-specific mortality (HR:1.81[1.07-3.07]). The latter attenuated after controlling for health behaviors (HR:1.57[0.91-2.70]). Metabolic syndrome was not associated with mortality (all-cause: 1.06[0.88-1.28]; CRC-specific: 1.08[0.83-1.40]). Allostatic load may be a clinically actionable biomarker to readily identify cancer patients with comorbidity.",
-        "source": "American Journal of Epidemiology",
-        "issn": "0002-9262",
-        "date": "2026-11-19",
-        "subjects": [],
-        "domains": [
-          "agingHealth",
-          "healthReform"
-        ],
-        "firstSeen": "2026-11-20",
-        "fetched_from": "crossref"
-      },
-      {
         "id": "doi:10.1093/gerona/glag261",
         "doi": "10.1093/gerona/glag261",
         "url": "https://doi.org/10.1093/gerona/glag261",
@@ -96445,6 +96672,59 @@
           "elderCare"
         ],
         "firstSeen": "2026-11-21",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1097/ede.0000000000002065",
+        "doi": "10.1097/ede.0000000000002065",
+        "url": "https://doi.org/10.1097/ede.0000000000002065",
+        "title": "What is the key bias that the test-negative design is intended to remove?",
+        "authors": [
+          "Neil Pearce",
+          "Thiago Cerqueira-Silva",
+          "Elizabeth Williamson",
+          "Matthew P. Fox",
+          "Jan Vandenbroucke"
+        ],
+        "abstract": "Test-negative studies recruit ‘cases’ who test positive for a particular disease; ‘controls’ are patients undergoing the same tests for the same medical reasons and who test negative. The design is often used for vaccine effectiveness studies but has also, with certain assumptions, been used to assess risk factors for disease. However, although the test-negative design (TND) has been widely used, and also explored theoretically, there has been little agreement on what type of bias the TND is intended to address, or what the corresponding Directed Acyclic Graph (DAG) is. In this paper, we consider the situation where the only available disease outcome is that available from the natural process of people being tested in a particular population (i.e. no additional testing is done for the study), and those who test positive (the cases) are compared to the rest of the general population (or a sample of general population controls), not all of whom have been tested. In this situation, we show that the bias that the TND is intended to address arises from misclassification of the outcome due to incomplete testing. This bias occurs irrespective of whether the entire source population is studied, or a standard case-control study (with general population controls) is conducted. This bias can be eliminated or minimized by restricting the source population to the subpopulation who get tested. Once again, this restriction works whether all of this tested subpopulation is studied, or if controls are sampled from the non-cases. Using either design within the tested subpopulation controls (fully or in part) for determinants of who gets tested, including health-seeking behaviour. We then briefly consider other biases that may occur in a TND study (e.g. imperfect testing, residual confounding). However, we emphasize that these additional biases generally can occur in any observational study, and are not unique to the TND. The unique bias which the TND is intended to address is misclassification of the outcome due to incomplete testing.",
+        "source": "Epidemiology",
+        "issn": "1044-3983",
+        "date": "2026-11-19",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-20",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag296",
+        "doi": "10.1093/aje/kwag296",
+        "url": "https://doi.org/10.1093/aje/kwag296",
+        "title": "The influence of pre-diagnostic allostatic load on mortality after incident colorectal cancer",
+        "authors": [
+          "Zoe Walts",
+          "Oluwatoyosi Ogunmuyiwa",
+          "Amy Cochran",
+          "Amy Trentham-Dietz",
+          "Melissa Rosenkranz",
+          "Anne D Letocha",
+          "Tiffany L Carson",
+          "Doratha A Byrd",
+          "Martha J Shrubsole",
+          "Shaneda Warren Andersen"
+        ],
+        "abstract": "Abstract                   Allostatic load is an emerging stress biomarker capturing immune, cardiovascular, and metabolic dysregulations. We evaluated associations between allostatic load and mortality after colorectal cancer (CRC) diagnosis, comparing allostatic load to metabolic syndrome to determine if including additional domains beyond metabolism strengthens associations with mortality. Southern Community Cohort Study participants who developed incident CRC after enrollment (2002-2009) were included; most self-identified as Black (69%) and report &amp;lt;$15,000 annual household income (55%). Enrollment samples were analyzed for immune, metabolic, and cardiovascular biomarkers. A standard metabolic syndrome definition was used (3/5 traits); most (N=1007) had available information to calculate metabolic syndrome. To calculate allostatic load, biomarkers above clinical risk cutoffs were summed; counts above median indicated high allostatic load (4/10 traits). A subsample of 303 had additional information to calculate allostatic load. Mortality was ascertained through 2020 via National Death Index linkage. Multivariate-adjusted Cox models estimated hazard ratios and 95% confidence intervals (HR[95%CI]). High allostatic load was associated with higher risk of all-cause (1.81[1.25-2.62]) and CRC-specific mortality (HR:1.81[1.07-3.07]). The latter attenuated after controlling for health behaviors (HR:1.57[0.91-2.70]). Metabolic syndrome was not associated with mortality (all-cause: 1.06[0.88-1.28]; CRC-specific: 1.08[0.83-1.40]). Allostatic load may be a clinically actionable biomarker to readily identify cancer patients with comorbidity.",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-11-19",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-20",
         "fetched_from": "crossref"
       },
       {
@@ -135460,6 +135740,47 @@
         "fetched_from": "crossref"
       },
       {
+        "id": "doi:10.1177/14680173261502913",
+        "doi": "10.1177/14680173261502913",
+        "url": "https://doi.org/10.1177/14680173261502913",
+        "title": "Burnout in Social Work Practicum Students",
+        "authors": [
+          "Kristen P Kremer",
+          "Todd P Clevenger",
+          "Rebekah J Carnes"
+        ],
+        "abstract": "Summary                     Prior research has found heightened burnout among social work professionals, resulting in job turnover and reduced wellbeing. The goal of the present study is to understand prevalence of burnout experiences amongst current practicum students and understand how personal and workplace characteristics are related to burnout. We are particularly interested in understanding how personal experiences of trauma relate to burnout symptoms. The present study surveyed 199 U.S. social work students currently completing their field practicum, who provided details on their personal history of adverse childhood experiences, practicum characteristics, and current level of burnout.                                                           Findings                     Burnout prevalence exceeded national rates, with nearly half of practicum students exhibiting high emotional exhaustion and low feelings of personal accomplishment. Results of multivariate regression analyses found a variety of personal and workplace characteristics to predict burnout. Most notably, practicum students with personal history of trauma had increased emotional exhaustion and depersonalization. Practicum students working paid jobs outside of practicum were also more emotionally exhausted. On the other hand, practicum students with greater social service work experience were less emotionally exhausted and depersonalized. Supervisor support served as a protective factor for burnout, in which students reporting greater support from supervisors exhibited less exhaustion and depersonalization.                                                           Applications                     Social work faculty should educate practicum students about the relationship between trauma and burnout, teach prevention and coping strategies, and provide space to process practicum experiences. Practicum agencies should ensure regular supervision is offered within a supportive environment.",
+        "source": "Journal of Social Work",
+        "issn": "1468-0173",
+        "date": "2026-11-21",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-11-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/14680173261510701",
+        "doi": "10.1177/14680173261510701",
+        "url": "https://doi.org/10.1177/14680173261510701",
+        "title": "Book Review:\n                    <i>Becoming a social work manager</i>\n                    by Bartoli, Angie BartoliAngie. Becoming a social work manager. Abingdon, Oxon: Routledge, 2025; 132 pp.(including index), ISBN 9781915713759 (pbk), ISBN 9781041054320 (ebk).",
+        "authors": [
+          "Karina Valle",
+          "Thomas W. Starkey"
+        ],
+        "abstract": "",
+        "source": "Journal of Social Work",
+        "issn": "1468-0173",
+        "date": "2026-11-21",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-11-22",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1177/14680173261509845",
         "doi": "10.1177/14680173261509845",
         "url": "https://doi.org/10.1177/14680173261509845",
@@ -135557,6 +135878,50 @@
           "socialWork"
         ],
         "firstSeen": "2026-11-20",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/10497315261509995",
+        "doi": "10.1177/10497315261509995",
+        "url": "https://doi.org/10.1177/10497315261509995",
+        "title": "Longitudinal Analysis of a Measure of Student Performance in the Field Practicum",
+        "authors": [
+          "Cheryl Regehr",
+          "Eileen McKee",
+          "Kaarunya Kandeephan",
+          "Kyle Ganson",
+          "Keith Adamson",
+          "Megan Davies"
+        ],
+        "abstract": "Purpose                     Measuring competency of students in field practice has proved challenging across disciplines, including in social work. This study examined the performance of an empirically derived tool for measuring social work student field performance over 18 years.                                                           Method                     Secondary analysis was conducted using an administrative database containing quantitative measures of practicum performance for 4551 students. An extreme case analysis was conducted on narrative comments regarding 320 highest and lowest rated students.                                                           Results                     There were no significant differences in mean scores of measures across time. There were significant correlations between mid-term and final term scores and between first- and second-year scores. Narrative comments differentiated high- and low-performing students and shifted over time, reflecting greater emphasis on DEI, trauma-informed practices, and self-care.                                                           Conclusions                     The tool has proven to be remarkably robust over almost 2 decades and can serve as a model for developing and refining future measures of field performance.",
+        "source": "Research on Social Work Practice",
+        "issn": "1049-7315",
+        "date": "2026-11-19",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-11-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/10497315261509128",
+        "doi": "10.1177/10497315261509128",
+        "url": "https://doi.org/10.1177/10497315261509128",
+        "title": "Changes in Autism Knowledge and Attitudes Following Structured Training for Social Work Students: A Quasi-Experimental Outcome Study",
+        "authors": [
+          "Halime Miray Sümer Dodur",
+          "Sibel Sümer Öncel"
+        ],
+        "abstract": "Purpose:                     This study examined changes in autism knowledge and attitudes toward autistic individuals following structured autism training for undergraduate social work students and explored the association between these changes in knowledge and attitudes.                     Methods:                     A quasi-experimental pretest–posttest design with follow-up was employed. The study included 114 undergraduate social work students assigned to intervention and comparison groups through two preexisting class sections. The intervention group completed an 8-week structured training program on autism. Group-by-time analyses were conducted to compare changes between groups, and exploratory within-participant mediation analysis was performed.                     Results:                     The intervention group demonstrated substantially greater improvements in autism knowledge and attitudes than the comparison group. These improvements remained evident at follow-up. The exploratory analysis identified a statistical indirect association between changes in autism knowledge and attitudes within the intervention group.                     Discussion:                     Structured autism training was associated with improvements in knowledge and attitudes among social work students. However, the nonrandomized design and concurrent assessment of knowledge and attitudes limit the causal interpretations. Further research is needed to examine the sustainability of these educational outcomes and their potential translation into professional competence and social-work practice.",
+        "source": "Research on Social Work Practice",
+        "issn": "1049-7315",
+        "date": "2026-11-19",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-11-22",
         "fetched_from": "crossref"
       },
       {
@@ -148189,9 +148554,9 @@
   "totals": {
     "socialSecurity": 1626,
     "elderCare": 1081,
-    "healthReform": 1594,
-    "agingHealth": 1548,
-    "socialWork": 557
+    "healthReform": 1600,
+    "agingHealth": 1554,
+    "socialWork": 561
   },
   "feeds_ok": 41
 }
