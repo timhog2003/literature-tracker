@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-22",
-  "fetched": "2026-11-22T08:22:14+00:00",
+  "date": "2026-11-23",
+  "fetched": "2026-11-23T09:22:19+00:00",
   "domains": {
     "socialSecurity": [
       {
@@ -25447,6 +25447,94 @@
     ],
     "elderCare": [
       {
+        "id": "doi:10.1186/s12877-026-08705-y",
+        "doi": "10.1186/s12877-026-08705-y",
+        "url": "https://doi.org/10.1186/s12877-026-08705-y",
+        "title": "Medication adherence challenges among Iranian older adults with polypharmacy: a qualitative content analysis study",
+        "authors": [
+          "Hossein Poorcheraghi",
+          "Reza Negarandeh",
+          "Shahzad Pashaeypoor"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-23",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08742-7",
+        "doi": "10.1186/s12877-026-08742-7",
+        "url": "https://doi.org/10.1186/s12877-026-08742-7",
+        "title": "Older adults’ expectations and perceptions of the health center services in Tabriz experiences and satisfaction of older adults with health center services in Tabriz",
+        "authors": [
+          "Vahid Pakpour",
+          "Mohammad Khajehgoodari",
+          "Samira Shahedifar"
+        ],
+        "abstract": "Abstract                                        Background                     Aging is one of the most significant demographic phenomena of the present century accompanied by an increasing demand for healthcare services. The quality of these services is particularly important from the perspective of older adults, as their perceptions and expectations influence both service utilization and satisfaction. This study was conducted to determine the expectations and perceptions of older people regarding the services provided in urban health centers of Tabriz.                                                           Methods                     This cross-sectional study was conducted in 2024 with the participation of 640 older adults aged over 60, selected through cluster-random sampling from 18 urban health centers. Data were collected using a demographic questionnaire and the standardized SERVQUAL instrument, which assesses five dimensions of service quality (Tangibles, Reliability, Responsiveness, Assurance, and Empathy). Statistical analyses were performed using the Wilcoxon test and ANCOVA in SPSS version 24.                                                           Results                                            In this study, the mean expectations of older adults regarding the services of health centers in Tabriz were reported as 4.29 (SD = 0.22), while their mean perceptions were 4.18 (SD = 0.19). The largest negative quality gap was observed in the Tangibles dimension (–0.70), while the smallest gap was found in Reliability (–0.05). In contrast, Responsiveness and Empathy showed positive gaps (+ 0.45 and + 0.83, respectively). The Wilcoxon test indicated that the differences between mean expectations and perceptions were statistically significant across all dimensions except Assurance (                       P                        = 0.06). These findings highlight a notable discrepancy between older adults’ expectations and perceptions regarding the quality of provided healthcare services.                                                                                Conclusions                     Older adults’ perceptions of healthcare quality are shaped by service delivery and psychosocial and demographic factors. Quality gaps between expectations and perceptions were not uniform. a notable deficit was identified in physical infrastructure (tangibles), whereas experiences exceeded expectations in responsiveness and empathy, with a well-balanced match in assurance. Primary healthcare administrators could prioritize upgrading outdated facilities into older-people-friendly environments while implementing staff training to sustain high empathy. Future qualitative and longitudinal research could explore the cultural roots of adjusted expectations and leverage social capital to enhance healthcare satisfaction.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-23",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08695-x",
+        "doi": "10.1186/s12877-026-08695-x",
+        "url": "https://doi.org/10.1186/s12877-026-08695-x",
+        "title": "Digital literacy as a contextual factor shaping the social pathways linking income to depression among older adults",
+        "authors": [
+          "Jiyoun Kim"
+        ],
+        "abstract": "Abstract                                        Background                     Depression, which is closely linked to socioeconomic disadvantage, is a major mental health concern among older adults. Although low income has been consistently associated with depressive symptoms in later life, it is unclear how economic resources influence mental health through social and digital mechanisms. Our study examined whether social participation mediates the association of income with depressive symptoms in older adults. We also analyzed if digital literacy moderates this mediating pathway in the study cohort.                                                           Methods                     Using a nationally representative sample of 10,078 (the analytical sample is 9,951) community-dwelling older adults, we tested a moderated mediation model. We measured income as household income relative to the median national income and standardized it for analysis. Social participation was assessed as a composite index of frequency of participation in clubs or hobby groups, informal social gatherings, and political or civic organizations. Digital literacy was measured using a composite index based on internet access, ownership of digital devices, and engagement in various digital activities. We analyzed depressive symptoms using a validated scale. Adjusting for sociodemographic and health-related covariates, we used Hayes’ PROCESS macro (Model 14) with 5000 bootstrap samples.                                                           Results                                            The moderated mediation analysis demonstrated that higher continuous income was significantly associated with greater social participation (b = 0.216, SE = 0.016,                       p                       &lt; .001), which in turn was linked to lower depressive symptoms (b = − 0.180, SE = 0.033,                       p                       &lt; .001). Digital literacy significantly conditioned this indirect pathway (index of moderated mediation = 0.0017, Boot SE = 0.0008), though the interaction explained only a small increment in variance (ΔR² = 0.0003). The inverse association between social participation and depressive symptoms was somewhat more pronounced among older adults with lower digital literacy, a pattern that should be interpreted with caution given its modest magnitude.                                                                                Conclusions                     Our findings highlight that social participation is a key pathway linking socioeconomic resources to better mental health in later life. Digital literacy showed a statistically detectable, though practically modest, conditioning effect on this pathway. Interventions targeting late-life depression should consider integrated strategies that simultaneously promote traditional social engagement and digital literacy, particularly focusing on economically and digitally disadvantaged populations.                                                           Clinical trial number                     Not applicable.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-23",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08714-x",
+        "doi": "10.1186/s12877-026-08714-x",
+        "url": "https://doi.org/10.1186/s12877-026-08714-x",
+        "title": "The effect of exergaming interventions on depressive symptoms and quality of life in older people with dementia: a systematic review and meta-analysis",
+        "authors": [
+          "Bing Zhan",
+          "Wenxuan Liu",
+          "Chan Sze Wing",
+          "Ling Sheng",
+          "Ka Man Leung"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-23",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-23",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1186/s12877-026-08709-8",
         "doi": "10.1186/s12877-026-08709-8",
         "url": "https://doi.org/10.1186/s12877-026-08709-8",
@@ -25469,6 +25557,76 @@
           "agingHealth"
         ],
         "firstSeen": "2026-11-21",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/geront/gnag265",
+        "doi": "10.1093/geront/gnag265",
+        "url": "https://doi.org/10.1093/geront/gnag265",
+        "title": "Neighborhood Income and Negative Emotions among Family Caregivers of Older Adults in Hong Kong: Role of Unmet Service Needs",
+        "authors": [
+          "Ethan Siu Leung Cheung",
+          "Vivian Weiqun Lou",
+          "Vera Mun Yu Tang",
+          "Tom Chun Wai Tsoi",
+          "Wendie Wenyi Lin"
+        ],
+        "abstract": "Abstract                                        Background and Objectives                     In home-based care settings, family caregivers play an essential role in providing daily support and assistance. Supporting caregivers’ mental health can improve the quality of life for both caregivers and care recipients. However, limited research has explored the role of neighborhood economic resources in the mental health of family caregivers. Using Hong Kong as a case study, this study examined associations between neighborhood median income and negative emotions among family caregivers of older adults, including testing the mediating role of service-related factors (i.e., neighborhood-level geographical service provision and unmet service needs) in these associations.                                                           Research Design and Methods                     Individual-level data came from a caregiving population survey in Hong Kong, merged with the 2021 population census and a spatial dataset for area-level data. The analytic sample included 2,254 participants. Multilevel linear regressions were used to examine the associations between neighborhood median income and three negative emotions measured by the Depression Anxiety Stress Scale. Mediation analyses were conducted to examine the mechanisms of these associations.                                                           Results                     Higher neighborhood median income was associated with higher levels of all negative emotions among family caregivers. Caregivers’ unmet service needs statistically accounted for the associations between neighborhood median income and depression and stress, whereas geographical service provision, measured by number of community services, did not mediate any associations.                                                           Discussion and Implications                     The findings highlight neighborhood economic disparities in mental health among family caregivers in Hong Kong. These disparities may be partially explained by caregivers’ perceived need for services rather than geographical availability.",
+        "source": "The Gerontologist",
+        "issn": "0016-9013",
+        "date": "2026-11-21",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/geront/gnag267",
+        "doi": "10.1093/geront/gnag267",
+        "url": "https://doi.org/10.1093/geront/gnag267",
+        "title": "Race, Age, and the Unfinished Work of American Democracy",
+        "authors": [
+          "Barbara Gordon"
+        ],
+        "abstract": "",
+        "source": "The Gerontologist",
+        "issn": "0016-9013",
+        "date": "2026-11-21",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08703-0",
+        "doi": "10.1186/s12877-026-08703-0",
+        "url": "https://doi.org/10.1186/s12877-026-08703-0",
+        "title": "Chart-derived frailty index is associated with long-term mortality and longitudinal health-related quality of life after hip fracture surgery in older adults: a secondary analysis of a prospective cohort study",
+        "authors": [
+          "Hairui Liang",
+          "Yuhao Kan",
+          "Kangzu Peng",
+          "Bingyu Li",
+          "Bo Li",
+          "Gang Liu",
+          "Minghui Yang"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-21",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-23",
         "fetched_from": "crossref"
       },
       {
@@ -52649,6 +52807,82 @@
       }
     ],
     "healthReform": [
+      {
+        "id": "doi:10.1093/aje/kwag301",
+        "doi": "10.1093/aje/kwag301",
+        "url": "https://doi.org/10.1093/aje/kwag301",
+        "title": "Interpreting Ambient Exposure Associations in Veteran Suicide and Overdose Mortality",
+        "authors": [
+          "Alina Peluso",
+          "Dirga Lamichhane",
+          "Jodie A Trafton",
+          "Amanda V Bakian"
+        ],
+        "abstract": "",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-11-23",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag291",
+        "doi": "10.1093/aje/kwag291",
+        "url": "https://doi.org/10.1093/aje/kwag291",
+        "title": "Comparing randomized trials",
+        "authors": [
+          "Yu-Han Chiu",
+          "Issa J Dahabreh"
+        ],
+        "abstract": "Abstract                   Disagreements between well-conducted randomized trials addressing the same causal question generate intense discussion of possible explanations and sometimes stir controversy. In this issue of the Journal, Virkud et al. (Am J Epidemiol. 2025; doi:10.1093/aje/kwaf202) compared two double-blind randomized trials of 17-α-hydroxyprogesterone caproate (17-OHPC) for the prevention of recurrent preterm birth, considering differences in population characteristics as the leading explanation for the disagreement between the trials’ marginal (population-averaged) results. In this commentary, we outline considerations for comparing randomized trials addressing the same causal question, including explanations beyond differences in population characteristics. We highlight parallels between comparing trials and benchmarking observational analyses against trials, and note that selection of between-study comparisons for interrogation may introduce statistical complications that should be considered alongside causal issues. We emphasize that formal between-study comparisons rest on long chains of causal and statistical assumptions, and that the interpretation of disagreements requires substantive knowledge to assess the plausibility of competing explanations. Technical details are presented in a companion report.",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-11-23",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag298",
+        "doi": "10.1093/aje/kwag298",
+        "url": "https://doi.org/10.1093/aje/kwag298",
+        "title": "Association Between prenatal cannabis use and pregnancy loss: a population-based retrospective cohort study",
+        "authors": [
+          "Lyndsay A Avalos",
+          "Kevin Kong",
+          "Stacey E Alexeeff",
+          "Sara R Adams",
+          "Nina R Oberman",
+          "Jamie O Lo",
+          "Monique B Does",
+          "Rozalyna D Gritten",
+          "Deborah Ansley",
+          "Carley L Castellanos",
+          "Alisa A Padon",
+          "Lynn D Silver",
+          "Kelly C Young-Wolff"
+        ],
+        "abstract": "Abstract                   Biological evidence suggests prenatal cannabis exposure may increase risks of miscarriage and stillbirth, but epidemiologic studies are limited by methodological weaknesses. Addressing these gaps, we evaluated associations between prenatal cannabis use and pregnancy loss in a population-based retrospective cohort. The study included 233,860 pregnancies (184,296 individuals) universally screened for substance use upon entry into prenatal care (~8-10 gestational weeks) between January 1, 2011 and September 30, 2019. Prenatal cannabis use was defined as any use (self-report or urine toxicology) and frequency (self-report). Miscarriage and stillbirth outcomes were obtained from electronic health records and California vital records. Cox proportional hazards models were conducted separately for miscarriage and stillbirth adjusting for sociodemographic characteristics, maternal comorbidities, and maternal prenatal use of other non-cannabis substances. The cohort was 38.6% non-Hispanic White, with mean (SD) maternal age 30.6 (5.5) years; 6.6% screened positive for cannabis. Overall, 5.5% of pregnancies ended in miscarriage and 0.4% in stillbirth. Prenatal cannabis use (vs. none) was associated with a 13% increased risk of miscarriage occurring after entry into prenatal care (~8-10 weeks gestation; aHR: 1.13,95%CI: 1.03–1.22), rising to ~30% after excluding other substance use. Weekly (aHR: 1.32,95%CI: 1.07-1.63) and daily (aHR: 1.29,95% CI: 1.02-1.63) use (vs. no use) showed similar increases. No association was observed for stillbirth. These findings add to the growing body of evidence linking prenatal cannabis use with adverse pregnancy outcomes and may help inform clinical counseling, harm reduction strategies, and public health policies.",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-11-23",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-23",
+        "fetched_from": "crossref"
+      },
       {
         "id": "doi:10.1056/nejmicm2609236",
         "doi": "10.1056/nejmicm2609236",
@@ -95795,6 +96029,170 @@
     ],
     "agingHealth": [
       {
+        "id": "doi:10.1186/s12877-026-08705-y",
+        "doi": "10.1186/s12877-026-08705-y",
+        "url": "https://doi.org/10.1186/s12877-026-08705-y",
+        "title": "Medication adherence challenges among Iranian older adults with polypharmacy: a qualitative content analysis study",
+        "authors": [
+          "Hossein Poorcheraghi",
+          "Reza Negarandeh",
+          "Shahzad Pashaeypoor"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-23",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08742-7",
+        "doi": "10.1186/s12877-026-08742-7",
+        "url": "https://doi.org/10.1186/s12877-026-08742-7",
+        "title": "Older adults’ expectations and perceptions of the health center services in Tabriz experiences and satisfaction of older adults with health center services in Tabriz",
+        "authors": [
+          "Vahid Pakpour",
+          "Mohammad Khajehgoodari",
+          "Samira Shahedifar"
+        ],
+        "abstract": "Abstract                                        Background                     Aging is one of the most significant demographic phenomena of the present century accompanied by an increasing demand for healthcare services. The quality of these services is particularly important from the perspective of older adults, as their perceptions and expectations influence both service utilization and satisfaction. This study was conducted to determine the expectations and perceptions of older people regarding the services provided in urban health centers of Tabriz.                                                           Methods                     This cross-sectional study was conducted in 2024 with the participation of 640 older adults aged over 60, selected through cluster-random sampling from 18 urban health centers. Data were collected using a demographic questionnaire and the standardized SERVQUAL instrument, which assesses five dimensions of service quality (Tangibles, Reliability, Responsiveness, Assurance, and Empathy). Statistical analyses were performed using the Wilcoxon test and ANCOVA in SPSS version 24.                                                           Results                                            In this study, the mean expectations of older adults regarding the services of health centers in Tabriz were reported as 4.29 (SD = 0.22), while their mean perceptions were 4.18 (SD = 0.19). The largest negative quality gap was observed in the Tangibles dimension (–0.70), while the smallest gap was found in Reliability (–0.05). In contrast, Responsiveness and Empathy showed positive gaps (+ 0.45 and + 0.83, respectively). The Wilcoxon test indicated that the differences between mean expectations and perceptions were statistically significant across all dimensions except Assurance (                       P                        = 0.06). These findings highlight a notable discrepancy between older adults’ expectations and perceptions regarding the quality of provided healthcare services.                                                                                Conclusions                     Older adults’ perceptions of healthcare quality are shaped by service delivery and psychosocial and demographic factors. Quality gaps between expectations and perceptions were not uniform. a notable deficit was identified in physical infrastructure (tangibles), whereas experiences exceeded expectations in responsiveness and empathy, with a well-balanced match in assurance. Primary healthcare administrators could prioritize upgrading outdated facilities into older-people-friendly environments while implementing staff training to sustain high empathy. Future qualitative and longitudinal research could explore the cultural roots of adjusted expectations and leverage social capital to enhance healthcare satisfaction.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-23",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08695-x",
+        "doi": "10.1186/s12877-026-08695-x",
+        "url": "https://doi.org/10.1186/s12877-026-08695-x",
+        "title": "Digital literacy as a contextual factor shaping the social pathways linking income to depression among older adults",
+        "authors": [
+          "Jiyoun Kim"
+        ],
+        "abstract": "Abstract                                        Background                     Depression, which is closely linked to socioeconomic disadvantage, is a major mental health concern among older adults. Although low income has been consistently associated with depressive symptoms in later life, it is unclear how economic resources influence mental health through social and digital mechanisms. Our study examined whether social participation mediates the association of income with depressive symptoms in older adults. We also analyzed if digital literacy moderates this mediating pathway in the study cohort.                                                           Methods                     Using a nationally representative sample of 10,078 (the analytical sample is 9,951) community-dwelling older adults, we tested a moderated mediation model. We measured income as household income relative to the median national income and standardized it for analysis. Social participation was assessed as a composite index of frequency of participation in clubs or hobby groups, informal social gatherings, and political or civic organizations. Digital literacy was measured using a composite index based on internet access, ownership of digital devices, and engagement in various digital activities. We analyzed depressive symptoms using a validated scale. Adjusting for sociodemographic and health-related covariates, we used Hayes’ PROCESS macro (Model 14) with 5000 bootstrap samples.                                                           Results                                            The moderated mediation analysis demonstrated that higher continuous income was significantly associated with greater social participation (b = 0.216, SE = 0.016,                       p                       &lt; .001), which in turn was linked to lower depressive symptoms (b = − 0.180, SE = 0.033,                       p                       &lt; .001). Digital literacy significantly conditioned this indirect pathway (index of moderated mediation = 0.0017, Boot SE = 0.0008), though the interaction explained only a small increment in variance (ΔR² = 0.0003). The inverse association between social participation and depressive symptoms was somewhat more pronounced among older adults with lower digital literacy, a pattern that should be interpreted with caution given its modest magnitude.                                                                                Conclusions                     Our findings highlight that social participation is a key pathway linking socioeconomic resources to better mental health in later life. Digital literacy showed a statistically detectable, though practically modest, conditioning effect on this pathway. Interventions targeting late-life depression should consider integrated strategies that simultaneously promote traditional social engagement and digital literacy, particularly focusing on economically and digitally disadvantaged populations.                                                           Clinical trial number                     Not applicable.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-23",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08714-x",
+        "doi": "10.1186/s12877-026-08714-x",
+        "url": "https://doi.org/10.1186/s12877-026-08714-x",
+        "title": "The effect of exergaming interventions on depressive symptoms and quality of life in older people with dementia: a systematic review and meta-analysis",
+        "authors": [
+          "Bing Zhan",
+          "Wenxuan Liu",
+          "Chan Sze Wing",
+          "Ling Sheng",
+          "Ka Man Leung"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-23",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag301",
+        "doi": "10.1093/aje/kwag301",
+        "url": "https://doi.org/10.1093/aje/kwag301",
+        "title": "Interpreting Ambient Exposure Associations in Veteran Suicide and Overdose Mortality",
+        "authors": [
+          "Alina Peluso",
+          "Dirga Lamichhane",
+          "Jodie A Trafton",
+          "Amanda V Bakian"
+        ],
+        "abstract": "",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-11-23",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag291",
+        "doi": "10.1093/aje/kwag291",
+        "url": "https://doi.org/10.1093/aje/kwag291",
+        "title": "Comparing randomized trials",
+        "authors": [
+          "Yu-Han Chiu",
+          "Issa J Dahabreh"
+        ],
+        "abstract": "Abstract                   Disagreements between well-conducted randomized trials addressing the same causal question generate intense discussion of possible explanations and sometimes stir controversy. In this issue of the Journal, Virkud et al. (Am J Epidemiol. 2025; doi:10.1093/aje/kwaf202) compared two double-blind randomized trials of 17-α-hydroxyprogesterone caproate (17-OHPC) for the prevention of recurrent preterm birth, considering differences in population characteristics as the leading explanation for the disagreement between the trials’ marginal (population-averaged) results. In this commentary, we outline considerations for comparing randomized trials addressing the same causal question, including explanations beyond differences in population characteristics. We highlight parallels between comparing trials and benchmarking observational analyses against trials, and note that selection of between-study comparisons for interrogation may introduce statistical complications that should be considered alongside causal issues. We emphasize that formal between-study comparisons rest on long chains of causal and statistical assumptions, and that the interpretation of disagreements requires substantive knowledge to assess the plausibility of competing explanations. Technical details are presented in a companion report.",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-11-23",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag298",
+        "doi": "10.1093/aje/kwag298",
+        "url": "https://doi.org/10.1093/aje/kwag298",
+        "title": "Association Between prenatal cannabis use and pregnancy loss: a population-based retrospective cohort study",
+        "authors": [
+          "Lyndsay A Avalos",
+          "Kevin Kong",
+          "Stacey E Alexeeff",
+          "Sara R Adams",
+          "Nina R Oberman",
+          "Jamie O Lo",
+          "Monique B Does",
+          "Rozalyna D Gritten",
+          "Deborah Ansley",
+          "Carley L Castellanos",
+          "Alisa A Padon",
+          "Lynn D Silver",
+          "Kelly C Young-Wolff"
+        ],
+        "abstract": "Abstract                   Biological evidence suggests prenatal cannabis exposure may increase risks of miscarriage and stillbirth, but epidemiologic studies are limited by methodological weaknesses. Addressing these gaps, we evaluated associations between prenatal cannabis use and pregnancy loss in a population-based retrospective cohort. The study included 233,860 pregnancies (184,296 individuals) universally screened for substance use upon entry into prenatal care (~8-10 gestational weeks) between January 1, 2011 and September 30, 2019. Prenatal cannabis use was defined as any use (self-report or urine toxicology) and frequency (self-report). Miscarriage and stillbirth outcomes were obtained from electronic health records and California vital records. Cox proportional hazards models were conducted separately for miscarriage and stillbirth adjusting for sociodemographic characteristics, maternal comorbidities, and maternal prenatal use of other non-cannabis substances. The cohort was 38.6% non-Hispanic White, with mean (SD) maternal age 30.6 (5.5) years; 6.6% screened positive for cannabis. Overall, 5.5% of pregnancies ended in miscarriage and 0.4% in stillbirth. Prenatal cannabis use (vs. none) was associated with a 13% increased risk of miscarriage occurring after entry into prenatal care (~8-10 weeks gestation; aHR: 1.13,95%CI: 1.03–1.22), rising to ~30% after excluding other substance use. Weekly (aHR: 1.32,95%CI: 1.07-1.63) and daily (aHR: 1.29,95% CI: 1.02-1.63) use (vs. no use) showed similar increases. No association was observed for stillbirth. These findings add to the growing body of evidence linking prenatal cannabis use with adverse pregnancy outcomes and may help inform clinical counseling, harm reduction strategies, and public health policies.",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-11-23",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-23",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1186/s12877-026-08709-8",
         "doi": "10.1186/s12877-026-08709-8",
         "url": "https://doi.org/10.1186/s12877-026-08709-8",
@@ -95966,6 +96364,76 @@
           "agingHealth"
         ],
         "firstSeen": "2026-11-22",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/geront/gnag265",
+        "doi": "10.1093/geront/gnag265",
+        "url": "https://doi.org/10.1093/geront/gnag265",
+        "title": "Neighborhood Income and Negative Emotions among Family Caregivers of Older Adults in Hong Kong: Role of Unmet Service Needs",
+        "authors": [
+          "Ethan Siu Leung Cheung",
+          "Vivian Weiqun Lou",
+          "Vera Mun Yu Tang",
+          "Tom Chun Wai Tsoi",
+          "Wendie Wenyi Lin"
+        ],
+        "abstract": "Abstract                                        Background and Objectives                     In home-based care settings, family caregivers play an essential role in providing daily support and assistance. Supporting caregivers’ mental health can improve the quality of life for both caregivers and care recipients. However, limited research has explored the role of neighborhood economic resources in the mental health of family caregivers. Using Hong Kong as a case study, this study examined associations between neighborhood median income and negative emotions among family caregivers of older adults, including testing the mediating role of service-related factors (i.e., neighborhood-level geographical service provision and unmet service needs) in these associations.                                                           Research Design and Methods                     Individual-level data came from a caregiving population survey in Hong Kong, merged with the 2021 population census and a spatial dataset for area-level data. The analytic sample included 2,254 participants. Multilevel linear regressions were used to examine the associations between neighborhood median income and three negative emotions measured by the Depression Anxiety Stress Scale. Mediation analyses were conducted to examine the mechanisms of these associations.                                                           Results                     Higher neighborhood median income was associated with higher levels of all negative emotions among family caregivers. Caregivers’ unmet service needs statistically accounted for the associations between neighborhood median income and depression and stress, whereas geographical service provision, measured by number of community services, did not mediate any associations.                                                           Discussion and Implications                     The findings highlight neighborhood economic disparities in mental health among family caregivers in Hong Kong. These disparities may be partially explained by caregivers’ perceived need for services rather than geographical availability.",
+        "source": "The Gerontologist",
+        "issn": "0016-9013",
+        "date": "2026-11-21",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/geront/gnag267",
+        "doi": "10.1093/geront/gnag267",
+        "url": "https://doi.org/10.1093/geront/gnag267",
+        "title": "Race, Age, and the Unfinished Work of American Democracy",
+        "authors": [
+          "Barbara Gordon"
+        ],
+        "abstract": "",
+        "source": "The Gerontologist",
+        "issn": "0016-9013",
+        "date": "2026-11-21",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08703-0",
+        "doi": "10.1186/s12877-026-08703-0",
+        "url": "https://doi.org/10.1186/s12877-026-08703-0",
+        "title": "Chart-derived frailty index is associated with long-term mortality and longitudinal health-related quality of life after hip fracture surgery in older adults: a secondary analysis of a prospective cohort study",
+        "authors": [
+          "Hairui Liang",
+          "Yuhao Kan",
+          "Kangzu Peng",
+          "Bingyu Li",
+          "Bo Li",
+          "Gang Liu",
+          "Minghui Yang"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-21",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-23",
         "fetched_from": "crossref"
       },
       {
@@ -148553,9 +149021,9 @@
   },
   "totals": {
     "socialSecurity": 1626,
-    "elderCare": 1081,
-    "healthReform": 1600,
-    "agingHealth": 1554,
+    "elderCare": 1088,
+    "healthReform": 1603,
+    "agingHealth": 1564,
     "socialWork": 561
   },
   "feeds_ok": 41
