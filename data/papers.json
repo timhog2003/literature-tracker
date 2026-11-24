@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-23",
-  "fetched": "2026-11-23T09:22:19+00:00",
+  "date": "2026-11-24",
+  "fetched": "2026-11-24T11:16:13+00:00",
   "domains": {
     "socialSecurity": [
       {
@@ -25447,6 +25447,30 @@
     ],
     "elderCare": [
       {
+        "id": "doi:10.1186/s12877-026-08674-2",
+        "doi": "10.1186/s12877-026-08674-2",
+        "url": "https://doi.org/10.1186/s12877-026-08674-2",
+        "title": "Functional brain network topology associated with altered postural control during dual-task walking in older adults with mild cognitive impairment",
+        "authors": [
+          "Hongen Liu",
+          "Xuecheng Zhang",
+          "Yingying Zhang",
+          "Jingyun Tan",
+          "Zhao Xu"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-24",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-24",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1186/s12877-026-08705-y",
         "doi": "10.1186/s12877-026-08705-y",
         "url": "https://doi.org/10.1186/s12877-026-08705-y",
@@ -25532,6 +25556,80 @@
           "agingHealth"
         ],
         "firstSeen": "2026-11-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70862",
+        "doi": "10.1111/jgs.70862",
+        "url": "https://doi.org/10.1111/jgs.70862",
+        "title": "Mapping the Cognitive Work of Geriatrics: A Framework for Integrating Artificial Intelligence Into Geriatrics Practice",
+        "authors": [
+          "Rebecca T. Brown",
+          "Lisa M. Walke",
+          "George Demiris",
+          "Jason Karlawish",
+          "Kristin Harkins",
+          "Kenneth Covinsky"
+        ],
+        "abstract": "",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-11-23",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-24",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08731-w",
+        "doi": "10.1186/s12877-026-08731-w",
+        "url": "https://doi.org/10.1186/s12877-026-08731-w",
+        "title": "Perspectives on the adoption and potential home use of wearable devices among older adults with ischemic stroke: an exploratory qualitative study",
+        "authors": [
+          "Nana Chen",
+          "Ranran Song",
+          "Guoxin Shi",
+          "Yulong Wang",
+          "Tingting Huang",
+          "Ying Peng",
+          "Muwei Zhu",
+          "Xianping Tang"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-23",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-24",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08654-6",
+        "doi": "10.1186/s12877-026-08654-6",
+        "url": "https://doi.org/10.1186/s12877-026-08654-6",
+        "title": "The use of acute deterioration tools in care homes to identify and manage resident deterioration: an interview study with care home staff",
+        "authors": [
+          "Sevim Yasemin Hodge",
+          "Philippa A. Logan",
+          "Adam Lee Gordon"
+        ],
+        "abstract": "Abstract                                        Background                     Care home residents often have multiple health conditions, increasing their risk of acute deterioration and need for urgent medical attention compared with similarly aged people living at home. Tools such as RESTORE2, NEWS2, Significant 7 and, STOP​&amp; WATCH have been introduced to standardise identification and management of acute deterioration in care homes. However, little is known about how these tools are used in practic​e.                                                           Objectives                     To explore how staff in English care homes use acute deterioration tools ​such as NEWS2, RESTORE2 and, STOP &amp; WATCH to identify, assess and manage acute deterioration in older residents.                                                           Design                     Qualitative study using semi-structured interviews analysed through reflexive thematic analysis.                                                           Setting and participants                     Twenty staff members from 11 English care homes (nursing, residential, and dual-registered) participated. Homes varied in size, dementia registration, and proprietorship. Participants included managers, registered nurses, senior care assistants and care assistants, predominantly female, with between one and 13 years’ experience.                                                           Methods                     Semi-structured interviews were conducted in person and online between May and November 2022. Topic guides were informed by prior scoping review findings, stakeholder engagement and national survey data. Interviews were transcribed verbatim and analysed inductively following Braun and Clarke’s six-step reflexive thematic analysis.                                                           Results                     Use of acute deterioration tools varied widely. Many staff relied primarily on intuitive, holistic assessments based on “knowing the resident,” with tools used secondarily to organise assessments, confirm suspicions or legitimise concerns when escalating to external services. NEWS2 was commonly used, though often inconsistently or in modified form and was sometimes perceived to misrepresent resident status, causing false reassurance or unnecessary escalation. RESTORE2 was viewed as more person-centred but less readily accepted by external healthcare professionals. STOP &amp; WATCH was used by one participant but was inconsistently used by staff in the care home. Staff described a ‘positive triad’ that guided acute deterioration decision-making - recognising a change, clinical suspicion and abnormal vital signs. Lack​of training, uncertainty about accountability and fear of litigation contributed to concerns particularly among non-registered staff when using acute deterioration tools.                                                           Conclusions                     Acute deterioration tools in care homes function more as communication aids than primary detection mechanisms. Holistic, relational knowledge based on a synthesis of longitudinal observations remains central to recognising deterioration. Future research and practice development should incorporate care home staff's expertise and, support shared decision-making across health and social care, potentially through co-designed models that embed the positive triad to better guide escalation in care home settings.                                                           Clinical trial number                     Not applicable.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-23",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-24",
         "fetched_from": "crossref"
       },
       {
@@ -96029,6 +96127,30 @@
     ],
     "agingHealth": [
       {
+        "id": "doi:10.1186/s12877-026-08674-2",
+        "doi": "10.1186/s12877-026-08674-2",
+        "url": "https://doi.org/10.1186/s12877-026-08674-2",
+        "title": "Functional brain network topology associated with altered postural control during dual-task walking in older adults with mild cognitive impairment",
+        "authors": [
+          "Hongen Liu",
+          "Xuecheng Zhang",
+          "Yingying Zhang",
+          "Jingyun Tan",
+          "Zhao Xu"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-24",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-24",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1186/s12877-026-08705-y",
         "doi": "10.1186/s12877-026-08705-y",
         "url": "https://doi.org/10.1186/s12877-026-08705-y",
@@ -96193,6 +96315,80 @@
         "fetched_from": "crossref"
       },
       {
+        "id": "doi:10.1111/jgs.70862",
+        "doi": "10.1111/jgs.70862",
+        "url": "https://doi.org/10.1111/jgs.70862",
+        "title": "Mapping the Cognitive Work of Geriatrics: A Framework for Integrating Artificial Intelligence Into Geriatrics Practice",
+        "authors": [
+          "Rebecca T. Brown",
+          "Lisa M. Walke",
+          "George Demiris",
+          "Jason Karlawish",
+          "Kristin Harkins",
+          "Kenneth Covinsky"
+        ],
+        "abstract": "",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-11-23",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-24",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08731-w",
+        "doi": "10.1186/s12877-026-08731-w",
+        "url": "https://doi.org/10.1186/s12877-026-08731-w",
+        "title": "Perspectives on the adoption and potential home use of wearable devices among older adults with ischemic stroke: an exploratory qualitative study",
+        "authors": [
+          "Nana Chen",
+          "Ranran Song",
+          "Guoxin Shi",
+          "Yulong Wang",
+          "Tingting Huang",
+          "Ying Peng",
+          "Muwei Zhu",
+          "Xianping Tang"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-23",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-24",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08654-6",
+        "doi": "10.1186/s12877-026-08654-6",
+        "url": "https://doi.org/10.1186/s12877-026-08654-6",
+        "title": "The use of acute deterioration tools in care homes to identify and manage resident deterioration: an interview study with care home staff",
+        "authors": [
+          "Sevim Yasemin Hodge",
+          "Philippa A. Logan",
+          "Adam Lee Gordon"
+        ],
+        "abstract": "Abstract                                        Background                     Care home residents often have multiple health conditions, increasing their risk of acute deterioration and need for urgent medical attention compared with similarly aged people living at home. Tools such as RESTORE2, NEWS2, Significant 7 and, STOP​&amp; WATCH have been introduced to standardise identification and management of acute deterioration in care homes. However, little is known about how these tools are used in practic​e.                                                           Objectives                     To explore how staff in English care homes use acute deterioration tools ​such as NEWS2, RESTORE2 and, STOP &amp; WATCH to identify, assess and manage acute deterioration in older residents.                                                           Design                     Qualitative study using semi-structured interviews analysed through reflexive thematic analysis.                                                           Setting and participants                     Twenty staff members from 11 English care homes (nursing, residential, and dual-registered) participated. Homes varied in size, dementia registration, and proprietorship. Participants included managers, registered nurses, senior care assistants and care assistants, predominantly female, with between one and 13 years’ experience.                                                           Methods                     Semi-structured interviews were conducted in person and online between May and November 2022. Topic guides were informed by prior scoping review findings, stakeholder engagement and national survey data. Interviews were transcribed verbatim and analysed inductively following Braun and Clarke’s six-step reflexive thematic analysis.                                                           Results                     Use of acute deterioration tools varied widely. Many staff relied primarily on intuitive, holistic assessments based on “knowing the resident,” with tools used secondarily to organise assessments, confirm suspicions or legitimise concerns when escalating to external services. NEWS2 was commonly used, though often inconsistently or in modified form and was sometimes perceived to misrepresent resident status, causing false reassurance or unnecessary escalation. RESTORE2 was viewed as more person-centred but less readily accepted by external healthcare professionals. STOP &amp; WATCH was used by one participant but was inconsistently used by staff in the care home. Staff described a ‘positive triad’ that guided acute deterioration decision-making - recognising a change, clinical suspicion and abnormal vital signs. Lack​of training, uncertainty about accountability and fear of litigation contributed to concerns particularly among non-registered staff when using acute deterioration tools.                                                           Conclusions                     Acute deterioration tools in care homes function more as communication aids than primary detection mechanisms. Holistic, relational knowledge based on a synthesis of longitudinal observations remains central to recognising deterioration. Future research and practice development should incorporate care home staff's expertise and, support shared decision-making across health and social care, potentially through co-designed models that embed the positive triad to better guide escalation in care home settings.                                                           Clinical trial number                     Not applicable.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-23",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-24",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1186/s12877-026-08709-8",
         "doi": "10.1186/s12877-026-08709-8",
         "url": "https://doi.org/10.1186/s12877-026-08709-8",
@@ -96215,6 +96411,76 @@
           "agingHealth"
         ],
         "firstSeen": "2026-11-21",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/geront/gnag265",
+        "doi": "10.1093/geront/gnag265",
+        "url": "https://doi.org/10.1093/geront/gnag265",
+        "title": "Neighborhood Income and Negative Emotions among Family Caregivers of Older Adults in Hong Kong: Role of Unmet Service Needs",
+        "authors": [
+          "Ethan Siu Leung Cheung",
+          "Vivian Weiqun Lou",
+          "Vera Mun Yu Tang",
+          "Tom Chun Wai Tsoi",
+          "Wendie Wenyi Lin"
+        ],
+        "abstract": "Abstract                                        Background and Objectives                     In home-based care settings, family caregivers play an essential role in providing daily support and assistance. Supporting caregivers’ mental health can improve the quality of life for both caregivers and care recipients. However, limited research has explored the role of neighborhood economic resources in the mental health of family caregivers. Using Hong Kong as a case study, this study examined associations between neighborhood median income and negative emotions among family caregivers of older adults, including testing the mediating role of service-related factors (i.e., neighborhood-level geographical service provision and unmet service needs) in these associations.                                                           Research Design and Methods                     Individual-level data came from a caregiving population survey in Hong Kong, merged with the 2021 population census and a spatial dataset for area-level data. The analytic sample included 2,254 participants. Multilevel linear regressions were used to examine the associations between neighborhood median income and three negative emotions measured by the Depression Anxiety Stress Scale. Mediation analyses were conducted to examine the mechanisms of these associations.                                                           Results                     Higher neighborhood median income was associated with higher levels of all negative emotions among family caregivers. Caregivers’ unmet service needs statistically accounted for the associations between neighborhood median income and depression and stress, whereas geographical service provision, measured by number of community services, did not mediate any associations.                                                           Discussion and Implications                     The findings highlight neighborhood economic disparities in mental health among family caregivers in Hong Kong. These disparities may be partially explained by caregivers’ perceived need for services rather than geographical availability.",
+        "source": "The Gerontologist",
+        "issn": "0016-9013",
+        "date": "2026-11-21",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/geront/gnag267",
+        "doi": "10.1093/geront/gnag267",
+        "url": "https://doi.org/10.1093/geront/gnag267",
+        "title": "Race, Age, and the Unfinished Work of American Democracy",
+        "authors": [
+          "Barbara Gordon"
+        ],
+        "abstract": "",
+        "source": "The Gerontologist",
+        "issn": "0016-9013",
+        "date": "2026-11-21",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08703-0",
+        "doi": "10.1186/s12877-026-08703-0",
+        "url": "https://doi.org/10.1186/s12877-026-08703-0",
+        "title": "Chart-derived frailty index is associated with long-term mortality and longitudinal health-related quality of life after hip fracture surgery in older adults: a secondary analysis of a prospective cohort study",
+        "authors": [
+          "Hairui Liang",
+          "Yuhao Kan",
+          "Kangzu Peng",
+          "Bingyu Li",
+          "Bo Li",
+          "Gang Liu",
+          "Minghui Yang"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-21",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-23",
         "fetched_from": "crossref"
       },
       {
@@ -96364,76 +96630,6 @@
           "agingHealth"
         ],
         "firstSeen": "2026-11-22",
-        "fetched_from": "crossref"
-      },
-      {
-        "id": "doi:10.1093/geront/gnag265",
-        "doi": "10.1093/geront/gnag265",
-        "url": "https://doi.org/10.1093/geront/gnag265",
-        "title": "Neighborhood Income and Negative Emotions among Family Caregivers of Older Adults in Hong Kong: Role of Unmet Service Needs",
-        "authors": [
-          "Ethan Siu Leung Cheung",
-          "Vivian Weiqun Lou",
-          "Vera Mun Yu Tang",
-          "Tom Chun Wai Tsoi",
-          "Wendie Wenyi Lin"
-        ],
-        "abstract": "Abstract                                        Background and Objectives                     In home-based care settings, family caregivers play an essential role in providing daily support and assistance. Supporting caregivers’ mental health can improve the quality of life for both caregivers and care recipients. However, limited research has explored the role of neighborhood economic resources in the mental health of family caregivers. Using Hong Kong as a case study, this study examined associations between neighborhood median income and negative emotions among family caregivers of older adults, including testing the mediating role of service-related factors (i.e., neighborhood-level geographical service provision and unmet service needs) in these associations.                                                           Research Design and Methods                     Individual-level data came from a caregiving population survey in Hong Kong, merged with the 2021 population census and a spatial dataset for area-level data. The analytic sample included 2,254 participants. Multilevel linear regressions were used to examine the associations between neighborhood median income and three negative emotions measured by the Depression Anxiety Stress Scale. Mediation analyses were conducted to examine the mechanisms of these associations.                                                           Results                     Higher neighborhood median income was associated with higher levels of all negative emotions among family caregivers. Caregivers’ unmet service needs statistically accounted for the associations between neighborhood median income and depression and stress, whereas geographical service provision, measured by number of community services, did not mediate any associations.                                                           Discussion and Implications                     The findings highlight neighborhood economic disparities in mental health among family caregivers in Hong Kong. These disparities may be partially explained by caregivers’ perceived need for services rather than geographical availability.",
-        "source": "The Gerontologist",
-        "issn": "0016-9013",
-        "date": "2026-11-21",
-        "subjects": [],
-        "domains": [
-          "elderCare",
-          "agingHealth"
-        ],
-        "firstSeen": "2026-11-23",
-        "fetched_from": "crossref"
-      },
-      {
-        "id": "doi:10.1093/geront/gnag267",
-        "doi": "10.1093/geront/gnag267",
-        "url": "https://doi.org/10.1093/geront/gnag267",
-        "title": "Race, Age, and the Unfinished Work of American Democracy",
-        "authors": [
-          "Barbara Gordon"
-        ],
-        "abstract": "",
-        "source": "The Gerontologist",
-        "issn": "0016-9013",
-        "date": "2026-11-21",
-        "subjects": [],
-        "domains": [
-          "elderCare",
-          "agingHealth"
-        ],
-        "firstSeen": "2026-11-23",
-        "fetched_from": "crossref"
-      },
-      {
-        "id": "doi:10.1186/s12877-026-08703-0",
-        "doi": "10.1186/s12877-026-08703-0",
-        "url": "https://doi.org/10.1186/s12877-026-08703-0",
-        "title": "Chart-derived frailty index is associated with long-term mortality and longitudinal health-related quality of life after hip fracture surgery in older adults: a secondary analysis of a prospective cohort study",
-        "authors": [
-          "Hairui Liang",
-          "Yuhao Kan",
-          "Kangzu Peng",
-          "Bingyu Li",
-          "Bo Li",
-          "Gang Liu",
-          "Minghui Yang"
-        ],
-        "abstract": "",
-        "source": "BMC Geriatrics",
-        "issn": "1471-2318",
-        "date": "2026-11-21",
-        "subjects": [],
-        "domains": [
-          "elderCare",
-          "agingHealth"
-        ],
-        "firstSeen": "2026-11-23",
         "fetched_from": "crossref"
       },
       {
@@ -136187,6 +136383,45 @@
     ],
     "socialWork": [
       {
+        "id": "doi:10.1093/sw/swag049",
+        "doi": "10.1093/sw/swag049",
+        "url": "https://doi.org/10.1093/sw/swag049",
+        "title": "From Asianization to Solidarity: Secondary Analysis of the Pew Asian American Survey Through Asian Critical Race Theory and White Supremacy Culture",
+        "authors": [
+          "Isabel S Lee"
+        ],
+        "abstract": "Abstract                   This study applies Asian critical race theory and the framework of White supremacy culture to the 2022–2023 Pew Research Center Survey of Asian Americans (public-use file, n = 3,500). It examines how the Asian racialization of the perpetual foreigner stereotype and the model minority myth relates to US national belonging, community engagement, and linked fate. Weighted logistic regression analyses tested associations of perpetual foreigner discrimination, model minority awareness and evaluation, and cultural concealment with identifying as a “typical American,” donating or volunteering in the Asian country of origin, and linked fate with Asians and with immigrants. National belonging was shaped mainly by nativity and length of US residence rather than by discrimination or stereotype awareness. In contrast, perpetual foreigner discrimination and negative evaluations of the model minority myth were associated with stronger linked fate with both Asians and immigrants. Recent immigrants were less likely to engage in transnational giving. These findings suggest that racialization does not simply erode belonging; it is associated with collective identity that can ground community building and advocacy.",
+        "source": "Social Work",
+        "issn": "0037-8046",
+        "date": "2026-11-23",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-11-24",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/bjsw/bcag292",
+        "doi": "10.1093/bjsw/bcag292",
+        "url": "https://doi.org/10.1093/bjsw/bcag292",
+        "title": "Professional social workers’ administrative workload and turnover intention: The mediating role of work meaningfulness and the joint moderating roles of public service motivation and prosocial impact",
+        "authors": [
+          "Yuanjie Bao",
+          "Wei Zhong"
+        ],
+        "abstract": "Abstract                   Administrative workload among professional social workers is often considered detrimental to their retention, yet the influence mechanisms underlying this association remain underexplored. This study proposes and empirically tests a moderated mediation model, wherein public service motivation and prosocial impact jointly moderate the relationship between administrative workload and work meaningfulness. In turn, this relationship influences social workers’ turnover intentions. Survey data collected from a sample of 991 community social workers in Beijing, China, support this model, revealing that administrative workload increases turnover intention by diminishing work meaningfulness. Furthermore, this effect is weaker when both public service motivation and prosocial impact are high. This study extends our understanding of whether, how, and when administrative workload may negatively affect social workers, particularly in the institutional and professional contexts of Chinese social work. Theoretical and practical implications are discussed.",
+        "source": "The British Journal of Social Work",
+        "issn": "0045-3102",
+        "date": "2026-11-22",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-11-24",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1007/s10896-026-01204-z",
         "doi": "10.1007/s10896-026-01204-z",
         "url": "https://doi.org/10.1007/s10896-026-01204-z",
@@ -149021,10 +149256,10 @@
   },
   "totals": {
     "socialSecurity": 1626,
-    "elderCare": 1088,
+    "elderCare": 1092,
     "healthReform": 1603,
-    "agingHealth": 1564,
-    "socialWork": 561
+    "agingHealth": 1568,
+    "socialWork": 563
   },
   "feeds_ok": 41
 }
