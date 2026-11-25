@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-24",
-  "fetched": "2026-11-24T11:16:13+00:00",
+  "date": "2026-11-25",
+  "fetched": "2026-11-25T10:02:25+00:00",
   "domains": {
     "socialSecurity": [
       {
@@ -25447,6 +25447,77 @@
     ],
     "elderCare": [
       {
+        "id": "doi:10.1186/s12877-026-08736-5",
+        "doi": "10.1186/s12877-026-08736-5",
+        "url": "https://doi.org/10.1186/s12877-026-08736-5",
+        "title": "The prognostic utility of a nutritional and inflammatory status-based nomogram in older patients underwent cardiac surgery",
+        "authors": [
+          "Zile Shen",
+          "Ge Zhu",
+          "Wangfu Zang",
+          "Peng Zhang",
+          "Zhang Liu"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-25",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-25",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08740-9",
+        "doi": "10.1186/s12877-026-08740-9",
+        "url": "https://doi.org/10.1186/s12877-026-08740-9",
+        "title": "Effectiveness of different exercise types for improving lumbar spine and femoral neck bone mineral density in older adults: a three-level pairwise and Bayesian network meta-analysis",
+        "authors": [
+          "Huan Feng",
+          "ZhengWei Xie",
+          "Yubo Wang",
+          "Yunan Zhang",
+          "Haojiang Zuo",
+          "Hui Yang"
+        ],
+        "abstract": "Abstract                                        Background                     Osteoporosis-related fractures are a major burden in older adults. Exercise is recommended for preserving bone mineral density (BMD), but the comparative effectiveness of different exercise types at the lumbar spine and femoral neck remains unclear.                                                           Methods                     PubMed, Embase, Web of Science, and the Cochrane Library were searched through March 2026 for RCTs comparing exercise with passive control in adults aged ≥ 60 years. BMD mean differences were pooled using a three-level random-effects model with subgroup analyses for nine moderators. A Bayesian NMA ranked interventions using SUCRA; risk of bias and evidence certainty were assessed with ROBUST-RCT, GRADE, and CINeMA.                                                           Results                                            Eighty-one RCTs (5,251 participants, 9 exercise types) were included. In the pairwise meta-analysis, 86 effect sizes from 69 studies contributed to the lumbar spine and 78 from 61 studies to the femoral neck. Exercise significantly improved lumbar spine BMD (MD = 0.013 g/cm², 95% CI 0.008 to 0.017) and femoral neck BMD (MD = 0.018 g/cm², 95% CI 0.011 to 0.024; both                       p                        &lt; 0.001). Six interventions were significant at the lumbar spine and four at the femoral neck. Comorbidity type moderated effects at both sites, with sarcopenia or diabetes showing attenuated responses; sex was significant only at the lumbar spine (                       p                        = 0.017). Certainty was moderate at the lumbar spine, low at the femoral neck, and low-to-very-low across NMA comparisons. Heterogeneity was substantial (I² = 61.8% and 95.3%).                                                                                Conclusion                     Exercise interventions were associated with favorable BMD changes consistent with bone preservation in older adults, with stronger evidence at the lumbar spine than the femoral neck. Traditional Chinese exercise (TCE) showed the most favorable estimates versus passive control (lumbar spine MD = 0.037 g/cm², 95% CrI 0.012 to 0.062; femoral neck MD = 0.039 g/cm², 95% CrI 0.008 to 0.070; 4 studies, 6 arms; low-to-very-low certainty) and ranked best, though these probabilistic rankings warrant cautious interpretation. Exercise prescriptions should consider exercise type and comorbidity profile.                                                           Registration                     PROSPERO CRD420261345859.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-25",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-25",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08188-x",
+        "doi": "10.1186/s12877-026-08188-x",
+        "url": "https://doi.org/10.1186/s12877-026-08188-x",
+        "title": "Development and validation of a social support scale of physical exercise for Chinese urban older adults in the context of sports-medicine integration",
+        "authors": [
+          "Zhongjun Su",
+          "Yunyan Luo",
+          "Ping Hong"
+        ],
+        "abstract": "Abstract                                        Objective                     The purpose was to develop and validate a scale based on the social support theory in the context of Sports-Medicine integration, assessing available social support for physical exercise among independent urban older adults in China.                                                           Methods                                            The initial items were generated through semi-structured interviews, expert interviews, and the Delphi method. Exploratory factor analysis (EFA) (                       n                        = 266) was used to explore the factor structure, and confirmatory factor analysis (CFA) (                       n                        = 312) was employed to examine item reliability, composite reliability, and model fit. Finally, test‑retest reliability, external convergent validity, and discriminant validity were evaluated.                                                                                Results                     EFA extracted four factors, which together accounted for 73.526% of the total variance. Cronbach’s α values ranged from 0.824 to 0.912, inter‑item correlations ranged from 0.342 to 0.868, and item‑total correlations ranged from 0.508 to 0.861. CFA showed that squared multiple correlations ranged from 0.382 to 0.922, CR and ICC ranged from 0.831 to 0.917, 0.763 to 0.903; respectively. RMSEA = 0.064, χ² = 122.384, χ²/df = 2.074, GFI = 0.974, AGFI = 0.901, CFI = 0.974, TLI = 0.995, NFI = 0.951, SRMR = 0.063, for the first‑order model; for the second‑order model: RMSEA = 0.063, χ² = 126.227, χ²/df = 2.069, GFI = 0.935, AGFI = 0.903, CFI = 0.973, TLI = 0.965, NFI = 0.949, SRMR = 0.063, and the target coefficient of the two models = 0.970.                                                           Conclusions                     The scale showed preliminary acceptable psychometric evidence for assessing differences in perceived social support in physical activity among relatively independent urban older adults in the context of Sports-Medicine integration. Further validation of reliability, validity, and model fit in diverse samples was required to confirm its structural stability and generalizability.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-25",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-25",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1186/s12877-026-08674-2",
         "doi": "10.1186/s12877-026-08674-2",
         "url": "https://doi.org/10.1186/s12877-026-08674-2",
@@ -25468,6 +25539,113 @@
           "agingHealth"
         ],
         "firstSeen": "2026-11-24",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/geront/gnag256",
+        "doi": "10.1093/geront/gnag256",
+        "url": "https://doi.org/10.1093/geront/gnag256",
+        "title": "Navigating daily activities with mild cognitive impairment: Characterizing cognitive challenges and response strategies",
+        "authors": [
+          "Elizabeth A Lydon",
+          "Carlyn Ellison Keeler",
+          "Ryan L Santens",
+          "Raksha A Mudar",
+          "Sara J Czaja",
+          "Walter R Boot",
+          "Neil Charness",
+          "Wendy A Rogers"
+        ],
+        "abstract": "Abstract                                        Background and Objectives                     The number of older adults experiencing cognitive decline is increasing, highlighting an urgent need to understand how these changes impact daily life. Although extensive research has advanced knowledge of diagnosis and progression of mild cognitive impairment (MCI), less is known about how individuals navigate these changes in everyday contexts. We examined how older adults with MCI manage daily activities to inform strategies that support independence and quality of life.                                                           Research Design and Methods                     Through qualitative needs assessment we explored activity challenges and compensatory strategies of 91 older adults with MCI across five domains: health, social engagement, transportation, domestic life, and leisure/recreation. Participants rated difficulty of activities within each domain using a Likert scale and completed in-depth interviews probing the cognitive underpinnings of these challenges (e.g., memory, attention, executive functioning, language) and strategies used to address them.                                                           Results                     Two-thirds of participants (66%) reported challenges in at least one activity domain, most frequently in health management. Nearly half (41%) experienced difficulties across multiple domains. Memory and executive functioning emerged as the primary cognitive contributors to these challenges. Participants most often relied on external supports such as assistance from others (27%), visual reminders (22%), and technology use (22%).                                                           Discussion and Implications                     Some challenges were activity-specific, whereas others occurred across multiple areas of daily life. Individuals with MCI actively employed adaptive, compensatory strategies, underscoring the need for person-centered interventions that build on individual strengths and account for environmental context. Emerging technologies may provide opportunities to support daily functioning and independence.",
+        "source": "The Gerontologist",
+        "issn": "0016-9013",
+        "date": "2026-11-24",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-25",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/gerona/glag263",
+        "doi": "10.1093/gerona/glag263",
+        "url": "https://doi.org/10.1093/gerona/glag263",
+        "title": "Does HIV drive accelerated biological ageing in children?: A paediatric geroscience approach to investigating HIV-associated chronic comorbidities",
+        "authors": [
+          "Barbara Kronsteiner",
+          "Thomas A Jackson",
+          "Joe D Piper",
+          "Nyasha V Dzavakwa",
+          "Hannah R Elliott",
+          "Tsitsi Bandason",
+          "Tafadzwa Madanhire",
+          "Laura D Howe",
+          "Susanna J Dunachie",
+          "Rashida A Ferrand",
+          "Celia L Gregson"
+        ],
+        "abstract": "Abstract                   The scale-up of antiretroviral therapy (ART) has transformed HIV from a fatal to a treatable (albeit incurable) chronic condition and dramatically improved survival so that children with HIV (CWH) are now reaching adulthood in growing numbers. Among adults, HIV is recognised as an independent risk factor for chronic comorbidities with consequent loss of physiological reserve, commonly known as frailty. In children, despite ART, HIV manifests in poorer trajectories of growth and development including impaired neurodevelopment, with life-long consequences. We conceptualise “paediatric frailty” as the failure to achieve optimum physiological reserve, analogous to frailty in older people whereby there is loss of physiological reserve, resulting in substantially reduced healthspan. Geroscience has shown how fundamental biological ageing mechanisms drive both physical declines and vulnerability to stressors, that underlie clinical frailty in older people. Drawing from geroscience, disturbances in the primary, integrative and antagonistic hallmarks of biological ageing in the context of perinatally-acquired HIV infection may equally explain paediatric frailty. Prospective research studies that integrate trajectories of growth, cognitive and physical function with multiple measures of biological ageing in CWH and HIV-negative peers, would elucidate these pathways. An example of such an approach is the interdisciplinary ARTful Ageing consortium which addresses the central hypothesis that perinatally-acquired HIV infection results in accelerated biological ageing in children, which drives “paediatric frailty”. This novel perspective towards the integrated study of domain-specific deficits and biological ageing in HIV, offers the opportunity to identify pathways that can be targeted for prevention and treatment of chronic conditions seen in CWH on ART: ultimately targeting these mechanisms early in life may prove more effective at preventing later chronic disease and multi-morbidity.",
+        "source": "The Journals of Gerontology, Series A: Biological Sciences and Medical Sciences",
+        "issn": "1079-5006",
+        "date": "2026-11-24",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "elderCare"
+        ],
+        "firstSeen": "2026-11-25",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08735-6",
+        "doi": "10.1186/s12877-026-08735-6",
+        "url": "https://doi.org/10.1186/s12877-026-08735-6",
+        "title": "Association between surgical intervention and long-term survival outcomes among patients aged 75 years or older with spinal tuberculosis: a retrospective cohort study of 109 patients",
+        "authors": [
+          "Weijie Dong",
+          "Tiantian Miao",
+          "Kai Tang",
+          "Shibing Qin",
+          "Guirong Wang",
+          "Baoge Liu"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-24",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-25",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08728-5",
+        "doi": "10.1186/s12877-026-08728-5",
+        "url": "https://doi.org/10.1186/s12877-026-08728-5",
+        "title": "Association between biomarker-defined thromboinflammatory patterns and 90-day functional outcomes in older patients with acute ischemic stroke: a prospective cohort study",
+        "authors": [
+          "Qian Ma",
+          "Yong Wang",
+          "Ziwen Song",
+          "Tingting Huang",
+          "Ming Hu",
+          "Wei Huang"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-24",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-25",
         "fetched_from": "crossref"
       },
       {
@@ -52906,6 +53084,399 @@
     ],
     "healthReform": [
       {
+        "id": "doi:10.1097/ede.0000000000002060",
+        "doi": "10.1097/ede.0000000000002060",
+        "url": "https://doi.org/10.1097/ede.0000000000002060",
+        "title": "Sharing Software Code: Why Put Off Until Tomorrow What We Can Do Today?",
+        "authors": [],
+        "abstract": "",
+        "source": "Epidemiology",
+        "issn": "1044-3983",
+        "date": "2027-01-01",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-25",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.16785",
+        "doi": "10.1001/jama.2026.16785",
+        "url": "https://doi.org/10.1001/jama.2026.16785",
+        "title": "Electrocardiogram-Based Deep Learning to Prioritize Testing for Transthyretin Amyloid Cardiomyopathy",
+        "authors": [
+          "Philip M. Croon",
+          "Bruno Batinica",
+          "Lovedeep S. Dhingra",
+          "Ryan B. Choi",
+          "Evangelos K. Oikonomou",
+          "Sumukh V. Shankar",
+          "Veer Sangha",
+          "Robert M. A. van der Boon",
+          "Michelle Michels",
+          "Maarten van Ettinger",
+          "Peter-Paul Zwetsloot",
+          "Sergio Teruya",
+          "Cesia Gallegos Kattan",
+          "Edward J. Miller",
+          "Navid Noory",
+          "Oscar M. Westin",
+          "Sie K. Fensman",
+          "Steen Hvitfeldt Poulsen",
+          "Avneet Singh",
+          "Sudarshan Balla",
+          "Anouk Achten",
+          "Charalambos Vlachopoulos",
+          "Alexios S. Antonopoulos",
+          "Nico Bruining",
+          "Julian D. Gillmore",
+          "Mathew S. Maurer",
+          "Frederick L. Ruberg",
+          "Marianna Fontana",
+          "Rohan Khera"
+        ],
+        "abstract": "Importance                     Transthyretin amyloid cardiomyopathy (ATTR-CM) is a treatable cause of heart failure, but diagnosis is often delayed. Accessible tools to prioritize confirmatory evaluation could reduce missed diagnoses when cardiac imaging is limited.                                                           Objective                     To develop and validate a locally deployable artificial intelligence (AI)–enabled system that identifies patients for further ATTR-CM evaluation from routine electrocardiography (ECG) images.                                                           Design, Setting, and Participants                     This diagnostic test study used an AI-ECG model developed within Yale New Haven Health (using ECGs from August 2015-June 2023) and temporally validated (July 2023-July 2025). External validation included 5 multinational cohorts and 3 screening cohorts (older Black and Hispanic adults with heart failure; adults with prior carpal tunnel surgery; 99-3902 individuals per cohort).                                                           Exposure                     Use of AI-ECG for detecting ATTR-CM from routine ECG images or raw 12-lead signals.                                                           Main Outcomes and Measures                     Area under the receiver operating characteristic curve (AUROC), sensitivity, specificity, and positive and negative predictive values for ATTR-CM confirmed by cardiac amyloid radionuclide imaging (CARI) or biopsy. An exploratory analysis evaluated sequential screening with AI-ECG followed by AI-enabled echocardiography.                                                           Results                     Development used 28 174 ECGs from 11 291 patients (293 with ATTR-CM). In internal validation (44 123 patients; mean age, 68.5 years; 49.7% female), AUROC was 0.84 (95% CI, 0.79-0.89), with sensitivity of 0.72 and specificity of 0.86 at the prespecified threshold, and was maintained in a specificity stress test among patients with features that mimic ATTR-CM (left ventricular hypertrophy or severe aortic stenosis without amyloid; AUROC, 0.81 [95% CI, 0.75-0.86]) and those referred for CARI (AUROC, 0.78 [95% CI, 0.73-0.84]). Across 5 external cohorts, AUROCs ranged from 0.78 to 0.89. In 3 screening cohorts, AUROCs were 0.76 (95% CI, 0.68-0.83) in the SCAN-MP study (n = 645) and 0.79 (95% CI, 0.65-0.93) and 0.91 (95% CI, 0.82-0.97) in 2 CACTUS study cohorts (n = 251, n = 121). Sequential AI-ECG and AI-enabled echocardiography increased the positive predictive value from 0.24 to 0.66 and reduced sensitivity from 0.84 to 0.68.                                                           Conclusions and Relevance                     Locally deployable AI applied to ECG images discriminated ATTR-CM across multinational retrospective and screening cohorts. This approach may provide an accessible first step to prioritize selected patients for echocardiography and confirmatory imaging, although intended use and calibration require prospective evaluation.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-24",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-25",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.17361",
+        "doi": "10.1001/jama.2026.17361",
+        "url": "https://doi.org/10.1001/jama.2026.17361",
+        "title": "<sup>124</sup>\n                    I-Evuzamitide Positron Emission Tomography/Computed Tomography for Diagnosing Cardiac Amyloidosis",
+        "authors": [
+          "Sharmila Dorbala",
+          "Mathew S. Maurer",
+          "Sarah A. M. Cuddy",
+          "Omar F. AbouEzzeddine",
+          "Marcelo F. Di Carli",
+          "Vasken Dilsizian",
+          "Angela Dispenzieri",
+          "Cesia Gallegos-Kattán",
+          "Spencer Guthrie",
+          "Brian Mangal",
+          "Mazen Hanna",
+          "Michel G. Khouri",
+          "Saurabh Malhotra",
+          "Joshua D. Mitchell",
+          "Ravi K. Narra",
+          "Cesare Orlandi",
+          "Julie L. Rosenthal",
+          "Frederick L. Ruberg",
+          "Dia Smiley",
+          "Brett W. Sperry",
+          "James E. Udelson",
+          "Richard L. Weinberg",
+          "Jonathan S. Wall",
+          "Ahmad Masri",
+          "Mouaz H Al-Mallah",
+          "Kevin M Alexander",
+          "Sabahat Bokhari",
+          "Paco E Bravo",
+          "Panithaya Chareonthaitawee",
+          "Philip H Kuo",
+          "Wesley T O'Neal",
+          "Ashutosh Wechalekar",
+          "Bryan A, Whittle",
+          "Benjamin Auer",
+          "Marie Foley Kijewski",
+          "Olivier F Clerc"
+        ],
+        "abstract": "Importance                     Diagnosing cardiac amyloidosis remains challenging because current imaging approaches are limited to transthyretin amyloidosis. A noninvasive test capable of directly imaging cardiac amyloidosis from various amyloid types and in multiple organs could address an important unmet diagnostic need.                                                           Objective                                            To evaluate the sensitivity and specificity of                       124                       I-evuzamitide positron emission tomography (PET)/computed tomography (CT) for diagnosing cardiac amyloidosis.                                                                                Design, Setting, and Participants                                            Prospective, multicenter (18 US centers), single-group study evaluating the efficacy of                       124                       I-evuzamitide to diagnose cardiac amyloidosis. This study was conducted from January 14, 2025, to March 12, 2026, including a 60-day follow-up period. Three physicians with cardiac PET/CT experience independently reviewed PET/CT images for visual cardiac                       124                       I-evuzamitide uptake while blinded to clinical data. Three expert clinical amyloidosis physicians, blinded to PET/CT data, independently adjudicated the diagnosis based on the standard-of-care diagnostic algorithm. A total of 195 adults suspected of having cardiac amyloidosis were enrolled when they presented for diagnostic evaluation at participating institutions, excluding patients with an established diagnosis of cardiac or systemic amyloidosis.                                                                                Interventions                                            PET/CT scans were obtained 3 to 5 hours after intravenous administration of 1 mCi of                       124                       I-evuzamitide. Potassium iodide (130 mg) was given orally for 3 days starting at least 30 minutes prior to                       124                       I-evuzamitide injection.                                                                                Main Outcomes and Measures                                            Coprimary end points of this study were to assess the sensitivity and specificity of                       124                       I-evuzamitide for the diagnosis of cardiac amyloidosis.                                                                                Results                                            Overall, 170 patients were included (median [IQR] age, 72 [64-79] years; 75.3% male, 19.2% Black, 79.0% White). Median N-terminal pro–brain natriuretic peptide was 471 pg/mL and 61.7% had New York Heart Association class II or III heart failure symptoms. The overall sensitivity was 94% (95% CI, 85%-98%;                       P                        &amp;amp;lt; .001); specificity, 86% (95% CI, 77%-92%;                       P                        &amp;amp;lt; .001); positive predictive value, 85% (95% CI, 75%-92%); and negative predictive value, 94% (95% CI, 87%-98%).                                                                                Conclusions and Relevance                                            124                       I-evuzamitide PET/CT is highly sensitive and specific for diagnosing cardiac amyloidosis with an acceptable safety profile. These results support                       124                       I-evuzamitide PET/CT as a diagnostic test to evaluate patients with suspected cardiac amyloidosis.                                                                                Trial Registration                                            ClinicalTrials.gov Identifier:                       NCT06788535",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-24",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-25",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.17246",
+        "doi": "10.1001/jama.2026.17246",
+        "url": "https://doi.org/10.1001/jama.2026.17246",
+        "title": "Gene Silencer Therapy in Transthyretin Amyloid Cardiomyopathy",
+        "authors": [
+          "Julian D. Gillmore",
+          "Yasuhiro Hamatani",
+          "Marianna Fontana",
+          "Muthiah Vaduganathan",
+          "Brian L. Claggett",
+          "Pablo Garcia-Pavia",
+          "Ahmad Masri",
+          "Francesco Cappelli",
+          "Martha Grogan",
+          "Caroline Morbach",
+          "Mathew S. Maurer",
+          "Scott D. Solomon"
+        ],
+        "abstract": "Importance                     Gene-silencing therapies reduce hepatic transthyretin (TTR) production and have been evaluated in phase 3 trials in TTR amyloid cardiomyopathy (ATTR-CM). However, differences in trial design and background therapies have limited assessment of the overall treatment effect and its consistency according to baseline TTR stabilizer use.                                                           Objective                     To assess the effect of TTR gene-silencing therapies in patients with ATTR-CM.                                                           Data Sources and Study Selection                     PubMed was searched through June 15, 2026, for randomized, placebo-controlled, phase 3 outcome trials of gene-silencing therapies in ATTR-CM.                                                           Data Extraction and Synthesis                                            Two reviewers independently extracted data, following the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (                       PRISMA                       ) guideline. Fixed-effects meta-analysis estimated rate ratios (RRs) or hazard ratios (HRs) with 95% CIs.                                                                                Main Outcomes and Measures                     The prespecified primary outcome was the composite of all-cause mortality and recurrent cardiovascular events. Secondary outcomes included all-cause mortality, cardiovascular death, time to first primary outcome, functional capacity (6-minute walk distance), and health status (Kansas City Cardiomyopathy Questionnaire–Overall Summary Score).                                                           Results                                            A total of 2 studies (HELIOS-B and CARDIO-TTRansform) met the inclusion criteria and included 2086 patients with ATTR-CM. The studies included 1902 men with a median age of 77 years (range for HELIOS-B, 45-85 years; for CARDIO-TTRansform, 41-91 years). Gene-silencing therapy reduced the primary end point by 19% (RR, 0.81; 95% CI, 0.69-0.94;                       P                        = .006), with no heterogeneity between trials (                       P                       for heterogeneity = .27). Gene-silencing therapy also reduced the risk of all-cause death (HR, 0.74; 95% CI, 0.61-0.91) and time to first all-cause death or cardiovascular events (HR, 0.77; 95% CI, 0.67-0.89) compared with placebo. Gene silencers preserved 6-minute walk distance (placebo-corrected difference, +22.2 m; 95% CI, 14.3-30.0) and Kansas City Cardiomyopathy Questionnaire–Overall Summary Score (+4.5; 95% CI, 2.7-6.2), with no evidence of between-trial heterogeneity. Treatment effects on primary end points differed according to baseline stabilizer use, with significant benefits observed among patients not receiving background stabilizer therapy (RR, 0.69; 95% CI, 0.57-0.85) and no significant incremental benefit observed for those receiving concomitant stabilizer at baseline (RR, 0.97; 95% CI, 0.77-1.23;                       P                       for heterogeneity = .03). Similar heterogeneity was observed for functional capacity and health status.                                                                                Conclusions and Relevance                     The findings from this meta-analysis support TTR gene silencing for ATTR-CM. The attenuated benefit observed for patients receiving concomitant TTR stabilizer therapy may reflect residual differences in case mix, disease duration, or magnitude of TTR suppression or a true ceiling on additional benefit of gene silencing in the setting of background TTR stabilization.                                                           Trial Registration                                            PROSPERO registration:                       CRD420261421656                       . ClinicalTrials.gov Identifier: HELIOS-B,                       NCT04153149                       ; and CARDIO-TTRansform,                       NCT04136171",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-24",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-25",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.25756",
+        "doi": "10.1001/jama.2026.25756",
+        "url": "https://doi.org/10.1001/jama.2026.25756",
+        "title": "<b>Prehospital</b>\n                    <b>Antibiotics for Patients With Suspected Sepsis</b>",
+        "authors": [],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-24",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-25",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.25614",
+        "doi": "10.1001/jama.2026.25614",
+        "url": "https://doi.org/10.1001/jama.2026.25614",
+        "title": "Prehospital Fluid Resuscitation for Patients With Suspected Sepsis",
+        "authors": [
+          "Damon C. Scales",
+          "Anna Rogowsky",
+          "Christopher W. Seymour",
+          "Lisa Burry",
+          "Jim Christenson",
+          "Nick Daneman",
+          "Ian R. Drennan",
+          "Morgan Hillier",
+          "Sandra Jenneson",
+          "Gail Klein",
+          "Tony Mazzulli",
+          "Philip Moran",
+          "Andrew M. Morris",
+          "Laurie J. Morrison",
+          "Ruxandra Pinto",
+          "Gordon D. Rubenfeld",
+          "Rob Stenstrom",
+          "P. Richard Verbeek",
+          "Sheldon Cheskes",
+          "Peter Dundas",
+          "Sarah Ropp",
+          "Priya Kakar",
+          "Greg Sage",
+          "Roman Nowickyj",
+          "Bikram Chawla",
+          "Jamie Burnett",
+          "Chris Spearen",
+          "Iain Park",
+          "Jennie Helmer",
+          "Michael Roffey",
+          "Scott Gorsline",
+          "Iftekhar Islam",
+          "Ken Cao",
+          "Samuel Guirguis",
+          "Katrina Manning",
+          "Mariam Saleem",
+          "Meaghan Todd",
+          "Katie Welsh",
+          "Kathryn Mangoff",
+          "Hamzah Algodi",
+          "Remy Cattell",
+          "Hannah Loo",
+          "Richard Ma",
+          "Chloe Nakamura",
+          "Victoria Roncallo",
+          "Arushi Wadhwa",
+          "Jenna Yang",
+          "Shelly Dev",
+          "Nathan Ma",
+          "Ha-Seul Jeoung",
+          "Ariel Bay",
+          "Robert Cirone",
+          "Michael Detsky",
+          "Niall Ferguson",
+          "Eyal Golan",
+          "Sanjay Manocha",
+          "Maureen Meade",
+          "Michael Miletin",
+          "Barry Nathanson",
+          "Carol Redstone",
+          "Bram Rochwerg",
+          "Phil Shin",
+          "Angela Stone",
+          "Refik Saskin",
+          "Clifton Calloway",
+          "Robert Green"
+        ],
+        "abstract": "Importance                     Early resuscitation with intravenous fluids is recommended for patients with sepsis.                                                           Objective                     To determine the effect of liberal vs more conservative fluid resuscitation strategies in the ambulance on mortality among patients with suspected sepsis.                                                           Design, Setting, and Participants                     Multicenter, 2 × 2 factorial randomized clinical trial conducted by 4 paramedic services and their destination hospitals in Ontario, Canada. Participants were adults with suspected sepsis, defined as suspected infection, fever (≥38.0 °C), and hypotension (systolic blood pressure [SBP] &amp;amp;lt;100 mm Hg), and obtainable intravenous access. Patients were enrolled between March 23, 2020, and August 20, 2025, with last follow-up in December 2025.                                                           Intervention                     Patients were randomized to receive liberal fluids (up to 2 L of normal saline regardless of subsequent SBP) or usual care (fluids only when SBP &amp;amp;lt;90 mm Hg and stopped when SBP ≥100 mm Hg) during prehospital care and until transfer of care in the emergency department. (Patients were additionally randomized to receive ceftriaxone vs placebo; analysis of which is reported separately.)                                                           Main Outcomes and Measures                     The primary outcome was hospital mortality, defined as death prior to hospital discharge up to day 90. There were 17 secondary outcomes, including all-cause mortality at 90 days, hospitalization, intensive care unit admission, mechanical ventilation, vasopressor therapy, dialysis, and total fluids infused within 24 hours of hospital arrival.                                                           Results                                            Among 1686 randomized patients, 1669 were eligible and 1646 were included in the primary outcome analysis (830 in the liberal fluids group and 816 in the usual fluids group). The median age of patients was 76 (IQR, 63-85) years and 938 (57.0%) were male. Most patients in both groups received a fluid bolus (826/848 [97.4%] in the liberal fluids group; 700/821 [85.3%] in the usual fluids group) during transport, but patients in the liberal fluids group received a larger volume (median, 1500 mL [IQR, 1000-2000 mL]) vs 500 mL [IQR, 175-800 mL] in the usual fluids group; difference, 910.1 mL [95% CI, 857.3-962.9 mL]). Hospital mortality was 149/830 (18.0%) in the liberal fluids group and 149/816 (18.3%) in the usual fluids group (risk ratio, 0.98 [95% CI, 0.80-1.20]; unadjusted risk difference, −0.3 [95% CI, −4.0 to 3.4];                       P                        = .82). Among the 17 secondary outcomes, all were similar between groups. Adverse events, including pulmonary edema during transport, were infrequent in both groups.                                                                                Conclusions and Relevance                     A more liberal fluid resuscitation strategy for the prehospital management of patients with suspected sepsis did not reduce mortality compared with more restrictive usual care.                                                           Trial Registration                                            ClinicalTrials.gov Identifier:                       NCT03068741",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-24",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-25",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.25627",
+        "doi": "10.1001/jama.2026.25627",
+        "url": "https://doi.org/10.1001/jama.2026.25627",
+        "title": "Prehospital Antibiotics for Patients With Suspected Sepsis",
+        "authors": [
+          "Damon C. Scales",
+          "Anna Rogowsky",
+          "Christopher W. Seymour",
+          "Lisa Burry",
+          "Jim Christenson",
+          "Nick Daneman",
+          "Ian R. Drennan",
+          "Morgan Hillier",
+          "Sandra Jenneson",
+          "Gail Klein",
+          "Tony Mazzulli",
+          "Philip Moran",
+          "Andrew M. Morris",
+          "Laurie J. Morrison",
+          "Ruxandra Pinto",
+          "Gordon D. Rubenfeld",
+          "Rob Stenstrom",
+          "P. Richard Verbeek",
+          "Sheldon Cheskes",
+          "Peter Dundas",
+          "Sarah Ropp",
+          "Priya Kakar",
+          "Greg Sage",
+          "Roman Nowickyj",
+          "Bikram Chawla",
+          "Jamie Burnett",
+          "Chris Spearen",
+          "Iain Park",
+          "Jennie Helmer",
+          "Michael Roffey",
+          "Scott Gorsline",
+          "Iftekhar Islam",
+          "Ken Cao",
+          "Samuel Guirguis",
+          "Katrina Manning",
+          "Mariam Saleem",
+          "Meaghan Todd",
+          "Katie Welsh",
+          "Kathryn Mangoff",
+          "Hamzah Algodi",
+          "Remy Cattell",
+          "Hannah Loo",
+          "Richard Ma",
+          "Chloe Nakamura",
+          "Victoria Roncallo",
+          "Arushi Wadhwa",
+          "Jenna Yang",
+          "Shelly Dev",
+          "Nathan Ma",
+          "Ha-Seul Jeoung",
+          "Ariel Bay",
+          "Robert Cirone",
+          "Michael Detsky",
+          "Niall Ferguson",
+          "Eyal Golan",
+          "Sanjay Manocha",
+          "Maureen Meade",
+          "Michael Miletin",
+          "Barry Nathanson",
+          "Carol Redstone",
+          "Bram Rochwerg",
+          "Phil Shin",
+          "Angela Stone",
+          "Refik Saskin",
+          "Clifton Calloway",
+          "Robert Green"
+        ],
+        "abstract": "Importance                     Early treatment with antibiotics is considered an important intervention to reduce mortality for patients with sepsis.                                                           Objective                     To determine the effect of earlier treatment with antibiotics in the ambulance on 90-day mortality compared with usual treatment in the emergency department.                                                           Design, Setting, and Participants                     This multicenter, 2 × 2 factorial randomized, placebo-controlled trial was conducted among 4 paramedic services and their destination hospitals in Ontario, Canada. Participants were adults with suspected sepsis, defined as suspected infection, fever (≥38.0 °C), and hypotension (systolic blood pressure &amp;amp;lt;100 mm Hg). Patients were enrolled between March 23, 2020, and August 20, 2025, with final follow-up in December 2025.                                                           Interventions                     Patients were randomized to receive 1 g of intramuscular ceftriaxone or placebo (and to receive liberal fluids vs usual fluids; reported separately) during prehospital care in the ambulance. All patients could receive open-label antibiotics in the emergency department.                                                           Main Outcomes and Measures                     The primary outcome was hospital mortality, defined as death prior to hospital discharge to day 90. There were 17 secondary outcomes, including all-cause mortality at 90 days, hospitalization, intensive care unit admission, use of mechanical ventilation, use of dialysis, positive culture results, and antibiotics within 24 hours of hospital arrival.                                                           Results                                            Among 2091 randomized patients, 2048 were eligible for the primary analysis, with 1026 randomized to receive ceftriaxone and 1022 randomized to receive placebo. The median (IQR) age of patients was 75 (62-85) years and 1162 (56.7%) were males. The mean (SD) time from paramedic arrival at patient to administration of study drug was 37 (36) minutes in the ceftriaxone group and 39 (55) minutes in the placebo group. Most patients (735 of 795 [92.5%] in the ceftriaxone group and 730 of 792 [92.2%] in placebo group) were treated with antibiotics in the hospital after a mean (SD) of 247.3 (207.7) minutes after paramedic arrival among patients in the ceftriaxone group and 252.8 (218.0) minutes among the placebo group. The rate of hospital mortality was 182 of 1009 (18.0%) in the ceftriaxone group and 186 of 1011 (18.4%) in the placebo group (risk ratio, 0.97 [95% CI, 0.81-1.17];                       P                        = .77). Of 17 secondary outcomes, all were similar between the groups.                                                                                Conclusions and Relevance                     Among patients with suspected sepsis on evaluation by paramedics, earlier treatment with antibiotics in the ambulance did not reduce mortality compared with usual care provided in the emergency department.                                                           Trial Registration                                            ClinicalTrials.gov Identifier:                       NCT03068741",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-24",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-25",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.25735",
+        "doi": "10.1001/jama.2026.25735",
+        "url": "https://doi.org/10.1001/jama.2026.25735",
+        "title": "Prehospital Fluid Resuscitation for Patients With Suspected Sepsis",
+        "authors": [],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-24",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-25",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2025.16112",
+        "doi": "10.1001/jama.2025.16112",
+        "url": "https://doi.org/10.1001/jama.2025.16112",
+        "title": "JAMA",
+        "authors": [],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-24",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-25",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1007/s40273-026-01692-3",
+        "doi": "10.1007/s40273-026-01692-3",
+        "url": "https://doi.org/10.1007/s40273-026-01692-3",
+        "title": "Real-World Data in Economic Evaluations of Schizophrenia: A Systematic Review of Roles, Applications and Methodological Gaps",
+        "authors": [
+          "Peizhe Yan",
+          "Kang Wang",
+          "Shanquan Chen",
+          "Risha Govind",
+          "Xiaoyu Zhang",
+          "Yannan Jiang",
+          "Huajie Jin"
+        ],
+        "abstract": "",
+        "source": "PharmacoEconomics",
+        "issn": "1170-7690",
+        "date": "2026-11-24",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-25",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1093/aje/kwag301",
         "doi": "10.1093/aje/kwag301",
         "url": "https://doi.org/10.1093/aje/kwag301",
@@ -52979,6 +53550,361 @@
           "healthReform"
         ],
         "firstSeen": "2026-11-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.21844",
+        "doi": "10.1001/jama.2026.21844",
+        "url": "https://doi.org/10.1001/jama.2026.21844",
+        "title": "Total Intravenous vs Volatile Inhalational Anesthesia and Recovery From Major Noncardiac Surgery",
+        "authors": [
+          "Guanyu Yang",
+          "Qinjun Chu"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-23",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-25",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2025.16146",
+        "doi": "10.1001/jama.2025.16146",
+        "url": "https://doi.org/10.1001/jama.2025.16146",
+        "title": "Some Lessons of War-Time Undernutrition",
+        "authors": [],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-23",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-25",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.19825",
+        "doi": "10.1001/jama.2026.19825",
+        "url": "https://doi.org/10.1001/jama.2026.19825",
+        "title": "Postherpetic Neuralgia",
+        "authors": [
+          "Jan Vollert",
+          "Nadine Attal",
+          "Ralf Baron"
+        ],
+        "abstract": "This JAMA Insights discusses postherpetic neuralgia, chronic neuropathic pain following infection with shingles, including its epidemiology, clinical presentation, and treatment, such as pharmacotherapy and cognitive behavioral therapy.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-23",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-25",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.21841",
+        "doi": "10.1001/jama.2026.21841",
+        "url": "https://doi.org/10.1001/jama.2026.21841",
+        "title": "Total Intravenous vs Volatile Inhalational Anesthesia and Recovery From Major Noncardiac Surgery",
+        "authors": [
+          "Sovann Vikram",
+          "Caitlyn Tse",
+          "Sean Coeckelenbergh"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-23",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-25",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.21838",
+        "doi": "10.1001/jama.2026.21838",
+        "url": "https://doi.org/10.1001/jama.2026.21838",
+        "title": "Total Intravenous vs Volatile Inhalational Anesthesia and Recovery From Major Noncardiac Surgery—Reply",
+        "authors": [
+          "Joyce Yeung",
+          "Louise Hill",
+          "Shaman Jhanji"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-23",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-25",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.21847",
+        "doi": "10.1001/jama.2026.21847",
+        "url": "https://doi.org/10.1001/jama.2026.21847",
+        "title": "Total Intravenous vs Volatile Inhalational Anesthesia and Recovery From Major Noncardiac Surgery",
+        "authors": [
+          "Mark L. van Zuylen",
+          "Nicolaas H. Sperna Weiland",
+          "Jasper M. Kampman"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-23",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-25",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.23153",
+        "doi": "10.1001/jama.2026.23153",
+        "url": "https://doi.org/10.1001/jama.2026.23153",
+        "title": "The Stories We Tell Ourselves",
+        "authors": [
+          "Joana E. Andoh"
+        ],
+        "abstract": "In this narrative medicine essay, a physician reflects on the concept of “patient-centered” communication and the nuances that come with it.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-23",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-25",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.21850",
+        "doi": "10.1001/jama.2026.21850",
+        "url": "https://doi.org/10.1001/jama.2026.21850",
+        "title": "Total Intravenous vs Volatile Inhalational Anesthesia and Recovery From Major Noncardiac Surgery",
+        "authors": [
+          "Wangzheqi Zhang",
+          "Lulong Bo"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-23",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-25",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.21415",
+        "doi": "10.1001/jama.2026.21415",
+        "url": "https://doi.org/10.1001/jama.2026.21415",
+        "title": "Hypertrophic Cardiomyopathy",
+        "authors": [
+          "Steve R. Ommen"
+        ],
+        "abstract": "Importance                     Hypertrophic cardiomyopathy is defined as left ventricular hypertrophy of greater than 15 mm in any part of the left ventricular wall in the absence of valvular disease, uncontrolled hypertension, or other chronic conditions causing severe left ventricular hypertrophy such as uncontrolled hypertension or cardiac amyloidosis. Most people with hypertrophic cardiomyopathy have a normal lifespan; however, hypertrophic cardiomyopathy is associated with a 0.8% annual incidence of sudden cardiac death.                                                           Observations                     Hypertrophic cardiomyopathy affects an estimated 0.2% of people worldwide (including more than 600 000 people in the US) and is typically diagnosed with echocardiography. Approximately 35% to 40% of patients report effort-related dyspnea, chest pain or pressure, or lightheadedness. Approximately 30% to 40% of people with hypertrophic cardiomyopathy have a pathogenic gene variant that encodes for cardiac sarcomere proteins (predominantly myosin binding protein C, myosin heavy chain, and troponin). Other patients with hypertrophic cardiomyopathy may have a polygenic predisposition and/or nongenetic risk factors. The sarcomeric gene variants cause hypercontractility and delayed relaxation of the cardiac sarcomere, which characterizes the underlying pathophysiologic problem in people with hypertrophic cardiomyopathy. Approximately 60% to 70% of patients have obstructive hypertrophic cardiomyopathy, characterized by dynamic left ventricular outflow tract obstruction due to basal septal hypertrophy. The remainder do not have outflow tract obstruction and, therefore, have nonobstructive hypertrophic cardiomyopathy. Patients with hypertrophic cardiomyopathy should participate in regular low- to moderate-intensity physical activity (such as brisk walking, jogging) as part of a healthy lifestyle. Medical therapies such as β-blockers (eg, metoprolol, bisoprolol, nadolol) and nondihydropyridine-class calcium channel blockers (eg, verapamil or diltiazem) are first-line medical therapy for patients with symptoms due to hypertrophic cardiomyopathy. If first-line therapies do not relieve symptoms, alternative treatments include disopyramide, which improves symptoms in approximately 60% of patients, cardiac myosin inhibitors (mavacamten or aficamten), which improve symptoms in approximately 70% to 80% of patients, or procedures to thin the septal wall of the left ventricle, including percutaneous alcohol septal ablation, which improves symptoms in approximately 75% to 80% of patients, or surgical septal myectomy, which improves symptoms in approximately 90% to 95% of patients. Guidelines recommend that first-degree relatives of patients with hypertrophic cardiomyopathy undergo screening for hypertrophic cardiomyopathy with genetic testing or echocardiography.                                                           Conclusions                     Hypertrophic cardiomyopathy is caused by a monogenetic pathogenic variant in approximately 30% to 40% of patients and can cause effort-related dyspnea, chest pain or pressure, or lightheadedness. Hypertrophic cardiomyopathy is associated with an incidence of sudden cardiac death of 0.8% per year. First-line therapies for symptomatic hypertrophic cardiomyopathy are β-blockers (eg, metoprolol, bisoprolol, nadolol) or nondihydropyridine calcium channel blockers (eg, verapamil, diltiazem).",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-23",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-25",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.25491",
+        "doi": "10.1001/jama.2026.25491",
+        "url": "https://doi.org/10.1001/jama.2026.25491",
+        "title": "Next WHO Director-General Must Lead With Strategic Science",
+        "authors": [
+          "Saad B. Omer"
+        ],
+        "abstract": "This Viewpoint discusses the qualities and ideas the next director-general of the World Health Organization (WHO) should have, noting that the WHO executive board and World Health Assembly should evaluate candidates’ articulation of a coherent science strategy in addition to their broader vision for the WHO.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-23",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-25",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.25561",
+        "doi": "10.1001/jama.2026.25561",
+        "url": "https://doi.org/10.1001/jama.2026.25561",
+        "title": "Intramuscular Olanzapine or Droperidol for Acute Behavioral Disturbance in Children and Adolescents",
+        "authors": [
+          "Elyssia M. Bourke",
+          "Amit Kochar",
+          "Deborah Shellshear",
+          "Meredith L. Borland",
+          "Shefali Jani",
+          "Kent Perkins",
+          "Shane George",
+          "Doris Tham",
+          "Michael Gordon",
+          "Kate Klein",
+          "Catherine L. Wilson",
+          "Chidambaram Prakash",
+          "Natalie Phillips",
+          "Gaby Nieva",
+          "Chris J. Selman",
+          "Katherine J. Lee",
+          "Andrew Davidson",
+          "Jonathan C. Knott",
+          "Simon S. Craig",
+          "Franz E. Babl",
+          "Ian Law",
+          "Rose Wilson",
+          "Katie Northcott",
+          "Simone Hughes",
+          "Lara Caruso",
+          "Sarah Adams",
+          "Georgia Richards",
+          "Anne-Maree O-Regan",
+          "Lisa Maree Properjohn",
+          "Sharon O’Brien",
+          "Patricia Clifford",
+          "Katy Whitten",
+          "Melissa O'Brien Smith",
+          "Catherine Power",
+          "Annika Featherstone",
+          "Heather Davis",
+          "Josephine Freestone",
+          "Natasha Curkoska",
+          "Riku Haataja",
+          "Zachary Wilder",
+          "Nathan Goddard",
+          "Joanna Cronin",
+          "Hanan El Gharib",
+          "Lauren Page",
+          "Naomi Loftus",
+          "Danielle Kallianiotis",
+          "Amy Carle",
+          "Amanda Williams",
+          "Vili Lim",
+          "Bojana Gladanac",
+          "Vivianne Truong",
+          "Marietta John-White",
+          "Jessica Waghorn",
+          "Hannah Diamond-Smith",
+          "Celine Le",
+          "Jessica Foley",
+          "Amra Delic",
+          "Abby Chung",
+          "Katherine Lamb",
+          "Samantha Fruzynski",
+          "Georgia Henry",
+          "Jennifer Grant",
+          "Nadia Schmidt",
+          "Amy Coulson",
+          "Ann Hinde",
+          "Deepali Thosar",
+          "Nola Poulter",
+          "Kelly Watkins",
+          "Kym Roberts",
+          "Kieran Owen",
+          "Stuart Dalziel",
+          "Thomas Sullivan",
+          "Gerben Keijzers",
+          "Stephen Hearps",
+          "Marian Chandler",
+          "Kathleen Alleaume-Ross",
+          "Jodie Miers",
+          "MD Kabir",
+          "Diana Mercuri"
+        ],
+        "abstract": "Importance                     Acute behavioral disturbance is a high-risk emergency department presentation. There is limited evidence for the comparative effectiveness of intramuscular sedative medications in children and adolescents, which may be required when there is imminent risk of serious harm due to agitation.                                                           Objective                     To determine whether olanzapine is more effective than droperidol intramuscularly in achieving behavioral containment.                                                           Design, Setting, and Participants                     This investigator-initiated, open-label, multicenter, superiority, randomized clinical trial recruited children and adolescents aged 9 to 17 years presenting to 10 Australian emergency departments with acute behavioral disturbance clinically deemed to require intramuscular medication from November 8, 2021, to February 16, 2026. The last participant follow-up occurred on March 17, 2026. Data were analyzed from April 15 to 27, 2026.                                                           Interventions                     Participants were randomly assigned to a single weight-based dose of olanzapine or droperidol (&amp;amp;lt;40 kg, 5 mg; ≥40 kg, 10 mg).                                                           Main Outcomes and Measures                     The primary outcome was successful sedation (Sedation Assessment Tool score ≤0) without the need for additional sedatives 1 hour after randomization. A range of secondary outcomes, including adverse events, were assessed.                                                           Results                                            Of 348 recruited individuals (mean [IQR] age, 14.9 [13.6-16.1] years; 215 [62%] female; 75 Aboriginal or Torres Strait Islander individuals), 176 were assigned to olanzapine and 172 to droperidol. Of those randomized, 117 individuals (66%) in the olanzapine group and 121 individuals (70%) in the droperidol group were administered their study medication within 30 minutes of randomization. Successful sedation without the requirement for additional sedatives occurred in 89 individuals (53%) in the olanzapine group and 104 individuals (62%) in the droperidol group. No evidence of superiority was observed (adjusted risk difference, −8.3% [95% CI, −18.6% to 2.1%];                       P                        = .12). One serious adverse event (apnea) occurred in the olanzapine group.                                                                                Conclusions and Relevance                     In this randomized clinical trial in children and adolescents presenting to the emergency department with behavioral disturbance, intramuscular olanzapine did not result in a clinically meaningfully greater proportion achieving successful sedation compared with droperidol. The limited effectiveness observed with both medications highlights the need for more effective pharmacological and nonpharmacological management strategies.                                                           Trial Registration                                            anzctr.org.au Identifier:                       ACTRN12621001238864",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-23",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-25",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.25613",
+        "doi": "10.1001/jama.2026.25613",
+        "url": "https://doi.org/10.1001/jama.2026.25613",
+        "title": "Intramuscular Olanzapine or Droperidol for Acute Behavioral Disturbance in Children and Adolescents",
+        "authors": [],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-23",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-25",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.26569",
+        "doi": "10.1001/jama.2026.26569",
+        "url": "https://doi.org/10.1001/jama.2026.26569",
+        "title": "A Trial for Pediatric Agitation in the Emergency Department—New Calm in the Chaos",
+        "authors": [
+          "Susan J. Duffy",
+          "Jenny McManus",
+          "Thomas H. Chun"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-23",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-25",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1007/s40273-026-01689-y",
+        "doi": "10.1007/s40273-026-01689-y",
+        "url": "https://doi.org/10.1007/s40273-026-01689-y",
+        "title": "Recommendations for the Economic Evaluation of Digital Health Technologies: A Modified Nominal Group Technique",
+        "authors": [
+          "Ana Rita Santos",
+          "Julian Perelman",
+          "Ana Londral",
+          "Filipa Sampaio"
+        ],
+        "abstract": "",
+        "source": "PharmacoEconomics",
+        "issn": "1170-7690",
+        "date": "2026-11-23",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-25",
         "fetched_from": "crossref"
       },
       {
@@ -96127,6 +97053,95 @@
     ],
     "agingHealth": [
       {
+        "id": "doi:10.1097/ede.0000000000002060",
+        "doi": "10.1097/ede.0000000000002060",
+        "url": "https://doi.org/10.1097/ede.0000000000002060",
+        "title": "Sharing Software Code: Why Put Off Until Tomorrow What We Can Do Today?",
+        "authors": [],
+        "abstract": "",
+        "source": "Epidemiology",
+        "issn": "1044-3983",
+        "date": "2027-01-01",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-25",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08736-5",
+        "doi": "10.1186/s12877-026-08736-5",
+        "url": "https://doi.org/10.1186/s12877-026-08736-5",
+        "title": "The prognostic utility of a nutritional and inflammatory status-based nomogram in older patients underwent cardiac surgery",
+        "authors": [
+          "Zile Shen",
+          "Ge Zhu",
+          "Wangfu Zang",
+          "Peng Zhang",
+          "Zhang Liu"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-25",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-25",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08740-9",
+        "doi": "10.1186/s12877-026-08740-9",
+        "url": "https://doi.org/10.1186/s12877-026-08740-9",
+        "title": "Effectiveness of different exercise types for improving lumbar spine and femoral neck bone mineral density in older adults: a three-level pairwise and Bayesian network meta-analysis",
+        "authors": [
+          "Huan Feng",
+          "ZhengWei Xie",
+          "Yubo Wang",
+          "Yunan Zhang",
+          "Haojiang Zuo",
+          "Hui Yang"
+        ],
+        "abstract": "Abstract                                        Background                     Osteoporosis-related fractures are a major burden in older adults. Exercise is recommended for preserving bone mineral density (BMD), but the comparative effectiveness of different exercise types at the lumbar spine and femoral neck remains unclear.                                                           Methods                     PubMed, Embase, Web of Science, and the Cochrane Library were searched through March 2026 for RCTs comparing exercise with passive control in adults aged ≥ 60 years. BMD mean differences were pooled using a three-level random-effects model with subgroup analyses for nine moderators. A Bayesian NMA ranked interventions using SUCRA; risk of bias and evidence certainty were assessed with ROBUST-RCT, GRADE, and CINeMA.                                                           Results                                            Eighty-one RCTs (5,251 participants, 9 exercise types) were included. In the pairwise meta-analysis, 86 effect sizes from 69 studies contributed to the lumbar spine and 78 from 61 studies to the femoral neck. Exercise significantly improved lumbar spine BMD (MD = 0.013 g/cm², 95% CI 0.008 to 0.017) and femoral neck BMD (MD = 0.018 g/cm², 95% CI 0.011 to 0.024; both                       p                        &lt; 0.001). Six interventions were significant at the lumbar spine and four at the femoral neck. Comorbidity type moderated effects at both sites, with sarcopenia or diabetes showing attenuated responses; sex was significant only at the lumbar spine (                       p                        = 0.017). Certainty was moderate at the lumbar spine, low at the femoral neck, and low-to-very-low across NMA comparisons. Heterogeneity was substantial (I² = 61.8% and 95.3%).                                                                                Conclusion                     Exercise interventions were associated with favorable BMD changes consistent with bone preservation in older adults, with stronger evidence at the lumbar spine than the femoral neck. Traditional Chinese exercise (TCE) showed the most favorable estimates versus passive control (lumbar spine MD = 0.037 g/cm², 95% CrI 0.012 to 0.062; femoral neck MD = 0.039 g/cm², 95% CrI 0.008 to 0.070; 4 studies, 6 arms; low-to-very-low certainty) and ranked best, though these probabilistic rankings warrant cautious interpretation. Exercise prescriptions should consider exercise type and comorbidity profile.                                                           Registration                     PROSPERO CRD420261345859.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-25",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-25",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08188-x",
+        "doi": "10.1186/s12877-026-08188-x",
+        "url": "https://doi.org/10.1186/s12877-026-08188-x",
+        "title": "Development and validation of a social support scale of physical exercise for Chinese urban older adults in the context of sports-medicine integration",
+        "authors": [
+          "Zhongjun Su",
+          "Yunyan Luo",
+          "Ping Hong"
+        ],
+        "abstract": "Abstract                                        Objective                     The purpose was to develop and validate a scale based on the social support theory in the context of Sports-Medicine integration, assessing available social support for physical exercise among independent urban older adults in China.                                                           Methods                                            The initial items were generated through semi-structured interviews, expert interviews, and the Delphi method. Exploratory factor analysis (EFA) (                       n                        = 266) was used to explore the factor structure, and confirmatory factor analysis (CFA) (                       n                        = 312) was employed to examine item reliability, composite reliability, and model fit. Finally, test‑retest reliability, external convergent validity, and discriminant validity were evaluated.                                                                                Results                     EFA extracted four factors, which together accounted for 73.526% of the total variance. Cronbach’s α values ranged from 0.824 to 0.912, inter‑item correlations ranged from 0.342 to 0.868, and item‑total correlations ranged from 0.508 to 0.861. CFA showed that squared multiple correlations ranged from 0.382 to 0.922, CR and ICC ranged from 0.831 to 0.917, 0.763 to 0.903; respectively. RMSEA = 0.064, χ² = 122.384, χ²/df = 2.074, GFI = 0.974, AGFI = 0.901, CFI = 0.974, TLI = 0.995, NFI = 0.951, SRMR = 0.063, for the first‑order model; for the second‑order model: RMSEA = 0.063, χ² = 126.227, χ²/df = 2.069, GFI = 0.935, AGFI = 0.903, CFI = 0.973, TLI = 0.965, NFI = 0.949, SRMR = 0.063, and the target coefficient of the two models = 0.970.                                                           Conclusions                     The scale showed preliminary acceptable psychometric evidence for assessing differences in perceived social support in physical activity among relatively independent urban older adults in the context of Sports-Medicine integration. Further validation of reliability, validity, and model fit in diverse samples was required to confirm its structural stability and generalizability.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-25",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-25",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1186/s12877-026-08674-2",
         "doi": "10.1186/s12877-026-08674-2",
         "url": "https://doi.org/10.1186/s12877-026-08674-2",
@@ -96148,6 +97163,161 @@
           "agingHealth"
         ],
         "firstSeen": "2026-11-24",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/geront/gnag256",
+        "doi": "10.1093/geront/gnag256",
+        "url": "https://doi.org/10.1093/geront/gnag256",
+        "title": "Navigating daily activities with mild cognitive impairment: Characterizing cognitive challenges and response strategies",
+        "authors": [
+          "Elizabeth A Lydon",
+          "Carlyn Ellison Keeler",
+          "Ryan L Santens",
+          "Raksha A Mudar",
+          "Sara J Czaja",
+          "Walter R Boot",
+          "Neil Charness",
+          "Wendy A Rogers"
+        ],
+        "abstract": "Abstract                                        Background and Objectives                     The number of older adults experiencing cognitive decline is increasing, highlighting an urgent need to understand how these changes impact daily life. Although extensive research has advanced knowledge of diagnosis and progression of mild cognitive impairment (MCI), less is known about how individuals navigate these changes in everyday contexts. We examined how older adults with MCI manage daily activities to inform strategies that support independence and quality of life.                                                           Research Design and Methods                     Through qualitative needs assessment we explored activity challenges and compensatory strategies of 91 older adults with MCI across five domains: health, social engagement, transportation, domestic life, and leisure/recreation. Participants rated difficulty of activities within each domain using a Likert scale and completed in-depth interviews probing the cognitive underpinnings of these challenges (e.g., memory, attention, executive functioning, language) and strategies used to address them.                                                           Results                     Two-thirds of participants (66%) reported challenges in at least one activity domain, most frequently in health management. Nearly half (41%) experienced difficulties across multiple domains. Memory and executive functioning emerged as the primary cognitive contributors to these challenges. Participants most often relied on external supports such as assistance from others (27%), visual reminders (22%), and technology use (22%).                                                           Discussion and Implications                     Some challenges were activity-specific, whereas others occurred across multiple areas of daily life. Individuals with MCI actively employed adaptive, compensatory strategies, underscoring the need for person-centered interventions that build on individual strengths and account for environmental context. Emerging technologies may provide opportunities to support daily functioning and independence.",
+        "source": "The Gerontologist",
+        "issn": "0016-9013",
+        "date": "2026-11-24",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-25",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/gerona/glag263",
+        "doi": "10.1093/gerona/glag263",
+        "url": "https://doi.org/10.1093/gerona/glag263",
+        "title": "Does HIV drive accelerated biological ageing in children?: A paediatric geroscience approach to investigating HIV-associated chronic comorbidities",
+        "authors": [
+          "Barbara Kronsteiner",
+          "Thomas A Jackson",
+          "Joe D Piper",
+          "Nyasha V Dzavakwa",
+          "Hannah R Elliott",
+          "Tsitsi Bandason",
+          "Tafadzwa Madanhire",
+          "Laura D Howe",
+          "Susanna J Dunachie",
+          "Rashida A Ferrand",
+          "Celia L Gregson"
+        ],
+        "abstract": "Abstract                   The scale-up of antiretroviral therapy (ART) has transformed HIV from a fatal to a treatable (albeit incurable) chronic condition and dramatically improved survival so that children with HIV (CWH) are now reaching adulthood in growing numbers. Among adults, HIV is recognised as an independent risk factor for chronic comorbidities with consequent loss of physiological reserve, commonly known as frailty. In children, despite ART, HIV manifests in poorer trajectories of growth and development including impaired neurodevelopment, with life-long consequences. We conceptualise “paediatric frailty” as the failure to achieve optimum physiological reserve, analogous to frailty in older people whereby there is loss of physiological reserve, resulting in substantially reduced healthspan. Geroscience has shown how fundamental biological ageing mechanisms drive both physical declines and vulnerability to stressors, that underlie clinical frailty in older people. Drawing from geroscience, disturbances in the primary, integrative and antagonistic hallmarks of biological ageing in the context of perinatally-acquired HIV infection may equally explain paediatric frailty. Prospective research studies that integrate trajectories of growth, cognitive and physical function with multiple measures of biological ageing in CWH and HIV-negative peers, would elucidate these pathways. An example of such an approach is the interdisciplinary ARTful Ageing consortium which addresses the central hypothesis that perinatally-acquired HIV infection results in accelerated biological ageing in children, which drives “paediatric frailty”. This novel perspective towards the integrated study of domain-specific deficits and biological ageing in HIV, offers the opportunity to identify pathways that can be targeted for prevention and treatment of chronic conditions seen in CWH on ART: ultimately targeting these mechanisms early in life may prove more effective at preventing later chronic disease and multi-morbidity.",
+        "source": "The Journals of Gerontology, Series A: Biological Sciences and Medical Sciences",
+        "issn": "1079-5006",
+        "date": "2026-11-24",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "elderCare"
+        ],
+        "firstSeen": "2026-11-25",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08735-6",
+        "doi": "10.1186/s12877-026-08735-6",
+        "url": "https://doi.org/10.1186/s12877-026-08735-6",
+        "title": "Association between surgical intervention and long-term survival outcomes among patients aged 75 years or older with spinal tuberculosis: a retrospective cohort study of 109 patients",
+        "authors": [
+          "Weijie Dong",
+          "Tiantian Miao",
+          "Kai Tang",
+          "Shibing Qin",
+          "Guirong Wang",
+          "Baoge Liu"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-24",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-25",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08728-5",
+        "doi": "10.1186/s12877-026-08728-5",
+        "url": "https://doi.org/10.1186/s12877-026-08728-5",
+        "title": "Association between biomarker-defined thromboinflammatory patterns and 90-day functional outcomes in older patients with acute ischemic stroke: a prospective cohort study",
+        "authors": [
+          "Qian Ma",
+          "Yong Wang",
+          "Ziwen Song",
+          "Tingting Huang",
+          "Ming Hu",
+          "Wei Huang"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-24",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-25",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261508761",
+        "doi": "10.1177/13872877261508761",
+        "url": "https://doi.org/10.1177/13872877261508761",
+        "title": "Association between caregiver roles, nocturnal care and agitation in home-dwelling patients with Alzheimer's disease, dementia with Lewy body, and Parkinson's disease dementia",
+        "authors": [
+          "Chen Jiang",
+          "Qingbo Meng",
+          "Zhichao Chen",
+          "Yingying Zhao",
+          "Jinghuan Gan"
+        ],
+        "abstract": "Background                     Agitation is a common and disabling neuropsychiatric symptom among dementia patients, predominantly occurs during nighttime, and brings heavy burden on caregivers.                                                           Objective                     To analyze the association between agitation and caregiver related factors in home dwelling patients with Alzheimer's disease (AD), dementia with Lewy bodies (DLB), and Parkinson's disease dementia (PDD).                                                           Methods                     This cross-sectional study enrolled 69 home-dwelling AD patients, 44 DLB patients, and 25 PDD patients between January and December 2024. Agitation was measured using the Cohen-Mansfield Agitation Inventory (CMAI) provided by primary caregivers. Correlation and regression analyses were performed to examine the relationships.                                                           Results                                            AD and DLB patients had higher scores of CMAI-physically aggressive behaviors and CMAI-verbally aggressive behaviors than PDD (both                       p                        &lt; 0.001). AD patients cared by their children exhibited lower total-CMAI scores compared to those cared by spouses or others (                       p                        = 0.042); and those receiving nocturnal care exhibited significantly lower CMAI scores (all                       p                        &lt; 0.05). DLB patients receiving nocturnal care showed significantly lower verbally aggressive behaviors score (Beta = −0.350,                       p                        = 0.036). PDD patients with nocturnal care showed significantly lower sub-item score of verbally aggressive behaviors compared to those without (                       p                        = 0.002).                                                                                Conclusions                     Agitation is a prevalent neuropsychiatric symptom in AD, DLB, and PDD. Regardless of caregiver roles, nocturnal care significantly reduces agitation in AD and DLB patients. These findings highlight the importance of caregiver support, particularly during nighttime, in managing agitation in dementia.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-11-24",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-25",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261508081",
+        "doi": "10.1177/13872877261508081",
+        "url": "https://doi.org/10.1177/13872877261508081",
+        "title": "Preferences for treatments to slow dementia progression: A qualitative study of culturally diverse individuals with self-reported cognitive decline",
+        "authors": [
+          "Shanshan Lin",
+          "Halima Amjad",
+          "Emily Mao",
+          "Ravi Gupta",
+          "Michael J. DiStefano",
+          "Emmanuel F. Drabo",
+          "Jodi B. Segal"
+        ],
+        "abstract": "Background                     Decisions about medication use for slowing dementia progression involve weighing benefits against harms. This may be particularly challenging for patients with cognitive decline.                                                           Objective                     To understand decision-making processes and treatment preferences among individuals with self-reported cognitive decline, including those from populations underrepresented in dementia care and research.                                                           Methods                     We used qualitative methods with focus groups to learn what matters to people with self-reported cognitive decline when deciding about dementia medications. We used purposive sampling to ensure a diverse participant sample. After dual coding of transcripts and thematic analysis, themes were summarized using the Health Behavior Model.                                                           Results                     We conducted 5 focus groups with 23 individuals with at least subjective memory or thinking concerns. One group included only Spanish-speakers and 2 included only Black Americans. We observed substantial consistency in preferences across groups. Participants fear loss of independence and symptoms that are disruptive to daily life and identity. They rarely considered the likelihood or inevitability of disease progression. Familiarity with pharmacologic therapies was limited. Participants approach medication with caution. Cost and access were not seen as prominent barriers. Participants worried about adverse effects, drug-drug interactions, and preferred minimal medication use.                                                           Conclusions                     No single factor reliably motivated treatment initiation. Instead, decisions appeared contingent on how individuals balance anticipated benefits against perceived harms within their broader belief systems. This is consistent with and extends prior work showing that treatment decisions to slow dementia progression are shaped not only by clinical efficacy but also by beliefs about risks, burden, and personal values.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-11-24",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-25",
         "fetched_from": "crossref"
       },
       {
@@ -96239,6 +97409,80 @@
         "fetched_from": "crossref"
       },
       {
+        "id": "doi:10.1111/jgs.70862",
+        "doi": "10.1111/jgs.70862",
+        "url": "https://doi.org/10.1111/jgs.70862",
+        "title": "Mapping the Cognitive Work of Geriatrics: A Framework for Integrating Artificial Intelligence Into Geriatrics Practice",
+        "authors": [
+          "Rebecca T. Brown",
+          "Lisa M. Walke",
+          "George Demiris",
+          "Jason Karlawish",
+          "Kristin Harkins",
+          "Kenneth Covinsky"
+        ],
+        "abstract": "",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-11-23",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-24",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08731-w",
+        "doi": "10.1186/s12877-026-08731-w",
+        "url": "https://doi.org/10.1186/s12877-026-08731-w",
+        "title": "Perspectives on the adoption and potential home use of wearable devices among older adults with ischemic stroke: an exploratory qualitative study",
+        "authors": [
+          "Nana Chen",
+          "Ranran Song",
+          "Guoxin Shi",
+          "Yulong Wang",
+          "Tingting Huang",
+          "Ying Peng",
+          "Muwei Zhu",
+          "Xianping Tang"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-23",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-24",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08654-6",
+        "doi": "10.1186/s12877-026-08654-6",
+        "url": "https://doi.org/10.1186/s12877-026-08654-6",
+        "title": "The use of acute deterioration tools in care homes to identify and manage resident deterioration: an interview study with care home staff",
+        "authors": [
+          "Sevim Yasemin Hodge",
+          "Philippa A. Logan",
+          "Adam Lee Gordon"
+        ],
+        "abstract": "Abstract                                        Background                     Care home residents often have multiple health conditions, increasing their risk of acute deterioration and need for urgent medical attention compared with similarly aged people living at home. Tools such as RESTORE2, NEWS2, Significant 7 and, STOP​&amp; WATCH have been introduced to standardise identification and management of acute deterioration in care homes. However, little is known about how these tools are used in practic​e.                                                           Objectives                     To explore how staff in English care homes use acute deterioration tools ​such as NEWS2, RESTORE2 and, STOP &amp; WATCH to identify, assess and manage acute deterioration in older residents.                                                           Design                     Qualitative study using semi-structured interviews analysed through reflexive thematic analysis.                                                           Setting and participants                     Twenty staff members from 11 English care homes (nursing, residential, and dual-registered) participated. Homes varied in size, dementia registration, and proprietorship. Participants included managers, registered nurses, senior care assistants and care assistants, predominantly female, with between one and 13 years’ experience.                                                           Methods                     Semi-structured interviews were conducted in person and online between May and November 2022. Topic guides were informed by prior scoping review findings, stakeholder engagement and national survey data. Interviews were transcribed verbatim and analysed inductively following Braun and Clarke’s six-step reflexive thematic analysis.                                                           Results                     Use of acute deterioration tools varied widely. Many staff relied primarily on intuitive, holistic assessments based on “knowing the resident,” with tools used secondarily to organise assessments, confirm suspicions or legitimise concerns when escalating to external services. NEWS2 was commonly used, though often inconsistently or in modified form and was sometimes perceived to misrepresent resident status, causing false reassurance or unnecessary escalation. RESTORE2 was viewed as more person-centred but less readily accepted by external healthcare professionals. STOP &amp; WATCH was used by one participant but was inconsistently used by staff in the care home. Staff described a ‘positive triad’ that guided acute deterioration decision-making - recognising a change, clinical suspicion and abnormal vital signs. Lack​of training, uncertainty about accountability and fear of litigation contributed to concerns particularly among non-registered staff when using acute deterioration tools.                                                           Conclusions                     Acute deterioration tools in care homes function more as communication aids than primary detection mechanisms. Holistic, relational knowledge based on a synthesis of longitudinal observations remains central to recognising deterioration. Future research and practice development should incorporate care home staff's expertise and, support shared decision-making across health and social care, potentially through co-designed models that embed the positive triad to better guide escalation in care home settings.                                                           Clinical trial number                     Not applicable.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-23",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-24",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1093/aje/kwag301",
         "doi": "10.1093/aje/kwag301",
         "url": "https://doi.org/10.1093/aje/kwag301",
@@ -96312,80 +97556,6 @@
           "healthReform"
         ],
         "firstSeen": "2026-11-23",
-        "fetched_from": "crossref"
-      },
-      {
-        "id": "doi:10.1111/jgs.70862",
-        "doi": "10.1111/jgs.70862",
-        "url": "https://doi.org/10.1111/jgs.70862",
-        "title": "Mapping the Cognitive Work of Geriatrics: A Framework for Integrating Artificial Intelligence Into Geriatrics Practice",
-        "authors": [
-          "Rebecca T. Brown",
-          "Lisa M. Walke",
-          "George Demiris",
-          "Jason Karlawish",
-          "Kristin Harkins",
-          "Kenneth Covinsky"
-        ],
-        "abstract": "",
-        "source": "Journal of the American Geriatrics Society",
-        "issn": "0002-8614",
-        "date": "2026-11-23",
-        "subjects": [],
-        "domains": [
-          "elderCare",
-          "agingHealth"
-        ],
-        "firstSeen": "2026-11-24",
-        "fetched_from": "crossref"
-      },
-      {
-        "id": "doi:10.1186/s12877-026-08731-w",
-        "doi": "10.1186/s12877-026-08731-w",
-        "url": "https://doi.org/10.1186/s12877-026-08731-w",
-        "title": "Perspectives on the adoption and potential home use of wearable devices among older adults with ischemic stroke: an exploratory qualitative study",
-        "authors": [
-          "Nana Chen",
-          "Ranran Song",
-          "Guoxin Shi",
-          "Yulong Wang",
-          "Tingting Huang",
-          "Ying Peng",
-          "Muwei Zhu",
-          "Xianping Tang"
-        ],
-        "abstract": "",
-        "source": "BMC Geriatrics",
-        "issn": "1471-2318",
-        "date": "2026-11-23",
-        "subjects": [],
-        "domains": [
-          "elderCare",
-          "agingHealth"
-        ],
-        "firstSeen": "2026-11-24",
-        "fetched_from": "crossref"
-      },
-      {
-        "id": "doi:10.1186/s12877-026-08654-6",
-        "doi": "10.1186/s12877-026-08654-6",
-        "url": "https://doi.org/10.1186/s12877-026-08654-6",
-        "title": "The use of acute deterioration tools in care homes to identify and manage resident deterioration: an interview study with care home staff",
-        "authors": [
-          "Sevim Yasemin Hodge",
-          "Philippa A. Logan",
-          "Adam Lee Gordon"
-        ],
-        "abstract": "Abstract                                        Background                     Care home residents often have multiple health conditions, increasing their risk of acute deterioration and need for urgent medical attention compared with similarly aged people living at home. Tools such as RESTORE2, NEWS2, Significant 7 and, STOP​&amp; WATCH have been introduced to standardise identification and management of acute deterioration in care homes. However, little is known about how these tools are used in practic​e.                                                           Objectives                     To explore how staff in English care homes use acute deterioration tools ​such as NEWS2, RESTORE2 and, STOP &amp; WATCH to identify, assess and manage acute deterioration in older residents.                                                           Design                     Qualitative study using semi-structured interviews analysed through reflexive thematic analysis.                                                           Setting and participants                     Twenty staff members from 11 English care homes (nursing, residential, and dual-registered) participated. Homes varied in size, dementia registration, and proprietorship. Participants included managers, registered nurses, senior care assistants and care assistants, predominantly female, with between one and 13 years’ experience.                                                           Methods                     Semi-structured interviews were conducted in person and online between May and November 2022. Topic guides were informed by prior scoping review findings, stakeholder engagement and national survey data. Interviews were transcribed verbatim and analysed inductively following Braun and Clarke’s six-step reflexive thematic analysis.                                                           Results                     Use of acute deterioration tools varied widely. Many staff relied primarily on intuitive, holistic assessments based on “knowing the resident,” with tools used secondarily to organise assessments, confirm suspicions or legitimise concerns when escalating to external services. NEWS2 was commonly used, though often inconsistently or in modified form and was sometimes perceived to misrepresent resident status, causing false reassurance or unnecessary escalation. RESTORE2 was viewed as more person-centred but less readily accepted by external healthcare professionals. STOP &amp; WATCH was used by one participant but was inconsistently used by staff in the care home. Staff described a ‘positive triad’ that guided acute deterioration decision-making - recognising a change, clinical suspicion and abnormal vital signs. Lack​of training, uncertainty about accountability and fear of litigation contributed to concerns particularly among non-registered staff when using acute deterioration tools.                                                           Conclusions                     Acute deterioration tools in care homes function more as communication aids than primary detection mechanisms. Holistic, relational knowledge based on a synthesis of longitudinal observations remains central to recognising deterioration. Future research and practice development should incorporate care home staff's expertise and, support shared decision-making across health and social care, potentially through co-designed models that embed the positive triad to better guide escalation in care home settings.                                                           Clinical trial number                     Not applicable.",
-        "source": "BMC Geriatrics",
-        "issn": "1471-2318",
-        "date": "2026-11-23",
-        "subjects": [],
-        "domains": [
-          "elderCare",
-          "agingHealth"
-        ],
-        "firstSeen": "2026-11-24",
         "fetched_from": "crossref"
       },
       {
@@ -136383,6 +137553,73 @@
     ],
     "socialWork": [
       {
+        "id": "doi:10.1177/14680173261509876",
+        "doi": "10.1177/14680173261509876",
+        "url": "https://doi.org/10.1177/14680173261509876",
+        "title": "Understanding the Profile of Social Work Supervision in Australia: Findings from a National Study of Supervisors and Supervisees",
+        "authors": [
+          "Tracey Harris",
+          "Kieran O’Donoghue"
+        ],
+        "abstract": "Summary                     Social work supervision enhances critical reflection, ethical decision-making and professional development. The international literature offers insight into difference aspects of supervisory practices, however, a significant gap remains in empirical evidence specific to the Australian context. This article presents key findings from a national survey of 468 Australian social workers, examining supervisory practices, processes and the capabilities required for effectiveness. Data were collected on supervisory roles, training, effectiveness and experiences of both social work supervisors and supervisees.                                                           Findings                     The findings show that most respondents identified as female and reported being somewhat prepared for their supervisory roles. A substantial proportion of participants received supervision from their line managers, highlighting concerns about the conflation between managerial and professional supervision. Respondents strongly emphasized the need for consistent approaches to evaluating supervision effectiveness and integrating capability frameworks both into practice and education settings.                                                           Application                     The findings have important implications for the development of best practice guidelines, supervisory training programmes and education curricula. This study identifies gaps in preparedness and structural challenges within current supervisory arrangements. This study highlights the importance of managerial oversight in addition to other types of supervision and reinforces the role of supervisor capability as a core pillar of effective supervisory practice. In conclusion, this research contributes to a growing body of empirical research on social work supervision in Australia and helps shape how supervision effectiveness is conceptualized in all social work contexts, ultimately strengthening outcomes for social workers and the environment in which services are provided.",
+        "source": "Journal of Social Work",
+        "issn": "1468-0173",
+        "date": "2026-11-24",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-11-25",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/14680173261509879",
+        "doi": "10.1177/14680173261509879",
+        "url": "https://doi.org/10.1177/14680173261509879",
+        "title": "An Exploratory Study of Parent Advocacy Models in Child Protection Practice in Wales, UK",
+        "authors": [
+          "Lilly Evans",
+          "Harriet Lloyd",
+          "Julian Hunt",
+          "Kristina Edman",
+          "Emilia Preter",
+          "Fiona Long",
+          "Samantha Fitz-Symonds",
+          "Vicky Hansly",
+          "Clive Diaz"
+        ],
+        "abstract": "Summary                                            Research in the UK has highlighted ways in which the current child protection system can be disempowering and adversarial for parents. This inhibits meaningful engagement between parents and professionals. Parent advocacy has shown potential to improve these issues; it supports parents to be more actively involved in decision-making, enables them to express their views, and to work more effectively with social workers. This paper presents findings from a qualitative study involving interviews and focus groups conducted across three parent advocacy services in Wales. The study included professionals (                       n                       = 46) and parents (                       n                       = 12), with a total sample of                       N                       = 58 participants. We examined the roles of both peer parent and professional advocates. Peer parent advocates are advocates with lived experience of social work involvement, while professional parent advocates are not required to have lived experience (although they may have) but typically have more formal training and qualifications.                                                                                Findings                     Participants described both models as supporting parents by bridging the gap between parents and professionals, providing emotional support, promoting the voices of parents, and breaking down complex information. The findings highlighted both shared and distinct strengths across the two models.                                                           Applications                     The findings suggest that peer and professional parent advocacy can provide different but complementary forms of support which may respond to different parental needs and preferences during child protection processes.",
+        "source": "Journal of Social Work",
+        "issn": "1468-0173",
+        "date": "2026-11-24",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-11-25",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/bjsw/bcag294",
+        "doi": "10.1093/bjsw/bcag294",
+        "url": "https://doi.org/10.1093/bjsw/bcag294",
+        "title": "Between Roots and Branches: Complexities in End-of-Life Planning for Older Bulgarian and Zimbabwean Immigrants Living in Australia",
+        "authors": [
+          "Clement Chihota",
+          "Rumyana Kudeva"
+        ],
+        "abstract": "Abstract                   End-of-life planning among immigrants entails complex emotional, cultural, and practical negotiations, particularly when deciding on a final resting place between the country of origin and the country of settlement. For many migrants, the sense of full belonging—or ‘home’—that once clearly signified the birthplace has shifted through relationships, memories, and changing circumstances. As a result, traditional expectations, such as burial in one’s homeland, are increasingly reinterpreted in light of evolving family structures, experiences, and intergenerational priorities. This study examines how first-generation Zimbabwean and Bulgarian immigrants in Australia navigate these tensions. Drawing on qualitative interviews, it explores how participants reconcile enduring emotional ties to their homelands with the lived realities of life in Australia. Although many report ongoing feelings of partial acceptance within Australian society, a significant number prefer to be buried or memorialized in Australia. This choice reflects practical considerations related to their children’s lives and acknowledges their family’s long-term future in the country. By foregrounding the interplay between tradition, belonging, and intergenerational responsibility in end-of-life decision-making, this research offers new insights into evolving meanings of home, identity, and legacy in migrant contexts. It illuminates the lived complexities of planning for death across borders, generations, and cultures.",
+        "source": "The British Journal of Social Work",
+        "issn": "0045-3102",
+        "date": "2026-11-24",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-11-25",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1093/sw/swag049",
         "doi": "10.1093/sw/swag049",
         "url": "https://doi.org/10.1093/sw/swag049",
@@ -149256,10 +150493,10 @@
   },
   "totals": {
     "socialSecurity": 1626,
-    "elderCare": 1092,
-    "healthReform": 1603,
-    "agingHealth": 1568,
-    "socialWork": 563
+    "elderCare": 1099,
+    "healthReform": 1627,
+    "agingHealth": 1578,
+    "socialWork": 566
   },
   "feeds_ok": 41
 }
