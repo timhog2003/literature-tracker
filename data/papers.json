@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-25",
-  "fetched": "2026-11-25T10:02:25+00:00",
+  "date": "2026-11-26",
+  "fetched": "2026-11-26T09:45:37+00:00",
   "domains": {
     "socialSecurity": [
       {
@@ -25515,6 +25515,31 @@
           "agingHealth"
         ],
         "firstSeen": "2026-11-25",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/gerona/glag249",
+        "doi": "10.1093/gerona/glag249",
+        "url": "https://doi.org/10.1093/gerona/glag249",
+        "title": "The effects of graded levels of calorie restriction XXIII: impact of short-term calorie restriction and protein restriction on energy expenditure and fuel oxidation",
+        "authors": [
+          "Zhonghui Zhang",
+          "Sharon E Mitchell",
+          "Xiaomeng Wu",
+          "Rachel Sinclair",
+          "Sumei Hu",
+          "John R Speakman"
+        ],
+        "abstract": "Abstract                   Calorie restriction (CR) and protein restriction (PR) are dietary interventions known for their health-promoting effects and potential to extend lifespan. This study investigated the effects of short-term CR and PR on energy expenditure and fuel utilization in male C57BL/6 mice fed ad libitum (AL) or varying levels of CR (10, 20, 30 and 40%) or PR (20, 30 and 40%), with an aged AL group (the old AL group) included. CR reduced body mass (BM), primarily through loss of fat-free mass (FFM), with significant reductions in daily energy expenditure (DEE) and resting energy expenditure (REE). Daily fat oxidation did not differ between 12AL (12-h ad libitum) group and 10, 20, or 30CR groups, but was significantly reduced in 40CR group. The 24-h respiratory exchange ratio (RER) closely approximated diet-predicted food quotient (FQ), indicating that animals largely oxidized the nutrients consumed to meet metabolic demands. PR did not alter daily fat oxidation but reduced DEE and REE relative to the 12AL group. Both CR and PR produced similar 24-hour patterns of fuel use, including a temporary rise in RER, followed by a later shift toward greater fat use. Both interventions employed a fixed daily ration consumed primarily after lights out, resulting in a consistent fasting period. In contrast, the old AL group had a higher 24-h RER and reduced fat oxidation compared with the 12AL group. These findings indicate that the observed metabolic cycling is not specific to CR, but is closely associated with feeding–fasting structure, highlighting the importance of considering daily fasting and time-restricted feeding when interpreting metabolic responses to CR.",
+        "source": "The Journals of Gerontology, Series A: Biological Sciences and Medical Sciences",
+        "issn": "1079-5006",
+        "date": "2026-11-25",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "elderCare"
+        ],
+        "firstSeen": "2026-11-26",
         "fetched_from": "crossref"
       },
       {
@@ -53099,6 +53124,795 @@
           "healthReform"
         ],
         "firstSeen": "2026-11-25",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmoa2608510",
+        "doi": "10.1056/nejmoa2608510",
+        "url": "https://doi.org/10.1056/nejmoa2608510",
+        "title": "Eplontersen for Transthyretin Amyloid Cardiomyopathy",
+        "authors": [
+          "Marianna Fontana",
+          "Ahmad Masri",
+          "Scott D. Solomon",
+          "Francesco Cappelli",
+          "Margot K. Davis",
+          "Pablo García-Pavía",
+          "Julian D. Gillmore",
+          "Mazen Hanna",
+          "Laura Obici",
+          "Brett W. Sperry",
+          "Nobuhiro Tahara",
+          "Márcia Waddington-Cruz",
+          "Olga Azevedo",
+          "Thibaud Damy",
+          "Edileide de Barros Correia",
+          "Michel G. Khouri",
+          "Andriana P. Nikolova",
+          "Stefan Störk",
+          "Tom Conrad",
+          "Qingqing Yang",
+          "Brian L. Claggett",
+          "Jersey Chen",
+          "Gary T. Brice",
+          "Sotirios Tsimikas",
+          "Mathew S. Maurer"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-11-26",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-26",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmoa2608012",
+        "doi": "10.1056/nejmoa2608012",
+        "url": "https://doi.org/10.1056/nejmoa2608012",
+        "title": "Catheter-Directed Thrombolysis in Intermediate-High–Risk Pulmonary Embolism",
+        "authors": [
+          "Josef Kroupa",
+          "Martin Radvan",
+          "Jan Mrozek",
+          "Martin Sluka",
+          "Stepan Jirous",
+          "Ota Hlinomaz",
+          "Milan Pliva",
+          "Jan Pudil",
+          "Hana Voberkova",
+          "Karolina Bartoskova",
+          "Martin Poloczek",
+          "Martin Kamenik",
+          "Michal Brabec",
+          "Eva Lichnerova",
+          "Martin Hutyra",
+          "Ivo Bernat",
+          "Martin Novak",
+          "Johana Horakova",
+          "Lucie Jelinkova",
+          "Tomas Knize",
+          "Petr Tousek",
+          "Cyril Stechovsky",
+          "Filip Varhanik",
+          "Zdenek Coufal",
+          "Jiri Jarkovsky",
+          "Viktor Kocka"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-11-26",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-26",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmc2608489",
+        "doi": "10.1056/nejmc2608489",
+        "url": "https://doi.org/10.1056/nejmc2608489",
+        "title": "Dual-Target Adaptive Deep-Brain Stimulation for Tourette Syndrome",
+        "authors": [
+          "Michael S. Okun",
+          "Julieth Gómez Durán",
+          "Grace T. Lowor",
+          "Matthew P. Hook",
+          "Gregory M. Pontone",
+          "Dawn Bowers",
+          "Franchesca Arias",
+          "William Allen",
+          "Jackson Cagle",
+          "Emily C. Rafferty",
+          "Irina Korytov",
+          "Irene Malaty",
+          "Kelly D. Foote",
+          "Christopher R. Butson",
+          "Aysegul Gunduz"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-11-26",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-26",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmc2609919",
+        "doi": "10.1056/nejmc2609919",
+        "url": "https://doi.org/10.1056/nejmc2609919",
+        "title": "Monoclonal Antibodies in Heparin-Induced Thrombocytopenia",
+        "authors": [],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-11-26",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-26",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmc2610406",
+        "doi": "10.1056/nejmc2610406",
+        "url": "https://doi.org/10.1056/nejmc2610406",
+        "title": "Blockade of CTLA-4 and PD-1 after LAG-3 and PD-1 Inhibition in a Patient with Melanoma and a Liver Transplant",
+        "authors": [
+          "Jiaxing J. Qin",
+          "Avik Majumdar",
+          "Lavinia Spain"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-11-26",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-26",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmc2611455",
+        "doi": "10.1056/nejmc2611455",
+        "url": "https://doi.org/10.1056/nejmc2611455",
+        "title": "Health Care–Associated Infections in U.S. Hospitals, 2023 versus 2015",
+        "authors": [],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-11-26",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-26",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmc2612340",
+        "doi": "10.1056/nejmc2612340",
+        "url": "https://doi.org/10.1056/nejmc2612340",
+        "title": "Placement of a Catheter for Acute Peritoneal Dialysis",
+        "authors": [],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-11-26",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-26",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmc2612930",
+        "doi": "10.1056/nejmc2612930",
+        "url": "https://doi.org/10.1056/nejmc2612930",
+        "title": "Mucoactive Agents for Acute Respiratory Failure",
+        "authors": [],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-11-26",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-26",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmcpc2603177",
+        "doi": "10.1056/nejmcpc2603177",
+        "url": "https://doi.org/10.1056/nejmcpc2603177",
+        "title": "Case 34-2026: A 78-Year-Old Man with Periorbital Edema and Conjunctival Injection",
+        "authors": [
+          "K. Matthew McKay",
+          "Manuel Patino",
+          "John H. Yost",
+          "Andrew M. Brunner",
+          "Vladislav V. Makarenko"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-11-26",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-26",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejme2612033",
+        "doi": "10.1056/nejme2612033",
+        "url": "https://doi.org/10.1056/nejme2612033",
+        "title": "Slipping the Gordian Knot — Net Benefit in Pulmonary Embolism Fibrinolysis",
+        "authors": [
+          "Gregory Piazza"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-11-26",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-26",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmicm2609779",
+        "doi": "10.1056/nejmicm2609779",
+        "url": "https://doi.org/10.1056/nejmicm2609779",
+        "title": "Acute Inflammatory Edema",
+        "authors": [
+          "Preethy Abraham",
+          "Dustin L. Taylor"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-11-26",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-26",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmms2606881",
+        "doi": "10.1056/nejmms2606881",
+        "url": "https://doi.org/10.1056/nejmms2606881",
+        "title": "Climate Change and Homelessness — Confronting the Compounding Crises",
+        "authors": [
+          "Katherine A. Koh",
+          "Emma O’Neil",
+          "Lauren Jensen",
+          "Meghan Arsenault",
+          "Renee N. Salas"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-11-26",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-26",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmoa2607848",
+        "doi": "10.1056/nejmoa2607848",
+        "url": "https://doi.org/10.1056/nejmoa2607848",
+        "title": "Blood-Pressure–Lowering Treatment across the Cardiovascular Risk Spectrum",
+        "authors": [
+          "Zeinab Bidel",
+          "Milad Nazarzadeh",
+          "Borislava Mihaylova",
+          "Qianqian Yang",
+          "Johan Sundström",
+          "Nathalie Conrad",
+          "Dexter Canoy",
+          "Guyu Zeng",
+          "David M. Kent",
+          "William C. Cushman",
+          "John Chalmers",
+          "Koon K. Teo",
+          "Carl J. Pepine",
+          "Barry R. Davis",
+          "Mark Woodward",
+          "Kazem Rahimi"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-11-26",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-26",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmpv2518710",
+        "doi": "10.1056/nejmpv2518710",
+        "url": "https://doi.org/10.1056/nejmpv2518710",
+        "title": "The HHS Review on Pediatric Gender Dysphoria — A Call for Course Correction",
+        "authors": [
+          "Kathleen McDeavitt"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-11-26",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-26",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmpv2605959",
+        "doi": "10.1056/nejmpv2605959",
+        "url": "https://doi.org/10.1056/nejmpv2605959",
+        "title": "When Politics Displaces Science — How the HHS Report on Transgender Youth Care Harms Patients",
+        "authors": [
+          "Daphna Stroumsa",
+          "Kellan Baker"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-11-26",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-26",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmra2605238",
+        "doi": "10.1056/nejmra2605238",
+        "url": "https://doi.org/10.1056/nejmra2605238",
+        "title": "Giant-Cell Arteritis",
+        "authors": [
+          "Frank Buttgereit",
+          "Cristina Ponte"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-11-26",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-26",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.25318",
+        "doi": "10.1001/jama.2026.25318",
+        "url": "https://doi.org/10.1001/jama.2026.25318",
+        "title": "Telehealth to Support Coordinated Spontaneous Awakening and Breathing Trials in Invasive Ventilation",
+        "authors": [],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-25",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-26",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.24548",
+        "doi": "10.1001/jama.2026.24548",
+        "url": "https://doi.org/10.1001/jama.2026.24548",
+        "title": "Toward Zero Harm for Patients Receiving Mechanical Ventilation—What Is Expected vs What Is Optional",
+        "authors": [
+          "Peter J. Pronovost"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-25",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-26",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.25197",
+        "doi": "10.1001/jama.2026.25197",
+        "url": "https://doi.org/10.1001/jama.2026.25197",
+        "title": "Telehealth to Support Coordinated Spontaneous Awakening and Breathing Trials in Invasive Ventilation",
+        "authors": [
+          "Colin K. Grissom",
+          "Richard Holubkov",
+          "Ithan D. Peltan",
+          "Jason R. Jacobs",
+          "Lori Carpenter",
+          "Timothy R. Fowles",
+          "Christopher Jones",
+          "Andrew J. Knighton",
+          "Lindsay Leither",
+          "DayValena Lisonbee",
+          "Rachel R. Barlow",
+          "Carrie Winberg",
+          "Doug Wolfe",
+          "Rajendu Srivastava"
+        ],
+        "abstract": "Importance                     Coordinated spontaneous awakening trials and spontaneous breathing trials (C-SAT/SBT) improve outcomes for patients receiving invasive mechanical ventilation, but implementation remains inadequate.                                                           Objective                     To evaluate whether a telehealth intervention added to a standard audit and feedback implementation of C-SAT/SBT increases adherence and improves outcomes compared with standard audit and feedback implementation alone (control).                                                           Design, Setting, and Participants                     A cluster randomized type 2 hybrid effectiveness-implementation clinical trial was conducted in 12 Intermountain Health hospitals in Utah and Idaho. Patients aged 16 years or older who were intubated and mechanically ventilated in the intensive care unit were enrolled from December 1, 2022, until July 31, 2025, with last follow-up on January 23, 2026.                                                           Intervention                     Telehealth hospitals received real-time oversight from telecritical care nurses and respiratory therapists for adherence to C-SAT/SBT and a standard audit and feedback implementation. Control hospitals received only standard audit and feedback.                                                           Main Outcomes and Measures                     Co–primary outcome measures were adherence to C-SAT/SBT and ventilator-free days to day 28. C-SAT/SBT was defined as any day that the SAT and SBT were separately adherent, and the SAT followed the SBT within 2 hours or both occurred before noon, or the patient was extubated. Change in adherence from baseline was compared between groups using a mixed-effects logistic model with prespecified 1-sided significance testing. Change in ventilator-free days was compared using a mixed-effects proportional odds model.                                                           Results                                            There were 4544 patients at telehealth hospitals, 6438 patients at control hospitals, and 1789 preimplementation common baseline patients (median [IQR] age, 62 [47-71] years; 4826 [37.8%] female). The baseline C-SAT/SBT adherence rate of 43.9% increased to 90.3% at telehealth intervention hospitals and to 77.6% at control hospitals (odds ratio for change in telehealth vs change in control, 2.87; 1-sided 95% lower confidence limit, 2.44;                       P                        &amp;amp;lt; .001; absolute difference, 11.4%; 95% CI, 8.8%-14.3%). Median (IQR) ventilator-free days from a common baseline of 24 (0-26) increased to 25 (10-27) at telehealth intervention hospitals and 25 (1-27) at control hospitals (odds ratio for change in telehealth vs change in control, 1.21; 95% CI, 1.01-1.45,                       P                        = .04; absolute difference, 1.02 days; 95% CI, 0.05-1.96 days).                                                                                Conclusions and Relevance                     Among adults intubated and mechanically ventilated in the intensive care unit, adding real-time telehealth support for C-SAT/SBT improved adherence and increased ventilator-free days more than a standard audit and feedback implementation alone.                                                           Trial Registration                                            ClinicalTrials.gov Identifier:                       NCT05141396",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-25",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-26",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.21855",
+        "doi": "10.1001/jama.2026.21855",
+        "url": "https://doi.org/10.1001/jama.2026.21855",
+        "title": "Dapagliflozin and Acute Kidney Injury After Cardiac Surgery",
+        "authors": [
+          "Matthieu Legrand"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-25",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-26",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.21858",
+        "doi": "10.1001/jama.2026.21858",
+        "url": "https://doi.org/10.1001/jama.2026.21858",
+        "title": "Dapagliflozin and Acute Kidney Injury After Cardiac Surgery",
+        "authors": [
+          "Patrick Hofmann",
+          "Aranya Bagchi",
+          "David E. Leaf"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-25",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-26",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.22228",
+        "doi": "10.1001/jama.2026.22228",
+        "url": "https://doi.org/10.1001/jama.2026.22228",
+        "title": "Review of Postural Orthostatic Tachycardia Syndrome",
+        "authors": [
+          "Twiza Chard",
+          "Jinyu Lin",
+          "Hansong Sheng"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-25",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-26",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.22864",
+        "doi": "10.1001/jama.2026.22864",
+        "url": "https://doi.org/10.1001/jama.2026.22864",
+        "title": "Teen Social Media Use and Potential Impact of Platform-Based Safety Restrictions",
+        "authors": [
+          "Yihong Zhao",
+          "Lauren Hale",
+          "Dimitri A. Christakis"
+        ],
+        "abstract": "This study uses passively logged app-use data to examine adolescent usage of Meta apps.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-25",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-26",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.21853",
+        "doi": "10.1001/jama.2026.21853",
+        "url": "https://doi.org/10.1001/jama.2026.21853",
+        "title": "Dapagliflozin and Acute Kidney Injury After Cardiac Surgery—Reply",
+        "authors": [
+          "Maartina J. P. Oosterom-Eijmael",
+          "Abraham H. Hulst",
+          "Jeroen Hermanides"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-25",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-26",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.22231",
+        "doi": "10.1001/jama.2026.22231",
+        "url": "https://doi.org/10.1001/jama.2026.22231",
+        "title": "Review of Postural Orthostatic Tachycardia Syndrome—Reply",
+        "authors": [
+          "Tae Hwan Chung",
+          "Satish R. Raj"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-25",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-26",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.22999",
+        "doi": "10.1001/jama.2026.22999",
+        "url": "https://doi.org/10.1001/jama.2026.22999",
+        "title": "What Is Idiopathic Normal Pressure Hydrocephalus?",
+        "authors": [
+          "Kristin L. Walter"
+        ],
+        "abstract": "This JAMA Patient Page describes how common idiopathic normal pressure hydrocephalus is, the risk factors, and how it is diagnosed and treated.",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-25",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-26",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.17570",
+        "doi": "10.1001/jama.2026.17570",
+        "url": "https://doi.org/10.1001/jama.2026.17570",
+        "title": "Complaint",
+        "authors": [
+          "Harold W. Van Lonkhuyzen"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-25",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-26",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2026.17573",
+        "doi": "10.1001/jama.2026.17573",
+        "url": "https://doi.org/10.1001/jama.2026.17573",
+        "title": "Two Complaints: The Patient’s and the Physician’s",
+        "authors": [
+          "Rafael Campo"
+        ],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-25",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-26",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1001/jama.2025.16145",
+        "doi": "10.1001/jama.2025.16145",
+        "url": "https://doi.org/10.1001/jama.2025.16145",
+        "title": "JAMA Editors' Summary Podcast",
+        "authors": [],
+        "abstract": "",
+        "source": "JAMA",
+        "issn": "0098-7484",
+        "date": "2026-11-25",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-26",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejmoa2608669",
+        "doi": "10.1056/nejmoa2608669",
+        "url": "https://doi.org/10.1056/nejmoa2608669",
+        "title": "Giredestrant in the Treatment of ER-Positive, HER2-Negative Early Breast Cancer",
+        "authors": [
+          "Charles E. Geyer",
+          "Aditya Bardia",
+          "Sara A. Hurvitz",
+          "Miguel Martín",
+          "Kyung Hae Jung",
+          "Mothaffar F. Rimawi",
+          "Shigehira Saji",
+          "Gustavo Werutsky",
+          "Nadia Harbeck",
+          "Sherene Loi",
+          "Akiko Ogiya",
+          "Manuel Ruiz-Borrego",
+          "Ahmet Alacacıoğlu",
+          "Jiong Wu",
+          "Roberto Iván Romero Díaz",
+          "Flora Zagouri",
+          "Samanta Sarti",
+          "Peter A. Fasching",
+          "Mridula A. George",
+          "Chenglin Ye",
+          "Mario Liste-Hermoso",
+          "Nimali P. Withana",
+          "Mona D. Shah",
+          "Tanja Badovinac Crnjevic",
+          "Pablo Diego Pérez-Moreno",
+          "Peter Schmid"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-11-25",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-26",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1056/nejme2613377",
+        "doi": "10.1056/nejme2613377",
+        "url": "https://doi.org/10.1056/nejme2613377",
+        "title": "Selective Estrogen Receptor Degraders for Early-Stage ER-Positive Breast Cancer — Dawn of a New Era?",
+        "authors": [
+          "Matthew P. Goetz"
+        ],
+        "abstract": "",
+        "source": "New England Journal of Medicine",
+        "issn": "0028-4793",
+        "date": "2026-11-25",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-26",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag300",
+        "doi": "10.1093/aje/kwag300",
+        "url": "https://doi.org/10.1093/aje/kwag300",
+        "title": "Longitudinal utility of the Berlin questionnaire to assess obstructive sleep apnea risk: a sequence analysis approach",
+        "authors": [
+          "Alexandra K Mueller",
+          "David G Goldfarb",
+          "Rachel Zeig-Owens",
+          "Kristina V Dang",
+          "David J Prezant",
+          "David W Appel"
+        ],
+        "abstract": "",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-11-25",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-26",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag302",
+        "doi": "10.1093/aje/kwag302",
+        "url": "https://doi.org/10.1093/aje/kwag302",
+        "title": "Role of simulation-based analyses in self-controlled vaccine effectiveness studies",
+        "authors": [
+          "Rafia Bosan",
+          "Tu P H Trang",
+          "Caroline Korves",
+          "Yinong Young-Xu"
+        ],
+        "abstract": "",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-11-25",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-26",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag303",
+        "doi": "10.1093/aje/kwag303",
+        "url": "https://doi.org/10.1093/aje/kwag303",
+        "title": "COVID-19 pandemic and productivity among epidemiologists: results from the 2021 Society for Epidemiologic Research Diversity &amp; inclusion survey",
+        "authors": [
+          "Lindsay Fernández-Rhodes",
+          "Brooke S Staley",
+          "Nour Makarem",
+          "Hridya R Gardner",
+          "Luther-King O Fasehun",
+          "David S Fink",
+          "Cara L Frankenfeld"
+        ],
+        "abstract": "",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-11-25",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-26",
         "fetched_from": "crossref"
       },
       {
@@ -97142,6 +97956,105 @@
         "fetched_from": "crossref"
       },
       {
+        "id": "doi:10.1093/gerona/glag249",
+        "doi": "10.1093/gerona/glag249",
+        "url": "https://doi.org/10.1093/gerona/glag249",
+        "title": "The effects of graded levels of calorie restriction XXIII: impact of short-term calorie restriction and protein restriction on energy expenditure and fuel oxidation",
+        "authors": [
+          "Zhonghui Zhang",
+          "Sharon E Mitchell",
+          "Xiaomeng Wu",
+          "Rachel Sinclair",
+          "Sumei Hu",
+          "John R Speakman"
+        ],
+        "abstract": "Abstract                   Calorie restriction (CR) and protein restriction (PR) are dietary interventions known for their health-promoting effects and potential to extend lifespan. This study investigated the effects of short-term CR and PR on energy expenditure and fuel utilization in male C57BL/6 mice fed ad libitum (AL) or varying levels of CR (10, 20, 30 and 40%) or PR (20, 30 and 40%), with an aged AL group (the old AL group) included. CR reduced body mass (BM), primarily through loss of fat-free mass (FFM), with significant reductions in daily energy expenditure (DEE) and resting energy expenditure (REE). Daily fat oxidation did not differ between 12AL (12-h ad libitum) group and 10, 20, or 30CR groups, but was significantly reduced in 40CR group. The 24-h respiratory exchange ratio (RER) closely approximated diet-predicted food quotient (FQ), indicating that animals largely oxidized the nutrients consumed to meet metabolic demands. PR did not alter daily fat oxidation but reduced DEE and REE relative to the 12AL group. Both CR and PR produced similar 24-hour patterns of fuel use, including a temporary rise in RER, followed by a later shift toward greater fat use. Both interventions employed a fixed daily ration consumed primarily after lights out, resulting in a consistent fasting period. In contrast, the old AL group had a higher 24-h RER and reduced fat oxidation compared with the 12AL group. These findings indicate that the observed metabolic cycling is not specific to CR, but is closely associated with feeding–fasting structure, highlighting the importance of considering daily fasting and time-restricted feeding when interpreting metabolic responses to CR.",
+        "source": "The Journals of Gerontology, Series A: Biological Sciences and Medical Sciences",
+        "issn": "1079-5006",
+        "date": "2026-11-25",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "elderCare"
+        ],
+        "firstSeen": "2026-11-26",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag300",
+        "doi": "10.1093/aje/kwag300",
+        "url": "https://doi.org/10.1093/aje/kwag300",
+        "title": "Longitudinal utility of the Berlin questionnaire to assess obstructive sleep apnea risk: a sequence analysis approach",
+        "authors": [
+          "Alexandra K Mueller",
+          "David G Goldfarb",
+          "Rachel Zeig-Owens",
+          "Kristina V Dang",
+          "David J Prezant",
+          "David W Appel"
+        ],
+        "abstract": "",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-11-25",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-26",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag302",
+        "doi": "10.1093/aje/kwag302",
+        "url": "https://doi.org/10.1093/aje/kwag302",
+        "title": "Role of simulation-based analyses in self-controlled vaccine effectiveness studies",
+        "authors": [
+          "Rafia Bosan",
+          "Tu P H Trang",
+          "Caroline Korves",
+          "Yinong Young-Xu"
+        ],
+        "abstract": "",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-11-25",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-26",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/aje/kwag303",
+        "doi": "10.1093/aje/kwag303",
+        "url": "https://doi.org/10.1093/aje/kwag303",
+        "title": "COVID-19 pandemic and productivity among epidemiologists: results from the 2021 Society for Epidemiologic Research Diversity &amp; inclusion survey",
+        "authors": [
+          "Lindsay Fernández-Rhodes",
+          "Brooke S Staley",
+          "Nour Makarem",
+          "Hridya R Gardner",
+          "Luther-King O Fasehun",
+          "David S Fink",
+          "Cara L Frankenfeld"
+        ],
+        "abstract": "",
+        "source": "American Journal of Epidemiology",
+        "issn": "0002-9262",
+        "date": "2026-11-25",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-26",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1186/s12877-026-08674-2",
         "doi": "10.1186/s12877-026-08674-2",
         "url": "https://doi.org/10.1186/s12877-026-08674-2",
@@ -137553,6 +138466,28 @@
     ],
     "socialWork": [
       {
+        "id": "doi:10.1007/s10896-026-01210-1",
+        "doi": "10.1007/s10896-026-01210-1",
+        "url": "https://doi.org/10.1007/s10896-026-01210-1",
+        "title": "Interventions for Children Witnessing Domestic Violence: A Systematic Review",
+        "authors": [
+          "Eleonora Paolizzi",
+          "Marta Bettinelli",
+          "Aurora Cescon",
+          "Simona De Falco"
+        ],
+        "abstract": "Abstract                                        Purpose                     Children exposed to domestic violence, more specifically intimate partner violence (IPV), are at increased risk for adverse psychological and developmental outcomes. Evidence on effective child-focused interventions remains limited and methodologically heterogeneous. This review aimed to synthesize recent intervention studies targeting children exposed to domestic violence.                                                           Methods                     A systematic review was conducted, adhering to PRISMA guidelines, across PsycINFO, PubMed, Scopus, and Web of Science searching for studies published between 2010 and 2025 that evaluated interventions directed to children aged 0–13 exposed to IPV or domestic violence as witnesses. Sixteen publications representing 12 independent intervention evaluations or underlying study samples met the inclusion criteria. Of the 16 publications, six reported randomized controlled trials, nine reported quantitative nonrandomized studies, and one used a mixed-methods design. Methodological quality was assessed using the Mixed Methods Appraisal Tool.                                                           Results                     Interventions varied widely in format, duration, and theoretical framework, though most were trauma-informed and included components targeting emotional regulation, coping, and parent–child relationships. Most independent intervention evaluations reported improvements in at least one child outcome, particularly reductions in internalizing and trauma-related symptoms, although findings were inconsistent and several controlled studies found no intervention-specific effects. Several trials found no superiority of IPV-specific interventions over common-factor control approaches. However, studies presented several methodological limitations including high attrition, limited control of confounders, and partial consideration of contextual variables.                                                           Conclusions                     Interventions may support improvements in psychological functioning, but robust conclusions remain limited as more methodologically rigorous research that systematically examines individual, family, and service-level contextual factors is needed.",
+        "source": "Journal of Family Violence",
+        "issn": "0885-7482",
+        "date": "2026-11-26",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-11-26",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1177/14680173261509876",
         "doi": "10.1177/14680173261509876",
         "url": "https://doi.org/10.1177/14680173261509876",
@@ -150493,10 +151428,10 @@
   },
   "totals": {
     "socialSecurity": 1626,
-    "elderCare": 1099,
-    "healthReform": 1627,
-    "agingHealth": 1578,
-    "socialWork": 566
+    "elderCare": 1100,
+    "healthReform": 1661,
+    "agingHealth": 1582,
+    "socialWork": 567
   },
   "feeds_ok": 41
 }
