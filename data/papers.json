@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-26",
-  "fetched": "2026-11-26T09:45:37+00:00",
+  "date": "2026-11-27",
+  "fetched": "2026-11-27T09:51:18+00:00",
   "domains": {
     "socialSecurity": [
       {
@@ -25447,6 +25447,343 @@
     ],
     "elderCare": [
       {
+        "id": "doi:10.1186/s12877-026-08760-5",
+        "doi": "10.1186/s12877-026-08760-5",
+        "url": "https://doi.org/10.1186/s12877-026-08760-5",
+        "title": "Diabetes, DXA-defined osteoporosis, and in-hospital composite postoperative complications after geriatric hip fracture surgery: a single-center retrospective cohort study",
+        "authors": [
+          "Jiaxing Wang",
+          "Yuyang Jiang",
+          "Zhenghao Liang",
+          "Zhikai Li",
+          "Shengyu Deng",
+          "Lin Du",
+          "Mengzhen Min",
+          "Zhigang Zhong",
+          "Shangmin Chen"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-27",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-27",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08748-1",
+        "doi": "10.1186/s12877-026-08748-1",
+        "url": "https://doi.org/10.1186/s12877-026-08748-1",
+        "title": "Body mass index and cardiovascular and non-cardiovascular mortality in the oldest old with chronic kidney disease: cause-specific patterns underlying the obesity paradox",
+        "authors": [
+          "Changyuan Yang",
+          "Priya Vart",
+          "Beijie Zhang",
+          "Jiachuan Xiong",
+          "Weilong Xu",
+          "Guobin Su"
+        ],
+        "abstract": "Abstract                                        Background                     While the obesity paradox has been well documented in adults with chronic kidney disease (CKD), the oldest old (≥ 80 years) remain substantially underrepresented, despite their rapidly growing representation and distinct clinical profile within the CKD population.                                                           Methods                                            This retrospective cohort study utilized data from the National Health and Nutrition Examination Survey. CKD was epidemiologically defined as an estimated glomerular filtration rate &lt; 60 mL/min/1.73 m                       2                       and/or a urinary albumin-to-creatinine ratio ≥ 30 mg/g on a single measurement. Body mass index (BMI) was calculated as body weight in kilograms/ height in square meters. Associations of BMI with all-cause, cardiovascular (CV) and non-CV mortality were examined using survey-weighted cause-specific Cox proportional hazards models adjusted for potential confounders. Restricted cubic splines were used to assess non-linear associations and to identify the BMI value with the lowest estimated risk. Differences between CV and non-CV associations were tested using the Lunn–McNeil approach.                                                                                Results                     Among 1,186 participants, 742 deaths occurred during a median follow-up of 4.8 years, including 297 CV deaths. BMI showed a U-shaped association with CV mortality, with the lowest estimated risk at 26.7 kg/m² (95% CI 24.8–29.5), whereas it was inversely associated with non-CV mortality (hazard ratio [HR] per 1 kg/m² 0.96; 95% CI 0.94–0.99). BMI ≥ 35.0 kg/m² was associated with higher CV mortality, compared with overweight (HR 1.82; 95% CI 1.12–2.94) but not with normal weight (HR 1.68; 95% CI 0.96–2.93). Above the WHO thresholds of 25 and 30 kg/m², the associations of BMI with CV and non-CV mortality differed (both P for difference &lt; 0.05).                                                           Conclusions                     Among the oldest old with CKD, the association between BMI and mortality differed by cause of death. These findings underscore that mortality risk assessment in this population should consider cause-specific risks rather than all-cause mortality alone. These exploratory findings require confirmation before they can inform weight-management guidance.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-27",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-27",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08749-0",
+        "doi": "10.1186/s12877-026-08749-0",
+        "url": "https://doi.org/10.1186/s12877-026-08749-0",
+        "title": "Nationwide implementation of a multidimensional health promotion program for older adults: outcomes and associated factors across frailty levels",
+        "authors": [
+          "Hsin-Yi Li",
+          "Hui-Fen Mao",
+          "Ching-Yi Wu",
+          "Ling-Hui Chang"
+        ],
+        "abstract": "Abstract                                        Background                     With frailty prevalence among community-dwelling older adults estimated at 8–23% worldwide, scalable interventions are critical. While multidimensional interventions improve frailty-related outcomes, how outcomes and associated factors differ across frailty strata in real-world, large-scale contexts remains understudied. This study examined health-related outcomes across frailty levels and explored factors associated with frailty-status transitions following a nationwide multidimensional health promotion program.                                                           Methods                                            This secondary analysis used data from the Health Promotion Administration’s Healthy Aging Promotion Program database, derived from a nationwide one-group pretest–posttest study of community-dwelling older adults in Taiwan (                       n                        = 3,383). Participants received a 12-week community-based multidimensional intervention integrating physical activity, health education, and cognitive training. Outcomes included frailty (Study of Osteoporotic Fracture Checklist, SOF), disability risk (Kihon Checklist, KCL), and life satisfaction. Multivariate logistic regression analyses were conducted to identify baseline factors associated with frailty-status transitions.                                                                                Results                     The final analysis included 2,017 participants (mean age 74.32 ± 6.48 years; 74.6% female). Significant pre–post changes in SOF scores were found across all groups, with greater shifts in the prefrail and frail groups. Greater reductions in disability risk were also observed among participants with frailty and prefrailty. The participants with frailty demonstrated favorable changes in physical strength (effect size, d = 0.226), depressive mood (d = 0.468), and KCL total score (d = 0.402), while those with prefrailty showed positive changes in depressive mood (d = 0.328) and KCL total score (d = 0.282). Only minimal changes were observed in the robust group. Changes in life satisfaction differed by frailty-transition status, with participants whose frailty worsened showing less favorable changes than those whose frailty improved or maintained. Factors associated with frailty-status transition differed across frailty strata, including baseline IADL independence and nutrition in the robust group, self-rated health, baseline psychosocial and nutritional factors in prefrailty, and baseline physical strength and physical activity participation in frailty.                                                           Conclusions                     This nationwide multidimensional program was associated with favorable changes in frailty status and health-related outcomes, particularly among older adults with frailty and prefrailty. Intervention outcomes differed among individuals with robustness, prefrailty, and frailty.                                                           Trial registration                     Clinical trial number not applicable.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-27",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-27",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08766-z",
+        "doi": "10.1186/s12877-026-08766-z",
+        "url": "https://doi.org/10.1186/s12877-026-08766-z",
+        "title": "Quality of life and daily life balance in caregivers of people with Alzheimer’s disease: associations with sociodemographic characteristics and living arrangements",
+        "authors": [
+          "Berkan Torpil",
+          "Emine Merve Ekici",
+          "Yasin Tekeci"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-27",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-27",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08747-2",
+        "doi": "10.1186/s12877-026-08747-2",
+        "url": "https://doi.org/10.1186/s12877-026-08747-2",
+        "title": "Maintaining treatment gains after hospitalization: study protocol for the longitudinal observational SAFRAN study",
+        "authors": [
+          "Jessica Koschate-Storm",
+          "Alexander Bräuer",
+          "Juliane Ebel",
+          "Anna Höhn",
+          "Helge Schnack",
+          "Rebecca Diekmann",
+          "Max Ettinger",
+          "Axel Hamprecht",
+          "Andreas Hein",
+          "Falk Hoffmann",
+          "Thea Laurentius",
+          "Andreas Martens",
+          "Erja Portegijs",
+          "Simon Schäfer",
+          "Julia Schlotmann",
+          "Nynke Smidt",
+          "Nils Strodthoff",
+          "Gesine H. Seeber",
+          "Tania Zieschang",
+          "Kathrin Boerner"
+        ],
+        "abstract": "Abstract                                        Background                     Hospital stays can be critical turning points for older adults, often leading to deconditioning, loss of independence, and new medical risks. Furthermore, as hospital length of stay becomes shorter, the need for care is increasingly shifting to the home environment, with family caregivers playing a key role. At the same time, little is known about post-hospital care in the home environment, in particular about the relevant social and physical activities required to restore and maintain daily functioning. This represents an underutilized opportunity to support recovery, given the high risk of deterioration in the first month after discharge, and that physical inactivity and social isolation are key risk factors for adverse health outcomes. The SAFRAN study aims to identify trajectories of physical and social activity in older adults and their caregivers after hospitalization, and to explore their facilitating and hindering factors.                                                           Methods                     This prospective, longitudinal observational study aims to enrol 160 older adults (≥ 70 years with multimorbidity, or above 80 years) and their caregivers across four hospital units in Oldenburg. Data are collected at three time points: at the end of hospitalisation (T0), as well as three (T1) and six months (T2) post-discharge. Primary outcomes include sensor-based physical activity and self-reported social and physical activity. Secondary outcomes include functional status, frailty, cognition, depression, loneliness, social support, and caregiver burden. To explore biomarkers of functional deterioration, stool samples are collected at all time points for microbiome analysis, alongside dietary data. Mixed multilevel models and machine learning will be applied to analyse the data. A participatory stakeholder advisory board will guide the development of a tailored lifestyle intervention, based on the identified trajectories and their influencing factors as well as the associated health outcomes.                                                           Discussion                     The SAFRAN study provides a comprehensive, real-world assessment of activity trajectories after hospitalization, combining objective sensor data, subjective reports, and biological markers. By capturing the complexity of daily life in vulnerable older adults and their caregivers, the study identifies key drivers of functional recovery and intervention points. Findings will inform the development of evidence-based lifestyle interventions to sustain treatment gains for older adults after hospital discharge.                                                           Trial registration                     The study was registered at the German Clinical Trials Register (DRKS00036230) prior to the beginning of recruitment.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-27",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-27",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08758-z",
+        "doi": "10.1186/s12877-026-08758-z",
+        "url": "https://doi.org/10.1186/s12877-026-08758-z",
+        "title": "What exercise works best for cognitive function in older adults? a systematic review and Bayesian network meta-analysis",
+        "authors": [
+          "Linlin Yang",
+          "Zhichao Yuan",
+          "Xiaoan Chen"
+        ],
+        "abstract": "Abstract                                        Objective                     To compare the relative cognitive effects of different exercise types and to quantify nonlinear dose–response relationships among cognitively unimpaired older adults.                                                           Design                     Systematic review, pairwise meta-analysis, Bayesian network meta-analysis (NMA), and model-based dose–response network meta-analysis (MBNMA).                                                           Data sources                     Web of Science, Scopus, PubMed, PsycINFO, Cochrane Library, Embase, and SPORTDiscus were searched from inception to August 2025, with eligibility restricted to studies published in English.                                                           Eligibility criteria for study selection                     Randomized controlled trials involving cognitively unimpaired older adults with a mean age of ≥ 60 years that examined the effects of aerobic exercise (AE), resistance exercise (RE), combined exercise (COM), or mind–body exercise (MBE) on global cognitive function. Outcomes were reported as standardized mean differences (SMDs).                                                           Results                     Twenty-two randomized controlled trials (RCTs) were included. RE and AE were associated with significant improvements in global cognitive function. The Bayesian NMA showed that RE had the highest surface under the cumulative ranking curve (SUCRA) value (93.27%; probability of ranking first = 79.17%), followed by AE; however, the RE estimate was based on only five RCTs and should be interpreted cautiously. The MBNMA revealed a nonlinear dose–response pattern, with an overall optimal dose of ~ 731 MET·min/week and an effective range of 585–877 MET·min/week; cognitive gains plateaued and gradually declined beyond ~ 1000 MET·min/week. RE showed benefits at lower weekly volumes, whereas AE required higher volumes to achieve comparable effects.                                                           Conclusions                     RE and AE were associated with improvements in global cognitive function, with RE showing the highest ranking probability. However, the limited number of RE trials and uncertainty in the ranking estimates preclude a definitive conclusion regarding its superiority.                                                           PROSPERO registration number                     CRD420251241423.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-27",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-27",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08726-7",
+        "doi": "10.1186/s12877-026-08726-7",
+        "url": "https://doi.org/10.1186/s12877-026-08726-7",
+        "title": "Development and validating the Respectful, Responsive, Dignified Elderly Care Scale (RRDECS) among older adults in Singapore: a psychometric study",
+        "authors": [
+          "Jingyi Lei",
+          "Sharon Low",
+          "You Ning Wan",
+          "Harshini Suresh",
+          "Taufique Joarder"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-27",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-27",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08469-5",
+        "doi": "10.1186/s12877-026-08469-5",
+        "url": "https://doi.org/10.1186/s12877-026-08469-5",
+        "title": "General self-efficacy scale to care for older adults: a Turkish validity and reliability study",
+        "authors": [
+          "Erkan Durar",
+          "Cansu Güler",
+          "Serap Yildirim"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-26",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-27",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08751-6",
+        "doi": "10.1186/s12877-026-08751-6",
+        "url": "https://doi.org/10.1186/s12877-026-08751-6",
+        "title": "Early intravenous magnesium sulfate administration and mortality among very elderly patients with sepsis: a retrospective cohort study",
+        "authors": [
+          "Thanh Luan Nguyen",
+          "Cong Dang Tran",
+          "Hoang Ngoc Thao Duong",
+          "Quang Dai Le",
+          "Ngoc Nhu Y Nguyen",
+          "Trang Nguyen Hoai Dinh",
+          "Van Hoang Nam Ho",
+          "Thuy Oanh Hoang",
+          "Van Phieu Duong",
+          "Thi Bao Yen Nguyen"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-26",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-27",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08425-3",
+        "doi": "10.1186/s12877-026-08425-3",
+        "url": "https://doi.org/10.1186/s12877-026-08425-3",
+        "title": "The effects of high-definition transcranial direct current stimulation on pain, balance, and functional mobility in older adults with chronic low back pain: a randomized controlled trial",
+        "authors": [
+          "Daniel K.Y. Zheng",
+          "Lloyd L.Y. Chan",
+          "Zhihan Sun",
+          "Frank F. Huang",
+          "Jeremy R. Chang",
+          "Leo G.H. Lin",
+          "Xueqiang Wang",
+          "Siu Ngor Fu",
+          "Georg S. Kranz",
+          "Stephen R. Lord",
+          "Arnold Y.L. Wong"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-26",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-27",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08712-z",
+        "doi": "10.1186/s12877-026-08712-z",
+        "url": "https://doi.org/10.1186/s12877-026-08712-z",
+        "title": "Regulatory conditions for emergent institutional ageism and the protection-autonomy paradox in Romanian residential long-term care: a systems-informed qualitative documentary analysis",
+        "authors": [
+          "Sorina Corman",
+          "Dana Zamfirescu-Mareș"
+        ],
+        "abstract": "Abstract                                        Background                     Institutional ageism may arise not only from explicit prejudice but also from regulatory and administrative arrangements that prioritize protection, standardization, and organizational accountability over supported choice. Regulatory documents are therefore an important site for examining conditions that may enable or constrain autonomy and participation in residential long-term care.                                                           Methods                     We conducted a qualitative documentary analysis of nine publicly available Romanian legal, regulatory, strategic, and administrative instruments governing social services and residential long-term care for older people. No human participants were included. The analyzed regulatory framework applies to “older persons” as legally defined in Romania, namely persons who have reached the statutory retirement age; no upper age limit is specified. Documents in force or operationally relevant on 31 July 2026 were retrieved from official government sources. A combined directed-inductive coding framework examined person-centredness, autonomy, consent, participation, family and representative involvement, risk management, daily-life choice, complaints, monitoring, and health-related safeguards. Findings were interpreted using a systems-informed framework.                                                           Results                     Five themes were identified: (1) explicit rights-based and person-centred commitments; (2) autonomy translated mainly into procedural acknowledgement, signatures, and acceptance of predefined plans; (3) substantially denser operational specification of safety, risk, documentation, and compliance than of everyday choice; (4) participation concentrated at the individual care-plan and feedback levels, with limited provisions for shared institutional governance; and (5) family or legal-representative involvement functioning as both a support and a potential substitute for the older person’s own voice. Across documents, these patterns were interpreted as a regulatory protection-autonomy paradox and as conditions that may enable benevolent institutional ageism during implementation; they do not demonstrate ageism in practice.                                                           Conclusions                     Romanian long-term care regulation contains meaningful safeguards for rights and individualized support, but autonomy is less operationally specified than protection and accountability. Regulatory reform could strengthen supported decision-making, documentation of meaningful options, resident influence over everyday routines, and participation in service governance. The proposed concept of emergent institutional ageism is presented as a testable mechanism within broader structural and institutional ageism and requires empirical validation in implementation studies.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-26",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-27",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08725-8",
+        "doi": "10.1186/s12877-026-08725-8",
+        "url": "https://doi.org/10.1186/s12877-026-08725-8",
+        "title": "Altered prefrontal activity during dual-task standing in older adults with chronic low back pain: a functional near-infrared spectroscopy study",
+        "authors": [
+          "Daniel KY Zheng",
+          "Zhihan Sun",
+          "Jeremy R Chang",
+          "Frank F Huang",
+          "Xijun Sun",
+          "Siu Ngor Fu",
+          "Lloyd LY Chan",
+          "Georg S Kranz",
+          "Stephen R Lord",
+          "Arnold YL Wong"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-26",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-27",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08720-z",
+        "doi": "10.1186/s12877-026-08720-z",
+        "url": "https://doi.org/10.1186/s12877-026-08720-z",
+        "title": "Functional recovery after prolonged mechanical ventilation in a nonagenarian with Parkinson’s disease and severe pneumonia: a case report",
+        "authors": [
+          "Wenqiang Yan",
+          "Guoping Zheng",
+          "Jianfang Zhu",
+          "Jianan Li"
+        ],
+        "abstract": "Abstract                                        Background                     Super-elderly patients with Parkinson’s disease (PD) who develop severe pneumonia requiring invasive mechanical ventilation are at high risk of profound functional decline. Evidence regarding the potential for functional recovery after critical illness in this population remains limited. We report the clinical course of a 91-year-old patient with long-standing PD who achieved meaningful functional recovery following severe pneumonia and prolonged critical illness.                                                           Case summary                     A 91-year-old Chinese man with a right upper lobe pulmonary mass and a 20-year history of PD developed severe community-acquired pneumonia complicated by acute hypoxemic respiratory failure. Endotracheal intubation was performed on hospital day 6, followed by 7 days of invasive mechanical ventilation, including prolonged prone positioning. After extubation, a multidisciplinary rehabilitation program was initiated. On transfer to the rehabilitation unit on hospital day 30, he had severe functional impairment, with a modified Barthel Index (MBI) score of 13/100 and a Mini-Mental State Examination (MMSE) score of 7/30, and was unable to maintain sitting balance independently. Comprehensive rehabilitation, including physical and occupational therapy, swallowing training, and neuromuscular rehabilitation, was subsequently provided. His functional status progressively improved, and by hospital day 54, he could ambulate independently with minimal supervision, self-feed a soft diet, and safely perform bed-to-chair transfer.                                                           Conclusion                     Meaningful functional recovery may remain achievable in carefully selected nonagenarian patients with long-standing PD after severe pneumonia and critical illness. Early, individualized, multidisciplinary rehabilitation may play an important role in restoring mobility and activities of daily living in this highly vulnerable population.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-26",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-27",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1186/s12877-026-08736-5",
         "doi": "10.1186/s12877-026-08736-5",
         "url": "https://doi.org/10.1186/s12877-026-08736-5",
@@ -25540,6 +25877,46 @@
           "elderCare"
         ],
         "firstSeen": "2026-11-26",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08730-x",
+        "doi": "10.1186/s12877-026-08730-x",
+        "url": "https://doi.org/10.1186/s12877-026-08730-x",
+        "title": "The impact of decreased occlusal support on 3-year progression of carotid intima-media thickness in older adults: the SONIC study",
+        "authors": [
+          "Takayuki Kosaka",
+          "Tomoaki Mameno",
+          "Yuki Murotani",
+          "Kotaro Higashi",
+          "Shuri Fushida",
+          "Suzuna Akema",
+          "Yoshie Okada",
+          "Satoko Takeuchi",
+          "Keigo Kobayashi",
+          "Michiko Kido",
+          "Mai Kabayama",
+          "Yoshio Iwashima",
+          "Takeshi Nakagawa",
+          "Saori Yasumoto",
+          "Yukie Masui",
+          "Takumi Hirata",
+          "Yasumichi Arai",
+          "Yasuyuki Gondo",
+          "Koichi Yamamoto",
+          "Kei Kamide",
+          "Kazunori Ikebe"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-25",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-27",
         "fetched_from": "crossref"
       },
       {
@@ -97885,6 +98262,343 @@
         "fetched_from": "crossref"
       },
       {
+        "id": "doi:10.1186/s12877-026-08760-5",
+        "doi": "10.1186/s12877-026-08760-5",
+        "url": "https://doi.org/10.1186/s12877-026-08760-5",
+        "title": "Diabetes, DXA-defined osteoporosis, and in-hospital composite postoperative complications after geriatric hip fracture surgery: a single-center retrospective cohort study",
+        "authors": [
+          "Jiaxing Wang",
+          "Yuyang Jiang",
+          "Zhenghao Liang",
+          "Zhikai Li",
+          "Shengyu Deng",
+          "Lin Du",
+          "Mengzhen Min",
+          "Zhigang Zhong",
+          "Shangmin Chen"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-27",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-27",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08748-1",
+        "doi": "10.1186/s12877-026-08748-1",
+        "url": "https://doi.org/10.1186/s12877-026-08748-1",
+        "title": "Body mass index and cardiovascular and non-cardiovascular mortality in the oldest old with chronic kidney disease: cause-specific patterns underlying the obesity paradox",
+        "authors": [
+          "Changyuan Yang",
+          "Priya Vart",
+          "Beijie Zhang",
+          "Jiachuan Xiong",
+          "Weilong Xu",
+          "Guobin Su"
+        ],
+        "abstract": "Abstract                                        Background                     While the obesity paradox has been well documented in adults with chronic kidney disease (CKD), the oldest old (≥ 80 years) remain substantially underrepresented, despite their rapidly growing representation and distinct clinical profile within the CKD population.                                                           Methods                                            This retrospective cohort study utilized data from the National Health and Nutrition Examination Survey. CKD was epidemiologically defined as an estimated glomerular filtration rate &lt; 60 mL/min/1.73 m                       2                       and/or a urinary albumin-to-creatinine ratio ≥ 30 mg/g on a single measurement. Body mass index (BMI) was calculated as body weight in kilograms/ height in square meters. Associations of BMI with all-cause, cardiovascular (CV) and non-CV mortality were examined using survey-weighted cause-specific Cox proportional hazards models adjusted for potential confounders. Restricted cubic splines were used to assess non-linear associations and to identify the BMI value with the lowest estimated risk. Differences between CV and non-CV associations were tested using the Lunn–McNeil approach.                                                                                Results                     Among 1,186 participants, 742 deaths occurred during a median follow-up of 4.8 years, including 297 CV deaths. BMI showed a U-shaped association with CV mortality, with the lowest estimated risk at 26.7 kg/m² (95% CI 24.8–29.5), whereas it was inversely associated with non-CV mortality (hazard ratio [HR] per 1 kg/m² 0.96; 95% CI 0.94–0.99). BMI ≥ 35.0 kg/m² was associated with higher CV mortality, compared with overweight (HR 1.82; 95% CI 1.12–2.94) but not with normal weight (HR 1.68; 95% CI 0.96–2.93). Above the WHO thresholds of 25 and 30 kg/m², the associations of BMI with CV and non-CV mortality differed (both P for difference &lt; 0.05).                                                           Conclusions                     Among the oldest old with CKD, the association between BMI and mortality differed by cause of death. These findings underscore that mortality risk assessment in this population should consider cause-specific risks rather than all-cause mortality alone. These exploratory findings require confirmation before they can inform weight-management guidance.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-27",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-27",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08749-0",
+        "doi": "10.1186/s12877-026-08749-0",
+        "url": "https://doi.org/10.1186/s12877-026-08749-0",
+        "title": "Nationwide implementation of a multidimensional health promotion program for older adults: outcomes and associated factors across frailty levels",
+        "authors": [
+          "Hsin-Yi Li",
+          "Hui-Fen Mao",
+          "Ching-Yi Wu",
+          "Ling-Hui Chang"
+        ],
+        "abstract": "Abstract                                        Background                     With frailty prevalence among community-dwelling older adults estimated at 8–23% worldwide, scalable interventions are critical. While multidimensional interventions improve frailty-related outcomes, how outcomes and associated factors differ across frailty strata in real-world, large-scale contexts remains understudied. This study examined health-related outcomes across frailty levels and explored factors associated with frailty-status transitions following a nationwide multidimensional health promotion program.                                                           Methods                                            This secondary analysis used data from the Health Promotion Administration’s Healthy Aging Promotion Program database, derived from a nationwide one-group pretest–posttest study of community-dwelling older adults in Taiwan (                       n                        = 3,383). Participants received a 12-week community-based multidimensional intervention integrating physical activity, health education, and cognitive training. Outcomes included frailty (Study of Osteoporotic Fracture Checklist, SOF), disability risk (Kihon Checklist, KCL), and life satisfaction. Multivariate logistic regression analyses were conducted to identify baseline factors associated with frailty-status transitions.                                                                                Results                     The final analysis included 2,017 participants (mean age 74.32 ± 6.48 years; 74.6% female). Significant pre–post changes in SOF scores were found across all groups, with greater shifts in the prefrail and frail groups. Greater reductions in disability risk were also observed among participants with frailty and prefrailty. The participants with frailty demonstrated favorable changes in physical strength (effect size, d = 0.226), depressive mood (d = 0.468), and KCL total score (d = 0.402), while those with prefrailty showed positive changes in depressive mood (d = 0.328) and KCL total score (d = 0.282). Only minimal changes were observed in the robust group. Changes in life satisfaction differed by frailty-transition status, with participants whose frailty worsened showing less favorable changes than those whose frailty improved or maintained. Factors associated with frailty-status transition differed across frailty strata, including baseline IADL independence and nutrition in the robust group, self-rated health, baseline psychosocial and nutritional factors in prefrailty, and baseline physical strength and physical activity participation in frailty.                                                           Conclusions                     This nationwide multidimensional program was associated with favorable changes in frailty status and health-related outcomes, particularly among older adults with frailty and prefrailty. Intervention outcomes differed among individuals with robustness, prefrailty, and frailty.                                                           Trial registration                     Clinical trial number not applicable.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-27",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-27",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08766-z",
+        "doi": "10.1186/s12877-026-08766-z",
+        "url": "https://doi.org/10.1186/s12877-026-08766-z",
+        "title": "Quality of life and daily life balance in caregivers of people with Alzheimer’s disease: associations with sociodemographic characteristics and living arrangements",
+        "authors": [
+          "Berkan Torpil",
+          "Emine Merve Ekici",
+          "Yasin Tekeci"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-27",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-27",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08747-2",
+        "doi": "10.1186/s12877-026-08747-2",
+        "url": "https://doi.org/10.1186/s12877-026-08747-2",
+        "title": "Maintaining treatment gains after hospitalization: study protocol for the longitudinal observational SAFRAN study",
+        "authors": [
+          "Jessica Koschate-Storm",
+          "Alexander Bräuer",
+          "Juliane Ebel",
+          "Anna Höhn",
+          "Helge Schnack",
+          "Rebecca Diekmann",
+          "Max Ettinger",
+          "Axel Hamprecht",
+          "Andreas Hein",
+          "Falk Hoffmann",
+          "Thea Laurentius",
+          "Andreas Martens",
+          "Erja Portegijs",
+          "Simon Schäfer",
+          "Julia Schlotmann",
+          "Nynke Smidt",
+          "Nils Strodthoff",
+          "Gesine H. Seeber",
+          "Tania Zieschang",
+          "Kathrin Boerner"
+        ],
+        "abstract": "Abstract                                        Background                     Hospital stays can be critical turning points for older adults, often leading to deconditioning, loss of independence, and new medical risks. Furthermore, as hospital length of stay becomes shorter, the need for care is increasingly shifting to the home environment, with family caregivers playing a key role. At the same time, little is known about post-hospital care in the home environment, in particular about the relevant social and physical activities required to restore and maintain daily functioning. This represents an underutilized opportunity to support recovery, given the high risk of deterioration in the first month after discharge, and that physical inactivity and social isolation are key risk factors for adverse health outcomes. The SAFRAN study aims to identify trajectories of physical and social activity in older adults and their caregivers after hospitalization, and to explore their facilitating and hindering factors.                                                           Methods                     This prospective, longitudinal observational study aims to enrol 160 older adults (≥ 70 years with multimorbidity, or above 80 years) and their caregivers across four hospital units in Oldenburg. Data are collected at three time points: at the end of hospitalisation (T0), as well as three (T1) and six months (T2) post-discharge. Primary outcomes include sensor-based physical activity and self-reported social and physical activity. Secondary outcomes include functional status, frailty, cognition, depression, loneliness, social support, and caregiver burden. To explore biomarkers of functional deterioration, stool samples are collected at all time points for microbiome analysis, alongside dietary data. Mixed multilevel models and machine learning will be applied to analyse the data. A participatory stakeholder advisory board will guide the development of a tailored lifestyle intervention, based on the identified trajectories and their influencing factors as well as the associated health outcomes.                                                           Discussion                     The SAFRAN study provides a comprehensive, real-world assessment of activity trajectories after hospitalization, combining objective sensor data, subjective reports, and biological markers. By capturing the complexity of daily life in vulnerable older adults and their caregivers, the study identifies key drivers of functional recovery and intervention points. Findings will inform the development of evidence-based lifestyle interventions to sustain treatment gains for older adults after hospital discharge.                                                           Trial registration                     The study was registered at the German Clinical Trials Register (DRKS00036230) prior to the beginning of recruitment.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-27",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-27",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08758-z",
+        "doi": "10.1186/s12877-026-08758-z",
+        "url": "https://doi.org/10.1186/s12877-026-08758-z",
+        "title": "What exercise works best for cognitive function in older adults? a systematic review and Bayesian network meta-analysis",
+        "authors": [
+          "Linlin Yang",
+          "Zhichao Yuan",
+          "Xiaoan Chen"
+        ],
+        "abstract": "Abstract                                        Objective                     To compare the relative cognitive effects of different exercise types and to quantify nonlinear dose–response relationships among cognitively unimpaired older adults.                                                           Design                     Systematic review, pairwise meta-analysis, Bayesian network meta-analysis (NMA), and model-based dose–response network meta-analysis (MBNMA).                                                           Data sources                     Web of Science, Scopus, PubMed, PsycINFO, Cochrane Library, Embase, and SPORTDiscus were searched from inception to August 2025, with eligibility restricted to studies published in English.                                                           Eligibility criteria for study selection                     Randomized controlled trials involving cognitively unimpaired older adults with a mean age of ≥ 60 years that examined the effects of aerobic exercise (AE), resistance exercise (RE), combined exercise (COM), or mind–body exercise (MBE) on global cognitive function. Outcomes were reported as standardized mean differences (SMDs).                                                           Results                     Twenty-two randomized controlled trials (RCTs) were included. RE and AE were associated with significant improvements in global cognitive function. The Bayesian NMA showed that RE had the highest surface under the cumulative ranking curve (SUCRA) value (93.27%; probability of ranking first = 79.17%), followed by AE; however, the RE estimate was based on only five RCTs and should be interpreted cautiously. The MBNMA revealed a nonlinear dose–response pattern, with an overall optimal dose of ~ 731 MET·min/week and an effective range of 585–877 MET·min/week; cognitive gains plateaued and gradually declined beyond ~ 1000 MET·min/week. RE showed benefits at lower weekly volumes, whereas AE required higher volumes to achieve comparable effects.                                                           Conclusions                     RE and AE were associated with improvements in global cognitive function, with RE showing the highest ranking probability. However, the limited number of RE trials and uncertainty in the ranking estimates preclude a definitive conclusion regarding its superiority.                                                           PROSPERO registration number                     CRD420251241423.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-27",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-27",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08726-7",
+        "doi": "10.1186/s12877-026-08726-7",
+        "url": "https://doi.org/10.1186/s12877-026-08726-7",
+        "title": "Development and validating the Respectful, Responsive, Dignified Elderly Care Scale (RRDECS) among older adults in Singapore: a psychometric study",
+        "authors": [
+          "Jingyi Lei",
+          "Sharon Low",
+          "You Ning Wan",
+          "Harshini Suresh",
+          "Taufique Joarder"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-27",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-27",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08469-5",
+        "doi": "10.1186/s12877-026-08469-5",
+        "url": "https://doi.org/10.1186/s12877-026-08469-5",
+        "title": "General self-efficacy scale to care for older adults: a Turkish validity and reliability study",
+        "authors": [
+          "Erkan Durar",
+          "Cansu Güler",
+          "Serap Yildirim"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-26",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-27",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08751-6",
+        "doi": "10.1186/s12877-026-08751-6",
+        "url": "https://doi.org/10.1186/s12877-026-08751-6",
+        "title": "Early intravenous magnesium sulfate administration and mortality among very elderly patients with sepsis: a retrospective cohort study",
+        "authors": [
+          "Thanh Luan Nguyen",
+          "Cong Dang Tran",
+          "Hoang Ngoc Thao Duong",
+          "Quang Dai Le",
+          "Ngoc Nhu Y Nguyen",
+          "Trang Nguyen Hoai Dinh",
+          "Van Hoang Nam Ho",
+          "Thuy Oanh Hoang",
+          "Van Phieu Duong",
+          "Thi Bao Yen Nguyen"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-26",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-27",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08425-3",
+        "doi": "10.1186/s12877-026-08425-3",
+        "url": "https://doi.org/10.1186/s12877-026-08425-3",
+        "title": "The effects of high-definition transcranial direct current stimulation on pain, balance, and functional mobility in older adults with chronic low back pain: a randomized controlled trial",
+        "authors": [
+          "Daniel K.Y. Zheng",
+          "Lloyd L.Y. Chan",
+          "Zhihan Sun",
+          "Frank F. Huang",
+          "Jeremy R. Chang",
+          "Leo G.H. Lin",
+          "Xueqiang Wang",
+          "Siu Ngor Fu",
+          "Georg S. Kranz",
+          "Stephen R. Lord",
+          "Arnold Y.L. Wong"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-26",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-27",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08712-z",
+        "doi": "10.1186/s12877-026-08712-z",
+        "url": "https://doi.org/10.1186/s12877-026-08712-z",
+        "title": "Regulatory conditions for emergent institutional ageism and the protection-autonomy paradox in Romanian residential long-term care: a systems-informed qualitative documentary analysis",
+        "authors": [
+          "Sorina Corman",
+          "Dana Zamfirescu-Mareș"
+        ],
+        "abstract": "Abstract                                        Background                     Institutional ageism may arise not only from explicit prejudice but also from regulatory and administrative arrangements that prioritize protection, standardization, and organizational accountability over supported choice. Regulatory documents are therefore an important site for examining conditions that may enable or constrain autonomy and participation in residential long-term care.                                                           Methods                     We conducted a qualitative documentary analysis of nine publicly available Romanian legal, regulatory, strategic, and administrative instruments governing social services and residential long-term care for older people. No human participants were included. The analyzed regulatory framework applies to “older persons” as legally defined in Romania, namely persons who have reached the statutory retirement age; no upper age limit is specified. Documents in force or operationally relevant on 31 July 2026 were retrieved from official government sources. A combined directed-inductive coding framework examined person-centredness, autonomy, consent, participation, family and representative involvement, risk management, daily-life choice, complaints, monitoring, and health-related safeguards. Findings were interpreted using a systems-informed framework.                                                           Results                     Five themes were identified: (1) explicit rights-based and person-centred commitments; (2) autonomy translated mainly into procedural acknowledgement, signatures, and acceptance of predefined plans; (3) substantially denser operational specification of safety, risk, documentation, and compliance than of everyday choice; (4) participation concentrated at the individual care-plan and feedback levels, with limited provisions for shared institutional governance; and (5) family or legal-representative involvement functioning as both a support and a potential substitute for the older person’s own voice. Across documents, these patterns were interpreted as a regulatory protection-autonomy paradox and as conditions that may enable benevolent institutional ageism during implementation; they do not demonstrate ageism in practice.                                                           Conclusions                     Romanian long-term care regulation contains meaningful safeguards for rights and individualized support, but autonomy is less operationally specified than protection and accountability. Regulatory reform could strengthen supported decision-making, documentation of meaningful options, resident influence over everyday routines, and participation in service governance. The proposed concept of emergent institutional ageism is presented as a testable mechanism within broader structural and institutional ageism and requires empirical validation in implementation studies.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-26",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-27",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08725-8",
+        "doi": "10.1186/s12877-026-08725-8",
+        "url": "https://doi.org/10.1186/s12877-026-08725-8",
+        "title": "Altered prefrontal activity during dual-task standing in older adults with chronic low back pain: a functional near-infrared spectroscopy study",
+        "authors": [
+          "Daniel KY Zheng",
+          "Zhihan Sun",
+          "Jeremy R Chang",
+          "Frank F Huang",
+          "Xijun Sun",
+          "Siu Ngor Fu",
+          "Lloyd LY Chan",
+          "Georg S Kranz",
+          "Stephen R Lord",
+          "Arnold YL Wong"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-26",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-27",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08720-z",
+        "doi": "10.1186/s12877-026-08720-z",
+        "url": "https://doi.org/10.1186/s12877-026-08720-z",
+        "title": "Functional recovery after prolonged mechanical ventilation in a nonagenarian with Parkinson’s disease and severe pneumonia: a case report",
+        "authors": [
+          "Wenqiang Yan",
+          "Guoping Zheng",
+          "Jianfang Zhu",
+          "Jianan Li"
+        ],
+        "abstract": "Abstract                                        Background                     Super-elderly patients with Parkinson’s disease (PD) who develop severe pneumonia requiring invasive mechanical ventilation are at high risk of profound functional decline. Evidence regarding the potential for functional recovery after critical illness in this population remains limited. We report the clinical course of a 91-year-old patient with long-standing PD who achieved meaningful functional recovery following severe pneumonia and prolonged critical illness.                                                           Case summary                     A 91-year-old Chinese man with a right upper lobe pulmonary mass and a 20-year history of PD developed severe community-acquired pneumonia complicated by acute hypoxemic respiratory failure. Endotracheal intubation was performed on hospital day 6, followed by 7 days of invasive mechanical ventilation, including prolonged prone positioning. After extubation, a multidisciplinary rehabilitation program was initiated. On transfer to the rehabilitation unit on hospital day 30, he had severe functional impairment, with a modified Barthel Index (MBI) score of 13/100 and a Mini-Mental State Examination (MMSE) score of 7/30, and was unable to maintain sitting balance independently. Comprehensive rehabilitation, including physical and occupational therapy, swallowing training, and neuromuscular rehabilitation, was subsequently provided. His functional status progressively improved, and by hospital day 54, he could ambulate independently with minimal supervision, self-feed a soft diet, and safely perform bed-to-chair transfer.                                                           Conclusion                     Meaningful functional recovery may remain achievable in carefully selected nonagenarian patients with long-standing PD after severe pneumonia and critical illness. Early, individualized, multidisciplinary rehabilitation may play an important role in restoring mobility and activities of daily living in this highly vulnerable population.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-26",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-27",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1186/s12877-026-08736-5",
         "doi": "10.1186/s12877-026-08736-5",
         "url": "https://doi.org/10.1186/s12877-026-08736-5",
@@ -98052,6 +98766,46 @@
           "healthReform"
         ],
         "firstSeen": "2026-11-26",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08730-x",
+        "doi": "10.1186/s12877-026-08730-x",
+        "url": "https://doi.org/10.1186/s12877-026-08730-x",
+        "title": "The impact of decreased occlusal support on 3-year progression of carotid intima-media thickness in older adults: the SONIC study",
+        "authors": [
+          "Takayuki Kosaka",
+          "Tomoaki Mameno",
+          "Yuki Murotani",
+          "Kotaro Higashi",
+          "Shuri Fushida",
+          "Suzuna Akema",
+          "Yoshie Okada",
+          "Satoko Takeuchi",
+          "Keigo Kobayashi",
+          "Michiko Kido",
+          "Mai Kabayama",
+          "Yoshio Iwashima",
+          "Takeshi Nakagawa",
+          "Saori Yasumoto",
+          "Yukie Masui",
+          "Takumi Hirata",
+          "Yasumichi Arai",
+          "Yasuyuki Gondo",
+          "Koichi Yamamoto",
+          "Kei Kamide",
+          "Kazunori Ikebe"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-25",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-27",
         "fetched_from": "crossref"
       },
       {
@@ -138488,6 +139242,169 @@
         "fetched_from": "crossref"
       },
       {
+        "id": "doi:10.1177/14680173261510186",
+        "doi": "10.1177/14680173261510186",
+        "url": "https://doi.org/10.1177/14680173261510186",
+        "title": "Beneath the Metaphor: Social Workers’ Conceptualisation and Experience of Resilience",
+        "authors": [
+          "Sarah Rose"
+        ],
+        "abstract": "Summary                     Resilience has long been a focus of research within social work; however, its meaning remains elusive and contested. This article focuses on the use of metaphor by social workers who participated in a qualitative study exploring their understanding and experience of resilience in relation to their professional roles and how resilience is maintained and enhanced. Data were gathered and thematically analysed from interviews with 28 social workers in local authority adult services in Scotland and diary entries from 9 of them. A further 8 interviews were carried out with social work managers.                                                           Findings                     The use of metaphor was prevalent across the interview and diary data. As metaphor is understood to operate at a conceptual level rather than merely as a linguistic tool, it offers insights into underlying conceptualisations and highlights how people make sense of their experiences. The metaphors of solidity, armour, buoyancy, elasticity, fuel and currency were commonly used by social workers when articulating how they sought to maintain and enhance their resilience.                                                           Applications                     Many of these metaphors draw attention to the finite nature of individual resilience and the need to address the underlying issues that create adverse working conditions. A call for a more person-centred organisational culture was conveyed by the participants’ desire to feel more valued in their roles rather than a ‘cog in the wheel’ of the organisation and for the emotional impact of the social work role to be recognised rather than high levels of stress being accepted as endemic to the profession.",
+        "source": "Journal of Social Work",
+        "issn": "1468-0173",
+        "date": "2026-11-26",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-11-27",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/14680173261510509",
+        "doi": "10.1177/14680173261510509",
+        "url": "https://doi.org/10.1177/14680173261510509",
+        "title": "Burnout and Job Satisfaction Among School Social Workers in Mongolia",
+        "authors": [
+          "Bulganzaya Tumurbaatar",
+          "Baigalmaa Chuluunbaatar",
+          "Myagmar Ochirjav"
+        ],
+        "abstract": "Summary                     This cross-sectional quantitative study examined burnout and job satisfaction among 108 school social workers in Mongolia using an online survey. Burnout was assessed using the Maslach Burnout Inventory–Human Services Survey, and job satisfaction was measured using eight researcher-developed items. The Maslach Burnout Model informed the analysis of burnout dimensions, while the Job Demands–Resources model served as an interpretive framework. Analyses included descriptive statistics, exploratory principal component analysis and Pearson correlations.                                                           Findings                     Burnout varied across the three dimensions. Low personal accomplishment was the most prominent concern, reported by 69.4% of participants, while emotional exhaustion was moderate on average and depersonalisation was less pronounced. Participants reported greater satisfaction with collegial relationships, leadership support and relationships with clients than with salary, promotion opportunities and workplace safety. Several job satisfaction items were significantly and negatively correlated with emotional exhaustion and depersonalisation, whereas satisfaction with promotion opportunities was not significantly correlated with either dimension. Personal accomplishment was not significantly correlated with any individual job satisfaction item.                                                           Applications                     The findings highlight the importance of considering organisational conditions alongside individual wellbeing in school social work. They suggest examining role clarity, working conditions, professional development and access to consultation and reflective supervision. The cross-sectional design and voluntary-response sample limit causal interpretation and generalisation to the national school social work workforce.",
+        "source": "Journal of Social Work",
+        "issn": "1468-0173",
+        "date": "2026-11-26",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-11-27",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/bjsw/bcag301",
+        "doi": "10.1093/bjsw/bcag301",
+        "url": "https://doi.org/10.1093/bjsw/bcag301",
+        "title": "‘I share, I learn, I do’: Brokerage strategies in community social work",
+        "authors": [
+          "Tina De Jaeger",
+          "Peter Raeymaeckers"
+        ],
+        "abstract": "Abstract                   This study examines how community workers and members negotiate conviviality through brokerage strategies in two community centres in Flanders, Belgium. Drawing on ethnographic research and integrating processual brokerage theory into community work scholarship, we identify four brokerage strategies: connection strategies (introducing, convening, and perspective brokerage); separation strategies (maintaining and demarcating boundaries); referral strategies (conduit brokerage); and mobilization strategies (combined connection strategies). We advance community social work scholarship in three ways. First, community workers and members continuously negotiate conviviality, refining views of networking as a purely technical professional intervention that produces social capital and cohesion. Second, community actors foster conviviality by using both connection and separation strategies, challenging normative assumptions that treat disconnection as a deficit requiring intervention. Third, community workers navigate structural constraints through adaptive referral practices while simultaneously organizing transformative efforts, forging critical alliances that collectivize individual experiences and pursue social change. Together, these findings demonstrate that conviviality is an ongoing relational process, negotiated, contested, and shaped by the everyday brokerage practices of workers and community members. This study moves community work scholarship beyond cohesion-centred approaches and reveals the transformative potential of brokerage that exceeds its framing as a managerial instrument of personalization.",
+        "source": "The British Journal of Social Work",
+        "issn": "0045-3102",
+        "date": "2026-11-26",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-11-27",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/bjsw/bcag295",
+        "doi": "10.1093/bjsw/bcag295",
+        "url": "https://doi.org/10.1093/bjsw/bcag295",
+        "title": "Peer support and well-being among social work students: A phenomenological approach in the Pakistani context",
+        "authors": [
+          "Irfan Shakoor",
+          "Uzma Ashiq",
+          "Khadija Tariq Khan"
+        ],
+        "abstract": "Abstract                   Within higher education, peer support is a significant element in supporting student well-being, especially in those disciplines where emotional demands are high, such as social work. But there is limited research that has investigated peer support in non-Western settings like Pakistan. The aim of this phenomenological study is to find out the experiences of social work students related to peer support and well-being in Punjab, Pakistan. Semi-structured interviews with eleven undergraduate and postgraduate social work students were conducted and analysed thematically in an interpretive phenomenological manner. Results suggest that peer support served as a significant source of emotional reassurance, collaborative learning, resilience, and professional identity development. Students also explained how peer relationships were supportive for managing emotional work, university-related stress, and fieldwork difficulties. But wider gendered, sociocultural expectations, and mental health stigma as well as limited institutional support systems shaped experiences of peer support. The study emphasizes the importance of culturally responsive student well-being practices and reflective peer support practices in social work education.",
+        "source": "The British Journal of Social Work",
+        "issn": "0045-3102",
+        "date": "2026-11-25",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-11-27",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/bjsw/bcag297",
+        "doi": "10.1093/bjsw/bcag297",
+        "url": "https://doi.org/10.1093/bjsw/bcag297",
+        "title": "Good advice from AI, professional or friend?—On the role of advice giver on perceived advice and relationship quality",
+        "authors": [
+          "Gesa Alena Linnemann",
+          "Beate Rottkemper",
+          "Julian Löhe",
+          "Demian Scherer"
+        ],
+        "abstract": "Abstract                   Large language models are accessible to a broad public and are increasingly used in advice-seeking contexts. In addition, artificial intelligence (AI)-based tools such as chatbots are also being implemented and tested in professional advisory settings. The present study investigates whether the evaluation of social relationships differs depending on whether users believe they are interacting with a human or an AI, and whether this effect varies across private vs. professional contexts. An online experiment with a 2 (AI vs. human) × 2 (private vs. professional) between-subjects design was conducted. Dependent variables included measures of perceived relationship quality, trust and epistemological beliefs towards AI. We found no significant effects of interaction partner nor context. However, participants’ epistemological beliefs about AI significantly predicted their evaluation of the AI counsellor. Specifically, two belief dimensions were relevant for the perceived relationship quality: justification and development. That is, the more integrative participants’ views on scientific knowledge acquisition in AI were, and the more they believed that knowledge evolves over time and is subject to revision, the more positively they evaluated the AI counsellor. Implications for the profession of social work are discussed: an understanding of AI and its influences on relationships are at the core of the profession.",
+        "source": "The British Journal of Social Work",
+        "issn": "0045-3102",
+        "date": "2026-11-25",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-11-27",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/bjsw/bcag298",
+        "doi": "10.1093/bjsw/bcag298",
+        "url": "https://doi.org/10.1093/bjsw/bcag298",
+        "title": "An initial exploration of the operational mechanism of family resilience in Chinese families of children with ASD",
+        "authors": [
+          "Jinzhang Zhou"
+        ],
+        "abstract": "Abstract                   With the rising prevalence of autism spectrum disorder, family resilience has become a central issue in rehabilitation and support practices. However, existing research largely relies on Western theoretical paradigms and intervention models of family resilience, lacking in-depth investigation into the inner beliefs, mechanisms, and action strategies within the cultural context of Chinese families. Grounded in the daily practices of Chinese families with autistic children facing adversity, this study employs Reflexive Lifeworld Research to uncover the structural mechanisms underlying the operation of family resilience. The findings reveal that family resilience in these families manifests as a dynamic, non-linear spiral process rooted in traditional cultural resources, specifically through three interconnected dimensions: “acceptance of Ming/Fate” (renming)—a structural acknowledgment of reality after initial disorientation; “proactive adaptation” (youwei)—demonstrated through active efforts and resource integration driven by external support and internal cohesion; and “strategic flexibility” (quanbian)—achieving rebalancing of the family system through flexible adjustments and innovative strategies. This mechanism not only highlights a unique pathway of family resilience within Chinese culture but also provides new theoretical perspectives and empirical evidence for cross-cultural family research and resilience practices.",
+        "source": "The British Journal of Social Work",
+        "issn": "0045-3102",
+        "date": "2026-11-25",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-11-27",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/bjsw/bcag299",
+        "doi": "10.1093/bjsw/bcag299",
+        "url": "https://doi.org/10.1093/bjsw/bcag299",
+        "title": "Decolonizing social work practice in Israel: Professional resocialization and hybrid knowledge production among Arab social workers",
+        "authors": [
+          "Romain Jammal-Abboud",
+          "Wafaa Sowan"
+        ],
+        "abstract": "Abstract                   Professional social work knowledge is grounded in Western individualist assumptions that may conflict with the cultural, linguistic, and political realities of minority communities. This study examines how Arab social workers in Israel reconstruct professional knowledge through practice and contribute to the decolonization of social work. Drawing on qualitative grounded theory and interviews with thirty Arab social workers in public welfare services, the study conceptualizes professional resocialization as the process through which decolonizing knowledge transformation occurs. The findings identify five interconnected stages: experiencing identity dislocation and epistemic tension; mobilizing cultural-personal knowledge as a professional resource; shifting from Hebrew to Arabic as epistemic transformation; negotiating emotions as a driver of professional commitment; and reconstructing professional concepts through cultural translation. These stages are mapped onto a four-field model encompassing professional, cultural-personal, universal-personal, and national-political dimensions. The study argues that Arab social workers are not merely cultural mediators between fixed systems of knowledge, but active producers of hybrid professional knowledge. By distinguishing decolonizing knowledge transformation through professional resocialization as process, language, emotion, and cultural translation as mechanisms, hybrid knowledge as outcome, and epistemic justice as normative aspiration, the article shows how decolonizing practice takes shape in culturally and politically complex minority contexts.",
+        "source": "The British Journal of Social Work",
+        "issn": "0045-3102",
+        "date": "2026-11-25",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-11-27",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1093/bjsw/bcag303",
+        "doi": "10.1093/bjsw/bcag303",
+        "url": "https://doi.org/10.1093/bjsw/bcag303",
+        "title": "A decade of persistent challenges: A literature review and empirical study of Black social workers’ experiences in England",
+        "authors": [
+          "Siobhan Dytham",
+          "Carl Mallett",
+          "Michelle Walters"
+        ],
+        "abstract": "Abstract                   This article presents findings from both a literature review and an empirical research project focusing on the experiences of Black social workers in the UK. The empirical research project involved a thematic analysis of interviews with ten Black, newly qualified social workers and social work students in England. The literature review involved a search of academic and practice databases, retrieving all research that focused on Black social workers in the UK within the last ten years. The themes from these two projects are compared, revealing a clear and persistent picture. Black social workers experience individual, institutional, covert, and overt racism, leading to a lack of career progression, closer scrutiny of their work, stereotyping, homogenizing, and being treated differently from white colleagues. This article concludes that while there is a real need for more research focusing on Black social workers, there needs to be a targeted approach to make advancements in this area. Our empirical study produced findings which are very similar to research projects conducted over the last ten years; therefore, a new approach is needed to produce new findings and make advancements in this area. This article concludes by providing recommendations for research.",
+        "source": "The British Journal of Social Work",
+        "issn": "0045-3102",
+        "date": "2026-11-25",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-11-27",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1177/14680173261509876",
         "doi": "10.1177/14680173261509876",
         "url": "https://doi.org/10.1177/14680173261509876",
@@ -151428,10 +152345,10 @@
   },
   "totals": {
     "socialSecurity": 1626,
-    "elderCare": 1100,
+    "elderCare": 1114,
     "healthReform": 1661,
-    "agingHealth": 1582,
-    "socialWork": 567
+    "agingHealth": 1596,
+    "socialWork": 575
   },
   "feeds_ok": 41
 }
