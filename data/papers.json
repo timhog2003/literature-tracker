@@ -1,8 +1,35 @@
 {
-  "date": "2026-11-27",
-  "fetched": "2026-11-27T09:51:18+00:00",
+  "date": "2026-11-28",
+  "fetched": "2026-11-28T09:04:08+00:00",
   "domains": {
     "socialSecurity": [
+      {
+        "id": "doi:10.1111/1468-0009.70140",
+        "doi": "10.1111/1468-0009.70140",
+        "url": "https://doi.org/10.1111/1468-0009.70140",
+        "title": "The Rise and Fall of Harm Reduction in Federal Drug Policy: Insights from Drug Control Strategy Documents and Federal Funding Allocations, 1989‐2026",
+        "authors": [
+          "MICHAEL ZOOROB",
+          "KENNETH N. KALU",
+          "JOSEPH G. ROSEN",
+          "BRANDON del POZO",
+          "TRACI C. GREEN",
+          "BRANDON D.L. MARSHALL",
+          "JOSIAH D. RICH",
+          "JU NYEONG PARK"
+        ],
+        "abstract": "Policy Points                                                                                                                                         Harm reduction is a set of policies, programs, and practices that reduce the health and social harms of drug use without requiring abstinence as a prerequisite for receiving services.                                                                                         This analysis traces federal executive‐branch support for harm reduction across several decades and shows how that support has shifted with changes in party control.                                                                                         The findings show that federal backing for harm reduction has followed party lines more closely than it has followed the evidence base.                                                                                         Recognizing and sustaining evidence‐based harm reduction services as a core public health strategy, not a partisan issue, will be needed to achieve lasting reductions in preventable drug‐related harms.                                                                                                                                                                                        Context                     Harm reduction services such as syringe services programs, naloxone distribution, and fentanyl test strips are backed by substantial evidence yet remain politically contested in the United States.                                                           Methods                                            We compare how Democratic and Republican administrations have described and funded harm reduction, using content analysis of executive branch documents from 1989 to 2026. The corpus includes National Drug Control Strategy and budget documents; press releases from the White House, the Office of National Drug Control Policy (ONDCP), Drug Enforcement Administration (DEA), Substance Abuse and Mental Health Services Administration (SAMHSA), Centers for Disease Control and Prevention (CDC), and the Secretary of Health and Human Services (HHS);                       Federal Register                       executive documents; and grant obligations from USAspending.gov.                                                                                Findings                                            The phrase                       harm reduction                       entered federal discourse as a pejorative under the Clinton and George W. Bush administrations. Under the Obama administration (2009‐2016), harm reduction practices expanded rhetorically and fiscally (though without explicit use of the                       harm reduction                       label) and audited grant obligations mentioning harm reduction terms averaged $4.8 million per year over FY2010‐FY2016. Under the Biden administration (2021‐2024), harm reduction became an explicit overdose prevention framework, and obligations mentioning harm reduction terms reached $2.0 billion per year by FY2024. The second Trump administration (2025 to present) has removed the phrase from executive documents or used it disparagingly and restricted harm reduction grants by executive action; although appropriations held near FY2024 levels, obligations fell 48% in FY2025. Naloxone is a partial exception to this pattern in having attained bipartisan adoption. The partisan gap in mentions is far smaller for naloxone than for other terms, and in FY2025, obligations mentioning only naloxone rose 13% while those mentioning only other terms fell 36%.                                                                                Conclusions                     Federal support for harm reduction varies with partisan executive control. When support contracts, sustaining these services falls to state and local health departments and community organizations that may lack the capacity to absorb them.",
+        "source": "The Milbank Quarterly",
+        "issn": "0887-378X",
+        "date": "2026-11-27",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "socialSecurity"
+        ],
+        "firstSeen": "2026-11-28",
+        "fetched_from": "crossref"
+      },
       {
         "id": "doi:10.1215/00703370-12912843",
         "doi": "10.1215/00703370-12912843",
@@ -25447,6 +25474,65 @@
     ],
     "elderCare": [
       {
+        "id": "doi:10.1186/s12877-026-08623-z",
+        "doi": "10.1186/s12877-026-08623-z",
+        "url": "https://doi.org/10.1186/s12877-026-08623-z",
+        "title": "Insights into the mechanisms and context of real-world falls: a framework analysis",
+        "authors": [
+          "Naser Taleshi",
+          "Genevieve K. R. Williams",
+          "Sophie Parker",
+          "Jochen Klenk",
+          "Clemens Becker",
+          "Lars Schwickert",
+          "Lorenzo Chiari",
+          "Luca Palmerini",
+          "William R. Young",
+          "Sarah E. Lamb"
+        ],
+        "abstract": "Abstract                                        Background                     Short narrative reports (SNR) are often recorded immediately after fall events. SNRs have not been used to study falls, most likely because they have unknown structure and consistency. We aimed to investigate SNRs provided alongside verified real-world falls, to determine whether they can provide useful insight into the mechanism of falls in two settings: community-dwelling (CD) and geriatric rehabilitation (GR) settings.                                                           Methods                     We analysed 270 SNRs of real-world falls, captured immediately after each event. The SNRs included a narrative description from the individual or a bystander, and prompts for specific information (e.g. fall direction, pre-fall activity). We developed a framework to analyse the SNRs and identify core sub-themes that were consistently reported, and then compared key themes (transitions and object interactions) across the CD and GR groups.                                                           Results                     We extracted four core sub-themes for the framework: initial status, intended status, interacting object, and fall direction. Of the 270 falls, 211 (78%) were sufficiently detailed to chart complete fall scenarios. Objects were involved in 82% (173/211) of these falls. Falls were frequently reported to occur during transitions between sitting, standing, and walking, and often reported to involve interaction with objects such as static seats, mobility aids, and static furniture. CD participants reported more diverse fall circumstances (47 unique scenarios), often involving standing up from or sitting down on static seats, walking without object involvement, or navigating near static furniture. GR participants reported more walking-related falls involving mobility aids, but fewer varied scenarios (22 scenarios).                                                           Conclusions                     The SNRs can provide consistent, and potentially important insights into real-world fall circumstances. Our analysis highlights how specific activities and object interactions may contribute to loss of balance, particularly during common daily transitions; this supports group-specific prevention strategies for CD and GR populations.                                                           Clinical trial number                     Not applicable.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-28",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-28",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08738-3",
+        "doi": "10.1186/s12877-026-08738-3",
+        "url": "https://doi.org/10.1186/s12877-026-08738-3",
+        "title": "Predictive value of the sarcopenia index for postoperative adverse events in older adults undergoing gastrointestinal surgery: a dual-cohort study incorporating machine learning",
+        "authors": [
+          "Bingyuan Zhang",
+          "Yuchun Cao",
+          "Yuchen Bu",
+          "Lin Jiang",
+          "Qiming Jiang",
+          "Li Xie",
+          "Changmao Zhu",
+          "Bin Zhu",
+          "Cunming Liu",
+          "Chun Yang",
+          "Riyue Jiang"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-28",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-28",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1186/s12877-026-08760-5",
         "doi": "10.1186/s12877-026-08760-5",
         "url": "https://doi.org/10.1186/s12877-026-08760-5",
@@ -25627,6 +25713,136 @@
           "agingHealth"
         ],
         "firstSeen": "2026-11-27",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70860",
+        "doi": "10.1111/jgs.70860",
+        "url": "https://doi.org/10.1111/jgs.70860",
+        "title": "Cognitive and Functional Effects of Denosumab in Older Adults in Long‐Term Care: Exploratory Outcomes of the\n                    <scp>PROUD</scp>\n                    Trial",
+        "authors": [
+          "Nami Safai Haeri",
+          "Subashan Perera",
+          "Susan L. Greenspan"
+        ],
+        "abstract": "ABSTRACT                                        Background                     Denosumab is widely used for the treatment of osteoporosis. Emerging genetic and preclinical evidence suggests that RANKL signaling is neuroprotective, and Mendelian randomization data link higher circulating RANKL levels to lower Alzheimer's disease risk. Whether pharmacological RANKL inhibition with denosumab could therefore adversely affect cognitive trajectories in older adults has not been prospectively evaluated. We examined cognitive and functional outcomes in a randomized, placebo‐controlled trial of denosumab in older adults residing in long‐term care communities (LTCCs).                                                           Methods                     We analyzed exploratory outcomes of the PROUD study, a 2‐year, double‐blind, randomized, placebo‐controlled clinical trial of denosumab 60 mg every 6 months versus placebo in 201 osteoporotic men and women aged ≥ 65 years in LTCCs. Cognitive function was serially assessed using the Montreal Cognitive Assessment (MoCA) at baseline and at 6, 12, 18, and 24 months, as were instrumental and physical activities of daily living (IADL, PADL). Mixed‐effects models compared change from baseline between groups, adjusting for baseline values.                                                           Results                     MoCA scores were comparable between groups at baseline (25.1 ± 3.5 vs. 25.4 ± 3.3) and available in 98 (48.8%) at 24 months. Mean MoCA scores rose modestly in both groups, but no significant differences were observed between denosumab and placebo in MoCA change at any time. No significant between‐group differences were found for IADL or PADL changes, and sex‐stratified analyses were consistent.                                                           Conclusions                     In this exploratory analysis of a trial not powered for cognitive endpoints, denosumab and placebo did not differ significantly in cognitive or functional change over 2 years, and the results, due to limitations and exploratory nature, warrant a cautious, hypothesis‐generating interpretation suggesting need for further, more rigorous study.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-11-27",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-28",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70863",
+        "doi": "10.1111/jgs.70863",
+        "url": "https://doi.org/10.1111/jgs.70863",
+        "title": "Family Ties and Well‐Being in Older Adults: The Role of Rehabilitation Outcomes in Medicare Beneficiaries From a Longitudinal\n                    <scp>NHATS</scp>\n                    Study",
+        "authors": [
+          "Jooman Yun",
+          "Kevin T. Pritchard",
+          "Chaeyoung Lee",
+          "Ickpyo Hong"
+        ],
+        "abstract": "ABSTRACT                                        Background                     Family ties are important social determinants of rehabilitation and well‐being in later life; however, their role as contextual factors in rehabilitation has not been sufficiently explored. This study examined whether different types of family ties are associated with well‐being among older adults and whether rehabilitation outcomes mediate these associations.                                                           Methods                     We conducted a longitudinal analysis using data from the National Health and Aging Trends Study (NHATS) Rounds 12–14. The analytic sample included 4411 community‐dwelling adults aged ≥ 65 years. Family ties were categorized into four groups (kinless, disconnected, distanced, and close) in Round 12, with kinless as the reference group. Rehabilitation outcomes were assessed in Round 13 and were available only for participants who reported receiving rehabilitation services. Well‐being was assessed in Round 14 using a composite measure of affective well‐being, meaning and purpose, and sense of control. Structural equation modeling accounting for complex survey design was used to estimate direct and indirect associations.                                                           Results                     Compared with the kinless group, close family ties were consistently associated with higher well‐being, whereas disconnected and distanced ties did not differ significantly. All three rehabilitation outcomes were significantly associated with well‐being. However, a significant indirect effect was observed only for goal attainment after rehabilitation and only in the close family ties group. The direct association between close family ties and well‐being remained significant after accounting for the mediator.                                                           Conclusions                     Family ties, particularly close relationships, were associated with well‐being among older adults, and goal attainment after rehabilitation partially mediated this association. These findings suggest that family ties are associated with well‐being both directly and, in part, through rehabilitation goal achievement, and highlight the importance of family‐centered approaches in geriatric rehabilitation.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-11-27",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-28",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70858",
+        "doi": "10.1111/jgs.70858",
+        "url": "https://doi.org/10.1111/jgs.70858",
+        "title": "Phenotypic Frailty Assessed Using Different Instruments and Incident Falls in Community‐Dwelling Older Adults",
+        "authors": [
+          "Kristine E. Ensrud",
+          "John T. Schousboe",
+          "Elsa S. Strotmeyer",
+          "Hajin Jang",
+          "Howard A. Fink",
+          "Kerry M. Sheets",
+          "Peggy M. Cawthon",
+          "Deborah M. Kado",
+          "Nancy E. Lane",
+          "Katie L. Stone",
+          "Jodi A. Lapidus",
+          "Lisa Langsetmo"
+        ],
+        "abstract": "ABSTRACT                                        Background                     Systematic reviews of prospective studies have consistently reported associations between phenotypic frailty and a higher risk of falls. However, the phenotype has been defined across studies using an assortment of frailty assessment instruments that vary in complexity. We determined associations of phenotypic frailty assessed by the more complicated Cardiovascular Health Study (CHS) phenotype and simpler Study of Osteoporotic Fractures (SOF) and FRAIL scale phenotypes with risk of falls in community‐dwelling older adults.                                                           Methods                     Prospective study of 14,596 participants (7593 women, 7003 men) enrolled in 4 cohort studies of older adults. CHS (5 components), SOF (3 components), and FRAIL (5 components) frailty phenotypes assessed at an index examination in each cohort. Participants were classified as robust, pre‐frail, or frail using each phenotype. Primary outcome was self‐reported recurrent (≥ 2 vs. 1 or none) falls in the subsequent year after the index examination.                                                           Results                     During the year after the index examination, 1220 (16.1%) women and 1025 men (14.6%) reported recurrent falls. Increasing evidence of frailty defined by each phenotype in women and men was similarly associated with higher odds of recurrent falls. After accounting for traditional fall risk factors, odds ratios of recurrent falls for prefrailty versus robust ranged from 1.6 to 1.7 in women and 1.5 to 1.8 in men. Odds ratios of recurrent falls for frail versus robust ranged from 2.2 to 2.8 in women and from 2.6 to 3.5 in men. Associations in both sexes were present in individuals with and without a past fall history.                                                           Conclusions                     Pre‐frailty and frailty defined by CHS, SOF, or FRAIL phenotypes are similarly associated with a higher risk of recurrent falls. These findings suggest the potential utility of using SOF or FRAIL phenotypes in time‐limited and space‐constrained practice settings to identify community‐dwelling older adults at increased risk of falls.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-11-27",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-28",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70821",
+        "doi": "10.1111/jgs.70821",
+        "url": "https://doi.org/10.1111/jgs.70821",
+        "title": "Prognosis Communication and Caregiver Relationship Are Associated With Return to Acute Care Among Hospitalized Persons With Moderate‐to‐Severe Dementia",
+        "authors": [
+          "David H. Lynch",
+          "Molly E. Lynch",
+          "Kathryn L. Wessell",
+          "Yumei Yang",
+          "Feng‐Chang Lin",
+          "Mark Toles",
+          "Laura C. Hanson"
+        ],
+        "abstract": "ABSTRACT                                        Background                     Return to acute care following hospitalization is common among persons with dementia and burdens patients, caregivers, and health systems. Interventions to reduce acute‐care use or improve care transitions in dementia have produced mixed results. Understanding which patient, caregiver, and hospital care‐process factors are associated with return among persons with moderate‐to‐severe dementia may inform targeted approaches.                                                           Methods                     This secondary analysis of 442 persons with moderate‐to‐severe dementia discharged alive from the index hospitalization in the multi‐site Alzheimer's Disease and Related Dementias‐Palliative Care (ADRD‐PC) trial. Patient variables included demographics, pre‐admission residence, and dementia stage. Caregiver variables included relationship and burden measured using the Zarit Burden Interview. Hospital care process measures included length of stay and documentation of prognosis and goals‐of‐care discussions. The primary outcome was return to acute care (emergency department visit or hospital readmission) within 60 days. Multivariable logistic regression identified factors independently associated with return. Reasons for return were determined through structured chart review.                                                           Results                     Among 442 participants, 195 (44.1%) experienced return to acute care within 60 days. Patient demographic and clinical characteristics were similar between those who did and did not return. Documentation of a dementia prognosis discussion during hospitalization was associated with lower odds of return (OR 0.66, 95% CI 0.44–0.97). Spouse or partner caregivers had higher odds of return than adult child caregivers (OR 1.65, 95% CI 1.01–2.72). Caregiver burden was not significantly associated with return after adjustment. Reasons for return were heterogeneous and often multifactorial, with symptoms, infections, and falls among the most common contributors.                                                           Conclusions                     Return to acute care was common among hospitalized persons with moderate‐to‐severe dementia and not well explained by patient characteristics alone. Documentation of a dementia prognosis discussion and caregiver relationship were associated with return. These findings identify potentially actionable targets for future dementia‐focused palliative and transitional care interventions.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-11-27",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-28",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08753-4",
+        "doi": "10.1186/s12877-026-08753-4",
+        "url": "https://doi.org/10.1186/s12877-026-08753-4",
+        "title": "Development of a health education knowledge graph for sarcopenia prevention and management among community-dwelling older adults: from knowledge modeling to WeChat mini program application",
+        "authors": [
+          "Huiping Xu",
+          "Zixin Guo",
+          "Xinyu Zhang",
+          "Qiaoyu Yang",
+          "Jie Li",
+          "Qian Zhang",
+          "Sunan Li",
+          "Yanjin Liu",
+          "Vivian W.Q. Lou"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-27",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-28",
         "fetched_from": "crossref"
       },
       {
@@ -25917,6 +26133,98 @@
           "agingHealth"
         ],
         "firstSeen": "2026-11-27",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70856",
+        "doi": "10.1111/jgs.70856",
+        "url": "https://doi.org/10.1111/jgs.70856",
+        "title": "“Did You Read My Story?”: The Impact of My Life, My Story in the Electronic Health Record on Subsequent Patient‐Provider Interactions",
+        "authors": [
+          "Camille Marangi",
+          "Tien Nguyen",
+          "Meghna Tummala",
+          "Rochelle Rosen",
+          "Lynn McNicoll"
+        ],
+        "abstract": "ABSTRACT                                        Background                     As the U.S. population ages, integrating patients' values and life experiences into care is increasingly important. The My Life, My Story (MLMS) initiative places patient narratives into the electronic health record (EHR) to humanize care, yet little is known about how story inclusion affects later clinical interactions.                                                           Methods                     We conducted a qualitative study using semi‐structured telephone interviews with adults ≥ 65 years who completed an MLMS narrative within an academic health system (from 2023 to 2024). Of 48 individuals who met screening criteria, 12 declined participation and 26 were subsequently excluded for failure to recall their MLMS participation, inaccurate or incorrect chart information, hospitalization or death, or failure to meet cognitive/consent criteria. Ten individuals were ultimately enrolled and completed interviews (25–51 min). Transcripts were de‐identified and coded using a combined deductive‐inductive approach to identify themes regarding the influence of MLMS on communication, care experiences, and personal meaning.                                                           Results                     Three themes emerged. (1) Impact on clinical interactions: Participants whose clinicians referenced their story felt more fully known and described greater trust, validation, and connection. When stories were never mentioned, participants perceived little benefit. (2) Perceived value for others: Many believed MLMS could help providers better understand patients or support others with similar conditions, reflecting older adults' desire to contribute to and support future generations. (3) Personal significance: Sharing the story prompted reflection on values, life events, and priorities, sometimes motivating discussions about future wishes or advance care planning.                                                           Conclusions                     MLMS can enhance patient‐centered care, but its effect depends on clinician engagement with the narrative. When acknowledged, stories deepen communication and foster recognition of patients as whole persons. Integrating narrative review into routine chart preparation, team communication, and clinician training may strengthen the initiative's impact. MLMS represents a scalable narrative medicine approach that can promote empathy, continuity, and humanization of care for older adults.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-11-25",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-28",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70854",
+        "doi": "10.1111/jgs.70854",
+        "url": "https://doi.org/10.1111/jgs.70854",
+        "title": "Bringing Disaster Preparedness Into Routine Dementia Care",
+        "authors": [
+          "Allison J. Applebaum",
+          "Leah E. Walsh",
+          "R. Sean Morrison"
+        ],
+        "abstract": "",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-11-25",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-28",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70853",
+        "doi": "10.1111/jgs.70853",
+        "url": "https://doi.org/10.1111/jgs.70853",
+        "title": "Homebound Status and Frailty Predict Adverse Consequences of Unmet Care Needs",
+        "authors": [
+          "Melissa M. Garrido",
+          "Yifan Liu",
+          "Bruce Leff",
+          "Katherine A. Ornstein"
+        ],
+        "abstract": "ABSTRACT                                        Background                     Many older adults with unmet needs for mobility or activities of daily living assistance also experience adverse consequences because of an unmet need (e.g., going without bathing). The consequences of unmet care needs may be especially impactful for individuals who rarely or never leave home (are homebound). Our aim was to identify predictors of unmet care need consequences that can be used to identify individuals who may benefit from increased monitoring or caregiving resources.                                                           Methods                     We used 2011–2019 data from the National Health and Aging Trends Study (NHATS) including 39,000 person‐wave observations (9155 unique participants). In a training dataset (80% of sample), we used L‐1 (lasso) penalized logistic regression and sequential feature selection with 50 candidate predictors to identify the strongest individual, home, social, and community predictors of unmet care need consequences. We evaluated model performance in a test dataset (20% of sample).                                                           Results                                            Of our sample, 13.7% of person‐wave observations experienced an unmet care need consequence (                       n                        = 5340). Nearly half of homebound individuals (48.4%,                       n                        = 1088) experienced an unmet care need consequence. In a model with main effects only for all variables in our full sample, the strongest predictors of a consequence of an unmet care need (absolute value of coefficient &gt; 1.3) were frailty and being homebound. Other strong predictors (absolute value of coefficient &gt; 0.5) were pre‐frailty, probable dementia, and use of a mobility device.                                                                                Conclusions                     Homebound status and frailty predict future unmet care need consequences. Providers, health systems, and payers should consider screening patients for frailty and homebound status to identify needs for additional supportive services or home modifications.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-11-25",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-28",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70842",
+        "doi": "10.1111/jgs.70842",
+        "url": "https://doi.org/10.1111/jgs.70842",
+        "title": "Gabapentinoid and Opioid Prescribing Patterns Among Older Adults With Self‐Reported Activity‐Limiting Pain in the United States, 2016 to 2023",
+        "authors": [
+          "Christina Y. Yin",
+          "Katherine Gora Combs",
+          "Til Stürmer",
+          "Juan M. Hincapie‐Castillo"
+        ],
+        "abstract": "ABSTRACT                                        Background                     Activity‐limiting pain is common in older adults, for whom opioids and gabapentinoids are commonly used. It is unclear how opioid and gabapentinoid use varies by pain severity over time. We described prescribing patterns in opioid, gabapentinoid, and opioid‐gabapentinoid co‐prescribing among older adults with self‐reported activity‐limiting pain from 2016 to 2023.                                                           Methods                     We conducted a repeated cross‐sectional study using data from the Medical Expenditure Panel Survey (MEPS) from 2016 to 2023. We described prescribing patterns using survey‐weighted annual prevalence of opioid, gabapentinoid, opioid‐gabapentinoid co‐prescribing, opioid use among those receiving gabapentinoids, and gabapentinoid use among those receiving opioids.                                                           Results                     We included 20,539 older adults with activity‐limiting pain. The mean age was 74.2 (SD: 6.5) years. More female and non‐Hispanic White individuals reported activity‐limiting pain. Opioid use decreased from 2016 to 2023 among those with severe and little pain: severe, 40.3% (95% CI: 35.8%, 44.7%) to 36.7% (95% CI: 31.5%, 41.9%), and little, 16.7% (95% CI: 14.3%, 19.0%) to 10.7% (95% CI: 8.7%, 12.6%). For those with moderate pain, opioid use decreased from 2016 to 2022, then increased by 2023. Gabapentinoid use increased from 2016 to 2023: severe, 20.0% (95% CI: 16.4%, 23.6%) to 31.4% (95% CI: 25.8%, 37.1%), moderate, 10.6% (95% CI: 8.1%, 13.2%) to 16.7% (95% CI: 12.4%, 21.0%), and little, 6.4% (95% CI: 4.9%, 7.9%) to 8.2% (95% CI: 6.4%, 10.1%). Opioid‐gabapentinoid co‐prescribing was low for those with little pain and increased for those with moderate or severe pain.                                                           Conclusion                     Prescription opioid use decreased and gabapentinoid use increased for older adults with activity‐limiting pain across pain levels from 2016 to 2023. Opioid‐gabapentinoid co‐prescribing increased among older adults with moderate and severe pain. Our findings highlight the increasing use of gabapentinoids and the importance of weighing the benefits and harms of this treatment for pain management in this population.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-11-25",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-28",
         "fetched_from": "crossref"
       },
       {
@@ -53504,6 +53812,33 @@
         "fetched_from": "crossref"
       },
       {
+        "id": "doi:10.1111/1468-0009.70140",
+        "doi": "10.1111/1468-0009.70140",
+        "url": "https://doi.org/10.1111/1468-0009.70140",
+        "title": "The Rise and Fall of Harm Reduction in Federal Drug Policy: Insights from Drug Control Strategy Documents and Federal Funding Allocations, 1989‐2026",
+        "authors": [
+          "MICHAEL ZOOROB",
+          "KENNETH N. KALU",
+          "JOSEPH G. ROSEN",
+          "BRANDON del POZO",
+          "TRACI C. GREEN",
+          "BRANDON D.L. MARSHALL",
+          "JOSIAH D. RICH",
+          "JU NYEONG PARK"
+        ],
+        "abstract": "Policy Points                                                                                                                                         Harm reduction is a set of policies, programs, and practices that reduce the health and social harms of drug use without requiring abstinence as a prerequisite for receiving services.                                                                                         This analysis traces federal executive‐branch support for harm reduction across several decades and shows how that support has shifted with changes in party control.                                                                                         The findings show that federal backing for harm reduction has followed party lines more closely than it has followed the evidence base.                                                                                         Recognizing and sustaining evidence‐based harm reduction services as a core public health strategy, not a partisan issue, will be needed to achieve lasting reductions in preventable drug‐related harms.                                                                                                                                                                                        Context                     Harm reduction services such as syringe services programs, naloxone distribution, and fentanyl test strips are backed by substantial evidence yet remain politically contested in the United States.                                                           Methods                                            We compare how Democratic and Republican administrations have described and funded harm reduction, using content analysis of executive branch documents from 1989 to 2026. The corpus includes National Drug Control Strategy and budget documents; press releases from the White House, the Office of National Drug Control Policy (ONDCP), Drug Enforcement Administration (DEA), Substance Abuse and Mental Health Services Administration (SAMHSA), Centers for Disease Control and Prevention (CDC), and the Secretary of Health and Human Services (HHS);                       Federal Register                       executive documents; and grant obligations from USAspending.gov.                                                                                Findings                                            The phrase                       harm reduction                       entered federal discourse as a pejorative under the Clinton and George W. Bush administrations. Under the Obama administration (2009‐2016), harm reduction practices expanded rhetorically and fiscally (though without explicit use of the                       harm reduction                       label) and audited grant obligations mentioning harm reduction terms averaged $4.8 million per year over FY2010‐FY2016. Under the Biden administration (2021‐2024), harm reduction became an explicit overdose prevention framework, and obligations mentioning harm reduction terms reached $2.0 billion per year by FY2024. The second Trump administration (2025 to present) has removed the phrase from executive documents or used it disparagingly and restricted harm reduction grants by executive action; although appropriations held near FY2024 levels, obligations fell 48% in FY2025. Naloxone is a partial exception to this pattern in having attained bipartisan adoption. The partisan gap in mentions is far smaller for naloxone than for other terms, and in FY2025, obligations mentioning only naloxone rose 13% while those mentioning only other terms fell 36%.                                                                                Conclusions                     Federal support for harm reduction varies with partisan executive control. When support contracts, sustaining these services falls to state and local health departments and community organizations that may lack the capacity to absorb them.",
+        "source": "The Milbank Quarterly",
+        "issn": "0887-378X",
+        "date": "2026-11-27",
+        "subjects": [],
+        "domains": [
+          "healthReform",
+          "socialSecurity"
+        ],
+        "firstSeen": "2026-11-28",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1056/nejmoa2608510",
         "doi": "10.1056/nejmoa2608510",
         "url": "https://doi.org/10.1056/nejmoa2608510",
@@ -53888,6 +54223,30 @@
           "healthReform"
         ],
         "firstSeen": "2026-11-26",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1007/s40273-026-01697-y",
+        "doi": "10.1007/s40273-026-01697-y",
+        "url": "https://doi.org/10.1007/s40273-026-01697-y",
+        "title": "Extending Health State Valuation to Younger Populations: Is the EQ-VT TTO Protocol Suitable for Use in 16- and 17-Year-Old Adolescents?",
+        "authors": [
+          "Emily McDool",
+          "Sé Maria Frances",
+          "Philip A. Powell",
+          "Mimmi Åström",
+          "Oliver Rivero-Arias",
+          "Donna Rowen"
+        ],
+        "abstract": "",
+        "source": "PharmacoEconomics",
+        "issn": "1170-7690",
+        "date": "2026-11-26",
+        "subjects": [],
+        "domains": [
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-28",
         "fetched_from": "crossref"
       },
       {
@@ -55096,6 +55455,32 @@
           "healthReform"
         ],
         "firstSeen": "2026-11-25",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1097/ede.0000000000002061",
+        "doi": "10.1097/ede.0000000000002061",
+        "url": "https://doi.org/10.1097/ede.0000000000002061",
+        "title": "When Effects Cannot be Estimated: Redefining Estimands to Understand the Effects of Naloxone Access Laws: Erratum",
+        "authors": [
+          "Kara E. Rudolph",
+          "Catherine Gimbrone",
+          "Ellicott C. Matthay",
+          "Iván Díaz",
+          "Corey S. Davis",
+          "Katherine Keyes",
+          "Magdalena Cerdá"
+        ],
+        "abstract": "",
+        "source": "Epidemiology",
+        "issn": "1044-3983",
+        "date": "2026-11-23",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-28",
         "fetched_from": "crossref"
       },
       {
@@ -98262,6 +98647,65 @@
         "fetched_from": "crossref"
       },
       {
+        "id": "doi:10.1186/s12877-026-08623-z",
+        "doi": "10.1186/s12877-026-08623-z",
+        "url": "https://doi.org/10.1186/s12877-026-08623-z",
+        "title": "Insights into the mechanisms and context of real-world falls: a framework analysis",
+        "authors": [
+          "Naser Taleshi",
+          "Genevieve K. R. Williams",
+          "Sophie Parker",
+          "Jochen Klenk",
+          "Clemens Becker",
+          "Lars Schwickert",
+          "Lorenzo Chiari",
+          "Luca Palmerini",
+          "William R. Young",
+          "Sarah E. Lamb"
+        ],
+        "abstract": "Abstract                                        Background                     Short narrative reports (SNR) are often recorded immediately after fall events. SNRs have not been used to study falls, most likely because they have unknown structure and consistency. We aimed to investigate SNRs provided alongside verified real-world falls, to determine whether they can provide useful insight into the mechanism of falls in two settings: community-dwelling (CD) and geriatric rehabilitation (GR) settings.                                                           Methods                     We analysed 270 SNRs of real-world falls, captured immediately after each event. The SNRs included a narrative description from the individual or a bystander, and prompts for specific information (e.g. fall direction, pre-fall activity). We developed a framework to analyse the SNRs and identify core sub-themes that were consistently reported, and then compared key themes (transitions and object interactions) across the CD and GR groups.                                                           Results                     We extracted four core sub-themes for the framework: initial status, intended status, interacting object, and fall direction. Of the 270 falls, 211 (78%) were sufficiently detailed to chart complete fall scenarios. Objects were involved in 82% (173/211) of these falls. Falls were frequently reported to occur during transitions between sitting, standing, and walking, and often reported to involve interaction with objects such as static seats, mobility aids, and static furniture. CD participants reported more diverse fall circumstances (47 unique scenarios), often involving standing up from or sitting down on static seats, walking without object involvement, or navigating near static furniture. GR participants reported more walking-related falls involving mobility aids, but fewer varied scenarios (22 scenarios).                                                           Conclusions                     The SNRs can provide consistent, and potentially important insights into real-world fall circumstances. Our analysis highlights how specific activities and object interactions may contribute to loss of balance, particularly during common daily transitions; this supports group-specific prevention strategies for CD and GR populations.                                                           Clinical trial number                     Not applicable.",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-28",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-28",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08738-3",
+        "doi": "10.1186/s12877-026-08738-3",
+        "url": "https://doi.org/10.1186/s12877-026-08738-3",
+        "title": "Predictive value of the sarcopenia index for postoperative adverse events in older adults undergoing gastrointestinal surgery: a dual-cohort study incorporating machine learning",
+        "authors": [
+          "Bingyuan Zhang",
+          "Yuchun Cao",
+          "Yuchen Bu",
+          "Lin Jiang",
+          "Qiming Jiang",
+          "Li Xie",
+          "Changmao Zhu",
+          "Bin Zhu",
+          "Cunming Liu",
+          "Chun Yang",
+          "Riyue Jiang"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-28",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-28",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1186/s12877-026-08760-5",
         "doi": "10.1186/s12877-026-08760-5",
         "url": "https://doi.org/10.1186/s12877-026-08760-5",
@@ -98445,6 +98889,283 @@
         "fetched_from": "crossref"
       },
       {
+        "id": "doi:10.1111/jgs.70860",
+        "doi": "10.1111/jgs.70860",
+        "url": "https://doi.org/10.1111/jgs.70860",
+        "title": "Cognitive and Functional Effects of Denosumab in Older Adults in Long‐Term Care: Exploratory Outcomes of the\n                    <scp>PROUD</scp>\n                    Trial",
+        "authors": [
+          "Nami Safai Haeri",
+          "Subashan Perera",
+          "Susan L. Greenspan"
+        ],
+        "abstract": "ABSTRACT                                        Background                     Denosumab is widely used for the treatment of osteoporosis. Emerging genetic and preclinical evidence suggests that RANKL signaling is neuroprotective, and Mendelian randomization data link higher circulating RANKL levels to lower Alzheimer's disease risk. Whether pharmacological RANKL inhibition with denosumab could therefore adversely affect cognitive trajectories in older adults has not been prospectively evaluated. We examined cognitive and functional outcomes in a randomized, placebo‐controlled trial of denosumab in older adults residing in long‐term care communities (LTCCs).                                                           Methods                     We analyzed exploratory outcomes of the PROUD study, a 2‐year, double‐blind, randomized, placebo‐controlled clinical trial of denosumab 60 mg every 6 months versus placebo in 201 osteoporotic men and women aged ≥ 65 years in LTCCs. Cognitive function was serially assessed using the Montreal Cognitive Assessment (MoCA) at baseline and at 6, 12, 18, and 24 months, as were instrumental and physical activities of daily living (IADL, PADL). Mixed‐effects models compared change from baseline between groups, adjusting for baseline values.                                                           Results                     MoCA scores were comparable between groups at baseline (25.1 ± 3.5 vs. 25.4 ± 3.3) and available in 98 (48.8%) at 24 months. Mean MoCA scores rose modestly in both groups, but no significant differences were observed between denosumab and placebo in MoCA change at any time. No significant between‐group differences were found for IADL or PADL changes, and sex‐stratified analyses were consistent.                                                           Conclusions                     In this exploratory analysis of a trial not powered for cognitive endpoints, denosumab and placebo did not differ significantly in cognitive or functional change over 2 years, and the results, due to limitations and exploratory nature, warrant a cautious, hypothesis‐generating interpretation suggesting need for further, more rigorous study.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-11-27",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-28",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70863",
+        "doi": "10.1111/jgs.70863",
+        "url": "https://doi.org/10.1111/jgs.70863",
+        "title": "Family Ties and Well‐Being in Older Adults: The Role of Rehabilitation Outcomes in Medicare Beneficiaries From a Longitudinal\n                    <scp>NHATS</scp>\n                    Study",
+        "authors": [
+          "Jooman Yun",
+          "Kevin T. Pritchard",
+          "Chaeyoung Lee",
+          "Ickpyo Hong"
+        ],
+        "abstract": "ABSTRACT                                        Background                     Family ties are important social determinants of rehabilitation and well‐being in later life; however, their role as contextual factors in rehabilitation has not been sufficiently explored. This study examined whether different types of family ties are associated with well‐being among older adults and whether rehabilitation outcomes mediate these associations.                                                           Methods                     We conducted a longitudinal analysis using data from the National Health and Aging Trends Study (NHATS) Rounds 12–14. The analytic sample included 4411 community‐dwelling adults aged ≥ 65 years. Family ties were categorized into four groups (kinless, disconnected, distanced, and close) in Round 12, with kinless as the reference group. Rehabilitation outcomes were assessed in Round 13 and were available only for participants who reported receiving rehabilitation services. Well‐being was assessed in Round 14 using a composite measure of affective well‐being, meaning and purpose, and sense of control. Structural equation modeling accounting for complex survey design was used to estimate direct and indirect associations.                                                           Results                     Compared with the kinless group, close family ties were consistently associated with higher well‐being, whereas disconnected and distanced ties did not differ significantly. All three rehabilitation outcomes were significantly associated with well‐being. However, a significant indirect effect was observed only for goal attainment after rehabilitation and only in the close family ties group. The direct association between close family ties and well‐being remained significant after accounting for the mediator.                                                           Conclusions                     Family ties, particularly close relationships, were associated with well‐being among older adults, and goal attainment after rehabilitation partially mediated this association. These findings suggest that family ties are associated with well‐being both directly and, in part, through rehabilitation goal achievement, and highlight the importance of family‐centered approaches in geriatric rehabilitation.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-11-27",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-28",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70858",
+        "doi": "10.1111/jgs.70858",
+        "url": "https://doi.org/10.1111/jgs.70858",
+        "title": "Phenotypic Frailty Assessed Using Different Instruments and Incident Falls in Community‐Dwelling Older Adults",
+        "authors": [
+          "Kristine E. Ensrud",
+          "John T. Schousboe",
+          "Elsa S. Strotmeyer",
+          "Hajin Jang",
+          "Howard A. Fink",
+          "Kerry M. Sheets",
+          "Peggy M. Cawthon",
+          "Deborah M. Kado",
+          "Nancy E. Lane",
+          "Katie L. Stone",
+          "Jodi A. Lapidus",
+          "Lisa Langsetmo"
+        ],
+        "abstract": "ABSTRACT                                        Background                     Systematic reviews of prospective studies have consistently reported associations between phenotypic frailty and a higher risk of falls. However, the phenotype has been defined across studies using an assortment of frailty assessment instruments that vary in complexity. We determined associations of phenotypic frailty assessed by the more complicated Cardiovascular Health Study (CHS) phenotype and simpler Study of Osteoporotic Fractures (SOF) and FRAIL scale phenotypes with risk of falls in community‐dwelling older adults.                                                           Methods                     Prospective study of 14,596 participants (7593 women, 7003 men) enrolled in 4 cohort studies of older adults. CHS (5 components), SOF (3 components), and FRAIL (5 components) frailty phenotypes assessed at an index examination in each cohort. Participants were classified as robust, pre‐frail, or frail using each phenotype. Primary outcome was self‐reported recurrent (≥ 2 vs. 1 or none) falls in the subsequent year after the index examination.                                                           Results                     During the year after the index examination, 1220 (16.1%) women and 1025 men (14.6%) reported recurrent falls. Increasing evidence of frailty defined by each phenotype in women and men was similarly associated with higher odds of recurrent falls. After accounting for traditional fall risk factors, odds ratios of recurrent falls for prefrailty versus robust ranged from 1.6 to 1.7 in women and 1.5 to 1.8 in men. Odds ratios of recurrent falls for frail versus robust ranged from 2.2 to 2.8 in women and from 2.6 to 3.5 in men. Associations in both sexes were present in individuals with and without a past fall history.                                                           Conclusions                     Pre‐frailty and frailty defined by CHS, SOF, or FRAIL phenotypes are similarly associated with a higher risk of recurrent falls. These findings suggest the potential utility of using SOF or FRAIL phenotypes in time‐limited and space‐constrained practice settings to identify community‐dwelling older adults at increased risk of falls.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-11-27",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-28",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70821",
+        "doi": "10.1111/jgs.70821",
+        "url": "https://doi.org/10.1111/jgs.70821",
+        "title": "Prognosis Communication and Caregiver Relationship Are Associated With Return to Acute Care Among Hospitalized Persons With Moderate‐to‐Severe Dementia",
+        "authors": [
+          "David H. Lynch",
+          "Molly E. Lynch",
+          "Kathryn L. Wessell",
+          "Yumei Yang",
+          "Feng‐Chang Lin",
+          "Mark Toles",
+          "Laura C. Hanson"
+        ],
+        "abstract": "ABSTRACT                                        Background                     Return to acute care following hospitalization is common among persons with dementia and burdens patients, caregivers, and health systems. Interventions to reduce acute‐care use or improve care transitions in dementia have produced mixed results. Understanding which patient, caregiver, and hospital care‐process factors are associated with return among persons with moderate‐to‐severe dementia may inform targeted approaches.                                                           Methods                     This secondary analysis of 442 persons with moderate‐to‐severe dementia discharged alive from the index hospitalization in the multi‐site Alzheimer's Disease and Related Dementias‐Palliative Care (ADRD‐PC) trial. Patient variables included demographics, pre‐admission residence, and dementia stage. Caregiver variables included relationship and burden measured using the Zarit Burden Interview. Hospital care process measures included length of stay and documentation of prognosis and goals‐of‐care discussions. The primary outcome was return to acute care (emergency department visit or hospital readmission) within 60 days. Multivariable logistic regression identified factors independently associated with return. Reasons for return were determined through structured chart review.                                                           Results                     Among 442 participants, 195 (44.1%) experienced return to acute care within 60 days. Patient demographic and clinical characteristics were similar between those who did and did not return. Documentation of a dementia prognosis discussion during hospitalization was associated with lower odds of return (OR 0.66, 95% CI 0.44–0.97). Spouse or partner caregivers had higher odds of return than adult child caregivers (OR 1.65, 95% CI 1.01–2.72). Caregiver burden was not significantly associated with return after adjustment. Reasons for return were heterogeneous and often multifactorial, with symptoms, infections, and falls among the most common contributors.                                                           Conclusions                     Return to acute care was common among hospitalized persons with moderate‐to‐severe dementia and not well explained by patient characteristics alone. Documentation of a dementia prognosis discussion and caregiver relationship were associated with return. These findings identify potentially actionable targets for future dementia‐focused palliative and transitional care interventions.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-11-27",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-28",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1186/s12877-026-08753-4",
+        "doi": "10.1186/s12877-026-08753-4",
+        "url": "https://doi.org/10.1186/s12877-026-08753-4",
+        "title": "Development of a health education knowledge graph for sarcopenia prevention and management among community-dwelling older adults: from knowledge modeling to WeChat mini program application",
+        "authors": [
+          "Huiping Xu",
+          "Zixin Guo",
+          "Xinyu Zhang",
+          "Qiaoyu Yang",
+          "Jie Li",
+          "Qian Zhang",
+          "Sunan Li",
+          "Yanjin Liu",
+          "Vivian W.Q. Lou"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-27",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-28",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261507974",
+        "doi": "10.1177/13872877261507974",
+        "url": "https://doi.org/10.1177/13872877261507974",
+        "title": "When the Part B of the Trail-Making Test is not applicable: Clinical meaning in cognitive disorders due to neurodegenerative etiologies",
+        "authors": [
+          "Edoardo N. Aiello",
+          "Giulia De Luca",
+          "Beatrice Curti",
+          "Francesca Frisco",
+          "Arianna Moreschi",
+          "Francesco Scheveger",
+          "Andrea Cerri",
+          "Valerio Patisso",
+          "Alessio Maranzano",
+          "Vincenzo Silani",
+          "Nicola Ticozzi",
+          "Federico Verde",
+          "Barbara Poletti"
+        ],
+        "abstract": "Background                     In clinical settings, it is not an infrequent occurrence that patients with cognitive disorders successfully complete the Part A of the Trail-Making Test (TMT-A) while being unable to complete the Part B (TMT-B).                                                           Objective                     This study investigated the correlates and determinants of the non-applicability of the TMT-B, despite the TMT-A being applicable, in a cohort of patients with cognitive disorders due to neurodegenerative etiologies.                                                           Methods                                            This retrospective cohort included 461 patients with mild cognitive impairment (MCI,                       N                        = 161) or dementia (                       N                        = 300) due to Alzheimer's disease (AD), frontotemporal lobar degeneration, Lewy body disease, mixed (i.e., AD and chronic cerebrovascular load) and unspecified neurodegenerative etiologies. Linear/generalized linear models examined whether TMT-B non-applicability predicted performance across both first- and second-level cognitive measures, years of education, and disease status (MCI versus dementia), adjusting for relevant demographic and clinical confounders. A logistic model aimed to determine whether global cognitive efficiency, education, and disease severity independently predicted TMT-B non-applicability net of relevant demographic and clinical covariates.                                                                                Results                     The TMT-B was not applicable in the 42.3% of patients. Across all cognitive measures considered, TMT-B non-applicability was consistently associated with poorer cognitive performance. Non-executers/-completers had significantly lower educational attainment and were more likely to present with dementia (versus MCI). Finally, lower MMSE scores, lower educational attainment and dementia status independently predicted TMT-B non-applicability.                                                           Conclusions                     The TMT-B non-applicability in patients with neurodegenerative cognitive disorders reflects more widespread cognitive involvement and is possibly indicative of dementia status, being also associated with lower educational attainment.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-11-27",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-28",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261507252",
+        "doi": "10.1177/13872877261507252",
+        "url": "https://doi.org/10.1177/13872877261507252",
+        "title": "Lower estimated basal metabolic rate is associated with Alzheimer's disease in a memory clinic population: A cross-sectional study",
+        "authors": [
+          "Chaohui Zhou",
+          "Shuai Liu",
+          "Yu Cao",
+          "Yun Liang",
+          "Wenjing Wu",
+          "Shiyu Fan",
+          "Yong Ji",
+          "Xia Fu",
+          "Hui Chen"
+        ],
+        "abstract": "Background                     Unintentional weight loss and malnutrition are common in Alzheimer's disease (AD) and are associated with adverse clinical outcomes. However, whether alterations in energy metabolism are associated with AD remains unclear.                                                           Objective                     This study aimed to investigate the association between estimated basal metabolic rate (BMR) and AD in older adults.                                                           Methods                     Cross-sectional study of 1081 memory clinic outpatients (854 AD, 227 cognitively unimpaired). BMR was estimated using the Mifflin-St Jeor equation. Multivariable linear and logistic regression adjusted for age, sex, educational level, marital status, comorbidities, and lifestyle factors. Restricted cubic splines (RCS) tested potential nonlinearity.                                                           Results                     After full adjustment, individuals with AD had significantly lower estimated BMR compared with cognitively unimpaired controls (β = -22.031 kcal/d, 95% CI: −41.122 to −2.940; p &lt; 0.05). In logistic regression, each 100 kcal/day decrease in estimated BMR was associated with 17.8% higher odds of prevalent AD (OR = 1.178, 95% CI: 1.025 to 1.353; p &lt; 0.05). RCS analysis suggested an inverse association between estimated BMR and the odds of prevalent AD, although the overall association was not statistically significant (p for overall association = 0.060), with no evidence of nonlinearity (p for nonlinearity = 0.340).                                                           Conclusions                     Lower estimated BMR is associated with AD in a memory clinic population. Estimated BMR may represent a clinically accessible metabolic marker associated with AD status, although further longitudinal studies are needed to determine its potential role in predicting AD development and clinical outcomes.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-11-27",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-28",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261506362",
+        "doi": "10.1177/13872877261506362",
+        "url": "https://doi.org/10.1177/13872877261506362",
+        "title": "Centiloid scale and whole-brain histogram analysis of amyloid PET: A multi-tracer comparison and establishment of a Centiloid-like scale",
+        "authors": [
+          "Ryo Yamakuni",
+          "Yasuhiro Abe",
+          "Shinya Seino",
+          "Hironobu Ishikawa",
+          "Naoyuki Ukon",
+          "Tensho Yamao",
+          "Takeyasu Kakamu",
+          "Hirofumi Sekino",
+          "Shiro Ishii",
+          "Kenji Fukushima",
+          "Hiroshi Ito"
+        ],
+        "abstract": "Background                     Global Alzheimer's Association Interactive Network (GAAIN) introduced the Centiloid (CL) scale as a standardized amyloid quantitative metric.                                                           Objective                                            To establish reference values for MRI-based whole-brain histogram analysis (WBHA) and evaluate the correlations between WBHA parameters and the CL scale within the GAAIN multi-tracer dataset                       .                                                                                Methods                     MRI and amyloid PET images were obtained from datasets curated for CL calibration. For WBHA, brain extraction was performed using structural MRI. Skewness and mode-to-mean ratio (MMR) were subsequently derived from the brain-extracted PET images. Furthermore, a top 20% Map was generated from these images and segmented into gray (GM) and white matter (WM) voxels to calculate the GW (GM/WM)-ratio. Precalculated CL values were retrieved from the database for comparison.                                                           Results                                            Strong correlations were observed between the CL values and WBHA parameters. CL significantly correlated with the top 20% GW-ratio (r = 0.7582–0.9460), whereas skewness exhibited moderate to strong correlations (r = −0.7559−0.9463). However, MMR showed weaker correlations (r = 0.4391–0.8856). Receiver operating characteristic analysis for distinguishing Aβ-positive from Aβ-negative cases in the                       11                       C-PiB-only dataset revealed that the top 20% GW-ratio yielded an area under the curve (AUC) of 1.0000, identical to that of the CL scale. AUCs for skewness (0.9752) and MMR (0.8869) were lower. Using the CL methodology, formulas were established to transform the GW-ratio into a 0–100 scale, designated as the Centi-GW-Index.                                                                                Conclusions                     The WBHA provides a unique framework and alternative to the CL approach for quantifying brain amyloid.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-11-27",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-28",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261509097",
+        "doi": "10.1177/13872877261509097",
+        "url": "https://doi.org/10.1177/13872877261509097",
+        "title": "Development and external validation of SHARP-WA: A later-life dementia risk prediction model for community-dwelling older women",
+        "authors": [
+          "Jennifer Dunne",
+          "Mario Siervo",
+          "Romola S. Bucks",
+          "Claire V. Burley",
+          "Elissa Burton",
+          "Joshua R. Lewis",
+          "Bronwyn Myers",
+          "Eduwin Pakpahan",
+          "Gavin Pereira",
+          "Tanya Petrovich",
+          "Richard L. Prince",
+          "Marc Sim",
+          "Blossom C. M. Stephan"
+        ],
+        "abstract": "Background                     Dementia is the leading cause of death among women in Australia. Sex-specific dementia risk prediction models are rare for women at highest risk (≥70 years), limiting opportunities for targeted prevention.                                                           Objective                     To develop and externally validate the Senior women's Healthy brain Ageing: Risk Prediction-Western Australia (SHARP-WA), a prognostic model, for community-dwelling older women.                                                           Methods                     Model development used 1358 women ≥ 70 years old without dementia at baseline from the Perth Longitudinal Study of Ageing Women (mean follow-up 12.2 years; 237 incident dementia events). External validation used 761 age-matched women from the English Longitudinal Study of Ageing (ELSA; mean follow-up 10.2 years; 94 incident dementia events). Predictors were selected using LASSO-penalized Cox proportional hazards regression and coefficients shrinkage-adjusted by bootstrap internal validation.                                                           Results                     The SHARP-WA model included age, education, marital status, smoking, body mass index, hand grip strength, self-reported physical activity, diabetes, and hypertension. Internal discrimination was moderate across 3, 5, and 10-year prediction horizons (time-dependent C-statistic 0.65–0.67). SHARP-WA achieved higher discrimination than an age-only model (AUC 0.68 versus 0.62 at 10 years), confirming added value from modifiable risk factors. Calibration was good at all three horizons with minimal bias. External validation in ELSA showed 10-year discrimination of 0.62 (overall C-statistic 0.60, 95% CI 0.54–0.66); recalibration-in-the-large aligned predicted and observed risk (9.0% versus 8.0%). Decision curve analysis demonstrated positive net benefit across clinically relevant thresholds.                                                           Conclusions                     SHARP-WA offers a pragmatic approach for estimating dementia risk in older women, moving beyond age-based stratification to incorporate demographic, lifestyle, and clinical risk factors relevant to dementia prevention.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-11-27",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-28",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261510774",
+        "doi": "10.1177/13872877261510774",
+        "url": "https://doi.org/10.1177/13872877261510774",
+        "title": "Mechanisms of mindfulness in early-stage Alzheimer's disease",
+        "authors": [
+          "Guneet S. Bindra",
+          "Christine LoVerde",
+          "Heera G. Kamaraj",
+          "Priya Mukhi",
+          "Grace Desmond",
+          "Brenna Hagan",
+          "Meltem Karaca",
+          "Kathy Xie",
+          "Sara W. Lazar",
+          "Andrew E. Budson",
+          "Katherine W. Turk"
+        ],
+        "abstract": "Alzheimer's disease (AD) progresses gradually across early clinical stages, during which compensatory neural mechanisms may remain responsive to behavioral intervention. Mindfulness-based interventions (MBIs) are increasingly studied in mild cognitive impairment (MCI) due to AD and mild AD dementia (early-stage AD), yet most prior reviews emphasize clinical efficacy rather than underlying mechanisms. Here, we review behavioral, neuroimaging, and electrophysiological findings in early-stage AD and propose a multi-level mechanistic model through which mindfulness may influence cognition. Across heterogeneous protocols, MBIs show modest, domain-specific benefits, most consistently in attention and recognition memory. Mechanistic data, though limited, converge on strengthened connectivity between hippocampal and posterior cingulate regions, improved coordination within large-scale attention and control networks, millisecond-scale changes in attention- and encoding-related brain responses, and reduced stress-related markers (i.e., hair cortisol and cortisone). We integrate these findings into a temporally ordered, dose-dependent model in which mindfulness practice may strengthen attention, conflict monitoring, and stress regulation, potentially enhancing communication between memory systems (related to default mode network hubs) and frontoparietal executive control networks. We propose that with sustained practice, such functional changes may contribute to downstream structural preservation in hippocampal and frontoparietal regions. Within this model, MBIs may serve as low-risk, mechanistically informed adjuncts to disease-modifying and lifestyle interventions in early-stage AD. Effects likely vary by stage, from augmenting compensatory processes in MCI to supporting everyday function in mild AD dementia. Future longitudinal trials should incorporate biomarker-confirmed diagnoses, higher practice doses, standardized cognitive outcomes, and multimodal neural assessments.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-11-27",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-28",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1186/s12877-026-08469-5",
         "doi": "10.1186/s12877-026-08469-5",
         "url": "https://doi.org/10.1186/s12877-026-08469-5",
@@ -98599,6 +99320,52 @@
         "fetched_from": "crossref"
       },
       {
+        "id": "doi:10.1177/13872877261504991",
+        "doi": "10.1177/13872877261504991",
+        "url": "https://doi.org/10.1177/13872877261504991",
+        "title": "Interleukin-1β as initiator of Alzheimer's disease neuropathogenesis: The Cytokine Hypothesis",
+        "authors": [
+          "Jagadeesh Narasimhappagari",
+          "Orwa Aboud",
+          "W. Sue T. Griffin"
+        ],
+        "abstract": "Neuroinflammation is the brain's innate immune system's response to many, if not all, neuronal stresses. Such neuronal stresses are associated with acute phase responses that include elevation of the synthesis of the neuronal membrane-spanning protein amyloid-β protein precursor (AβPP) and release of its secreted fragments (sAβPPα). In addition to other neuron sparing actions, neuronal stress and release of sAβPPα activate microglia located in cortical layers that are subject to development of the neuropathological changes of Alzheimer's disease viz extra-neuronal amyloid-β plaques and neurofibrillary tangle-laden neurons. Such microglia become enlarged and increase their expression of the pluripotent immune cytokine interleukin-1β (IL-1β). IL-1β is of particular interest as it is necessary for induction of the precursors of each of these neuropathological features that are necessary for both development of Alzheimer's disease and its neuropathological diagnosis. The role of IL-1β in development of these features includes: i) induction of amyloid-β (Aβ) plaques, via IL-1β induction of synthesis, translation, and processing of AβPP; and ii) of the neurofibrillary tangles of Alzheimer's disease and Lewy bodies of Parkinson's disease via IL-1β-induced increases in synthesis and activation of MAPK-p38, necessary for hyperphosphorylation of tau and α-synuclein. These actions offer evidence for a self-promoting cycle of IL-1β elevation, in response to neuronal insults as the driving force in a self-regenerating cycle of neuronal stress → microglial activation→ release of IL-1β → more Aβ plaques and neurofibrillary tangle bearing neurons, the two necessary neuropathological features diagnostic of Alzheimer's disease and thus The Cytokine Hypothesis.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-11-26",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-28",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/13872877261505476",
+        "doi": "10.1177/13872877261505476",
+        "url": "https://doi.org/10.1177/13872877261505476",
+        "title": "Interpreting cerebral\n                    <sup>18</sup>\n                    F-FDG hypometabolism in Alzheimer's disease: A multidomain framework for supply, transformation, demand, and clearance",
+        "authors": [
+          "Xiaojie Liu",
+          "Jiangchen Liu",
+          "Liu Feng",
+          "Dan Xu",
+          "Xianling Wei",
+          "Dekuai Tong",
+          "Jie Chen"
+        ],
+        "abstract": "Cerebral glucose hypometabolism measured by                     1                     8                     F-fluorodeoxyglucose positron emission tomography (                     1                     8                     F-FDG-PET) is a reproducible feature of Alzheimer's disease (AD), but the signal does not directly quantify mitochondrial oxidative phosphorylation or adenosine triphosphate (ATP) production. The measured                     1                     8                     F-FDG signal reflects tracer delivery, membrane transport, phosphorylation, cellular activity, and tissue composition, so reduced                     1                     8                     F-FDG uptake cannot be attributed to impaired oxidative phosphorylation alone. To organize these interacting influences, this narrative review considers four functional domains: Supply (perfusion and glucose transporter-mediated transport), Transformation (hexokinase-dependent phosphorylation and redox-sensitive metabolic regulation), Demand (synaptic activity and neuron–glia metabolic coupling), and Clearance (glymphatic exchange and interstitial solute homeostasis). This framework is used as an interpretive structure rather than as a new disease mechanism. We compare the strength of evidence across these domains and outline testable predictions for longitudinal imaging studies, experimental models, and cell-resolved analyses. The framework is illustrated using neuron–glia metabolic coupling, context-dependent metabolic adaptation, and provisional clearance-related interactions, with the AD–cancer comparison used as a contextual example rather than a mechanistic analogy. This approach may help distinguish alternative mechanisms underlying cerebral hypometabolism and inform biomarker design and translational studies.",
+        "source": "Journal of Alzheimer’s Disease",
+        "issn": "1387-2877",
+        "date": "2026-11-26",
+        "subjects": [],
+        "domains": [
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-28",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1186/s12877-026-08736-5",
         "doi": "10.1186/s12877-026-08736-5",
         "url": "https://doi.org/10.1186/s12877-026-08736-5",
@@ -98695,6 +99462,46 @@
         "fetched_from": "crossref"
       },
       {
+        "id": "doi:10.1186/s12877-026-08730-x",
+        "doi": "10.1186/s12877-026-08730-x",
+        "url": "https://doi.org/10.1186/s12877-026-08730-x",
+        "title": "The impact of decreased occlusal support on 3-year progression of carotid intima-media thickness in older adults: the SONIC study",
+        "authors": [
+          "Takayuki Kosaka",
+          "Tomoaki Mameno",
+          "Yuki Murotani",
+          "Kotaro Higashi",
+          "Shuri Fushida",
+          "Suzuna Akema",
+          "Yoshie Okada",
+          "Satoko Takeuchi",
+          "Keigo Kobayashi",
+          "Michiko Kido",
+          "Mai Kabayama",
+          "Yoshio Iwashima",
+          "Takeshi Nakagawa",
+          "Saori Yasumoto",
+          "Yukie Masui",
+          "Takumi Hirata",
+          "Yasumichi Arai",
+          "Yasuyuki Gondo",
+          "Koichi Yamamoto",
+          "Kei Kamide",
+          "Kazunori Ikebe"
+        ],
+        "abstract": "",
+        "source": "BMC Geriatrics",
+        "issn": "1471-2318",
+        "date": "2026-11-25",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-27",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1093/aje/kwag300",
         "doi": "10.1093/aje/kwag300",
         "url": "https://doi.org/10.1093/aje/kwag300",
@@ -98769,43 +99576,95 @@
         "fetched_from": "crossref"
       },
       {
-        "id": "doi:10.1186/s12877-026-08730-x",
-        "doi": "10.1186/s12877-026-08730-x",
-        "url": "https://doi.org/10.1186/s12877-026-08730-x",
-        "title": "The impact of decreased occlusal support on 3-year progression of carotid intima-media thickness in older adults: the SONIC study",
+        "id": "doi:10.1111/jgs.70856",
+        "doi": "10.1111/jgs.70856",
+        "url": "https://doi.org/10.1111/jgs.70856",
+        "title": "“Did You Read My Story?”: The Impact of My Life, My Story in the Electronic Health Record on Subsequent Patient‐Provider Interactions",
         "authors": [
-          "Takayuki Kosaka",
-          "Tomoaki Mameno",
-          "Yuki Murotani",
-          "Kotaro Higashi",
-          "Shuri Fushida",
-          "Suzuna Akema",
-          "Yoshie Okada",
-          "Satoko Takeuchi",
-          "Keigo Kobayashi",
-          "Michiko Kido",
-          "Mai Kabayama",
-          "Yoshio Iwashima",
-          "Takeshi Nakagawa",
-          "Saori Yasumoto",
-          "Yukie Masui",
-          "Takumi Hirata",
-          "Yasumichi Arai",
-          "Yasuyuki Gondo",
-          "Koichi Yamamoto",
-          "Kei Kamide",
-          "Kazunori Ikebe"
+          "Camille Marangi",
+          "Tien Nguyen",
+          "Meghna Tummala",
+          "Rochelle Rosen",
+          "Lynn McNicoll"
         ],
-        "abstract": "",
-        "source": "BMC Geriatrics",
-        "issn": "1471-2318",
+        "abstract": "ABSTRACT                                        Background                     As the U.S. population ages, integrating patients' values and life experiences into care is increasingly important. The My Life, My Story (MLMS) initiative places patient narratives into the electronic health record (EHR) to humanize care, yet little is known about how story inclusion affects later clinical interactions.                                                           Methods                     We conducted a qualitative study using semi‐structured telephone interviews with adults ≥ 65 years who completed an MLMS narrative within an academic health system (from 2023 to 2024). Of 48 individuals who met screening criteria, 12 declined participation and 26 were subsequently excluded for failure to recall their MLMS participation, inaccurate or incorrect chart information, hospitalization or death, or failure to meet cognitive/consent criteria. Ten individuals were ultimately enrolled and completed interviews (25–51 min). Transcripts were de‐identified and coded using a combined deductive‐inductive approach to identify themes regarding the influence of MLMS on communication, care experiences, and personal meaning.                                                           Results                     Three themes emerged. (1) Impact on clinical interactions: Participants whose clinicians referenced their story felt more fully known and described greater trust, validation, and connection. When stories were never mentioned, participants perceived little benefit. (2) Perceived value for others: Many believed MLMS could help providers better understand patients or support others with similar conditions, reflecting older adults' desire to contribute to and support future generations. (3) Personal significance: Sharing the story prompted reflection on values, life events, and priorities, sometimes motivating discussions about future wishes or advance care planning.                                                           Conclusions                     MLMS can enhance patient‐centered care, but its effect depends on clinician engagement with the narrative. When acknowledged, stories deepen communication and foster recognition of patients as whole persons. Integrating narrative review into routine chart preparation, team communication, and clinician training may strengthen the initiative's impact. MLMS represents a scalable narrative medicine approach that can promote empathy, continuity, and humanization of care for older adults.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
         "date": "2026-11-25",
         "subjects": [],
         "domains": [
           "elderCare",
           "agingHealth"
         ],
-        "firstSeen": "2026-11-27",
+        "firstSeen": "2026-11-28",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70854",
+        "doi": "10.1111/jgs.70854",
+        "url": "https://doi.org/10.1111/jgs.70854",
+        "title": "Bringing Disaster Preparedness Into Routine Dementia Care",
+        "authors": [
+          "Allison J. Applebaum",
+          "Leah E. Walsh",
+          "R. Sean Morrison"
+        ],
+        "abstract": "",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-11-25",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-28",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70853",
+        "doi": "10.1111/jgs.70853",
+        "url": "https://doi.org/10.1111/jgs.70853",
+        "title": "Homebound Status and Frailty Predict Adverse Consequences of Unmet Care Needs",
+        "authors": [
+          "Melissa M. Garrido",
+          "Yifan Liu",
+          "Bruce Leff",
+          "Katherine A. Ornstein"
+        ],
+        "abstract": "ABSTRACT                                        Background                     Many older adults with unmet needs for mobility or activities of daily living assistance also experience adverse consequences because of an unmet need (e.g., going without bathing). The consequences of unmet care needs may be especially impactful for individuals who rarely or never leave home (are homebound). Our aim was to identify predictors of unmet care need consequences that can be used to identify individuals who may benefit from increased monitoring or caregiving resources.                                                           Methods                     We used 2011–2019 data from the National Health and Aging Trends Study (NHATS) including 39,000 person‐wave observations (9155 unique participants). In a training dataset (80% of sample), we used L‐1 (lasso) penalized logistic regression and sequential feature selection with 50 candidate predictors to identify the strongest individual, home, social, and community predictors of unmet care need consequences. We evaluated model performance in a test dataset (20% of sample).                                                           Results                                            Of our sample, 13.7% of person‐wave observations experienced an unmet care need consequence (                       n                        = 5340). Nearly half of homebound individuals (48.4%,                       n                        = 1088) experienced an unmet care need consequence. In a model with main effects only for all variables in our full sample, the strongest predictors of a consequence of an unmet care need (absolute value of coefficient &gt; 1.3) were frailty and being homebound. Other strong predictors (absolute value of coefficient &gt; 0.5) were pre‐frailty, probable dementia, and use of a mobility device.                                                                                Conclusions                     Homebound status and frailty predict future unmet care need consequences. Providers, health systems, and payers should consider screening patients for frailty and homebound status to identify needs for additional supportive services or home modifications.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-11-25",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-28",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1111/jgs.70842",
+        "doi": "10.1111/jgs.70842",
+        "url": "https://doi.org/10.1111/jgs.70842",
+        "title": "Gabapentinoid and Opioid Prescribing Patterns Among Older Adults With Self‐Reported Activity‐Limiting Pain in the United States, 2016 to 2023",
+        "authors": [
+          "Christina Y. Yin",
+          "Katherine Gora Combs",
+          "Til Stürmer",
+          "Juan M. Hincapie‐Castillo"
+        ],
+        "abstract": "ABSTRACT                                        Background                     Activity‐limiting pain is common in older adults, for whom opioids and gabapentinoids are commonly used. It is unclear how opioid and gabapentinoid use varies by pain severity over time. We described prescribing patterns in opioid, gabapentinoid, and opioid‐gabapentinoid co‐prescribing among older adults with self‐reported activity‐limiting pain from 2016 to 2023.                                                           Methods                     We conducted a repeated cross‐sectional study using data from the Medical Expenditure Panel Survey (MEPS) from 2016 to 2023. We described prescribing patterns using survey‐weighted annual prevalence of opioid, gabapentinoid, opioid‐gabapentinoid co‐prescribing, opioid use among those receiving gabapentinoids, and gabapentinoid use among those receiving opioids.                                                           Results                     We included 20,539 older adults with activity‐limiting pain. The mean age was 74.2 (SD: 6.5) years. More female and non‐Hispanic White individuals reported activity‐limiting pain. Opioid use decreased from 2016 to 2023 among those with severe and little pain: severe, 40.3% (95% CI: 35.8%, 44.7%) to 36.7% (95% CI: 31.5%, 41.9%), and little, 16.7% (95% CI: 14.3%, 19.0%) to 10.7% (95% CI: 8.7%, 12.6%). For those with moderate pain, opioid use decreased from 2016 to 2022, then increased by 2023. Gabapentinoid use increased from 2016 to 2023: severe, 20.0% (95% CI: 16.4%, 23.6%) to 31.4% (95% CI: 25.8%, 37.1%), moderate, 10.6% (95% CI: 8.1%, 13.2%) to 16.7% (95% CI: 12.4%, 21.0%), and little, 6.4% (95% CI: 4.9%, 7.9%) to 8.2% (95% CI: 6.4%, 10.1%). Opioid‐gabapentinoid co‐prescribing was low for those with little pain and increased for those with moderate or severe pain.                                                           Conclusion                     Prescription opioid use decreased and gabapentinoid use increased for older adults with activity‐limiting pain across pain levels from 2016 to 2023. Opioid‐gabapentinoid co‐prescribing increased among older adults with moderate and severe pain. Our findings highlight the increasing use of gabapentinoids and the importance of weighing the benefits and harms of this treatment for pain management in this population.",
+        "source": "Journal of the American Geriatrics Society",
+        "issn": "0002-8614",
+        "date": "2026-11-25",
+        "subjects": [],
+        "domains": [
+          "elderCare",
+          "agingHealth"
+        ],
+        "firstSeen": "2026-11-28",
         "fetched_from": "crossref"
       },
       {
@@ -99223,6 +100082,32 @@
           "healthReform"
         ],
         "firstSeen": "2026-11-23",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1097/ede.0000000000002061",
+        "doi": "10.1097/ede.0000000000002061",
+        "url": "https://doi.org/10.1097/ede.0000000000002061",
+        "title": "When Effects Cannot be Estimated: Redefining Estimands to Understand the Effects of Naloxone Access Laws: Erratum",
+        "authors": [
+          "Kara E. Rudolph",
+          "Catherine Gimbrone",
+          "Ellicott C. Matthay",
+          "Iván Díaz",
+          "Corey S. Davis",
+          "Katherine Keyes",
+          "Magdalena Cerdá"
+        ],
+        "abstract": "",
+        "source": "Epidemiology",
+        "issn": "1044-3983",
+        "date": "2026-11-23",
+        "subjects": [],
+        "domains": [
+          "agingHealth",
+          "healthReform"
+        ],
+        "firstSeen": "2026-11-28",
         "fetched_from": "crossref"
       },
       {
@@ -139220,6 +140105,78 @@
     ],
     "socialWork": [
       {
+        "id": "doi:10.1177/14680173261509977",
+        "doi": "10.1177/14680173261509977",
+        "url": "https://doi.org/10.1177/14680173261509977",
+        "title": "Misinformation and Disinformation Strategies of the Neoliberal State in Loïc Wacquant's Theory and the Potential for Resistance Among Social Workers",
+        "authors": [
+          "Radka Janebová",
+          "Daniel Štěpánek",
+          "Miroslav Kappl"
+        ],
+        "abstract": "Summary                     This article examines the neoliberal cultural policies employed in the promotion of social reforms and the mis/disinformation strategies associated with such policies, as delineated in the work of Loïc Wacquant. The objective is to construct an analytical framework that elucidates how symbolic specialists shape public discourse, influence affective responses, and legitimise social inequalities and repressive state measures.                                                           Findings                     A systematic thematic analysis of Wacquant's books published between 2001 and 2024 identified six principal strategies: silence concerning structural problems; the politics of emotion; the ideological conditioning of populations; hierarchical categorisation; the mobilisation of the ‘decent’; and the self-affirmation of discourse. These strategies are conceptualised as constituting a cyclical process designed to shape subjectivities and foster the internalisation of neoliberal values.                                                           Applications                     The proposed model provides social workers with a framework for identifying, deconstructing, and counteracting mis/disinformation strategies that promote neoliberal social reforms. The findings suggest that resistance to neoliberal cultural policy requires a coalition of critical symbolic producers capable of constructing alternative discourses and harnessing emotions of solidarity.",
+        "source": "Journal of Social Work",
+        "issn": "1468-0173",
+        "date": "2026-11-27",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-11-28",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/10497315261501939",
+        "doi": "10.1177/10497315261501939",
+        "url": "https://doi.org/10.1177/10497315261501939",
+        "title": "A Study Protocol for a Randomized Controlled Trial of the FinSoc Intervention for Finnish Families Facing Financial Hardship",
+        "authors": [
+          "Anniina Kaittila",
+          "Tuukka Pursiainen",
+          "Meri Moisio",
+          "Siiri-Liisi Kraav",
+          "Jarno Tuominen",
+          "Tuula Kaitsaari",
+          "Enna Toikka",
+          "Henna Isoniemi",
+          "Mia Hakovirta",
+          "Anu Raijas",
+          "Katri Viitasalo"
+        ],
+        "abstract": "Purpose:                     Financial hardship affects family functioning and parental and child well-being, yet evidence on financial social work interventions remains limited. This article presents the protocol for FinSoc, a five-session financial social work intervention.                     Method:                     This Finnish mixed-methods randomized controlled trial aims to recruit 136 parents of minor children, randomized 1:1 to FinSoc plus usual services or usual services alone. Recruitment will involve well-being services counties and private family service providers. Financial behaviour, financial anxiety, economic self-efficacy, and health-related quality of life will be assessed at baseline, postintervention, and 3-month follow-up. Fidelity and formative evaluation data will be collected with self-constructed measures at the beginning and end of each session. Qualitative interviews are planned with 15 parents and 15 professionals to examine experiences, mechanisms, and implementation.                     Results:                     The trial will assess effectiveness, mechanisms, target-group suitability, and cost-effectiveness.                     Discussion:                     Findings will inform development, implementation, and scalability of financial social work interventions.",
+        "source": "Research on Social Work Practice",
+        "issn": "1049-7315",
+        "date": "2026-11-27",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-11-28",
+        "fetched_from": "crossref"
+      },
+      {
+        "id": "doi:10.1177/10497315261511167",
+        "doi": "10.1177/10497315261511167",
+        "url": "https://doi.org/10.1177/10497315261511167",
+        "title": "The Efficacy of Mindfulness-Based Programs for Parents in Chinese Societies",
+        "authors": [
+          "Qi-Rong Chen",
+          "Herman Hay-Ming Lo",
+          "Susan M. Bögels",
+          "Zoe Jiwen Zhang"
+        ],
+        "abstract": "Purpose                     This study examined the literature on mindfulness-based programs (MBPs) for parents in Chinese societies and investigated the intervention efficacy for this group.                                                           Method                     Following Preferred Reporting Items for Systematic Reviews and Meta-Analyses 2020 guidelines, a systematic review and meta-analysis of randomized controlled trials published from 2014 to 2025 was performed.                                                           Results                                            A total of 17 reports from 14 trials were included in this review. The results showed that MBPs significantly improve parents’ mindful parenting and well-being, and reduce their parenting stress, anxiety, and depression, with small to medium effect sizes (Hedges’                       g                       ranged from .22 to .53). Subgroup analysis failed to detect significant differences in effect sizes across child clinical status, delivery mode, intervention intensity, target population, program origin, and geographic region in the outcomes of interest.                                                                                Discussion                     This study revealed evidence for the efficacy of MBPs for Chinese parents among the populations represented in the included trials.",
+        "source": "Research on Social Work Practice",
+        "issn": "1049-7315",
+        "date": "2026-11-27",
+        "subjects": [],
+        "domains": [
+          "socialWork"
+        ],
+        "firstSeen": "2026-11-28",
+        "fetched_from": "crossref"
+      },
+      {
         "id": "doi:10.1007/s10896-026-01210-1",
         "doi": "10.1007/s10896-026-01210-1",
         "url": "https://doi.org/10.1007/s10896-026-01210-1",
@@ -152344,11 +153301,11 @@
     ]
   },
   "totals": {
-    "socialSecurity": 1626,
-    "elderCare": 1114,
-    "healthReform": 1661,
-    "agingHealth": 1596,
-    "socialWork": 575
+    "socialSecurity": 1627,
+    "elderCare": 1125,
+    "healthReform": 1664,
+    "agingHealth": 1615,
+    "socialWork": 578
   },
   "feeds_ok": 41
 }
